@@ -1,0 +1,20 @@
+# OS clutter
+desktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
+._*
+
+# Editor / app backups and lock files
+*~
+*.bak
+*.tmp
+~$*
+.~lock.*#
+*.xcf~
+.vscode/
+.idea/
+
+# Local notes and session scratch
+*.local.md
+scratch/
