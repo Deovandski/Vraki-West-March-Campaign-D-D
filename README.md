@@ -25,7 +25,7 @@ The Four Kingdoms were practically built for it: Forway's embassies already run 
 | Folder | What's inside |
 |---|---|
 | [World Lore](World%20Lore) | Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals |
-| [D&D Campaign](D&D%20Campaign) | DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, dangerous places, factions, stat blocks, pre-gens, DM secrets |
+| [D&D Campaign](D&D%20Campaign) | DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, the bandits' "Inside Job" offer, dangerous places, factions, stat blocks, pre-gens, DM secrets |
 | [Maps](Maps) | The travel map (circles connecting places) and links to the world maps |
 
 Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).

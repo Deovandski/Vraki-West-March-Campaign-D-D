@@ -52,6 +52,7 @@ For each time chunk, players decide:
 ###### *Ambush from bandits
 ###### *Find corpses (adventurers, other wagon, etc.)
 ###### *Broken wagon.
+###### *A bandit go-between offers a cut for helping rob the wagon ([The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)).
 ###### *Nothing.
 
 2. Rewards.  
@@ -81,6 +82,7 @@ The original metadata map with kilometers lives in the [#HusbandOutWorld repo](h
 - [Adventurers](Adventurers) — nine pre-made level 3 adventurers
 - [Stat Blocks](Stat%20Blocks) — beasts, fauna and people
 - [Events & Encounters](07%20-%20Events%20&%20Encounters.md) — event rolls and regional encounter tables
+- [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — the bandits' offer: help rob the wagon, gamble on the payout
 
 ---
 

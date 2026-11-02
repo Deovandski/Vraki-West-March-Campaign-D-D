@@ -8,6 +8,9 @@
 **Event roll (d6):** **1** = encounter (roll on the region table) · **2** = sign or omen (tracks, smoke, a rumor, a corpse — something that hints at the region table) · **3–6** = nothing (describe the scenery or food).
 Increase the chance (1–2 = encounter) in Slow-pace regions, at night, or if the party is loud, smelly (Bagarisa musk!) or carrying something valuable.
 
+## Special event: The Inside Job
+On any wagon or cargo escort, a go-between may offer the party a cut for helping the bandits rob the wagon they're guarding. Roll a d6 at departure (offer on a **1**), or swap it in for a night encounter, once per escort. Full rules: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md).
+
 ## Who's watching?
 During Graveyard, characters on watch roll Wisdom (Perception) when an encounter comes. Sleepers wake up at the start of round 2 (or round 1 if a watcher shouts). Saynas, Wozefaries and Darfaries veins help: grant advantage where it makes sense.
 
@@ -19,7 +22,7 @@ Use the region the party is crossing. Stat blocks are in [Stat Blocks](Stat%20Bl
 
 ### Forway Plains & Roads (around Forway, Long Bridge and the main roads)
 1. A Bagarisa herd blocks the road (2d4 Bagarisa) — great dinner, bad musk
-2. Blue Wozens "donation" checkpoint (1 boss + 1d4+2 bandits) — they'd rather take your balls than your life
+2. Blue Wozens "donation" checkpoint (1 boss + 1d4+2 bandits) — they'd rather take your balls than your life (escorting cargo? they may make an offer instead: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))
 3. Forway guard patrol (1d4+2 guards) asks for badges; superiority complex included
 4. A broken merchant wagon; the merchant swears it was "an accident" (ambush 50%)
 5. Night Wozens (1d3) stalk the camp
@@ -66,7 +69,7 @@ Use the region the party is crossing. Stat blocks are in [Stat Blocks](Stat%20Bl
 4. Barina frogs in a pond — toxic gas
 5. Sanbi guards fishing off duty; offer to share
 6. A Koalin in the grass (everyone feels dread)
-7. Aldemeri bandits in the ruins
+7. Aldemeri bandits in the ruins (escorting cargo? one of them comes to camp with a proposal: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))
 8. Fishers chanting the Safe Fishing Prayer — a big Sanbi is about to be landed
 9. Teefyro wandering down from Hifuna (near Tastyleaf)
 10. Zico with his journal (he's lost, and happy to see you)

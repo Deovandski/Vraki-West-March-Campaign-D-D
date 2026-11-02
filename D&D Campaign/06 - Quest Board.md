@@ -21,7 +21,7 @@ Add loot: Bagarisa meat and hides, Wood People vines and wood, chitin, rare nari
 
 ## Quest types by rank
 - **Pearl:** Soul Energy Assist, Fauna Hunting, Construction Assistance, Lighthouse Assistance, Area Surveillance (around cities), Message Spreader, Road Maintenance, Soreno pest control.
-- **Amethyst:** Cargo Protection (the Alpha wagon escort!), Beast Hunt, Bounty Hunting, Bandit Traps, Training Pearls, Area Surveillance (wild), Village Checker, Missing Person.
+- **Amethyst:** Cargo Protection (the Alpha wagon escort! Bandits may offer you a cut to look the other way: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)), Beast Hunt, Bounty Hunting, Bandit Traps, Training Pearls, Area Surveillance (wild), Village Checker, Missing Person.
 - **Aquamarine:** Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer (search parties), Archeologist Assistance, Bahyum control, Hifuna control, Black Magina shutdown.
 - **Sapphire:** Kingdom/Guild/Business Law Compliance (secret), Kingdom Alerts, Bahyum "mood maxed" sieges, deep Hifuna expeditions, anything Forway won't write down.
 

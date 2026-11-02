@@ -13,6 +13,7 @@ Track the party's (or each character's) reputation with factions from **−3 to 
 | +3 | Family; they'll risk a lot for you |
 
 ## Gaining and losing
+See [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) for how helping, reporting or double-crossing bandits on an escort changes reputation.
 +1 for a completed job or a big favor for them; −1 for hurting their interests; −2 for killing members or exposing their secrets. One step per session at most.
 
 ## Factions and what they want

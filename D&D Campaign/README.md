@@ -30,6 +30,7 @@ No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) ha
 | 07 | [Events & Encounters](07%20-%20Events%20&%20Encounters.md) | Event rolls per shift, regional encounter tables |
 | 08 | [Dangerous Places](08%20-%20Dangerous%20Places.md) | Bahyum's Castle Mood, Hifuna exposure, desert, caverns, swamps |
 | 09 | [Factions & Reputation](09%20-%20Factions%20&%20Reputation.md) | Reputation track and what factions want |
+| 10 | [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) | Random escort event: bandits offer a cut to help rob the wagon; Deal roll, Heat, patrols, debrief and punishment |
 | — | [Alpha One-Shot: Wagon Escort](Alpha%20One-Shot%20-%20Wagon%20Escort.md) | The original one-shot, updated for circle travel |
 | — | [DM Secrets](DM%20Secrets.md) | Spoilers and hidden truths. **Players, stay out.** |
 | — | [Stat Blocks](Stat%20Blocks) | Beasts, fauna, people (guards, bandits) |
