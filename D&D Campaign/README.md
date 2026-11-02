@@ -35,6 +35,7 @@ No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) ha
 | — | [DM Secrets](DM%20Secrets.md) | Spoilers and hidden truths. **Players, stay out.** |
 | — | [Stat Blocks](Stat%20Blocks) | Beasts, fauna, people (guards, bandits) |
 | — | [Adventurers](Adventurers) | Pre-generated level 3 adventurers |
+| — | [Handouts](../Handouts) | Printable props and forms: quest board, contracts, badges, wanted posters, expedition reports |
 
 ## Changes from the original Alpha campaign
 - Travel uses **circles and a pace knob** instead of distances, Egua speeds and load math.

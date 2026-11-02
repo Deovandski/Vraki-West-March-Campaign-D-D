@@ -27,6 +27,7 @@ The Four Kingdoms were practically built for it: Forway's embassies already run 
 | [World Lore](World%20Lore) | Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals |
 | [D&D Campaign](D&D%20Campaign) | DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, the bandits' "Inside Job" offer, dangerous places, factions, stat blocks, pre-gens, DM secrets |
 | [Maps](Maps) | The travel map (circles connecting places) and links to the world maps |
+| [Handouts](Handouts) | Printable props: quest board, wanted posters, Forway News, blood contract, badge cards, Winga mail, Castle Mood sign, revival debt certificate, shop price list, expedition reports and a player reference card |
 
 Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).
 DMs: start with the [DM Guide](D&D%20Campaign/README.md).
@@ -34,6 +35,10 @@ DMs: start with the [DM Guide](D&D%20Campaign/README.md).
 ### Travel without math
 
 No distances, no Egua speeds, no load percentages. The travel map has circles drawn along the routes connecting places; **each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make a journey shorter or longer.
+
+### What's AI-assisted here?
+
+The world, its lore, characters and the Vraki font are human-made by Deovandski Skibinski Junior, and all the art is by the series' illustrators, Mitsukiven and Feiourm; there are no AI-generated images. Much of the West March writing (the World Lore summary, most rules, new stat blocks and the handouts) was written with an AI assistant from that material. The [AI Disclosure](AI-DISCLOSURE.md) lists exactly what came from where, file by file.
 
 ### Want to learn more about the series?
 

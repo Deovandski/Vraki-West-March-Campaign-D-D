@@ -1,0 +1,869 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Vraki West March — Handouts &amp; Props</title>
+<style>
+@font-face { font-family: "Vraki"; src: url("assets/VrakiHusbandOutWorldSeries-Rg.ttf"); }
+@page { size: 8.5in 11in; margin: 0; }
+:root {
+  --ink: #2a2017; --ink-soft: #5a4a3a; --rule: #8b7355;
+  --red: #7a2418; --teal: #1f5463; --paper: #f7f0de; --paper-2: #efe4c8;
+  --head: "TeX Gyre Bonum", "Bookman Old Style", "Bookman", Georgia, serif;
+  --body: "TeX Gyre Pagella", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --hand: "TeX Gyre Chorus", "URW Chancery L", "Apple Chancery", "Monotype Corsiva", cursive;
+  --noise: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='260' height='260'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .42  0 0 0 0 .32  0 0 0 0 .18  0 0 0 .09 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #d9d2c3; color: var(--ink); font-family: var(--body); }
+.page {
+  width: 8.5in; height: 11in; position: relative; overflow: hidden;
+  padding: 0.5in 0.55in 0.6in; margin: 0 auto 24px;
+  background: var(--noise), radial-gradient(ellipse at 50% 45%, var(--paper) 55%, var(--paper-2) 100%);
+  page-break-after: always; break-after: page;
+}
+@media print {
+  html, body { background: none; }
+  /* The printable PDF drops the paper-grain texture: smaller file, less ink. */
+  .page { margin: 0; background: radial-gradient(ellipse at 50% 45%, #fbf7ec 60%, #f3ead4 100%); }
+}
+.foot span { white-space: nowrap; }
+.foot span:last-child { margin-left: auto; }
+.foot {
+  position: absolute; left: 0.55in; right: 0.55in; bottom: 0.25in;
+  font: 7.3pt/1.25 var(--body); color: var(--ink-soft); display: flex; flex-wrap: wrap; justify-content: space-between; column-gap: 12px;
+  border-top: 0.5px solid var(--rule); padding-top: 4px;
+}
+h1, h2, h3, h4 { font-family: var(--head); margin: 0; line-height: 1.05; }
+.vk { font-family: "Vraki"; letter-spacing: 0.08em; color: var(--ink-soft); }
+.center { text-align: center; }
+.small { font-size: 8.5pt; }
+.tiny { font-size: 7.5pt; }
+.hand { font-family: var(--hand); }
+.line { border-bottom: 0.8px solid var(--ink-soft); height: 1.35em; }
+.field { display: flex; gap: 6px; align-items: flex-end; margin: 5px 0; font-size: 10pt; }
+.field b { white-space: nowrap; font-family: var(--head); font-size: 9pt; }
+.field .line { flex: 1; }
+.ball { width: 22px; height: 22px; vertical-align: middle; }
+.rule2 { border: 0; border-top: 2px solid var(--ink); border-bottom: 0.8px solid var(--ink); height: 4px; margin: 6px 0; }
+table { border-collapse: collapse; width: 100%; }
+.title-band { text-align: center; margin-bottom: 10px; }
+.title-band h1 { font-size: 34pt; letter-spacing: 0.04em; }
+.title-band .sub { font-style: italic; font-size: 11pt; color: var(--ink-soft); margin-top: 3px; }
+.title-band .vk { font-size: 13pt; margin-top: 4px; }
+.stamp { position: absolute; opacity: 0.16; mix-blend-mode: multiply; pointer-events: none; }
+img.art { mix-blend-mode: multiply; }
+
+/* ---------- 01 quest board ---------- */
+.board { display: grid; grid-template-columns: 1fr 1fr; gap: 18px 20px; margin-top: 8px; }
+.notice {
+  position: relative; background: #fbf7ea; border: 1px solid #b9a37f; padding: 16px 14px 12px;
+  box-shadow: 2px 3px 0 rgba(90,70,40,.18); min-height: 4.05in; font-size: 10.2pt; line-height: 1.36;
+}
+.notice:nth-child(1) { transform: rotate(-1.2deg); }
+.notice:nth-child(2) { transform: rotate(0.9deg); }
+.notice:nth-child(3) { transform: rotate(0.6deg); }
+.notice:nth-child(4) { transform: rotate(-0.8deg); }
+.pin { position: absolute; top: -7px; left: 50%; width: 14px; height: 14px; margin-left: -7px; border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #e88 0, #a22 55%, #611 100%); box-shadow: 1px 2px 2px rgba(0,0,0,.3); }
+.notice .rank { display: flex; align-items: center; gap: 6px; font: bold 8.5pt var(--head); letter-spacing: .12em; color: var(--ink-soft); }
+.notice h3 { font-size: 16pt; margin: 6px 0 6px; color: var(--red); }
+.notice dl { display: grid; grid-template-columns: auto 1fr; gap: 3px 8px; margin: 10px 0 0; font-size: 9.6pt; }
+.notice dt { font: bold 8.5pt var(--head); }
+.notice dd { margin: 0; }
+.notice .sig { margin-top: 8px; font-size: 8pt; font-style: italic; color: var(--ink-soft); border-top: 0.6px dashed var(--rule); padding-top: 4px; }
+.notice .seal { position: absolute; right: 8px; bottom: 26px; width: 62px; opacity: .22; mix-blend-mode: multiply; transform: rotate(-12deg); }
+.board-rules { margin-top: 16px; font-size: 9pt; text-align: center; color: var(--ink-soft); }
+
+/* ---------- 02 blank notices / party wanted ---------- */
+.half { height: 4.5in; border: 1.4px solid var(--ink); outline: 0.6px solid var(--ink); outline-offset: 3px; padding: 14px 18px; position: relative; margin-bottom: 0.3in; background: rgba(255,252,240,.55); }
+.half h2 { font-size: 20pt; text-align: center; }
+.half .vk { text-align: center; font-size: 10pt; }
+.ranks { display: flex; justify-content: center; gap: 18px; margin: 8px 0 4px; font: 9pt var(--head); }
+.ranks span { display: flex; align-items: center; gap: 4px; }
+.ranks i { display: inline-block; width: 11px; height: 11px; border: 1px solid var(--ink); border-radius: 50%; }
+.cols2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0 18px; }
+.cut { border-top: 1px dashed #9a8a70; position: relative; margin: 0 -0.55in 0.3in; }
+.cut::after { content: "✂"; position: absolute; left: 0.3in; top: -9px; font-size: 11pt; color: #8a7a60; background: var(--paper); padding: 0 3px; }
+
+/* ---------- 03/04 wanted ---------- */
+.wanted { border: 3px double var(--ink); height: 9.5in; padding: 22px 28px; text-align: center; position: relative; background: rgba(255,250,235,.5); }
+.wanted .kicker { font: bold 16pt var(--head); letter-spacing: .3em; }
+.wanted h1 { font-size: 50pt; letter-spacing: .06em; margin: 2px 0; }
+.wanted .name { font: bold 30pt var(--head); letter-spacing: .05em; color: var(--red); margin-top: 6px; }
+.wanted .aka { font-style: italic; font-size: 13pt; margin-top: 2px; }
+.portrait { height: 3.75in; margin: 12px auto 6px; display: flex; justify-content: center; align-items: flex-end; position: relative; }
+.portrait img { height: 100%; }
+.frame { width: 3.4in; height: 3.9in; margin: 12px auto 8px; border: 1.5px solid var(--ink); outline: .6px solid var(--ink); outline-offset: 4px; display: flex; align-items: flex-end; justify-content: center; font-style: italic; color: var(--ink-soft); font-size: 9pt; padding-bottom: 6px; }
+.reward { font: bold 22pt var(--head); margin-top: 6px; }
+.reward small { display: block; font: italic 10.5pt var(--body); margin-top: 2px; }
+.wanted p { margin: 6px 40px; font-size: 10.5pt; line-height: 1.35; }
+.checks { text-align: left; columns: 2; column-gap: 24px; margin: 8px 30px; font-size: 10pt; }
+.checks div { break-inside: avoid; margin: 3px 0; }
+.checks div::before { content: ""; display: inline-block; width: 10px; height: 10px; border: 1px solid var(--ink); margin-right: 6px; vertical-align: -1px; }
+
+/* ---------- 05 news ---------- */
+.mast { text-align: center; border-bottom: 3px double var(--ink); padding-bottom: 6px; }
+.mast .top { display: flex; justify-content: space-between; font-size: 8pt; font-style: italic; }
+.mast h1 { font-size: 46pt; white-space: nowrap; letter-spacing: .05em; display: flex; justify-content: center; align-items: center; gap: 16px; }
+.mast h1 img { width: 58px; }
+.dateline { display: flex; justify-content: space-between; font: bold 8.5pt var(--head); border-bottom: 1px solid var(--ink); padding: 3px 0; letter-spacing: .06em; }
+.news { columns: 3; column-gap: 16px; column-rule: 0.6px solid var(--rule); font-size: 9.9pt; line-height: 1.36; margin-top: 8px; text-align: justify; hyphens: auto; }
+.news h2 { font-size: 17pt; text-align: left; margin: 0 0 4px; }
+.news h3 { font-size: 11.5pt; text-align: left; margin: 8px 0 3px; }
+.news p { margin: 0 0 6px; }
+.news .lead h2 { font-size: 21pt; }
+.news .box { border: 1px solid var(--ink); padding: 6px 8px; margin: 6px 0 8px; break-inside: avoid; background: rgba(255,252,240,.6); }
+.news .classified { font-size: 8.4pt; border-top: 0.6px solid var(--rule); padding-top: 3px; margin-top: 3px; }
+.news .classified b { font-family: var(--head); }
+.news img.art { width: 100%; }
+.moodbar { display: flex; gap: 3px; margin: 4px 0; }
+.moodbar span { flex: 1; text-align: center; border: 1px solid var(--ink); font: bold 9pt var(--head); padding: 1px 0; }
+.moodbar span.on { background: var(--ink); color: var(--paper); }
+
+/* ---------- 06/07 contract ---------- */
+.contract { border: 1.5px solid var(--ink); outline: .6px solid var(--ink); outline-offset: 4px; height: 9.6in; padding: 20px 26px; position: relative; font-size: 10.4pt; line-height: 1.45; }
+.contract .field { margin: 8px 0; }
+.contract .sigs .sig { height: 40px; }
+.contract h1 { font-size: 23pt; text-align: center; letter-spacing: .05em; }
+.contract .sub { text-align: center; font-style: italic; font-size: 10pt; margin: 3px 0 4px; }
+.contract ol { padding-left: 20px; margin: 6px 0; }
+.contract li { margin: 4px 0; }
+.contract .emblem { position: absolute; top: 18px; width: 64px; }
+.sigs { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 22px; margin-top: 8px; }
+.sig { display: flex; align-items: flex-end; gap: 6px; font-size: 8.5pt; }
+.sig .line { flex: 1; }
+.thumb { width: 26px; height: 32px; border: 1px dashed var(--red); border-radius: 50% 50% 45% 45%; flex: none; }
+.watermark { position: absolute; left: 50%; top: 52%; width: 4.6in; transform: translate(-50%,-50%); opacity: .07; mix-blend-mode: multiply; }
+
+/* ---------- 08 badges ---------- */
+.badges { display: grid; grid-template-columns: 3.375in 3.375in; gap: 0.13in 0.3in; justify-content: center; margin-top: 12px; }
+.badge {
+  width: 3.375in; height: 2.125in; position: relative; border-radius: 6px; padding: 14px 20px 10px;
+  background: repeating-linear-gradient(90deg, rgba(40,90,50,.06) 0 2px, transparent 2px 7px), linear-gradient(160deg, #e2efdc, #c9e0c4);
+  border: 1.2px solid #3d6b45; font-size: 8pt; color: #1f3324;
+}
+.badge img.c { position: absolute; width: 22px; height: 22px; }
+.badge img.tl { top: -7px; left: -7px; } .badge img.tr { top: -7px; right: -7px; }
+.badge img.bl { bottom: -7px; left: -7px; } .badge img.br { bottom: -7px; right: -7px; }
+.badge .bh { display: flex; justify-content: space-between; align-items: center; font: bold 8pt var(--head); letter-spacing: .14em; color: #2c4d33; }
+.badge .bh img { width: 26px; opacity: .8; }
+.badge .field { margin: 3px 0; font-size: 8pt; }
+.badge .field b { font-size: 7.5pt; }
+.badge .line { border-color: #3d6b45; height: 1.2em; }
+.sp { display: flex; align-items: center; gap: 4px; margin-top: 5px; font: bold 7.5pt var(--head); }
+.sp i { width: 11px; height: 11px; border: 1px solid #2c4d33; border-radius: 50%; display: inline-block; }
+.badge .fine { position: absolute; bottom: 5px; left: 20px; right: 20px; font-size: 6pt; font-style: italic; text-align: center; color: #3d5a42; }
+.badge .stripe { position: absolute; left: 0; right: 0; top: 76%; height: 3px; background: linear-gradient(90deg, transparent, rgba(150,30,30,.35) 15%, rgba(150,30,30,.35) 85%, transparent); }
+
+/* ---------- 09 postcards ---------- */
+.postcard { width: 7.4in; height: 4.2in; margin: 0 auto; border: 1px solid var(--ink-soft); display: grid; grid-template-columns: 1.15fr 1fr; position: relative; background: rgba(255,252,242,.6); }
+.postcard + .cut { margin-top: 0.3in; }
+.postcard .msg { padding: 14px 16px; border-right: 1px solid var(--rule); position: relative; }
+.postcard .msg h3 { font-size: 16pt; }
+.postcard .msg .vk { font-size: 9pt; }
+.postcard .msg .lines .line { height: 1.9em; }
+.postcard .addr { padding: 14px 16px; position: relative; }
+.postbox { position: absolute; top: 12px; right: 12px; width: 0.95in; height: 1.1in; border: 1px dashed var(--ink-soft); text-align: center; font: bold 8pt var(--head); padding-top: 6px; }
+.postbox img { width: 34px; display: block; margin: 4px auto 2px; }
+.postcard img.winga { position: absolute; bottom: 8px; right: 12px; height: 1.35in; opacity: .9; }
+.postcard .addr .field { width: 100%; }
+
+/* ---------- 10 castle mood ---------- */
+.moodsign { border: 4px solid var(--ink); outline: 1px solid var(--ink); outline-offset: 5px; height: 9.55in; padding: 18px 26px; position: relative; text-align: center; }
+.moodsign h1 { font-size: 46pt; letter-spacing: .04em; }
+.moodsign .kicker { font: bold 13pt var(--head); letter-spacing: .3em; }
+.moodrows { margin-top: 12px; text-align: left; }
+.moodrow { display: grid; grid-template-columns: 0.75in 1.6in 1fr; align-items: center; border-top: 1px solid var(--ink); min-height: 0.86in; }
+.moodrow:last-child { border-bottom: 1px solid var(--ink); }
+.moodrow .n { font: bold 34pt var(--head); text-align: center; }
+.moodrow .nm { font: bold 17pt var(--head); }
+.moodrow .tx { font-size: 11pt; line-height: 1.3; padding: 4px 0; }
+.moodrow.rampage { background: rgba(122,36,24,.09); }
+.moodhead { display: grid; grid-template-columns: 1.5in 1fr 1.5in; align-items: center; }
+.moodhead img { height: 2.1in; justify-self: center; }
+.marker { display: inline-flex; align-items: center; gap: 8px; border: 1px dashed var(--ink-soft); padding: 6px 12px; margin-top: 12px; font: bold 10pt var(--head); }
+.marker .arrow { font-size: 22pt; line-height: 1; }
+
+/* ---------- 11 revival ---------- */
+.cert { border: 2px solid var(--teal); outline: .6px solid var(--teal); outline-offset: 5px; height: 9.6in; padding: 22px 28px; position: relative; font-size: 10pt; line-height: 1.4; }
+.cert h1 { text-align: center; font-size: 25pt; color: var(--teal); letter-spacing: .04em; }
+.cert .sub { text-align: center; font-style: italic; margin: 2px 0 8px; }
+.ledger th, .ledger td { border: 0.8px solid var(--ink-soft); padding: 3px 5px; font-size: 9pt; height: 22px; }
+.ledger th { font-family: var(--head); background: rgba(31,84,99,.08); }
+.terms { margin: 6px 0; padding-left: 18px; }
+.terms li { margin: 3px 0; }
+
+/* ---------- 12 shop ---------- */
+.shop h1 { font-size: 27pt; text-align: center; }
+.shop .sub { text-align: center; font-style: italic; font-size: 10pt; color: var(--ink-soft); margin-bottom: 6px; }
+.shopcols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 18px; }
+.price { width: 100%; font-size: 8.6pt; line-height: 1.22; }
+.price th { text-align: left; font: bold 10.5pt var(--head); border-bottom: 1.4px solid var(--ink); padding: 6px 0 2px; }
+.price td { padding: 1.6px 0; border-bottom: 0.4px dotted var(--rule); vertical-align: top; }
+.price td.p { text-align: right; white-space: nowrap; padding-left: 6px; font-weight: bold; }
+.price td i { color: var(--ink-soft); font-size: 7.8pt; }
+.shopnote { font-size: 8.3pt; margin-top: 6px; border: 0.8px solid var(--ink-soft); padding: 5px 8px; line-height: 1.3; background: rgba(255,252,240,.6); }
+
+/* ---------- 13 bandit note + smoke ---------- */
+.scrap {
+  width: 5.6in; margin: 0.15in auto 0; padding: 26px 30px 22px; position: relative; transform: rotate(-2deg);
+  background: linear-gradient(115deg, rgba(0,0,0,.035) 0 12%, transparent 12% 38%, rgba(0,0,0,.04) 38% 39%, transparent 39% 71%, rgba(0,0,0,.035) 71% 72%, transparent 72%), linear-gradient(20deg, #efe3c3, #f5ecd2 60%, #e8d9b4);
+  box-shadow: 3px 4px 0 rgba(80,60,30,.15);
+  clip-path: polygon(0 2%, 7% 0, 18% 1.5%, 33% 0, 51% 1%, 68% 0, 84% 1.4%, 100% 0, 99% 22%, 100% 47%, 98.6% 73%, 100% 100%, 82% 98.5%, 63% 100%, 44% 98.6%, 26% 100%, 9% 98.7%, 0 100%, 1.2% 74%, 0 49%, 1.4% 24%);
+}
+.scrap .hand { font-size: 17.5pt; line-height: 1.28; color: #2c2216; }
+.scrap .burn { position: absolute; right: -10px; bottom: -14px; width: 90px; height: 70px; background: radial-gradient(ellipse at 70% 70%, rgba(60,30,10,.55), rgba(110,60,20,.25) 45%, transparent 70%); }
+.smoke { border: 1.5px solid var(--ink); outline: .6px solid var(--ink); outline-offset: 3px; margin-top: 0.55in; padding: 14px 20px; }
+.smoke h2 { text-align: center; font-size: 19pt; }
+.puffs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 12px 0 8px; text-align: center; }
+.puff { width: 74px; height: 56px; margin: 0 auto 4px; border-radius: 50%; position: relative; }
+.puff::before, .puff::after { content: ""; position: absolute; border-radius: 50%; background: inherit; }
+.puff::before { width: 46px; height: 40px; left: -12px; top: 18px; }
+.puff::after { width: 50px; height: 44px; right: -14px; top: 14px; }
+.puff.red { background: #e6a39a; } .puff.cyan { background: #9fdbe4; } .puff.green { background: #a9d6a0; } .puff.yellow { background: #f0dc8a; }
+.puffs b { font: bold 13pt var(--head); display: block; margin-top: 14px; }
+.puffs span { font-size: 10pt; }
+
+/* ---------- 14 expedition report ---------- */
+.report h1 { font-size: 26pt; text-align: center; }
+.report .sub { text-align: center; font-style: italic; font-size: 9.5pt; color: var(--ink-soft); }
+.box2 { border: 1px solid var(--ink-soft); padding: 5px 9px 7px; margin-top: 8px; position: relative; }
+.box2 > h4 { font-size: 9.5pt; letter-spacing: .08em; margin-bottom: 2px; }
+.box2 .line { height: 1.85em; }
+.party th, .party td { border-bottom: 0.7px solid var(--ink-soft); font-size: 8.6pt; height: 25px; text-align: left; padding: 0 4px; }
+.party th { font-family: var(--head); }
+.circles { display: flex; flex-wrap: wrap; gap: 5px; margin: 4px 0; }
+.circles i { width: 17px; height: 17px; border: 1.1px solid var(--ink); border-radius: 50%; display: inline-block; }
+.pace { display: inline-flex; gap: 10px; font-size: 9pt; margin-left: 8px; }
+.pace span::before { content: ""; display: inline-block; width: 9px; height: 9px; border: 1px solid var(--ink); margin-right: 4px; }
+
+/* ---------- 15 reference ---------- */
+.ref h1 { font-size: 26pt; text-align: center; }
+.ref .sub { text-align: center; font-style: italic; font-size: 9.5pt; color: var(--ink-soft); margin-bottom: 4px; }
+.refgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 16px; font-size: 9.7pt; line-height: 1.38; margin-top: 6px; }
+.refbox { border: 1px solid var(--ink-soft); padding: 6px 10px 8px; background: rgba(255,252,240,.55); }
+.refbox h3 { font-size: 11.5pt; border-bottom: 1px solid var(--ink); padding-bottom: 2px; margin-bottom: 4px; }
+.refbox table td, .refbox table th { padding: 2px 3px; border-bottom: .4px dotted var(--rule); font-size: 9.2pt; text-align: left; }
+.refbox table th { font-family: var(--head); }
+.money { display: flex; align-items: center; justify-content: space-between; gap: 4px; margin: 4px 0; font: bold 9.5pt var(--head); }
+.money span { display: flex; align-items: center; gap: 3px; }
+.money img { width: 26px; }
+.big { font: bold 11pt var(--head); text-align: center; border: 1px solid var(--ink); padding: 4px; margin: 4px 0; }
+</style>
+</head>
+<body>
+
+<!-- ===================================================== 01 QUEST BOARD -->
+<section class="page" id="h01">
+  <div class="title-band">
+    <h1>QUEST BOARD</h1>
+    <div class="sub">Local Warnings · Forway Embassy, Floor 1 · New quests read aloud at Monnalow</div>
+    <div class="vk">QUEST BOARD</div>
+  </div>
+  <hr class="rule2">
+  <div class="board">
+    <div class="notice"><div class="pin"></div>
+      <div class="rank"><img class="ball" src="assets/pearl.png" alt="">PEARL QUEST · PEST CONTROL</div>
+      <h3>Soreno Scourge</h3>
+      Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.
+      <dl>
+        <dt>Reward</dt><dd>30 pearls + all the Soreno you can eat (please don't)</dd>
+        <dt>Deadline</dt><dd>5 days from signing</dd>
+        <dt>Proof</dt><dd>Silo keeper's signed receipt</dd>
+        <dt>Rank</dt><dd>Pearl and up</dd>
+      </dl>
+      <img class="seal" src="assets/forway-stamp.png" alt="">
+      <div class="sig">Sign in blood at the counter. Failure penalty: 10% of reward.</div>
+    </div>
+    <div class="notice"><div class="pin"></div>
+      <div class="rank"><img class="ball" src="assets/amethyst.png" alt="">AMETHYST QUEST · CARGO PROTECTION</div>
+      <h3>Wagon to Sanbi</h3>
+      Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens "tax" this road; the merchant would prefer not to donate. Cargo details are given at signing.
+      <dl>
+        <dt>Reward</dt><dd>5 amethysts per party, paid on delivery</dd>
+        <dt>Deadline</dt><dd>Round trip + 50%, set by the clerk</dd>
+        <dt>Proof</dt><dd>Delivery receipt sealed by the Sanbi embassy</dd>
+        <dt>Rank</dt><dd>Amethyst (or a Pearl party led by one)</dd>
+      </dl>
+      <img class="seal" src="assets/forway-stamp.png" alt="">
+      <div class="sig">Contract signed in blood. Nullification clauses on the back.</div>
+    </div>
+    <div class="notice"><div class="pin"></div>
+      <div class="rank"><img class="ball" src="assets/aquamarine.png" alt="">AQUAMARINE QUEST · BAHYUM CONTROL</div>
+      <h3>Bahyum: Mood Rising</h3>
+      Bahyum village reports Today's Castle Mood at <b>5 (Furious)</b>. Thin the undead before it reaches 6 and a Kingdom Alert is called. Bring nari stones; the fog drinks souls.
+      <dl>
+        <dt>Reward</dt><dd>4 aquamarines</dd>
+        <dt>Deadline</dt><dd>Before the mood reaches 6</dd>
+        <dt>Proof</dt><dd>Mood sign at 4 or lower, signed by the village watch</dd>
+        <dt>Rank</dt><dd>Aquamarine</dd>
+      </dl>
+      <img class="seal" src="assets/forway-stamp.png" alt="">
+      <div class="sig">Revival is guaranteed for bodies returned within the window. Ice them.</div>
+    </div>
+    <div class="notice"><div class="pin"></div>
+      <div class="rank"><img class="ball" src="assets/amethyst.png" alt="">AMETHYST QUEST · BOUNTY</div>
+      <h3>The Bagarisa Brothers' Recruiter</h3>
+      A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to "punish bandits" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.
+      <dl>
+        <dt>Reward</dt><dd>1 aquamarine</dd>
+        <dt>Deadline</dt><dd>None, until someone claims it</dd>
+        <dt>Proof</dt><dd>The man himself, breathing</dd>
+        <dt>Rank</dt><dd>Amethyst</dd>
+      </dl>
+      <img class="seal" src="assets/forway-stamp.png" alt="">
+      <div class="sig">Vigilantes are criminals. So are adventurers who become them.</div>
+    </div>
+  </div>
+  <div class="board-rules">Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst</div>
+  <div class="foot"><span>Vraki West March · Handout 01 · Quest Board</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 02 BLANK QUEST NOTICES -->
+<section class="page" id="h02">
+  <div class="half">
+    <h2>LOCAL WARNING · QUEST NOTICE</h2>
+    <div class="vk">QUEST</div>
+    <div class="ranks"><span><i></i><img class="ball" src="assets/pearl.png" alt="">Pearl</span><span><i></i><img class="ball" src="assets/amethyst.png" alt="">Amethyst</span><span><i></i><img class="ball" src="assets/aquamarine.png" alt="">Aquamarine</span><span><i></i><img class="ball" src="assets/sapphire.png" alt="">Sapphire</span></div>
+    <div class="field"><b>Quest</b><div class="line"></div><b>Type</b><div class="line" style="max-width:1.6in"></div></div>
+    <div class="field"><b>Posted by</b><div class="line"></div><b>Embassy</b><div class="line" style="max-width:1.6in"></div></div>
+    <div class="field"><b>Details</b><div class="line"></div></div>
+    <div class="line"></div><div class="line"></div><div class="line"></div>
+    <div class="cols2">
+      <div class="field"><b>Reward</b><div class="line"></div></div>
+      <div class="field"><b>Deadline</b><div class="line"></div></div>
+      <div class="field"><b>Proof</b><div class="line"></div></div>
+      <div class="field"><b>Posted on</b><div class="line"></div></div>
+    </div>
+    <div class="small" style="margin-top:8px;font-style:italic;color:var(--ink-soft)">Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.</div>
+    <img class="stamp" src="assets/forway-stamp.png" style="right:18px;bottom:14px;width:78px" alt="">
+  </div>
+  <div class="cut"></div>
+  <div class="half">
+    <h2>LOCAL WARNING · QUEST NOTICE</h2>
+    <div class="vk">QUEST</div>
+    <div class="ranks"><span><i></i><img class="ball" src="assets/pearl.png" alt="">Pearl</span><span><i></i><img class="ball" src="assets/amethyst.png" alt="">Amethyst</span><span><i></i><img class="ball" src="assets/aquamarine.png" alt="">Aquamarine</span><span><i></i><img class="ball" src="assets/sapphire.png" alt="">Sapphire</span></div>
+    <div class="field"><b>Quest</b><div class="line"></div><b>Type</b><div class="line" style="max-width:1.6in"></div></div>
+    <div class="field"><b>Posted by</b><div class="line"></div><b>Embassy</b><div class="line" style="max-width:1.6in"></div></div>
+    <div class="field"><b>Details</b><div class="line"></div></div>
+    <div class="line"></div><div class="line"></div><div class="line"></div>
+    <div class="cols2">
+      <div class="field"><b>Reward</b><div class="line"></div></div>
+      <div class="field"><b>Deadline</b><div class="line"></div></div>
+      <div class="field"><b>Proof</b><div class="line"></div></div>
+      <div class="field"><b>Posted on</b><div class="line"></div></div>
+    </div>
+    <div class="small" style="margin-top:8px;font-style:italic;color:var(--ink-soft)">Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.</div>
+    <img class="stamp" src="assets/forway-stamp.png" style="right:18px;bottom:14px;width:78px" alt="">
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 02 · Blank Quest Notices</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 03 WANTED KOZAKU -->
+<section class="page" id="h03">
+  <div class="wanted">
+    <div class="kicker">INFORMATION WANTED</div>
+    <h1>HAVE YOU SEEN<br>THIS MAN?</h1>
+    <div class="vk" style="font-size:12pt">KOZAKU FORWAY</div>
+    <div class="portrait"><img class="art" src="assets/kozaku.png" alt="Kozaku Forway"></div>
+    <div class="name">KOZAKU FORWAY</div>
+    <div class="aka">Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago</div>
+    <p>If you've traveled between Forway and Sanbi, you've probably "donated" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.</p>
+    <div class="reward">UP TO 5 SAPPHIRES<small>for confirmed information on his whereabouts, paid by any Forway embassy</small></div>
+    <p class="small" style="font-style:italic">Do not approach. Walking Heart carriers cannot be revived, and neither, usually, can the people who find them.</p>
+    <img class="stamp" src="assets/forway-stamp.png" style="right:26px;bottom:24px;width:100px;transform:rotate(14deg)" alt="">
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 03 · Wanted: Kozaku Forway</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 04 WANTED BLANK -->
+<section class="page" id="h04">
+  <div class="wanted">
+    <div class="kicker">BY ORDER OF FORWAY LAW</div>
+    <h1>WANTED</h1>
+    <div class="vk" style="font-size:12pt">WANTED</div>
+    <div class="frame">draw the criminal here</div>
+    <div class="field" style="margin:4px 30px"><b>Name · Place · Guild</b><div class="line"></div></div>
+    <div class="field" style="margin:4px 30px"><b>Badge rank</b><div class="line"></div><b>Last seen</b><div class="line"></div></div>
+    <div class="checks">
+      <div>Breach of contract</div>
+      <div>Robbing contracted cargo</div>
+      <div>Fleeing revival debt</div>
+      <div>Misuse of official signal colors</div>
+      <div>Harm without consent</div>
+      <div>Murder</div>
+      <div>Conspiracy against Forway</div>
+      <div>Other: ______________</div>
+    </div>
+    <div class="reward" style="margin-top:4px">REWARD: ____________<small>□ alive only · □ alive or dead · bounty quest posted at the ________________ embassy</small></div>
+    <p class="small" style="font-style:italic;margin-top:8px">Any adventurer may take this job. Hiding a wanted criminal is itself a crime.</p>
+    <img class="stamp" src="assets/forway-stamp.png" style="right:26px;bottom:24px;width:100px;transform:rotate(14deg)" alt="">
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 04 · Blank Wanted Poster</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 05 FORWAY NEWS -->
+<section class="page" id="h05">
+  <div class="mast">
+    <div class="top"><span>Weekly printout · read aloud at Monnalow</span><span>General posts: 1 pearl · Local warnings: 1 amethyst</span></div>
+    <h1><img src="assets/forway-emblem.png" alt="">FORWAY NEWS<img src="assets/forway-emblem.png" alt=""></h1>
+    <div class="vk" style="font-size:10pt">FORWAY NEWS</div>
+  </div>
+  <div class="dateline"><span>FREEDAY, MOACIR 12TH, 1042 A.G.</span><span>PRINTED AT THE FORWAY EMBASSY</span><span>SAMPLE ISSUE</span></div>
+  <div class="news">
+    <div class="lead">
+      <h2>Wagon Vanishes on the Sanbi Road</h2>
+      <p><b>Merchants ask: were the guards in on it?</b> A merchant wagon bound for Sanbi was found empty two days short of the Long Bridge. Its contracted adventurers reported to the Sanbi embassy that they were "overwhelmed by bandits." The merchant, who arrived the next day with a black eye, tells a different story.</p>
+      <p>The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. "Adventurers on the Sanbi road are in on it," said one, who did not wish to be named.</p>
+    </div>
+    <div class="box">
+      <h3 style="margin-top:0">Today's Castle Mood · Bahyum</h3>
+      <div class="moodbar"><span>1</span><span>2</span><span>3</span><span class="on">4</span><span>5</span><span>6</span></div>
+      <div class="small"><b>ANGRY.</b> Walking Skin packs raiding farms near Bahyum. Bar your doors. An Aquamarine quest goes up if it reaches 5.</div>
+    </div>
+    <h3>Homeegg: Sanbi Wins Again</h3>
+    <p>Princess Maiara's team took the finals for another year, carrying the ball to the nest on their third chance. The other four teams are reportedly "considering their options," which in Homeegg means buying better gels.</p>
+    <h3>Courier Wingas Shot Down</h3>
+    <p>Three courier Wingas have been shot down on the Waterfall route since Freeday last. Killing a Winga is a crime. Letters were missing from all three. An Amethyst quest is posted.</p>
+    <img class="art" src="assets/winga-blue.png" alt="" style="width:55%;display:block;margin:0 auto 4px">
+    <h3>From the Embassy</h3>
+    <p><b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i></p>
+    <p><b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.</p>
+    <div class="box">
+      <h3 style="margin-top:0">Heard in the Lounge</h3>
+      <p class="small" style="margin:0">· Poachers swear they saw a <b>living Fuhraies</b>.<br>· A gore-soaked figure in insect armor, <b>"The Stinger,"</b> was seen near a road again. Forway is curious, not hostile.<br>· A <b>new room</b> appeared in Bahyum Castle.<br>· Someone is selling <b>Walking Hearts</b> again.<br>· This year's <b>Black Magina</b> field is "somewhere warm."<br>· A Teefyro exploded near Tastyleaf and <b>left something</b> in the crater.</p>
+    </div>
+    <h3>Classifieds <span class="tiny">(1 pearl per post)</span></h3>
+    <div class="classified"><b>LOST:</b> courier Winga, blue, answers to "Feathers." Do not eat. Reward 5 pearls.</div>
+    <div class="classified"><b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.</div>
+    <div class="classified"><b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).</div>
+    <div class="classified"><b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.</div>
+    <div class="classified"><b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.</div>
+    <div class="classified"><b>NOTICE:</b> the Long Bridge road "toll" is not legal. Report it; do not punish it.</div>
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 05 · Forway News (sample issue)</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 06 CONTRACT FRONT -->
+<section class="page" id="h06">
+  <div class="contract">
+    <img class="emblem" src="assets/forway-emblem.png" style="left:22px" alt="">
+    <img class="emblem" src="assets/forway-emblem.png" style="right:22px" alt="">
+    <h1>CONTRACT OF<br>CARGO PROTECTION</h1>
+    <div class="sub">Under the Prosperity Treaty · witnessed at the ______________ Embassy</div>
+    <img class="watermark" src="assets/forway-logo-black.png" alt="">
+    <div class="field"><b>The Poster</b><div class="line"></div><b>Badge no.</b><div class="line" style="max-width:1.3in"></div></div>
+    <div class="field"><b>Cargo</b><div class="line"></div><b>Declared value</b><div class="line" style="max-width:1.3in"></div></div>
+    <div class="field"><b>From</b><div class="line"></div><b>To</b><div class="line"></div><b>Circles</b><div class="line" style="max-width:.6in"></div></div>
+    <div class="field"><b>Reward</b><div class="line"></div><b>Deadline</b><div class="line"></div></div>
+    <ol>
+      <li>The <b>Contracted Adventurers</b> below agree to protect the cargo, wagon, Eguas and passengers from the place of origin to the destination, and to deliver the cargo <b>intact</b>.</li>
+      <li>The <b>reward</b> is paid at the destination embassy on presentation of a delivery receipt sealed by that embassy. Revival debt owed to Forway is deducted first.</li>
+      <li>The <b>deadline</b> is the round trip plus half again. If the Contracted Adventurers are not back at an embassy by then, a search party is sent at their expense, and quest credit goes to the search party.</li>
+      <li>Failing the quest, or missing the deadline without good reason, costs a <b>penalty of 10% of the reward</b>.</li>
+      <li>Goods recovered from bandits are surrendered to Forway for investigation.</li>
+      <li>Harm done to the cargo, passengers or Eguas <b>by the Contracted Adventurers</b> is a breach of contract and a crime under Forway Law.</li>
+      <li>This contract can only be nullified by the clauses written on its back.</li>
+    </ol>
+    <div class="small" style="font-style:italic;margin:4px 0 2px">Signed in blood mixed with nari. To verify, press the signer's badge to the signature: the thumb spot lights up if it matches.</div>
+    <div class="sigs">
+      <div class="sig"><div class="thumb"></div><div class="line"></div></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div></div>
+    </div>
+    <div class="sigs" style="margin-top:12px">
+      <div class="sig"><div class="thumb"></div><div class="line"></div><span>Poster</span></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div><span>Embassy witness</span></div>
+    </div>
+    <img class="stamp" src="assets/forway-stamp.png" style="right:30px;bottom:26px;width:84px;transform:rotate(-10deg)" alt="">
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 06 · Cargo Protection Contract (front)</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 07 CONTRACT BACK -->
+<section class="page" id="h07">
+  <div class="contract">
+    <h1>NULLIFICATION CLAUSES</h1>
+    <div class="sub">Required by Forway Law on the back of every contract</div>
+    <img class="watermark" src="assets/forway-logo-black.png" alt="">
+    <p>This contract is <b>void</b>, with no penalty to either party, if:</p>
+    <ol>
+      <li>The cargo turns out to be <b>banned or undeclared</b> (banned nari gels, Walking Heart stones, Koalin parts, stolen goods). The Poster then owes the Contracted Adventurers the full reward and answers to Forway Law.</li>
+      <li>The Poster <b>lied about the danger</b> of the route or the value of the cargo.</li>
+      <li>A <b>Kingdom Alert</b> or an <b>Emergency</b> is called along the route. The deadline is suspended until it ends.</li>
+      <li>The route becomes impassable by the judgment of the nearest embassy (a Bahyum Rampage, a flooded Long Bridge, a Sand Worm season).</li>
+      <li>The Poster dies or abandons the cargo. Delivering it anyway earns half the reward from the destination embassy.</li>
+      <li>Every Contracted Adventurer is declared <b>Soul Dead</b>.</li>
+      <li>Both parties agree, in front of an embassy witness, and both sign below.</li>
+    </ol>
+    <div class="box2" style="background:rgba(122,36,24,.05);border-color:var(--red)">
+      <h4 style="color:var(--red)">THIS CONTRACT IS NOT NULLIFIED BY</h4>
+      Bandits · weather · cranky Eguas · getting lost · "we were overwhelmed" · a better offer from someone on the road · the Contracted Adventurers' revival debt · the Poster's personality.
+    </div>
+    <div class="sigs" style="margin-top:20px">
+      <div class="sig"><div class="thumb"></div><div class="line"></div><span>Poster</span></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div><span>Adventurers' speaker</span></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div><span>Embassy witness</span></div>
+      <div class="sig"><span>Date</span><div class="line"></div></div>
+    </div>
+    <div class="box2" style="margin-top:22px">
+      <h4>DELIVERY RECEIPT (destination embassy)</h4>
+      <div class="field"><b>Cargo delivered</b><span>□ intact &nbsp; □ damaged &nbsp; □ partial &nbsp; □ not delivered</span></div>
+      <div class="field"><b>Received by</b><div class="line"></div><b>Date</b><div class="line" style="max-width:1.5in"></div></div>
+      <div class="field"><b>Reward paid</b><div class="line"></div><b>Debt deducted</b><div class="line" style="max-width:1.5in"></div></div>
+      <div style="height:70px"></div>
+      <img class="stamp" src="assets/forway-stamp.png" style="left:46%;bottom:6px;width:70px;opacity:.12" alt="">
+    </div>
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 07 · Cargo Protection Contract (back)</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 08 BADGES -->
+<section class="page" id="h08">
+  <div class="title-band" style="margin-bottom:2px">
+    <h1 style="font-size:26pt">EMBASSY BADGES</h1>
+    <div class="sub">Cut out one per adventurer. The badge shows Soul Points to its bearer alone: pencil them in.<br>Max SP = proficiency bonus + Con modifier (min. 1) · +1 SP per long rest · replacement: 1 amethyst (plus questions)</div>
+  </div>
+  <div class="badges">
+    <!-- generated: 2 per rank -->
+    <div class="badge" data-rank="pearl"></div><div class="badge" data-rank="pearl"></div>
+    <div class="badge" data-rank="amethyst"></div><div class="badge" data-rank="amethyst"></div>
+    <div class="badge" data-rank="aquamarine"></div><div class="badge" data-rank="aquamarine"></div>
+    <div class="badge" data-rank="sapphire"></div><div class="badge" data-rank="sapphire"></div>
+  </div>
+  
+  <div class="foot"><span>Vraki West March · Handout 08 · Badge Cards</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 09 WINGA MAIL -->
+<section class="page" id="h09">
+  <div class="title-band" style="margin-bottom:8px"><h1 style="font-size:24pt">WINGA MAIL POSTCARDS</h1><div class="sub">For letters home, warnings ahead, and double-crosses. Cut along the dashed lines.</div></div>
+  <div class="postcard" data-post></div>
+  <div class="cut" style="margin-top:0.3in"></div>
+  <div class="postcard" data-post></div>
+  <div class="foot"><span>Vraki West March · Handout 09 · Winga Mail Postcards</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 10 CASTLE MOOD -->
+<section class="page" id="h10">
+  <div class="moodsign">
+    <div class="kicker">BAHYUM VILLAGE · POSTED EVERY MORNING</div>
+    <div class="moodhead">
+      <img class="art" src="assets/flathead.png" alt="Walking Flathead">
+      <div><h1>TODAY'S<br>CASTLE<br>MOOD</h1><div class="vk" style="font-size:12pt;margin-top:4px">CASTLE MOOD</div></div>
+      <img class="art" src="assets/flathead.png" alt="" style="transform:scaleX(-1)">
+    </div>
+    <div class="moodrows">
+      <div class="moodrow"><div class="n">1</div><div class="nm">Sleepy</div><div class="tx">Quiet. The doors stand open. Historians, this is your day.</div></div>
+      <div class="moodrow"><div class="n">2</div><div class="nm">Grumpy</div><div class="tx">Quiet outside. Walking Skin patrol the halls.</div></div>
+      <div class="moodrow"><div class="n">3</div><div class="nm">Restless</div><div class="tx">Stragglers on the plains. Travel in groups.</div></div>
+      <div class="moodrow"><div class="n">4</div><div class="nm">Angry</div><div class="tx">Walking Skin packs raiding nearby farms. Bar your doors. Something big is awake.</div></div>
+      <div class="moodrow"><div class="n">5</div><div class="nm">Furious</div><div class="tx">Stay indoors. The fog drinks souls. An Aquamarine quest is posted at the embassy.</div></div>
+      <div class="moodrow rampage"><div class="n">6</div><div class="nm">RAMPAGE</div><div class="tx"><b>KINGDOM ALERT.</b> Waves of undead led by five commanders. All adventurers report. Everyone else: run.</div></div>
+    </div>
+    <div class="marker"><span class="arrow">◀</span> cut out this marker, or use a paperclip: <i>today's mood</i></div>
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 10 · Today's Castle Mood</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 11 REVIVAL DEBT -->
+<section class="page" id="h11">
+  <div class="cert">
+    <img class="emblem" src="assets/forway-emblem.png" style="position:absolute;left:22px;top:18px;width:60px" alt="">
+    <img class="emblem" src="assets/forway-emblem.png" style="position:absolute;right:22px;top:18px;width:60px" alt="">
+    <h1>CERTIFICATE OF REVIVAL<br>&amp; DEBT ACKNOWLEDGMENT</h1>
+    <div class="sub">Welcome back. Forway is glad you're alive. Forway would like to discuss the bill.</div>
+    <img class="watermark" src="assets/forway-logo-black.png" alt="">
+    <div class="field"><b>Name · Place · Guild</b><div class="line"></div></div>
+    <div class="field"><b>Badge no.</b><div class="line"></div><b>Rank</b><div class="line"></div><b>Level</b><div class="line" style="max-width:.6in"></div></div>
+    <div class="field"><b>Date of death</b><div class="line"></div><b>Body arrived</b><div class="line"></div></div>
+    <div class="field"><b>Revived at the</b><div class="line"></div><b>Embassy</b></div>
+    <div class="field"><b>Revival window</b><span>3 days + 1 per level = ______ days &nbsp; □ body was iced (window doubled)</span></div>
+    <div class="field"><b>Brought in by</b><div class="line"></div></div>
+    <div class="big" style="margin-top:10px">REVIVAL DEBT = 100 pearls × level = ____________ pearls</div>
+    <ol class="terms">
+      <li>Until the debt is paid, <b>50% of every quest reward</b> goes to Forway. The debt may also be paid early, in balls, at any embassy.</li>
+      <li>Should you <b>die again while you still owe</b>, Forway drafts you into the <b>Forway Guard</b>, unless your companions pay the full remaining debt plus the new debt on the spot.</li>
+      <li>Fleeing this debt makes you <b>wanted</b>. Bounty quests will carry your face.</li>
+      <li>You wake with 1 HP and one level of exhaustion. Rest. Eat something. Do not die today.</li>
+    </ol>
+    <table class="ledger" style="margin-top:6px">
+      <tr><th style="width:17%">Date</th><th>Quest</th><th style="width:15%">Reward</th><th style="width:16%">Paid to Forway</th><th style="width:16%">Still owed</th></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr>
+    </table>
+    <div class="sigs" style="margin-top:14px">
+      <div class="sig"><div class="thumb"></div><div class="line"></div><span>Revived</span></div>
+      <div class="sig"><div class="thumb"></div><div class="line"></div><span>Embassy medic</span></div>
+    </div>
+    <div class="field" style="margin-top:12px"><b>PAID IN FULL on</b><div class="line"></div><b>clerk</b><div class="line"></div></div>
+    <img class="stamp" src="assets/forway-stamp.png" style="right:30px;bottom:56px;width:84px;transform:rotate(-8deg)" alt="">
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 11 · Revival Debt Certificate</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 12 SHOP -->
+<section class="page shop" id="h12">
+  <h1>SOUL ENERGY SUPPLY</h1>
+  <div class="sub">Sigil rings · nari gels · stones &amp; bombs · Forway prices (other cities charge more for distance)</div>
+  <div class="money" style="justify-content:center;gap:18px;font-size:9pt"><span><img src="assets/pearl.png" alt="">p = pearl</span><span><img src="assets/amethyst.png" alt="">am = amethyst (50 p)</span><span><img src="assets/aquamarine.png" alt="">aq = aquamarine (500 p)</span><span><img src="assets/sapphire.png" alt="">sa = sapphire (5,000 p)</span></div>
+  <div class="shopcols">
+    <div>
+      <table class="price">
+        <tr><th colspan="2">Sigil Rings · Tier 0</th></tr>
+        <tr><td>Light CREATE <i>light</i></td><td class="p">30 p</td></tr>
+        <tr><td>World RESTORE, un-rust <i>mending</i></td><td class="p">30 p</td></tr>
+        <tr><td>Fire CREATE, spark <i>fire bolt</i></td><td class="p">1 am</td></tr>
+        <tr><td>Ice CREATE, frost ball <i>ray of frost</i></td><td class="p">1 am</td></tr>
+        <tr><td>Shock CREATE, touch <i>shocking grasp</i></td><td class="p">1 am</td></tr>
+        <tr><td>Water CREATE / ATTRACT <i>create water, shape water</i></td><td class="p">1 am</td></tr>
+        <tr><td>ENTANGLE, shared hearing <i>message</i></td><td class="p">1 am</td></tr>
+        <tr><th colspan="2">Sigil Rings · Tier I</th></tr>
+        <tr><td>Body RESTORE <i>cure wounds</i></td><td class="p">2 am</td></tr>
+        <tr><td>Body RESTORE, mass <i>healing word</i></td><td class="p">2 am</td></tr>
+        <tr><td>Fire CREATE, fan <i>burning hands</i></td><td class="p">2 am</td></tr>
+        <tr><td>Gravity REPEL <i>thunderwave (force)</i></td><td class="p">2 am</td></tr>
+        <tr><td>Ice CREATE, shard <i>ice knife</i></td><td class="p">2 am</td></tr>
+        <tr><td>Gravity DECREASE, self <i>feather fall / jump</i></td><td class="p">2 am</td></tr>
+        <tr><td>Storm CREATE, heart jolt <i>spare the dying</i></td><td class="p">2 am</td></tr>
+        <tr><td>Mud CREATE <i>grease</i></td><td class="p">1 am</td></tr>
+        <tr><td>Steam / Dust / Ash CREATE <i>fog cloud</i></td><td class="p">1 am</td></tr>
+        <tr><th colspan="2">Sigil Rings · Tier II–IV</th></tr>
+        <tr><td>Body RESTORE II <i>lesser restoration</i></td><td class="p">1 aq</td></tr>
+        <tr><td>Object INCREASE / DECREASE <i>enlarge/reduce</i></td><td class="p">1 aq</td></tr>
+        <tr><td>World DESTROY <i>shatter</i></td><td class="p">1 aq</td></tr>
+        <tr><td>Gravity ATTRACT, self <i>levitate / spider climb</i></td><td class="p">1 aq</td></tr>
+        <tr><td>Storm CREATE, bolt <i>lightning bolt</i> (III)</td><td class="p">3 aq</td></tr>
+        <tr><td>Fire CREATE, ball <i>fireball</i> (III)</td><td class="p">3 aq</td></tr>
+        <tr><td>Revival kit, two rings <i>revivify</i> (III)</td><td class="p">6 aq</td></tr>
+        <tr><td>Water Gravity ATTRACT <i>control water</i> (IV)</td><td class="p">1 sa</td></tr>
+        <tr><th colspan="2">Stones, Bombs &amp; Sundries</th></tr>
+        <tr><td>Nari stone (1 SP of energy)</td><td class="p">1 am</td></tr>
+        <tr><td>Nari stone stick (5 stones)</td><td class="p">5 am</td></tr>
+        <tr><td>Signal smoke bomb (red/cyan/green/yellow)</td><td class="p">15 p</td></tr>
+        <tr><td>Smoke bomb, intense</td><td class="p">30 p</td></tr>
+        <tr><td>Water-reactive nari bomb</td><td class="p">1 am</td></tr>
+        <tr><td>Black honey (jar)</td><td class="p">20 p</td></tr>
+        <tr><td>Black honey revival pot</td><td class="p">6 aq</td></tr>
+        <tr><td>Fost lamp · loose fost stone</td><td class="p">20 p · 5 p</td></tr>
+      </table>
+    </div>
+    <div>
+      <table class="price">
+        <tr><th colspan="2">Nari Gels · per jar (4 scoops), coarse</th></tr>
+        <tr><td>Nari Refresher</td><td class="p">55 p</td></tr>
+        <tr><td>Time Quicken</td><td class="p">55 p</td></tr>
+        <tr><td>Time Slower</td><td class="p">55 p</td></tr>
+        <tr><td>Winga Flight</td><td class="p">45 p</td></tr>
+        <tr><td>Winga Skin</td><td class="p">40 p</td></tr>
+        <tr><td>Wooly Skin <i>very fashionable</i></td><td class="p">30 p</td></tr>
+        <tr><td>Water Breath</td><td class="p">70 p</td></tr>
+        <tr><td>No Breath</td><td class="p">65 p</td></tr>
+        <tr><td>Water Walk</td><td class="p">55 p</td></tr>
+        <tr><td>Wozen Smell</td><td class="p">155 p</td></tr>
+        <tr><td>Wozen Eyesight</td><td class="p">155 p</td></tr>
+        <tr><td>Sayna Hearing</td><td class="p">155 p</td></tr>
+        <tr><td>Monika Sight</td><td class="p">130 p</td></tr>
+        <tr><td>Walking Dead</td><td class="p">220 p</td></tr>
+        <tr><td>Arm Light</td><td class="p">50 p</td></tr>
+        <tr><td>Cruro Skin</td><td class="p">60 p</td></tr>
+        <tr><td>Slime Skin</td><td class="p">63 p</td></tr>
+        <tr><td>Fake Skin / Eye <i>priced by the part</i></td><td class="p">25–350 p</td></tr>
+        <tr><td>Smooth Skin</td><td class="p">75 p</td></tr>
+        <tr><td>Smooth Gut</td><td class="p">200 p</td></tr>
+        <tr><td>Sore Mind</td><td class="p">600 p</td></tr>
+        <tr><th colspan="2">Poisons · sold to badge holders</th></tr>
+        <tr><td>Bleed Out</td><td class="p">45 p</td></tr>
+        <tr><td>Body Paralysis</td><td class="p">50 p</td></tr>
+        <tr><td>Sleep Inducer <i>Tier I only</i></td><td class="p">55 p</td></tr>
+        <tr><td>Skin Melt <i>Tier I only; a laxative</i></td><td class="p">45 p</td></tr>
+      </table>
+      <div class="shopnote"><b>Fine grade</b> (inject with a syringe; works at once, no pain): double price.<br><b>Dose:</b> 1 scoop Tier I · 2 Tier II · 3 Tier III · whole jar Tier IV.</div>
+      <div class="shopnote"><b>NOT SOLD HERE:</b> Sleep Inducer and Skin Melt above Tier I, Mind Enabler, Walking Heart stones, Nari Worm eggs, Koalin anything. Don't ask. We have to report you if you ask.</div>
+      <div class="shopnote"><b>Blank rings</b> are sold only to courtroom scientists and Aquamarine-rank adventurers (show your badge). Rings carved to order.</div>
+      <img class="art" src="assets/nari.png" alt="" style="width:78%;display:block;margin:8px auto 0;opacity:.95">
+    </div>
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 12 · Soul Energy Shop Price List</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 13 BANDIT NOTE + SMOKE -->
+<section class="page" id="h13">
+  <div class="tiny center" style="color:var(--ink-soft);letter-spacing:.1em">FOR THE DM: HAND THIS OVER WHEN THE INSIDE JOB OFFER ARRIVES (A KID WITH A NOTE AND A SMOKE BOMB)</div>
+  <div class="scrap">
+    <div class="hand">
+      To the ones guarding the wagon —<br><br>
+      Two nights on, where the road goes narrow by the bridge, look for <u>green</u> smoke.<br>
+      Put up a fight. Take a few bruises. Run off.<br>
+      We take the wagon. You get <u>thirty parts in a hundred</u> of what's in it, paid in balls at the drop.<br><br>
+      Nod to the kid if you're in.<br>
+      Burn this.<br><br>
+      <span style="padding-left:1.8in">— a friend of the road</span>
+    </div>
+    <div class="burn"></div>
+  </div>
+  <div class="scrap" style="transform:rotate(1.4deg);margin-top:0.25in;height:1.9in;width:5in">
+    <div class="tiny" style="color:#7a6a50;font-style:italic">blank scrap: write your own go-between's note</div>
+  </div>
+  <div class="smoke" style="margin-top:0.3in">
+    <h2>FORWAY-OFFICIAL SIGNAL SMOKE</h2>
+    <div class="center small" style="font-style:italic">Carry one of each. Throw high. Seen for miles. Misuse is punished.</div>
+    <div class="puffs">
+      <div><div class="puff red"></div><b>RED</b><span>Help</span></div>
+      <div><div class="puff cyan"></div><b>CYAN</b><span>Conquered / complete</span></div>
+      <div><div class="puff green"></div><b>GREEN</b><span>Safe / go ahead</span></div>
+      <div><div class="puff yellow"></div><b>YELLOW</b><span>Retreat</span></div>
+    </div>
+    <div class="center small">Deep blue, non-explosive, is used only in Sanbi burials. <b>Bandits fake signals to set traps</b>, and promotion tests might too.<br>Signal smoke bomb: 15 pearls · 20-ft cloud for 1 minute.</div>
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 13 · Bandit Note &amp; Signal Smoke Card</span><span>Text &amp; layout AI-assisted · World © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 14 EXPEDITION REPORT -->
+<section class="page report" id="h14">
+  <h1>EXPEDITION REPORT</h1>
+  <div class="sub">Filed with the embassy clerk after every expedition · West March: post it where every player can read it</div>
+  <div class="cols2" style="margin-top:6px">
+    <div class="field"><b>Session (real date)</b><div class="line"></div></div>
+    <div class="field"><b>DM</b><div class="line"></div></div>
+    <div class="field"><b>Left from</b><div class="line"></div><b>on</b><div class="line"></div></div>
+    <div class="field"><b>Returned to</b><div class="line"></div><b>on</b><div class="line"></div></div>
+  </div>
+  <div class="field"><b>Quest or goal</b><div class="line"></div><b>Rank</b><div class="line" style="max-width:1in"></div><b>Reward</b><div class="line" style="max-width:1in"></div></div>
+  <div class="box2"><h4>THE PARTY</h4>
+    <table class="party"><tr><th>Adventurer (Name · Place · Guild)</th><th style="width:20%">People / class / level</th><th style="width:17%">Player</th><th style="width:15%">Came back?</th></tr>
+      <tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr>
+    </table>
+  </div>
+  <div class="box2"><h4>THE ROUTE <span class="pace">Pace: <span>Fast (1 day/circle)</span><span>Standard (2)</span><span>Slow (3)</span></span></h4>
+    <div class="small">Shade one circle per circle traveled. Then mark them on the shared travel map.</div>
+    <div class="circles"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+    <div class="field"><b>Places visited or discovered</b><div class="line"></div></div><div class="line"></div>
+  </div>
+  <div class="cols2">
+    <div class="box2"><h4>MONSTERS &amp; PEOPLE MET</h4><div class="line"></div><div class="line"></div><div class="line"></div></div>
+    <div class="box2"><h4>LOOT &amp; PAY</h4><div class="line"></div><div class="line"></div><div class="line"></div></div>
+    <div class="box2"><h4>DEATHS, REVIVALS &amp; DEBTS</h4><div class="line"></div><div class="line"></div></div>
+    <div class="box2"><h4>REPUTATION CHANGES (−3 to +3)</h4><div class="line"></div><div class="line"></div></div>
+  </div>
+  <div class="box2"><h4>RUMORS HEARD · UNFINISHED BUSINESS · WARNINGS FOR THE NEXT PARTY</h4><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="box2"><h4>WHERE WE WANT TO GO NEXT</h4><div class="line"></div></div>
+  <div class="foot"><span>Vraki West March · Handout 14 · Expedition Report</span><span>Text &amp; layout AI-assisted · World © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 15 PARTY WANTED -->
+<section class="page" id="h15">
+  <div class="half" data-party></div>
+  <div class="cut"></div>
+  <div class="half" data-party></div>
+  <div class="foot"><span>Vraki West March · Handout 15 · Party Wanted (lounge sign-up)</span><span>Text &amp; layout AI-assisted · World © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<!-- ===================================================== 16 PLAYER REFERENCE -->
+<section class="page ref" id="h16">
+  <h1>ADVENTURER'S REFERENCE</h1>
+  <div class="sub">Everything a Pearl needs to know that the embassy won't tell you twice</div>
+  <div class="refgrid">
+    <div class="refbox"><h3>Money (balls)</h3>
+      <div class="money"><span><img src="assets/sapphire.png" alt="">1 Sapphire</span>=<span>10 <img src="assets/aquamarine.png" alt=""></span>=<span>100 <img src="assets/amethyst.png" alt=""></span>=<span>5,000 <img src="assets/pearl.png" alt=""></span></div>
+      <table><tr><th>Ball</th><th>Pearls</th><th>5e</th><th>Buys</th></tr>
+        <tr><td>Pearl</td><td>1</td><td>1 sp</td><td>a meal and a beer (~5), a hostel bed (~5)</td></tr>
+        <tr><td>Amethyst</td><td>50</td><td>5 gp</td><td>a nari stone, a map, a badge, most rings</td></tr>
+        <tr><td>Aquamarine</td><td>500</td><td>50 gp</td><td>a young Egua, a revival pot (6)</td></tr>
+        <tr><td>Sapphire</td><td>5,000</td><td>500 gp</td><td>an adult Egua, a guild, property</td></tr>
+      </table>
+      <div class="tiny" style="margin-top:3px">Bartering between treaty citizens is illegal. Haggling is fine if the seller agrees. Toleridemians never agree.</div>
+    </div>
+    <div class="refbox"><h3>Calendar</h3>
+      <table><tr><th>Month</th><th>Season</th><th>Days</th></tr>
+        <tr><td>Asa</td><td>Spring</td><td>85</td></tr><tr><td>Paulin</td><td>Summer</td><td>110</td></tr>
+        <tr><td>Moacir</td><td>Fall</td><td>85</td></tr><tr><td>Adrian</td><td>Winter</td><td>85</td></tr></table>
+      <div style="margin-top:3px"><b>Week (5 days):</b> Freeday · Tollday · Sannday · Gannday · <b>Forrday</b> (rest; embassies closed).</div>
+      <div><b>Dates:</b> <i>Moacir 12th, 1042 A.G.</i> (After Ganyrami). <b>Paulin 100th:</b> Adventurer Feast, promotions.</div>
+      <div><b>Monnalow</b> (early evening): the captain shouts the news and new quests.</div>
+    </div>
+    <div class="refbox"><h3>Travel by Circles</h3>
+      <div class="big">Days = circles × 1, 2 or 3 (the DM chooses)</div>
+      <div>Count the circles on the travel map. <b>Fast</b> 1 day per circle · <b>Standard</b> 2 · <b>Slow</b> 3.</div>
+      <div>Each day: <b>Graveyard · Morning · Afternoon · Night</b>. Each shift, pick one: travel, watch, rest, hunt, scout, repair, prep, socialize.</div>
+      <div>Food: 1 ration a day (~2–5 p). Winga mail: 1 pearl, about 1 day per 3 circles.</div>
+    </div>
+    <div class="refbox"><h3>Quests &amp; Deadlines</h3>
+      <div><b>Deadline</b> = round trip in days + 50%. Miss it and a search party comes (and takes your credit).</div>
+      <div><b>Failure:</b> 10% of the reward as a penalty.</div>
+      <div><b>Ranks:</b> Pearl (lv 1–4) · Amethyst (5–8) · Aquamarine (9–12) · Sapphire (13+). Promotion needs a quest or the Adventurer Feast.</div>
+      <div><b>Get home:</b> start and end every session at an embassy.</div>
+    </div>
+    <div class="refbox"><h3>Death &amp; Revival</h3>
+      <div><b>Window:</b> 3 days + 1 per level. Ice the body to double it.</div>
+      <div><b>Embassy revival</b> always works: wake at 1 HP + 1 exhaustion.</div>
+      <div><b>Debt:</b> 100 p × level; 50% of rewards until paid. Die again while owing → drafted into the Forway Guard.</div>
+    </div>
+    <div class="refbox"><h3>Soul Points &amp; Tiers</h3>
+      <div><b>Max SP</b> = proficiency bonus + Con modifier (min. 1). +1 SP per long rest. 1 SP = 1 nari stone.</div>
+      <table style="margin-top:3px"><tr><th>Tier</th><td>0</td><td>I</td><td>II</td><td>III</td><td>IV</td><td>V</td></tr><tr><th>SP / stones</th><td>1</td><td>1</td><td>2</td><td>4</td><td>8</td><td>16</td></tr></table>
+      <div class="tiny" style="margin-top:2px">Tier 0 = a cantrip ring's cost per cast.</div>
+    </div>
+    <div class="refbox"><h3>Signal Smoke</h3>
+      <div><b style="color:#a33">Red</b> help · <b style="color:#18808f">Cyan</b> complete · <b style="color:#3b7a33">Green</b> safe · <b style="color:#9a7d10">Yellow</b> retreat. Bandits fake them.</div>
+    </div>
+    <div class="refbox"><h3>Reputation</h3>
+      <div>−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.</div>
+    </div>
+  </div>
+  <div class="foot"><span>Vraki West March · Handout 16 · Adventurer's Reference</span><span>Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0</span></div>
+</section>
+
+<script>
+// Fill repeated components (badges, postcards, party sign-ups) so the source stays short.
+const RANKS = { pearl: "PEARL", amethyst: "AMETHYST", aquamarine: "AQUAMARINE", sapphire: "SAPPHIRE" };
+document.querySelectorAll(".badge").forEach(b => {
+  const r = b.dataset.rank, ball = `assets/${r}.png`;
+  b.innerHTML = `
+    <img class="c tl" src="${ball}" alt=""><img class="c tr" src="${ball}" alt="">
+    <img class="c bl" src="${ball}" alt=""><img class="c br" src="${ball}" alt="">
+    <div class="bh"><span>FORWAY EMBASSY · ${RANKS[r]}</span><img src="assets/forway-stamp.png" alt=""></div>
+    <div class="field"><b>Name</b><div class="line"></div></div>
+    <div class="field"><b>Place</b><div class="line"></div><b>Guild</b><div class="line"></div></div>
+    <div class="field"><b>Badge no.</b><div class="line"></div><b>Issued</b><div class="line"></div></div>
+    <div class="sp">SOUL POINTS ${"<i></i>".repeat(10)}</div>
+    <div class="stripe"></div>
+    <div class="fine">Property of Forway · blood-registered to its bearer · do not lend (Missing Person quests excepted)</div>`;
+});
+document.querySelectorAll("[data-post]").forEach(p => {
+  p.innerHTML = `
+    <div class="msg"><h3>WINGA MAIL</h3><div class="vk">WINGA MAIL</div>
+      <div class="lines">${'<div class="line"></div>'.repeat(7)}</div>
+      <div class="tiny" style="margin-top:6px;font-style:italic">Postcard size · max weight of 4 pearl balls · killing a courier Winga is a crime</div></div>
+    <div class="addr">
+      <div class="postbox">PAID<img src="assets/pearl.png" alt="">1 PEARL</div>
+      <div style="height:1.25in"></div>
+      <div class="field"><b>To</b><div class="line"></div></div>
+      <div class="field"><b>at the</b><div class="line"></div></div>
+      <div class="field" style="width:62%"><b>Embassy</b><div class="line"></div></div>
+      <div class="field" style="width:62%"><b>From</b><div class="line"></div></div>
+      <img class="winga art" src="assets/winga-blue.png" alt="">
+    </div>`;
+});
+document.querySelectorAll("[data-party]").forEach(p => {
+  p.innerHTML = `
+    <h2>PARTY WANTED</h2><div class="vk">PARTY WANTED</div>
+    <div class="center small" style="font-style:italic;margin:2px 0 8px">Pin to the embassy lounge board. First to sign, first to go. (Players: this is how a West March session gets scheduled.)</div>
+    <div class="field"><b>Where we're going / quest</b><div class="line"></div></div>
+    <div class="field"><b>Leaving from the</b><div class="line"></div><b>Embassy</b></div>
+    <div class="field"><b>Real-world session: date &amp; time</b><div class="line"></div></div>
+    <div class="field"><b>DM</b><div class="line"></div><b>Rank needed</b><div class="line" style="max-width:1.2in"></div></div>
+    <div class="cols2" style="margin-top:6px">${[1,2,3,4,5,6].map(n=>`<div class="field"><b>${n}.</b><div class="line"></div></div>`).join("")}</div>
+    <div class="field" style="margin-top:6px"><b>Bring</b><div class="line"></div></div>
+    <div class="tiny" style="margin-top:6px;font-style:italic;color:var(--ink-soft)">3–6 adventurers is ideal. Ice for bodies recommended.</div>`;
+});
+</script>
+</body>
+</html>

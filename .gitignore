@@ -18,3 +18,7 @@ ehthumbs.db
 # Local notes and session scratch
 *.local.md
 scratch/
+
+# Handout build tooling (Handouts/source/render.js)
+node_modules/
+package-lock.json
