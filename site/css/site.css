@@ -251,7 +251,7 @@ input[type="checkbox"], input[type="radio"] { width: 18px; height: 18px; accent-
 .date-row select { width: auto !important; }
 
 /* ---------------- calculators ---------------- */
-.calc-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 0; border-top: 2px solid var(--wood); margin-top: 24px; }
+.calc-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(330px, 100%), 1fr)); gap: 0; border-top: 2px solid var(--wood); margin-top: 24px; }
 .calc { padding: 18px 22px 24px 0; border-bottom: 1px solid var(--line); }
 .calc h2 { font-size: 21px; margin: 0 0 6px; }
 .calc h3 { font: 700 15px var(--ui); margin: 18px 0 4px; color: var(--ink-2); }
@@ -271,26 +271,29 @@ input[type="checkbox"], input[type="radio"] { width: 18px; height: 18px; accent-
 .facts dd { margin: 0; font-variant-numeric: tabular-nums; }
 
 /* ---------------- adventurer cards ---------------- */
-.members { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 18px; }
+.members { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr)); gap: 18px; }
+/* Grid items and form fields default to their content width; let them shrink to the card instead. */
+.members > .member, .m-id > label, .m-more > label, .m-notes, .deathbox > label { min-width: 0; }
 .member { background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--wood-2); border-radius: 6px; padding: 12px 14px 14px; display: grid; gap: 10px; font-family: var(--ui); }
 .member.status-down { border-top-color: var(--sh-afternoon); }
 .member.status-dead { border-top-color: var(--blood); background: linear-gradient(var(--blood-bg), var(--card) 120px); }
 .member.status-away { opacity: 0.7; }
-.m-head { display: flex; gap: 8px; align-items: center; }
-.m-name { flex: 1; font: 700 19px var(--serif); border-color: transparent; background: none; padding: 4px 6px; }
+.m-head { display: flex; gap: 8px; align-items: center; min-width: 0; }
+.m-name { flex: 1 1 0; width: 0; min-width: 0; text-overflow: ellipsis; font: 700 19px var(--serif); border-color: transparent; background: none; padding: 4px 6px; }
 .m-name:hover { border-color: var(--line); }
-.m-head select { font-size: 14px; padding: 5px 6px; }
+.m-head select { flex: 0 0 auto; font-size: 14px; padding: 5px 6px; }
+.m-head .icon-btn { flex: 0 0 auto; }
 .m-id { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px 10px; }
 .m-id label, .m-more label, .m-notes, .deathbox label { display: grid; gap: 2px; font-size: 12.5px; color: var(--ink-2); font-weight: 700; }
-.m-id input, .m-id select, .m-more input { font-size: 15px; padding: 5px 7px; width: 100%; }
+.m-id input, .m-id select, .m-more input { font-size: 15px; padding: 5px 7px; width: 100%; min-width: 0; }
 .vital { border-top: 1px solid var(--line-2); padding-top: 8px; display: grid; gap: 6px; }
 .v-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-.v-label { font: 700 14px var(--ui); min-width: 6.5em; }
-.v-num { width: 4.4em !important; font: 700 17px var(--ui); text-align: center; padding: 4px; }
+.v-label { font: 700 14px var(--ui); min-width: 5.8em; }
+.v-num { width: 3.8em !important; font: 700 17px var(--ui); text-align: center; padding: 4px; }
 .v-num.tiny { width: 3.4em !important; font-size: 14px; }
 .slash { color: var(--ink-2); }
 .temp { display: inline-flex; align-items: center; gap: 4px; font-size: 13px; color: var(--ink-2); margin-left: auto; }
-.temp .v-num { width: 3.6em !important; font-size: 14px; }
+.temp .v-num { width: 3.2em !important; font-size: 14px; }
 .hpbar { position: relative; display: block; height: 8px; border-radius: 4px; background: var(--line-2); overflow: hidden; }
 .hpbar span { position: absolute; inset: 0 auto 0 0; background: var(--wood-2); }
 .hpbar i { position: absolute; inset: 0 auto 0 0; background: var(--aquamarine); opacity: 0.55; }
@@ -441,7 +444,7 @@ input.tiny { width: 4em; }
 .moods button[aria-pressed="true"] { background: var(--wood); color: var(--wood-ink); border-color: var(--wood); }
 .log { padding-left: 1.1em; margin: 8px 0 0; color: var(--ink-2); }
 .heat-big { font: 700 64px/1 var(--serif); margin: 6px 0; color: var(--blood); }
-.reps { list-style: none; padding: 0; margin: 10px 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 4px 28px; }
+.reps { list-style: none; padding: 0; margin: 10px 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(380px, 100%), 1fr)); gap: 4px 28px; }
 .reps li { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 4px 0; border-bottom: 1px solid var(--line-2); }
 .rep-name { font-size: 15.5px; }
 .rep-track { display: inline-flex; }
