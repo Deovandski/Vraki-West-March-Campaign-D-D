@@ -285,7 +285,7 @@
           `<b>Go-between:</b> ${esc(P.stripMd(row(T.goBetween, g)[1] || ""))}. <b>Cut:</b> ${[20, 20, 30, 30, 40, 50][c - 1]}%. <b>Cargo:</b> ${esc(P.stripMd(row(T.cargo, cg)[1] || ""))}. <b>Payment:</b> ${pay <= 4 ? "balls at a drop point" : "goods from the cargo"}.`);
       }
       if (a === "g-clear") gen.results = [];
-      app.rerender();
+      if (/^g-/.test(a)) app.rerender();
     },
     onInput(el) { if (el.dataset.action === "g-region") { gen.region = el.value; app.rerender(); } }
   });

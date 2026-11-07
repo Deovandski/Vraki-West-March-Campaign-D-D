@@ -400,7 +400,10 @@
 
   /* ================= events ================= */
   function onClick(ev) {
-    const el = ev.target.closest("[data-action]");
+    let el = ev.target.closest("[data-action]");
+    // Fields and forms act on change/input/submit, not on click. Treating a click on an open
+    // dropdown as an action re-drew the page and closed the dropdown.
+    if (el && /^(SELECT|INPUT|TEXTAREA|FORM|OPTION)$/.test(el.tagName)) el = null;
     if (!el) {
       if (!ev.target.closest("#data-menu,[data-action='data-menu']")) dataMenu(false);
       return;
