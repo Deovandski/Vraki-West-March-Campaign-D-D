@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vraki West March</title>
+<meta name="description" content="Player and DM companion for the Vraki West March, an open-table D&D 5e campaign in the world of #HusbandOutWorld: rules, lore, dice, calculators and a travel planner.">
+<link rel="icon" href="Handouts/source/assets/forway-emblem.png">
+<link rel="stylesheet" href="site/css/site.css">
+<script>
+  // Apply the saved theme before the page paints.
+  try { var t = localStorage.getItem("vraki-west-march:theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <button class="icon-btn menu-btn" data-action="toggle-nav" aria-label="Open the menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+  </button>
+  <a class="brand" href="#/" aria-label="Vraki West March home">
+    <img src="Handouts/source/assets/forway-emblem.png" alt="" width="34" height="34">
+    <span class="brand-name">Vraki West March</span>
+  </a>
+  <div class="role-switch" role="radiogroup" aria-label="Who's using the site">
+    <button role="radio" data-action="role" data-role="player" aria-checked="true">Player</button>
+    <button role="radio" data-action="role" data-role="dm" aria-checked="false">DM</button>
+  </div>
+  <form class="search" role="search" data-action="search">
+    <label class="sr" for="q">Search the rules and lore</label>
+    <input id="q" type="search" placeholder="Search rules, lore, creatures" autocomplete="off">
+  </form>
+  <div class="top-actions">
+    <span class="save-status" id="save-status" aria-live="polite"></span>
+    <button class="icon-btn" data-action="data-menu" aria-label="Save and load" aria-haspopup="true" aria-expanded="false" title="Save and load">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h11l3 3v13H5z"/><path d="M8 4v5h7V4M8 20v-6h8v6"/></svg>
+    </button>
+    <button class="icon-btn" data-action="theme" aria-label="Switch light or dark" title="Light or dark">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z"/></svg>
+    </button>
+    <button class="dice-btn" data-action="dice-open" aria-label="Open the dice tray" aria-expanded="false">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l9 5v10l-9 5-9-5V7z"/><path d="M12 2v20M3 7l9 5 9-5"/></svg>
+      <span>Dice</span>
+    </button>
+  </div>
+  <div class="data-menu" id="data-menu" hidden>
+    <p class="data-menu-note">Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.</p>
+    <button data-action="export">Download save file (.json)</button>
+    <label class="filebtn">Load a save file<input type="file" accept=".json,application/json" data-action="import"></label>
+    <button class="danger" data-action="reset">Start over</button>
+  </div>
+</header>
+
+<div class="layout">
+  <nav class="sidenav" id="sidenav" aria-label="Site"></nav>
+  <main id="main" tabindex="-1"></main>
+</div>
+
+<aside class="dice-tray" id="dice-tray" aria-label="Dice tray" hidden>
+  <div class="tray-head">
+    <h2>Dice</h2>
+    <button class="icon-btn" data-action="dice-close" aria-label="Close the dice tray">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </div>
+  <div class="dice-quick">
+    <button data-action="roll" data-expr="d4">d4</button><button data-action="roll" data-expr="d6">d6</button>
+    <button data-action="roll" data-expr="d8">d8</button><button data-action="roll" data-expr="d10">d10</button>
+    <button data-action="roll" data-expr="d12">d12</button><button data-action="roll" data-expr="d20">d20</button>
+    <button data-action="roll" data-expr="d100">d100</button>
+  </div>
+  <form class="dice-form" data-action="roll-form">
+    <label for="dice-expr">Roll anything</label>
+    <div class="row">
+      <input id="dice-expr" placeholder="2d6+3" autocomplete="off" spellcheck="false">
+      <button type="submit">Roll</button>
+    </div>
+    <div class="adv" role="radiogroup" aria-label="d20 mode">
+      <label><input type="radio" name="adv" value="" checked> Normal</label>
+      <label><input type="radio" name="adv" value="adv"> Advantage</label>
+      <label><input type="radio" name="adv" value="dis"> Disadvantage</label>
+    </div>
+  </form>
+  <div class="dice-result" id="dice-result" aria-live="polite"></div>
+  <div class="dice-log-head"><h3>History</h3><button class="link" data-action="dice-clear">Clear</button></div>
+  <ol class="dice-log" id="dice-log"></ol>
+  <p class="tray-tip">Tip: any roll written in the rules, like 2d6+3, is a button. Tap it to roll.</p>
+</aside>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="site/vendor/marked.umd.js"></script>
+<script src="site/js/parse.js"></script>
+<script src="site/js/core.js"></script>
+<script src="site/js/content.js"></script>
+<script src="site/js/app.js"></script>
+<script src="site/js/tools.js"></script>
+<script src="site/js/travel.js"></script>
+<script src="site/js/dm.js"></script>
+<script>VW.app.start();</script>
+</body>
+</html>

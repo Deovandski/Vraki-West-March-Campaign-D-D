@@ -14,6 +14,10 @@ A complete, self-contained campaign: a summary of the world's lore, rules for ru
 
 The campaign takes place **in the world** of the light novels, but it is **not tied to their story**. The famous characters exist and might show up as NPCs or rumors, but the West March has its own adventures, set by default in the 1040s A.G.
 
+### Use it as a website
+
+Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, a travel planner that lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. [How the website works](site/README.md).
+
 ### What is a West Marches campaign?
 
 An open table! Instead of one fixed party, a pool of players schedule their own sessions, form whatever party shows up that day, and head out from a shared home base into a dangerous, persistent world. Whatever one party discovers, maps, kills, or pisses off stays that way for everyone else.
@@ -28,6 +32,7 @@ The Four Kingdoms were practically built for it: Forway's embassies already run 
 | [D&D Campaign](D&D%20Campaign) | DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, the bandits' "Inside Job" offer, dangerous places, factions, stat blocks, pre-gens, DM secrets |
 | [Maps](Maps) | The travel map (circles connecting places) and links to the world maps |
 | [Handouts](Handouts) | Printable props: quest board, wanted posters, Forway News, blood contract, badge cards, Winga mail, Castle Mood sign, revival debt certificate, shop price list, expedition reports and a player reference card |
+| [site](site) | The website: Player and DM sections, dice, calculators, the travel planner and trackers |
 
 Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).
 DMs: start with the [DM Guide](D&D%20Campaign/README.md).
@@ -38,7 +43,11 @@ No distances, no Egua speeds, no load percentages. The travel map has circles dr
 
 ### What's AI-assisted here?
 
-The world, its lore, characters and the Vraki font are human-made by Deovandski Skibinski Junior, and all the art is by the series' illustrators, Mitsukiven and Feiourm; there are no AI-generated images. Much of the West March writing (the World Lore summary, most rules, new stat blocks and the handouts) was written with an AI assistant from that material. The [AI Disclosure](AI-DISCLOSURE.md) lists exactly what came from where, file by file.
+The world, its lore, characters and the Vraki font are human-made by Deovandski Skibinski Junior, and all the art is by the series' illustrators, Mitsukiven and Feiourm; there are no AI-generated images. Much of the West March writing (the World Lore summary, most rules, new stat blocks and the handouts) and the website were made with an AI assistant from that material. The [AI Disclosure](AI-DISCLOSURE.md) lists exactly what came from where, file by file.
+
+### What is Vraki?
+
+**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.
 
 ### Want to learn more about the series?
 
