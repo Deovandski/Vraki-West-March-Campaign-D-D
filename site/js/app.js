@@ -99,7 +99,8 @@
         (gid === "more" ? '<li><a href="#/t/handouts" data-tool="handouts">Handout gallery</a></li>' : "") +
         "</ul></details>";
     });
-    html += `<p class="nav-foot"><a href="${REPO}" target="_blank" rel="noopener">The repo on GitHub</a><br>
+    html += `<p class="nav-foot"><button class="link nav-theme" data-action="theme">Switch light or dark</button><br class="nav-theme">
+      <a href="${REPO}" target="_blank" rel="noopener">The repo on GitHub</a><br>
       <a href="https://deovandski.github.io/vraki-windows/" target="_blank" rel="noopener">Vraki, where the script started</a></p></div>`;
     nav.innerHTML = html;
     markCurrent();
@@ -400,6 +401,12 @@
 
   /* ================= events ================= */
   function onClick(ev) {
+    // With the menu open on a phone, a tap outside it just closes it.
+    if (document.body.classList.contains("nav-open") && !ev.target.closest(".sidenav, .menu-btn")) {
+      ev.preventDefault();
+      closeNav();
+      return;
+    }
     let el = ev.target.closest("[data-action]");
     // Fields and forms act on change/input/submit, not on click. Treating a click on an open
     // dropdown as an action re-drew the page and closed the dropdown.
@@ -495,7 +502,18 @@
     onInput(ev);
   }
 
+  // Keeps --top-h equal to the top bar's real height (it wraps to two rows on phones),
+  // so the menu, the dice tray and sticky panels start right below it.
+  function trackTopBar() {
+    const bar = document.querySelector(".topbar");
+    const set = () => document.documentElement.style.setProperty("--top-h", bar.offsetHeight + "px");
+    set();
+    if (window.ResizeObserver) new ResizeObserver(set).observe(bar);
+    else window.addEventListener("resize", set);
+  }
+
   function start() {
+    trackTopBar();
     store.load();
     store.onSave(showSaved);
     renderNav();

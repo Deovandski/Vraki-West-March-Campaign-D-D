@@ -37,6 +37,7 @@
   --serif: "Schola", "Century Schoolbook", "New Century Schoolbook", "TeX Gyre Schola", Georgia, serif;
   --ui: "HerosCn", "Arial Narrow", "Roboto Condensed", "Helvetica Neue", Arial, sans-serif;
   --radius: 4px;
+  --top-h: 59px;          /* top bar height, kept current by app.js */
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
@@ -99,6 +100,7 @@ h1, h2, h3, h4 { line-height: 1.2; text-wrap: balance; }
 .dice-btn { display: inline-flex; align-items: center; gap: 6px; font: 700 15px var(--ui); color: var(--wood); background: var(--wood-ink); border: 0; border-radius: var(--radius); padding: 8px 12px; cursor: pointer; }
 .dice-btn svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; }
 .menu-btn { display: none; }
+.nav-theme { display: none; }
 .data-menu { position: absolute; right: 16px; top: 100%; margin-top: 6px; width: 300px; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18); padding: 12px; display: grid; gap: 8px; }
 .data-menu[hidden] { display: none; }
 .data-menu-note { margin: 0 0 4px; font: 14px/1.45 var(--ui); color: var(--ink-2); }
@@ -110,7 +112,7 @@ h1, h2, h3, h4 { line-height: 1.2; text-wrap: balance; }
 /* ---------------- layout ---------------- */
 .layout { display: grid; grid-template-columns: 260px minmax(0, 1fr); min-height: calc(100vh - 56px); }
 .sidenav { background: var(--wood); color: var(--wood-ink); font-family: var(--ui); border-right: 1px solid rgba(0, 0, 0, 0.2); }
-.nav-inner { position: sticky; top: 59px; max-height: calc(100vh - 59px); overflow: auto; padding: 18px 12px 30px; }
+.nav-inner { position: sticky; top: var(--top-h); max-height: calc(100vh - var(--top-h)); overflow: auto; padding: 18px 12px 30px; }
 .sidenav section h2, .navgroup summary { font: 700 13px/1.2 var(--ui); letter-spacing: 0.08em; color: var(--wood-mute); margin: 14px 8px 6px; }
 .navgroup summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; }
 .navgroup summary::-webkit-details-marker { display: none; }
@@ -122,6 +124,7 @@ h1, h2, h3, h4 { line-height: 1.2; text-wrap: balance; }
 .sidenav a[aria-current="page"] { background: var(--wood-ink); color: var(--wood); font-weight: 700; }
 .nav-foot { margin: 22px 10px 0; font-size: 14px; line-height: 1.7; }
 .nav-foot a { display: inline; padding: 0; color: var(--wood-mute); text-decoration: underline; }
+.nav-foot .link { color: var(--wood-mute); font: inherit; }
 main { min-width: 0; padding: 32px clamp(16px, 4vw, 48px) 80px; outline: none; }
 .loading { color: var(--ink-2); font-family: var(--ui); padding: 40px 0; }
 
@@ -485,7 +488,7 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
 .gallery p { margin: 4px 0 0; font-size: 14.5px; line-height: 1.4; color: var(--ink-2); }
 
 /* ---------------- dice tray ---------------- */
-.dice-tray { position: fixed; z-index: 40; top: 66px; right: 16px; width: min(360px, calc(100vw - 32px)); max-height: calc(100vh - 82px); overflow: auto;
+.dice-tray { position: fixed; z-index: 40; top: calc(var(--top-h) + 8px); right: 16px; width: min(360px, calc(100vw - 32px)); max-height: calc(100dvh - var(--top-h) - 16px); overflow: auto;
   background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--blood); border-radius: 6px; box-shadow: 0 16px 40px rgba(0, 0, 0, 0.22); padding: 14px 16px; font-family: var(--ui); }
 .dice-tray[hidden] { display: none; }
 .tray-head { display: flex; justify-content: space-between; align-items: center; }
@@ -532,12 +535,18 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
 @media (max-width: 900px) {
   .menu-btn { display: inline-grid; }
   .layout { grid-template-columns: minmax(0, 1fr); }
-  .sidenav { position: fixed; z-index: 25; top: 59px; bottom: 0; left: 0; width: min(300px, 86vw); transform: translateX(-102%); transition: transform 0.2s ease; overflow: auto; }
-  .nav-inner { position: static; max-height: none; }
-  body.nav-open .sidenav { transform: none; box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.35); }
-  .search { max-width: none; order: 5; flex-basis: 100%; }
-  .topbar { flex-wrap: wrap; row-gap: 8px; }
-  .top-actions { margin-left: auto; }
+  .topbar { column-gap: 10px; padding: 8px 12px; }
+  .brand { min-width: 0; }
+  .brand img { flex: 0 0 auto; }
+  .brand-name { overflow: hidden; text-overflow: ellipsis; }
+  .search { min-width: 0; }
+  /* The menu slides in below the top bar, scrolls on its own, and dims the page behind it. */
+  .sidenav { position: fixed; z-index: 26; top: var(--top-h); bottom: 0; left: 0; width: min(320px, 86vw);
+    transform: translateX(-102%); transition: transform 0.2s ease, visibility 0s linear 0.2s; overflow-y: auto; overscroll-behavior: contain; visibility: hidden; }
+  .nav-inner { position: static; max-height: none; padding-bottom: 40px; }
+  body.nav-open { overflow: hidden; }
+  body.nav-open .sidenav { transform: none; visibility: visible; transition: transform 0.2s ease; }
+  body.nav-open::after { content: ""; position: fixed; z-index: 25; left: 0; right: 0; bottom: 0; top: var(--top-h); background: rgba(0, 0, 0, 0.5); }
   .save-status { display: none; }
   .hero { grid-template-columns: minmax(0, 1fr); }
   .home-grid { grid-template-columns: minmax(0, 1fr); gap: 22px; }
@@ -546,8 +555,16 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .gen-grid, .camp-grid { grid-template-columns: minmax(0, 1fr); }
   .camp-grid .wide2 { grid-column: auto; }
   .gen-results li { grid-template-columns: 1fr; gap: 2px; }
-  .nav-inner { top: 0; }
-  .sidenav { top: 104px; }
+}
+@media (max-width: 800px) {
+  /* Top bar on phones and small tablets: menu, name and buttons on the first row;
+     Player/DM and search on the second. */
+  .topbar { display: grid; grid-template-columns: auto auto minmax(0, 1fr) auto; grid-template-areas: "menu brand brand actions" "role role search search"; gap: 8px; }
+  .menu-btn { grid-area: menu; }
+  .brand { grid-area: brand; }
+  .top-actions { grid-area: actions; margin-left: 0; }
+  .role-switch { grid-area: role; justify-self: start; }
+  .search { grid-area: search; max-width: none; margin-left: 0; }
 }
 @media (max-width: 560px) {
   body { font-size: 16px; }
@@ -555,6 +572,8 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .brand-name { font-size: 17px; }
   .role-switch button { padding: 6px 10px; }
   .dice-btn span { display: none; }
+  .dice-btn { padding: 8px 10px; }
+  .brand img { width: 30px; height: 30px; }
   .setup-grid { grid-template-columns: minmax(0, 1fr); }
   .setup-grid .wide2 { grid-column: auto; }
   .members { grid-template-columns: minmax(0, 1fr); }
@@ -565,6 +584,11 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .route li + li::before { top: 38px; right: calc(50% + 38px); }
   .calc { padding-right: 0; }
   .calc-grid { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 480px) {
+  /* Room for the name on small phones: the light/dark switch moves into the menu. */
+  .top-actions [data-action="theme"] { display: none; }
+  .nav-theme { display: inline; }
 }
 @media print {
   .topbar, .sidenav, .dice-tray, .toc, .toast { display: none !important; }
