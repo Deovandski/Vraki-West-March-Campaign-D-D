@@ -8,10 +8,11 @@
 **STR** 14 · **DEX** 16 · **CON** 14 · **INT** 12 · **WIS** 13 · **CHA** 10
 
 ### Features & Traits
-- **Reserved Politeness.** Advantage on Persuasion checks when calm; disadvantage when stressed.
+- **Curt.** Few words, a flat voice, and polite only up to a point. Disadvantage on Persuasion checks that need warmth or small talk; advantage on Intimidation when he goes quiet and just stares.
+- **Dark Side.** Lie to him and the politeness ends. When his Insight catches someone's lie, he has advantage on attacks and Intimidation checks against that creature until the end of the scene. Once he starts questioning someone, stopping takes a DC 12 Wisdom save.
 - **Interrogator's Edge.** Proficiency with torture tools (his finger-clipping pliers); +2 to Intimidation.
 - **Not Quite Darfaries.** Immune to being charmed for 1 round (1/day). Doesn't like being asked about his veins.
-- **Conflict Avoidant.** If allies argue, DC 10 Wis save or he leaves the scene for 1 round ("We finished the quest. We celebrated. Now it's time for me to say goodbye.").
+- **Conflict Avoidant.** If allies argue, DC 10 Wis save or he leaves the scene for 1 round ("We finished the quest. We celebrated. We all spoke our minds. Now we say our goodbyes.").
 - **Hifuna Yabuca Habit.** Once per long rest he can eat a Hifuna fruit for +2 Strength for 1 hour. He also gains 1 Exposure (see Dangerous Places).
 
 ### Rogue Features
