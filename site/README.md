@@ -17,8 +17,10 @@ It reads the same Markdown files you see in the repo, so there's nothing to keep
 ## Saving
 Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.
 
-## Turning on GitHub Pages (once)
-In the repo on GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main`, folder `/ (root)` → Save.** The site appears at the address above a minute or two later. The empty `.nojekyll` file at the repo root tells Pages to serve the files as they are.
+## Publishing
+The workflow in `.github/workflows/pages.yml` publishes the site on every push to `main`: it refreshes `site/snapshot.js`, gathers the site and the Markdown it reads, and deploys them to GitHub Pages. You can also run it by hand from the Actions tab (**Website → Run workflow**).
+
+One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**
 
 ## Running it on your computer
 Browsers block a page opened straight from a file from loading other files, so start a tiny local server in the repo folder:
@@ -34,7 +36,7 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 |---|---|
 | Change a rule, a stat block or an encounter table | Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it. |
 | Add a new page | Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus and search. |
-| Refresh the offline copy | Run `node site/build-snapshot.js` after changing Markdown files. |
+| Refresh the offline copy | The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`. |
 
 ## Files
 - `index.html` — the page itself
