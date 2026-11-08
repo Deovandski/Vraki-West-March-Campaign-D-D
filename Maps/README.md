@@ -10,8 +10,8 @@ How it's used at the table:
 - Full rules: [Travel by Circles](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md).
 
 ## World maps
-The [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Illustrations/World%20Map) has the full-resolution world map (with and without names), the metadata map (populations, altitudes, villages), a Sanbi city map, embassy art, and the global map of the western continent. The metadata map's kilometer labels are canon, but you don't need them at the table.
+The [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) has the full-resolution world map (with and without names), the metadata map (populations, altitudes, villages), a Sanbi city map, embassy art, and the global map of the western continent. The metadata map's kilometer labels are canon, but you don't need them at the table.
 
-![](https://raw.githubusercontent.com/Deovandski/HusbandOutWorld/main/WorldMapMD.png)
+![](https://raw.githubusercontent.com/Deovandski/HusbandOutWorld/main/Legacy/Behind%20The%20Scenes/WorldMapMD.png)
 
 Map © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0
