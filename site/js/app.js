@@ -177,7 +177,7 @@
         </section>
         <p class="spoiler">Spoiler warning: the lore pages and the DM pages reveal secrets of the world, including some from unreleased story notes.</p>
         <footer class="site-foot">
-          <p>World, lore and characters © Deovandski Skibinski Junior. Art by Mitsukiven &amp; Feiourm. Licensed CC-BY-NC-SA-4.0. Site text and code are AI-assisted; see the <a href="${docHash("AI-DISCLOSURE.md")}">AI disclosure</a>.</p>
+          <p>World, lore and characters © Deovandski Skibinski Junior. Art by Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of Deovandski Skibinski Junior. Licensed CC-BY-NC-SA-4.0. Monetized videos and posts about it are welcome; other commercial use needs approval (<a href="https://www.linkedin.com/in/deovandski/" target="_blank" rel="noopener">LinkedIn</a> or <a href="mailto:Deovandski@outlook.com">Deovandski@outlook.com</a>). Site text and code are AI-assisted; see the <a href="${docHash("AI-DISCLOSURE.md")}">AI disclosure</a>.</p>
           <p>Vraki is also the name of the world's script, which began as a 2017 app. <a href="https://deovandski.github.io/vraki-windows/" target="_blank" rel="noopener">See where Vraki started</a>.</p>
         </footer>
       </div>`;
