@@ -1,6 +1,6 @@
 # Vraki West March Campaign D&D
 
-![](https://raw.githubusercontent.com/Deovandski/HusbandOutWorld/main/WorldMapMD.png)
+![](https://raw.githubusercontent.com/Deovandski/HusbandOutWorld/main/Legacy/Behind%20The%20Scenes/WorldMapMD.png)
 
 ## SPOILER WARNING!
 
@@ -51,10 +51,9 @@ The world, its lore, characters and the Vraki font are human-made by Deovandski 
 
 ### Want to learn more about the series?
 
-The novels, the full raw World Lore, every illustration, the spreadsheets and fonts live in the main repo:
-[#HusbandOutWorld on GitHub](https://github.com/Deovandski/HusbandOutWorld).
+Read the light novel and explore the lore at **[HusbandOutWorld.com](https://www.husbandoutworld.com)**. It starts with fewer spoilers, and a Behind The Scenes switch adds the author's full notes.
 
-Want the lore with less spoilers? Check out [HusbandOutWorld.com/world-lore](https://www.husbandoutworld.com/world-lore), or read the novels starting with *A Husband Out of This World, Vol 1: Failed Experiment*.
+The originals (the novels, the full raw World Lore, every illustration, the spreadsheets and fonts) live in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy).
 
 ### Spot something wrong, or want to make a change?
 
