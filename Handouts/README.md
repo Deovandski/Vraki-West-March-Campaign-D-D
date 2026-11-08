@@ -41,7 +41,7 @@ Sources on West Marches play and handouts: Ben Robbins' original [Grand Experime
 
 ## Credits & license
 - **Art:** by the series' illustrators, **Mitsukiven** and **Feiourm**. The emblems, Forway stamp, gemstone balls, nari stones, Kozaku Forway, Walking Flathead and Winga come from the [#HusbandOutWorld repo's Illustrations](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations). The art was only cropped, scaled down and had its white backgrounds removed for print.
-- **Font:** the in-world script lines use the **Vraki** font. Vraki font © 2024 Deovandski Skibinski Junior. The text fonts are TeX Gyre Pagella, Bonum and Chorus (GUST Font License). If those aren't installed, the HTML falls back to Palatino, Bookman or Georgia.
+- **Font:** the in-world script lines use the **Vraki** font. Vraki font © 2024 Deovandski Skibinski Junior, under [its own license](source/assets/LICENSE-Vraki-typeface.md). The text fonts are TeX Gyre Pagella, Bonum and Chorus (GUST Font License). If those aren't installed, the HTML falls back to Palatino, Bookman or Georgia.
 - **Text & layout:** AI-assisted, built from the rules and lore in this repo. See [AI Disclosure](../AI-DISCLOSURE.md).
 - **Sample, not canon:** the news stories, classifieds, bandit note and a few contract clauses (such as half pay for delivering cargo whose owner died) are flavor for the table. Use them, change them, or ignore them.
 

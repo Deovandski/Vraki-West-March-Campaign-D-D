@@ -73,4 +73,4 @@ Feel free to peruse. If you have any questions, let us know. We’re open for co
 
 Want to reach out to the author? We’re open to a copyright/trademark transfer for an Omnibus vol or other publishing ideas, including a new version through a ghostwriter. Email deovandski@outlook.com for more info!
 
-© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.
+© Deovandski Skibinski Junior. *A Husband Out of This World* and *#HusbandOutWorld* are trademarks of Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the Vraki typeface and third-party files (see [LICENSE.md](LICENSE.md) for copyright, trademarks and fonts).
