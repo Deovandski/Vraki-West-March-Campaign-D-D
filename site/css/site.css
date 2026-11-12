@@ -435,6 +435,53 @@ input[type="checkbox"], input[type="radio"] { width: 18px; height: 18px; accent-
 input.tiny { width: 4em; }
 .trip-notes { margin-top: 10px; }
 
+/* Trip sheet: a paper copy of a trip. On screen it previews as a page; printed, only the page shows. */
+.print-opts { margin: 10px 0 6px; }
+.print-opts .sub { margin-left: 26px; }
+.print-sheet { background: #fff; color: #18201b; border: 1px solid var(--line); box-shadow: 0 6px 22px rgba(0, 0, 0, 0.12); padding: 36px clamp(18px, 5vw, 54px); margin: 22px 0; max-width: 8.5in; font-size: 14.5px; line-height: 1.4; }
+.print-sheet .muted { color: #4b5a51; }
+.print-sheet h1 { font-size: 30px; margin: 0; }
+.print-sheet h2 { font-size: 20px; margin: 22px 0 8px; padding-bottom: 4px; border-bottom: 2px solid #1f3a2e; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; align-items: baseline; }
+.print-sheet h2 span, .ps-day h3 span { font: 14px var(--ui); color: #4b5a51; }
+.ps-kicker { font: 700 13px var(--ui); letter-spacing: 0.08em; text-transform: uppercase; color: #4b5a51; margin: 0 0 2px; }
+.ps-route { font-size: 17px; margin: 2px 0 10px; }
+.ps-facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px 18px; margin: 0 0 8px; }
+.ps-facts div { display: grid; }
+.ps-facts dt { font: 700 12px var(--ui); text-transform: uppercase; letter-spacing: 0.05em; color: #4b5a51; }
+.ps-facts dd { margin: 0; }
+.ps-flags { margin: 4px 0; padding-left: 1.1em; }
+.ps-rule { margin: 6px 0 0; padding: 6px 10px; border: 1px solid #c6d3c9; border-radius: 4px; }
+.print-sheet table { width: 100%; border-collapse: collapse; font-family: var(--ui); }
+.print-sheet th, .print-sheet td { border: 1px solid #c6d3c9; padding: 5px 7px; text-align: left; vertical-align: top; }
+.print-sheet thead th { background: #e9f0ea; font-size: 12.5px; }
+.ps-party td:last-child { width: 32%; }
+.ps-day { break-inside: avoid; margin-bottom: 10px; }
+.ps-day h3 { font-size: 16px; margin: 12px 0 4px; display: flex; gap: 10px; align-items: baseline; }
+.ps-shifts > tbody > tr > th { width: 92px; font: 700 13.5px var(--ui); }
+.ps-shifts > tbody > tr > th small { display: block; font-weight: 400; color: #4b5a51; }
+.ps-shifts td { font-family: var(--serif); }
+.ps-shifts p { margin: 0 0 4px; }
+.ps-title { font-weight: 700; }
+.ps-type { font: 700 11.5px var(--ui); text-transform: uppercase; letter-spacing: 0.05em; padding: 1px 6px; border-radius: 3px; border: 1px solid currentColor; margin-right: 4px; }
+.ps-ev.encounter .ps-type { color: #a11d21; }
+.ps-ev.omen .ps-type { color: #8a6d2f; }
+.ps-ev.insidejob .ps-type { color: #7b4fb8; }
+.ps-ev.custom .ps-type { color: #17869a; }
+.ps-ev.quiet .ps-type { color: #4b5a51; }
+.ps-boxes { font: 14px var(--ui); word-spacing: 6px; }
+.ps-write { height: 30px; border-bottom: 1px dotted #9aa89e; }
+.ps-foes { margin: 6px 0; font-size: 13.5px; }
+.ps-foes td:nth-child(1) { width: 40px; } .ps-foes td:nth-child(5) { width: 28%; }
+.ps-ij { margin: 4px 0; padding-left: 1.1em; font-size: 13.5px; }
+.ps-table { break-inside: avoid; }
+.ps-table h3 { font-size: 16px; margin: 12px 0 2px; }
+.ps-table ol { margin: 4px 0; padding-left: 1.8em; }
+.ps-table li { margin: 1px 0; }
+.print-sheet .statblock { break-inside: avoid; background: #fff; color: #18201b; border-color: #c6d3c9; border-left-color: #a11d21; }
+.print-sheet .statblock .small { display: none; }
+.print-sheet .dice-link { all: unset; font-weight: 700; }
+.ps-foot { margin-top: 24px; }
+
 /* ---------------- campaign ---------------- */
 .camp-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr) minmax(0, 1fr); gap: 18px; margin-top: 20px; }
 .camp-grid .wide2 { grid-column: span 3; }
@@ -584,6 +631,8 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .route li + li::before { top: 38px; right: calc(50% + 38px); }
   .calc { padding-right: 0; }
   .calc-grid { grid-template-columns: minmax(0, 1fr); }
+  .ps-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ps-shifts > tbody > tr > th { width: 74px; }
 }
 @media (max-width: 480px) {
   /* Room for the name on small phones: the light/dark switch moves into the menu. */
@@ -594,4 +643,10 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .topbar, .sidenav, .dice-tray, .toc, .toast { display: none !important; }
   .layout { display: block; }
   main { padding: 0; }
+  .no-print { display: none !important; }
+  body:has(.print-sheet) { background: #fff; }
+  .print-sheet { border: 0; box-shadow: none; padding: 0; margin: 0; max-width: none; font-size: 11pt; }
+  .print-sheet h2 { break-after: avoid; }
+  .page.trip-print { max-width: none; }
 }
+@page { margin: 14mm 13mm; }
