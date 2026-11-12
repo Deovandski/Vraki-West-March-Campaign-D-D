@@ -5,6 +5,7 @@ The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vr
 It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.
 
 ## What's on it
+- **Player 101 and DM 101:** pick Player or DM on the start page and a short step-by-step guide shows what you need to do to get ready, with links to the pages and tools for each step. Progress saves, so coming back opens the next step.
 - **Player mode:** the rules, the world lore, the pre-made adventurers, the handout gallery, calculators (balls and change, travel time and quest deadlines, revival window and debt, splitting quest pay, Soul Points and tiers) and a tracker for your own adventurers.
 - **DM mode:** everything players see, plus the DM pages and:
   - **Travel planner.** Set how many circles the trip covers and how many days each circle takes (1, 2 or 3). Every day has its Graveyard, Morning, Afternoon and Night shifts. Roll the events the rules call for, or set each shift yourself: quiet, a sign, an encounter from the region tables, the Inside Job offer, or your own event. Open a shift to run it: creatures from the stat blocks, HP, initiative, conditions and notes, with the party in the same fight.
@@ -41,7 +42,7 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 ## Files
 - `index.html` — the page itself
 - `site/css/site.css` — the look
-- `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables)
+- `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101)
 - `site/snapshot.js` — the bundled offline copy (generated)
 - `site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), the Markdown renderer (MIT License, see `LICENSE-marked.md`)
 - `site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.

@@ -158,6 +158,42 @@ main { min-width: 0; padding: 32px clamp(16px, 4vw, 48px) 80px; outline: none; }
 .steps li { margin-bottom: 6px; }
 .spoiler { border-left: 4px solid var(--blood); padding: 8px 14px; background: var(--blood-bg); max-width: 75ch; font-size: 15px; }
 .site-foot { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 14px; color: var(--ink-2); max-width: 80ch; }
+.home-grid .home-101 { margin-bottom: 8px; }
+
+/* ---------------- Player 101 / DM 101 ---------------- */
+.wizard { max-width: 920px; }
+.wz-kicker { font: 700 15px var(--ui); letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-2); margin: 0 0 4px; }
+.wizard h1 { margin-bottom: 8px; }
+.wz-steps { list-style: none; display: flex; gap: 0; padding: 0; margin: 22px 0 18px; counter-reset: none; overflow-x: auto; }
+.wz-steps li { flex: 1 1 0; min-width: 76px; position: relative; }
+.wz-steps li + li::before { content: ""; position: absolute; top: 18px; left: calc(-50% + 20px); right: calc(50% + 20px); border-top: 3px dotted var(--line); }
+.wz-steps a { display: grid; justify-items: center; gap: 6px; text-decoration: none; color: var(--ink-2); font: 14px/1.2 var(--ui); text-align: center; padding: 0 4px 4px; }
+.wz-num { width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; border: 2.5px solid var(--wood); background: var(--card); color: var(--ink); font: 700 17px var(--ui); position: relative; z-index: 1; }
+.wz-steps a.done .wz-num { background: var(--leaf); }
+.wz-steps a[aria-current="step"] { color: var(--ink); font-weight: 700; }
+.wz-steps a[aria-current="step"] .wz-num { background: var(--wood); color: var(--wood-ink); box-shadow: 0 0 0 4px var(--leaf); }
+.wz-steps a:hover .wz-num { border-color: var(--ink-2); }
+.wz-card { background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--wood); border-radius: 6px; padding: 20px clamp(16px, 3vw, 28px) 18px; }
+.wz-count { font: 700 14px var(--ui); color: var(--ink-2); margin: 0 0 2px; }
+.wz-card h2 { font-size: 26px; margin: 0 0 8px; }
+.wz-why { font-size: 1.05em; margin: 0 0 10px; max-width: 64ch; }
+.wz-todo { margin: 0 0 14px; padding-left: 1.2em; max-width: 66ch; }
+.wz-todo li + li { margin-top: 6px; }
+.wz-links { margin: 14px 0 4px; }
+.wz-nav { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--line-2); }
+.wz-next { display: flex; flex-wrap: wrap; gap: 8px; margin-left: auto; }
+.wz-check { list-style: none; padding: 0; margin: 4px 0 16px; }
+.wz-check li { display: flex; gap: 10px; align-items: baseline; padding: 5px 0; }
+.wz-check li > span:first-child { font: 700 16px var(--ui); width: 1.2em; color: var(--ink-2); }
+.wz-check li.done > span:first-child { color: var(--wood-2); }
+.wz-nav-end { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 0; }
+.wz-skip { margin-top: 14px; }
+@media (max-width: 560px) {
+  .wz-short { display: none; }
+  .wz-steps a[aria-current="step"] .wz-short { display: block; }
+  .wz-steps li { min-width: 44px; }
+  .wz-nav .btn { white-space: normal; }
+}
 
 /* ---------------- Markdown pages ---------------- */
 .doc-wrap { display: grid; grid-template-columns: minmax(0, 72ch) 230px; gap: 48px; align-items: start; }
