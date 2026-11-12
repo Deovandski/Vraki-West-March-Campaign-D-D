@@ -143,13 +143,13 @@
             <p class="lede">An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. Players come and go, every party starts and ends at a Forway embassy, and whatever one party finds stays found for everyone.</p>
           </div>
           <div class="doors">
-            <a class="badge-door ${role === "player" ? "is-on" : ""}" href="#/t/calculators" data-action="role" data-role="player" data-then="#/doc/${encPath("D&D Campaign/02 - Making an Adventurer.md")}">
+            <a class="badge-door ${role === "player" ? "is-on" : ""}" href="#/t/start-player" data-action="role" data-role="player" data-then="#/t/start-player">
               <span class="gem tl pearl"></span><span class="gem tr pearl"></span><span class="gem bl pearl"></span><span class="gem br pearl"></span>
               <span class="door-kicker">I'm playing</span>
               <span class="door-title">Player</span>
               <span class="door-text">Make an adventurer, read the rules and lore, roll dice, count your balls and your debts.</span>
             </a>
-            <a class="badge-door ${role === "dm" ? "is-on" : ""}" href="#/t/travel" data-action="role" data-role="dm" data-then="#/t/travel">
+            <a class="badge-door ${role === "dm" ? "is-on" : ""}" href="#/t/start-dm" data-action="role" data-role="dm" data-then="#/t/start-dm">
               <span class="gem tl sapphire"></span><span class="gem tr sapphire"></span><span class="gem bl sapphire"></span><span class="gem br sapphire"></span>
               <span class="door-kicker">I'm running it</span>
               <span class="door-title">DM</span>
@@ -160,6 +160,7 @@
         <section class="home-grid">
           <div>
             <h2>New here?</h2>
+            <p class="home-101">Pick Player or DM above for a step-by-step guide, or:</p>
             <ol class="steps">
               <li><a href="${docHash("World Lore/01 - The World at a Glance.md")}">Read the world at a glance</a> (five minutes).</li>
               <li><a href="${docHash("D&D Campaign/02 - Making an Adventurer.md")}">Make an adventurer</a>, or pick one of the <a href="${docHash("D&D Campaign/Adventurers/README.md")}">nine pre-made ones</a>.</li>
