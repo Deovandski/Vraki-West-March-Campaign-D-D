@@ -240,6 +240,7 @@
       <div class="trip-actions">
         <button class="btn primary" data-action="autofill">Roll events for empty shifts</button>
         <button class="btn" data-action="clear-events">Clear all events</button>
+        <a class="btn" href="#/t/trip-print">Print or save as PDF</a>
         <p class="trip-sum">${total ? `<b>${VW.util.plural(total, "day")}</b> one way · ${fmtDate(t.start)} to ${fmtDate(end.date)} · deadline <b>${VW.util.plural(deadline, "day")}</b> if they come back the same way · <b>${round * partySize()}</b> rations for ${partySize()} people` : "Add a circle to start."}</p>
         <p class="trip-sum muted">${VW.util.plural(counts.encounter, "encounter")}, ${VW.util.plural(counts.omen, "sign")}${counts.insidejob ? ", the Inside Job offer" : ""}${counts.custom ? ", " + counts.custom + " of your own" : ""}. ${counts.open} still to run.</p>
       </div>
@@ -493,6 +494,154 @@
     }
   }
 
+  /* ---------------- print sheet ---------------- */
+  // A paper copy of the trip for running it without the site: every day and shift, the fights with
+  // blank HP space, the party, the encounter tables for the regions it crosses, and the stat blocks.
+  const PRINT_DEFAULTS = { empty: true, party: true, tables: true, stats: true, allStats: false };
+  function printOpts() {
+    const s = store.state;
+    s.printOpts = Object.assign({}, PRINT_DEFAULTS, s.printOpts || {});
+    return s.printOpts;
+  }
+
+  async function renderPrint(m) {
+    const data = await VW.content.data();
+    const s = store.state;
+    if (!s.trips.length) {
+      m.innerHTML = `<div class="page"><h1>Print a trip</h1><div class="empty"><p>No trips yet. Plan one first, then come back to print it.</p><a class="btn primary" href="#/t/travel">Go to the travel planner</a></div></div>`;
+      return;
+    }
+    let t = trip();
+    if (!t) { s.currentTrip = s.trips[0].id; t = trip(); }
+    const o = printOpts();
+    const days = dayList(t);
+    const total = days.length, round = total * 2, deadline = Math.ceil(round * 1.5);
+    const end = total ? dateFor(t, total - 1) : null;
+    const P = VW.parse.stripMd;
+
+    // Regions this trip touches, in route order.
+    const regionIds = [];
+    const addRegion = (id) => { const r = regionById(data, id); if (r && !regionIds.includes(r.id)) regionIds.push(r.id); };
+    addRegion(t.region);
+    t.circles.forEach((c) => addRegion(regionOf(t, c)));
+    Object.values(t.events).forEach((e) => { if (e && e.region) addRegion(e.region); });
+
+    // Creatures: the ones already in fights, and optionally every one the tables can spawn.
+    const refs = [];
+    const addRef = (id) => { if (id && data.byId[id] && !refs.includes(id)) refs.push(id); };
+    Object.values(t.events).forEach((e) => (e && e.combatants || []).forEach((c) => addRef(c.ref)));
+    if (o.allStats) regionIds.forEach((rid) => regionById(data, rid).entries.forEach((en) =>
+      VW.parse.spawnsFor(P(en), data.creatures).forEach((sp) => addRef(sp.ref.id))));
+
+    const party = s.party.filter((p) => p.status !== "away");
+    const flag = (on, txt) => (on ? `<li>${txt}</li>` : "");
+
+    let body = "";
+    t.circles.forEach((c, ci) => {
+      const startAbs = t.circles.slice(0, ci).reduce((a, x) => a + num(x.pace, 2), 0);
+      const r = regionById(data, regionOf(t, c));
+      let dayRows = "";
+      for (let d = 0; d < c.pace; d++) {
+        const { date, weekday } = dateFor(t, startAbs + d);
+        const rows = SHIFTS.map((sh) => {
+          const ev = t.events[keyOf(c.id, d, sh.id)];
+          if (!ev || !ev.type) {
+            if (!o.empty) return "";
+            const rolls = sh.always || t.rollDay;
+            return `<tr class="ps-blank"><th scope="row">${sh.name}<small>${sh.time}</small></th>
+              <td>${rolls ? `<span class="ps-boxes">☐ Quiet ☐ Sign ☐ Encounter ☐ Other</span><div class="ps-write"></div>` : `<span class="muted">No roll this shift</span>`}</td></tr>`;
+          }
+          const foes = (ev.combatants || []).filter((x) => !x.partyId);
+          return `<tr class="ps-ev ${ev.type}"><th scope="row">${sh.name}<small>${sh.time}</small></th><td>
+            <p class="ps-title"><span class="ps-type">${esc(typeName(ev.type))}</span> ${ev.type === "quiet" ? "" : esc(ev.title || "")}${ev.resolved ? ' <span class="muted">(done)</span>' : ""}</p>
+            ${ev.text && ev.type !== "quiet" ? `<p>${esc(ev.text)}</p>` : ""}
+            ${ev.notes ? `<p class="ps-notes"><b>Notes:</b> ${esc(ev.notes)}</p>` : ""}
+            ${ev.roll ? `<p class="muted small">Rolled: ${esc(ev.roll)}</p>` : ""}
+            ${ev.type === "insidejob" ? printInsideJob(ev) : ""}
+            ${foes.length ? `<table class="ps-foes"><thead><tr><th>Init</th><th>Creature</th><th>AC</th><th>HP</th><th>Damage taken</th><th>Conditions</th></tr></thead><tbody>
+              ${foes.map((f) => `<tr><td></td><td>${esc(f.name)}</td><td>${esc(f.ac)}</td><td>${esc(f.max)}</td><td></td><td>${esc(f.cond || "")}</td></tr>`).join("")}</tbody></table>` : ""}
+            ${ev.type !== "quiet" ? `<div class="ps-write"></div>` : ""}
+          </td></tr>`;
+        }).join("");
+        if (!rows) continue;
+        dayRows += `<section class="ps-day"><h3>Day ${startAbs + d + 1} <span>${fmtDate(date, true)}${weekday ? ", " + weekday : ""}</span></h3>
+          <table class="ps-shifts"><tbody>${rows}</tbody></table></section>`;
+      }
+      body += `<section class="ps-circle"><h2>Circle ${ci + 1} of ${t.circles.length}${c.label ? ": " + esc(c.label) : ""}
+        <span>${VW.util.plural(+c.pace, "day")} (${PACE[c.pace]}) · ${esc(r.name)} table</span></h2>${dayRows || `<p class="muted">Nothing to print for this circle.</p>`}</section>`;
+    });
+
+    m.innerHTML = `<div class="page wide tool trip-print">
+      <div class="print-controls no-print">
+        <div class="tool-head">
+          <h1>Print a trip</h1>
+          <div class="trip-pick">
+            <label class="sr" for="ps-trip">Trip</label>
+            <select id="ps-trip" data-action="trip-pick">${s.trips.map((x) => `<option value="${x.id}"${x.id === t.id ? " selected" : ""}>${esc(x.name || "Untitled trip")}</option>`).join("")}</select>
+            <a class="btn quiet" href="#/t/travel">Back to the planner</a>
+          </div>
+        </div>
+        <p class="lede">A paper copy of this trip, so you can run it without the site. Use your browser's print window to print it or choose <b>Save as PDF</b>.</p>
+        <fieldset class="checks print-opts"><legend class="f-label">Include</legend>
+          <label><input type="checkbox" data-bind="printOpts.empty" data-rerender${o.empty ? " checked" : ""}> Shifts with no event yet, with space to write what happens</label>
+          <label><input type="checkbox" data-bind="printOpts.party" data-rerender${o.party ? " checked" : ""}> The party${party.length ? ` (${party.length})` : " (none set up yet)"}</label>
+          <label><input type="checkbox" data-bind="printOpts.tables" data-rerender${o.tables ? " checked" : ""}> Encounter tables for the regions on this trip, to roll at the table</label>
+          <label><input type="checkbox" data-bind="printOpts.stats" data-rerender${o.stats ? " checked" : ""}> Stat blocks</label>
+          <label class="sub"><input type="checkbox" data-bind="printOpts.allStats" data-rerender${o.allStats ? " checked" : ""}${o.stats ? "" : " disabled"}> Also every creature those tables can bring, not just the fights already set</label>
+        </fieldset>
+        <p><button class="btn primary" data-action="print">Print or save as PDF</button></p>
+      </div>
+
+      <article class="print-sheet" aria-label="Printable trip sheet">
+        <header class="ps-head">
+          <p class="ps-kicker">Vraki West March · Trip sheet</p>
+          <h1>${esc(t.name || "Untitled trip")}</h1>
+          <p class="ps-route">${esc(t.from || "?")} → ${esc(t.to || "?")}</p>
+          <dl class="ps-facts">
+            <div><dt>Dates</dt><dd>${total ? fmtDate(t.start, true) + " to " + fmtDate(end.date, true) : "—"}${t.start.weekday ? " (starts on " + esc(t.start.weekday) + ")" : ""}</dd></div>
+            <div><dt>Length</dt><dd>${VW.util.plural(t.circles.length, "circle")}, ${VW.util.plural(total, "day")} one way</dd></div>
+            <div><dt>Deadline</dt><dd>${VW.util.plural(deadline, "day")} if they come back the same way</dd></div>
+            <div><dt>Rations</dt><dd>${round * partySize()} for ${partySize()} people, there and back</dd></div>
+            <div><dt>Region</dt><dd>${esc(regionById(data, t.region).name)}</dd></div>
+            <div><dt>Events</dt><dd>${t.mode === "circle" ? "One roll per circle" : "Every Graveyard and Night shift" + (t.rollDay ? ", plus Morning and Afternoon" : "")}</dd></div>
+          </dl>
+          <ul class="ps-flags">
+            ${flag(t.danger, "Dangerous trip: encounters on 1–2")}
+            ${flag(t.escort, "Cargo escort: the Inside Job offer can happen" + (t.valuable ? " (valuable cargo)" : ""))}
+            ${flag(t.departure, t.departure ? "Departure roll d6 " + t.departure.d6 + ": " + (t.departure.offer ? "the offer comes before they leave" : "no offer at departure") : "")}
+          </ul>
+          <p class="ps-rule"><b>Event roll:</b> d6 per shift that rolls. ${t.danger ? "1–2" : "1"} = encounter (d12 on the region table), ${t.danger ? "3" : "2"} = a sign of one (d12), the rest = quiet.</p>
+        </header>
+
+        ${o.party && party.length ? `<section class="ps-party"><h2>The party</h2>
+          <table><thead><tr><th>Name</th><th>Class</th><th>AC</th><th>HP</th><th>SP</th><th>HP now / notes</th></tr></thead><tbody>
+          ${party.map((p) => `<tr><td>${esc(p.name || "Unnamed")}</td><td>${esc([p.cls, p.level ? "lvl " + p.level : ""].filter(Boolean).join(" "))}</td><td>${esc(p.ac)}</td><td>${esc(p.maxHp)}</td><td>${esc(p.maxSp)}</td><td></td></tr>`).join("")}
+          </tbody></table></section>` : ""}
+
+        ${body}
+
+        ${t.notes ? `<section class="ps-tripnotes"><h2>Trip notes</h2><p>${esc(t.notes)}</p></section>` : ""}
+
+        ${o.tables ? `<section class="ps-tables"><h2>Encounter tables (d12)</h2>
+          ${regionIds.map((rid) => { const r = regionById(data, rid); return `<div class="ps-table"><h3>${esc(r.name)}</h3>${r.places ? `<p class="muted small">${esc(r.places)}</p>` : ""}
+            <ol>${r.entries.map((e) => `<li>${esc(P(e))}</li>`).join("")}</ol></div>`; }).join("")}
+        </section>` : ""}
+
+        ${o.stats && refs.length ? `<section class="ps-stats"><h2>Stat blocks</h2>${refs.map((id) => statBlock(data.byId[id], false)).join("")}</section>` : ""}
+
+        <p class="ps-foot muted small">Printed ${esc(new Date().toLocaleDateString())} from the Vraki West March travel planner.</p>
+      </article>
+    </div>`;
+  }
+
+  function printInsideJob(ev) {
+    const ij = ev.ij || {};
+    const rows = [["gobetween", "Go-between"], ["cut", "Cut"], ["cargo", "Cargo"], ["value", "Cargo value"], ["pay", "Payment"], ["deal", "What's really going on"], ["patrol", "Patrol"]]
+      .filter(([k]) => ij[k]).map(([k, l]) => `<li><b>${l}:</b> ${esc(ij[k])}</li>`).join("");
+    const heat = num(store.state.campaign.heat);
+    return `<ul class="ps-ij">${rows}<li><b>Heat</b> ${heat} · talking their way out: DC ${10 + 2 * heat}</li></ul>`;
+  }
+
   /* ---------------- actions ---------------- */
   async function onAction(a, el) {
     const data = await VW.content.data();
@@ -634,5 +783,10 @@
   }
 
   app.register("travel", { title: "Travel planner", nav: "Travel planner", role: "dm", order: 1, render, onAction, onInput });
+  app.register("trip-print", {
+    title: "Print a trip", nav: null, role: "dm", render: renderPrint,
+    onAction(a) { if (a === "print") window.print(); },
+    onInput(el) { if (el.dataset.action === "trip-pick") { store.state.currentTrip = el.value; store.save(); app.rerender(); } }
+  });
   VW.travel = { SHIFTS, dayList, keyOf };
 })();
