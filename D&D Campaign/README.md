@@ -16,7 +16,7 @@ You're a badge-carrying **Pearl adventurer** working out of a Forway **embassy**
 6. **Rewards come from the world**: quest pay, loot, bounties, promotions, guild connections, gossip worth money.
 
 ## The big simplification: travel by circles
-No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) has circles drawn along the routes connecting places. **Count the circles to the destination. Each circle represents 1, 2 or 3 days — the DM chooses** (Fast, Standard, Slow) to make the journey shorter or longer. Details in [Travel by Circles](01%20-%20Travel%20by%20Circles.md).
+No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) has circles drawn along the routes connecting places. **Count the circles to the destination. Each circle represents 1, 2 or 3 days — the DM chooses** (Fast, Standard, Slow) to make the journey shorter or longer. Forway to Sanbi is 6 circles, so 6, 12 or 18 days. Every route's length is in the [Maps](../Maps) table, and the website's travel planner counts them for you. Details in [Travel by Circles](01%20-%20Travel%20by%20Circles.md).
 
 ## Files
 | # | File | What's inside |

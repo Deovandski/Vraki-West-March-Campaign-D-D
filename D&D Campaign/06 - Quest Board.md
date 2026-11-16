@@ -5,7 +5,7 @@ Every embassy's Floor 1 has a **quest board**. Quests are contracts: sign with y
 ## Quest rules
 - **Rank:** you can take quests at your rank or lower. A party may take a quest one rank higher if at least one member holds that rank.
 - **Reward:** paid on return with proof (a head, a heart stone, a signed receipt, the cargo delivered intact). Split as the party likes. Revival debt takes its 50% first.
-- **Deadline:** the round trip in days at the DM's pace knob, **plus 50%**. (Example: a destination 5 circles away at 2 days per circle is 10 days each way, 20 days round trip, so the deadline is 30 days.)
+- **Deadline:** the round trip in days at the DM's pace knob, **plus 50%**. (Example: Forway to Sanbi is 6 circles; at 2 days per circle that's 12 days each way, 24 days round trip, so the deadline is 36 days.)
 - **Failure:** fail a quest or miss the deadline without a good reason and you owe a penalty equal to **10% of the reward**. Lose a borrowed badge on a Missing Person quest and you owe **10× the reward**.
 - **Embassy cut:** posting a quest costs the poster 1 amethyst; that's not your problem.
 

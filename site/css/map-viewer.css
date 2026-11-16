@@ -1,0 +1,39 @@
+/* MapViewer (site/js/map-viewer.js): zoom-and-pan viewer for one big picture. Reusable component.
+   Theme with: --map-viewer-bg, --map-viewer-border, --map-viewer-btn, --map-viewer-btn-ink,
+   --map-viewer-focus, --map-viewer-radius. */
+.map-viewer { margin: 0; }
+.map-viewer__box {
+  position: relative; overflow: hidden; width: 100%; aspect-ratio: 2;
+  background: var(--map-viewer-bg, #0f2a3a); border: 1px solid var(--map-viewer-border, rgba(0, 0, 0, 0.25));
+  border-radius: var(--map-viewer-radius, 6px); cursor: grab; touch-action: none; user-select: none; -webkit-user-select: none;
+}
+.map-viewer__box:focus-visible { outline: 3px solid var(--map-viewer-focus, #2d4fa3); outline-offset: 2px; }
+.map-viewer__box.is-dragging { cursor: grabbing; }
+.map-viewer__img { position: absolute; left: 0; top: 0; max-width: none; transform-origin: 0 0; will-change: transform; pointer-events: none; }
+.map-viewer__tools { position: absolute; top: 10px; right: 10px; display: grid; gap: 6px; z-index: 1; }
+.map-viewer__tools button, .map-viewer__tools a {
+  width: 40px; height: 40px; display: grid; place-items: center; padding: 0; cursor: pointer;
+  background: var(--map-viewer-btn, rgba(255, 255, 255, 0.92)); color: var(--map-viewer-btn-ink, #18201b);
+  border: 1px solid rgba(0, 0, 0, 0.2); border-radius: var(--map-viewer-radius, 6px); box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+.map-viewer__tools button:hover, .map-viewer__tools a:hover { filter: brightness(0.94); }
+.map-viewer__tools button:focus-visible, .map-viewer__tools a:focus-visible { outline: 3px solid var(--map-viewer-focus, #2d4fa3); outline-offset: 1px; }
+.map-viewer__tools svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.map-viewer__zoom {
+  position: absolute; left: 10px; bottom: 10px; padding: 2px 8px; border-radius: 999px; font-size: 13px;
+  background: rgba(0, 0, 0, 0.55); color: #fff; opacity: 0; transition: opacity 0.2s;
+}
+.map-viewer__box.is-zoomed .map-viewer__zoom { opacity: 1; }
+.map-viewer__help, .map-viewer__caption { margin: 6px 0 0; font-size: 14px; opacity: 0.8; }
+.map-viewer.is-fullscreen { background: var(--map-viewer-bg, #0f2a3a); display: grid; place-items: center; padding: 12px; }
+.map-viewer.is-fullscreen .map-viewer__box { width: auto; height: calc(100vh - 80px); max-width: 100%; }
+.map-viewer.is-fullscreen .map-viewer__help, .map-viewer.is-fullscreen .map-viewer__caption { color: #fff; }
+/* Narrow viewers (phones): the buttons go in a row so they fit the short box. */
+.map-viewer { container-type: inline-size; }
+@container (max-width: 560px) {
+  .map-viewer__tools { grid-auto-flow: column; top: 6px; right: 6px; gap: 4px; }
+  .map-viewer__tools button, .map-viewer__tools a { width: 32px; height: 32px; }
+  .map-viewer__tools svg { width: 17px; height: 17px; }
+}
+@media (prefers-reduced-motion: reduce) { .map-viewer__img { transition: none !important; } .map-viewer__zoom { transition: none; } }
+@media print { .map-viewer__tools, .map-viewer__help { display: none; } .map-viewer__box { border: 0; } }

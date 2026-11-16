@@ -518,6 +518,18 @@ input.tiny { width: 4em; }
 .print-sheet .dice-link { all: unset; font-weight: 700; }
 .ps-foot { margin-top: 24px; }
 
+/* ---------------- travel map ---------------- */
+.travel-map .map-viewer, .doc .map-viewer { margin: 18px 0 8px; --map-viewer-focus: var(--focus); --map-viewer-border: var(--line); --map-viewer-btn: var(--card); --map-viewer-btn-ink: var(--ink); }
+.route-finder { margin: 22px 0; max-width: 760px; }
+.route-finder .frow { align-items: end; }
+.route-finder .frow .f { flex: 1 1 180px; }
+.rf-swap { align-self: end; margin-bottom: 4px; }
+.rf-total { font-size: 1.15em; margin: 8px 0 2px; }
+.rf-days { font: 15px var(--ui); margin: 0 0 6px; }
+.rf-legs { margin: 4px 0 8px; padding-left: 1.3em; font-size: 15px; }
+.route-table td.num { text-align: right; font: 700 15px var(--ui); }
+.map-count > div { display: flex; flex-wrap: wrap; gap: 6px; }
+
 /* ---------------- campaign ---------------- */
 .camp-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr) minmax(0, 1fr); gap: 18px; margin-top: 20px; }
 .camp-grid .wide2 { grid-column: span 3; }

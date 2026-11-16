@@ -299,7 +299,29 @@
     return out;
   }
 
-  const api = { norm, slug, stripMd, parseBeasts, parseFauna, parsePeople, parseTables, parseEncounters, parseQuests, parseAdventurer, parseFactions, spawnsFor };
+  /* ---------- Maps README: route lengths in circles ---------- */
+  // Reads the "Route lengths" table: | From | To | Circles | On the map | Encounter table |
+  // and the "Off the edge of the map" table: | From | Heading | Circles to the edge |
+  function parseRoutes(md) {
+    const tables = parseTables(md);
+    const col = (t, re) => t.head.findIndex((h) => re.test(stripMd(h)));
+    const routes = [], edges = [];
+    tables.forEach((t) => {
+      const f = col(t, /^from$/i), to = col(t, /^to$/i), c = col(t, /^circles$/i);
+      if (f >= 0 && to >= 0 && c >= 0) {
+        const look = col(t, /on the map/i), reg = col(t, /encounter/i);
+        t.rows.forEach((r) => {
+          const n = parseInt(stripMd(r[c]), 10);
+          if (n > 0) routes.push({ from: stripMd(r[f]), to: stripMd(r[to]), circles: n, look: look >= 0 ? stripMd(r[look]) : "", region: reg >= 0 ? stripMd(r[reg]) : "" });
+        });
+      }
+      const h = col(t, /^heading$/i), e = col(t, /edge/i);
+      if (f >= 0 && h >= 0 && e >= 0) t.rows.forEach((r) => edges.push({ from: stripMd(r[f]), heading: stripMd(r[h]), circles: parseInt(stripMd(r[e]), 10) || 0 }));
+    });
+    return { routes, edges };
+  }
+
+  const api = { norm, slug, stripMd, parseBeasts, parseFauna, parsePeople, parseTables, parseEncounters, parseQuests, parseAdventurer, parseFactions, parseRoutes, spawnsFor };
   root.VW = root.VW || {};
   root.VW.parse = api;
   if (typeof module !== "undefined" && module.exports) module.exports = api;

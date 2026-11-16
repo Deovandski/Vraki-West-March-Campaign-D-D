@@ -1,6 +1,6 @@
 # Vraki West March Campaign D&D
 
-![](https://raw.githubusercontent.com/Deovandski/HusbandOutWorld/main/Legacy/Behind%20The%20Scenes/WorldMapMD.png)
+[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](Maps/web/west-march-map-2400.jpg)](Maps)
 
 ## SPOILER WARNING!
 
@@ -16,7 +16,7 @@ The campaign takes place **in the world** of the light novels, but it is **not t
 
 ### Use it as a website
 
-Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, a travel planner that lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. [How the website works](site/README.md).
+Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a "how far is it?" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. [How the website works](site/README.md).
 
 ### What is a West Marches campaign?
 
@@ -30,7 +30,7 @@ The Four Kingdoms were practically built for it: Forway's embassies already run 
 |---|---|
 | [World Lore](World%20Lore) | Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals |
 | [D&D Campaign](D&D%20Campaign) | DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, the bandits' "Inside Job" offer, dangerous places, factions, stat blocks, pre-gens, DM secrets |
-| [Maps](Maps) | The travel map (circles connecting places) and links to the world maps |
+| [Maps](Maps) | The West March travel map (circles along the roads and sea lanes), how many circles every route takes, and links to the world maps |
 | [Handouts](Handouts) | Printable props: quest board, wanted posters, Forway News, blood contract, badge cards, Winga mail, Castle Mood sign, revival debt certificate, shop price list, expedition reports and a player reference card |
 | [site](site) | The website: Player and DM sections, dice, calculators, the travel planner and trackers |
 
@@ -39,7 +39,7 @@ DMs: start with the [DM Guide](D&D%20Campaign/README.md).
 
 ### Travel without math
 
-No distances, no Egua speeds, no load percentages. The travel map has circles drawn along the routes connecting places; **each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make a journey shorter or longer.
+No distances, no Egua speeds, no load percentages. The [travel map](Maps) has circles drawn along the roads and sea lanes connecting places; **each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make a journey shorter or longer. Forway to Sanbi is 6 circles (6, 12 or 18 days), Forway to Flatland 7, Sanbi to Endlessfog 13 by sea, and Gandew to Sundeath 19 across the desert. The [Maps page](Maps#route-lengths) lists every route.
 
 ### What's AI-assisted here?
 
@@ -54,6 +54,14 @@ The world, its lore, characters and the Vraki font are human-made by Deovandski 
 Read the light novel and explore the lore at **[HusbandOutWorld.com](https://www.husbandoutworld.com)**. It starts with fewer spoilers, and a Behind The Scenes switch adds the author's full notes.
 
 The originals (the novels, the full raw World Lore, every illustration, the spreadsheets and fonts) live in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy).
+
+### Reusable components
+
+Pieces of the website built to be reused here or in other projects (see [CLAUDE.md](CLAUDE.md)):
+
+| Component | What it is | Files | Used on |
+|---|---|---|---|
+| MapViewer | Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries. | [map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css) | Travel map page, the Maps page |
 
 ### Spot something wrong, or want to make a change?
 

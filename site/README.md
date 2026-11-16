@@ -5,10 +5,11 @@ The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vr
 It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.
 
 ## What's on it
+- **Travel map:** the West March map with zoom and pan (drag, pinch, Ctrl + scroll, keyboard, full screen), a "how far is it?" finder that adds up the circles between any two places, and the table of every route. In DM mode, **Plan this trip** opens it in the travel planner.
 - **Player 101 and DM 101:** pick Player or DM on the start page and a short step-by-step guide shows what you need to do to get ready, with links to the pages and tools for each step. Progress saves, so coming back opens the next step.
 - **Player mode:** the rules, the world lore, the pre-made adventurers, the handout gallery, calculators (balls and change, travel time and quest deadlines, revival window and debt, splitting quest pay, Soul Points and tiers) and a tracker for your own adventurers.
 - **DM mode:** everything players see, plus the DM pages and:
-  - **Travel planner.** Set how many circles the trip covers and how many days each circle takes (1, 2 or 3). Every day has its Graveyard, Morning, Afternoon and Night shifts. Roll the events the rules call for, or set each shift yourself: quiet, a sign, an encounter from the region tables, the Inside Job offer, or your own event. Open a shift to run it: creatures from the stat blocks, HP, initiative, conditions and notes, with the party in the same fight. **Print or save as PDF** turns a trip into a paper sheet for running it without the site: every day and shift, fights with blank HP space, the party, the encounter tables for its regions and the stat blocks.
+  - **Travel planner.** Type From and To and **Count circles from the map** sets the circles (and each one's encounter table) from the route lengths, or set how many circles the trip covers and how many days each circle takes (1, 2 or 3). Every day has its Graveyard, Morning, Afternoon and Night shifts. Roll the events the rules call for, or set each shift yourself: quiet, a sign, an encounter from the region tables, the Inside Job offer, or your own event. Open a shift to run it: creatures from the stat blocks, HP, initiative, conditions and notes, with the party in the same fight. **Print or save as PDF** turns a trip into a paper sheet for running it without the site: every day and shift, fights with blank HP space, the party, the encounter tables for its regions and the stat blocks.
   - **Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.
   - **Campaign.** The in-world date, Bahyum's Castle Mood (with the daily roll), the Inside Job Heat, faction reputation and a session log.
   - **Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).
@@ -36,13 +37,14 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 | You want to… | Do this |
 |---|---|
 | Change a rule, a stat block or an encounter table | Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it. |
+| Change a route's length, or add a route | Edit the **Route lengths** table in `Maps/README.md` (From, To, Circles, On the map, Encounter table). The travel map page and the travel planner read it directly. |
 | Add a new page | Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus and search. |
 | Refresh the offline copy | The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`. |
 
 ## Files
 - `index.html` — the page itself
 - `site/css/site.css` — the look
-- `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101)
+- `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)
 - `site/snapshot.js` — the bundled offline copy (generated)
 - `site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), the Markdown renderer (MIT License, see `LICENSE-marked.md`)
 - `site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.

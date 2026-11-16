@@ -169,7 +169,7 @@
           </div>
           <div>
             <h2>Travel without math</h2>
-            <p>The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which. <a href="${docHash("D&D Campaign/01 - Travel by Circles.md")}">Travel by circles</a></p>
+            <p>The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which. <a href="#/t/map">Open the travel map</a> · <a href="${docHash("D&D Campaign/01 - Travel by Circles.md")}">Travel by circles</a></p>
           </div>
           <div>
             <h2>Your progress stays here</h2>
@@ -243,6 +243,15 @@
       const src = img.getAttribute("src");
       if (!/^https?:/i.test(src)) img.setAttribute("src", encPath(resolve(path, decodeURIComponent(src))));
       img.loading = "lazy";
+      // The travel map becomes the zoomable map viewer.
+      if (VW.routes && /Maps\/web\/west-march-map/.test(decodeURIComponent(img.getAttribute("src"))) && window.MapViewer) {
+        const M = VW.routes.MAP;
+        const fig = document.createElement("figure");
+        fig.className = "map-viewer";
+        Object.assign(fig.dataset, { mapViewer: "", src: encPath(M.src), hires: encPath(M.hires), full: encPath(M.full), label: img.alt || M.label });
+        (img.closest("a") || img).replaceWith(fig);
+        window.MapViewer.mount(fig);
+      }
     });
     root.querySelectorAll("table").forEach((t) => {
       const w = document.createElement("div");

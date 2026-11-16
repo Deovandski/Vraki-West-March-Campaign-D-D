@@ -133,10 +133,10 @@
     const P = VW.parse;
     dataPromise = (async () => {
       const get = (p) => getDoc(p).catch(() => "");
-      const [beasts, fauna, people, events, quests, factions, inside] = await Promise.all([
+      const [beasts, fauna, people, events, quests, factions, inside, maps] = await Promise.all([
         get(D + "Stat Blocks/Beasts.md"), get(D + "Stat Blocks/Fauna.md"), get(D + "Stat Blocks/People.md"),
         get(D + "07 - Events & Encounters.md"), get(D + "06 - Quest Board.md"),
-        get(D + "09 - Factions & Reputation.md"), get(D + "10 - The Inside Job (Bandit Offer).md")
+        get(D + "09 - Factions & Reputation.md"), get(D + "10 - The Inside Job (Bandit Offer).md"), get("Maps/README.md")
       ]);
       const src = { Beast: D + "Stat Blocks/Beasts.md", Fauna: D + "Stat Blocks/Fauna.md", Person: D + "Stat Blocks/People.md" };
       const creatures = [...P.parseBeasts(beasts), ...P.parseFauna(fauna), ...P.parsePeople(people)];
@@ -153,6 +153,7 @@
         quests: P.parseQuests(quests),
         factions: P.parseFactions(factions),
         adventurers,
+        map: P.parseRoutes(maps),
         insideJob: {
           goBetween: pick(/go-between/i), cargo: pick(/in the wagon/i),
           value: pick(/^Cargo value/i), deal: pick(/Deal roll/i), heat: pick(/^Heat/i)

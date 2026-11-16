@@ -62,9 +62,9 @@ For each time chunk, players decide:
 
 ## Campaign Duration: travel by circles
 
-No need to calculate distances, Egua speeds or loads. The travel map has **circles drawn along the routes connecting places**.
+No need to calculate distances, Egua speeds or loads. The [travel map](../Maps) has **circles drawn along the routes connecting places**.
 
-1. **Count the circles** from point A to point B along the map.
+1. **Count the circles** from point A to point B along the map. A wagon from Forway to Sanbi crosses 6 circles; the [route lengths table](../Maps/README.md#route-lengths) has the rest.
 2. **Each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make the trip shorter or longer:
    - **1 day (Fast)** — good roads, light loads, or the DM wants to get to the action.
    - **2 days (Standard)** — a normal wagon on roads and trails.

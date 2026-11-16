@@ -174,7 +174,7 @@
     if (!s.trips.length) {
       m.innerHTML = `<div class="page wide tool travel">
         <h1>Travel planner</h1>
-        <p class="lede">Lay out a trip circle by circle, the way the travel map draws it. Pick how many days each circle takes, roll the events the rules call for (or set them yourself), then run each shift: monsters, HP, initiative and notes.</p>
+        <p class="lede">Lay out a trip circle by circle, the way the <a href="#/t/map">travel map</a> draws it. Pick how many days each circle takes, roll the events the rules call for (or set them yourself), then run each shift: monsters, HP, initiative and notes.</p>
         <div class="empty"><p>No trips yet.</p><button class="btn primary" data-action="trip-new">Plan a trip</button></div></div>`;
       return;
     }
@@ -206,8 +206,12 @@
         <summary>Trip settings</summary>
         <div class="setup-grid">
           <label class="f wide2"><span class="f-label">Trip name</span><input id="trip-name" data-bind="${tp(t)}.name" value="${esc(t.name)}" data-rerender></label>
-          <label class="f"><span class="f-label">From</span><input data-bind="${tp(t)}.from" value="${esc(t.from)}"></label>
-          <label class="f"><span class="f-label">To</span><input data-bind="${tp(t)}.to" value="${esc(t.to)}"></label>
+          <label class="f"><span class="f-label">From</span><input data-bind="${tp(t)}.from" value="${esc(t.from)}" list="map-places"></label>
+          <label class="f"><span class="f-label">To</span><input data-bind="${tp(t)}.to" value="${esc(t.to)}" list="map-places"></label>
+          <datalist id="map-places">${VW.routes.places(data).map((p) => `<option value="${esc(p)}">`).join("")}</datalist>
+          <div class="f wide2 map-count"><span class="f-label">Circles from the map</span>
+            <div><button class="btn" data-action="trip-from-map">Count circles from the map</button> <a class="btn quiet" href="#/t/map">Open the map</a></div>
+            <span class="f-hint">Sets the circles (and each one's encounter table) from the route between From and To.</span></div>
           <label class="f wide2"><span class="f-label">Region (encounter table)</span><select data-bind="${tp(t)}.region" data-rerender>${regionOptions(data, t.region)}</select>
             <span class="f-hint">Circles can override this below, for trips that cross regions.</span></label>
           <div class="f"><span class="f-label">Circles on the map</span>
@@ -642,6 +646,26 @@
     return `<ul class="ps-ij">${rows}<li><b>Heat</b> ${heat} · talking their way out: DC ${10 + 2 * heat}</li></ul>`;
   }
 
+  /* ---------------- trips from the map ---------------- */
+  // Fills a trip's circles from a route found on the map (VW.routes.find).
+  function applyRoute(data, t, res) {
+    const pace = t.circles.length && t.circles.every((c) => +c.pace === +t.circles[0].pace) ? +t.circles[0].pace : 2;
+    t.circles = VW.routes.toCircles(data, res, pace);
+    t.events = {}; t.departure = null;
+    t.from = res.from; t.to = res.to;
+    const first = res.legs[0] && VW.routes.regionId(data, res.legs[0].region);
+    if (first) t.region = first;
+    t.sel = null;
+  }
+  // Starts a new trip along a route (used by the map page's "Plan this trip").
+  function planRoute(data, res) {
+    const s = store.state;
+    const nt = newTrip(data, res.from + " to " + res.to);
+    applyRoute(data, nt, res);
+    s.trips.push(nt); s.currentTrip = nt.id; store.save();
+    VW.toast(VW.util.plural(res.circles, "circle") + " from " + res.from + " to " + res.to + ".");
+  }
+
   /* ---------------- actions ---------------- */
   async function onAction(a, el) {
     const data = await VW.content.data();
@@ -662,6 +686,14 @@
     if (!t) return;
     const ev = t.events[t.sel];
     switch (a) {
+      case "trip-from-map": {
+        const res = VW.routes.find(data, t.from, t.to);
+        if (!res) { VW.toast(t.from && t.to ? "No route on the map joins " + t.from + " and " + t.to + ". Check the spelling, or set the circles yourself." : "Fill in From and To first.", "error"); return; }
+        if (Object.keys(t.events).length && !confirm("This replaces the circles and clears this trip's events. Go ahead?")) return;
+        applyRoute(data, t, res);
+        VW.toast(VW.util.plural(res.circles, "circle") + (res.legs.length > 1 ? " via " + res.legs.slice(0, -1).map((l) => l.to).join(", ") : "") + ".");
+        return save();
+      }
       case "circles": {
         if (+el.dataset.d > 0) t.circles.push({ id: uid("c"), pace: t.circles.length ? t.circles[t.circles.length - 1].pace : 2, region: "" });
         else if (t.circles.length > 1) {
@@ -788,5 +820,5 @@
     onAction(a) { if (a === "print") window.print(); },
     onInput(el) { if (el.dataset.action === "trip-pick") { store.state.currentTrip = el.value; store.save(); app.rerender(); } }
   });
-  VW.travel = { SHIFTS, dayList, keyOf };
+  VW.travel = { SHIFTS, dayList, keyOf, planRoute };
 })();
