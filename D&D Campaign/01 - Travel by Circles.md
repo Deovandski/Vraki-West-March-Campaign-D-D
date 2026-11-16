@@ -3,7 +3,9 @@
 Forget kilometers, Egua speeds and load math. The **travel map** (see [Maps](../Maps)) has **circles drawn along the routes connecting places**. Travel is counted in circles.
 
 ## 1. Count circles
-Follow the circles from where the party is to where it wants to go and count them. That count is the length of the trip. (How many circles sit between any two places is whatever the map shows.)
+Follow the circles from where the party is to where it wants to go and count them. That count is the length of the trip. Count every circle on the way: a circle next to a town counts for every road that leaves from it, and circles shared by two roads count on both.
+
+Some lengths from the map: **Forway to Sanbi is 6 circles**, Forway to Flatland 7, Sanbi to Endlessfog 13 (by sea), Gandew to Sundeath 19 (across the desert). The [route lengths table](../Maps/README.md#route-lengths) has every road and sea lane. For a trip through several towns, add up the legs: Forway → Sanbi → Cruro is 6 + 10 = 16 circles.
 
 Going somewhere with no circles drawn — off the routes, into unexplored land? The DM decides how many circles the trip is worth, or draws new ones on the shared map.
 
@@ -18,7 +20,7 @@ Going somewhere with no circles drawn — off the routes, into unexplored land? 
 
 The knob is a **storytelling tool**, not physics. The DM can set it once for the whole trip or change it per leg when the terrain changes (Fast along a road, Slow once the party heads into the swamp).
 
-> **Days = circles × the DM's pace (1, 2 or 3).**
+> **Days = circles × the DM's pace (1, 2 or 3).** Forway to Sanbi, 6 circles: 6 days Fast, 12 Standard, 18 Slow.
 
 ## 3. Play out the days (or skip them)
 Each day has four **shifts**, kept from the Alpha campaign:
