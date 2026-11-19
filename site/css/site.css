@@ -104,6 +104,8 @@ h1, h2, h3, h4 { line-height: 1.2; text-wrap: balance; }
 .data-menu { position: absolute; right: 16px; top: 100%; margin-top: 6px; width: 300px; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18); padding: 12px; display: grid; gap: 8px; }
 .data-menu[hidden] { display: none; }
 .data-menu-note { margin: 0 0 4px; font: 14px/1.45 var(--ui); color: var(--ink-2); }
+.data-menu-app [data-pwa-install] { width: 100%; }
+.data-menu .pwa-status:empty { display: none; }
 .data-menu button, .filebtn { font: 700 15px var(--ui); text-align: left; padding: 9px 12px; border: 1px solid var(--line); background: var(--paper); color: var(--ink); border-radius: var(--radius); cursor: pointer; }
 .filebtn input { position: absolute; opacity: 0; width: 1px; }
 .filebtn:focus-within { outline: 2px solid var(--focus); }

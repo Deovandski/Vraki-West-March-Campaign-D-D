@@ -111,6 +111,8 @@
         ${data.map.edges.length ? `<h3>Off the edge of the map</h3><ul>${data.map.edges.map((e) => `<li>${esc(e.from)}, heading ${esc(e.heading)}: ${plural(e.circles, "circle")} to the edge</li>`).join("")}</ul>` : ""}
       </section>
       <p class="muted small">Map © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0. <a href="${encPath(MAP.full)}" target="_blank" rel="noopener">Full-size file for printing</a> (34 MB).</p>
+      <p><button class="btn quiet" data-pwa-save="${encPath(MAP.hires)}" data-pwa-saved="Sharp map saved for offline use">Save the sharp map for offline zooming (2 MB)</button>
+        <span class="muted small">The map at normal zoom is already saved when the site is installed.</span></p>
     </div>`;
     window.MapViewer.mountAll(m);
   }
