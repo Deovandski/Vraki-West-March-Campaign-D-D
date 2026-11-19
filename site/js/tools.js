@@ -331,7 +331,8 @@
       <h1>Handouts and props</h1>
       <p class="lede">Printable props for the table: quest notices, wanted posters, a blood contract, badges and more. Print the whole set, or open one to show on screen.</p>
       <p><a class="btn primary" href="${encPath("Handouts/Vraki West March - Handouts.pdf")}" target="_blank" rel="noopener">Open the printable PDF</a>
-        <a class="btn" href="${app.docHash("Handouts/README.md")}">How to use them</a></p>
+        <a class="btn" href="${app.docHash("Handouts/README.md")}">How to use them</a>
+        <button class="btn quiet" data-pwa-save="${items.map((it) => encPath(it.src)).join("|")}" data-pwa-saved="Handouts saved for offline use">Save the handouts for offline use (about 4 MB)</button></p>
       <ul class="gallery">${items.map((it) => `<li><a href="${encPath(it.src)}" target="_blank" rel="noopener"><img src="${encPath(it.src)}" alt="" loading="lazy"><span class="g-title">${esc(it.title)}</span></a><p>${esc(it.when)}</p></li>`).join("")}</ul>
       <p class="muted">Art by Mitsukiven &amp; Feiourm. © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.</p>
     </div>`;

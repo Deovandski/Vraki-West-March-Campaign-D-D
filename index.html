@@ -6,6 +6,13 @@
 <title>Vraki West March</title>
 <meta name="description" content="Player and DM companion for the Vraki West March, an open-table D&D 5e campaign in the world of #HusbandOutWorld: rules, lore, dice, calculators and a travel planner.">
 <link rel="icon" href="Handouts/source/assets/forway-emblem.png">
+<link rel="manifest" href="site/manifest.webmanifest">
+<link rel="apple-touch-icon" href="site/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#1f3a2e">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="West March">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="site/css/site.css">
 <link rel="stylesheet" href="site/css/map-viewer.css">
 <script>
@@ -46,6 +53,11 @@
   </div>
   <div class="data-menu" id="data-menu" hidden>
     <p class="data-menu-note">Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.</p>
+    <div class="data-menu-app">
+      <button data-pwa-install hidden>Install as an app</button>
+      <p class="data-menu-note" data-pwa-ios hidden>To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.</p>
+      <p class="data-menu-note pwa-status" data-pwa-status aria-live="polite"></p>
+    </div>
     <button data-action="export">Download save file (.json)</button>
     <label class="filebtn">Load a save file<input type="file" accept=".json,application/json" data-action="import"></label>
     <button class="danger" data-action="reset">Start over</button>
@@ -102,5 +114,6 @@
 <script src="site/js/map-viewer.js"></script>
 <script src="site/js/map.js"></script>
 <script>VW.app.start();</script>
+<script src="site/js/pwa.js" data-sw="sw.js" data-scope="./" defer></script>
 </body>
 </html>

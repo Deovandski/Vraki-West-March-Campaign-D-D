@@ -16,7 +16,7 @@ The campaign takes place **in the world** of the light novels, but it is **not t
 
 ### Use it as a website
 
-Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a "how far is it?" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. [How the website works](site/README.md).
+Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a "how far is it?" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).
 
 ### What is a West Marches campaign?
 
@@ -62,6 +62,7 @@ Pieces of the website built to be reused here or in other projects (see [CLAUDE.
 | Component | What it is | Files | Used on |
 |---|---|---|---|
 | MapViewer | Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries. | [map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css) | Travel map page, the Maps page |
+| PWA helper | Makes a site an installable app that works offline: registers the service worker and runs an "Install as an app" button, the iPhone "Add to Home Screen" hint, an offline status line and "save these files for offline" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski). | [pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest) | The whole site (save menu, handouts, travel map) |
 
 ### Spot something wrong, or want to make a change?
 

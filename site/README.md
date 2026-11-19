@@ -16,11 +16,22 @@ It reads the same Markdown files you see in the repo, so there's nothing to keep
 - **Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.
 - **Search** across all the rules and lore. Player mode leaves DM pages out of the results.
 
+## Install it as an app (works offline)
+The site installs like an app on a phone, tablet or computer, and once installed (or after one visit in the browser) it works with **no signal**: handy at the table.
+- **Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.
+- **iPhone and iPad:** in Safari, tap Share, then **Add to Home Screen**.
+
+**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.
+
+Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.
+
 ## Saving
 Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.
 
 ## Publishing
 The workflow in `.github/workflows/pages.yml` publishes the site on every push to `main`: it refreshes `site/snapshot.js`, gathers the site and the Markdown it reads, and deploys them to GitHub Pages. You can also run it by hand from the Actions tab (**Website → Run workflow**).
+
+It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.
 
 One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**
 
@@ -45,7 +56,10 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 - `index.html` — the page itself
 - `site/css/site.css` — the look
 - `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)
-- `site/snapshot.js` — the bundled offline copy (generated)
+- `site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline
+- `sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)
+- `site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts
+- `site/js/pwa.js` — registers the service worker and runs the install button, the iPhone hint, the offline status and the "save for offline" buttons (a reusable component)
 - `site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), the Markdown renderer (MIT License, see `LICENSE-marked.md`)
 - `site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.
 
