@@ -1,4 +1,32 @@
 {
+ "019d6459a784": {
+  "en": "**`llms.txt`** ([format](https://llmstxt.org/)): a short summary of the campaign, then every page grouped as in the side menu (Start here, Player rules, Adventurers, World lore, Maps & handouts), each linked to its raw `.md` file with a one-line description. The DM pages come last, in their own **DM only (spoilers)** sections.",
+  "t": "**`llms.txt`**（[格式](https://llmstxt.org/)）：先是战役的简短概述，然后是按侧边菜单分组的所有页面（Start here、Player rules、Adventurers、World lore、Maps & handouts），每个页面都链接到原始的`.md`文件并附一行说明。DM页面放在最后，在单独的**DM only (spoilers)** 部分里。"
+ },
+ "01babe2dbeea": {
+  "en": "`site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)",
+  "t": "`site/js/`——`parse.js`（把Markdown读成数据）、`core.js`（骰子和保存）、`content.js`（页面列表和加载）、`app.js`（菜单、页面、搜索、骰盘）、`tools.js`（计算器、冒险者卡片、道具）、`travel.js`（旅行计划）、`dm.js`（队伍、战役、怪物图鉴、随机表）、`start.js`（玩家入门和DM入门）、`map.js`（旅行地图页面和路线长度）、`map-viewer.js`（可缩放平移的地图查看器，一个可复用组件，有自己的`site/css/map-viewer.css`）"
+ },
+ "038933819340": {
+  "en": "Publishing",
+  "t": "发布"
+ },
+ "092def80d401": {
+  "en": "`site/js/pwa.js` — registers the service worker and runs the install button, the iPhone hint, the offline status and the \"save for offline\" buttons (a reusable component)",
+  "t": "`site/js/pwa.js`——注册service worker，并管理安装按钮、iPhone提示、离线状态和“保存以便离线使用”按钮（一个可复用组件）"
+ },
+ "0b31c4c1a5e8": {
+  "en": "**`sitemap.xml`**: the home page, the two files above and every page, for search engines.",
+  "t": "**`sitemap.xml`**：首页、上面两个文件和所有页面，供搜索引擎使用。"
+ },
+ "0bc07fbce4b8": {
+  "en": "Then open http://localhost:8000. (If you do open `index.html` directly, the site falls back to the copy of the pages bundled in `site/snapshot.js`, which may be older.)",
+  "t": "然后打开 http://localhost:8000 。（如果你直接打开`index.html`，网站会改用`site/snapshot.js`里打包的页面副本，那可能是旧版本。）"
+ },
+ "0c44c8518ab6": {
+  "en": "On the way it writes the translations the site loads (`node tools/i18n.js build`, into `site/i18n/`) and renders the handouts in each language (`Handouts/<lang>/`). If the handouts can't be rendered, the site still deploys with the English ones. The step summary of each run, and of the **Translations** workflow on every pull request, says how much of each language is translated; neither ever fails because of a missing translation.",
+  "t": "在这个过程中，它会写出网站加载的翻译（`node tools/i18n.js build`，写到`site/i18n/`），并渲染每种语言的道具（`Handouts/<lang>/`）。如果道具无法渲染，网站仍会带着英文道具部署。每次运行的步骤摘要，以及每个拉取请求上**Translations**工作流的摘要，都会说明每种语言翻译了多少；两者都不会因为缺少翻译而失败。"
+ },
  "0ccbc3d63f1c": {
   "en": "The website",
   "t": "网站"
@@ -7,12 +35,284 @@
   "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
   "t": "这个仓库同时也是GitHub Pages上的一个网站：**https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
  },
+ "2265ecd0ca4b": {
+  "en": "**Travel map:** the West March map with zoom and pan (drag, pinch, Ctrl + scroll, keyboard, full screen), a \"how far is it?\" finder that adds up the circles between any two places, and the table of every route. In DM mode, **Plan this trip** opens it in the travel planner.",
+  "t": "**旅行地图：** 可缩放和平移的西境地图（拖动、双指缩放、Ctrl + 滚轮、键盘、全屏），一个能把任意两地之间的圈数加起来的“有多远？”查询，以及所有路线的表格。在DM模式下，**在旅行计划中规划这次旅程**会把它打开到旅行计划里。"
+ },
+ "239d23dc7c58": {
+  "en": "**Campaign.** The in-world date, Bahyum's Castle Mood (with the daily roll), the Inside Job Heat, faction reputation and a session log.",
+  "t": "**战役。** 游戏内日期、巴休姆的城堡心情（含每日掷骰）、内应计划的热度、派系声望和跑团日志。"
+ },
+ "2bb1456e6486": {
+  "en": "The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`.",
+  "t": "发布工作流在每次推送时都会这样做。如果也想刷新仓库里的副本，运行`node site/build-snapshot.js`。"
+ },
+ "2cfb6fdc3ce6": {
+  "en": "**Player 101 and DM 101:** pick Player or DM on the start page and a short step-by-step guide shows what you need to do to get ready, with links to the pages and tools for each step. Progress saves, so coming back opens the next step.",
+  "t": "**玩家入门和DM入门：** 在开始页选择玩家或DM，一份简短的分步指南会告诉你需要做什么准备，每一步都附有相关页面和工具的链接。进度会保存，所以回来时会打开下一步。"
+ },
+ "348caab604d6": {
+  "en": "**Arabic** reads right to left: the whole layout flips, while dice, numbers and the map don't. Chinese, Japanese, Korean and Arabic use system fonts made for their scripts.",
+  "t": "**阿拉伯语**从右往左读：整个布局都会翻转，但骰子、数字和地图不会。中文、日语、韩语和阿拉伯语使用为各自文字设计的系统字体。"
+ },
+ "35d8f2015fdd": {
+  "en": "Change a rule, a stat block or an encounter table",
+  "t": "修改规则、数据卡或遭遇表"
+ },
+ "399bff32f249": {
+  "en": "The site is one page that JavaScript fills in, and its pages live after a `#` in the address. Most AI tools and many crawlers don't run JavaScript and ignore everything after the `#`, so to them the site looks empty. These files point them to the Markdown instead:",
+  "t": "网站是一个由JavaScript填充内容的单页，各个页面位于地址里的`#`之后。大多数AI工具和许多爬虫不运行JavaScript，而且会忽略`#`之后的所有内容，所以在它们看来网站是空的。下面这些文件会把它们引向Markdown："
+ },
+ "3e5798257d73": {
+  "en": "Languages",
+  "t": "语言"
+ },
+ "420eb681b96b": {
+  "en": "**Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).",
+  "t": "**怪物图鉴**和**随机表**（委托、遭遇、传闻、内应计划的提议）。"
+ },
+ "450b1f8a5f8e": {
+  "en": "How the translations are stored and updated: [i18n/README.md](../i18n/README.md).",
+  "t": "翻译如何保存和更新：[i18n/README.md](../i18n/README.md)。"
+ },
+ "46d8b7ac84b1": {
+  "en": "Add text to the site's own code",
+  "t": "给网站本身的代码添加文字"
+ },
  "49624bfb046c": {
   "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
   "t": "它读取的就是你在仓库里看到的那些Markdown文件，所以不需要手动同步任何东西：改一条规则，推送，网站就会显示改动。"
  },
+ "49893d838b29": {
+  "en": "Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it.",
+  "t": "编辑`.md`文件。网站及其工具会直接读取它。请保持现有格式（例如数据卡中的`## Name (CR 3) — Region`和`AC 14 · HP 80`，以及Events & Encounters中每个地区下的编号列表），这样工具才能读取。"
+ },
+ "4b80f36e000f": {
+  "en": "Do this",
+  "t": "这样做"
+ },
  "4df7a2e30816": {
   "en": "Files",
   "t": "文件"
+ },
+ "530e0f040f7f": {
+  "en": "`site/css/site.css` — the look",
+  "t": "`site/css/site.css`——外观"
+ },
+ "5c22d60a29f2": {
+  "en": "**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.",
+  "t": "**离线时能用的：** 整个网站及其工具、所有规则和设定页面（包括你没打开过的），以及普通缩放下的旅行地图。你看过的图片也会保存下来。想提前多保存一些，可以在道具页面使用**保存道具以便离线使用**（约4 MB），在旅行地图页面使用**保存清晰地图**（2 MB）。34 MB的打印用地图和道具PDF不会保存。"
+ },
+ "5e3b5e9dc9fa": {
+  "en": "Running it on your computer",
+  "t": "在你的电脑上运行"
+ },
+ "5f7b617d599b": {
+  "en": "`index.html` — the page itself",
+  "t": "`index.html`——页面本身"
+ },
+ "60757df821f3": {
+  "en": "**Not translated yet:** when the English changes, the new or changed text shows in English until the next translation batch. The site never waits for a translation.",
+  "t": "**尚未翻译的内容：** 英文改动后，新增或改动的文字会以英文显示，直到下一批翻译完成。网站从不等待翻译。"
+ },
+ "63d7d38a3435": {
+  "en": "**Search** across all the rules and lore. Player mode leaves DM pages out of the results.",
+  "t": "**搜索**所有规则和设定。玩家模式下，搜索结果不包括DM页面。"
+ },
+ "64a1fdc64f69": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0 (third-party files keep their own licenses, listed above).",
+  "t": "© Deovandski Skibinski Junior。以CC‑BY‑NC‑SA‑4.0许可发布（第三方文件保留各自的许可证，见上文）。"
+ },
+ "6b67c47fa27a": {
+  "en": "Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.",
+  "t": "有网络时页面从互联网加载；4秒内没有响应就使用保存的副本。每次发布都会保存一份新副本并丢弃旧的。"
+ },
+ "6c782fa08e4a": {
+  "en": "**What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.",
+  "t": "**会变的内容：** 菜单、按钮和工具，所有规则和设定页面，工具中的生物名称，以及道具（图片和PDF）。数字、骰子以及AC、HP、DC、CR和SP保持不变，道具上的弗拉基文字行也保持弗拉基文。许可证保留英文，因为英文是具有法律效力的文本。"
+ },
+ "72836e16b6b5": {
+  "en": "Editing",
+  "t": "编辑"
+ },
+ "7440e10a297f": {
+  "en": "Just change it. The translations show the old text's translation until the English is translated again; new or changed text shows in English until then. See [i18n/README.md](../i18n/README.md).",
+  "t": "直接改就行。在英文重新翻译之前，译文会显示旧文字的翻译；新增或改动的文字在那之前以英文显示。见[i18n/README.md](../i18n/README.md)。"
+ },
+ "76c4ac4a2da2": {
+  "en": "Browsers block a page opened straight from a file from loading other files, so start a tiny local server in the repo folder:",
+  "t": "浏览器会阻止直接从文件打开的页面加载其他文件，所以要在仓库文件夹里启动一个小小的本地服务器："
+ },
+ "77cc837e57df": {
+  "en": "Wrap it: `__(\"Roll anything\")`, `__.n(n, \"{n} day\", \"{n} days\")`, or `data-i18n` on an element in `index.html`. `node tools/i18n.js todo` then lists it for translating.",
+  "t": "把它包起来：`__(\"Roll anything\")`、`__.n(n, \"{n} day\", \"{n} days\")`，或者在`index.html`的元素上加`data-i18n`。之后`node tools/i18n.js todo`就会把它列为待翻译。"
+ },
+ "77d9ed85823d": {
+  "en": "`sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)",
+  "t": "`sw.js`——为离线使用保存网站的service worker（放在仓库根目录，以覆盖整个网站）"
+ },
+ "7ab1f14adfb4": {
+  "en": "**Try it on your computer:** run `node site/build-llms.js` in the repo folder (it writes the three files there; git ignores them), start the local server below, and open http://localhost:8000/llms.txt. To see what a reader without JavaScript gets, turn JavaScript off for the page (in Chrome: DevTools → ⋮ → Run command → \"Disable JavaScript\") and reload. The script also lists any `.md` file that isn't in `site/js/content.js`.",
+  "t": "**在你的电脑上试试：** 在仓库文件夹里运行`node site/build-llms.js`（它会把三个文件写在那里；git会忽略它们），启动下面的本地服务器，然后打开 http://localhost:8000/llms.txt 。想看看没有JavaScript的读者看到什么，就为该页面关闭JavaScript（在Chrome中：DevTools → ⋮ → Run command → “Disable JavaScript”）并刷新。脚本还会列出所有不在`site/js/content.js`里的`.md`文件。"
+ },
+ "7b23d280e4fd": {
+  "en": "The workflow in `.github/workflows/pages.yml` publishes the site on every push to `main`: it refreshes `site/snapshot.js`, gathers the site and the Markdown it reads, and deploys them to GitHub Pages. You can also run it by hand from the Actions tab (**Website → Run workflow**).",
+  "t": "`.github/workflows/pages.yml`中的工作流会在每次推送到`main`时发布网站：它会刷新`site/snapshot.js`，收集网站及其读取的Markdown，并部署到GitHub Pages。你也可以在Actions标签页手动运行它（**Website → Run workflow**）。"
+ },
+ "7c22248ab66f": {
+  "en": "**Player mode:** the rules, the world lore, the pre-made adventurers, the handout gallery, calculators (balls and change, travel time and quest deadlines, revival window and debt, splitting quest pay, Soul Points and tiers) and a tracker for your own adventurers.",
+  "t": "**玩家模式：** 规则、世界设定、预制冒险者、道具图库、计算器（球与找零、旅行时间与委托期限、复活时限与债务、分配委托报酬、灵魂点数与级别），以及你自己的冒险者记录。"
+ },
+ "7cff1b5a568b": {
+  "en": "**Once, by hand:** submit `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml` in [Bing Webmaster Tools](https://www.bing.com/webmasters) and [Google Search Console](https://search.google.com/search-console). A project site can't name its sitemap in a `robots.txt`, because that file only counts at the top of `deovandski.github.io`.",
+  "t": "**手动做一次：** 在[Bing Webmaster Tools](https://www.bing.com/webmasters)和[Google Search Console](https://search.google.com/search-console)提交`https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml`。项目网站不能在`robots.txt`里写明自己的站点地图，因为那个文件只有放在`deovandski.github.io`的根目录才有效。"
+ },
+ "80cb266b2c6d": {
+  "en": "The site's code and text are AI-assisted; see the [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "网站的代码和文字有AI辅助；见[AI使用说明](../AI-DISCLOSURE.md)。"
+ },
+ "88f7fb74a3ca": {
+  "en": "`site/build-llms.js` — writes `llms.txt`, `llms-full.txt` and `sitemap.xml` for AI tools and search engines (run by the publishing workflow)",
+  "t": "`site/build-llms.js`——为AI工具和搜索引擎写出`llms.txt`、`llms-full.txt`和`sitemap.xml`（由发布工作流运行）"
+ },
+ "8a3683207893": {
+  "en": "One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**",
+  "t": "在GitHub仓库里只需设置一次：**Settings → Pages → Build and deployment → Source: GitHub Actions.**"
+ },
+ "8cc49969c97f": {
+  "en": "Saving",
+  "t": "保存"
+ },
+ "8cfe9158658d": {
+  "en": "`site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), the Markdown renderer (MIT License, see `LICENSE-marked.md`)",
+  "t": "`site/vendor/marked.umd.js`——[marked](https://github.com/markedjs/marked)，Markdown渲染器（MIT许可证，见`LICENSE-marked.md`）"
+ },
+ "91b7c491add1": {
+  "en": "The page also links them for readers that never get past the HTML: `<link rel=\"alternate\">` tags in `index.html`, a short list of links that shows when JavaScript is off, and a footer on every page.",
+  "t": "页面本身也为那些只读HTML的读者链接了它们：`index.html`里的`<link rel=\"alternate\">`标签、JavaScript关闭时显示的一小串链接，以及每页的页脚。"
+ },
+ "9384751d45ac": {
+  "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
+  "t": "每一页都有**骰盘**，规则里写的每个掷骰（比如2d6+3）都是一个按钮。"
+ },
+ "93c390989051": {
+  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
+  "t": "**Android和Chrome/Edge：** 使用浏览器的安装按钮，或者保存菜单（顶栏）里的**安装为应用**。长按应用图标可以看到旅行地图、旅行计划和道具的快捷方式。"
+ },
+ "95b4c590c974": {
+  "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
+  "t": "`site/js/i18n.js`——翻译：把页面拆成片段，找出每个片段的译文并选择语言（在浏览器和Node里都能运行）"
+ },
+ "a0d1b0c29279": {
+  "en": "`site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.",
+  "t": "`site/i18n/`——`node tools/i18n.js build`为网站加载而写出的文件：`languages.js`、`<lang>.js`（网站本身的文字和名称）和`<lang>.docs.js`（页面和道具）。自动生成，不保存在仓库里。"
+ },
+ "acb3bd3d3067": {
+  "en": "The site installs like an app on a phone, tablet or computer, and once installed (or after one visit in the browser) it works with **no signal**: handy at the table.",
+  "t": "网站可以像应用一样安装到手机、平板或电脑上，安装后（或在浏览器里访问过一次后）**没有信号**也能用：跑团时很方便。"
+ },
+ "acb6baf6327c": {
+  "en": "You want to…",
+  "t": "你想……"
+ },
+ "b70a8ac2bc53": {
+  "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",
+  "t": "**队伍。** HP、临时HP、灵魂点数、力竭、状态、复活债和死亡记录，与旅行计划中的战斗共享。"
+ },
+ "b738bde86d8e": {
+  "en": "`site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.",
+  "t": "`site/fonts/`——TeX Gyre Schola和TeX Gyre Heros Cn，未经修改（GUST Font License，见`GUST-FONT-LICENSE.txt`）。Vraki字体和美术来自`Handouts/source/assets`文件夹。"
+ },
+ "be1ab3934370": {
+  "en": "**The banner:** every translated page starts with \"AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm\" in that language, and a one-click switch back to English.",
+  "t": "**提示横幅：** 每个翻译页面的开头都会用该语言写着“本页由AI根据Deovandski与Mitsukiven/Feiourm的原作翻译成（语言）”，并附有一键切回英文的按钮。"
+ },
+ "bf5e2b39295b": {
+  "en": "Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap.",
+  "t": "添加`.md`文件，然后在`site/js/content.js`顶部的列表里为它加一行，这样它就会出现在菜单、搜索、`llms.txt`和站点地图中。"
+ },
+ "c0ff188c3eaa": {
+  "en": "**`llms-full.txt`**: every page in one file, in the same order, with links made absolute.",
+  "t": "**`llms-full.txt`**：所有页面按相同顺序合成一个文件，链接改为绝对路径。"
+ },
+ "c1f154a148c3": {
+  "en": "Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.",
+  "t": "你输入的一切都会随时保存在浏览器里（本地存储）。用顶栏的保存按钮可以**下载存档文件（.json）**，在另一台设备或浏览器上**载入**，或者留作备份。不会向任何地方发送任何东西：没有服务器、没有账号、没有Cookie、没有统计分析。"
+ },
+ "c795334a2b9e": {
+  "en": "Refresh the offline copy",
+  "t": "刷新离线副本"
+ },
+ "c98977f81652": {
+  "en": "**iPhone and iPad:** in Safari, tap Share, then **Add to Home Screen**.",
+  "t": "**iPhone和iPad：** 在Safari中点“分享”，然后选**添加到主屏幕**。"
+ },
+ "d5a0fd62cc4a": {
+  "en": "**DM mode:** everything players see, plus the DM pages and:",
+  "t": "**DM模式：** 玩家能看到的一切，加上DM页面以及："
+ },
+ "d71daec5a7cc": {
+  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.",
+  "t": "它还会在`sw.js`里打上提交标记，这样每次部署都会刷新大家为离线使用而保存的副本。"
+ },
+ "d89a0a9bfcbe": {
+  "en": "`site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts",
+  "t": "`site/manifest.webmanifest`和`site/icons/`——应用的名称、颜色、图标（用福威徽章制作）和快捷方式"
+ },
+ "de3caeb1cd83": {
+  "en": "Add a new page",
+  "t": "添加新页面"
+ },
+ "e02dd0b09522": {
+  "en": "`site/build-llms.js` writes all three from the page list in `site/js/content.js`, so a page added to the menus is added here too. The publishing workflow runs it on every deploy; the files aren't kept in the repo. To leave the DM pages out, set `INCLUDE_DM` to `false` at the top of the script.",
+  "t": "`site/build-llms.js`根据`site/js/content.js`里的页面列表写出这三个文件，所以加到菜单里的页面也会自动加到这里。发布工作流在每次部署时运行它；这些文件不保存在仓库里。如果不想包含DM页面，就把脚本开头的`INCLUDE_DM`设为`false`。"
+ },
+ "e194197fc0bc": {
+  "en": "`site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline",
+  "t": "`site/snapshot.js`——打包的离线副本（自动生成）；已安装的应用用它离线读取每个页面"
+ },
+ "e27b617aa841": {
+  "en": "**Save files** don't depend on the language: one saved in Japanese loads in English and the other way round.",
+  "t": "**存档文件**与语言无关：用日语保存的存档可以在英文版中载入，反之亦然。"
+ },
+ "e56cfa5d7cde": {
+  "en": "The site comes in English and six translations: 中文 (Simplified Chinese), 日本語 (Japanese), Português (Brazil), Español (Spain), العربية (Arabic) and 한국어 (Korean). They are AI translations of the English, written ahead of time and kept in the repo; nothing is translated on the fly, and English stays the original.",
+  "t": "网站有英文版和六种翻译：中文（简体）、日本語（日语）、Português（巴西葡萄牙语）、Español（西班牙西班牙语）、العربية（阿拉伯语）和한국어（韩语）。这些是从英文出发的AI翻译，事先写好并保存在仓库里；没有任何内容是即时翻译的，原文始终是英文。"
+ },
+ "e7448bd25755": {
+  "en": "**Picking one:** open **Settings (⚙)** in the top bar. It lists every language in its own script with how much of it is done, has the light/dark switch, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
+  "t": "**选择语言：** 打开顶栏的**设置（⚙）**。那里用各自的文字列出每种语言及其完成度，还有浅色/深色切换，以及一个用来申请新语言的[issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7)链接。第一次访问时，只要你浏览器语言的翻译完成度至少达到90%，网站就会自动选择它。链接里加上`?lang=ja`可以强制指定语言。"
+ },
+ "e887f66aadda": {
+  "en": "What's on it",
+  "t": "网站上有什么"
+ },
+ "e8b4838c1cec": {
+  "en": "**Travel planner.** Type From and To and **Count circles from the map** sets the circles (and each one's encounter table) from the route lengths, or set how many circles the trip covers and how many days each circle takes (1, 2 or 3). Every day has its Graveyard, Morning, Afternoon and Night shifts. Roll the events the rules call for, or set each shift yourself: quiet, a sign, an encounter from the region tables, the Inside Job offer, or your own event. Open a shift to run it: creatures from the stat blocks, HP, initiative, conditions and notes, with the party in the same fight. **Print or save as PDF** turns a trip into a paper sheet for running it without the site: every day and shift, fights with blank HP space, the party, the encounter tables for its regions and the stat blocks.",
+  "t": "**旅行计划。** 输入出发地和目的地，点**从地图上数圈**，就会根据路线长度设定圈数（以及每个圈的遭遇表）；或者自己设定这趟旅程有几个圈、每个圈要几天（1、2或3）。每天都有深夜、上午、下午和夜晚四个时段。按规则要求掷事件，或者自己设定每个时段：平静、一个征兆、地区表中的一次遭遇、内应计划的提议，或者你自己的事件。打开一个时段就能主持它：来自数据卡的生物、HP、先攻、状态和备注，队伍也在同一场战斗里。**打印或存为PDF**会把一趟旅程变成一张纸，不用网站也能主持：每一天和每个时段、留有HP空白的战斗、队伍、所经地区的遭遇表和数据卡。"
+ },
+ "e906b4f39955": {
+  "en": "Change English text",
+  "t": "修改英文文字"
+ },
+ "eb8e9f5f308b": {
+  "en": "Install it as an app (works offline)",
+  "t": "安装为应用（可离线使用）"
+ },
+ "ebbc70e90594": {
+  "en": "Change a route's length, or add a route",
+  "t": "修改一条路线的长度，或添加一条路线"
+ },
+ "ee0d90b0fb86": {
+  "en": "Edit the **Route lengths** table in `Maps/README.md` (From, To, Circles, On the map, Encounter table). The travel map page and the travel planner read it directly.",
+  "t": "编辑`Maps/README.md`中的**Route lengths**表格（From、To、Circles、On the map、Encounter table）。旅行地图页面和旅行计划会直接读取它。"
+ },
+ "fe7c0b8f9905": {
+  "en": "`site/js/lang-picker.js` and `site/css/lang-picker.css` — the language list in Settings (a reusable component)",
+  "t": "`site/js/lang-picker.js`和`site/css/lang-picker.css`——设置中的语言列表（一个可复用组件）"
+ },
+ "febe621a1e51": {
+  "en": "For AI tools and search engines",
+  "t": "面向AI工具和搜索引擎"
  }
 }
