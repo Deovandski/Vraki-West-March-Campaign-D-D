@@ -3,12 +3,332 @@
   "en": "[Handouts](Handouts)",
   "t": "[المطبوعات](Handouts)"
  },
+ "059965130ec2": {
+  "en": "Links to the main repo (November 2026)",
+  "t": "الروابط إلى المستودع الرئيسي (نوفمبر 2026)"
+ },
+ "05b0cd20590c": {
+  "en": "This repo was built with an AI assistant, **Claude** (by Anthropic), working from the #HusbandOutWorld series. This page says plainly which parts are human work, which parts the AI wrote, and how the two fit together.",
+  "t": "بُني هذا المستودع بمساعد ذكاء اصطناعي، **Claude** (من Anthropic)، انطلاقًا من سلسلة #HusbandOutWorld. وتقول هذه الصفحة بوضوح أي الأجزاء عمل بشري، وأيها كتبه الذكاء الاصطناعي، وكيف يتكامل الاثنان."
+ },
+ "06caed4fab44": {
+  "en": "Copyright, trademark and font notices (November 2026)",
+  "t": "إشعارات حقوق النشر والعلامات التجارية والخطوط (نوفمبر 2026)"
+ },
+ "09656f9a6dee": {
+  "en": "**The world is human-made.** The lore, the kingdoms, the characters, the names, the original Alpha D&D campaign and the Vraki font come from Deovandski Skibinski Junior, and the illustrations are by the series' artists, **Mitsukiven** and **Feiourm**. All of it comes from the #HusbandOutWorld series: the originals in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) (the full docs in `Behind The Scenes`, and the old blog, now retired, in `Public`).",
+  "t": "**العالم من صنع البشر.** الحكاية والممالك والشخصيات والأسماء وحملة D&D ألفا الأصلية وخط Vraki من Deovandski Skibinski Junior، والرسوم من فنانَي السلسلة، **Mitsukiven** و**Feiourm**. وكل ذلك من سلسلة #HusbandOutWorld: الأصول في [مجلد Legacy](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) في المستودع الرئيسي (الوثائق الكاملة في `Behind The Scenes`، والمدونة القديمة، المتوقفة الآن، في `Public`)."
+ },
+ "0f046dee898a": {
+  "en": "D&D 5e itself (Wizards of the Coast) provides the underlying game system: classes, spells and the monster and NPC stat blocks that these rules reskin.",
+  "t": "ويوفّر D&D 5e نفسه (Wizards of the Coast) نظام اللعب الأساسي: الفئات، والتعاويذ، وبطاقات إحصاءات الوحوش والشخصيات غير اللاعبة التي تعيد هذه القواعد تلبيسها."
+ },
+ "111cbb9f3b91": {
+  "en": "Where it comes from",
+  "t": "مصدره"
+ },
+ "11b4664eeef5": {
+  "en": "West Marches format (Ben Robbins' [original idea](https://arsludi.lamemage.com/?p=81)); the world (human).",
+  "t": "صيغة ويست مارشز ([الفكرة الأصلية](https://arsludi.lamemage.com/?p=81) لبن روبنز)؛ والعالم (بشري)."
+ },
+ "14f45bb4e6d6": {
+  "en": "Edited: replaced distance and Egua-speed math with circles, switched to normal initiative, added links.",
+  "t": "عدّلها: استبدل حساب المسافات وسرعات الإيغوا بالدوائر، وانتقل إلى المبادرة العادية، وأضاف روابط."
+ },
+ "1633e19fc35d": {
+  "en": "AI Disclosure",
+  "t": "بيان استخدام الذكاء الاصطناعي"
+ },
+ "196789095a06": {
+  "en": "[README.md](README.md)",
+  "t": "[README.md](README.md)"
+ },
+ "19dfdfab66e0": {
+  "en": "Written by the AI (guards, bandits, Kozaku Forway, The Stinger and others).",
+  "t": "كتبه الذكاء الاصطناعي (الحراس، وقطّاع الطرق، وكوزاكو فورواي، وستينغر، وغيرهم)."
+ },
+ "213392095475": {
+  "en": "[AI-DISCLOSURE.md](AI-DISCLOSURE.md)",
+  "t": "[AI-DISCLOSURE.md](AI-DISCLOSURE.md)"
+ },
+ "21528474094e": {
+  "en": "Added regions, loot and fixes (\"Monica\" → Monika), and new entries: Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies and the Hash template.",
+  "t": "أضاف الأقاليم والغنائم والتصحيحات («Monica» ← مونيكا)، ومداخل جديدة: المتحوّل، والترانك بيبول، ودودة ناري، والفلينغا، والبرونتوس، والوايت راونديز، وقالب الهاش."
+ },
+ "22395c22f6fe": {
+  "en": "Written by the AI.",
+  "t": "كتبه الذكاء الاصطناعي."
+ },
+ "2426792c3604": {
+  "en": "Art by Mitsukiven and Feiourm from the main repo's Illustrations (emblems, Forway stamp, gemstone balls, nari stones, Kozaku Forway, Walking Flathead, Winga) and the Vraki font by Deovandski (human). Facts and prices from the rules above.",
+  "t": "فن Mitsukiven وFeiourm من رسوم المستودع الرئيسي (الشعارات، وختم فورواي، وكرات الأحجار الكريمة، وأحجار ناري، وكوزاكو فورواي، والووكينغ فلاتهيد، والوينغا) وخط Vraki من Deovandski (بشري). والحقائق والأسعار من القواعد أعلاه."
+ },
+ "2544372fad3c": {
+  "en": "[02 – 09](D&D%20Campaign) (Making an Adventurer, Soul Energy, Nari Gels, Death & Revival, Quest Board, Events, Dangerous Places, Factions)",
+  "t": "[02 – 09](D&D%20Campaign) (صنع مغامر، وطاقة الروح، وجل ناري، والموت والإحياء، ولوحة المهام، والأحداث، والأماكن الخطرة، والفصائل)"
+ },
+ "25fbcf856981": {
+  "en": "[Stat Blocks/People](D&D%20Campaign/Stat%20Blocks/People.md)",
+  "t": "[بطاقات الإحصاءات/الناس](D&D%20Campaign/Stat%20Blocks/People.md)"
+ },
+ "2fd30993a3a1": {
+  "en": "[Stat Blocks/Beasts](D&D%20Campaign/Stat%20Blocks/Beasts.md), [Fauna](D&D%20Campaign/Stat%20Blocks/Fauna.md)",
+  "t": "[بطاقات الإحصاءات/الوحوش](D&D%20Campaign/Stat%20Blocks/Beasts.md)، [الحيوانات](D&D%20Campaign/Stat%20Blocks/Fauna.md)"
+ },
+ "31ee7617126d": {
+  "en": "The short version",
+  "t": "باختصار"
+ },
+ "330ffd158080": {
+  "en": "Wrote the new sections (what this repo is, West Marches, travel without math, the folder table, the AI disclosure link).",
+  "t": "كتب الأقسام الجديدة (ما هذا المستودع، وويست مارشز، والسفر بلا حساب، وجدول المجلدات، ورابط بيان استخدام الذكاء الاصطناعي)."
+ },
+ "357da0a67393": {
+  "en": "Copied unchanged from the main repo (human).",
+  "t": "منسوخ دون تغيير من المستودع الرئيسي (بشري)."
+ },
+ "3f2cb8c9539a": {
+  "en": "Modeled on the questions in IBM's [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
+  "t": "على مثال أسئلة [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) من IBM (أي ذكاء اصطناعي استُخدم، وما الذي قدّمه، وكم شكّله البشر، ومن المسؤول):"
+ },
+ "416947c2a87c": {
+  "en": "Reads this repo's Markdown files as they are. The app icons are the Forway emblem (human art), resized and placed on the site's green; the shortcut icons are crops of the travel map and the quest board handout. Art by Mitsukiven and Feiourm and the Vraki font by Deovandski, reused from the Handouts folder (human). Third-party files, unmodified: [marked](https://github.com/markedjs/marked) (MIT License) and the TeX Gyre Schola and Heros Cn fonts (GUST Font License).",
+  "t": "يقرأ ملفات Markdown في هذا المستودع كما هي. أيقونات التطبيق هي شعار فورواي (فن بشري)، مصغّرًا وموضوعًا على أخضر الموقع؛ وأيقونات الاختصارات قصاصات من خريطة السفر ومطبوعة لوحة المهام. وفن Mitsukiven وFeiourm وخط Vraki من Deovandski مُعاد استخدامها من مجلد Handouts (بشري). وملفات الأطراف الثالثة، دون تعديل: [marked](https://github.com/markedjs/marked) (ترخيص MIT) وخطا TeX Gyre Schola وHeros Cn (GUST Font License)."
+ },
+ "49f5a0fc8661": {
+  "en": "Canon characters and factions (human).",
+  "t": "شخصيات وفصائل أصلية (بشري)."
+ },
+ "4a7180f9780f": {
+  "en": "The main repo has none.",
+  "t": "ليس في المستودع الرئيسي."
+ },
+ "4aefca879966": {
+  "en": "File by file",
+  "t": "ملفًا بملف"
+ },
+ "4c062abace42": {
+  "en": "Outside sources",
+  "t": "مصادر خارجية"
+ },
+ "4fe8702d747c": {
+  "en": "The AI read these for ideas about West Marches play, handouts and AI disclosure. No text was copied from them.",
+  "t": "قرأها الذكاء الاصطناعي بحثًا عن أفكار حول أسلوب ويست مارشز والمطبوعات وبيان استخدام الذكاء الاصطناعي. ولم يُنسخ منها أي نص."
+ },
+ "52441f72b101": {
+  "en": "[World Lore](World%20Lore) (README + 17 files)",
+  "t": "[حكاية العالم](World%20Lore) (README + 17 ملفًا)"
+ },
+ "53ca1fcbef5e": {
+  "en": "Copied it.",
+  "t": "نسخه."
+ },
+ "55871d29772e": {
+  "en": "**Concept by Deovandski:** circles on the map, each worth 1, 2 or 3 days, the DM chooses. The four daily shifts come from the original Alpha campaign.",
+  "t": "**فكرة Deovandski:** دوائر على الخريطة، كلٌّ منها يساوي يومًا أو يومين أو ثلاثة، ويختار مدير اللعبة. والنوبات الأربع في اليوم من حملة ألفا الأصلية."
+ },
+ "5e775b3d24ab": {
+  "en": "Canon secrets from the main repo and the novel notes (human).",
+  "t": "أسرار أصلية من المستودع الرئيسي وملاحظات الروايات (بشري)."
+ },
+ "63635a746bdb": {
+  "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
+  "t": "الـPRs مرحّب بها، بمساعدة الذكاء الاصطناعي أو دونها. وإن استخدمت الذكاء الاصطناعي في مساهمة، فاذكر ذلك في وصف الـPR وأضف سطرًا إلى الجدول أعلاه."
+ },
  "641314bb9948": {
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior. مرخّص بموجب CC‑BY‑NC‑SA‑4.0."
  },
+ "6a91dcee4cd2": {
+  "en": "Deovandski's request to match the main repo; the Vraki typeface license (human).",
+  "t": "طلب Deovandski مطابقة المستودع الرئيسي؛ وترخيص خط Vraki (بشري)."
+ },
+ "6b5a4f9d1d96": {
+  "en": "[LICENSE.md](LICENSE.md)",
+  "t": "[LICENSE.md](LICENSE.md)"
+ },
+ "7287a9e78fd5": {
+  "en": "Written by the AI (OS clutter, editor backups, `node_modules/` for the handout build).",
+  "t": "كتبه الذكاء الاصطناعي (فوضى نظام التشغيل، ونسخ المحرّر الاحتياطية، و`node_modules/` لبناء المطبوعات)."
+ },
+ "73fda769c36a": {
+  "en": "Designed the tables and mechanics (go-betweens, cut, Deal roll, Heat, patrols, debrief, punishments).",
+  "t": "صمّم الجداول والآليات (الوسطاء، والحصة، ورمية الصفقة، ودرجة الملاحقة، والدوريات، والاستجواب الختامي، والعقوبات)."
+ },
+ "740f030831ae": {
+  "en": "[D&D Campaign/README.md](D&D%20Campaign/README.md) (DM guide)",
+  "t": "[D&D Campaign/README.md](D&D%20Campaign/README.md) (دليل مدير اللعبة)"
+ },
+ "7761ccb5c549": {
+  "en": "Path",
+  "t": "المسار"
+ },
  "77920fb913b0": {
   "en": "[Maps](Maps)",
   "t": "[الخرائط](Maps)"
+ },
+ "77f03a8afc97": {
+  "en": "**Designed and coded by the AI:** the layout and look, and all the code (Markdown pages, search, dice tray, calculators, the travel map viewer and route finder, the installable app and offline support, travel planner, fight and party trackers, campaign tracker, bestiary, random tables, saving and loading). The tools read stat blocks, encounter tables, quests and the Inside Job tables straight from the Markdown. For people entries without their own AC and HP, the site uses the 5e SRD block the entry names (Bandit, Veteran, Spy and so on). The site's own text (menus, help, labels) is AI-written.",
+  "t": "**صمّمه وبرمجه الذكاء الاصطناعي:** التخطيط والمظهر، وكل الشيفرة (صفحات Markdown، والبحث، وصينية النرد، والحاسبات، وعارض خريطة السفر وأداة إيجاد الطرق، والتطبيق القابل للتثبيت والعمل دون اتصال، ومخطط السفر، ومتابعة المعارك والمجموعة، ومتابعة الحملة، ومعجم المخلوقات، والجداول العشوائية، والحفظ والتحميل). وتقرأ الأدوات بطاقات الإحصاءات وجداول اللقاءات والمهام وجداول العمل من الداخل مباشرة من الـMarkdown. ولمداخل الناس التي ليس لها AC وHP خاصة بها، يستخدم الموقع بطاقة 5e SRD التي يسمّيها المدخل (Bandit، وVeteran، وSpy، وغيرها). ونص الموقع نفسه (القوائم، والمساعدة، والتسميات) من كتابة الذكاء الاصطناعي."
+ },
+ "7c53bfccd360": {
+  "en": "All facts come from the main repo's World Lore and the blog, both now in its [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) (human).",
+  "t": "كل الحقائق من حكاية العالم والمدونة في المستودع الرئيسي، وكلاهما الآن في [مجلد Legacy](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) فيه (بشري)."
+ },
+ "7fa41da090e2": {
+  "en": "**Original Alpha campaign by Deovandski.**",
+  "t": "**حملة ألفا الأصلية من Deovandski.**"
+ },
+ "7fb32bad49a9": {
+  "en": "**Game design by the AI:** the D&D mechanics (traits, DCs, dice tables, Soul Points, revival debt amounts, sample quests, encounter tables).",
+  "t": "**تصميم اللعب من الذكاء الاصطناعي:** آليات D&D (الخصال، وDC، وجداول النرد، ونقاط الروح، ومبالغ دين الإحياء، والمهام النموذجية، وجداول اللقاءات)."
+ },
+ "8130257448a3": {
+  "en": "Wrote the rules text, pace table, supplies and getting-lost rules.",
+  "t": "كتب نص القواعد، وجدول الإيقاع، وقواعد المؤن والضياع."
+ },
+ "82d4a5faa440": {
+  "en": "[01 Travel by Circles](D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)",
+  "t": "[01 السفر بالدوائر](D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)"
+ },
+ "899bcb3db3e5": {
+  "en": "**The translations are AI translations.** The site in Chinese, Japanese, Portuguese, Spanish, Arabic and Korean, and the translated handouts, were translated from the English by Claude. Every translated page says so at the top, with a link back to the English, which stays the original.",
+  "t": "**الترجمات ترجمات بالذكاء الاصطناعي.** الموقع بالصينية واليابانية والبرتغالية والإسبانية والعربية والكورية، والمطبوعات المترجمة، ترجمها Claude عن الإنجليزية. وكل صفحة مترجمة تقول ذلك في أعلاها، مع رابط للعودة إلى الإنجليزية، التي تبقى الأصل."
+ },
+ "8f578d438ad2": {
+  "en": "Website ([`index.html`](index.html), [site](site), [`sw.js`](sw.js), `.nojekyll`)",
+  "t": "الموقع ([`index.html`](index.html)، [site](site)، [`sw.js`](sw.js)، `.nojekyll`)"
+ },
+ "94b962df00c8": {
+  "en": "**Much of the writing is AI-assisted.** The World Lore summaries, most of the West March rules, the new stat blocks, the handouts' text and layout, the website (its code and text), and this page were written by Claude, following Deovandski's direction and the existing lore.",
+  "t": "**كثير من الكتابة بمساعدة الذكاء الاصطناعي.** ملخصات حكاية العالم، ومعظم قواعد ويست مارش، وبطاقات الإحصاءات الجديدة، ونص المطبوعات وتخطيطها، والموقع (شيفرته ونصه)، وهذه الصفحة كتبها Claude، باتباع توجيهات Deovandski والحكاية الموجودة."
+ },
+ "9708748530b0": {
+  "en": "Built on canon lore: peoples, prices, ranks, interfaces, nari gels, laws, revival, factions (human).",
+  "t": "مبنية على الحكاية الأصلية: الشعوب، والأسعار، والرتب، والواجهات، وجل ناري، والقوانين، والإحياء، والفصائل (بشري)."
+ },
+ "9750c4a46579": {
+  "en": "World maps and art from the main repo (human). **The West March travel map** (`Vraki World Map - West March.png`, the circles and routes) is **hand-drawn by a human artist**, with the route lengths Deovandski gave as examples.",
+  "t": "خرائط العالم والفن من المستودع الرئيسي (بشري). و**خريطة السفر في ويست مارش** (`Vraki World Map - West March.png`، الدوائر والطرق) **رسمها فنان بشري باليد**، بأطوال الطرق التي أعطاها Deovandski أمثلةً."
+ },
+ "9820bb17e473": {
+  "en": "Attribution statement",
+  "t": "بيان الإسناد"
+ },
+ "9a0b610af517": {
+  "en": "IBM Research, [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) · the Eclipse Foundation's [proposal for an AI_POLICY file in project repos](https://gitlab.eclipse.org/eclipsefdn/emo-team/emo-services/-/work_items/26)",
+  "t": "IBM Research، [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) · [مقترح ملف AI_POLICY في مستودعات المشاريع](https://gitlab.eclipse.org/eclipsefdn/emo-team/emo-services/-/work_items/26) من مؤسسة Eclipse"
+ },
+ "a09c9f827d13": {
+  "en": "[DM Secrets](D&D%20Campaign/DM%20Secrets.md)",
+  "t": "[أسرار مدير اللعبة](D&D%20Campaign/DM%20Secrets.md)"
+ },
+ "a81a8ec185f9": {
+  "en": "**Eight original pre-gens by Deovandski:** Harry, Magi, Fernan, Hiromi, July, Kaiana, Morika, Posaqui.",
+  "t": "**ثماني شخصيات جاهزة أصلية من Deovandski:** هاري، وماغي، وفيرنان، وهيرومي، وجولاي، وكايانا، وموريكا، وبوساكي."
+ },
+ "b2317f09f20d": {
+  "en": "Compiled and summarized them.",
+  "t": "جمعها ولخّصها."
+ },
+ "b87aa89595e7": {
+  "en": "Ben Robbins, [Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81) (the original West Marches posts) · [West Marches](https://rpgmuseum.fandom.com/wiki/West_Marches) at the RPG Museum · [westmarches.games guide](https://www.westmarches.games/guide/resources)",
+  "t": "بن روبنز، [Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81) (منشورات ويست مارشز الأصلية) · [West Marches](https://rpgmuseum.fandom.com/wiki/West_Marches) في RPG Museum · [دليل westmarches.games](https://www.westmarches.games/guide/resources)"
+ },
+ "ba43aca92657": {
+  "en": "Follows the style and the permissions text of the main repo's README (human).",
+  "t": "يتبع أسلوب README المستودع الرئيسي ونص الأذونات فيه (بشري)."
+ },
+ "c641e9e8421d": {
+  "en": "The main repo moved its original files into `Legacy/Behind The Scenes` and retired the blog.",
+  "t": "نقل المستودع الرئيسي ملفاته الأصلية إلى `Legacy/Behind The Scenes` وأوقف المدونة."
+ },
+ "c7fd99c97d2b": {
+  "en": "The English pages, site text and handouts of this repo; the names and their spellings from HusbandOutWorld's translation glossaries; the official D&D 5e terms in each language. Deovandski chose the languages and asked for the banner, the language menu and the way names are written.",
+  "t": "صفحات هذا المستودع الإنجليزية ونص الموقع والمطبوعات؛ والأسماء وتهجئتها من مسارد ترجمة HusbandOutWorld؛ ومصطلحات D&D 5e الرسمية في كل لغة. اختار Deovandski اللغات وطلب الشريط وقائمة اللغات وطريقة كتابة الأسماء."
+ },
+ "cb67e9306a1b": {
+  "en": "**No AI-generated images.** Every picture in this repo is existing series art by Mitsukiven and Feiourm. The AI only cropped, scaled and removed white backgrounds from some of it (for the handouts).",
+  "t": "**لا صور مولّدة بالذكاء الاصطناعي.** كل صورة في هذا المستودع فن موجود للسلسلة من Mitsukiven وFeiourm. ولم يفعل الذكاء الاصطناعي إلا قصّ بعضها وتغيير حجمه وإزالة خلفيته البيضاء (من أجل المطبوعات)."
+ },
+ "cc947e2dc459": {
+  "en": "**Premise by Deovandski:** bandits offer the party a cut of the wagon; it might be a trap, guards might catch them, and they still have to talk their way past the Sanbi embassy.",
+  "t": "**فرضية Deovandski:** قطّاع طرق يعرضون على الفريق حصة من العربة؛ قد يكون فخًا، وقد يمسك بهم الحراس، ولا يزال عليهم أن يقنعوا سفارة سانبي."
+ },
+ "cf4ddc6a2d4e": {
+  "en": "[Adventurers](D&D%20Campaign/Adventurers)",
+  "t": "[المغامرون](D&D%20Campaign/Adventurers)"
+ },
+ "d2c6cc28a537": {
+  "en": "**Translated by the AI:** every page except the license, the site's own text and the handouts, into Chinese (Simplified), Japanese, Portuguese (Brazil), Spanish (Spain), Arabic and Korean, and wrote the tools that store, check and build the translations and render the translated handouts. Not reviewed by native speakers yet.",
+  "t": "**ترجمه الذكاء الاصطناعي:** كل صفحة عدا الترخيص، ونص الموقع نفسه، والمطبوعات، إلى الصينية (المبسطة) واليابانية والبرتغالية (البرازيل) والإسبانية (إسبانيا) والعربية والكورية؛ وكتب الأدوات التي تحفظ الترجمات وتفحصها وتبنيها وتولّد المطبوعات المترجمة. ولم يراجعه متحدثون أصليون بعد."
+ },
+ "d3d324374c45": {
+  "en": "Added the shared \"Copyright and trademarks\" section to LICENSE.md and the footers, and a copy of the font license next to the font file the handouts use.",
+  "t": "أضاف قسم «Copyright and trademarks» المشترك إلى LICENSE.md والتذييلات، ونسخة من ترخيص الخط بجوار ملف الخط الذي تستخدمه المطبوعات."
+ },
+ "d47111163e87": {
+  "en": "D&D Beyond, [New Player's Guide: How to Make Awesome Handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)",
+  "t": "D&D Beyond، [New Player's Guide: How to Make Awesome Handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)"
+ },
+ "d5a450fad293": {
+  "en": "Contributing",
+  "t": "المساهمة"
+ },
+ "d8e6893156f8": {
+  "en": "Wrote the README. Counted the circles on every route for the route lengths table (a script found the circles, then each route was traced and checked against Deovandski's four examples), and made the smaller `web/` copies (resized only). (A hex map the AI generated earlier was rejected and is not in the repo.)",
+  "t": "كتب الـREADME. وعدّ الدوائر في كل طريق لجدول أطوال الطرق (وجد سكربت الدوائر، ثم تُتبّع كل طريق وطوبق مع أمثلة Deovandski الأربعة)، وصنع النسخ الأصغر في `web/` (تغيير الحجم فقط). (رُفضت خريطة سداسية ولّدها الذكاء الاصطناعي سابقًا، وليست في المستودع.)"
+ },
+ "dc5f4b9e640b": {
+  "en": "**Designed and wrote** all 16 handouts (HTML/CSS layout and in-world text), and wrote the render script that makes the PDF and images. Image work was limited to cropping, scaling, removing white backgrounds and mirroring one image. Sample news stories, classifieds, the bandit note and some contract clauses are invented flavor, not canon.",
+  "t": "**صمّم وكتب** المطبوعات الـ16 كلها (تخطيط HTML/CSS ونص من داخل العالم)، وكتب سكربت التوليد الذي يصنع ملف PDF والصور. واقتصر العمل على الصور على القصّ وتغيير الحجم وإزالة الخلفيات البيضاء وعكس صورة واحدة. والأخبار النموذجية والإعلانات المبوّبة ورسالة قطّاع الطرق وبعض بنود العقد نكهة مخترعة، لا أصل."
+ },
+ "dd2ca7d54894": {
+  "en": "**AI system:** Claude, a large language model by Anthropic, used as an assistant with access to the repo files (October–November 2026).\n**Human contribution:** all source material (the world, its lore and its characters, the original Alpha campaign, pre-gens and stat blocks, and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the campaign concept and design decisions; direction and approval of every commit.\n**AI contribution:** condensing the lore into summaries; designing and writing most rules, tables and new stat blocks; adapting the original campaign files; designing and writing the handouts; designing and coding the website and its tools; writing the build scripts; translating the site and the handouts into six languages.\n**Human modification:** Deovandski reviews and requests changes (for example, he rejected a generated hex map and replaced it with hand-drawn circles).\n**Accountability:** Deovandski Skibinski Junior.",
+  "t": "**نظام الذكاء الاصطناعي:** Claude، نموذج لغوي كبير من Anthropic، استُخدم مساعدًا يصل إلى ملفات المستودع (أكتوبر–نوفمبر 2026).\n**مساهمة البشر:** كل المادة المصدرية (العالم وحكايته وشخصياته، وحملة ألفا الأصلية، والشخصيات الجاهزة وبطاقات الإحصاءات، وخط Vraki، من Deovandski Skibinski Junior؛ وكل الفن، من Mitsukiven وFeiourm)؛ وفكرة الحملة وقرارات التصميم؛ وتوجيه كل commit والموافقة عليه.\n**مساهمة الذكاء الاصطناعي:** تكثيف الحكاية في ملخصات؛ وتصميم معظم القواعد والجداول وبطاقات الإحصاءات الجديدة وكتابتها؛ وتكييف ملفات الحملة الأصلية؛ وتصميم المطبوعات وكتابتها؛ وتصميم الموقع وأدواته وبرمجتها؛ وكتابة سكربتات البناء؛ وترجمة الموقع والمطبوعات إلى ست لغات.\n**تعديل البشر:** يراجع Deovandski ويطلب التغييرات (مثلًا، رفض خريطة سداسية مولّدة واستبدل بها دوائر مرسومة باليد).\n**المسؤول:** Deovandski Skibinski Junior."
+ },
+ "e3464e9ec8a6": {
+  "en": "`.gitignore`",
+  "t": "`.gitignore`"
+ },
+ "eab8c9c1d037": {
+  "en": "What the AI did",
+  "t": "ما فعله الذكاء الاصطناعي"
+ },
+ "ec1a303f5cce": {
+  "en": "Translations ([i18n](i18n), [`tools/i18n.js`](tools/i18n.js), November 2026)",
+  "t": "الترجمات ([i18n](i18n)، [`tools/i18n.js`](tools/i18n.js)، نوفمبر 2026)"
+ },
+ "ed06f7817e14": {
+  "en": "Updated every link that pointed at the old paths or the blog, and regenerated the website's bundled copy of the pages.",
+  "t": "حدّث كل رابط كان يشير إلى المسارات القديمة أو المدونة، وأعاد توليد نسخة الصفحات المضمّنة في الموقع."
+ },
+ "ef3e58ddd23f": {
+  "en": "Adjusted them for the West March rules (people, interface, Soul Points). Rebuilt Hiromi as a Darfaries brawler to match the lore. **Takeo** is new: the AI built him from Hiromi's old interrogator kit.",
+  "t": "عدّلها لقواعد ويست مارش (الشعب، والواجهة، ونقاط الروح). وأعاد بناء هيرومي مشاجرًا من الدارفاريس ليوافق الحكاية. و**تاكيو** جديد: بناه الذكاء الاصطناعي من عدة الاستجواب القديمة الخاصة بهيرومي."
+ },
+ "efd40c68d94d": {
+  "en": "[Alpha One-Shot - Wagon Escort](D&D%20Campaign/Alpha%20One-Shot%20-%20Wagon%20Escort.md)",
+  "t": "[مغامرة ألفا القصيرة - مرافقة العربة](D&D%20Campaign/Alpha%20One-Shot%20-%20Wagon%20Escort.md)"
+ },
+ "f5e8e6cb3ccb": {
+  "en": "**Original stat blocks by Deovandski.**",
+  "t": "**بطاقات إحصاءات أصلية من Deovandski.**"
+ },
+ "f984d854399a": {
+  "en": "**Condensed and reorganized** them into a shorter summary. The wording is AI; the facts are canon.",
+  "t": "**كثّفها وأعاد تنظيمها** في ملخص أقصر. الصياغة للذكاء الاصطناعي؛ والحقائق من الأصل."
+ },
+ "fa64ad08995f": {
+  "en": "Written by the AI. In November 2026 its links were updated when the main repo moved its originals into a Legacy folder, matching the main repo's own [AI disclosure](https://github.com/Deovandski/HusbandOutWorld/blob/main/AI-DISCLOSURE.md).",
+  "t": "كتبه الذكاء الاصطناعي. وفي نوفمبر 2026 حُدّثت روابطه حين نقل المستودع الرئيسي أصوله إلى مجلد Legacy، بما يوافق [بيان استخدام الذكاء الاصطناعي](https://github.com/Deovandski/HusbandOutWorld/blob/main/AI-DISCLOSURE.md) الخاص بالمستودع الرئيسي."
+ },
+ "fb0993767e84": {
+  "en": "**A human decides.** Deovandski directed the work, set the design rules (for example, travel by circles), and chose what got committed. Not every line has had a detailed human review yet. If something here contradicts the series, **the series wins**: please open an issue or send a PR.",
+  "t": "**القرار لإنسان.** وجّه Deovandski العمل، ووضع قواعد التصميم (مثل السفر بالدوائر)، واختار ما يُعتمد. ولم يخضع كل سطر بعد لمراجعة بشرية مفصّلة. وإن ناقض شيء هنا السلسلة، **فالسلسلة هي الفيصل**: افتح issue أو أرسل PR."
+ },
+ "fe396c69ee61": {
+  "en": "[10 The Inside Job](D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)",
+  "t": "[10 العمل من الداخل](D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)"
  }
 }

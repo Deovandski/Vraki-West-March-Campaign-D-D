@@ -3,12 +3,332 @@
   "en": "[Handouts](Handouts)",
   "t": "[배포물](Handouts)"
  },
+ "059965130ec2": {
+  "en": "Links to the main repo (November 2026)",
+  "t": "본 저장소 링크(2026년 11월)"
+ },
+ "05b0cd20590c": {
+  "en": "This repo was built with an AI assistant, **Claude** (by Anthropic), working from the #HusbandOutWorld series. This page says plainly which parts are human work, which parts the AI wrote, and how the two fit together.",
+  "t": "이 저장소는 #HusbandOutWorld 시리즈를 바탕으로 AI 어시스턴트 **Claude**(Anthropic 제작)와 함께 만들었다. 이 페이지는 어느 부분이 사람의 작업이고, 어느 부분을 AI가 썼으며, 둘이 어떻게 맞물리는지 분명히 밝힌다."
+ },
+ "06caed4fab44": {
+  "en": "Copyright, trademark and font notices (November 2026)",
+  "t": "저작권, 상표, 글꼴 표시(2026년 11월)"
+ },
+ "09656f9a6dee": {
+  "en": "**The world is human-made.** The lore, the kingdoms, the characters, the names, the original Alpha D&D campaign and the Vraki font come from Deovandski Skibinski Junior, and the illustrations are by the series' artists, **Mitsukiven** and **Feiourm**. All of it comes from the #HusbandOutWorld series: the originals in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) (the full docs in `Behind The Scenes`, and the old blog, now retired, in `Public`).",
+  "t": "**세계는 사람이 만들었다.** 설정, 왕국, 캐릭터, 이름, 원래의 알파 D&D 캠페인, Vraki 글꼴은 Deovandski Skibinski Junior의 것이고, 일러스트는 시리즈의 아티스트 **Mitsukiven**과 **Feiourm**의 작품이다. 모두 #HusbandOutWorld 시리즈에서 왔다: 원본은 본 저장소의 [Legacy 폴더](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy)에 있다(전체 문서는 `Behind The Scenes`에, 지금은 닫은 옛 블로그는 `Public`에)."
+ },
+ "0f046dee898a": {
+  "en": "D&D 5e itself (Wizards of the Coast) provides the underlying game system: classes, spells and the monster and NPC stat blocks that these rules reskin.",
+  "t": "D&D 5판 자체(위저즈 오브 더 코스트)가 바탕이 되는 게임 시스템을 제공한다: 클래스, 주문, 그리고 이 규칙이 옷을 갈아입힌 몬스터와 NPC 능력치."
+ },
+ "111cbb9f3b91": {
+  "en": "Where it comes from",
+  "t": "어디서 왔나"
+ },
+ "11b4664eeef5": {
+  "en": "West Marches format (Ben Robbins' [original idea](https://arsludi.lamemage.com/?p=81)); the world (human).",
+  "t": "웨스트 마치 형식(벤 로빈스의 [원래 아이디어](https://arsludi.lamemage.com/?p=81)). 세계(사람)."
+ },
+ "14f45bb4e6d6": {
+  "en": "Edited: replaced distance and Egua-speed math with circles, switched to normal initiative, added links.",
+  "t": "편집했다: 거리와 에구아 속도 계산을 서클로 바꾸고, 일반 우선권으로 바꾸고, 링크를 더했다."
+ },
+ "1633e19fc35d": {
+  "en": "AI Disclosure",
+  "t": "AI 사용 안내"
+ },
+ "196789095a06": {
+  "en": "[README.md](README.md)",
+  "t": "[README.md](README.md)"
+ },
+ "19dfdfab66e0": {
+  "en": "Written by the AI (guards, bandits, Kozaku Forway, The Stinger and others).",
+  "t": "AI가 썼다(경비병, 산적, 고자쿠 포웨이, 스팅어 등)."
+ },
+ "213392095475": {
+  "en": "[AI-DISCLOSURE.md](AI-DISCLOSURE.md)",
+  "t": "[AI-DISCLOSURE.md](AI-DISCLOSURE.md)"
+ },
+ "21528474094e": {
+  "en": "Added regions, loot and fixes (\"Monica\" → Monika), and new entries: Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies and the Hash template.",
+  "t": "지역, 전리품, 수정(‘Monica’ → 모니카)과 새 항목을 더했다: 변신자, 트렁크 피플, 나리 웜, 플링가, 브룬토스, 화이트 라운디스, 해시 템플릿."
+ },
+ "22395c22f6fe": {
+  "en": "Written by the AI.",
+  "t": "AI가 썼다."
+ },
+ "2426792c3604": {
+  "en": "Art by Mitsukiven and Feiourm from the main repo's Illustrations (emblems, Forway stamp, gemstone balls, nari stones, Kozaku Forway, Walking Flathead, Winga) and the Vraki font by Deovandski (human). Facts and prices from the rules above.",
+  "t": "본 저장소 일러스트의 Mitsukiven과 Feiourm 그림(문장, 포웨이 인장, 보석 볼, 나리석, 고자쿠 포웨이, 워킹 플랫헤드, 윙가)과 Deovandski의 Vraki 글꼴(사람). 사실과 가격은 위의 규칙에서."
+ },
+ "2544372fad3c": {
+  "en": "[02 – 09](D&D%20Campaign) (Making an Adventurer, Soul Energy, Nari Gels, Death & Revival, Quest Board, Events, Dangerous Places, Factions)",
+  "t": "[02 – 09](D&D%20Campaign)(모험가 만들기, 영혼 에너지, 나리 젤, 죽음과 부활, 의뢰 게시판, 이벤트, 위험한 장소, 파벌)"
+ },
+ "25fbcf856981": {
+  "en": "[Stat Blocks/People](D&D%20Campaign/Stat%20Blocks/People.md)",
+  "t": "[능력치/사람](D&D%20Campaign/Stat%20Blocks/People.md)"
+ },
+ "2fd30993a3a1": {
+  "en": "[Stat Blocks/Beasts](D&D%20Campaign/Stat%20Blocks/Beasts.md), [Fauna](D&D%20Campaign/Stat%20Blocks/Fauna.md)",
+  "t": "[능력치/마수](D&D%20Campaign/Stat%20Blocks/Beasts.md), [동물](D&D%20Campaign/Stat%20Blocks/Fauna.md)"
+ },
+ "31ee7617126d": {
+  "en": "The short version",
+  "t": "짧게 말하면"
+ },
+ "330ffd158080": {
+  "en": "Wrote the new sections (what this repo is, West Marches, travel without math, the folder table, the AI disclosure link).",
+  "t": "새 섹션을 썼다(이 저장소가 무엇인지, 웨스트 마치, 계산 없는 여행, 폴더 표, AI 사용 안내 링크)."
+ },
+ "357da0a67393": {
+  "en": "Copied unchanged from the main repo (human).",
+  "t": "본 저장소에서 그대로 복사했다(사람)."
+ },
+ "3f2cb8c9539a": {
+  "en": "Modeled on the questions in IBM's [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
+  "t": "IBM의 [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit)에 나오는 질문(어떤 AI를 썼는지, 무엇을 기여했는지, 사람이 얼마나 다듬었는지, 누가 책임지는지)을 본떴다:"
+ },
+ "416947c2a87c": {
+  "en": "Reads this repo's Markdown files as they are. The app icons are the Forway emblem (human art), resized and placed on the site's green; the shortcut icons are crops of the travel map and the quest board handout. Art by Mitsukiven and Feiourm and the Vraki font by Deovandski, reused from the Handouts folder (human). Third-party files, unmodified: [marked](https://github.com/markedjs/marked) (MIT License) and the TeX Gyre Schola and Heros Cn fonts (GUST Font License).",
+  "t": "이 저장소의 Markdown 파일을 있는 그대로 읽는다. 앱 아이콘은 포웨이 문장(사람의 그림)을 줄여 사이트의 초록색 위에 올린 것이고, 바로가기 아이콘은 여행 지도와 의뢰 게시판 배포물을 잘라 낸 것이다. Mitsukiven과 Feiourm의 그림과 Deovandski의 Vraki 글꼴은 Handouts 폴더에서 다시 썼다(사람). 제3자 파일, 수정 없음: [marked](https://github.com/markedjs/marked)(MIT 라이선스)와 TeX Gyre Schola, Heros Cn 글꼴(GUST Font License)."
+ },
+ "49f5a0fc8661": {
+  "en": "Canon characters and factions (human).",
+  "t": "정사의 캐릭터와 파벌(사람)."
+ },
+ "4a7180f9780f": {
+  "en": "The main repo has none.",
+  "t": "본 저장소에는 없다."
+ },
+ "4aefca879966": {
+  "en": "File by file",
+  "t": "파일별로"
+ },
+ "4c062abace42": {
+  "en": "Outside sources",
+  "t": "외부 자료"
+ },
+ "4fe8702d747c": {
+  "en": "The AI read these for ideas about West Marches play, handouts and AI disclosure. No text was copied from them.",
+  "t": "AI는 웨스트 마치 플레이, 배포물, AI 사용 안내에 대한 아이디어를 얻으려고 이것들을 읽었다. 거기서 글을 베끼지는 않았다."
+ },
+ "52441f72b101": {
+  "en": "[World Lore](World%20Lore) (README + 17 files)",
+  "t": "[세계 설정](World%20Lore)(README + 파일 17개)"
+ },
+ "53ca1fcbef5e": {
+  "en": "Copied it.",
+  "t": "복사했다."
+ },
+ "55871d29772e": {
+  "en": "**Concept by Deovandski:** circles on the map, each worth 1, 2 or 3 days, the DM chooses. The four daily shifts come from the original Alpha campaign.",
+  "t": "**Deovandski의 구상:** 지도 위의 서클, 하나에 1일, 2일, 3일, DM이 고른다. 하루의 네 시간대는 원래 알파 캠페인에서 왔다."
+ },
+ "5e775b3d24ab": {
+  "en": "Canon secrets from the main repo and the novel notes (human).",
+  "t": "본 저장소와 소설 메모에 있는 정사의 비밀(사람)."
+ },
+ "63635a746bdb": {
+  "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
+  "t": "PR은 환영이다. AI의 도움이 있든 없든. 기여에 AI를 썼다면 PR 설명에 그렇게 적고 위 표에 한 줄을 더해 달라."
+ },
  "641314bb9948": {
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior. CC‑BY‑NC‑SA‑4.0 라이선스."
  },
+ "6a91dcee4cd2": {
+  "en": "Deovandski's request to match the main repo; the Vraki typeface license (human).",
+  "t": "본 저장소와 맞추고 싶다는 Deovandski의 요청. Vraki 글꼴 라이선스(사람)."
+ },
+ "6b5a4f9d1d96": {
+  "en": "[LICENSE.md](LICENSE.md)",
+  "t": "[LICENSE.md](LICENSE.md)"
+ },
+ "7287a9e78fd5": {
+  "en": "Written by the AI (OS clutter, editor backups, `node_modules/` for the handout build).",
+  "t": "AI가 썼다(운영체제 잡동사니, 편집기 백업, 배포물 빌드용 `node_modules/`)."
+ },
+ "73fda769c36a": {
+  "en": "Designed the tables and mechanics (go-betweens, cut, Deal roll, Heat, patrols, debrief, punishments).",
+  "t": "표와 메커니즘을 설계했다(중개인, 몫, 거래 굴림, 경계도, 순찰, 보고, 처벌)."
+ },
+ "740f030831ae": {
+  "en": "[D&D Campaign/README.md](D&D%20Campaign/README.md) (DM guide)",
+  "t": "[D&D Campaign/README.md](D&D%20Campaign/README.md)(DM 안내서)"
+ },
+ "7761ccb5c549": {
+  "en": "Path",
+  "t": "경로"
+ },
  "77920fb913b0": {
   "en": "[Maps](Maps)",
   "t": "[지도](Maps)"
+ },
+ "77f03a8afc97": {
+  "en": "**Designed and coded by the AI:** the layout and look, and all the code (Markdown pages, search, dice tray, calculators, the travel map viewer and route finder, the installable app and offline support, travel planner, fight and party trackers, campaign tracker, bestiary, random tables, saving and loading). The tools read stat blocks, encounter tables, quests and the Inside Job tables straight from the Markdown. For people entries without their own AC and HP, the site uses the 5e SRD block the entry names (Bandit, Veteran, Spy and so on). The site's own text (menus, help, labels) is AI-written.",
+  "t": "**AI가 설계하고 코딩했다:** 레이아웃과 겉모습, 그리고 모든 코드(Markdown 페이지, 검색, 주사위 쟁반, 계산기, 여행 지도 뷰어와 경로 찾기, 설치형 앱과 오프라인 지원, 여행 계획, 전투와 파티 기록, 캠페인 기록, 몬스터 도감, 무작위 표, 저장과 불러오기). 도구는 능력치, 조우 표, 의뢰, 내부자 작업 표를 Markdown에서 바로 읽는다. 자체 AC와 HP가 없는 사람 항목에는 그 항목이 가리키는 5판 SRD 능력치(Bandit, Veteran, Spy 등)를 쓴다. 사이트 자체의 글(메뉴, 도움말, 라벨)은 AI가 썼다."
+ },
+ "7c53bfccd360": {
+  "en": "All facts come from the main repo's World Lore and the blog, both now in its [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) (human).",
+  "t": "모든 사실은 본 저장소의 세계 설정과 블로그에서 왔으며, 둘 다 지금은 그 [Legacy 폴더](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy)에 있다(사람)."
+ },
+ "7fa41da090e2": {
+  "en": "**Original Alpha campaign by Deovandski.**",
+  "t": "**Deovandski의 원래 알파 캠페인.**"
+ },
+ "7fb32bad49a9": {
+  "en": "**Game design by the AI:** the D&D mechanics (traits, DCs, dice tables, Soul Points, revival debt amounts, sample quests, encounter tables).",
+  "t": "**AI의 게임 디자인:** D&D 메커니즘(특성, DC, 주사위 표, 소울 포인트, 부활 빚 액수, 예시 의뢰, 조우 표)."
+ },
+ "8130257448a3": {
+  "en": "Wrote the rules text, pace table, supplies and getting-lost rules.",
+  "t": "규칙 본문, 속도 표, 식량과 길 잃기 규칙을 썼다."
+ },
+ "82d4a5faa440": {
+  "en": "[01 Travel by Circles](D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)",
+  "t": "[01 서클로 여행하기](D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)"
+ },
+ "899bcb3db3e5": {
+  "en": "**The translations are AI translations.** The site in Chinese, Japanese, Portuguese, Spanish, Arabic and Korean, and the translated handouts, were translated from the English by Claude. Every translated page says so at the top, with a link back to the English, which stays the original.",
+  "t": "**번역은 AI 번역이다.** 중국어, 일본어, 포르투갈어, 스페인어, 아랍어, 한국어 사이트와 번역된 배포물은 Claude가 영어에서 번역했다. 번역된 모든 페이지 맨 위에 그렇게 적혀 있으며, 원본으로 남는 영어로 돌아가는 링크가 있다."
+ },
+ "8f578d438ad2": {
+  "en": "Website ([`index.html`](index.html), [site](site), [`sw.js`](sw.js), `.nojekyll`)",
+  "t": "웹사이트([`index.html`](index.html), [site](site), [`sw.js`](sw.js), `.nojekyll`)"
+ },
+ "94b962df00c8": {
+  "en": "**Much of the writing is AI-assisted.** The World Lore summaries, most of the West March rules, the new stat blocks, the handouts' text and layout, the website (its code and text), and this page were written by Claude, following Deovandski's direction and the existing lore.",
+  "t": "**글의 상당 부분은 AI의 도움을 받았다.** 세계 설정 요약, 웨스트 마치 규칙 대부분, 새 능력치, 배포물의 글과 레이아웃, 웹사이트(코드와 글), 그리고 이 페이지는 Deovandski의 지시와 기존 설정에 따라 Claude가 썼다."
+ },
+ "9708748530b0": {
+  "en": "Built on canon lore: peoples, prices, ranks, interfaces, nari gels, laws, revival, factions (human).",
+  "t": "정사 설정 위에 세웠다: 종족, 가격, 계급, 인터페이스, 나리 젤, 법, 부활, 파벌(사람)."
+ },
+ "9750c4a46579": {
+  "en": "World maps and art from the main repo (human). **The West March travel map** (`Vraki World Map - West March.png`, the circles and routes) is **hand-drawn by a human artist**, with the route lengths Deovandski gave as examples.",
+  "t": "본 저장소의 세계 지도와 그림(사람). **웨스트 마치 여행 지도**(`Vraki World Map - West March.png`, 서클과 경로)는 Deovandski가 예로 든 경로 길이를 바탕으로 **사람 아티스트가 손으로 그렸다**."
+ },
+ "9820bb17e473": {
+  "en": "Attribution statement",
+  "t": "출처 표시 성명"
+ },
+ "9a0b610af517": {
+  "en": "IBM Research, [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) · the Eclipse Foundation's [proposal for an AI_POLICY file in project repos](https://gitlab.eclipse.org/eclipsefdn/emo-team/emo-services/-/work_items/26)",
+  "t": "IBM Research, [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) · Eclipse 재단의 [프로젝트 저장소에 AI_POLICY 파일을 두자는 제안](https://gitlab.eclipse.org/eclipsefdn/emo-team/emo-services/-/work_items/26)"
+ },
+ "a09c9f827d13": {
+  "en": "[DM Secrets](D&D%20Campaign/DM%20Secrets.md)",
+  "t": "[DM의 비밀](D&D%20Campaign/DM%20Secrets.md)"
+ },
+ "a81a8ec185f9": {
+  "en": "**Eight original pre-gens by Deovandski:** Harry, Magi, Fernan, Hiromi, July, Kaiana, Morika, Posaqui.",
+  "t": "**Deovandski의 원래 사전 제작 캐릭터 8명:** 해리, 마기, 페르난, 히로미, 줄라이, 카이아나, 모리카, 포사키."
+ },
+ "b2317f09f20d": {
+  "en": "Compiled and summarized them.",
+  "t": "모으고 요약했다."
+ },
+ "b87aa89595e7": {
+  "en": "Ben Robbins, [Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81) (the original West Marches posts) · [West Marches](https://rpgmuseum.fandom.com/wiki/West_Marches) at the RPG Museum · [westmarches.games guide](https://www.westmarches.games/guide/resources)",
+  "t": "벤 로빈스, [Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81)(원조 웨스트 마치 글) · RPG Museum의 [West Marches](https://rpgmuseum.fandom.com/wiki/West_Marches) · [westmarches.games 가이드](https://www.westmarches.games/guide/resources)"
+ },
+ "ba43aca92657": {
+  "en": "Follows the style and the permissions text of the main repo's README (human).",
+  "t": "본 저장소 README의 문체와 허락 문구를 따른다(사람)."
+ },
+ "c641e9e8421d": {
+  "en": "The main repo moved its original files into `Legacy/Behind The Scenes` and retired the blog.",
+  "t": "본 저장소가 원본 파일을 `Legacy/Behind The Scenes`로 옮기고 블로그를 닫았다."
+ },
+ "c7fd99c97d2b": {
+  "en": "The English pages, site text and handouts of this repo; the names and their spellings from HusbandOutWorld's translation glossaries; the official D&D 5e terms in each language. Deovandski chose the languages and asked for the banner, the language menu and the way names are written.",
+  "t": "이 저장소의 영어 페이지, 사이트 글, 배포물. 이름과 표기는 HusbandOutWorld의 번역 용어집에서. 각 언어의 D&D 5판 공식 용어. 언어는 Deovandski가 골랐고, 안내 문구, 언어 메뉴, 이름 쓰는 방식도 그가 요청했다."
+ },
+ "cb67e9306a1b": {
+  "en": "**No AI-generated images.** Every picture in this repo is existing series art by Mitsukiven and Feiourm. The AI only cropped, scaled and removed white backgrounds from some of it (for the handouts).",
+  "t": "**AI가 만든 이미지는 없다.** 이 저장소의 모든 그림은 Mitsukiven과 Feiourm이 그린 기존 시리즈 그림이다. AI는 그중 일부를 잘라 내고, 크기를 바꾸고, 흰 배경을 지우기만 했다(배포물을 위해)."
+ },
+ "cc947e2dc459": {
+  "en": "**Premise by Deovandski:** bandits offer the party a cut of the wagon; it might be a trap, guards might catch them, and they still have to talk their way past the Sanbi embassy.",
+  "t": "**Deovandski의 전제:** 산적이 일행에게 수레 몫을 제안한다. 함정일 수도 있고, 경비병에게 잡힐 수도 있으며, 그래도 산비 대사관을 말로 넘겨야 한다."
+ },
+ "cf4ddc6a2d4e": {
+  "en": "[Adventurers](D&D%20Campaign/Adventurers)",
+  "t": "[모험가](D&D%20Campaign/Adventurers)"
+ },
+ "d2c6cc28a537": {
+  "en": "**Translated by the AI:** every page except the license, the site's own text and the handouts, into Chinese (Simplified), Japanese, Portuguese (Brazil), Spanish (Spain), Arabic and Korean, and wrote the tools that store, check and build the translations and render the translated handouts. Not reviewed by native speakers yet.",
+  "t": "**AI가 번역했다:** 라이선스를 뺀 모든 페이지, 사이트 자체의 글, 배포물을 중국어(간체), 일본어, 포르투갈어(브라질), 스페인어(스페인), 아랍어, 한국어로. 번역을 저장하고 점검하고 빌드하는 도구와, 번역된 배포물을 렌더링하는 도구도 썼다. 아직 원어민의 검토를 받지 않았다."
+ },
+ "d3d324374c45": {
+  "en": "Added the shared \"Copyright and trademarks\" section to LICENSE.md and the footers, and a copy of the font license next to the font file the handouts use.",
+  "t": "LICENSE.md와 바닥글에 공통 ‘Copyright and trademarks’ 섹션을 더하고, 배포물이 쓰는 글꼴 파일 옆에 글꼴 라이선스 사본을 두었다."
+ },
+ "d47111163e87": {
+  "en": "D&D Beyond, [New Player's Guide: How to Make Awesome Handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)",
+  "t": "D&D Beyond, [New Player's Guide: How to Make Awesome Handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)"
+ },
+ "d5a450fad293": {
+  "en": "Contributing",
+  "t": "기여하기"
+ },
+ "d8e6893156f8": {
+  "en": "Wrote the README. Counted the circles on every route for the route lengths table (a script found the circles, then each route was traced and checked against Deovandski's four examples), and made the smaller `web/` copies (resized only). (A hex map the AI generated earlier was rejected and is not in the repo.)",
+  "t": "README를 썼다. 경로 길이 표를 위해 모든 경로의 서클을 셌고(스크립트로 서클을 찾은 뒤, 경로마다 따라가며 Deovandski의 네 가지 예와 맞춰 봤다), 더 작은 `web/` 사본을 만들었다(크기만 줄임). (예전에 AI가 만든 헥스 지도는 거절되어 저장소에 없다.)"
+ },
+ "dc5f4b9e640b": {
+  "en": "**Designed and wrote** all 16 handouts (HTML/CSS layout and in-world text), and wrote the render script that makes the PDF and images. Image work was limited to cropping, scaling, removing white backgrounds and mirroring one image. Sample news stories, classifieds, the bandit note and some contract clauses are invented flavor, not canon.",
+  "t": "16장의 배포물을 모두 **설계하고 썼다**(HTML/CSS 레이아웃과 세계 속 글). PDF와 이미지를 만드는 렌더링 스크립트도 썼다. 이미지 작업은 잘라 내기, 크기 바꾸기, 흰 배경 지우기, 한 장의 좌우 반전뿐이다. 견본 뉴스 기사, 짧은 광고, 산적의 쪽지, 계약서의 몇몇 조항은 지어낸 양념이지 정사가 아니다."
+ },
+ "dd2ca7d54894": {
+  "en": "**AI system:** Claude, a large language model by Anthropic, used as an assistant with access to the repo files (October–November 2026).\n**Human contribution:** all source material (the world, its lore and its characters, the original Alpha campaign, pre-gens and stat blocks, and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the campaign concept and design decisions; direction and approval of every commit.\n**AI contribution:** condensing the lore into summaries; designing and writing most rules, tables and new stat blocks; adapting the original campaign files; designing and writing the handouts; designing and coding the website and its tools; writing the build scripts; translating the site and the handouts into six languages.\n**Human modification:** Deovandski reviews and requests changes (for example, he rejected a generated hex map and replaced it with hand-drawn circles).\n**Accountability:** Deovandski Skibinski Junior.",
+  "t": "**AI 시스템:** Claude. Anthropic의 대규모 언어 모델로, 저장소 파일에 접근할 수 있는 어시스턴트로 썼다(2026년 10월–11월).\n**사람의 기여:** 모든 원재료(세계, 설정과 캐릭터, 원래의 알파 캠페인, 사전 제작 캐릭터와 능력치, Vraki 글꼴은 Deovandski Skibinski Junior. 모든 그림은 Mitsukiven과 Feiourm). 캠페인 구상과 설계 결정. 모든 커밋의 지시와 승인.\n**AI의 기여:** 설정을 요약으로 압축하기. 대부분의 규칙, 표, 새 능력치를 설계하고 쓰기. 원래 캠페인 파일을 고쳐 쓰기. 배포물을 설계하고 쓰기. 웹사이트와 도구를 설계하고 코딩하기. 빌드 스크립트 쓰기. 사이트와 배포물을 여섯 언어로 번역하기.\n**사람의 수정:** Deovandski가 검토하고 변경을 요청한다(예를 들어, 생성된 헥스 지도를 거절하고 손으로 그린 서클로 바꿨다).\n**책임자:** Deovandski Skibinski Junior."
+ },
+ "e3464e9ec8a6": {
+  "en": "`.gitignore`",
+  "t": "`.gitignore`"
+ },
+ "eab8c9c1d037": {
+  "en": "What the AI did",
+  "t": "AI가 한 일"
+ },
+ "ec1a303f5cce": {
+  "en": "Translations ([i18n](i18n), [`tools/i18n.js`](tools/i18n.js), November 2026)",
+  "t": "번역([i18n](i18n), [`tools/i18n.js`](tools/i18n.js), 2026년 11월)"
+ },
+ "ed06f7817e14": {
+  "en": "Updated every link that pointed at the old paths or the blog, and regenerated the website's bundled copy of the pages.",
+  "t": "옛 경로나 블로그를 가리키던 링크를 모두 고치고, 웹사이트에 묶인 페이지 사본을 다시 만들었다."
+ },
+ "ef3e58ddd23f": {
+  "en": "Adjusted them for the West March rules (people, interface, Soul Points). Rebuilt Hiromi as a Darfaries brawler to match the lore. **Takeo** is new: the AI built him from Hiromi's old interrogator kit.",
+  "t": "웨스트 마치 규칙에 맞게 조정했다(종족, 인터페이스, 소울 포인트). 설정에 맞게 히로미를 다르파리에스 싸움꾼으로 다시 만들었다. **다케오**는 새 캐릭터로, AI가 히로미의 예전 심문 도구 세트로 만들었다."
+ },
+ "efd40c68d94d": {
+  "en": "[Alpha One-Shot - Wagon Escort](D&D%20Campaign/Alpha%20One-Shot%20-%20Wagon%20Escort.md)",
+  "t": "[알파 단편 시나리오 - 수레 호위](D&D%20Campaign/Alpha%20One-Shot%20-%20Wagon%20Escort.md)"
+ },
+ "f5e8e6cb3ccb": {
+  "en": "**Original stat blocks by Deovandski.**",
+  "t": "**Deovandski의 원래 능력치.**"
+ },
+ "f984d854399a": {
+  "en": "**Condensed and reorganized** them into a shorter summary. The wording is AI; the facts are canon.",
+  "t": "그것을 더 짧은 요약으로 **압축하고 재구성했다**. 표현은 AI, 사실은 정사."
+ },
+ "fa64ad08995f": {
+  "en": "Written by the AI. In November 2026 its links were updated when the main repo moved its originals into a Legacy folder, matching the main repo's own [AI disclosure](https://github.com/Deovandski/HusbandOutWorld/blob/main/AI-DISCLOSURE.md).",
+  "t": "AI가 썼다. 2026년 11월, 본 저장소가 원본을 Legacy 폴더로 옮기면서 링크를 갱신해, 본 저장소 자체의 [AI 사용 안내](https://github.com/Deovandski/HusbandOutWorld/blob/main/AI-DISCLOSURE.md)와 맞췄다."
+ },
+ "fb0993767e84": {
+  "en": "**A human decides.** Deovandski directed the work, set the design rules (for example, travel by circles), and chose what got committed. Not every line has had a detailed human review yet. If something here contradicts the series, **the series wins**: please open an issue or send a PR.",
+  "t": "**결정은 사람이 한다.** Deovandski가 작업을 이끌었고, 설계 규칙(예를 들어 서클로 여행하기)을 정했으며, 무엇을 커밋할지 골랐다. 아직 모든 줄이 사람의 꼼꼼한 검토를 거친 것은 아니다. 여기 있는 내용이 시리즈와 어긋나면, **시리즈가 맞다**: 이슈를 열거나 PR을 보내 달라."
+ },
+ "fe396c69ee61": {
+  "en": "[10 The Inside Job](D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)",
+  "t": "[10 내부자 작업](D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)"
  }
 }
