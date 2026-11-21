@@ -1,0 +1,102 @@
+{
+ "1dee0689b9e7": {
+  "en": "Sleepy",
+  "t": "眠たげ"
+ },
+ "229180c589d5": {
+  "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
+  "t": "−3 追われる · −2 敵対 · −1 不信 · 0 無名 · +1 友好 · +2 信頼 · +3 身内。1セッションで動くのは最大1段階。"
+ },
+ "2d6f2ef30ed8": {
+  "en": "Reward",
+  "t": "報酬"
+ },
+ "380957daf1b3": {
+  "en": "Deadline",
+  "t": "期限"
+ },
+ "3e6b78d7874f": {
+  "en": "Player",
+  "t": "プレイヤー"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "アメジスト"
+ },
+ "585cdf11ff4a": {
+  "en": "Grumpy",
+  "t": "不機嫌"
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "パール"
+ },
+ "5c7d6a88a590": {
+  "en": "Pearls",
+  "t": "パール"
+ },
+ "6003ecad9b4e": {
+  "en": "Revival window",
+  "t": "蘇生の猶予"
+ },
+ "849cc321f202": {
+  "en": "Level",
+  "t": "レベル"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "サークル"
+ },
+ "8b93e371e76e": {
+  "en": "Cargo",
+  "t": "積み荷"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "出発地"
+ },
+ "c8a9d51017e9": {
+  "en": "Angry",
+  "t": "怒り"
+ },
+ "c9531522b042": {
+  "en": "Revived",
+  "t": "蘇生済み"
+ },
+ "c99b50cb40d4": {
+  "en": "Restless",
+  "t": "落ち着かない"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "ランク"
+ },
+ "cea2b18d5c7f": {
+  "en": "Name",
+  "t": "名前"
+ },
+ "e3d95e017a11": {
+  "en": "Month",
+  "t": "月"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "サファイア"
+ },
+ "ed4a38fe9259": {
+  "en": "DM",
+  "t": "DM"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "アクアマリン"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "目的地"
+ },
+ "f95ed6f5d34d": {
+  "en": "Furious",
+  "t": "激怒"
+ }
+}

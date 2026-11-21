@@ -25,6 +25,11 @@
                                                     {"<hash>": "<English>"} map instead of the work list
      node tools/i18n.js apply --lang ja work.json   saves the translations: a work file with "t" filled in,
                                                     or a flat {"<hash>": "<translation>"} map
+     node tools/i18n.js todo --lang ja --out work.json   writes the work file and prints a numbered list;
+                                                    translate into {"1": "…", "2": "…"} (⏎ = line break) and
+     node tools/i18n.js apply --lang ja --work work.json ja.json
+     node tools/i18n.js names --work work.json      the glossary spellings of the names in a work file
+     node tools/i18n.js addnames new.json           adds {"ja": {"Name": "…"}, …} to the glossaries
      node tools/i18n.js prune                       drops translations whose English is gone
      node tools/i18n.js build [outDir]              writes site/i18n/<lang>.js (interface text and names),
                                                     site/i18n/<lang>.docs.js (pages and handouts) and
@@ -73,7 +78,7 @@ function uiStrings() {
     for (const m of src.matchAll(new RegExp("(?<![\\w$])__\\.n\\([^,]+,\\s*" + lit.source + "\\s*,\\s*" + lit.source, "g"))) { out.add(str(m[1])); out.add(str(m[2])); }
   }
   const html = read("index.html");
-  for (const m of html.matchAll(/<(\w+)\b([^>]*\sdata-i18n(?:\s|>|=)[^>]*)>([\s\S]*?)<\/\1>/g)) out.add(m[3].trim().replace(/\s+/g, " "));
+  for (const m of html.matchAll(/<(\w+)\b([^>]*\sdata-i18n(?=[\s>=])[^>]*)>([\s\S]*?)<\/\1>/g)) out.add(m[3].trim().replace(/\s+/g, " "));
   for (const m of html.matchAll(/<\w+\b[^>]*\sdata-i18n-attr="([^"]+)"[^>]*>/g)) {
     m[1].split(/\s+/).forEach((a) => { const v = new RegExp("\\s" + a + '="([^"]*)"').exec(m[0]); if (v) out.add(v[1].replace(/&amp;/g, "&")); });
   }
@@ -183,7 +188,11 @@ function todo(o) {
       items.push({ part: p.id, h, en, t: "" });
     }
   }
-  if (o.pairs) console.log(JSON.stringify(Object.fromEntries(items.map((x) => [x.h, x.en])), null, 0).replace(/","/g, '",\n"'));
+  if (o.out) {
+    // A work file plus a numbered list to read; translate into {"1": "…", "2": "…"} and apply with --work.
+    writeJson(path.resolve(o.out), { lang, words: n, items });
+    items.forEach((x, i) => console.log(`${i + 1}\t${x.en.replace(/\n/g, "⏎")}`));
+  } else if (o.pairs) console.log(JSON.stringify(Object.fromEntries(items.map((x) => [x.h, x.en])), null, 0).replace(/","/g, '",\n"'));
   else console.log(JSON.stringify({ lang, words: n, items }, null, 1));
   process.stderr.write(`${items.length} segments, ${n} words\n`);
 }
@@ -205,7 +214,14 @@ function apply(o) {
   const data = readJson(o._[0], null);
   if (!data) throw new Error("Couldn't read " + o._[0]);
   const tr = {};
-  if (Array.isArray(data.items)) data.items.forEach((x) => { if (x.t) tr[x.h] = x.t; });
+  if (o.work) {
+    // Numbered translations ({"1": "…"}) for the items of a work file written by `todo --out`.
+    const work = readJson(path.resolve(o.work), null);
+    if (!work) throw new Error("Couldn't read " + o.work);
+    const keys = Object.keys(data).filter((k) => /^\d+$/.test(k));
+    if (keys.length !== work.items.length) process.stderr.write(`note: ${keys.length} translations for ${work.items.length} items\n`);
+    keys.forEach((k) => { const it = work.items[+k - 1]; if (it && data[k]) tr[it.h] = String(data[k]).replace(/⏎/g, "\n"); });
+  } else if (Array.isArray(data.items)) data.items.forEach((x) => { if (x.t) tr[x.h] = x.t; });
   else Object.entries(data).forEach(([h, v]) => { if (/^[0-9a-f]{12}$/.test(h) && v) tr[h] = typeof v === "string" ? v : v.t; });
   const parts = inventory({ handouts: true });
   let saved = 0, warned = 0;
@@ -250,6 +266,42 @@ function prune() {
     })(path.join(STORE, lang));
   });
   console.log(`Dropped ${gone} translations whose English is gone.`);
+}
+
+// The glossary spellings of the names and terms that appear in a work file, for the languages that
+// write names by sound (so a name is always spelled the same). Also lists capitalised words with no
+// entry yet: add them with `addnames` the first time they're translated.
+function names(o) {
+  const work = readJson(path.resolve(o.work || o._[0]), null);
+  if (!work) throw new Error("--work work.json");
+  const text = work.items.map((x) => x.en).join("\n");
+  const langs = (o.langs || "ja,zh,ko,ar").split(",");
+  const maps = Object.fromEntries(langs.map((l) => [l, glossaryNames(l)]));
+  const keys = Object.keys(maps[langs[0]]).filter((k) => k.length > 2 && new RegExp("(^|[^A-Za-z])" + k.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "(?![A-Za-z])").test(text));
+  keys.sort((a, b) => b.length - a.length);
+  keys.forEach((k) => console.log(k + ": " + langs.map((l) => l + " " + (maps[l][k] || "?")).join(" | ")));
+  const known = new Set(Object.keys(maps[langs[0]]).flatMap((k) => k.split(/\s+/)));
+  const common = new Set("The A An And Or Of In On At To For With From By As Is Are Be It Its If Each Every One Two Three Roll Use See Pick Add DM Player Players Level HP AC DC CR SP Day Days Circle Circles Night Morning Afternoon Graveyard Quest Quests Rank Ranks No Yes All Any This That These Those When What Who Why How Where Then Than Some Most More Less Not New Old Your You They He She We".split(" "));
+  const cand = new Map();
+  for (const m of text.matchAll(/\b[A-Z][a-z]+(?:[ -][A-Z][a-z]+)*\b/g)) {
+    const w = m[0];
+    if (common.has(w) || w.split(/[ -]/).every((x) => known.has(x) || common.has(x))) continue;
+    cand.set(w, (cand.get(w) || 0) + 1);
+  }
+  if (cand.size) console.log("\nNo entry yet: " + [...cand.entries()].sort((a, b) => b[1] - a[1]).map(([w, n]) => w + (n > 1 ? "×" + n : "")).join(", "));
+}
+
+// Adds names to each language's glossary ("campaign"): {"ja": {"Name": "…"}, "zh": {…}}
+function addnames(o) {
+  const data = readJson(path.resolve(o._[0]), {});
+  Object.entries(data).forEach(([lang, m]) => {
+    const f = storePath(lang, "glossary.json");
+    const g = readJson(f, {});
+    g.campaign = Object.assign(g.campaign || {}, m);
+    g.campaign = Object.fromEntries(Object.entries(g.campaign).sort((a, b) => a[0].localeCompare(b[0])));
+    writeJson(f, g);
+  });
+  console.log("Added " + Object.values(data).reduce((a, m) => a + Object.keys(m).length, 0) + " glossary entries.");
 }
 
 function glossaryNames(lang) {
@@ -305,6 +357,6 @@ if (require.main === module) {
   const cmd = process.argv[2];
   const o = args();
   try {
-    ({ status, todo, apply, prune, build, report }[cmd] || (() => { console.log(fs.readFileSync(__filename, "utf8").split("*/")[0]); }))(o);
+    ({ status, todo, apply, prune, build, report, names, addnames }[cmd] || (() => { console.log(fs.readFileSync(__filename, "utf8").split("*/")[0]); }))(o);
   } catch (e) { console.error(e.message); process.exit(cmd === "report" ? 0 : 1); }
 }

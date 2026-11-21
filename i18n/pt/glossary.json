@@ -128,7 +128,26 @@
   "Nari": "Nari",
   "Ukim": "Ukim"
  },
- "campaign": {},
+ "campaign": {
+  "Afternoon": "Tarde",
+  "Castle Mood": "Humor do Castelo",
+  "circle": "círculo",
+  "DM": "Mestre",
+  "Exposure": "Exposição",
+  "Fast": "Rápido",
+  "Forway Guard": "Guarda de Forway",
+  "Graveyard": "Madrugada",
+  "Hash": "Hash",
+  "Heat": "Suspeita",
+  "Morning": "Manhã",
+  "Night": "Noite",
+  "Party Wanted": "Procura-se grupo",
+  "quest board": "quadro de missões",
+  "sigil ring": "anel de sigilo",
+  "Slow": "Lento",
+  "Standard": "Normal",
+  "The Inside Job": "O Trabalho Interno"
+ },
  "dnd5e": {
   "Armor Class (AC)": "Classe de Armadura (AC)",
   "Hit Points (HP)": "pontos de vida (HP)",

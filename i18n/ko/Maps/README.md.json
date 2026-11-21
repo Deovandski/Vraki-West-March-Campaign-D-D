@@ -1,0 +1,26 @@
+{
+ "325ff50ba847": {
+  "en": "On the map",
+  "t": "지도에서"
+ },
+ "5bd15f9645ff": {
+  "en": "Off the edge of the map",
+  "t": "지도 가장자리 너머"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "서클"
+ },
+ "a7f53e96f0a7": {
+  "en": "Encounter table",
+  "t": "조우 표"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "출발지"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "목적지"
+ }
+}

@@ -1,0 +1,2830 @@
+{
+ "001a6abb6886": {
+  "en": "0 (cantrip ring)",
+  "t": "0(初級呪文のリング)"
+ },
+ "005af12d9be9": {
+  "en": "{page} is for the DM",
+  "t": "{page}はDM用です"
+ },
+ "0060f0f82a9c": {
+  "en": "Cargo escort: the Inside Job offer can happen (valuable cargo)",
+  "t": "積み荷の護衛:内部の手引きの申し出が起こりうる(高価な積み荷)"
+ },
+ "0065a6466fef": {
+  "en": "Encounter tables for the regions on this trip, to roll at the table",
+  "t": "この旅で通る地域の遭遇表(卓で振る用)"
+ },
+ "00730cca877a": {
+  "en": "Long rest for everyone",
+  "t": "全員で大休憩"
+ },
+ "00c6ba91ea2f": {
+  "en": "What the party sees",
+  "t": "パーティーに見えるもの"
+ },
+ "02a8fbdc764c": {
+  "en": "Remove this adventurer?",
+  "t": "この冒険者を外しますか?"
+ },
+ "02b2b1da3462": {
+  "en": "Roll",
+  "t": "振る"
+ },
+ "04d3c6003174": {
+  "en": "paid in balls at the hideout or a drop point.",
+  "t": "隠れ家か受け渡し場所でボールで支払われる。"
+ },
+ "04e682629500": {
+  "en": "What happened",
+  "t": "起きたこと"
+ },
+ "050974bda1fc": {
+  "en": "Day",
+  "t": "日"
+ },
+ "053059a5aee7": {
+  "en": "Steps",
+  "t": "ステップ"
+ },
+ "0541a6f1e6d4": {
+  "en": "Roll again next fill",
+  "t": "次の自動入力で振り直す"
+ },
+ "0555927440b0": {
+  "en": "Ready to use offline on this device.",
+  "t": "この端末でオフラインでも使えます。"
+ },
+ "05618125c31a": {
+  "en": "Roll anything",
+  "t": "好きなロールを振る"
+ },
+ "05b877243cde": {
+  "en": "{region} table",
+  "t": "{region}の表"
+ },
+ "05c614d34699": {
+  "en": "Conditions",
+  "t": "状態異常"
+ },
+ "05e1a9a214ec": {
+  "en": "Party",
+  "t": "パーティー"
+ },
+ "060488367c30": {
+  "en": "Deal roll (d10, secret)",
+  "t": "取引ロール(d10、秘密)"
+ },
+ "06b2a8a95fca": {
+  "en": "Paid with the fewest balls: <b>{list}</b>.",
+  "t": "最少の枚数で払うと:<b>{list}</b>。"
+ },
+ "07711f40f1e5": {
+  "en": "The map at normal zoom is already saved when the site is installed.",
+  "t": "通常の倍率の地図は、サイトをインストールした時点で保存済みです。"
+ },
+ "080aa8fee573": {
+  "en": "Valuable cargo (offer at departure on 1–2)",
+  "t": "高価な積み荷(1〜2で出発時に申し出)"
+ },
+ "08600f7c7ba5": {
+  "en": "{from} to {to}",
+  "t": "{from}から{to}へ"
+ },
+ "08914b4b45ed": {
+  "en": "Learn what's different from normal 5e",
+  "t": "通常の5eとの違いを知る"
+ },
+ "0894c05a1f05": {
+  "en": "On the <b>Campaign</b> page: name it, set the in-world date, and start the Castle Mood, Heat and faction reputation.",
+  "t": "<b>キャンペーン</b>のページで、名前を付け、世界の日付を決め、城の機嫌、警戒度、派閥との評判を始める。"
+ },
+ "08d6a22c2bcb": {
+  "en": "{n} on this trip · average level {avg} · {owe} owe revival debt",
+  "t": "今回の旅に{n}人 · 平均レベル{avg} · 蘇生の借金あり{owe}人"
+ },
+ "08e16b55d175": {
+  "en": "Name Place Guild",
+  "t": "名前 場所 ギルド"
+ },
+ "0937206b6552": {
+  "en": "☐ Quiet ☐ Sign ☐ Encounter ☐ Other",
+  "t": "☐ 静か ☐ 兆し ☐ 遭遇 ☐ その他"
+ },
+ "095b75098b91": {
+  "en": "It sets the pitch and the six rules of an open table: a pool of players, players drive, start and end at an embassy, one shared world, real-ish time, rewards from the world.",
+  "t": "雰囲気と、オープンテーブルの6つのルールを決めます。プレイヤーの集まり、プレイヤーが主導する、大使館で始まり大使館で終わる、ひとつの共有世界、ほぼ現実どおりの時間、世界から得られる報酬。"
+ },
+ "09706811f2aa": {
+  "en": "Saving…",
+  "t": "保存中…"
+ },
+ "0a681e5d9fd3": {
+  "en": "Start the guide over",
+  "t": "ガイドを最初からやり直す"
+ },
+ "0a8f21b9c1b8": {
+  "en": "Map © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.",
+  "t": "地図 © Deovandski Skibinski Junior、CC-BY-NC-SA-4.0。"
+ },
+ "0aaf5e9ebc10": {
+  "en": "Exhaustion",
+  "t": "消耗"
+ },
+ "0be5925b6d8b": {
+  "en": "Open the travel map",
+  "t": "旅の地図を開く"
+ },
+ "0c6d4c2542b1": {
+  "en": "paid in goods from the cargo, which the party has to fence.",
+  "t": "積み荷の品物で支払われ、パーティーが売りさばく必要がある。"
+ },
+ "0c75ce0436d6": {
+  "en": "Make an adventurer, read the rules and lore, roll dice, count your balls and your debts.",
+  "t": "冒険者を作り、ルールと世界観を読み、ダイスを振り、ボールと借金を数えましょう。"
+ },
+ "0cc1dfb3f64d": {
+  "en": "Lower",
+  "t": "下げる"
+ },
+ "0d1046bdad4d": {
+  "en": "d6 {n} against Heat {h}: {what}",
+  "t": "d6 {n} 対 警戒度 {h}:{what}"
+ },
+ "0d47958f568d": {
+  "en": "Walking Flesh hunt intruders; traps arm. Stragglers on the plains.",
+  "t": "ウォーキング・フレッシュが侵入者を狩る。罠が作動する。平原にはぐれ者。"
+ },
+ "0d798d801b5a": {
+  "en": "the Inside Job offer",
+  "t": "内部の手引きの申し出"
+ },
+ "0d92c49ae3f7": {
+  "en": "One way",
+  "t": "片道"
+ },
+ "0df5a124f1dc": {
+  "en": "<b>Travel by circles:</b> count the circles on the travel map (Forway to Sanbi is 6); each is 1, 2 or 3 days.",
+  "t": "<b>サークルで旅をする:</b>旅の地図のサークルを数える(フォーウェイからサンビまでは6)。1サークルは1日、2日、3日のいずれか。"
+ },
+ "0ee02ad23516": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour). The embassy posts an Aquamarine quest.",
+  "t": "フラットヘッド2体。魂を吸う霧(1時間ごとにSP1)。大使館がアクアマリンの依頼を出す。"
+ },
+ "0fd9acf1a8ab": {
+  "en": "See where Vraki started",
+  "t": "ヴラキの始まりを見る"
+ },
+ "0ff8c1b5b48d": {
+  "en": "Max HP",
+  "t": "最大HP"
+ },
+ "1017cbb830ff": {
+  "en": "Plan a trip",
+  "t": "旅を計画する"
+ },
+ "10aa16e57686": {
+  "en": "Amount",
+  "t": "金額"
+ },
+ "115e578efe15": {
+  "en": "Kind",
+  "t": "種類"
+ },
+ "117f8917ee8e": {
+  "en": "Add a circle to start.",
+  "t": "まずサークルを追加してください。"
+ },
+ "1205d2dbc04d": {
+  "en": "Get ready to run the West March",
+  "t": "ウェストマーチを進行する準備"
+ },
+ "128e740f072e": {
+  "en": "Dice tray",
+  "t": "ダイストレイ"
+ },
+ "12d9eac97706": {
+  "en": "Track HP, Soul Points, balls and debt in <b>My adventurers</b>.",
+  "t": "HP、ソウルポイント、ボール、借金を<b>わたしの冒険者</b>で記録する。"
+ },
+ "130239a11ea1": {
+  "en": "A go-between offers the party a cut for helping the bandits rob the cargo they're guarding.",
+  "t": "仲介役が、護衛中の積み荷を盗賊が奪う手助けをすれば分け前をやると持ちかけてくる。"
+ },
+ "13b3f1e4b9af": {
+  "en": "Everyone on tonight's expedition. HP and conditions here are the same ones the travel planner's fights use, so damage you deal there shows up here.",
+  "t": "今夜の遠征に出る全員です。ここのHPと状態は旅のプランナーの戦闘と同じものなので、そちらで与えたダメージはここにも反映されます。"
+ },
+ "142d16b737f2": {
+  "en": "Spoiler warning: the lore pages and the DM pages reveal secrets of the world, including some from unreleased story notes.",
+  "t": "ネタバレ注意:世界観のページとDMのページには、未発表のストーリーメモからのものを含め、世界の秘密が書かれています。"
+ },
+ "142d8c0e9b6f": {
+  "en": "After the session, help fill in the expedition report so the next party knows what's out there.",
+  "t": "セッションのあとは、次のパーティーが外の様子を知れるよう、遠征報告書の記入を手伝いましょう。"
+ },
+ "156c70d374bd": {
+  "en": "Not saving: this browser blocks storage. Download a save file to keep your work.",
+  "t": "保存されていません:このブラウザーはストレージをブロックしています。作業を残すには保存ファイルをダウンロードしてください。"
+ },
+ "164632133c33": {
+  "en": "Encounters here use the {region} table.",
+  "t": "ここでの遭遇は{region}の表を使います。"
+ },
+ "168c650a1a0a": {
+  "en": "Pre-made adventurers",
+  "t": "作成済みの冒険者"
+ },
+ "1715d6fe08df": {
+  "en": "Run & wrap up",
+  "t": "進行と締めくくり"
+ },
+ "1739104fd0a1": {
+  "en": "Initiative for {name}",
+  "t": "{name}のイニシアチブ"
+ },
+ "177260b6357b": {
+  "en": "<b>Loot:</b> {loot}",
+  "t": "<b>戦利品:</b>{loot}"
+ },
+ "179a00363c2c": {
+  "en": "Saved {saved} of {total}. Try again online for the rest.",
+  "t": "{total}件中{saved}件を保存しました。残りはオンラインで再度お試しください。"
+ },
+ "18d6e69a07b0": {
+  "en": "To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.",
+  "t": "iPhoneやiPadにインストールするには:共有をタップし、<b>ホーム画面に追加</b>を選んでください。"
+ },
+ "1991eedad300": {
+  "en": "One shared world needs one shared record. Set it up once; every session adds to it.",
+  "t": "ひとつの共有世界には、ひとつの共有記録が必要です。一度準備すれば、セッションごとに書き足されていきます。"
+ },
+ "1a12620146f1": {
+  "en": "Circles on the map",
+  "t": "地図上のサークル"
+ },
+ "1ab5f5545c88": {
+  "en": "Travel map",
+  "t": "旅の地図"
+ },
+ "1acece3e1c58": {
+  "en": "Reset round",
+  "t": "ラウンドをリセット"
+ },
+ "1b5a8f5e5d65": {
+  "en": "Long rest: HP restored, +1 SP, −1 exhaustion.",
+  "t": "大休憩:HPが全回復、SP+1、消耗−1。"
+ },
+ "1c037f803608": {
+  "en": "Search rules, lore, creatures",
+  "t": "ルール、世界観、クリーチャーを検索"
+ },
+ "1d8ba5b7ff76": {
+  "en": "Roll an offer",
+  "t": "申し出を振る"
+ },
+ "1de62b5a22af": {
+  "en": "You're ready. Put the quest board out and let the players choose.",
+  "t": "準備完了です。依頼掲示板を出して、プレイヤーに選ばせましょう。"
+ },
+ "1dee0689b9e7": {
+  "en": "Sleepy",
+  "t": "眠たげ"
+ },
+ "1e5488ca3603": {
+  "en": "Not on this trip",
+  "t": "今回の旅には不参加"
+ },
+ "1ed96f617090": {
+  "en": "Back to the start page",
+  "t": "トップページに戻る"
+ },
+ "1f1720151661": {
+  "en": "All",
+  "t": "すべて"
+ },
+ "1f58569fd6fe": {
+  "en": "AC and HP from the 5e {block}",
+  "t": "ACとHPは5eの{block}から"
+ },
+ "207d20b26926": {
+  "en": "(about {low}–{high} pearls)",
+  "t": "(約{low}〜{high}パール)"
+ },
+ "2084df0b528d": {
+  "en": "Choose…",
+  "t": "選択…"
+ },
+ "210d435929f6": {
+  "en": "Also every creature those tables can bring, not just the fights already set",
+  "t": "準備済みの戦闘だけでなく、その表から出うるすべてのクリーチャー"
+ },
+ "2198adb3a104": {
+  "en": "Patrol:",
+  "t": "巡回:"
+ },
+ "219f016b1ea6": {
+  "en": "Full event roll (d6, then d12)",
+  "t": "イベントを通しで振る(d6、次にd12)"
+ },
+ "21e529f348a8": {
+  "en": "Rules used: <a href=\"{money}\">money</a>, <a href=\"{travel}\">travel by circles</a>, <a href=\"{quests}\">quest board</a>, <a href=\"{death}\">death, revival &amp; debt</a>, <a href=\"{soul}\">soul energy</a>.",
+  "t": "使ったルール:<a href=\"{money}\">お金</a>、<a href=\"{travel}\">サークルで旅をする</a>、<a href=\"{quests}\">依頼掲示板</a>、<a href=\"{death}\">死、蘇生、借金</a>、<a href=\"{soul}\">魂のエネルギー</a>。"
+ },
+ "229180c589d5": {
+  "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
+  "t": "−3 追われる · −2 敵対 · −1 不信 · 0 無名 · +1 友好 · +2 信頼 · +3 身内。1セッションで動くのは最大1段階。"
+ },
+ "22c619b2c180": {
+  "en": "One more circle",
+  "t": "サークルを1つ増やす"
+ },
+ "22ec16453534": {
+  "en": "Rolled: {roll}",
+  "t": "ロール:{roll}"
+ },
+ "23d7a8460b35": {
+  "en": "Inside Job helper",
+  "t": "内部の手引きの補助"
+ },
+ "2568c53f14e4": {
+  "en": "Printed {date} from the Vraki West March travel planner.",
+  "t": "{date}にVraki West Marchの旅のプランナーから印刷。"
+ },
+ "25ce3db28b5a": {
+  "en": "Raise Heat",
+  "t": "警戒度を上げる"
+ },
+ "264ed5fa86cc": {
+  "en": "A paper copy of this trip, so you can run it without the site. Use your browser's print window to print it or choose <b>Save as PDF</b>.",
+  "t": "サイトなしで進行できる、この旅の紙の写しです。ブラウザーの印刷画面で印刷するか、<b>PDFとして保存</b>を選んでください。"
+ },
+ "2660609f822e": {
+  "en": "Done",
+  "t": "完了"
+ },
+ "267f580208ea": {
+  "en": "Spend 1 Soul Point",
+  "t": "ソウルポイントを1使う"
+ },
+ "26b94be163c7": {
+  "en": "{n} of {total} creatures. Read from the <a href=\"{url}\">stat block pages</a>; people without their own AC and HP use the 5e block their entry names.",
+  "t": "{total}体中{n}体。<a href=\"{url}\">データのページ</a>から読み込んでいます。自前のACとHPがない人物は、項目に書かれた5eのデータを使います。"
+ },
+ "26bc27e0ed2a": {
+  "en": "Revival window and debt",
+  "t": "蘇生の猶予と借金"
+ },
+ "26f37199db62": {
+  "en": "Dangerous places",
+  "t": "危険な場所"
+ },
+ "27be80977c16": {
+  "en": "Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click).",
+  "t": "参加する冒険者を<b>パーティー</b>のページに追加する(作成済みの冒険者はワンクリックで読み込めます)。"
+ },
+ "2818ac2cea31": {
+  "en": "Dangerous places: Bahyum's Castle Mood, Hifuna exposure, the desert, the caverns.",
+  "t": "危険な場所:バヒュムの城の機嫌、ヒフナでの曝露、砂漠、洞窟。"
+ },
+ "281b6068a586": {
+  "en": "Open a shift in the travel planner to add creatures to its fight from here.",
+  "t": "旅のプランナーでシフトを開くと、ここからその戦闘にクリーチャーを追加できます。"
+ },
+ "28b57e1b878b": {
+  "en": "remove",
+  "t": "削除"
+ },
+ "28b96cb76722": {
+  "en": "{n} result for “{q}”",
+  "t": "「{q}」の検索結果 {n}件"
+ },
+ "28bea3a4ad13": {
+  "en": "Add entry",
+  "t": "記録を追加"
+ },
+ "28c20e4a02bc": {
+  "en": "Entry",
+  "t": "項目"
+ },
+ "28c5c04fdd44": {
+  "en": "Quiet. Describe the scenery, or the food.",
+  "t": "静か。景色か、食べ物の描写をどうぞ。"
+ },
+ "28e94fdd3ca7": {
+  "en": "The last circle has events. Remove it anyway?",
+  "t": "最後のサークルにはイベントがあります。それでも削除しますか?"
+ },
+ "29245d440157": {
+  "en": "Payment:",
+  "t": "支払い:"
+ },
+ "299c3a3ffa82": {
+  "en": "That file isn't a Vraki West March save.",
+  "t": "そのファイルはVraki West Marchの保存データではありません。"
+ },
+ "29b80ac19515": {
+  "en": "Travel planner",
+  "t": "旅のプランナー"
+ },
+ "2a2a19a9b2e7": {
+  "en": "Weekday",
+  "t": "曜日"
+ },
+ "2a643c9767e9": {
+  "en": "Skip to the travel planner",
+  "t": "旅のプランナーへ進む"
+ },
+ "2a6e789e0a34": {
+  "en": "<b>Event roll:</b> d6 per shift that rolls. {enc} = encounter (d12 on the region table), {sign} = a sign of one (d12), the rest = quiet.",
+  "t": "<b>イベントロール:</b>ロールするシフトごとにd6。{enc} = 遭遇(地域の表でd12)、{sign} = その兆し(d12)、それ以外 = 静か。"
+ },
+ "2afe12c726e6": {
+  "en": "Creature",
+  "t": "クリーチャー"
+ },
+ "2b1d97857c7b": {
+  "en": "Next step",
+  "t": "次のステップ"
+ },
+ "2b661624c9a2": {
+  "en": "a cantrip ring",
+  "t": "初級呪文のリング"
+ },
+ "2c207de27d66": {
+  "en": "Standard",
+  "t": "普通"
+ },
+ "2d6f2ef30ed8": {
+  "en": "Reward",
+  "t": "報酬"
+ },
+ "2d9112504f35": {
+  "en": "Not rolled",
+  "t": "未ロール"
+ },
+ "2da0d506129b": {
+  "en": "{n} pearl",
+  "t": "{n}パール"
+ },
+ "2e09686f643b": {
+  "en": "How many owe revival debt",
+  "t": "蘇生の借金がある人数"
+ },
+ "2e68613791e6": {
+  "en": "Party size",
+  "t": "パーティーの人数"
+ },
+ "2f055cedfd68": {
+  "en": "Vraki West March home",
+  "t": "Vraki West March ホーム"
+ },
+ "2f527c1ed5ca": {
+  "en": "{n} nari stone",
+  "t": "ナリストーン{n}個"
+ },
+ "2f91b5302b28": {
+  "en": "{n} aquamarine",
+  "t": "{n}アクアマリン"
+ },
+ "2fb84a3ee938": {
+  "en": "It's one shared world. Whatever your party kills, maps or angers stays that way for everyone.",
+  "t": "世界はひとつで、全員の共有です。あなたのパーティーが倒したもの、地図にしたもの、怒らせたものは、全員にとってそのままです。"
+ },
+ "2fb97e854c4c": {
+  "en": "Patrol roll",
+  "t": "巡回ロール"
+ },
+ "30490aa8812d": {
+  "en": "Keep a shared copy of the travel map to mark explored circles.",
+  "t": "探索したサークルに印を付けられるよう、旅の地図の共有コピーを用意する。"
+ },
+ "317cd7815399": {
+  "en": "12pm–6pm",
+  "t": "12時〜18時"
+ },
+ "318909f568b2": {
+  "en": "clear",
+  "t": "消す"
+ },
+ "31edcbee62c3": {
+  "en": "Damage or heal",
+  "t": "ダメージか回復"
+ },
+ "3201cb08ca3a": {
+  "en": "Circles can override this below, for trips that cross regions.",
+  "t": "複数の地域をまたぐ旅では、下でサークルごとに変えられます。"
+ },
+ "325dcd29c3a4": {
+  "en": "Down (dying)",
+  "t": "倒れている(瀕死)"
+ },
+ "325ff50ba847": {
+  "en": "On the map",
+  "t": "地図上の見た目"
+ },
+ "329641e522b4": {
+  "en": "Afternoon",
+  "t": "午後"
+ },
+ "32ce3655cfa9": {
+  "en": "Dmg",
+  "t": "ダメ"
+ },
+ "32dd11c62087": {
+  "en": "Go-between (d8)",
+  "t": "仲介役(d8)"
+ },
+ "32eb52912f7e": {
+  "en": "Round trip",
+  "t": "往復"
+ },
+ "334a5be7560b": {
+  "en": "Pick a quest",
+  "t": "依頼を選ぶ"
+ },
+ "336f1edfecc1": {
+  "en": "Unnamed adventurer",
+  "t": "名無しの冒険者"
+ },
+ "338434162845": {
+  "en": "{n} aquamarines",
+  "t": "{n}アクアマリン"
+ },
+ "344e5851e8d7": {
+  "en": "Cargo value:",
+  "t": "積み荷の価値:"
+ },
+ "3495614e84af": {
+  "en": "A nari stone costs 1 amethyst, so {what} burns about {pearls} of stones.",
+  "t": "ナリストーンは1つ1アメジストなので、{what}はストーン代で約{pearls}かかります。"
+ },
+ "34a7ce69b4f9": {
+  "en": "Add an adventurer",
+  "t": "冒険者を追加"
+ },
+ "34aebb9c024d": {
+  "en": "{n} day",
+  "t": "{n}日"
+ },
+ "3556e67e35dc": {
+  "en": "The party (none set up yet)",
+  "t": "パーティー(まだ準備していません)"
+ },
+ "35fc7a0d2c1c": {
+  "en": "What happens",
+  "t": "何が起きるか"
+ },
+ "36ce5a7b4213": {
+  "en": "Patrol roll d6 {n} against Heat {h}: {what}",
+  "t": "巡回ロール d6 {n} 対 警戒度 {h}:{what}"
+ },
+ "36d0e67e5d83": {
+  "en": "Learn the secrets and the dangers",
+  "t": "秘密と危険を知る"
+ },
+ "374ad2f3a516": {
+  "en": "Next day also rolls the Castle Mood, as the rules say to at the start of each day.",
+  "t": "「翌日」を押すと、各日の始めに行うルールどおり城の機嫌も振ります。"
+ },
+ "37b861c042a9": {
+  "en": "<b>{days}</b> one way · {start} to {end} · deadline <b>{deadline}</b> if they come back the same way · <b>{rations}</b> rations for {people} people",
+  "t": "片道<b>{days}</b> · {start}〜{end} · 同じ道で戻るなら期限は<b>{deadline}</b> · {people}人分の食料<b>{rations}</b>"
+ },
+ "380957daf1b3": {
+  "en": "Deadline",
+  "t": "期限"
+ },
+ "3883b472c136": {
+  "en": "Open the printable PDF",
+  "t": "印刷用PDFを開く"
+ },
+ "38bef1a3e0d9": {
+  "en": "Pick a quest from the <a href=\"{board}\">quest board</a> and post a <a href=\"#/t/handouts\">Party Wanted</a> sign-up.",
+  "t": "<a href=\"{board}\">依頼掲示板</a>から依頼を選び、<a href=\"#/t/handouts\">パーティー募集</a>の貼り紙を出す。"
+ },
+ "38e0f92facd8": {
+  "en": "Add a creature",
+  "t": "クリーチャーを追加"
+ },
+ "393a9d8d971b": {
+  "en": "Remove",
+  "t": "外す"
+ },
+ "39402c830eaf": {
+  "en": "Art by Mitsukiven &amp; Feiourm. © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.",
+  "t": "イラスト:Mitsukiven &amp; Feiourm。© Deovandski Skibinski Junior、CC-BY-NC-SA-4.0。"
+ },
+ "398b8aaaf7d9": {
+  "en": "Remove this adventurer",
+  "t": "この冒険者を外す"
+ },
+ "399c76455f2d": {
+  "en": "Vraki, where the script started",
+  "t": "ヴラキ、この文字が生まれた場所"
+ },
+ "3a0b39e5b7b5": {
+  "en": "At departure, while the party preps.",
+  "t": "出発時、パーティーが準備している最中に。"
+ },
+ "3a6f5ca6ea5a": {
+  "en": "{name} are back, with {pearls} more debt.",
+  "t": "{name}が戻ってきました。借金は{pearls}増えました。"
+ },
+ "3aabc2d53e95": {
+  "en": "Sapphires",
+  "t": "サファイア"
+ },
+ "3b3e956859ef": {
+  "en": "The players tell you where they're going; you prep that trip.",
+  "t": "行き先はプレイヤーが教えてくれます。あなたはその旅を準備します。"
+ },
+ "3b55ef120dc9": {
+  "en": "This is a cargo escort (the Inside Job offer can happen)",
+  "t": "積み荷の護衛である(内部の手引きの申し出が起こりうる)"
+ },
+ "3b6934132e9b": {
+  "en": "My West March",
+  "t": "わたしのウェストマーチ"
+ },
+ "3c45285e41c1": {
+  "en": "Open the dice tray",
+  "t": "ダイストレイを開く"
+ },
+ "3c46db3d64a0": {
+  "en": "Travel without math",
+  "t": "計算いらずの旅"
+ },
+ "3d24c308ae06": {
+  "en": "Pick a people: mixed-blood human, Darfaries, Wozefaries, Cruro and more. There are no elves or dwarves.",
+  "t": "種族を選ぶ:混血の人間、ダルファリエス、ウォゼファリエス、クルロなど。エルフやドワーフはいません。"
+ },
+ "3db793492aa6": {
+  "en": "balls at a drop point",
+  "t": "受け渡し場所でボールで"
+ },
+ "3dd3ee6e59dd": {
+  "en": "Want a language added?",
+  "t": "追加してほしい言語がありますか?"
+ },
+ "3e6b78d7874f": {
+  "en": "Player",
+  "t": "プレイヤー"
+ },
+ "3f22bdc32c96": {
+  "en": "Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which.",
+  "t": "2つの場所の間のサークルを数えます。1サークルは旅の1日、2日、3日のいずれかで、どれにするかはDMが決めます。"
+ },
+ "3fd940eb0c0a": {
+  "en": "Full-size file for printing",
+  "t": "印刷用の原寸ファイル"
+ },
+ "41442d770c33": {
+  "en": "Any roll in the rules, like {a}, is a button; the dice tray has the rest.",
+  "t": "{a}のように、ルールに書かれたロールはどれもボタンです。それ以外はダイストレイで。"
+ },
+ "4252323dd53d": {
+  "en": "Heal",
+  "t": "回復"
+ },
+ "428ff5097716": {
+  "en": "This is a West March: there's a pool of players, not a fixed party. Whoever signs up for a session is the party that day.",
+  "t": "これはウェストマーチです。決まったパーティーではなく、プレイヤーの集まりがあります。そのセッションに参加した人たちが、その日のパーティーです。"
+ },
+ "43570e0f7ad6": {
+  "en": "Start at the embassy, run the trip shift by shift, and end with the party back somewhere safe.",
+  "t": "大使館から始め、シフトごとに旅を進め、パーティーがどこか安全な場所に戻ったところで終わります。"
+ },
+ "43d4617a1162": {
+  "en": "Ready",
+  "t": "準備完了"
+ },
+ "43e62c6a1ead": {
+  "en": "Swap from and to",
+  "t": "出発地と目的地を入れ替える"
+ },
+ "445bd79ce045": {
+  "en": "Light",
+  "t": "ライト"
+ },
+ "4468eb8623f2": {
+  "en": "Nari stones on hand",
+  "t": "手持ちのナリストーン"
+ },
+ "4540f7843779": {
+  "en": "no patrol today.",
+  "t": "今日はパトロールなし。"
+ },
+ "45f61418b146": {
+  "en": "Disadvantage",
+  "t": "不利"
+ },
+ "45f98c37c515": {
+  "en": "Length",
+  "t": "長さ"
+ },
+ "47af4a13e32b": {
+  "en": "Six steps from never heard of it to sitting at the table with an adventurer. Each one takes a few minutes; open the links when you need the details.",
+  "t": "聞いたこともない状態から、冒険者を連れて卓に着くまでの6ステップ。どれも数分で済みます。詳しく知りたいときはリンクを開いてください。"
+ },
+ "484e1850fd63": {
+  "en": "Roll the daily change (d6)",
+  "t": "毎日の変化を振る(d6)"
+ },
+ "488e7618ba06": {
+  "en": "{n} results for “{q}”",
+  "t": "「{q}」の検索結果 {n}件"
+ },
+ "489104bd9f31": {
+  "en": "Days per circle, all circles",
+  "t": "サークルあたりの日数(全サークル)"
+ },
+ "493e4e56c9dd": {
+  "en": "Your name is <b>NAME PLACE GUILD</b>. Starting money: class gear plus {a} × 10 pearls. Roll {b} for starting debt.",
+  "t": "名前は<b>名前 場所 ギルド</b>の形。初期資金:クラスの装備に加えて{a}×10パール。初期の借金は{b}を振る。"
+ },
+ "495c1caeca4e": {
+  "en": "Trip notes",
+  "t": "旅のメモ"
+ },
+ "4990c44c13ec": {
+  "en": "Who's using the site",
+  "t": "サイトを使う人"
+ },
+ "49c673a3212f": {
+  "en": "Handouts and props",
+  "t": "配布物と小道具"
+ },
+ "49e40318c7a0": {
+  "en": "the trip",
+  "t": "この旅"
+ },
+ "4b2c4f63ca40": {
+  "en": "On a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day.",
+  "t": "1が出たら機嫌が1下がり、6が出たら1上がる。城内で戦うパーティーがいると毎日1上がる。"
+ },
+ "4ca775823b63": {
+  "en": "6am–12pm",
+  "t": "6時〜12時"
+ },
+ "4caa8ec03f1a": {
+  "en": "a patrol finds them.",
+  "t": "パトロールに見つかる。"
+ },
+ "4cbc10e0ef7f": {
+  "en": "The West March's shared memory. Write down where each party went and what changed in the world.",
+  "t": "ウェストマーチの共有の記憶です。各パーティーがどこへ行き、世界の何が変わったかを書き残しましょう。"
+ },
+ "4cc4ef25d4bc": {
+  "en": "Slow",
+  "t": "遅い"
+ },
+ "4cf9ef9f28aa": {
+  "en": "Count circles from the map",
+  "t": "地図からサークルを数える"
+ },
+ "4d8e3b8b674d": {
+  "en": "“{text}”",
+  "t": "「{text}」"
+ },
+ "4d999db4f9eb": {
+  "en": "Next turn",
+  "t": "次の手番"
+ },
+ "4dc62dd49100": {
+  "en": "{days} if they come back the same way",
+  "t": "同じ道で戻るなら{days}"
+ },
+ "4dc8ea252a80": {
+  "en": "The travel map",
+  "t": "旅の地図"
+ },
+ "4e105a04770c": {
+  "en": "Bring it to the table",
+  "t": "卓へ持っていく"
+ },
+ "4e27d1305f09": {
+  "en": "Your adventurer",
+  "t": "あなたの冒険者"
+ },
+ "4ee1a9835097": {
+  "en": "Started over.",
+  "t": "最初からやり直しました。"
+ },
+ "4ef6cb0d5c55": {
+  "en": "In",
+  "t": "単位"
+ },
+ "4f19c38944f9": {
+  "en": "The Inside Job offer",
+  "t": "内部の手引きの申し出"
+ },
+ "4f4baef682e3": {
+  "en": "Departure roll: d6 {n}, {what}",
+  "t": "出発時のロール:d6 {n}、{what}"
+ },
+ "4f5df4895274": {
+  "en": "Overheard in the tavern (d10)",
+  "t": "酒場で聞いた話(d10)"
+ },
+ "4f78c6689c73": {
+  "en": "How many",
+  "t": "数"
+ },
+ "4f996b171bfd": {
+  "en": "Revival debt (pearls)",
+  "t": "蘇生の借金(パール)"
+ },
+ "4fc70c0e3800": {
+  "en": "Every session starts at a Forway <b>embassy</b> and should end back at one.",
+  "t": "どのセッションもフォーウェイの<b>大使館</b>から始まり、どこかの大使館に戻って終わるのが基本です。"
+ },
+ "50050479bb24": {
+  "en": "Light or dark",
+  "t": "ライトかダーク"
+ },
+ "50117964066e": {
+  "en": "Temp",
+  "t": "一時"
+ },
+ "50fb3baa2900": {
+  "en": "no offer at departure",
+  "t": "出発時の申し出はなし"
+ },
+ "511a7cefe5a9": {
+  "en": "Back",
+  "t": "戻る"
+ },
+ "51936dbda00f": {
+  "en": "DM's choice.",
+  "t": "DMが決める。"
+ },
+ "51a1fa0a8498": {
+  "en": "Event: sign or omen",
+  "t": "イベント:兆しや前触れ"
+ },
+ "51d76af291cb": {
+  "en": "Damage",
+  "t": "ダメージ"
+ },
+ "51df909fa582": {
+  "en": "Trip settings",
+  "t": "旅の設定"
+ },
+ "51e06d6677ee": {
+  "en": "The biggest you can afford is {what}.",
+  "t": "払える中で最大なのは{what}。"
+ },
+ "52756b0b8396": {
+  "en": "You opened the site straight from a file. Pages load best when the site is served: open it on GitHub Pages, or run <code>python -m http.server</code> in the repo folder and visit <code>http://localhost:8000</code>.",
+  "t": "ファイルから直接サイトを開いています。ページはサイトを配信したほうがうまく読み込めます。GitHub Pagesで開くか、リポジトリのフォルダーで <code>python -m http.server</code> を実行して <code>http://localhost:8000</code> を開いてください。"
+ },
+ "5297a254825f": {
+  "en": "<b>Hash:</b> double HP, +2 to attack and damage, special abilities +1d6 damage and +2 save DCs, always hostile. Eating its meat gives 1 Exposure.",
+  "t": "<b>ハッシュ:</b>HPが2倍、攻撃とダメージに+2、特殊能力のダメージ+1d6とセーヴのDC+2、常に敵対的。その肉を食べると曝露が1たまる。"
+ },
+ "532e85bae056": {
+  "en": "Track your character between and during sessions: HP, Soul Points, exhaustion, balls and revival debt. It saves in this browser as you type.",
+  "t": "セッションの合間も最中も、キャラクターを記録しましょう:HP、ソウルポイント、消耗、ボール、蘇生の借金。入力するそばからこのブラウザーに保存されます。"
+ },
+ "53d83bde3793": {
+  "en": "Dice",
+  "t": "ダイス"
+ },
+ "53dff878f4c2": {
+  "en": "DM secrets: the hidden truths of the world.",
+  "t": "DMの秘密:世界に隠された真実。"
+ },
+ "53f1d44436fa": {
+  "en": "(not done yet)",
+  "t": "(未完了)"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "アメジスト"
+ },
+ "54442dd15378": {
+  "en": "Sets the circles (and each one's encounter table) from the route between From and To.",
+  "t": "出発地と目的地を結ぶ経路から、サークル(とそれぞれの遭遇表)を設定します。"
+ },
+ "54792c64794e": {
+  "en": "Travel by circles",
+  "t": "サークルで旅をする"
+ },
+ "54983531feab": {
+  "en": "The handouts in this language are on their way; these are the English ones.",
+  "t": "この言語の配布物は準備中です。これは英語版です。"
+ },
+ "54c33383a51b": {
+  "en": "<b>{pearls}</b>; Forway takes {n} off their debt",
+  "t": "<b>{pearls}</b>。フォーウェイが{n}を借金から差し引く"
+ },
+ "54ecc0da3ac0": {
+  "en": "Tip: any roll written in the rules, like 2d6+3, is a button. Tap it to roll.",
+  "t": "ヒント:ルールに書かれた2d6+3のようなロールはどれもボタンです。タップすると振れます。"
+ },
+ "55f089dc517e": {
+  "en": "Open the full-size file",
+  "t": "原寸のファイルを開く"
+ },
+ "560bcc2bcec8": {
+  "en": "Fast",
+  "t": "速い"
+ },
+ "56bf8e5830f6": {
+  "en": "Add a custom foe",
+  "t": "自作の敵を追加"
+ },
+ "56f22adee6bf": {
+  "en": "Where",
+  "t": "生息地"
+ },
+ "5756406ba97c": {
+  "en": "Cargo:",
+  "t": "積み荷:"
+ },
+ "57b5616fa6cb": {
+  "en": "Showing the copy bundled with the site.",
+  "t": "サイトに同梱された写しを表示しています。"
+ },
+ "57dccde67826": {
+  "en": "I'm running it",
+  "t": "進行する"
+ },
+ "57f3df8cac45": {
+  "en": "Soul Points",
+  "t": "ソウルポイント"
+ },
+ "583e0d372b46": {
+  "en": "New foe",
+  "t": "新しい敵"
+ },
+ "585cdf11ff4a": {
+  "en": "Grumpy",
+  "t": "不機嫌"
+ },
+ "587ce6284b63": {
+  "en": "Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.",
+  "t": "ドラッグで移動。ピンチ、またはCtrlを押しながらスクロールで拡大縮小。ダブルクリックで拡大。キーボード:+と−で拡大縮小、矢印キーで移動、0で地図全体。"
+ },
+ "58b36c7f713d": {
+  "en": "Events & encounters",
+  "t": "イベントと遭遇"
+ },
+ "58fccaefc040": {
+  "en": "Table",
+  "t": "表"
+ },
+ "598e66cfe06a": {
+  "en": "this trip",
+  "t": "この旅"
+ },
+ "59950a684167": {
+  "en": "Encounter tables (d12)",
+  "t": "遭遇表(d12)"
+ },
+ "59cb3037aec8": {
+  "en": "Open in {page}",
+  "t": "{page}で開く"
+ },
+ "59fe8c74da36": {
+  "en": "Open the map",
+  "t": "地図を開く"
+ },
+ "5a4df181bbf9": {
+  "en": "Before a session",
+  "t": "セッションの前に"
+ },
+ "5a73dc7bd0b1": {
+  "en": "Current SP",
+  "t": "現在のSP"
+ },
+ "5aca8f43f2ed": {
+  "en": "Go to the start page",
+  "t": "トップページへ"
+ },
+ "5b4333b08e62": {
+  "en": "Balls and change",
+  "t": "ボールと両替"
+ },
+ "5b480a177f96": {
+  "en": "Get the body to an embassy within <b>{days}</b>. Revival adds <b>{pearls}</b> of debt.",
+  "t": "<b>{days}</b>以内に遺体を大使館へ。蘇生で<b>{pearls}</b>の借金が増えます。"
+ },
+ "5b5e9ca6c739": {
+  "en": "People",
+  "t": "人物"
+ },
+ "5b68f4e77c9d": {
+  "en": "Days per circle for every circle",
+  "t": "全サークルのサークルあたりの日数"
+ },
+ "5bd15f9645ff": {
+  "en": "Off the edge of the map",
+  "t": "地図の端の向こう"
+ },
+ "5be4575a0bff": {
+  "en": "No road or sea lane on the map joins these. The DM decides how many circles it's worth.",
+  "t": "地図上にこの2か所を結ぶ道も航路もありません。何サークル分にするかはDMが決めます。"
+ },
+ "5c0ebe62c3eb": {
+  "en": "Hash {name}",
+  "t": "ハッシュ・{name}"
+ },
+ "5c0fdc7bfe0b": {
+  "en": ": ",
+  "t": ":"
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "パール"
+ },
+ "5c7d6a88a590": {
+  "en": "Pearls",
+  "t": "パール"
+ },
+ "5c91b35ad275": {
+  "en": "Unnamed",
+  "t": "名無し"
+ },
+ "5d22b5a9e6f0": {
+  "en": "Random tables",
+  "t": "ランダム表"
+ },
+ "5d53ddc453c5": {
+  "en": "Morning",
+  "t": "朝"
+ },
+ "5e0fdd197b7c": {
+  "en": "How far is it?",
+  "t": "どのくらい遠い?"
+ },
+ "5fc3f2710731": {
+  "en": "Add a faction or guild",
+  "t": "派閥やギルドを追加"
+ },
+ "5fe70ad50bb4": {
+  "en": "Afterwards: write the session log, move the in-world date, and have the party fill in an expedition report.",
+  "t": "終わったら:セッション記録を書き、世界の日付を進め、パーティーに遠征報告書を書いてもらう。"
+ },
+ "6003ecad9b4e": {
+  "en": "Revival window",
+  "t": "蘇生の猶予"
+ },
+ "607d3a25513f": {
+  "en": "Start from a pre-made one",
+  "t": "作成済みの冒険者から始める"
+ },
+ "610fabafc2be": {
+  "en": "slow",
+  "t": "遅い"
+ },
+ "613b06a57c87": {
+  "en": "History",
+  "t": "履歴"
+ },
+ "619232a301d0": {
+  "en": "Printable trip sheet",
+  "t": "印刷用の旅シート"
+ },
+ "61af8fd1a904": {
+  "en": "Proficiency bonus <b>+{pb}</b>, so maximum Soul Points are <b>{max}</b>. Regain 1 SP per long rest.",
+  "t": "習熟ボーナス<b>+{pb}</b>なので、ソウルポイントの最大値は<b>{max}</b>。大休憩ごとにSPを1回復。"
+ },
+ "624c727b5e79": {
+  "en": "Revival debt",
+  "t": "蘇生の借金"
+ },
+ "6415212afd5e": {
+  "en": "Add to the fight",
+  "t": "戦闘に追加"
+ },
+ "64cbec0ab1b3": {
+  "en": "{rank}: {dice} = {roll}, × {times} = {total} (honest reward: {reward})",
+  "t": "{rank}:{dice} = {roll}、× {times} = {total}(まっとうな報酬:{reward})"
+ },
+ "652c40b4a08f": {
+  "en": "Clear all events",
+  "t": "イベントをすべて消す"
+ },
+ "6569d4afbdbf": {
+  "en": "{pct}% translated",
+  "t": "{pct}% 翻訳済み"
+ },
+ "6569eecf68ce": {
+  "en": "Language",
+  "t": "言語"
+ },
+ "6590cb12dd83": {
+  "en": "{circles} via {places}.",
+  "t": "{places}経由で{circles}。"
+ },
+ "659a45fc734b": {
+  "en": "Fauna",
+  "t": "動物"
+ },
+ "65a809a706df": {
+  "en": "you're {n} short",
+  "t": "{n}足りない"
+ },
+ "65f1f08bcd48": {
+  "en": "Full screen",
+  "t": "全画面"
+ },
+ "668ef3a0203e": {
+  "en": "no offer at departure.",
+  "t": "出発時の申し出はなし。"
+ },
+ "66ecdbaabbef": {
+  "en": "On this page",
+  "t": "このページの内容"
+ },
+ "67963acb0a5f": {
+  "en": "Get the body to an embassy within <b>{days}</b>. Revival adds <b>{pearls}</b> of debt — and they already owe, so dying again means the Forway Guard unless the party pays everything.",
+  "t": "<b>{days}</b>以内に遺体を大使館へ。蘇生で<b>{pearls}</b>の借金が増えます。すでに借金があるので、パーティーが全額払わない限り、もう一度死ねばフォーウェイ衛兵隊行きです。"
+ },
+ "687fbc30935c": {
+  "en": "Party Wanted and other handouts",
+  "t": "パーティー募集とその他の配布物"
+ },
+ "68a7ea6c2da6": {
+  "en": "Roll this shift",
+  "t": "このシフトを振る"
+ },
+ "68f2433f5148": {
+  "en": "Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer.",
+  "t": "1サークルは1日、2日、3日(速い、普通、遅い)。旅を短くするか長くするか、あなたが選びます。"
+ },
+ "68f3524c2468": {
+  "en": "Lay out a trip circle by circle, the way the <a href=\"#/t/map\">travel map</a> draws it. Pick how many days each circle takes, roll the events the rules call for (or set them yourself), then run each shift: monsters, HP, initiative and notes.",
+  "t": "<a href=\"#/t/map\">旅の地図</a>の描き方どおり、サークルごとに旅を組み立てます。各サークルにかかる日数を選び、ルールが求めるイベントを振り(または自分で決め)、各シフトを進行します:モンスター、HP、イニシアチブ、メモ。"
+ },
+ "6927a7ee15e0": {
+  "en": "Download save file (.json)",
+  "t": "保存ファイルをダウンロード(.json)"
+ },
+ "6968ac9b676c": {
+  "en": "Done, next step",
+  "t": "完了、次のステップへ"
+ },
+ "699443f86e01": {
+  "en": "Encounters here use the {region} table ({places}).",
+  "t": "ここでの遭遇は{region}の表({places})を使います。"
+ },
+ "69a5c331665d": {
+  "en": "you can cast it {n} times",
+  "t": "{n}回使える"
+ },
+ "69b6c8592e50": {
+  "en": "Add",
+  "t": "追加"
+ },
+ "69c6d1c55271": {
+  "en": "{from}, heading {heading}: {circles} to the edge",
+  "t": "{from}から{heading}へ:端まで{circles}"
+ },
+ "69d91d87d2d9": {
+  "en": "Two things at once",
+  "t": "同時に2つ"
+ },
+ "6a19d3d370a1": {
+  "en": "Type a word in the search box, like Bagarisa, revival or Sanbi.",
+  "t": "検索欄に言葉を入力してください。例:バガリサ、蘇生、サンビ。"
+ },
+ "6b08a01fed95": {
+  "en": "Use “Add to the fight” to drop one into the shift that's open in the travel planner.",
+  "t": "「戦闘に追加」で、旅のプランナーで開いているシフトに追加できます。"
+ },
+ "6b3afb2bf5df": {
+  "en": "Travel is the heart of the game, and it has no math: circles on the map, and you turn the pace knob.",
+  "t": "旅はゲームの中心ですが、計算はいりません。地図のサークルと、あなたが回すペースのつまみだけです。"
+ },
+ "6b59737b63e2": {
+  "en": "Sign of: {what}",
+  "t": "兆し:{what}"
+ },
+ "6bf417e84947": {
+  "en": "Search",
+  "t": "検索"
+ },
+ "6ccdecefd558": {
+  "en": "Title",
+  "t": "タイトル"
+ },
+ "6d71b63ca602": {
+  "en": "poisoned, frightened…",
+  "t": "毒、恐怖…"
+ },
+ "6deec64815af": {
+  "en": "Dangerous trip: encounters on 1–2 (slow country, night, loud or smelly party, valuable cargo)",
+  "t": "危険な旅:1〜2で遭遇(進みにくい土地、夜、うるさいか臭いパーティー、高価な積み荷)"
+ },
+ "6e06a9af5127": {
+  "en": "Vraki West March · Trip sheet",
+  "t": "Vraki West March · 旅シート"
+ },
+ "6e718c8f5eea": {
+  "en": "Trackers and planners save in this browser as you type. Use the save button at the top to download a file you can load on another device.",
+  "t": "記録やプランナーは入力するそばからこのブラウザーに保存されます。上の保存ボタンからファイルをダウンロードすれば、別の端末で読み込めます。"
+ },
+ "6ef2337c6cdc": {
+  "en": "Load this save file? It replaces what's saved in this browser now.",
+  "t": "この保存ファイルを読み込みますか?今このブラウザーに保存されている内容と置き換わります。"
+ },
+ "6f2cb5727653": {
+  "en": "Event: nothing",
+  "t": "イベント:何もなし"
+ },
+ "6f7d178c16be": {
+  "en": "Factions & reputation",
+  "t": "派閥と評判"
+ },
+ "6feb36f59063": {
+  "en": "Every shift that needs a roll already has one.",
+  "t": "ロールが必要なシフトには、すべてもうロールがあります。"
+ },
+ "70a8b67b4737": {
+  "en": "The shared world: today's date, Bahyum's Castle Mood, the Inside Job Heat, faction reputation and the session log.",
+  "t": "共有の世界:今日の日付、バヒュム城の機嫌、内部の手引きの警戒度、派閥との評判、セッション記録。"
+ },
+ "70ca985baf25": {
+  "en": "+{n} temp",
+  "t": "一時+{n}"
+ },
+ "70ff9887996a": {
+  "en": "Roll a {rank} quest (d20)",
+  "t": "{rank}の依頼を振る(d20)"
+ },
+ "715bfb218d54": {
+  "en": "Rations",
+  "t": "食料"
+ },
+ "717011a375f5": {
+  "en": "the offer comes before they leave",
+  "t": "出発前に申し出が来る"
+ },
+ "71d91b99236f": {
+  "en": "Set up the campaign",
+  "t": "キャンペーンを準備する"
+ },
+ "71df16eea5ec": {
+  "en": "How events are rolled",
+  "t": "イベントの振り方"
+ },
+ "722641fde081": {
+  "en": "fast",
+  "t": "速い"
+ },
+ "724199b577c5": {
+  "en": "{n} of your own",
+  "t": "自作{n}件"
+ },
+ "725aa286e571": {
+  "en": "Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play.",
+  "t": "注意:世界観のページには世界の秘密が書かれています。プレイの中で発見したいなら、概要だけでやめておきましょう。"
+ },
+ "72a027dd7c1b": {
+  "en": "Rooms rearrange; a Walking Flathead wakes. Walking Skin packs raid nearby farms.",
+  "t": "部屋が並び替わる。ウォーキング・フラットヘッドが1体目覚める。ウォーキング・スキンの群れが近くの農場を襲う。"
+ },
+ "72ff867cb9bd": {
+  "en": "DM notes",
+  "t": "DMメモ"
+ },
+ "734c6f6ff4e3": {
+  "en": "Remove {name}",
+  "t": "{name}を外す"
+ },
+ "736169bbe67e": {
+  "en": "{n} for {people} people, there and back",
+  "t": "{people}人分で{n}、往復"
+ },
+ "7364bec36caa": {
+  "en": "The repo on GitHub",
+  "t": "GitHubのリポジトリ"
+ },
+ "73ae6dd8fbbc": {
+  "en": ", ",
+  "t": "、"
+ },
+ "758f3a5a53e7": {
+  "en": "Damage taken",
+  "t": "受けたダメージ"
+ },
+ "76be22c2e761": {
+  "en": "Page not found",
+  "t": "ページが見つかりません"
+ },
+ "77032d3a785c": {
+  "en": "Plain text for AI tools and search engines:",
+  "t": "AIツールや検索エンジン向けのプレーンテキスト:"
+ },
+ "7780a262469a": {
+  "en": "Zoom out",
+  "t": "縮小"
+ },
+ "77fa3ba25c50": {
+  "en": "Switch light or dark",
+  "t": "ライトとダークを切り替える"
+ },
+ "783c9a2c8357": {
+  "en": "Roll events for empty shifts",
+  "t": "空いているシフトのイベントを振る"
+ },
+ "783ea5e6d79d": {
+  "en": "{n} sapphires",
+  "t": "{n}サファイア"
+ },
+ "786b6e3e5665": {
+  "en": "Open the menu",
+  "t": "メニューを開く"
+ },
+ "797b335d354a": {
+  "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
+  "t": "価値は<b>{pearls}</b>({gp} gp)。上の単位に両替すると:{list}。"
+ },
+ "798649d11b43": {
+  "en": "Save the handouts for offline use (about 4 MB)",
+  "t": "配布物をオフライン用に保存(約4 MB)"
+ },
+ "79e1accfb338": {
+  "en": "Fill a board (4 quests)",
+  "t": "掲示板を埋める(依頼4件)"
+ },
+ "7a7f4479f2d2": {
+  "en": "Heat",
+  "t": "警戒度"
+ },
+ "7ae1b64d77df": {
+  "en": "Pick Player or DM above for a step-by-step guide, or:",
+  "t": "上で「プレイヤー」か「DM」を選ぶと手順ガイドが開きます。または:"
+ },
+ "7ba4173f8de3": {
+  "en": "Pick two different places.",
+  "t": "別々の場所を2つ選んでください。"
+ },
+ "7ba7f3a9ef28": {
+  "en": "That link doesn't match a page here.",
+  "t": "このリンクはこのサイトのどのページにも当てはまりません。"
+ },
+ "7c3240bef1f4": {
+  "en": "Campaign",
+  "t": "キャンペーン"
+ },
+ "7ce66824a857": {
+  "en": "Hash",
+  "t": "ハッシュ"
+ },
+ "7da8b2bfe6b1": {
+  "en": "The Inside Job: on cargo escorts, bandits may offer the party a cut.",
+  "t": "内部の手引き:積み荷の護衛中、盗賊がパーティーに分け前を持ちかけてくることがあります。"
+ },
+ "7dd0a3454563": {
+  "en": "<b>{pearls}</b> penalty",
+  "t": "<b>{pearls}</b>の違約金"
+ },
+ "7df1c9752d55": {
+  "en": "First session? The Alpha one-shot (a wagon escort) is ready to run.",
+  "t": "初めてのセッション?アルファ版ワンショット(荷馬車の護衛)がすぐ遊べます。"
+ },
+ "7e77881bc6e6": {
+  "en": "Choose a quest at your rank (Pearl to start) from the quest board.",
+  "t": "依頼掲示板から自分のランク(最初はパール)の依頼を選ぶ。"
+ },
+ "7eb468df8575": {
+  "en": "(starts on {day})",
+  "t": "({day}始まり)"
+ },
+ "7f882ae74695": {
+  "en": "Day {n}",
+  "t": "{n}日目"
+ },
+ "7fbfc6e52661": {
+  "en": "Circles on this trip",
+  "t": "この旅のサークル"
+ },
+ "7fd28e38bde5": {
+  "en": "About this campaign",
+  "t": "このキャンペーンについて"
+ },
+ "809a7994de3f": {
+  "en": "Winga mail there",
+  "t": "ウィンガ便で届くまで"
+ },
+ "80c68382426c": {
+  "en": "No route on the map joins {a} and {b}. Check the spelling, or set the circles yourself.",
+  "t": "地図上に{a}と{b}を結ぶ経路はありません。綴りを確認するか、サークルを自分で設定してください。"
+ },
+ "80d7999425a2": {
+  "en": "Circle {n}, {days}",
+  "t": "サークル{n}、{days}"
+ },
+ "81389514b926": {
+  "en": "Set up the party",
+  "t": "パーティーを準備する"
+ },
+ "816311dcd351": {
+  "en": "Sign or omen",
+  "t": "兆しや前触れ"
+ },
+ "816f9b000582": {
+  "en": "Death, revival and debt, and how factions remember the party.",
+  "t": "死、蘇生、借金、そして派閥がパーティーをどう覚えているか。"
+ },
+ "82494c4e2e68": {
+  "en": "(done)",
+  "t": "(完了)"
+ },
+ "826e27f3d529": {
+  "en": "stats",
+  "t": "データ"
+ },
+ "82d787e2df53": {
+  "en": "Patrol roll (d6 &lt; Heat)",
+  "t": "巡回ロール(d6 &lt; 警戒度)"
+ },
+ "82e1bab03f64": {
+  "en": "Each day has four shifts. Roll the event die on Graveyard and Night: {a}, 1 is an encounter, 2 a sign of one.",
+  "t": "1日は4つのシフトに分かれます。深夜と夜にイベントのダイスを振る:{a}。1なら遭遇、2ならその兆し。"
+ },
+ "82f74dd93c31": {
+  "en": "The party ({n})",
+  "t": "パーティー({n})"
+ },
+ "832e96546f24": {
+  "en": "Stat blocks",
+  "t": "データ"
+ },
+ "8346b4513a9b": {
+  "en": "Nothing matches “{q}”. Try a shorter word or a different spelling.",
+  "t": "「{q}」に一致するものはありません。短い言葉や別の書き方を試してください。"
+ },
+ "83553fe66e0e": {
+  "en": "<a href=\"{make}\">Make an adventurer</a>, or pick one of the <a href=\"{pregens}\">nine pre-made ones</a>.",
+  "t": "<a href=\"{make}\">冒険者を作る</a>か、<a href=\"{pregens}\">9人の作成済み冒険者</a>から選ぶ。"
+ },
+ "83822413b591": {
+  "en": "Night",
+  "t": "夜"
+ },
+ "83ab8f8a9a8e": {
+  "en": "Searching…",
+  "t": "検索中…"
+ },
+ "83d635952510": {
+  "en": "Saved for offline use",
+  "t": "オフライン用に保存しました"
+ },
+ "848516520ebf": {
+  "en": "Pick a quest and find a party",
+  "t": "依頼を選び、パーティーを見つける"
+ },
+ "848a37275b68": {
+  "en": "Notes:",
+  "t": "メモ:"
+ },
+ "849cc321f202": {
+  "en": "Level",
+  "t": "レベル"
+ },
+ "84c2f1ca5e7a": {
+  "en": "Alpha one-shot",
+  "t": "アルファ版ワンショット"
+ },
+ "84d4eb97c252": {
+  "en": "This page stays in English: it's the license's legal text, and the English version is the one that counts.",
+  "t": "このページは英語のままです。ライセンスの法的な文章であり、効力があるのは英語版だからです。"
+ },
+ "84f975b8a00c": {
+  "en": "New here?",
+  "t": "はじめての方へ"
+ },
+ "85f73071767b": {
+  "en": "Plan trips circle by circle, roll events, run fights, track the party, the Castle Mood and every faction.",
+  "t": "サークルごとに旅を計画し、イベントを振り、戦闘を回し、パーティー、城の機嫌、すべての派閥を管理します。"
+ },
+ "864e3055cb78": {
+  "en": "Current HP",
+  "t": "現在のHP"
+ },
+ "86f987d184bb": {
+  "en": "6pm–12am",
+  "t": "18時〜24時"
+ },
+ "87b9cfd14272": {
+  "en": "Vraki is the world of the #HusbandOutWorld light novels: soul energy instead of magic, killer trees, moody undead castles and a lot of bureaucracy.",
+  "t": "ヴラキは#HusbandOutWorldのライトノベルの世界です。魔法の代わりに魂のエネルギー、人を殺す木、機嫌の悪い不死者の城、そして山ほどのお役所仕事。"
+ },
+ "87df6dc27859": {
+  "en": "Beast",
+  "t": "魔獣"
+ },
+ "881ec4839818": {
+  "en": "Learn how an open table works",
+  "t": "オープンテーブルのしくみを知る"
+ },
+ "890f19ee4f2b": {
+  "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
+  "t": "Vraki West Marchの旅の地図:場所と場所を結ぶ道や航路に沿って色付きのサークルが描かれた世界地図"
+ },
+ "897335ee0ca8": {
+  "en": "Class",
+  "t": "クラス"
+ },
+ "89c2a7e50b97": {
+  "en": "goods from the cargo",
+  "t": "積み荷の品物で"
+ },
+ "8acc003f9a4a": {
+  "en": "Trip {n}",
+  "t": "旅{n}"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "サークル"
+ },
+ "8b357b2f7c32": {
+  "en": "Each debtor keeps",
+  "t": "借金がある人の手取り"
+ },
+ "8b47d4d60c73": {
+  "en": "{n} on this trip",
+  "t": "今回の旅に{n}人"
+ },
+ "8b59700fbe91": {
+  "en": "Theme",
+  "t": "テーマ"
+ },
+ "8b93e371e76e": {
+  "en": "Cargo",
+  "t": "積み荷"
+ },
+ "8b95aba870aa": {
+  "en": "Circle {n}",
+  "t": "サークル{n}"
+ },
+ "8ba7e599355a": {
+  "en": "Fine",
+  "t": "無事"
+ },
+ "8bc140d3e96f": {
+  "en": "<a href=\"{url}\">Read the world at a glance</a> (five minutes).",
+  "t": "<a href=\"{url}\">世界のあらましを読む</a>(5分)。"
+ },
+ "8c2a09403551": {
+  "en": "Bestiary",
+  "t": "モンスター図鑑"
+ },
+ "8c4d38b077d8": {
+  "en": "Beasts",
+  "t": "魔獣"
+ },
+ "8d3537b32b81": {
+  "en": "Inside Job offer",
+  "t": "内部の手引きの申し出"
+ },
+ "8d8164e16035": {
+  "en": "Replace the creatures here with the ones from this entry?",
+  "t": "ここのクリーチャーをこの項目のものに置き換えますか?"
+ },
+ "8dd63043aa5a": {
+  "en": "Cargo value",
+  "t": "積み荷の価値"
+ },
+ "8e7f360ed765": {
+  "en": "{what} costs <b>{cost} or SP</b>. With {have} between stones and SP, {can}.",
+  "t": "{what}のコストは<b>{cost}またはSP</b>。ストーンとSPを合わせて{have}なので、{can}。"
+ },
+ "8e9055a9d8ac": {
+  "en": "The DM guide",
+  "t": "DMガイド"
+ },
+ "8ec4a3442b99": {
+  "en": "Rumor",
+  "t": "噂"
+ },
+ "8ed295a637e4": {
+  "en": "Go-between:",
+  "t": "仲介役:"
+ },
+ "8f32713157ff": {
+  "en": "Zoom in",
+  "t": "拡大"
+ },
+ "90b030f351e7": {
+  "en": "New trip",
+  "t": "新しい旅"
+ },
+ "91329920c016": {
+  "en": "The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which.",
+  "t": "旅の地図には、道に沿ってサークルが描かれています。目的地までのサークルを数えましょう。1サークルは1日、2日、3日のいずれかで、どれにするかはDMが決めます。"
+ },
+ "9170d0585fd5": {
+  "en": "DM 101",
+  "t": "DM入門"
+ },
+ "91aecfc722fd": {
+  "en": "Handouts",
+  "t": "配布物"
+ },
+ "928dc2f662a4": {
+  "en": "Your work saves in this browser. Use the save button at the top to download a file for another device.",
+  "t": "作業はこのブラウザーに保存されます。上の保存ボタンで、別の端末用のファイルをダウンロードできます。"
+ },
+ "92ae65697ec3": {
+  "en": "Loading…",
+  "t": "読み込み中…"
+ },
+ "9308e9f30846": {
+  "en": "Init",
+  "t": "イニシ"
+ },
+ "93741b140306": {
+  "en": "Swap",
+  "t": "入れ替え"
+ },
+ "93f1f57143ad": {
+  "en": "Event: encounter",
+  "t": "イベント:遭遇"
+ },
+ "94106288ff57": {
+  "en": "{n} amethyst",
+  "t": "{n}アメジスト"
+ },
+ "9416e843348e": {
+  "en": "No one in the party yet. Add the adventurers who showed up tonight, or start from the pre-made ones.",
+  "t": "まだパーティーに誰もいません。今夜来た冒険者を追加するか、作成済みの冒険者から始めましょう。"
+ },
+ "947a0a39c960": {
+  "en": "Read the DM guide",
+  "t": "DMガイドを読む"
+ },
+ "9486cb73473f": {
+  "en": "Roll d12",
+  "t": "d12を振る"
+ },
+ "952bf8d5043f": {
+  "en": "The world bites back. These pages are DM-only: players shouldn't read them.",
+  "t": "世界は牙をむきます。これらのページはDM専用です。プレイヤーは読まないでください。"
+ },
+ "9556b81da57c": {
+  "en": "Splitting quest pay",
+  "t": "依頼の報酬を分ける"
+ },
+ "955aea593e26": {
+  "en": "Roll initiative for monsters",
+  "t": "モンスターのイニシアチブを振る"
+ },
+ "9586003ce71b": {
+  "en": "Run it, then wrap it up",
+  "t": "進行して、締めくくる"
+ },
+ "95da44300193": {
+  "en": "Plan this trip in the travel planner",
+  "t": "この旅を旅のプランナーで計画する"
+ },
+ "9662a9f7be46": {
+  "en": "Walking Skin patrols inside. Quiet outside.",
+  "t": "城内をウォーキング・スキンが巡回。外は静か。"
+ },
+ "973dd791b9ed": {
+  "en": "<b>Soul Points</b> = proficiency bonus + Constitution modifier. Sigil rings and nari gels spend them.",
+  "t": "<b>ソウルポイント</b>=習熟ボーナス+【耐久力】修正値。シジルリングとナリジェルがこれを消費する。"
+ },
+ "97fc9445a06c": {
+  "en": "Go-between, cut, cargo and payment. Roll the secret Deal roll in the travel planner when the party accepts.",
+  "t": "仲介役、分け前、積み荷、支払い。パーティーが受けたら、旅のプランナーで秘密の取引ロールを振ってください。"
+ },
+ "993700571014": {
+  "en": "Nari gels & gear",
+  "t": "ナリジェルと装備"
+ },
+ "99846cefae5f": {
+  "en": "{n} circle",
+  "t": "{n}サークル"
+ },
+ "9b4e0b16c00f": {
+  "en": "Close the dice tray",
+  "t": "ダイストレイを閉じる"
+ },
+ "9c7f6566adea": {
+  "en": "d20 mode",
+  "t": "d20のモード"
+ },
+ "9c9bce6ec28e": {
+  "en": "No adventurers yet. Make a new one, or start from one of the nine pre-made adventurers.",
+  "t": "まだ冒険者がいません。新しく作るか、作成済みの9人から始めましょう。"
+ },
+ "9cfe4d427e74": {
+  "en": "Clear",
+  "t": "消す"
+ },
+ "9d1666b2445a": {
+  "en": "Encounter",
+  "t": "遭遇"
+ },
+ "9de1bb6d2826": {
+  "en": "You're offline. Showing what's saved on this device.",
+  "t": "オフラインです。この端末に保存された内容を表示しています。"
+ },
+ "9de61a638be5": {
+  "en": "Switch to DM mode",
+  "t": "DMモードに切り替える"
+ },
+ "9eb43f0bb041": {
+  "en": "Search the rules and lore",
+  "t": "ルールと世界観を検索"
+ },
+ "9ec5867e234e": {
+  "en": "Revived at an embassy",
+  "t": "大使館で蘇生した"
+ },
+ "9edeb5a94c95": {
+  "en": "{month} {day}, {year} A.G.",
+  "t": "{year} A.G. {month} {day}日"
+ },
+ "9f44d7396279": {
+  "en": "{date}: d6 {n}, no change ({mood})",
+  "t": "{date}:d6 {n}、変化なし({mood})"
+ },
+ "9fc23c1779af": {
+  "en": "Get to know the world",
+  "t": "世界を知る"
+ },
+ "9ff8839750c0": {
+  "en": "Body on ice",
+  "t": "遺体を氷で保存"
+ },
+ "a02a0e524ef4": {
+  "en": "Contract (back)",
+  "t": "契約書(裏)"
+ },
+ "a05a66c186c3": {
+  "en": "Payment (d6)",
+  "t": "支払い(d6)"
+ },
+ "a0c34b506624": {
+  "en": "Skim the world at a glance if you don't know the series.",
+  "t": "シリーズを知らなければ、世界のあらましにざっと目を通す。"
+ },
+ "a11c9367021d": {
+  "en": "Post a <b>Party Wanted</b> sign-up so others can join.",
+  "t": "ほかの人が参加できるよう<b>パーティー募集</b>の貼り紙を出す。"
+ },
+ "a145238b6d72": {
+  "en": "This replaces the circles and clears this trip's events. Go ahead?",
+  "t": "サークルが置き換わり、この旅のイベントは消えます。続けますか?"
+ },
+ "a19f69767390": {
+  "en": "Year",
+  "t": "年"
+ },
+ "a1ae9e90235a": {
+  "en": "Quest rank",
+  "t": "依頼のランク"
+ },
+ "a1b825a8d30b": {
+  "en": "Delete trip",
+  "t": "旅を削除"
+ },
+ "a1f92c9c9304": {
+  "en": "DM guide",
+  "t": "DMガイド"
+ },
+ "a237abf43d43": {
+  "en": "Dates",
+  "t": "日付"
+ },
+ "a259862da7cd": {
+  "en": "Normal",
+  "t": "通常"
+ },
+ "a26e596e5506": {
+  "en": "Talking their way out: DC {dc}",
+  "t": "口先で切り抜ける:DC {dc}"
+ },
+ "a28584e991b3": {
+  "en": "Spell or ring tier",
+  "t": "呪文またはリングのティア"
+ },
+ "a2f28c5e97ee": {
+  "en": "I'm playing",
+  "t": "プレイする"
+ },
+ "a348695eecca": {
+  "en": "You're ready. Grab a quest, sign in blood, and come back alive.",
+  "t": "準備完了です。依頼を受けろ、血で署名しろ、生きて帰れ。"
+ },
+ "a49efba97da0": {
+  "en": "Label, like Long Bridge",
+  "t": "ラベル(例:ロング・ブリッジ)"
+ },
+ "a4d30719f6bc": {
+  "en": "Until it's paid, half of every quest reward goes to Forway. Die again while you owe and you're drafted into the Forway Guard.",
+  "t": "返し終わるまで、依頼の報酬の半分がフォーウェイに行きます。借金があるうちにまた死ぬと、フォーウェイ衛兵隊に徴集されます。"
+ },
+ "a4eaeecb552e": {
+  "en": "That file isn't valid JSON.",
+  "t": "そのファイルは正しいJSONではありません。"
+ },
+ "a4fad2a9d571": {
+  "en": "Weekday (optional)",
+  "t": "曜日(任意)"
+ },
+ "a52bc972f48f": {
+  "en": "{circles}, {days} one way",
+  "t": "{circles}、片道{days}"
+ },
+ "a531ab64af69": {
+  "en": "The party",
+  "t": "パーティー"
+ },
+ "a544b6870d4d": {
+  "en": "Go to the travel planner",
+  "t": "旅のプランナーへ"
+ },
+ "a5489aa98707": {
+  "en": "Circle {n} of {total}",
+  "t": "サークル{n} / {total}"
+ },
+ "a578eb54bc04": {
+  "en": "Who's here",
+  "t": "ここにいる者"
+ },
+ "a5aad12520e4": {
+  "en": "Include",
+  "t": "含めるもの"
+ },
+ "a607de86f35c": {
+  "en": "No roll this shift",
+  "t": "このシフトはロールなし"
+ },
+ "a6138035f4c4": {
+  "en": "Con modifier",
+  "t": "【耐久力】修正値"
+ },
+ "a629e2c01a37": {
+  "en": "Departure roll d6 {n}: {what}",
+  "t": "出発時のロール d6 {n}:{what}"
+ },
+ "a65de37275b3": {
+  "en": "Graveyard",
+  "t": "深夜"
+ },
+ "a6a0983f5063": {
+  "en": "From <a href=\"{url}\">The Inside Job</a>. Once per day after a raid, a patrol finds the party if a d6 rolls under the Heat. Lying at the debrief or to guards: DC {dc}.",
+  "t": "出典:<a href=\"{url}\">内部の手引き</a>。襲撃のあとは1日1回、d6が警戒度未満ならパトロールがパーティーを見つける。報告や衛兵に嘘をつく場合:DC {dc}。"
+ },
+ "a7533461b525": {
+  "en": "{n} still to run.",
+  "t": "未進行{n}件。"
+ },
+ "a76453a2df5f": {
+  "en": "Step {n} of {total}",
+  "t": "ステップ {n}/{total}"
+ },
+ "a7de2730fdf2": {
+  "en": "Save it in My adventurers",
+  "t": "「わたしの冒険者」に保存"
+ },
+ "a7f53e96f0a7": {
+  "en": "Encounter table",
+  "t": "遭遇表"
+ },
+ "a8b05c31595c": {
+  "en": "Filter by name, region or ability",
+  "t": "名前、地域、能力で絞り込む"
+ },
+ "a8c04ac1b6fd": {
+  "en": "That doesn't look like a roll. Try 2d6+3, d20, or 4d6kh3.",
+  "t": "ロールの形になっていません。2d6+3、d20、4d6kh3などを試してください。"
+ },
+ "a8db28bae00c": {
+  "en": "lvl {n}",
+  "t": "Lv{n}"
+ },
+ "a8e3f91b3a8a": {
+  "en": "Set Soul Points to {n}",
+  "t": "ソウルポイントを{n}にする"
+ },
+ "a918d2f284bd": {
+  "en": "Type a roll, like 2d6+3.",
+  "t": "2d6+3のようにロールを入力してください。"
+ },
+ "a9375535a2b0": {
+  "en": "Cargo escort: the Inside Job offer can happen",
+  "t": "積み荷の護衛:内部の手引きの申し出が起こりうる"
+ },
+ "a95f918aa5ca": {
+  "en": "Make your adventurer",
+  "t": "冒険者を作る"
+ },
+ "a9ff71a9ef79": {
+  "en": "Start over? This clears trips, the party, campaign tracking and characters saved in this browser. Download a save file first if you want a backup.",
+  "t": "最初からやり直しますか?このブラウザーに保存された旅、パーティー、キャンペーンの記録、キャラクターが消えます。バックアップが欲しい場合は、先に保存ファイルをダウンロードしてください。"
+ },
+ "ab403ed4eaa4": {
+  "en": "Their cut (d6)",
+  "t": "向こうの分け前(d6)"
+ },
+ "ab45218932a2": {
+  "en": "{hp} of {max} HP",
+  "t": "HP {max}中{hp}"
+ },
+ "ab4997024894": {
+  "en": "Calculators",
+  "t": "計算ツール"
+ },
+ "ac408669bedc": {
+  "en": "How to use them",
+  "t": "使い方"
+ },
+ "ac7b8f7cf08b": {
+  "en": "Shifts with no event yet, with space to write what happens",
+  "t": "まだイベントのないシフト(起きたことを書く欄つき)"
+ },
+ "acb88cb9a6d5": {
+  "en": "Your progress stays here",
+  "t": "進み具合はここに残ります"
+ },
+ "ad96b02855bd": {
+  "en": "What each faction wants",
+  "t": "各派閥が望むもの"
+ },
+ "adab8dadcb78": {
+  "en": "Notes",
+  "t": "メモ"
+ },
+ "ae12bde7f751": {
+  "en": "{n} more in DM pages; switch to DM mode to see them.",
+  "t": "ほかに{n}件がDMのページにあります。見るにはDMモードに切り替えてください。"
+ },
+ "ae9fe17be482": {
+  "en": "Days for this circle",
+  "t": "このサークルの日数"
+ },
+ "aee2c911a6f4": {
+  "en": "Everything awake. Waves of undead with five Flathead commanders. Kingdom Alert.",
+  "t": "すべてが目覚める。5体のフラットヘッドの指揮官が率いる不死者の波。王国警報。"
+ },
+ "aef2c6539d60": {
+  "en": "New adventurer",
+  "t": "新しい冒険者"
+ },
+ "af200952052b": {
+  "en": "Untitled trip",
+  "t": "無題の旅"
+ },
+ "afca1e32887d": {
+  "en": "Circle {n} <span class=\"muted\">of {total}</span>",
+  "t": "サークル{n} <span class=\"muted\">/ {total}</span>"
+ },
+ "afd4764ce229": {
+  "en": "Start over",
+  "t": "最初からやり直す"
+ },
+ "b04aca8b8ade": {
+  "en": "{rank} quest",
+  "t": "{rank}の依頼"
+ },
+ "b1bc0b460618": {
+  "en": "This page can spoil surprises. If you're running the game, switch to DM mode.",
+  "t": "このページにはネタバレが含まれる場合があります。ゲームを進行する方は、DMモードに切り替えてください。"
+ },
+ "b33de0752c52": {
+  "en": "Region",
+  "t": "地域"
+ },
+ "b3c061949396": {
+  "en": "Count the circles on the travel map: Forway to Sanbi is 6, Gandew to Sundeath is 19.",
+  "t": "旅の地図のサークルを数える:フォーウェイからサンビまでは6、ガンデューからサンデスまでは19。"
+ },
+ "b4c85155890f": {
+  "en": "Save the sharp map for offline zooming (2 MB)",
+  "t": "オフラインで拡大できるよう鮮明な地図を保存(2 MB)"
+ },
+ "b500b49cd575": {
+  "en": "{n} circles",
+  "t": "{n}サークル"
+ },
+ "b52888178696": {
+  "en": "Every stat block in the campaign: beasts, fauna and people.",
+  "t": "キャンペーンのすべてのデータ:魔獣、動物、人物。"
+ },
+ "b52f7ba525b3": {
+  "en": "Party (who went)",
+  "t": "パーティー(参加者)"
+ },
+ "b546cd7b92de": {
+  "en": "Show the whole map",
+  "t": "地図全体を表示"
+ },
+ "b55153d01d5c": {
+  "en": "Install as an app",
+  "t": "アプリとしてインストール"
+ },
+ "b5f6652d6c05": {
+  "en": "Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise.",
+  "t": "ヴラキ風の味付けをした通常の5eキャラクター作成です。DMが別に言わない限り、レベル1のパールの冒険者として始めます。"
+ },
+ "b60e8e8360ab": {
+  "en": "Roll {dice}",
+  "t": "{dice}を振る"
+ },
+ "b7538aa7f2be": {
+  "en": "{n} pearls",
+  "t": "{n}パール"
+ },
+ "b7b01d174cc4": {
+  "en": "Handouts saved for offline use",
+  "t": "配布物をオフライン用に保存しました"
+ },
+ "b7b621ec595b": {
+  "en": "you can cast it",
+  "t": "使える"
+ },
+ "b8aec19adbda": {
+  "en": "Round {n}",
+  "t": "ラウンド{n}"
+ },
+ "b8f2bb9f9fdb": {
+  "en": "This site is your character sheet helper during play.",
+  "t": "このサイトは、プレイ中のキャラクターシートの助っ人です。"
+ },
+ "b96908ad3d07": {
+  "en": "Results",
+  "t": "結果"
+ },
+ "b9afcd4eac9c": {
+  "en": "{pearls} left over: buy a round",
+  "t": "{pearls}余る:一杯おごろう"
+ },
+ "ba4a343923db": {
+  "en": "Inside Job",
+  "t": "内部の手引き"
+ },
+ "bad6c0ac79e5": {
+  "en": "They",
+  "t": "その冒険者"
+ },
+ "bb0dfa1d5983": {
+  "en": "{name} added to {trip}.",
+  "t": "{name}を{trip}に追加しました。"
+ },
+ "bb1d1fe227ad": {
+  "en": "Stat block for {name}",
+  "t": "{name}のデータ"
+ },
+ "bb7f81b66eb5": {
+  "en": "Look up the creatures you'll need in the bestiary.",
+  "t": "必要なクリーチャーをモンスター図鑑で調べる。"
+ },
+ "bc14ce1f16c1": {
+  "en": "{n} nari stones",
+  "t": "ナリストーン{n}個"
+ },
+ "bd6017a3174c": {
+  "en": "No trips yet. Plan one first, then come back to print it.",
+  "t": "まだ旅はありません。先に旅を計画してから印刷しに来てください。"
+ },
+ "bd7001db87e7": {
+  "en": "Who was on watch, what they did, loot, consequences…",
+  "t": "見張り番は誰か、何をしたか、戦利品、その後の影響…"
+ },
+ "bea1c7ab1372": {
+  "en": "Set up",
+  "t": "準備"
+ },
+ "bf51489db17c": {
+  "en": "A handful of rules change how the game feels. Skim them now; the DM will remind you at the table.",
+  "t": "いくつかのルールがゲームの手触りを変えます。今ざっと目を通しておけば、卓でDMが思い出させてくれます。"
+ },
+ "bfd74d26bc53": {
+  "en": "{n} amethysts",
+  "t": "{n}アメジスト"
+ },
+ "c04646b67a94": {
+  "en": "Travel & events",
+  "t": "旅とイベント"
+ },
+ "c07b0b00578f": {
+  "en": "Died on",
+  "t": "死亡日"
+ },
+ "c0833adfe000": {
+  "en": "Raise",
+  "t": "上げる"
+ },
+ "c09396526fc2": {
+  "en": "Print a trip",
+  "t": "旅を印刷"
+ },
+ "c0fdfe221d43": {
+  "en": "Saved {time}",
+  "t": "{time}に保存"
+ },
+ "c12f0e8d7ce9": {
+  "en": "Read <b>How a West March runs</b> in the DM guide.",
+  "t": "DMガイドの<b>ウェストマーチの進め方</b>を読む。"
+ },
+ "c1433ebf32b4": {
+  "en": "{month} {day}",
+  "t": "{month} {day}日"
+ },
+ "c167eb27878c": {
+  "en": "A hint of: {what}",
+  "t": "兆し:{what}"
+ },
+ "c18b786fd157": {
+  "en": "Every road and sea lane",
+  "t": "すべての道と航路"
+ },
+ "c19474015cf5": {
+  "en": "Exhaustion level {n}",
+  "t": "消耗レベル{n}"
+ },
+ "c198d1306fd8": {
+  "en": "Faction reputation",
+  "t": "派閥との評判"
+ },
+ "c21d0058bbf9": {
+  "en": "Label for this circle",
+  "t": "このサークルのラベル"
+ },
+ "c2745f64fa90": {
+  "en": "Grab a quest. Sign in blood. Come back alive.",
+  "t": "依頼を受けろ。血で署名しろ。生きて帰れ。"
+ },
+ "c2db85e96205": {
+  "en": "One-page reference card",
+  "t": "1ページの早見表"
+ },
+ "c2f29f89430e": {
+  "en": "First day of the trip",
+  "t": "旅の初日"
+ },
+ "c348746f0425": {
+  "en": "{n} days",
+  "t": "{n}日"
+ },
+ "c388207782c5": {
+  "en": "Back to the planner",
+  "t": "プランナーに戻る"
+ },
+ "c38ae85a7237": {
+  "en": "Couldn't load this page",
+  "t": "このページを読み込めませんでした"
+ },
+ "c4c39aa5c54b": {
+  "en": "Trip",
+  "t": "旅"
+ },
+ "c512e926c921": {
+  "en": "Person",
+  "t": "人物"
+ },
+ "c52b9da892d6": {
+  "en": "Status",
+  "t": "状態"
+ },
+ "c531b1b7f157": {
+  "en": "Events",
+  "t": "イベント"
+ },
+ "c564fbf4538b": {
+  "en": "In a hurry? Take one of the nine pre-made level 3 adventurers.",
+  "t": "急いでいる?作成済みのレベル3冒険者9人から1人を選びましょう。"
+ },
+ "c573ce79b108": {
+  "en": "Aquamarines",
+  "t": "アクアマリン"
+ },
+ "c591968fda33": {
+  "en": "{fast} days at Fast · {std} at Standard · {slow} at Slow",
+  "t": "速いペースで{fast}日 · 普通で{std}日 · 遅いペースで{slow}日"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "出発地"
+ },
+ "c62c3d9454a5": {
+  "en": "12am–6am",
+  "t": "0時〜6時"
+ },
+ "c64a87a0529d": {
+  "en": "Amethysts",
+  "t": "アメジスト"
+ },
+ "c68ea525cb56": {
+  "en": "{n} sapphire",
+  "t": "{n}サファイア"
+ },
+ "c6b6472e2451": {
+  "en": "; dropped {list}",
+  "t": "、除外 {list}"
+ },
+ "c719515cbd2f": {
+  "en": "Pick your in-world year (default: the 1040s A.G.) and who's alive.",
+  "t": "世界の年(標準は1040年代 A.G.)と、誰が生きているかを決める。"
+ },
+ "c78028284d74": {
+  "en": "Tier {roman}",
+  "t": "ティア{roman}"
+ },
+ "c7b51769a9fd": {
+  "en": "Settings",
+  "t": "設定"
+ },
+ "c83d0d215590": {
+  "en": "Roll an encounter (d12)",
+  "t": "遭遇を振る(d12)"
+ },
+ "c87daba3ac0d": {
+  "en": "What's really going on:",
+  "t": "本当に起きていること:"
+ },
+ "c8a9d51017e9": {
+  "en": "Angry",
+  "t": "怒り"
+ },
+ "c8ba866b7726": {
+  "en": "Day {n}, {shift}",
+  "t": "{n}日目、{shift}"
+ },
+ "c8cf2919f254": {
+  "en": "Print or share the handouts: quest board, Party Wanted, badge cards, the players' reference card.",
+  "t": "配布物を印刷するか共有する:依頼掲示板、パーティー募集、身分証カード、プレイヤー用の早見表。"
+ },
+ "c8fd6125b109": {
+  "en": "Body kept on ice",
+  "t": "遺体を氷で保存"
+ },
+ "c9531522b042": {
+  "en": "Revived",
+  "t": "蘇生済み"
+ },
+ "c95785a287d1": {
+  "en": "Once per circle (faster for long trips)",
+  "t": "サークルごとに1回(長旅向けの時短)"
+ },
+ "c99b50cb40d4": {
+  "en": "Restless",
+  "t": "落ち着かない"
+ },
+ "ca2710f69bc9": {
+  "en": "Deal modifier",
+  "t": "取引の修正値"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "ランク"
+ },
+ "ca4daee5f703": {
+  "en": "Learn travel and events",
+  "t": "旅とイベントを知る"
+ },
+ "cabf599ee3ef": {
+  "en": "If the quest fails",
+  "t": "依頼に失敗したら"
+ },
+ "caf3f3c5721c": {
+  "en": "(+2-ish, Hash)",
+  "t": "(およそ+2、ハッシュ)"
+ },
+ "cb06cf6e8001": {
+  "en": "Read <b>The World at a Glance</b> (about five minutes).",
+  "t": "<b>世界のあらまし</b>を読む(約5分)。"
+ },
+ "cb9bb8301917": {
+  "en": "No trips yet.",
+  "t": "まだ旅はありません。"
+ },
+ "ccde9424b8f7": {
+  "en": "Amount for {name}",
+  "t": "{name}への量"
+ },
+ "cce69349ac6b": {
+  "en": "Deadline = round trip plus 50%, rounded up. Each shift of travel is one of four per day.",
+  "t": "期限 = 往復に50%を足して切り上げ。旅の1シフトは1日の4つのうちの1つです。"
+ },
+ "cd0d54e2cfdc": {
+  "en": "Add a pre-made one",
+  "t": "作成済みの冒険者を追加"
+ },
+ "cd546f9635bc": {
+  "en": "e.g. Moacir 14th, or trip day 6",
+  "t": "例:モアシル14日、旅の6日目など"
+ },
+ "cd5fc2553380": {
+  "en": "Every Graveyard and Night shift",
+  "t": "深夜と夜のシフトすべて"
+ },
+ "cdb891719589": {
+  "en": "Nothing happens. Describe the scenery, or the food.",
+  "t": "何も起こらない。景色か、食べ物の描写をどうぞ。"
+ },
+ "cea2b18d5c7f": {
+  "en": "Name",
+  "t": "名前"
+ },
+ "cfd20d2f37f2": {
+  "en": "<b>Go-between:</b> {who}. <b>Cut:</b> {cut}%. <b>Cargo:</b> {cargo}. <b>Payment:</b> {pay}.",
+  "t": "<b>仲介役:</b>{who}。<b>分け前:</b>{cut}%。<b>積み荷:</b>{cargo}。<b>支払い:</b>{pay}。"
+ },
+ "cfd885014c06": {
+  "en": "One circle fewer",
+  "t": "サークルを1つ減らす"
+ },
+ "d0813c1bbad9": {
+  "en": "Get ready to play",
+  "t": "プレイの準備"
+ },
+ "d0f324416370": {
+  "en": "Settings: language and theme",
+  "t": "設定:言語とテーマ"
+ },
+ "d0fb3b18f08e": {
+  "en": "Circles from the map",
+  "t": "地図から求めるサークル"
+ },
+ "d195ee96b2c7": {
+  "en": "Next day",
+  "t": "翌日"
+ },
+ "d28e8d65bb50": {
+  "en": "Character level",
+  "t": "キャラクターのレベル"
+ },
+ "d3203205f15c": {
+  "en": "Regain 1 Soul Point",
+  "t": "ソウルポイントを1回復"
+ },
+ "d3292f103cde": {
+  "en": "Prepare a session",
+  "t": "セッションを準備する"
+ },
+ "d358163edb12": {
+  "en": "Nothing to print for this circle.",
+  "t": "このサークルに印刷するものはありません。"
+ },
+ "d3711318a9d1": {
+  "en": "Quest deadline",
+  "t": "依頼の期限"
+ },
+ "d3add19d62e8": {
+  "en": "Lower Heat",
+  "t": "警戒度を下げる"
+ },
+ "d493aae73a80": {
+  "en": "Know your way around already?",
+  "t": "もう慣れていますか?"
+ },
+ "d528fd6bf472": {
+  "en": "Print or save as PDF",
+  "t": "印刷・PDFで保存"
+ },
+ "d55f934d2c4b": {
+  "en": "Region (encounter table)",
+  "t": "地域(遭遇表)"
+ },
+ "d5e802f2f64a": {
+  "en": "Days per circle",
+  "t": "サークルあたりの日数"
+ },
+ "d60d4b2893ac": {
+  "en": "My adventurers",
+  "t": "わたしの冒険者"
+ },
+ "d6ff375c5986": {
+  "en": "Your own event",
+  "t": "自作のイベント"
+ },
+ "d746ce464925": {
+  "en": "Travel and quest deadline",
+  "t": "旅と依頼の期限"
+ },
+ "d8564c5ee89f": {
+  "en": "Load a save file",
+  "t": "保存ファイルを読み込む"
+ },
+ "d875d1a89e07": {
+  "en": "Roll Morning and Afternoon too",
+  "t": "朝と午後も振る"
+ },
+ "d8918bb008bd": {
+  "en": "{circles} from {from} to {to}.",
+  "t": "{from}から{to}まで{circles}。"
+ },
+ "d8f50deb5aa2": {
+  "en": "Every Graveyard and Night shift, plus Morning and Afternoon",
+  "t": "深夜と夜のシフトすべてに加え、朝と午後"
+ },
+ "d91022df5c87": {
+  "en": "Secrets & danger",
+  "t": "秘密と危険"
+ },
+ "d962170decf4": {
+  "en": "Open each shift in the travel planner to run it: creatures, HP, initiative and notes.",
+  "t": "旅のプランナーで各シフトを開いて進行する:クリーチャー、HP、イニシアチブ、メモ。"
+ },
+ "da444c4ea594": {
+  "en": "Advantage",
+  "t": "有利"
+ },
+ "da5664ae21f9": {
+  "en": "Rampage",
+  "t": "大暴れ"
+ },
+ "da621eb881b1": {
+  "en": "Dark",
+  "t": "ダーク"
+ },
+ "dbdd22cf4b3a": {
+  "en": "No entries yet.",
+  "t": "まだ記録はありません。"
+ },
+ "dc606b9ae038": {
+  "en": "Cargo (d8)",
+  "t": "積み荷(d8)"
+ },
+ "dc617689e195": {
+  "en": "House rules",
+  "t": "ハウスルール"
+ },
+ "dd575f78074a": {
+  "en": "Rations, round trip",
+  "t": "食料(往復)"
+ },
+ "ddd13ed8100b": {
+  "en": "DM secrets",
+  "t": "DMの秘密"
+ },
+ "de262c99bfb6": {
+  "en": "Mark as not done",
+  "t": "未完了に戻す"
+ },
+ "de61280dff44": {
+  "en": "Rumors",
+  "t": "噂"
+ },
+ "df15d9765ea9": {
+  "en": "Skip to my adventurers",
+  "t": "わたしの冒険者へ進む"
+ },
+ "df649c4546e2": {
+  "en": "Each share",
+  "t": "1人分"
+ },
+ "e01153b98411": {
+  "en": "Trip name",
+  "t": "旅の名前"
+ },
+ "e04999c40e55": {
+  "en": "View or edit this page on GitHub",
+  "t": "このページをGitHubで見る・編集する"
+ },
+ "e08e6369fca5": {
+  "en": "How it works",
+  "t": "しくみ"
+ },
+ "e0a9fe9472b5": {
+  "en": "Pick any class (magic is soul energy science) and a background.",
+  "t": "好きなクラス(魔法は魂のエネルギーの科学)と背景を選ぶ。"
+ },
+ "e0d9b1cbee39": {
+  "en": "Roll on the campaign's tables between sessions or at the table. Results stack up below until you clear them.",
+  "t": "セッションの合間や卓で、キャンペーンの表を振りましょう。結果は消すまで下に積み重なります。"
+ },
+ "e114c9cb8484": {
+  "en": "Nothing rolled yet.",
+  "t": "まだ何も振っていません。"
+ },
+ "e133fa1cff0d": {
+  "en": "Almost there",
+  "t": "あと少し"
+ },
+ "e1ca394edb15": {
+  "en": "Same as trip ({region})",
+  "t": "旅と同じ({region})"
+ },
+ "e1fc7c6553d2": {
+  "en": "Long rest",
+  "t": "大休憩"
+ },
+ "e215abe6da2e": {
+  "en": "Rolls from <a href=\"{url}\">The Inside Job</a>. The Deal roll stays secret: only you see this page.",
+  "t": "<a href=\"{url}\">内部の手引き</a>のロール。取引ロールは秘密です。このページを見られるのはあなただけです。"
+ },
+ "e2c04f102a8f": {
+  "en": "HP now / notes",
+  "t": "現在のHP/メモ"
+ },
+ "e33449a8c2ea": {
+  "en": "The world at a glance",
+  "t": "世界のあらまし"
+ },
+ "e33cb445fad1": {
+  "en": "All world lore",
+  "t": "世界観のすべて"
+ },
+ "e3d95e017a11": {
+  "en": "Month",
+  "t": "月"
+ },
+ "e43a6086ffe5": {
+  "en": "Clear every event on this trip, including fights and notes?",
+  "t": "戦闘とメモも含め、この旅のイベントをすべて消しますか?"
+ },
+ "e49daa57c3e2": {
+  "en": "Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.",
+  "t": "入力した内容はすべて、そのつどこのブラウザーに保存されます。バックアップを取ったり別の端末に移したりするには、保存ファイルをダウンロードしてください。"
+ },
+ "e49f8044651a": {
+  "en": "Encounters",
+  "t": "遭遇"
+ },
+ "e4be842da18e": {
+  "en": "An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. Players come and go, every party starts and ends at a Forway embassy, and whatever one party finds stays found for everyone.",
+  "t": "#HusbandOutWorldの世界を舞台にした、オープンテーブル形式のD&amp;D 5eキャンペーン。プレイヤーは入れ替わり、どのパーティーもフォーウェイの大使館から出発してそこへ戻ります。あるパーティーが見つけたものは、全員にとって見つかったままになります。"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "サファイア"
+ },
+ "e5480c1499c9": {
+  "en": "Session log",
+  "t": "セッション記録"
+ },
+ "e5666860cb4c": {
+  "en": "One roll per circle",
+  "t": "サークルごとに1回"
+ },
+ "e5d3567a4cb3": {
+  "en": "Quiet. Doors open; a new room appears 1 in 6.",
+  "t": "静か。扉は開いている。1/6の確率で新しい部屋が現れる。"
+ },
+ "e5e4b9515f93": {
+  "en": "Mind the deadline: the round trip in days, plus 50%.",
+  "t": "期限に注意:往復の日数に50%を足したもの。"
+ },
+ "e673648959e5": {
+  "en": "Filter",
+  "t": "絞り込み"
+ },
+ "e75220723f0c": {
+  "en": "standard",
+  "t": "普通"
+ },
+ "e7b81ef0f33e": {
+  "en": "Back a day",
+  "t": "1日戻る"
+ },
+ "e8465d92bca6": {
+  "en": "Printable props for the table: quest notices, wanted posters, a blood contract, badges and more. Print the whole set, or open one to show on screen.",
+  "t": "卓で使える印刷用の小道具:依頼の貼り紙、手配書、血の契約書、身分証など。全部まとめて印刷するか、1枚開いて画面に映しましょう。"
+ },
+ "e89b644521fd": {
+  "en": "Max Soul Points",
+  "t": "ソウルポイントの最大値"
+ },
+ "e8e0f345bb52": {
+  "en": "Fill in From and To first.",
+  "t": "先に出発地と目的地を入力してください。"
+ },
+ "e919dd6891e5": {
+  "en": "{start} to {end}",
+  "t": "{start}〜{end}"
+ },
+ "e98e9776f7f3": {
+  "en": "Today's Castle Mood",
+  "t": "今日の城の機嫌"
+ },
+ "e992f20bdf71": {
+  "en": "Remove {name}?",
+  "t": "{name}を外しますか?"
+ },
+ "e99722740a42": {
+  "en": "Players drive a West March. Before a session, agree on a quest with whoever's free and tell the DM so they can prepare.",
+  "t": "ウェストマーチを動かすのはプレイヤーです。セッションの前に、空いている人と依頼を決め、DMが準備できるよう伝えましょう。"
+ },
+ "ea7972ec280c": {
+  "en": "The Inside Job",
+  "t": "内部の手引き"
+ },
+ "eac6a30d75b8": {
+  "en": "<b>Heat</b> {n} · talking their way out: DC {dc}",
+  "t": "<b>警戒度</b> {n} · 口先で切り抜ける:DC {dc}"
+ },
+ "eb450d95c9df": {
+  "en": "Making an adventurer",
+  "t": "冒険者の作り方"
+ },
+ "ec2681a0b9e9": {
+  "en": "World, lore and characters © Deovandski Skibinski Junior. Art by Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of Deovandski Skibinski Junior. Licensed CC-BY-NC-SA-4.0. Monetized videos and posts about it are welcome; other commercial use needs approval (<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> or <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>). Site text and code are AI-assisted; see the <a href=\"{url}\">AI disclosure</a>.",
+  "t": "世界、設定、キャラクター © Deovandski Skibinski Junior。イラスト:Mitsukiven &amp; Feiourm。<em>A Husband Out of This World</em> と #HusbandOutWorld は Deovandski Skibinski Junior の商標です。ライセンスは CC-BY-NC-SA-4.0。収益化された動画や投稿は歓迎します。それ以外の商用利用には許可が必要です(<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> または <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>)。サイトの文章とコードはAIの支援を受けています。詳しくは<a href=\"{url}\">AI の利用について</a>をご覧ください。"
+ },
+ "ec796ebf3015": {
+  "en": "Player 101",
+  "t": "プレイヤー入門"
+ },
+ "ed0c9ac14f52": {
+  "en": "Long rest: HP restored, +1 SP, −1 exhaustion for everyone still standing.",
+  "t": "大休憩:まだ立っている全員のHPが全回復、SP+1、消耗−1。"
+ },
+ "ed4a38fe9259": {
+  "en": "DM",
+  "t": "DM"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "アクアマリン"
+ },
+ "edf860e1b012": {
+  "en": "Download a save file now and then as a backup.",
+  "t": "ときどき保存ファイルをダウンロードしてバックアップを取る。"
+ },
+ "ee41d8fc4331": {
+  "en": "Circles to go",
+  "t": "残りのサークル"
+ },
+ "ee5807acbeef": {
+  "en": "about <b>{days}</b>",
+  "t": "約<b>{days}</b>"
+ },
+ "efb7751b866b": {
+  "en": "nothing",
+  "t": "なし"
+ },
+ "f1989158ed20": {
+  "en": "Count a purse",
+  "t": "財布を数える"
+ },
+ "f1abfbed9a87": {
+  "en": "Castle Mood rules",
+  "t": "城の機嫌のルール"
+ },
+ "f1b8b438a53d": {
+  "en": "The fewest circles, adding up legs through towns. Numbers from the <a href=\"{url}\">route lengths table</a>.",
+  "t": "町を経由する区間を足した、最も少ないサークル数です。数値は<a href=\"{url}\">経路の長さの表</a>から。"
+ },
+ "f2be7a7f42df": {
+  "en": "Pick an entry…",
+  "t": "項目を選ぶ…"
+ },
+ "f2c02022cd69": {
+  "en": "Quiet",
+  "t": "静か"
+ },
+ "f371cc88e321": {
+  "en": "Cut:",
+  "t": "分け前:"
+ },
+ "f396a3d9935f": {
+  "en": "Something hints at this: {what} (tracks, smoke, a rumor, a corpse).",
+  "t": "何かがこれを予感させる:{what}(足跡、煙、噂、死体)。"
+ },
+ "f3c0778bcb91": {
+  "en": "Encounters come from the d12 table for the region.",
+  "t": "遭遇はその地域のd12表から決まります。"
+ },
+ "f3fdebd36879": {
+  "en": "No one yet. Add creatures from the stat blocks, a custom foe, or the party.",
+  "t": "まだ誰もいません。データからクリーチャー、自作の敵、またはパーティーを追加してください。"
+ },
+ "f4679e69ca85": {
+  "en": "The players pick where to go: a quest from the board, a rumor or a spot on the map.",
+  "t": "行き先はプレイヤーが選びます。掲示板の依頼、噂、地図上の地点など。"
+ },
+ "f4768c03d6f5": {
+  "en": "Vraki is also the name of the world's script, which began as a 2017 app.",
+  "t": "ヴラキはこの世界の文字の名前でもあり、2017年のアプリから始まりました。"
+ },
+ "f54ee2b6896a": {
+  "en": "The world",
+  "t": "世界"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "目的地"
+ },
+ "f605103556c3": {
+  "en": "{date}: d6 {n}, mood {before} → {after} ({mood})",
+  "t": "{date}:d6 {n}、機嫌 {before} → {after}({mood})"
+ },
+ "f635a4e7a3ae": {
+  "en": "At the table",
+  "t": "卓で使う"
+ },
+ "f6aa2d089474": {
+  "en": "Six steps to run your first session, and the loop you'll repeat before and after each one. Open the links when you need the details.",
+  "t": "最初のセッションを進行するための6ステップと、毎回その前後に繰り返す流れ。詳しく知りたいときはリンクを開いてください。"
+ },
+ "f6bcbf214bcf": {
+  "en": "Quick math for balls, travel, deadlines, revival debt and soul energy, using this campaign's rules. Change any number and the answer updates.",
+  "t": "このキャンペーンのルールで、ボール、旅、期限、蘇生の借金、魂のエネルギーをすばやく計算します。数字を変えると答えも変わります。"
+ },
+ "f6e026cfb826": {
+  "en": "Tools",
+  "t": "ツール"
+ },
+ "f7fd9362ad7e": {
+  "en": "Nothing set for this shift. Roll it, or pick what happens above.",
+  "t": "このシフトにはまだ何もありません。振るか、上で起きることを選んでください。"
+ },
+ "f81f2b2637b7": {
+  "en": "Skip to content",
+  "t": "本文へスキップ"
+ },
+ "f840581b4a7a": {
+  "en": "Sharp map saved for offline use",
+  "t": "鮮明な地図をオフライン用に保存しました"
+ },
+ "f8a5de5d3b0e": {
+  "en": "Save and load",
+  "t": "保存と読み込み"
+ },
+ "f95ed6f5d34d": {
+  "en": "Furious",
+  "t": "激怒"
+ },
+ "f989f6cb1446": {
+  "en": "Soul Points and tiers",
+  "t": "ソウルポイントとティア"
+ },
+ "f99a1715bda2": {
+  "en": "<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid.",
+  "t": "<b>死:</b>期限内に遺体を大使館へ運べばフォーウェイが蘇生してくれる。その後、借金を返すまで依頼の報酬の50%が差し引かれる。"
+ },
+ "faa835e761a9": {
+  "en": "Delete “{name}” and all its events?",
+  "t": "「{name}」とそのイベントをすべて削除しますか?"
+ },
+ "fac7838424a1": {
+  "en": "Handout gallery",
+  "t": "配布物ギャラリー"
+ },
+ "faf9e6c2da19": {
+  "en": "Plan the trip in the <b>travel planner</b>: pick From and To and it counts the circles from the map; set the days per circle, then roll the events.",
+  "t": "<b>旅のプランナー</b>で旅を計画する:出発地と目的地を選べば地図からサークルを数えてくれます。サークルあたりの日数を決めて、イベントを振る。"
+ },
+ "fb8e3afdbfba": {
+  "en": "Save file loaded.",
+  "t": "保存ファイルを読み込みました。"
+ },
+ "fbea82286f78": {
+  "en": "Rolled twice: (1) {a} (2) {b}",
+  "t": "2回振った:(1){a}(2){b}"
+ },
+ "fcc20146dd3d": {
+  "en": "Site",
+  "t": "サイト"
+ },
+ "fcd49b4c4a7b": {
+  "en": "Save file downloaded.",
+  "t": "保存ファイルをダウンロードしました。"
+ },
+ "fce5960036ad": {
+  "en": "In-world date",
+  "t": "世界の日付"
+ },
+ "fcf13a9483de": {
+  "en": "Reputation with {name}",
+  "t": "{name}との評判"
+ },
+ "fd6d73ae6d1e": {
+  "en": "Table entry",
+  "t": "表の項目"
+ },
+ "febd2122d0ca": {
+  "en": "Dead",
+  "t": "死亡"
+ },
+ "fed56c5c5c1d": {
+  "en": "{n} of {total} steps done",
+  "t": "{total}ステップ中{n}完了"
+ },
+ "ff16e2bcf015": {
+  "en": "Replace this shift's event? Its notes and fight go too.",
+  "t": "このシフトのイベントを置き換えますか?メモと戦闘も消えます。"
+ },
+ "ff17ae0d0e6e": {
+  "en": "the offer comes before they leave.",
+  "t": "出発前に申し出が来る。"
+ },
+ "ff53306cf2ab": {
+  "en": "Add the party ({n})",
+  "t": "パーティーを追加({n})"
+ },
+ "ff77049abf40": {
+  "en": "d6 {n}: {pct}% of the cargo's value. Each successful DC 13 Persuasion adds 10% (max 60%).",
+  "t": "d6 {n}:積み荷の価値の{pct}%。DC 13の〈説得〉に成功するごとに10%上乗せ(最大60%)。"
+ },
+ "ff951936ea78": {
+  "en": "Quest board",
+  "t": "依頼掲示板"
+ },
+ "ffa2caa57460": {
+  "en": "Dangerous trip: encounters on 1–2",
+  "t": "危険な旅:1〜2で遭遇"
+ }
+}

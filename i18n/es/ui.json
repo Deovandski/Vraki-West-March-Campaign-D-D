@@ -1,0 +1,2830 @@
+{
+ "001a6abb6886": {
+  "en": "0 (cantrip ring)",
+  "t": "0 (anillo de truco)"
+ },
+ "005af12d9be9": {
+  "en": "{page} is for the DM",
+  "t": "{page} es para el DM"
+ },
+ "0060f0f82a9c": {
+  "en": "Cargo escort: the Inside Job offer can happen (valuable cargo)",
+  "t": "Escolta de carga: puede llegar la oferta del Trabajo Interno (carga valiosa)"
+ },
+ "0065a6466fef": {
+  "en": "Encounter tables for the regions on this trip, to roll at the table",
+  "t": "Tablas de encuentros de las regiones de este viaje, para tirar en la mesa"
+ },
+ "00730cca877a": {
+  "en": "Long rest for everyone",
+  "t": "Descanso largo para todos"
+ },
+ "00c6ba91ea2f": {
+  "en": "What the party sees",
+  "t": "Lo que ve el grupo"
+ },
+ "02a8fbdc764c": {
+  "en": "Remove this adventurer?",
+  "t": "¿Quitar a este aventurero?"
+ },
+ "02b2b1da3462": {
+  "en": "Roll",
+  "t": "Tirar"
+ },
+ "04d3c6003174": {
+  "en": "paid in balls at the hideout or a drop point.",
+  "t": "se paga en bolas en el escondite o en un punto de entrega."
+ },
+ "04e682629500": {
+  "en": "What happened",
+  "t": "Qué pasó"
+ },
+ "050974bda1fc": {
+  "en": "Day",
+  "t": "Día"
+ },
+ "053059a5aee7": {
+  "en": "Steps",
+  "t": "Pasos"
+ },
+ "0541a6f1e6d4": {
+  "en": "Roll again next fill",
+  "t": "Volver a tirar al rellenar"
+ },
+ "0555927440b0": {
+  "en": "Ready to use offline on this device.",
+  "t": "Listo para usar sin conexión en este dispositivo."
+ },
+ "05618125c31a": {
+  "en": "Roll anything",
+  "t": "Tira lo que quieras"
+ },
+ "05b877243cde": {
+  "en": "{region} table",
+  "t": "tabla de {region}"
+ },
+ "05c614d34699": {
+  "en": "Conditions",
+  "t": "Estados"
+ },
+ "05e1a9a214ec": {
+  "en": "Party",
+  "t": "Grupo"
+ },
+ "060488367c30": {
+  "en": "Deal roll (d10, secret)",
+  "t": "Tirada del Trato (d10, secreta)"
+ },
+ "06b2a8a95fca": {
+  "en": "Paid with the fewest balls: <b>{list}</b>.",
+  "t": "Pagado con el menor número de bolas: <b>{list}</b>."
+ },
+ "07711f40f1e5": {
+  "en": "The map at normal zoom is already saved when the site is installed.",
+  "t": "El mapa con el zoom normal ya se guarda al instalar el sitio."
+ },
+ "080aa8fee573": {
+  "en": "Valuable cargo (offer at departure on 1–2)",
+  "t": "Carga valiosa (oferta al partir con 1–2)"
+ },
+ "08600f7c7ba5": {
+  "en": "{from} to {to}",
+  "t": "De {from} a {to}"
+ },
+ "08914b4b45ed": {
+  "en": "Learn what's different from normal 5e",
+  "t": "Aprende qué cambia respecto a la 5e normal"
+ },
+ "0894c05a1f05": {
+  "en": "On the <b>Campaign</b> page: name it, set the in-world date, and start the Castle Mood, Heat and faction reputation.",
+  "t": "En la página <b>Campaña</b>: ponle nombre, fija la fecha en el mundo y arranca el Humor del Castillo, la Sospecha y la reputación con las facciones."
+ },
+ "08d6a22c2bcb": {
+  "en": "{n} on this trip · average level {avg} · {owe} owe revival debt",
+  "t": "{n} en este viaje · nivel medio {avg} · {owe} con deuda de reanimación"
+ },
+ "08e16b55d175": {
+  "en": "Name Place Guild",
+  "t": "Nombre Lugar Gremio"
+ },
+ "0937206b6552": {
+  "en": "☐ Quiet ☐ Sign ☐ Encounter ☐ Other",
+  "t": "☐ Tranquilo ☐ Señal ☐ Encuentro ☐ Otro"
+ },
+ "095b75098b91": {
+  "en": "It sets the pitch and the six rules of an open table: a pool of players, players drive, start and end at an embassy, one shared world, real-ish time, rewards from the world.",
+  "t": "Marca el tono y las seis reglas de una mesa abierta: un grupo de jugadores, mandan los jugadores, se empieza y se termina en una embajada, un único mundo compartido, tiempo más o menos real y recompensas que salen del mundo."
+ },
+ "09706811f2aa": {
+  "en": "Saving…",
+  "t": "Guardando…"
+ },
+ "0a681e5d9fd3": {
+  "en": "Start the guide over",
+  "t": "Empezar la guía de nuevo"
+ },
+ "0a8f21b9c1b8": {
+  "en": "Map © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.",
+  "t": "Mapa © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0."
+ },
+ "0aaf5e9ebc10": {
+  "en": "Exhaustion",
+  "t": "Cansancio"
+ },
+ "0be5925b6d8b": {
+  "en": "Open the travel map",
+  "t": "Abrir el mapa de viaje"
+ },
+ "0c6d4c2542b1": {
+  "en": "paid in goods from the cargo, which the party has to fence.",
+  "t": "se paga en mercancía de la carga, que el grupo tiene que colocar."
+ },
+ "0c75ce0436d6": {
+  "en": "Make an adventurer, read the rules and lore, roll dice, count your balls and your debts.",
+  "t": "Crea un aventurero, lee las reglas y el lore, tira dados, cuenta tus bolas y tus deudas."
+ },
+ "0cc1dfb3f64d": {
+  "en": "Lower",
+  "t": "Bajar"
+ },
+ "0d1046bdad4d": {
+  "en": "d6 {n} against Heat {h}: {what}",
+  "t": "d6 {n} contra Sospecha {h}: {what}"
+ },
+ "0d47958f568d": {
+  "en": "Walking Flesh hunt intruders; traps arm. Stragglers on the plains.",
+  "t": "Los Walking Flesh cazan intrusos; las trampas se arman. Rezagados en las llanuras."
+ },
+ "0d798d801b5a": {
+  "en": "the Inside Job offer",
+  "t": "la oferta del Trabajo Interno"
+ },
+ "0d92c49ae3f7": {
+  "en": "One way",
+  "t": "Ida"
+ },
+ "0df5a124f1dc": {
+  "en": "<b>Travel by circles:</b> count the circles on the travel map (Forway to Sanbi is 6); each is 1, 2 or 3 days.",
+  "t": "<b>Viajar por círculos:</b> cuenta los círculos del mapa de viaje (de Forway a Sanbi son 6); cada uno son 1, 2 o 3 días."
+ },
+ "0ee02ad23516": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour). The embassy posts an Aquamarine quest.",
+  "t": "Dos Flatheads; niebla que drena el alma (1 SP por hora). La embajada publica una misión Aquamarine."
+ },
+ "0fd9acf1a8ab": {
+  "en": "See where Vraki started",
+  "t": "Mira dónde empezó Vraki"
+ },
+ "0ff8c1b5b48d": {
+  "en": "Max HP",
+  "t": "HP máximos"
+ },
+ "1017cbb830ff": {
+  "en": "Plan a trip",
+  "t": "Planificar un viaje"
+ },
+ "10aa16e57686": {
+  "en": "Amount",
+  "t": "Cantidad"
+ },
+ "115e578efe15": {
+  "en": "Kind",
+  "t": "Tipo"
+ },
+ "117f8917ee8e": {
+  "en": "Add a circle to start.",
+  "t": "Añade un círculo para empezar."
+ },
+ "1205d2dbc04d": {
+  "en": "Get ready to run the West March",
+  "t": "Prepárate para dirigir la West March"
+ },
+ "128e740f072e": {
+  "en": "Dice tray",
+  "t": "Bandeja de dados"
+ },
+ "12d9eac97706": {
+  "en": "Track HP, Soul Points, balls and debt in <b>My adventurers</b>.",
+  "t": "Lleva la cuenta de HP, Soul Points, bolas y deuda en <b>Mis aventureros</b>."
+ },
+ "130239a11ea1": {
+  "en": "A go-between offers the party a cut for helping the bandits rob the cargo they're guarding.",
+  "t": "Un intermediario ofrece al grupo una parte por ayudar a los bandidos a robar la carga que custodian."
+ },
+ "13b3f1e4b9af": {
+  "en": "Everyone on tonight's expedition. HP and conditions here are the same ones the travel planner's fights use, so damage you deal there shows up here.",
+  "t": "Todos los de la expedición de esta noche. Los HP y los estados de aquí son los mismos que usan los combates del planificador de viajes, así que el daño que hagas allí aparece aquí."
+ },
+ "142d16b737f2": {
+  "en": "Spoiler warning: the lore pages and the DM pages reveal secrets of the world, including some from unreleased story notes.",
+  "t": "Aviso de spoilers: las páginas de lore y las del DM revelan secretos del mundo, incluidos algunos de notas de la historia aún sin publicar."
+ },
+ "142d8c0e9b6f": {
+  "en": "After the session, help fill in the expedition report so the next party knows what's out there.",
+  "t": "Después de la sesión, ayuda a rellenar el informe de expedición para que el siguiente grupo sepa qué hay ahí fuera."
+ },
+ "156c70d374bd": {
+  "en": "Not saving: this browser blocks storage. Download a save file to keep your work.",
+  "t": "No se guarda nada: este navegador bloquea el almacenamiento. Descarga un archivo de guardado para no perder tu trabajo."
+ },
+ "164632133c33": {
+  "en": "Encounters here use the {region} table.",
+  "t": "Aquí los encuentros usan la tabla de {region}."
+ },
+ "168c650a1a0a": {
+  "en": "Pre-made adventurers",
+  "t": "Aventureros ya hechos"
+ },
+ "1715d6fe08df": {
+  "en": "Run & wrap up",
+  "t": "Dirigir y cerrar"
+ },
+ "1739104fd0a1": {
+  "en": "Initiative for {name}",
+  "t": "Iniciativa de {name}"
+ },
+ "177260b6357b": {
+  "en": "<b>Loot:</b> {loot}",
+  "t": "<b>Botín:</b> {loot}"
+ },
+ "179a00363c2c": {
+  "en": "Saved {saved} of {total}. Try again online for the rest.",
+  "t": "Guardados {saved} de {total}. Vuelve a intentarlo con conexión para el resto."
+ },
+ "18d6e69a07b0": {
+  "en": "To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.",
+  "t": "Para instalar en iPhone o iPad: toca Compartir y luego <b>Añadir a pantalla de inicio</b>."
+ },
+ "1991eedad300": {
+  "en": "One shared world needs one shared record. Set it up once; every session adds to it.",
+  "t": "Un mundo compartido necesita un registro compartido. Prepáralo una vez; cada sesión le añade algo."
+ },
+ "1a12620146f1": {
+  "en": "Circles on the map",
+  "t": "Círculos en el mapa"
+ },
+ "1ab5f5545c88": {
+  "en": "Travel map",
+  "t": "Mapa de viaje"
+ },
+ "1acece3e1c58": {
+  "en": "Reset round",
+  "t": "Reiniciar asalto"
+ },
+ "1b5a8f5e5d65": {
+  "en": "Long rest: HP restored, +1 SP, −1 exhaustion.",
+  "t": "Descanso largo: HP recuperados, +1 SP, −1 de cansancio."
+ },
+ "1c037f803608": {
+  "en": "Search rules, lore, creatures",
+  "t": "Buscar reglas, lore, criaturas"
+ },
+ "1d8ba5b7ff76": {
+  "en": "Roll an offer",
+  "t": "Tirar una oferta"
+ },
+ "1de62b5a22af": {
+  "en": "You're ready. Put the quest board out and let the players choose.",
+  "t": "Ya estás listo. Saca el tablón de misiones y deja que elijan los jugadores."
+ },
+ "1dee0689b9e7": {
+  "en": "Sleepy",
+  "t": "Adormilado"
+ },
+ "1e5488ca3603": {
+  "en": "Not on this trip",
+  "t": "No va en este viaje"
+ },
+ "1ed96f617090": {
+  "en": "Back to the start page",
+  "t": "Volver a la página de inicio"
+ },
+ "1f1720151661": {
+  "en": "All",
+  "t": "Todo"
+ },
+ "1f58569fd6fe": {
+  "en": "AC and HP from the 5e {block}",
+  "t": "AC y HP del {block} de 5e"
+ },
+ "207d20b26926": {
+  "en": "(about {low}–{high} pearls)",
+  "t": "(unos {low}–{high} pearls)"
+ },
+ "2084df0b528d": {
+  "en": "Choose…",
+  "t": "Elige…"
+ },
+ "210d435929f6": {
+  "en": "Also every creature those tables can bring, not just the fights already set",
+  "t": "También todas las criaturas que pueden traer esas tablas, no solo los combates ya preparados"
+ },
+ "2198adb3a104": {
+  "en": "Patrol:",
+  "t": "Patrulla:"
+ },
+ "219f016b1ea6": {
+  "en": "Full event roll (d6, then d12)",
+  "t": "Tirada de evento completa (d6 y luego d12)"
+ },
+ "21e529f348a8": {
+  "en": "Rules used: <a href=\"{money}\">money</a>, <a href=\"{travel}\">travel by circles</a>, <a href=\"{quests}\">quest board</a>, <a href=\"{death}\">death, revival &amp; debt</a>, <a href=\"{soul}\">soul energy</a>.",
+  "t": "Reglas usadas: <a href=\"{money}\">dinero</a>, <a href=\"{travel}\">viajar por círculos</a>, <a href=\"{quests}\">tablón de misiones</a>, <a href=\"{death}\">muerte, reanimación y deuda</a>, <a href=\"{soul}\">energía del alma</a>."
+ },
+ "229180c589d5": {
+  "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
+  "t": "−3 perseguidos · −2 hostil · −1 desconfianza · 0 desconocidos · +1 amistoso · +2 de confianza · +3 familia. Como mucho un paso por sesión."
+ },
+ "22c619b2c180": {
+  "en": "One more circle",
+  "t": "Un círculo más"
+ },
+ "22ec16453534": {
+  "en": "Rolled: {roll}",
+  "t": "Tirada: {roll}"
+ },
+ "23d7a8460b35": {
+  "en": "Inside Job helper",
+  "t": "Ayudante del Trabajo Interno"
+ },
+ "2568c53f14e4": {
+  "en": "Printed {date} from the Vraki West March travel planner.",
+  "t": "Impreso el {date} desde el planificador de viajes de Vraki West March."
+ },
+ "25ce3db28b5a": {
+  "en": "Raise Heat",
+  "t": "Subir la Sospecha"
+ },
+ "264ed5fa86cc": {
+  "en": "A paper copy of this trip, so you can run it without the site. Use your browser's print window to print it or choose <b>Save as PDF</b>.",
+  "t": "Una copia en papel de este viaje, para jugarlo sin el sitio. Usa la ventana de impresión del navegador para imprimirlo o elige <b>Guardar como PDF</b>."
+ },
+ "2660609f822e": {
+  "en": "Done",
+  "t": "Hecho"
+ },
+ "267f580208ea": {
+  "en": "Spend 1 Soul Point",
+  "t": "Gastar 1 Soul Point"
+ },
+ "26b94be163c7": {
+  "en": "{n} of {total} creatures. Read from the <a href=\"{url}\">stat block pages</a>; people without their own AC and HP use the 5e block their entry names.",
+  "t": "{n} de {total} criaturas. Sacadas de las <a href=\"{url}\">páginas de estadísticas</a>; las personas sin AC ni HP propios usan el bloque de 5e que nombra su entrada."
+ },
+ "26bc27e0ed2a": {
+  "en": "Revival window and debt",
+  "t": "Plazo de reanimación y deuda"
+ },
+ "26f37199db62": {
+  "en": "Dangerous places",
+  "t": "Lugares peligrosos"
+ },
+ "27be80977c16": {
+  "en": "Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click).",
+  "t": "Añade a los aventureros apuntados en la página <b>Grupo</b> (los ya hechos se cargan con un clic)."
+ },
+ "2818ac2cea31": {
+  "en": "Dangerous places: Bahyum's Castle Mood, Hifuna exposure, the desert, the caverns.",
+  "t": "Lugares peligrosos: el Humor del Castillo de Bahyum, la exposición en Hifuna, el desierto, las cavernas."
+ },
+ "281b6068a586": {
+  "en": "Open a shift in the travel planner to add creatures to its fight from here.",
+  "t": "Abre un turno en el planificador de viajes para añadir criaturas a su combate desde aquí."
+ },
+ "28b57e1b878b": {
+  "en": "remove",
+  "t": "quitar"
+ },
+ "28b96cb76722": {
+  "en": "{n} result for “{q}”",
+  "t": "{n} resultado para «{q}»"
+ },
+ "28bea3a4ad13": {
+  "en": "Add entry",
+  "t": "Añadir entrada"
+ },
+ "28c20e4a02bc": {
+  "en": "Entry",
+  "t": "Entrada"
+ },
+ "28c5c04fdd44": {
+  "en": "Quiet. Describe the scenery, or the food.",
+  "t": "Tranquilo. Describe el paisaje, o la comida."
+ },
+ "28e94fdd3ca7": {
+  "en": "The last circle has events. Remove it anyway?",
+  "t": "El último círculo tiene eventos. ¿Quitarlo de todas formas?"
+ },
+ "29245d440157": {
+  "en": "Payment:",
+  "t": "Pago:"
+ },
+ "299c3a3ffa82": {
+  "en": "That file isn't a Vraki West March save.",
+  "t": "Ese archivo no es una partida guardada de Vraki West March."
+ },
+ "29b80ac19515": {
+  "en": "Travel planner",
+  "t": "Planificador de viajes"
+ },
+ "2a2a19a9b2e7": {
+  "en": "Weekday",
+  "t": "Día de la semana"
+ },
+ "2a643c9767e9": {
+  "en": "Skip to the travel planner",
+  "t": "Ir directamente al planificador de viajes"
+ },
+ "2a6e789e0a34": {
+  "en": "<b>Event roll:</b> d6 per shift that rolls. {enc} = encounter (d12 on the region table), {sign} = a sign of one (d12), the rest = quiet.",
+  "t": "<b>Tirada de evento:</b> d6 por cada turno que tira. {enc} = encuentro (d12 en la tabla de la región), {sign} = una señal de uno (d12), el resto = tranquilo."
+ },
+ "2afe12c726e6": {
+  "en": "Creature",
+  "t": "Criatura"
+ },
+ "2b1d97857c7b": {
+  "en": "Next step",
+  "t": "Paso siguiente"
+ },
+ "2b661624c9a2": {
+  "en": "a cantrip ring",
+  "t": "un anillo de truco"
+ },
+ "2c207de27d66": {
+  "en": "Standard",
+  "t": "Normal"
+ },
+ "2d6f2ef30ed8": {
+  "en": "Reward",
+  "t": "Recompensa"
+ },
+ "2d9112504f35": {
+  "en": "Not rolled",
+  "t": "Sin tirar"
+ },
+ "2da0d506129b": {
+  "en": "{n} pearl",
+  "t": "{n} pearl"
+ },
+ "2e09686f643b": {
+  "en": "How many owe revival debt",
+  "t": "Cuántos deben reanimación"
+ },
+ "2e68613791e6": {
+  "en": "Party size",
+  "t": "Tamaño del grupo"
+ },
+ "2f055cedfd68": {
+  "en": "Vraki West March home",
+  "t": "Inicio de Vraki West March"
+ },
+ "2f527c1ed5ca": {
+  "en": "{n} nari stone",
+  "t": "{n} nari stone"
+ },
+ "2f91b5302b28": {
+  "en": "{n} aquamarine",
+  "t": "{n} aquamarine"
+ },
+ "2fb84a3ee938": {
+  "en": "It's one shared world. Whatever your party kills, maps or angers stays that way for everyone.",
+  "t": "Es un único mundo compartido. Lo que tu grupo mata, cartografía o enfada se queda así para todos."
+ },
+ "2fb97e854c4c": {
+  "en": "Patrol roll",
+  "t": "Tirada de patrulla"
+ },
+ "30490aa8812d": {
+  "en": "Keep a shared copy of the travel map to mark explored circles.",
+  "t": "Ten una copia compartida del mapa de viaje para marcar los círculos explorados."
+ },
+ "317cd7815399": {
+  "en": "12pm–6pm",
+  "t": "12:00–18:00"
+ },
+ "318909f568b2": {
+  "en": "clear",
+  "t": "borrar"
+ },
+ "31edcbee62c3": {
+  "en": "Damage or heal",
+  "t": "Daño o curación"
+ },
+ "3201cb08ca3a": {
+  "en": "Circles can override this below, for trips that cross regions.",
+  "t": "Los círculos pueden cambiarla abajo, para viajes que cruzan regiones."
+ },
+ "325dcd29c3a4": {
+  "en": "Down (dying)",
+  "t": "Caído (muriéndose)"
+ },
+ "325ff50ba847": {
+  "en": "On the map",
+  "t": "En el mapa"
+ },
+ "329641e522b4": {
+  "en": "Afternoon",
+  "t": "Tarde"
+ },
+ "32ce3655cfa9": {
+  "en": "Dmg",
+  "t": "Daño"
+ },
+ "32dd11c62087": {
+  "en": "Go-between (d8)",
+  "t": "Intermediario (d8)"
+ },
+ "32eb52912f7e": {
+  "en": "Round trip",
+  "t": "Ida y vuelta"
+ },
+ "334a5be7560b": {
+  "en": "Pick a quest",
+  "t": "Elige una misión"
+ },
+ "336f1edfecc1": {
+  "en": "Unnamed adventurer",
+  "t": "Aventurero sin nombre"
+ },
+ "338434162845": {
+  "en": "{n} aquamarines",
+  "t": "{n} aquamarines"
+ },
+ "344e5851e8d7": {
+  "en": "Cargo value:",
+  "t": "Valor de la carga:"
+ },
+ "3495614e84af": {
+  "en": "A nari stone costs 1 amethyst, so {what} burns about {pearls} of stones.",
+  "t": "Una nari stone cuesta 1 amethyst, así que {what} quema unos {pearls} en stones."
+ },
+ "34a7ce69b4f9": {
+  "en": "Add an adventurer",
+  "t": "Añadir un aventurero"
+ },
+ "34aebb9c024d": {
+  "en": "{n} day",
+  "t": "{n} día"
+ },
+ "3556e67e35dc": {
+  "en": "The party (none set up yet)",
+  "t": "El grupo (todavía sin preparar)"
+ },
+ "35fc7a0d2c1c": {
+  "en": "What happens",
+  "t": "Qué pasa"
+ },
+ "36ce5a7b4213": {
+  "en": "Patrol roll d6 {n} against Heat {h}: {what}",
+  "t": "Tirada de patrulla d6 {n} contra Sospecha {h}: {what}"
+ },
+ "36d0e67e5d83": {
+  "en": "Learn the secrets and the dangers",
+  "t": "Aprende los secretos y los peligros"
+ },
+ "374ad2f3a516": {
+  "en": "Next day also rolls the Castle Mood, as the rules say to at the start of each day.",
+  "t": "«Día siguiente» también tira el Humor del Castillo, como dicen las reglas al empezar cada día."
+ },
+ "37b861c042a9": {
+  "en": "<b>{days}</b> one way · {start} to {end} · deadline <b>{deadline}</b> if they come back the same way · <b>{rations}</b> rations for {people} people",
+  "t": "<b>{days}</b> de ida · del {start} al {end} · plazo de <b>{deadline}</b> si vuelven por el mismo camino · <b>{rations}</b> raciones para {people} personas"
+ },
+ "380957daf1b3": {
+  "en": "Deadline",
+  "t": "Plazo"
+ },
+ "3883b472c136": {
+  "en": "Open the printable PDF",
+  "t": "Abrir el PDF imprimible"
+ },
+ "38bef1a3e0d9": {
+  "en": "Pick a quest from the <a href=\"{board}\">quest board</a> and post a <a href=\"#/t/handouts\">Party Wanted</a> sign-up.",
+  "t": "Elige una misión del <a href=\"{board}\">tablón de misiones</a> y cuelga una hoja de <a href=\"#/t/handouts\">Se busca grupo</a>."
+ },
+ "38e0f92facd8": {
+  "en": "Add a creature",
+  "t": "Añadir una criatura"
+ },
+ "393a9d8d971b": {
+  "en": "Remove",
+  "t": "Quitar"
+ },
+ "39402c830eaf": {
+  "en": "Art by Mitsukiven &amp; Feiourm. © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.",
+  "t": "Arte de Mitsukiven &amp; Feiourm. © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0."
+ },
+ "398b8aaaf7d9": {
+  "en": "Remove this adventurer",
+  "t": "Quitar a este aventurero"
+ },
+ "399c76455f2d": {
+  "en": "Vraki, where the script started",
+  "t": "Vraki, donde empezó la escritura"
+ },
+ "3a0b39e5b7b5": {
+  "en": "At departure, while the party preps.",
+  "t": "Al partir, mientras el grupo se prepara."
+ },
+ "3a6f5ca6ea5a": {
+  "en": "{name} are back, with {pearls} more debt.",
+  "t": "{name} ha vuelto, con {pearls} más de deuda."
+ },
+ "3aabc2d53e95": {
+  "en": "Sapphires",
+  "t": "Sapphires"
+ },
+ "3b3e956859ef": {
+  "en": "The players tell you where they're going; you prep that trip.",
+  "t": "Los jugadores te dicen adónde van; tú preparas ese viaje."
+ },
+ "3b55ef120dc9": {
+  "en": "This is a cargo escort (the Inside Job offer can happen)",
+  "t": "Es una escolta de carga (puede llegar la oferta del Trabajo Interno)"
+ },
+ "3b6934132e9b": {
+  "en": "My West March",
+  "t": "Mi West March"
+ },
+ "3c45285e41c1": {
+  "en": "Open the dice tray",
+  "t": "Abrir la bandeja de dados"
+ },
+ "3c46db3d64a0": {
+  "en": "Travel without math",
+  "t": "Viajar sin cuentas"
+ },
+ "3d24c308ae06": {
+  "en": "Pick a people: mixed-blood human, Darfaries, Wozefaries, Cruro and more. There are no elves or dwarves.",
+  "t": "Elige un pueblo: humano de sangre mezclada, Darfaries, Wozefaries, Cruro y más. No hay elfos ni enanos."
+ },
+ "3db793492aa6": {
+  "en": "balls at a drop point",
+  "t": "bolas en un punto de entrega"
+ },
+ "3dd3ee6e59dd": {
+  "en": "Want a language added?",
+  "t": "¿Quieres que añadamos un idioma?"
+ },
+ "3e6b78d7874f": {
+  "en": "Player",
+  "t": "Jugador"
+ },
+ "3f22bdc32c96": {
+  "en": "Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which.",
+  "t": "Cuenta los círculos entre dos lugares. Cada círculo son 1, 2 o 3 días de viaje, y el DM decide cuántos."
+ },
+ "3fd940eb0c0a": {
+  "en": "Full-size file for printing",
+  "t": "Archivo a tamaño completo para imprimir"
+ },
+ "41442d770c33": {
+  "en": "Any roll in the rules, like {a}, is a button; the dice tray has the rest.",
+  "t": "Cualquier tirada de las reglas, como {a}, es un botón; la bandeja de dados tiene el resto."
+ },
+ "4252323dd53d": {
+  "en": "Heal",
+  "t": "Curar"
+ },
+ "428ff5097716": {
+  "en": "This is a West March: there's a pool of players, not a fixed party. Whoever signs up for a session is the party that day.",
+  "t": "Esto es una West March: hay un grupo de jugadores, no un grupo fijo de personajes. Quien se apunta a una sesión es el grupo de ese día."
+ },
+ "43570e0f7ad6": {
+  "en": "Start at the embassy, run the trip shift by shift, and end with the party back somewhere safe.",
+  "t": "Empieza en la embajada, juega el viaje turno a turno y termina con el grupo de vuelta en algún sitio seguro."
+ },
+ "43d4617a1162": {
+  "en": "Ready",
+  "t": "Listo"
+ },
+ "43e62c6a1ead": {
+  "en": "Swap from and to",
+  "t": "Intercambiar origen y destino"
+ },
+ "445bd79ce045": {
+  "en": "Light",
+  "t": "Claro"
+ },
+ "4468eb8623f2": {
+  "en": "Nari stones on hand",
+  "t": "Nari stones a mano"
+ },
+ "4540f7843779": {
+  "en": "no patrol today.",
+  "t": "hoy no hay patrulla."
+ },
+ "45f61418b146": {
+  "en": "Disadvantage",
+  "t": "Desventaja"
+ },
+ "45f98c37c515": {
+  "en": "Length",
+  "t": "Duración"
+ },
+ "47af4a13e32b": {
+  "en": "Six steps from never heard of it to sitting at the table with an adventurer. Each one takes a few minutes; open the links when you need the details.",
+  "t": "Seis pasos para pasar de no haber oído hablar de esto a estar sentado a la mesa con un aventurero. Cada uno lleva unos minutos; abre los enlaces cuando necesites los detalles."
+ },
+ "484e1850fd63": {
+  "en": "Roll the daily change (d6)",
+  "t": "Tirar el cambio diario (d6)"
+ },
+ "488e7618ba06": {
+  "en": "{n} results for “{q}”",
+  "t": "{n} resultados para «{q}»"
+ },
+ "489104bd9f31": {
+  "en": "Days per circle, all circles",
+  "t": "Días por círculo, todos los círculos"
+ },
+ "493e4e56c9dd": {
+  "en": "Your name is <b>NAME PLACE GUILD</b>. Starting money: class gear plus {a} × 10 pearls. Roll {b} for starting debt.",
+  "t": "Tu nombre es <b>NOMBRE LUGAR GREMIO</b>. Dinero inicial: el equipo de clase más {a} × 10 pearls. Tira {b} para la deuda inicial."
+ },
+ "495c1caeca4e": {
+  "en": "Trip notes",
+  "t": "Notas del viaje"
+ },
+ "4990c44c13ec": {
+  "en": "Who's using the site",
+  "t": "Quién usa el sitio"
+ },
+ "49c673a3212f": {
+  "en": "Handouts and props",
+  "t": "Material y atrezo"
+ },
+ "49e40318c7a0": {
+  "en": "the trip",
+  "t": "el viaje"
+ },
+ "4b2c4f63ca40": {
+  "en": "On a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day.",
+  "t": "Con un 1 el humor baja 1; con un 6 sube 1. Los grupos que luchan dentro lo suben 1 cada día."
+ },
+ "4ca775823b63": {
+  "en": "6am–12pm",
+  "t": "6:00–12:00"
+ },
+ "4caa8ec03f1a": {
+  "en": "a patrol finds them.",
+  "t": "una patrulla los encuentra."
+ },
+ "4cbc10e0ef7f": {
+  "en": "The West March's shared memory. Write down where each party went and what changed in the world.",
+  "t": "La memoria compartida de la West March. Apunta adónde fue cada grupo y qué cambió en el mundo."
+ },
+ "4cc4ef25d4bc": {
+  "en": "Slow",
+  "t": "Lento"
+ },
+ "4cf9ef9f28aa": {
+  "en": "Count circles from the map",
+  "t": "Contar los círculos en el mapa"
+ },
+ "4d8e3b8b674d": {
+  "en": "“{text}”",
+  "t": "«{text}»"
+ },
+ "4d999db4f9eb": {
+  "en": "Next turn",
+  "t": "Siguiente turno"
+ },
+ "4dc62dd49100": {
+  "en": "{days} if they come back the same way",
+  "t": "{days} si vuelven por el mismo camino"
+ },
+ "4dc8ea252a80": {
+  "en": "The travel map",
+  "t": "El mapa de viaje"
+ },
+ "4e105a04770c": {
+  "en": "Bring it to the table",
+  "t": "Llévalo a la mesa"
+ },
+ "4e27d1305f09": {
+  "en": "Your adventurer",
+  "t": "Tu aventurero"
+ },
+ "4ee1a9835097": {
+  "en": "Started over.",
+  "t": "Empezado de cero."
+ },
+ "4ef6cb0d5c55": {
+  "en": "In",
+  "t": "En"
+ },
+ "4f19c38944f9": {
+  "en": "The Inside Job offer",
+  "t": "La oferta del Trabajo Interno"
+ },
+ "4f4baef682e3": {
+  "en": "Departure roll: d6 {n}, {what}",
+  "t": "Tirada al partir: d6 {n}, {what}"
+ },
+ "4f5df4895274": {
+  "en": "Overheard in the tavern (d10)",
+  "t": "Oído en la taberna (d10)"
+ },
+ "4f78c6689c73": {
+  "en": "How many",
+  "t": "Cuántas"
+ },
+ "4f996b171bfd": {
+  "en": "Revival debt (pearls)",
+  "t": "Deuda de reanimación (pearls)"
+ },
+ "4fc70c0e3800": {
+  "en": "Every session starts at a Forway <b>embassy</b> and should end back at one.",
+  "t": "Cada sesión empieza en una <b>embajada</b> de Forway y debería terminar de vuelta en una."
+ },
+ "50050479bb24": {
+  "en": "Light or dark",
+  "t": "Claro u oscuro"
+ },
+ "50117964066e": {
+  "en": "Temp",
+  "t": "Temp."
+ },
+ "50fb3baa2900": {
+  "en": "no offer at departure",
+  "t": "no hay oferta al partir"
+ },
+ "511a7cefe5a9": {
+  "en": "Back",
+  "t": "Atrás"
+ },
+ "51936dbda00f": {
+  "en": "DM's choice.",
+  "t": "Lo que decida el DM."
+ },
+ "51a1fa0a8498": {
+  "en": "Event: sign or omen",
+  "t": "Evento: señal o presagio"
+ },
+ "51d76af291cb": {
+  "en": "Damage",
+  "t": "Daño"
+ },
+ "51df909fa582": {
+  "en": "Trip settings",
+  "t": "Ajustes del viaje"
+ },
+ "51e06d6677ee": {
+  "en": "The biggest you can afford is {what}.",
+  "t": "Lo más grande que puedes permitirte es {what}."
+ },
+ "52756b0b8396": {
+  "en": "You opened the site straight from a file. Pages load best when the site is served: open it on GitHub Pages, or run <code>python -m http.server</code> in the repo folder and visit <code>http://localhost:8000</code>.",
+  "t": "Has abierto el sitio directamente desde un archivo. Las páginas cargan mejor cuando el sitio se sirve: ábrelo en GitHub Pages, o ejecuta <code>python -m http.server</code> en la carpeta del repositorio y visita <code>http://localhost:8000</code>."
+ },
+ "5297a254825f": {
+  "en": "<b>Hash:</b> double HP, +2 to attack and damage, special abilities +1d6 damage and +2 save DCs, always hostile. Eating its meat gives 1 Exposure.",
+  "t": "<b>Hash:</b> HP dobles, +2 al ataque y al daño, las habilidades especiales hacen +1d6 de daño y +2 a sus DC de salvación, siempre hostil. Comer su carne da 1 de Exposición."
+ },
+ "532e85bae056": {
+  "en": "Track your character between and during sessions: HP, Soul Points, exhaustion, balls and revival debt. It saves in this browser as you type.",
+  "t": "Sigue a tu personaje entre sesiones y durante ellas: HP, Soul Points, cansancio, bolas y deuda de reanimación. Se guarda en este navegador mientras escribes."
+ },
+ "53d83bde3793": {
+  "en": "Dice",
+  "t": "Dados"
+ },
+ "53dff878f4c2": {
+  "en": "DM secrets: the hidden truths of the world.",
+  "t": "Secretos del DM: las verdades ocultas del mundo."
+ },
+ "53f1d44436fa": {
+  "en": "(not done yet)",
+  "t": "(aún no hecho)"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "Amethyst"
+ },
+ "54442dd15378": {
+  "en": "Sets the circles (and each one's encounter table) from the route between From and To.",
+  "t": "Fija los círculos (y la tabla de encuentros de cada uno) a partir de la ruta entre Desde y Hasta."
+ },
+ "54792c64794e": {
+  "en": "Travel by circles",
+  "t": "Viajar por círculos"
+ },
+ "54983531feab": {
+  "en": "The handouts in this language are on their way; these are the English ones.",
+  "t": "El material en este idioma está en camino; estos son los de inglés."
+ },
+ "54c33383a51b": {
+  "en": "<b>{pearls}</b>; Forway takes {n} off their debt",
+  "t": "<b>{pearls}</b>; Forway descuenta {n} de su deuda"
+ },
+ "54ecc0da3ac0": {
+  "en": "Tip: any roll written in the rules, like 2d6+3, is a button. Tap it to roll.",
+  "t": "Consejo: cualquier tirada escrita en las reglas, como 2d6+3, es un botón. Tócala para tirar."
+ },
+ "55f089dc517e": {
+  "en": "Open the full-size file",
+  "t": "Abrir el archivo a tamaño completo"
+ },
+ "560bcc2bcec8": {
+  "en": "Fast",
+  "t": "Rápido"
+ },
+ "56bf8e5830f6": {
+  "en": "Add a custom foe",
+  "t": "Añadir un enemigo propio"
+ },
+ "56f22adee6bf": {
+  "en": "Where",
+  "t": "Dónde"
+ },
+ "5756406ba97c": {
+  "en": "Cargo:",
+  "t": "Carga:"
+ },
+ "57b5616fa6cb": {
+  "en": "Showing the copy bundled with the site.",
+  "t": "Mostrando la copia incluida en el sitio."
+ },
+ "57dccde67826": {
+  "en": "I'm running it",
+  "t": "Yo dirijo"
+ },
+ "57f3df8cac45": {
+  "en": "Soul Points",
+  "t": "Soul Points"
+ },
+ "583e0d372b46": {
+  "en": "New foe",
+  "t": "Nuevo enemigo"
+ },
+ "585cdf11ff4a": {
+  "en": "Grumpy",
+  "t": "Gruñón"
+ },
+ "587ce6284b63": {
+  "en": "Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.",
+  "t": "Arrastra para moverte. Pellizca, o mantén Ctrl y usa la rueda, para hacer zoom. Doble clic para acercar. Teclado: + y − hacen zoom, las flechas mueven, 0 muestra el mapa entero."
+ },
+ "58b36c7f713d": {
+  "en": "Events & encounters",
+  "t": "Eventos y encuentros"
+ },
+ "58fccaefc040": {
+  "en": "Table",
+  "t": "Tabla"
+ },
+ "598e66cfe06a": {
+  "en": "this trip",
+  "t": "este viaje"
+ },
+ "59950a684167": {
+  "en": "Encounter tables (d12)",
+  "t": "Tablas de encuentros (d12)"
+ },
+ "59cb3037aec8": {
+  "en": "Open in {page}",
+  "t": "Abrir en {page}"
+ },
+ "59fe8c74da36": {
+  "en": "Open the map",
+  "t": "Abrir el mapa"
+ },
+ "5a4df181bbf9": {
+  "en": "Before a session",
+  "t": "Antes de una sesión"
+ },
+ "5a73dc7bd0b1": {
+  "en": "Current SP",
+  "t": "SP actuales"
+ },
+ "5aca8f43f2ed": {
+  "en": "Go to the start page",
+  "t": "Ir a la página de inicio"
+ },
+ "5b4333b08e62": {
+  "en": "Balls and change",
+  "t": "Bolas y cambio"
+ },
+ "5b480a177f96": {
+  "en": "Get the body to an embassy within <b>{days}</b>. Revival adds <b>{pearls}</b> of debt.",
+  "t": "Lleva el cuerpo a una embajada en menos de <b>{days}</b>. La reanimación añade <b>{pearls}</b> de deuda."
+ },
+ "5b5e9ca6c739": {
+  "en": "People",
+  "t": "Personas"
+ },
+ "5b68f4e77c9d": {
+  "en": "Days per circle for every circle",
+  "t": "Días por círculo para todos los círculos"
+ },
+ "5bd15f9645ff": {
+  "en": "Off the edge of the map",
+  "t": "Fuera del borde del mapa"
+ },
+ "5be4575a0bff": {
+  "en": "No road or sea lane on the map joins these. The DM decides how many circles it's worth.",
+  "t": "Ningún camino ni ruta marítima del mapa une estos lugares. El DM decide cuántos círculos vale."
+ },
+ "5c0ebe62c3eb": {
+  "en": "Hash {name}",
+  "t": "{name} Hash"
+ },
+ "5c0fdc7bfe0b": {
+  "en": ": ",
+  "t": ": "
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "Pearl"
+ },
+ "5c7d6a88a590": {
+  "en": "Pearls",
+  "t": "Pearls"
+ },
+ "5c91b35ad275": {
+  "en": "Unnamed",
+  "t": "Sin nombre"
+ },
+ "5d22b5a9e6f0": {
+  "en": "Random tables",
+  "t": "Tablas aleatorias"
+ },
+ "5d53ddc453c5": {
+  "en": "Morning",
+  "t": "Mañana"
+ },
+ "5e0fdd197b7c": {
+  "en": "How far is it?",
+  "t": "¿A qué distancia está?"
+ },
+ "5fc3f2710731": {
+  "en": "Add a faction or guild",
+  "t": "Añadir una facción o gremio"
+ },
+ "5fe70ad50bb4": {
+  "en": "Afterwards: write the session log, move the in-world date, and have the party fill in an expedition report.",
+  "t": "Después: escribe el diario de sesiones, avanza la fecha en el mundo y haz que el grupo rellene un informe de expedición."
+ },
+ "6003ecad9b4e": {
+  "en": "Revival window",
+  "t": "Plazo de reanimación"
+ },
+ "607d3a25513f": {
+  "en": "Start from a pre-made one",
+  "t": "Empezar con uno ya hecho"
+ },
+ "610fabafc2be": {
+  "en": "slow",
+  "t": "lento"
+ },
+ "613b06a57c87": {
+  "en": "History",
+  "t": "Historial"
+ },
+ "619232a301d0": {
+  "en": "Printable trip sheet",
+  "t": "Hoja de viaje imprimible"
+ },
+ "61af8fd1a904": {
+  "en": "Proficiency bonus <b>+{pb}</b>, so maximum Soul Points are <b>{max}</b>. Regain 1 SP per long rest.",
+  "t": "Bonificador por competencia <b>+{pb}</b>, así que el máximo de Soul Points es <b>{max}</b>. Se recupera 1 SP por descanso largo."
+ },
+ "624c727b5e79": {
+  "en": "Revival debt",
+  "t": "Deuda de reanimación"
+ },
+ "6415212afd5e": {
+  "en": "Add to the fight",
+  "t": "Añadir al combate"
+ },
+ "64cbec0ab1b3": {
+  "en": "{rank}: {dice} = {roll}, × {times} = {total} (honest reward: {reward})",
+  "t": "{rank}: {dice} = {roll}, × {times} = {total} (recompensa honrada: {reward})"
+ },
+ "652c40b4a08f": {
+  "en": "Clear all events",
+  "t": "Borrar todos los eventos"
+ },
+ "6569d4afbdbf": {
+  "en": "{pct}% translated",
+  "t": "{pct}% traducido"
+ },
+ "6569eecf68ce": {
+  "en": "Language",
+  "t": "Idioma"
+ },
+ "6590cb12dd83": {
+  "en": "{circles} via {places}.",
+  "t": "{circles} pasando por {places}."
+ },
+ "659a45fc734b": {
+  "en": "Fauna",
+  "t": "Fauna"
+ },
+ "65a809a706df": {
+  "en": "you're {n} short",
+  "t": "te faltan {n}"
+ },
+ "65f1f08bcd48": {
+  "en": "Full screen",
+  "t": "Pantalla completa"
+ },
+ "668ef3a0203e": {
+  "en": "no offer at departure.",
+  "t": "no hay oferta al partir."
+ },
+ "66ecdbaabbef": {
+  "en": "On this page",
+  "t": "En esta página"
+ },
+ "67963acb0a5f": {
+  "en": "Get the body to an embassy within <b>{days}</b>. Revival adds <b>{pearls}</b> of debt — and they already owe, so dying again means the Forway Guard unless the party pays everything.",
+  "t": "Lleva el cuerpo a una embajada en menos de <b>{days}</b>. La reanimación añade <b>{pearls}</b> de deuda, y ya debe, así que morir otra vez significa la Guardia de Forway salvo que el grupo lo pague todo."
+ },
+ "687fbc30935c": {
+  "en": "Party Wanted and other handouts",
+  "t": "Se busca grupo y otro material"
+ },
+ "68a7ea6c2da6": {
+  "en": "Roll this shift",
+  "t": "Tirar este turno"
+ },
+ "68f2433f5148": {
+  "en": "Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer.",
+  "t": "Cada círculo son 1, 2 o 3 días (Rápido, Normal, Lento). Tú eliges, para alargar o acortar un viaje."
+ },
+ "68f3524c2468": {
+  "en": "Lay out a trip circle by circle, the way the <a href=\"#/t/map\">travel map</a> draws it. Pick how many days each circle takes, roll the events the rules call for (or set them yourself), then run each shift: monsters, HP, initiative and notes.",
+  "t": "Organiza un viaje círculo a círculo, tal como lo dibuja el <a href=\"#/t/map\">mapa de viaje</a>. Elige cuántos días lleva cada círculo, tira los eventos que piden las reglas (o fíjalos tú) y luego juega cada turno: monstruos, HP, iniciativa y notas."
+ },
+ "6927a7ee15e0": {
+  "en": "Download save file (.json)",
+  "t": "Descargar archivo de guardado (.json)"
+ },
+ "6968ac9b676c": {
+  "en": "Done, next step",
+  "t": "Hecho, paso siguiente"
+ },
+ "699443f86e01": {
+  "en": "Encounters here use the {region} table ({places}).",
+  "t": "Aquí los encuentros usan la tabla de {region} ({places})."
+ },
+ "69a5c331665d": {
+  "en": "you can cast it {n} times",
+  "t": "puedes lanzarlo {n} veces"
+ },
+ "69b6c8592e50": {
+  "en": "Add",
+  "t": "Añadir"
+ },
+ "69c6d1c55271": {
+  "en": "{from}, heading {heading}: {circles} to the edge",
+  "t": "{from}, rumbo {heading}: {circles} hasta el borde"
+ },
+ "69d91d87d2d9": {
+  "en": "Two things at once",
+  "t": "Dos cosas a la vez"
+ },
+ "6a19d3d370a1": {
+  "en": "Type a word in the search box, like Bagarisa, revival or Sanbi.",
+  "t": "Escribe una palabra en el buscador, como Bagarisa, reanimación o Sanbi."
+ },
+ "6b08a01fed95": {
+  "en": "Use “Add to the fight” to drop one into the shift that's open in the travel planner.",
+  "t": "Usa «Añadir al combate» para meter uno en el turno abierto del planificador de viajes."
+ },
+ "6b3afb2bf5df": {
+  "en": "Travel is the heart of the game, and it has no math: circles on the map, and you turn the pace knob.",
+  "t": "Viajar es el corazón del juego, y no tiene cuentas: círculos en el mapa, y tú giras la rueda del ritmo."
+ },
+ "6b59737b63e2": {
+  "en": "Sign of: {what}",
+  "t": "Señal de: {what}"
+ },
+ "6bf417e84947": {
+  "en": "Search",
+  "t": "Buscar"
+ },
+ "6ccdecefd558": {
+  "en": "Title",
+  "t": "Título"
+ },
+ "6d71b63ca602": {
+  "en": "poisoned, frightened…",
+  "t": "envenenado, asustado…"
+ },
+ "6deec64815af": {
+  "en": "Dangerous trip: encounters on 1–2 (slow country, night, loud or smelly party, valuable cargo)",
+  "t": "Viaje peligroso: encuentros con 1–2 (terreno lento, de noche, grupo ruidoso o maloliente, carga valiosa)"
+ },
+ "6e06a9af5127": {
+  "en": "Vraki West March · Trip sheet",
+  "t": "Vraki West March · Hoja de viaje"
+ },
+ "6e718c8f5eea": {
+  "en": "Trackers and planners save in this browser as you type. Use the save button at the top to download a file you can load on another device.",
+  "t": "Los registros y planificadores se guardan en este navegador mientras escribes. Usa el botón de guardar de arriba para descargar un archivo que puedes cargar en otro dispositivo."
+ },
+ "6ef2337c6cdc": {
+  "en": "Load this save file? It replaces what's saved in this browser now.",
+  "t": "¿Cargar este archivo de guardado? Sustituye lo que hay guardado ahora en este navegador."
+ },
+ "6f2cb5727653": {
+  "en": "Event: nothing",
+  "t": "Evento: nada"
+ },
+ "6f7d178c16be": {
+  "en": "Factions & reputation",
+  "t": "Facciones y reputación"
+ },
+ "6feb36f59063": {
+  "en": "Every shift that needs a roll already has one.",
+  "t": "Todos los turnos que necesitan tirada ya la tienen."
+ },
+ "70a8b67b4737": {
+  "en": "The shared world: today's date, Bahyum's Castle Mood, the Inside Job Heat, faction reputation and the session log.",
+  "t": "El mundo compartido: la fecha de hoy, el Humor del Castillo de Bahyum, la Sospecha del Trabajo Interno, la reputación con las facciones y el diario de sesiones."
+ },
+ "70ca985baf25": {
+  "en": "+{n} temp",
+  "t": "+{n} temp."
+ },
+ "70ff9887996a": {
+  "en": "Roll a {rank} quest (d20)",
+  "t": "Tirar una misión {rank} (d20)"
+ },
+ "715bfb218d54": {
+  "en": "Rations",
+  "t": "Raciones"
+ },
+ "717011a375f5": {
+  "en": "the offer comes before they leave",
+  "t": "la oferta llega antes de que salgan"
+ },
+ "71d91b99236f": {
+  "en": "Set up the campaign",
+  "t": "Prepara la campaña"
+ },
+ "71df16eea5ec": {
+  "en": "How events are rolled",
+  "t": "Cómo se tiran los eventos"
+ },
+ "722641fde081": {
+  "en": "fast",
+  "t": "rápido"
+ },
+ "724199b577c5": {
+  "en": "{n} of your own",
+  "t": "{n} propios"
+ },
+ "725aa286e571": {
+  "en": "Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play.",
+  "t": "Ojo: las páginas de lore revelan secretos del mundo. Quédate en el resumen si prefieres descubrir las cosas jugando."
+ },
+ "72a027dd7c1b": {
+  "en": "Rooms rearrange; a Walking Flathead wakes. Walking Skin packs raid nearby farms.",
+  "t": "Las salas se reordenan; despierta un Walking Flathead. Manadas de Walking Skin asaltan granjas cercanas."
+ },
+ "72ff867cb9bd": {
+  "en": "DM notes",
+  "t": "Notas del DM"
+ },
+ "734c6f6ff4e3": {
+  "en": "Remove {name}",
+  "t": "Quitar a {name}"
+ },
+ "736169bbe67e": {
+  "en": "{n} for {people} people, there and back",
+  "t": "{n} para {people} personas, ida y vuelta"
+ },
+ "7364bec36caa": {
+  "en": "The repo on GitHub",
+  "t": "El repositorio en GitHub"
+ },
+ "73ae6dd8fbbc": {
+  "en": ", ",
+  "t": ", "
+ },
+ "758f3a5a53e7": {
+  "en": "Damage taken",
+  "t": "Daño recibido"
+ },
+ "76be22c2e761": {
+  "en": "Page not found",
+  "t": "Página no encontrada"
+ },
+ "77032d3a785c": {
+  "en": "Plain text for AI tools and search engines:",
+  "t": "Texto plano para herramientas de IA y buscadores:"
+ },
+ "7780a262469a": {
+  "en": "Zoom out",
+  "t": "Alejar"
+ },
+ "77fa3ba25c50": {
+  "en": "Switch light or dark",
+  "t": "Cambiar entre claro y oscuro"
+ },
+ "783c9a2c8357": {
+  "en": "Roll events for empty shifts",
+  "t": "Tirar eventos en los turnos vacíos"
+ },
+ "783ea5e6d79d": {
+  "en": "{n} sapphires",
+  "t": "{n} sapphires"
+ },
+ "786b6e3e5665": {
+  "en": "Open the menu",
+  "t": "Abrir el menú"
+ },
+ "797b335d354a": {
+  "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
+  "t": "Vale <b>{pearls}</b> ({gp} gp). Cambiado hacia arriba: {list}."
+ },
+ "798649d11b43": {
+  "en": "Save the handouts for offline use (about 4 MB)",
+  "t": "Guardar el material para usar sin conexión (unos 4 MB)"
+ },
+ "79e1accfb338": {
+  "en": "Fill a board (4 quests)",
+  "t": "Llenar un tablón (4 misiones)"
+ },
+ "7a7f4479f2d2": {
+  "en": "Heat",
+  "t": "Sospecha"
+ },
+ "7ae1b64d77df": {
+  "en": "Pick Player or DM above for a step-by-step guide, or:",
+  "t": "Elige Jugador o DM arriba para ver una guía paso a paso, o:"
+ },
+ "7ba4173f8de3": {
+  "en": "Pick two different places.",
+  "t": "Elige dos lugares distintos."
+ },
+ "7ba7f3a9ef28": {
+  "en": "That link doesn't match a page here.",
+  "t": "Ese enlace no lleva a ninguna página de aquí."
+ },
+ "7c3240bef1f4": {
+  "en": "Campaign",
+  "t": "Campaña"
+ },
+ "7ce66824a857": {
+  "en": "Hash",
+  "t": "Hash"
+ },
+ "7da8b2bfe6b1": {
+  "en": "The Inside Job: on cargo escorts, bandits may offer the party a cut.",
+  "t": "El Trabajo Interno: en las escoltas de carga, los bandidos pueden ofrecer una parte al grupo."
+ },
+ "7dd0a3454563": {
+  "en": "<b>{pearls}</b> penalty",
+  "t": "<b>{pearls}</b> de penalización"
+ },
+ "7df1c9752d55": {
+  "en": "First session? The Alpha one-shot (a wagon escort) is ready to run.",
+  "t": "¿Primera sesión? La partida única Alpha (una escolta de carromato) está lista para jugar."
+ },
+ "7e77881bc6e6": {
+  "en": "Choose a quest at your rank (Pearl to start) from the quest board.",
+  "t": "Elige una misión de tu rango (Pearl para empezar) del tablón de misiones."
+ },
+ "7eb468df8575": {
+  "en": "(starts on {day})",
+  "t": "(empieza en {day})"
+ },
+ "7f882ae74695": {
+  "en": "Day {n}",
+  "t": "Día {n}"
+ },
+ "7fbfc6e52661": {
+  "en": "Circles on this trip",
+  "t": "Círculos de este viaje"
+ },
+ "7fd28e38bde5": {
+  "en": "About this campaign",
+  "t": "Sobre esta campaña"
+ },
+ "809a7994de3f": {
+  "en": "Winga mail there",
+  "t": "Correo winga hasta allí"
+ },
+ "80c68382426c": {
+  "en": "No route on the map joins {a} and {b}. Check the spelling, or set the circles yourself.",
+  "t": "Ninguna ruta del mapa une {a} y {b}. Revisa cómo está escrito, o fija tú los círculos."
+ },
+ "80d7999425a2": {
+  "en": "Circle {n}, {days}",
+  "t": "Círculo {n}, {days}"
+ },
+ "81389514b926": {
+  "en": "Set up the party",
+  "t": "Preparar el grupo"
+ },
+ "816311dcd351": {
+  "en": "Sign or omen",
+  "t": "Señal o presagio"
+ },
+ "816f9b000582": {
+  "en": "Death, revival and debt, and how factions remember the party.",
+  "t": "Muerte, reanimación y deuda, y cómo recuerdan las facciones al grupo."
+ },
+ "82494c4e2e68": {
+  "en": "(done)",
+  "t": "(hecho)"
+ },
+ "826e27f3d529": {
+  "en": "stats",
+  "t": "estadísticas"
+ },
+ "82d787e2df53": {
+  "en": "Patrol roll (d6 &lt; Heat)",
+  "t": "Tirada de patrulla (d6 &lt; Sospecha)"
+ },
+ "82e1bab03f64": {
+  "en": "Each day has four shifts. Roll the event die on Graveyard and Night: {a}, 1 is an encounter, 2 a sign of one.",
+  "t": "Cada día tiene cuatro turnos. Tira el dado de evento en Madrugada y Noche: {a}; un 1 es un encuentro, un 2 una señal de uno."
+ },
+ "82f74dd93c31": {
+  "en": "The party ({n})",
+  "t": "El grupo ({n})"
+ },
+ "832e96546f24": {
+  "en": "Stat blocks",
+  "t": "Bloques de estadísticas"
+ },
+ "8346b4513a9b": {
+  "en": "Nothing matches “{q}”. Try a shorter word or a different spelling.",
+  "t": "Nada coincide con «{q}». Prueba una palabra más corta o con otra ortografía."
+ },
+ "83553fe66e0e": {
+  "en": "<a href=\"{make}\">Make an adventurer</a>, or pick one of the <a href=\"{pregens}\">nine pre-made ones</a>.",
+  "t": "<a href=\"{make}\">Crea un aventurero</a>, o elige uno de los <a href=\"{pregens}\">nueve ya hechos</a>."
+ },
+ "83822413b591": {
+  "en": "Night",
+  "t": "Noche"
+ },
+ "83ab8f8a9a8e": {
+  "en": "Searching…",
+  "t": "Buscando…"
+ },
+ "83d635952510": {
+  "en": "Saved for offline use",
+  "t": "Guardado para usar sin conexión"
+ },
+ "848516520ebf": {
+  "en": "Pick a quest and find a party",
+  "t": "Elige una misión y encuentra un grupo"
+ },
+ "848a37275b68": {
+  "en": "Notes:",
+  "t": "Notas:"
+ },
+ "849cc321f202": {
+  "en": "Level",
+  "t": "Nivel"
+ },
+ "84c2f1ca5e7a": {
+  "en": "Alpha one-shot",
+  "t": "Partida única Alpha"
+ },
+ "84d4eb97c252": {
+  "en": "This page stays in English: it's the license's legal text, and the English version is the one that counts.",
+  "t": "Esta página se queda en inglés: es el texto legal de la licencia, y la versión inglesa es la que vale."
+ },
+ "84f975b8a00c": {
+  "en": "New here?",
+  "t": "¿Eres nuevo?"
+ },
+ "85f73071767b": {
+  "en": "Plan trips circle by circle, roll events, run fights, track the party, the Castle Mood and every faction.",
+  "t": "Planifica viajes círculo a círculo, tira eventos, dirige combates, sigue al grupo, el Humor del Castillo y cada facción."
+ },
+ "864e3055cb78": {
+  "en": "Current HP",
+  "t": "HP actuales"
+ },
+ "86f987d184bb": {
+  "en": "6pm–12am",
+  "t": "18:00–24:00"
+ },
+ "87b9cfd14272": {
+  "en": "Vraki is the world of the #HusbandOutWorld light novels: soul energy instead of magic, killer trees, moody undead castles and a lot of bureaucracy.",
+  "t": "Vraki es el mundo de las novelas ligeras de #HusbandOutWorld: energía del alma en vez de magia, árboles asesinos, castillos no muertos con mal humor y muchísima burocracia."
+ },
+ "87df6dc27859": {
+  "en": "Beast",
+  "t": "Bestia"
+ },
+ "881ec4839818": {
+  "en": "Learn how an open table works",
+  "t": "Aprende cómo funciona una mesa abierta"
+ },
+ "890f19ee4f2b": {
+  "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
+  "t": "El mapa de viaje de la Vraki West March: el mapa del mundo con círculos de colores a lo largo de los caminos y rutas marítimas entre lugares"
+ },
+ "897335ee0ca8": {
+  "en": "Class",
+  "t": "Clase"
+ },
+ "89c2a7e50b97": {
+  "en": "goods from the cargo",
+  "t": "mercancía de la carga"
+ },
+ "8acc003f9a4a": {
+  "en": "Trip {n}",
+  "t": "Viaje {n}"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "Círculos"
+ },
+ "8b357b2f7c32": {
+  "en": "Each debtor keeps",
+  "t": "Cada deudor se queda"
+ },
+ "8b47d4d60c73": {
+  "en": "{n} on this trip",
+  "t": "{n} en este viaje"
+ },
+ "8b59700fbe91": {
+  "en": "Theme",
+  "t": "Tema"
+ },
+ "8b93e371e76e": {
+  "en": "Cargo",
+  "t": "Carga"
+ },
+ "8b95aba870aa": {
+  "en": "Circle {n}",
+  "t": "Círculo {n}"
+ },
+ "8ba7e599355a": {
+  "en": "Fine",
+  "t": "Bien"
+ },
+ "8bc140d3e96f": {
+  "en": "<a href=\"{url}\">Read the world at a glance</a> (five minutes).",
+  "t": "<a href=\"{url}\">Lee el mundo de un vistazo</a> (cinco minutos)."
+ },
+ "8c2a09403551": {
+  "en": "Bestiary",
+  "t": "Bestiario"
+ },
+ "8c4d38b077d8": {
+  "en": "Beasts",
+  "t": "Bestias"
+ },
+ "8d3537b32b81": {
+  "en": "Inside Job offer",
+  "t": "Oferta del Trabajo Interno"
+ },
+ "8d8164e16035": {
+  "en": "Replace the creatures here with the ones from this entry?",
+  "t": "¿Sustituir las criaturas de aquí por las de esta entrada?"
+ },
+ "8dd63043aa5a": {
+  "en": "Cargo value",
+  "t": "Valor de la carga"
+ },
+ "8e7f360ed765": {
+  "en": "{what} costs <b>{cost} or SP</b>. With {have} between stones and SP, {can}.",
+  "t": "{what} cuesta <b>{cost} o SP</b>. Con {have} entre stones y SP, {can}."
+ },
+ "8e9055a9d8ac": {
+  "en": "The DM guide",
+  "t": "La guía del DM"
+ },
+ "8ec4a3442b99": {
+  "en": "Rumor",
+  "t": "Rumor"
+ },
+ "8ed295a637e4": {
+  "en": "Go-between:",
+  "t": "Intermediario:"
+ },
+ "8f32713157ff": {
+  "en": "Zoom in",
+  "t": "Acercar"
+ },
+ "90b030f351e7": {
+  "en": "New trip",
+  "t": "Viaje nuevo"
+ },
+ "91329920c016": {
+  "en": "The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which.",
+  "t": "El mapa de viaje tiene círculos dibujados a lo largo de sus rutas. Cuenta los círculos hasta donde vas. Cada círculo son 1, 2 o 3 días, y el DM decide cuántos."
+ },
+ "9170d0585fd5": {
+  "en": "DM 101",
+  "t": "DM 101"
+ },
+ "91aecfc722fd": {
+  "en": "Handouts",
+  "t": "Material"
+ },
+ "928dc2f662a4": {
+  "en": "Your work saves in this browser. Use the save button at the top to download a file for another device.",
+  "t": "Tu trabajo se guarda en este navegador. Usa el botón de guardar de arriba para descargar un archivo para otro dispositivo."
+ },
+ "92ae65697ec3": {
+  "en": "Loading…",
+  "t": "Cargando…"
+ },
+ "9308e9f30846": {
+  "en": "Init",
+  "t": "Inic."
+ },
+ "93741b140306": {
+  "en": "Swap",
+  "t": "Intercambiar"
+ },
+ "93f1f57143ad": {
+  "en": "Event: encounter",
+  "t": "Evento: encuentro"
+ },
+ "94106288ff57": {
+  "en": "{n} amethyst",
+  "t": "{n} amethyst"
+ },
+ "9416e843348e": {
+  "en": "No one in the party yet. Add the adventurers who showed up tonight, or start from the pre-made ones.",
+  "t": "Todavía no hay nadie en el grupo. Añade a los aventureros que han venido esta noche, o empieza con los ya hechos."
+ },
+ "947a0a39c960": {
+  "en": "Read the DM guide",
+  "t": "Lee la guía del DM"
+ },
+ "9486cb73473f": {
+  "en": "Roll d12",
+  "t": "Tirar d12"
+ },
+ "952bf8d5043f": {
+  "en": "The world bites back. These pages are DM-only: players shouldn't read them.",
+  "t": "El mundo muerde. Estas páginas son solo para el DM: los jugadores no deberían leerlas."
+ },
+ "9556b81da57c": {
+  "en": "Splitting quest pay",
+  "t": "Repartir la paga de la misión"
+ },
+ "955aea593e26": {
+  "en": "Roll initiative for monsters",
+  "t": "Tirar iniciativa de los monstruos"
+ },
+ "9586003ce71b": {
+  "en": "Run it, then wrap it up",
+  "t": "Dirígela y luego ciérrala"
+ },
+ "95da44300193": {
+  "en": "Plan this trip in the travel planner",
+  "t": "Planificar este viaje en el planificador"
+ },
+ "9662a9f7be46": {
+  "en": "Walking Skin patrols inside. Quiet outside.",
+  "t": "Patrullas de Walking Skin dentro. Tranquilo fuera."
+ },
+ "973dd791b9ed": {
+  "en": "<b>Soul Points</b> = proficiency bonus + Constitution modifier. Sigil rings and nari gels spend them.",
+  "t": "<b>Soul Points</b> = bonificador por competencia + modificador de Constitución. Los anillos de sigilo y los nari gels los gastan."
+ },
+ "97fc9445a06c": {
+  "en": "Go-between, cut, cargo and payment. Roll the secret Deal roll in the travel planner when the party accepts.",
+  "t": "Intermediario, parte, carga y pago. Haz la tirada secreta del Trato en el planificador de viajes cuando el grupo acepte."
+ },
+ "993700571014": {
+  "en": "Nari gels & gear",
+  "t": "Nari gels y equipo"
+ },
+ "99846cefae5f": {
+  "en": "{n} circle",
+  "t": "{n} círculo"
+ },
+ "9b4e0b16c00f": {
+  "en": "Close the dice tray",
+  "t": "Cerrar la bandeja de dados"
+ },
+ "9c7f6566adea": {
+  "en": "d20 mode",
+  "t": "Modo del d20"
+ },
+ "9c9bce6ec28e": {
+  "en": "No adventurers yet. Make a new one, or start from one of the nine pre-made adventurers.",
+  "t": "Todavía no hay aventureros. Crea uno nuevo, o empieza con uno de los nueve aventureros ya hechos."
+ },
+ "9cfe4d427e74": {
+  "en": "Clear",
+  "t": "Borrar"
+ },
+ "9d1666b2445a": {
+  "en": "Encounter",
+  "t": "Encuentro"
+ },
+ "9de1bb6d2826": {
+  "en": "You're offline. Showing what's saved on this device.",
+  "t": "No tienes conexión. Se muestra lo guardado en este dispositivo."
+ },
+ "9de61a638be5": {
+  "en": "Switch to DM mode",
+  "t": "Cambiar al modo DM"
+ },
+ "9eb43f0bb041": {
+  "en": "Search the rules and lore",
+  "t": "Buscar en las reglas y el lore"
+ },
+ "9ec5867e234e": {
+  "en": "Revived at an embassy",
+  "t": "Reanimado en una embajada"
+ },
+ "9edeb5a94c95": {
+  "en": "{month} {day}, {year} A.G.",
+  "t": "{month} {day}, {year} A.G."
+ },
+ "9f44d7396279": {
+  "en": "{date}: d6 {n}, no change ({mood})",
+  "t": "{date}: d6 {n}, sin cambios ({mood})"
+ },
+ "9fc23c1779af": {
+  "en": "Get to know the world",
+  "t": "Conoce el mundo"
+ },
+ "9ff8839750c0": {
+  "en": "Body on ice",
+  "t": "Cuerpo en hielo"
+ },
+ "a02a0e524ef4": {
+  "en": "Contract (back)",
+  "t": "Contrato (reverso)"
+ },
+ "a05a66c186c3": {
+  "en": "Payment (d6)",
+  "t": "Pago (d6)"
+ },
+ "a0c34b506624": {
+  "en": "Skim the world at a glance if you don't know the series.",
+  "t": "Échale un vistazo al mundo de un vistazo si no conoces la serie."
+ },
+ "a11c9367021d": {
+  "en": "Post a <b>Party Wanted</b> sign-up so others can join.",
+  "t": "Cuelga una hoja de <b>Se busca grupo</b> para que otros se unan."
+ },
+ "a145238b6d72": {
+  "en": "This replaces the circles and clears this trip's events. Go ahead?",
+  "t": "Esto sustituye los círculos y borra los eventos del viaje. ¿Seguimos?"
+ },
+ "a19f69767390": {
+  "en": "Year",
+  "t": "Año"
+ },
+ "a1ae9e90235a": {
+  "en": "Quest rank",
+  "t": "Rango de la misión"
+ },
+ "a1b825a8d30b": {
+  "en": "Delete trip",
+  "t": "Borrar viaje"
+ },
+ "a1f92c9c9304": {
+  "en": "DM guide",
+  "t": "Guía del DM"
+ },
+ "a237abf43d43": {
+  "en": "Dates",
+  "t": "Fechas"
+ },
+ "a259862da7cd": {
+  "en": "Normal",
+  "t": "Normal"
+ },
+ "a26e596e5506": {
+  "en": "Talking their way out: DC {dc}",
+  "t": "Salir del paso hablando: DC {dc}"
+ },
+ "a28584e991b3": {
+  "en": "Spell or ring tier",
+  "t": "Nivel del conjuro o anillo"
+ },
+ "a2f28c5e97ee": {
+  "en": "I'm playing",
+  "t": "Yo juego"
+ },
+ "a348695eecca": {
+  "en": "You're ready. Grab a quest, sign in blood, and come back alive.",
+  "t": "Ya estás listo. Coge una misión, firma con sangre y vuelve con vida."
+ },
+ "a49efba97da0": {
+  "en": "Label, like Long Bridge",
+  "t": "Etiqueta, como Long Bridge"
+ },
+ "a4d30719f6bc": {
+  "en": "Until it's paid, half of every quest reward goes to Forway. Die again while you owe and you're drafted into the Forway Guard.",
+  "t": "Hasta que se pague, la mitad de cada recompensa de misión va a Forway. Muere otra vez mientras debes y te reclutan en la Guardia de Forway."
+ },
+ "a4eaeecb552e": {
+  "en": "That file isn't valid JSON.",
+  "t": "Ese archivo no es un JSON válido."
+ },
+ "a4fad2a9d571": {
+  "en": "Weekday (optional)",
+  "t": "Día de la semana (opcional)"
+ },
+ "a52bc972f48f": {
+  "en": "{circles}, {days} one way",
+  "t": "{circles}, {days} de ida"
+ },
+ "a531ab64af69": {
+  "en": "The party",
+  "t": "El grupo"
+ },
+ "a544b6870d4d": {
+  "en": "Go to the travel planner",
+  "t": "Ir al planificador de viajes"
+ },
+ "a5489aa98707": {
+  "en": "Circle {n} of {total}",
+  "t": "Círculo {n} de {total}"
+ },
+ "a578eb54bc04": {
+  "en": "Who's here",
+  "t": "Quién está aquí"
+ },
+ "a5aad12520e4": {
+  "en": "Include",
+  "t": "Incluir"
+ },
+ "a607de86f35c": {
+  "en": "No roll this shift",
+  "t": "Sin tirada en este turno"
+ },
+ "a6138035f4c4": {
+  "en": "Con modifier",
+  "t": "Modificador de Constitución"
+ },
+ "a629e2c01a37": {
+  "en": "Departure roll d6 {n}: {what}",
+  "t": "Tirada al partir d6 {n}: {what}"
+ },
+ "a65de37275b3": {
+  "en": "Graveyard",
+  "t": "Madrugada"
+ },
+ "a6a0983f5063": {
+  "en": "From <a href=\"{url}\">The Inside Job</a>. Once per day after a raid, a patrol finds the party if a d6 rolls under the Heat. Lying at the debrief or to guards: DC {dc}.",
+  "t": "De <a href=\"{url}\">El Trabajo Interno</a>. Una vez al día tras un golpe, una patrulla encuentra al grupo si un d6 saca menos que la Sospecha. Mentir en el informe o a los guardias: DC {dc}."
+ },
+ "a7533461b525": {
+  "en": "{n} still to run.",
+  "t": "Quedan {n} por jugar."
+ },
+ "a76453a2df5f": {
+  "en": "Step {n} of {total}",
+  "t": "Paso {n} de {total}"
+ },
+ "a7de2730fdf2": {
+  "en": "Save it in My adventurers",
+  "t": "Guárdalo en Mis aventureros"
+ },
+ "a7f53e96f0a7": {
+  "en": "Encounter table",
+  "t": "Tabla de encuentros"
+ },
+ "a8b05c31595c": {
+  "en": "Filter by name, region or ability",
+  "t": "Filtrar por nombre, región o habilidad"
+ },
+ "a8c04ac1b6fd": {
+  "en": "That doesn't look like a roll. Try 2d6+3, d20, or 4d6kh3.",
+  "t": "Eso no parece una tirada. Prueba con 2d6+3, d20 o 4d6kh3."
+ },
+ "a8db28bae00c": {
+  "en": "lvl {n}",
+  "t": "nv. {n}"
+ },
+ "a8e3f91b3a8a": {
+  "en": "Set Soul Points to {n}",
+  "t": "Poner Soul Points a {n}"
+ },
+ "a918d2f284bd": {
+  "en": "Type a roll, like 2d6+3.",
+  "t": "Escribe una tirada, como 2d6+3."
+ },
+ "a9375535a2b0": {
+  "en": "Cargo escort: the Inside Job offer can happen",
+  "t": "Escolta de carga: puede llegar la oferta del Trabajo Interno"
+ },
+ "a95f918aa5ca": {
+  "en": "Make your adventurer",
+  "t": "Crea tu aventurero"
+ },
+ "a9ff71a9ef79": {
+  "en": "Start over? This clears trips, the party, campaign tracking and characters saved in this browser. Download a save file first if you want a backup.",
+  "t": "¿Empezar de cero? Se borran los viajes, el grupo, el seguimiento de la campaña y los personajes guardados en este navegador. Descarga antes un archivo de guardado si quieres una copia."
+ },
+ "ab403ed4eaa4": {
+  "en": "Their cut (d6)",
+  "t": "Su parte (d6)"
+ },
+ "ab45218932a2": {
+  "en": "{hp} of {max} HP",
+  "t": "{hp} de {max} HP"
+ },
+ "ab4997024894": {
+  "en": "Calculators",
+  "t": "Calculadoras"
+ },
+ "ac408669bedc": {
+  "en": "How to use them",
+  "t": "Cómo usarlos"
+ },
+ "ac7b8f7cf08b": {
+  "en": "Shifts with no event yet, with space to write what happens",
+  "t": "Turnos todavía sin evento, con espacio para escribir qué pasa"
+ },
+ "acb88cb9a6d5": {
+  "en": "Your progress stays here",
+  "t": "Tu progreso se queda aquí"
+ },
+ "ad96b02855bd": {
+  "en": "What each faction wants",
+  "t": "Qué quiere cada facción"
+ },
+ "adab8dadcb78": {
+  "en": "Notes",
+  "t": "Notas"
+ },
+ "ae12bde7f751": {
+  "en": "{n} more in DM pages; switch to DM mode to see them.",
+  "t": "{n} más en páginas del DM; cambia al modo DM para verlos."
+ },
+ "ae9fe17be482": {
+  "en": "Days for this circle",
+  "t": "Días de este círculo"
+ },
+ "aee2c911a6f4": {
+  "en": "Everything awake. Waves of undead with five Flathead commanders. Kingdom Alert.",
+  "t": "Todo despierto. Oleadas de no muertos con cinco comandantes Flathead. Alerta del Reino."
+ },
+ "aef2c6539d60": {
+  "en": "New adventurer",
+  "t": "Nuevo aventurero"
+ },
+ "af200952052b": {
+  "en": "Untitled trip",
+  "t": "Viaje sin título"
+ },
+ "afca1e32887d": {
+  "en": "Circle {n} <span class=\"muted\">of {total}</span>",
+  "t": "Círculo {n} <span class=\"muted\">de {total}</span>"
+ },
+ "afd4764ce229": {
+  "en": "Start over",
+  "t": "Empezar de cero"
+ },
+ "b04aca8b8ade": {
+  "en": "{rank} quest",
+  "t": "Misión {rank}"
+ },
+ "b1bc0b460618": {
+  "en": "This page can spoil surprises. If you're running the game, switch to DM mode.",
+  "t": "Esta página puede destripar sorpresas. Si diriges la partida, cambia al modo DM."
+ },
+ "b33de0752c52": {
+  "en": "Region",
+  "t": "Región"
+ },
+ "b3c061949396": {
+  "en": "Count the circles on the travel map: Forway to Sanbi is 6, Gandew to Sundeath is 19.",
+  "t": "Cuenta los círculos del mapa de viaje: de Forway a Sanbi son 6, de Gandew a Sundeath son 19."
+ },
+ "b4c85155890f": {
+  "en": "Save the sharp map for offline zooming (2 MB)",
+  "t": "Guardar el mapa nítido para hacer zoom sin conexión (2 MB)"
+ },
+ "b500b49cd575": {
+  "en": "{n} circles",
+  "t": "{n} círculos"
+ },
+ "b52888178696": {
+  "en": "Every stat block in the campaign: beasts, fauna and people.",
+  "t": "Todos los bloques de estadísticas de la campaña: bestias, fauna y personas."
+ },
+ "b52f7ba525b3": {
+  "en": "Party (who went)",
+  "t": "Grupo (quién fue)"
+ },
+ "b546cd7b92de": {
+  "en": "Show the whole map",
+  "t": "Ver el mapa entero"
+ },
+ "b55153d01d5c": {
+  "en": "Install as an app",
+  "t": "Instalar como aplicación"
+ },
+ "b5f6652d6c05": {
+  "en": "Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise.",
+  "t": "Creación de personajes normal de 5e con un toque de Vraki. Empiezas en nivel 1 como aventurero Pearl, salvo que el DM diga otra cosa."
+ },
+ "b60e8e8360ab": {
+  "en": "Roll {dice}",
+  "t": "Tirar {dice}"
+ },
+ "b7538aa7f2be": {
+  "en": "{n} pearls",
+  "t": "{n} pearls"
+ },
+ "b7b01d174cc4": {
+  "en": "Handouts saved for offline use",
+  "t": "Material guardado para usar sin conexión"
+ },
+ "b7b621ec595b": {
+  "en": "you can cast it",
+  "t": "puedes lanzarlo"
+ },
+ "b8aec19adbda": {
+  "en": "Round {n}",
+  "t": "Asalto {n}"
+ },
+ "b8f2bb9f9fdb": {
+  "en": "This site is your character sheet helper during play.",
+  "t": "Este sitio te ayuda con la hoja de personaje durante la partida."
+ },
+ "b96908ad3d07": {
+  "en": "Results",
+  "t": "Resultados"
+ },
+ "b9afcd4eac9c": {
+  "en": "{pearls} left over: buy a round",
+  "t": "Sobran {pearls}: paga una ronda"
+ },
+ "ba4a343923db": {
+  "en": "Inside Job",
+  "t": "Trabajo Interno"
+ },
+ "bad6c0ac79e5": {
+  "en": "They",
+  "t": "El aventurero"
+ },
+ "bb0dfa1d5983": {
+  "en": "{name} added to {trip}.",
+  "t": "{name} añadido a {trip}."
+ },
+ "bb1d1fe227ad": {
+  "en": "Stat block for {name}",
+  "t": "Estadísticas de {name}"
+ },
+ "bb7f81b66eb5": {
+  "en": "Look up the creatures you'll need in the bestiary.",
+  "t": "Busca en el bestiario las criaturas que vayas a necesitar."
+ },
+ "bc14ce1f16c1": {
+  "en": "{n} nari stones",
+  "t": "{n} nari stones"
+ },
+ "bd6017a3174c": {
+  "en": "No trips yet. Plan one first, then come back to print it.",
+  "t": "Todavía no hay viajes. Planifica uno primero y vuelve para imprimirlo."
+ },
+ "bd7001db87e7": {
+  "en": "Who was on watch, what they did, loot, consequences…",
+  "t": "Quién hacía guardia, qué hicieron, botín, consecuencias…"
+ },
+ "bea1c7ab1372": {
+  "en": "Set up",
+  "t": "Preparación"
+ },
+ "bf51489db17c": {
+  "en": "A handful of rules change how the game feels. Skim them now; the DM will remind you at the table.",
+  "t": "Unas cuantas reglas cambian cómo se siente el juego. Échales un vistazo ahora; el DM te las recordará en la mesa."
+ },
+ "bfd74d26bc53": {
+  "en": "{n} amethysts",
+  "t": "{n} amethysts"
+ },
+ "c04646b67a94": {
+  "en": "Travel & events",
+  "t": "Viajes y eventos"
+ },
+ "c07b0b00578f": {
+  "en": "Died on",
+  "t": "Murió el"
+ },
+ "c0833adfe000": {
+  "en": "Raise",
+  "t": "Subir"
+ },
+ "c09396526fc2": {
+  "en": "Print a trip",
+  "t": "Imprimir un viaje"
+ },
+ "c0fdfe221d43": {
+  "en": "Saved {time}",
+  "t": "Guardado a las {time}"
+ },
+ "c12f0e8d7ce9": {
+  "en": "Read <b>How a West March runs</b> in the DM guide.",
+  "t": "Lee <b>Cómo funciona una West March</b> en la guía del DM."
+ },
+ "c1433ebf32b4": {
+  "en": "{month} {day}",
+  "t": "{month} {day}"
+ },
+ "c167eb27878c": {
+  "en": "A hint of: {what}",
+  "t": "Un indicio de: {what}"
+ },
+ "c18b786fd157": {
+  "en": "Every road and sea lane",
+  "t": "Todos los caminos y rutas marítimas"
+ },
+ "c19474015cf5": {
+  "en": "Exhaustion level {n}",
+  "t": "Nivel de cansancio {n}"
+ },
+ "c198d1306fd8": {
+  "en": "Faction reputation",
+  "t": "Reputación con las facciones"
+ },
+ "c21d0058bbf9": {
+  "en": "Label for this circle",
+  "t": "Etiqueta de este círculo"
+ },
+ "c2745f64fa90": {
+  "en": "Grab a quest. Sign in blood. Come back alive.",
+  "t": "Coge una misión. Firma con sangre. Vuelve con vida."
+ },
+ "c2db85e96205": {
+  "en": "One-page reference card",
+  "t": "Tarjeta de referencia de una página"
+ },
+ "c2f29f89430e": {
+  "en": "First day of the trip",
+  "t": "Primer día del viaje"
+ },
+ "c348746f0425": {
+  "en": "{n} days",
+  "t": "{n} días"
+ },
+ "c388207782c5": {
+  "en": "Back to the planner",
+  "t": "Volver al planificador"
+ },
+ "c38ae85a7237": {
+  "en": "Couldn't load this page",
+  "t": "No se ha podido cargar esta página"
+ },
+ "c4c39aa5c54b": {
+  "en": "Trip",
+  "t": "Viaje"
+ },
+ "c512e926c921": {
+  "en": "Person",
+  "t": "Persona"
+ },
+ "c52b9da892d6": {
+  "en": "Status",
+  "t": "Estado"
+ },
+ "c531b1b7f157": {
+  "en": "Events",
+  "t": "Eventos"
+ },
+ "c564fbf4538b": {
+  "en": "In a hurry? Take one of the nine pre-made level 3 adventurers.",
+  "t": "¿Tienes prisa? Coge uno de los nueve aventureros de nivel 3 ya hechos."
+ },
+ "c573ce79b108": {
+  "en": "Aquamarines",
+  "t": "Aquamarines"
+ },
+ "c591968fda33": {
+  "en": "{fast} days at Fast · {std} at Standard · {slow} at Slow",
+  "t": "{fast} días a ritmo Rápido · {std} a Normal · {slow} a Lento"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "Desde"
+ },
+ "c62c3d9454a5": {
+  "en": "12am–6am",
+  "t": "0:00–6:00"
+ },
+ "c64a87a0529d": {
+  "en": "Amethysts",
+  "t": "Amethysts"
+ },
+ "c68ea525cb56": {
+  "en": "{n} sapphire",
+  "t": "{n} sapphire"
+ },
+ "c6b6472e2451": {
+  "en": "; dropped {list}",
+  "t": "; descartados {list}"
+ },
+ "c719515cbd2f": {
+  "en": "Pick your in-world year (default: the 1040s A.G.) and who's alive.",
+  "t": "Elige tu año en el mundo (por defecto, la década de 1040 A.G.) y quién sigue vivo."
+ },
+ "c78028284d74": {
+  "en": "Tier {roman}",
+  "t": "Nivel {roman}"
+ },
+ "c7b51769a9fd": {
+  "en": "Settings",
+  "t": "Ajustes"
+ },
+ "c83d0d215590": {
+  "en": "Roll an encounter (d12)",
+  "t": "Tirar un encuentro (d12)"
+ },
+ "c87daba3ac0d": {
+  "en": "What's really going on:",
+  "t": "Lo que pasa de verdad:"
+ },
+ "c8a9d51017e9": {
+  "en": "Angry",
+  "t": "Enfadado"
+ },
+ "c8ba866b7726": {
+  "en": "Day {n}, {shift}",
+  "t": "Día {n}, {shift}"
+ },
+ "c8cf2919f254": {
+  "en": "Print or share the handouts: quest board, Party Wanted, badge cards, the players' reference card.",
+  "t": "Imprime o comparte el material: el tablón de misiones, Se busca grupo, las tarjetas de insignia, la tarjeta de referencia de los jugadores."
+ },
+ "c8fd6125b109": {
+  "en": "Body kept on ice",
+  "t": "Cuerpo conservado en hielo"
+ },
+ "c9531522b042": {
+  "en": "Revived",
+  "t": "Reanimado"
+ },
+ "c95785a287d1": {
+  "en": "Once per circle (faster for long trips)",
+  "t": "Una vez por círculo (más rápido en viajes largos)"
+ },
+ "c99b50cb40d4": {
+  "en": "Restless",
+  "t": "Inquieto"
+ },
+ "ca2710f69bc9": {
+  "en": "Deal modifier",
+  "t": "Modificador del Trato"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "Rango"
+ },
+ "ca4daee5f703": {
+  "en": "Learn travel and events",
+  "t": "Aprende los viajes y los eventos"
+ },
+ "cabf599ee3ef": {
+  "en": "If the quest fails",
+  "t": "Si la misión fracasa"
+ },
+ "caf3f3c5721c": {
+  "en": "(+2-ish, Hash)",
+  "t": "(+2 más o menos, Hash)"
+ },
+ "cb06cf6e8001": {
+  "en": "Read <b>The World at a Glance</b> (about five minutes).",
+  "t": "Lee <b>El mundo de un vistazo</b> (unos cinco minutos)."
+ },
+ "cb9bb8301917": {
+  "en": "No trips yet.",
+  "t": "Todavía no hay viajes."
+ },
+ "ccde9424b8f7": {
+  "en": "Amount for {name}",
+  "t": "Cantidad para {name}"
+ },
+ "cce69349ac6b": {
+  "en": "Deadline = round trip plus 50%, rounded up. Each shift of travel is one of four per day.",
+  "t": "Plazo = ida y vuelta más un 50%, redondeando hacia arriba. Cada turno de viaje es uno de los cuatro del día."
+ },
+ "cd0d54e2cfdc": {
+  "en": "Add a pre-made one",
+  "t": "Añadir uno ya hecho"
+ },
+ "cd546f9635bc": {
+  "en": "e.g. Moacir 14th, or trip day 6",
+  "t": "p. ej. Moacir 14, o día 6 del viaje"
+ },
+ "cd5fc2553380": {
+  "en": "Every Graveyard and Night shift",
+  "t": "Cada turno de Madrugada y de Noche"
+ },
+ "cdb891719589": {
+  "en": "Nothing happens. Describe the scenery, or the food.",
+  "t": "No pasa nada. Describe el paisaje, o la comida."
+ },
+ "cea2b18d5c7f": {
+  "en": "Name",
+  "t": "Nombre"
+ },
+ "cfd20d2f37f2": {
+  "en": "<b>Go-between:</b> {who}. <b>Cut:</b> {cut}%. <b>Cargo:</b> {cargo}. <b>Payment:</b> {pay}.",
+  "t": "<b>Intermediario:</b> {who}. <b>Parte:</b> {cut}%. <b>Carga:</b> {cargo}. <b>Pago:</b> {pay}."
+ },
+ "cfd885014c06": {
+  "en": "One circle fewer",
+  "t": "Un círculo menos"
+ },
+ "d0813c1bbad9": {
+  "en": "Get ready to play",
+  "t": "Prepárate para jugar"
+ },
+ "d0f324416370": {
+  "en": "Settings: language and theme",
+  "t": "Ajustes: idioma y tema"
+ },
+ "d0fb3b18f08e": {
+  "en": "Circles from the map",
+  "t": "Círculos según el mapa"
+ },
+ "d195ee96b2c7": {
+  "en": "Next day",
+  "t": "Día siguiente"
+ },
+ "d28e8d65bb50": {
+  "en": "Character level",
+  "t": "Nivel del personaje"
+ },
+ "d3203205f15c": {
+  "en": "Regain 1 Soul Point",
+  "t": "Recuperar 1 Soul Point"
+ },
+ "d3292f103cde": {
+  "en": "Prepare a session",
+  "t": "Prepara una sesión"
+ },
+ "d358163edb12": {
+  "en": "Nothing to print for this circle.",
+  "t": "Nada que imprimir en este círculo."
+ },
+ "d3711318a9d1": {
+  "en": "Quest deadline",
+  "t": "Plazo de la misión"
+ },
+ "d3add19d62e8": {
+  "en": "Lower Heat",
+  "t": "Bajar la Sospecha"
+ },
+ "d493aae73a80": {
+  "en": "Know your way around already?",
+  "t": "¿Ya te mueves bien por aquí?"
+ },
+ "d528fd6bf472": {
+  "en": "Print or save as PDF",
+  "t": "Imprimir o guardar como PDF"
+ },
+ "d55f934d2c4b": {
+  "en": "Region (encounter table)",
+  "t": "Región (tabla de encuentros)"
+ },
+ "d5e802f2f64a": {
+  "en": "Days per circle",
+  "t": "Días por círculo"
+ },
+ "d60d4b2893ac": {
+  "en": "My adventurers",
+  "t": "Mis aventureros"
+ },
+ "d6ff375c5986": {
+  "en": "Your own event",
+  "t": "Tu propio evento"
+ },
+ "d746ce464925": {
+  "en": "Travel and quest deadline",
+  "t": "Viaje y plazo de la misión"
+ },
+ "d8564c5ee89f": {
+  "en": "Load a save file",
+  "t": "Cargar un archivo de guardado"
+ },
+ "d875d1a89e07": {
+  "en": "Roll Morning and Afternoon too",
+  "t": "Tirar también Mañana y Tarde"
+ },
+ "d8918bb008bd": {
+  "en": "{circles} from {from} to {to}.",
+  "t": "{circles} de {from} a {to}."
+ },
+ "d8f50deb5aa2": {
+  "en": "Every Graveyard and Night shift, plus Morning and Afternoon",
+  "t": "Cada turno de Madrugada y de Noche, más Mañana y Tarde"
+ },
+ "d91022df5c87": {
+  "en": "Secrets & danger",
+  "t": "Secretos y peligros"
+ },
+ "d962170decf4": {
+  "en": "Open each shift in the travel planner to run it: creatures, HP, initiative and notes.",
+  "t": "Abre cada turno en el planificador de viajes para jugarlo: criaturas, HP, iniciativa y notas."
+ },
+ "da444c4ea594": {
+  "en": "Advantage",
+  "t": "Ventaja"
+ },
+ "da5664ae21f9": {
+  "en": "Rampage",
+  "t": "Desmadre"
+ },
+ "da621eb881b1": {
+  "en": "Dark",
+  "t": "Oscuro"
+ },
+ "dbdd22cf4b3a": {
+  "en": "No entries yet.",
+  "t": "Todavía no hay entradas."
+ },
+ "dc606b9ae038": {
+  "en": "Cargo (d8)",
+  "t": "Carga (d8)"
+ },
+ "dc617689e195": {
+  "en": "House rules",
+  "t": "Reglas de la casa"
+ },
+ "dd575f78074a": {
+  "en": "Rations, round trip",
+  "t": "Raciones, ida y vuelta"
+ },
+ "ddd13ed8100b": {
+  "en": "DM secrets",
+  "t": "Secretos del DM"
+ },
+ "de262c99bfb6": {
+  "en": "Mark as not done",
+  "t": "Marcar como no hecho"
+ },
+ "de61280dff44": {
+  "en": "Rumors",
+  "t": "Rumores"
+ },
+ "df15d9765ea9": {
+  "en": "Skip to my adventurers",
+  "t": "Ir directamente a mis aventureros"
+ },
+ "df649c4546e2": {
+  "en": "Each share",
+  "t": "Cada parte"
+ },
+ "e01153b98411": {
+  "en": "Trip name",
+  "t": "Nombre del viaje"
+ },
+ "e04999c40e55": {
+  "en": "View or edit this page on GitHub",
+  "t": "Ver o editar esta página en GitHub"
+ },
+ "e08e6369fca5": {
+  "en": "How it works",
+  "t": "Cómo funciona"
+ },
+ "e0a9fe9472b5": {
+  "en": "Pick any class (magic is soul energy science) and a background.",
+  "t": "Elige cualquier clase (la magia es ciencia de energía del alma) y un trasfondo."
+ },
+ "e0d9b1cbee39": {
+  "en": "Roll on the campaign's tables between sessions or at the table. Results stack up below until you clear them.",
+  "t": "Tira en las tablas de la campaña entre sesiones o en la mesa. Los resultados se acumulan abajo hasta que los borres."
+ },
+ "e114c9cb8484": {
+  "en": "Nothing rolled yet.",
+  "t": "Todavía no se ha tirado nada."
+ },
+ "e133fa1cff0d": {
+  "en": "Almost there",
+  "t": "Ya casi está"
+ },
+ "e1ca394edb15": {
+  "en": "Same as trip ({region})",
+  "t": "Igual que el viaje ({region})"
+ },
+ "e1fc7c6553d2": {
+  "en": "Long rest",
+  "t": "Descanso largo"
+ },
+ "e215abe6da2e": {
+  "en": "Rolls from <a href=\"{url}\">The Inside Job</a>. The Deal roll stays secret: only you see this page.",
+  "t": "Tiradas de <a href=\"{url}\">El Trabajo Interno</a>. La tirada del Trato es secreta: solo tú ves esta página."
+ },
+ "e2c04f102a8f": {
+  "en": "HP now / notes",
+  "t": "HP ahora / notas"
+ },
+ "e33449a8c2ea": {
+  "en": "The world at a glance",
+  "t": "El mundo de un vistazo"
+ },
+ "e33cb445fad1": {
+  "en": "All world lore",
+  "t": "Todo el lore del mundo"
+ },
+ "e3d95e017a11": {
+  "en": "Month",
+  "t": "Mes"
+ },
+ "e43a6086ffe5": {
+  "en": "Clear every event on this trip, including fights and notes?",
+  "t": "¿Borrar todos los eventos de este viaje, incluidos combates y notas?"
+ },
+ "e49daa57c3e2": {
+  "en": "Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.",
+  "t": "Todo lo que escribes se guarda en este navegador sobre la marcha. Descarga un archivo de guardado para tener una copia o pasarlo a otro dispositivo."
+ },
+ "e49f8044651a": {
+  "en": "Encounters",
+  "t": "Encuentros"
+ },
+ "e4be842da18e": {
+  "en": "An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. Players come and go, every party starts and ends at a Forway embassy, and whatever one party finds stays found for everyone.",
+  "t": "Una campaña de D&amp;D 5e de mesa abierta en el mundo de #HusbandOutWorld. Los jugadores van y vienen, cada grupo empieza y termina en una embajada de Forway, y lo que encuentra un grupo queda encontrado para todos."
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "Sapphire"
+ },
+ "e5480c1499c9": {
+  "en": "Session log",
+  "t": "Diario de sesiones"
+ },
+ "e5666860cb4c": {
+  "en": "One roll per circle",
+  "t": "Una tirada por círculo"
+ },
+ "e5d3567a4cb3": {
+  "en": "Quiet. Doors open; a new room appears 1 in 6.",
+  "t": "Tranquilo. Las puertas se abren; aparece una sala nueva con 1 en 6."
+ },
+ "e5e4b9515f93": {
+  "en": "Mind the deadline: the round trip in days, plus 50%.",
+  "t": "Ojo con el plazo: el viaje de ida y vuelta en días, más un 50%."
+ },
+ "e673648959e5": {
+  "en": "Filter",
+  "t": "Filtrar"
+ },
+ "e75220723f0c": {
+  "en": "standard",
+  "t": "normal"
+ },
+ "e7b81ef0f33e": {
+  "en": "Back a day",
+  "t": "Un día atrás"
+ },
+ "e8465d92bca6": {
+  "en": "Printable props for the table: quest notices, wanted posters, a blood contract, badges and more. Print the whole set, or open one to show on screen.",
+  "t": "Atrezo imprimible para la mesa: avisos de misión, carteles de se busca, un contrato de sangre, insignias y más. Imprime el juego entero, o abre uno para enseñarlo en pantalla."
+ },
+ "e89b644521fd": {
+  "en": "Max Soul Points",
+  "t": "Soul Points máximos"
+ },
+ "e8e0f345bb52": {
+  "en": "Fill in From and To first.",
+  "t": "Rellena antes Desde y Hasta."
+ },
+ "e919dd6891e5": {
+  "en": "{start} to {end}",
+  "t": "del {start} al {end}"
+ },
+ "e98e9776f7f3": {
+  "en": "Today's Castle Mood",
+  "t": "Humor del Castillo de hoy"
+ },
+ "e992f20bdf71": {
+  "en": "Remove {name}?",
+  "t": "¿Quitar a {name}?"
+ },
+ "e99722740a42": {
+  "en": "Players drive a West March. Before a session, agree on a quest with whoever's free and tell the DM so they can prepare.",
+  "t": "En una West March mandan los jugadores. Antes de una sesión, acordad una misión con quien esté libre y avisad al DM para que se prepare."
+ },
+ "ea7972ec280c": {
+  "en": "The Inside Job",
+  "t": "El Trabajo Interno"
+ },
+ "eac6a30d75b8": {
+  "en": "<b>Heat</b> {n} · talking their way out: DC {dc}",
+  "t": "<b>Sospecha</b> {n} · salir del paso hablando: DC {dc}"
+ },
+ "eb450d95c9df": {
+  "en": "Making an adventurer",
+  "t": "Crear un aventurero"
+ },
+ "ec2681a0b9e9": {
+  "en": "World, lore and characters © Deovandski Skibinski Junior. Art by Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of Deovandski Skibinski Junior. Licensed CC-BY-NC-SA-4.0. Monetized videos and posts about it are welcome; other commercial use needs approval (<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> or <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>). Site text and code are AI-assisted; see the <a href=\"{url}\">AI disclosure</a>.",
+  "t": "Mundo, lore y personajes © Deovandski Skibinski Junior. Arte de Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> y #HusbandOutWorld son marcas de Deovandski Skibinski Junior. Licencia CC-BY-NC-SA-4.0. Los vídeos y publicaciones monetizados sobre la obra son bienvenidos; cualquier otro uso comercial necesita aprobación (<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> o <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>). El texto y el código del sitio se han hecho con ayuda de IA; consulta la <a href=\"{url}\">declaración sobre IA</a>."
+ },
+ "ec796ebf3015": {
+  "en": "Player 101",
+  "t": "Jugador 101"
+ },
+ "ed0c9ac14f52": {
+  "en": "Long rest: HP restored, +1 SP, −1 exhaustion for everyone still standing.",
+  "t": "Descanso largo: HP recuperados, +1 SP, −1 de cansancio para todos los que siguen en pie."
+ },
+ "ed4a38fe9259": {
+  "en": "DM",
+  "t": "DM"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "Aquamarine"
+ },
+ "edf860e1b012": {
+  "en": "Download a save file now and then as a backup.",
+  "t": "Descarga de vez en cuando un archivo de guardado como copia."
+ },
+ "ee41d8fc4331": {
+  "en": "Circles to go",
+  "t": "Círculos por recorrer"
+ },
+ "ee5807acbeef": {
+  "en": "about <b>{days}</b>",
+  "t": "unos <b>{days}</b>"
+ },
+ "efb7751b866b": {
+  "en": "nothing",
+  "t": "nada"
+ },
+ "f1989158ed20": {
+  "en": "Count a purse",
+  "t": "Contar una bolsa"
+ },
+ "f1abfbed9a87": {
+  "en": "Castle Mood rules",
+  "t": "Reglas del Humor del Castillo"
+ },
+ "f1b8b438a53d": {
+  "en": "The fewest circles, adding up legs through towns. Numbers from the <a href=\"{url}\">route lengths table</a>.",
+  "t": "Los menos círculos posibles, sumando tramos a través de pueblos. Números sacados de la <a href=\"{url}\">tabla de longitudes de rutas</a>."
+ },
+ "f2be7a7f42df": {
+  "en": "Pick an entry…",
+  "t": "Elige una entrada…"
+ },
+ "f2c02022cd69": {
+  "en": "Quiet",
+  "t": "Tranquilo"
+ },
+ "f371cc88e321": {
+  "en": "Cut:",
+  "t": "Parte:"
+ },
+ "f396a3d9935f": {
+  "en": "Something hints at this: {what} (tracks, smoke, a rumor, a corpse).",
+  "t": "Algo lo anticipa: {what} (huellas, humo, un rumor, un cadáver)."
+ },
+ "f3c0778bcb91": {
+  "en": "Encounters come from the d12 table for the region.",
+  "t": "Los encuentros salen de la tabla d12 de la región."
+ },
+ "f3fdebd36879": {
+  "en": "No one yet. Add creatures from the stat blocks, a custom foe, or the party.",
+  "t": "Todavía no hay nadie. Añade criaturas de los bloques de estadísticas, un enemigo propio o el grupo."
+ },
+ "f4679e69ca85": {
+  "en": "The players pick where to go: a quest from the board, a rumor or a spot on the map.",
+  "t": "Los jugadores eligen adónde ir: una misión del tablón, un rumor o un punto del mapa."
+ },
+ "f4768c03d6f5": {
+  "en": "Vraki is also the name of the world's script, which began as a 2017 app.",
+  "t": "Vraki es también el nombre de la escritura del mundo, que empezó como una aplicación en 2017."
+ },
+ "f54ee2b6896a": {
+  "en": "The world",
+  "t": "El mundo"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "Hasta"
+ },
+ "f605103556c3": {
+  "en": "{date}: d6 {n}, mood {before} → {after} ({mood})",
+  "t": "{date}: d6 {n}, humor {before} → {after} ({mood})"
+ },
+ "f635a4e7a3ae": {
+  "en": "At the table",
+  "t": "En la mesa"
+ },
+ "f6aa2d089474": {
+  "en": "Six steps to run your first session, and the loop you'll repeat before and after each one. Open the links when you need the details.",
+  "t": "Seis pasos para dirigir tu primera sesión, y el ciclo que repetirás antes y después de cada una. Abre los enlaces cuando necesites los detalles."
+ },
+ "f6bcbf214bcf": {
+  "en": "Quick math for balls, travel, deadlines, revival debt and soul energy, using this campaign's rules. Change any number and the answer updates.",
+  "t": "Cuentas rápidas de bolas, viajes, plazos, deuda de reanimación y energía del alma, con las reglas de esta campaña. Cambia cualquier número y la respuesta se actualiza."
+ },
+ "f6e026cfb826": {
+  "en": "Tools",
+  "t": "Herramientas"
+ },
+ "f7fd9362ad7e": {
+  "en": "Nothing set for this shift. Roll it, or pick what happens above.",
+  "t": "No hay nada en este turno. Tíralo, o elige arriba qué pasa."
+ },
+ "f81f2b2637b7": {
+  "en": "Skip to content",
+  "t": "Saltar al contenido"
+ },
+ "f840581b4a7a": {
+  "en": "Sharp map saved for offline use",
+  "t": "Mapa nítido guardado para usar sin conexión"
+ },
+ "f8a5de5d3b0e": {
+  "en": "Save and load",
+  "t": "Guardar y cargar"
+ },
+ "f95ed6f5d34d": {
+  "en": "Furious",
+  "t": "Furioso"
+ },
+ "f989f6cb1446": {
+  "en": "Soul Points and tiers",
+  "t": "Soul Points y niveles"
+ },
+ "f99a1715bda2": {
+  "en": "<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid.",
+  "t": "<b>Muerte:</b> lleva tu cuerpo a una embajada a tiempo y Forway te reanima; después se queda con el 50% de tu paga de misiones hasta que saldes la deuda."
+ },
+ "faa835e761a9": {
+  "en": "Delete “{name}” and all its events?",
+  "t": "¿Borrar «{name}» y todos sus eventos?"
+ },
+ "fac7838424a1": {
+  "en": "Handout gallery",
+  "t": "Galería de material"
+ },
+ "faf9e6c2da19": {
+  "en": "Plan the trip in the <b>travel planner</b>: pick From and To and it counts the circles from the map; set the days per circle, then roll the events.",
+  "t": "Planifica el viaje en el <b>planificador de viajes</b>: elige Desde y Hasta y cuenta los círculos del mapa; fija los días por círculo y luego tira los eventos."
+ },
+ "fb8e3afdbfba": {
+  "en": "Save file loaded.",
+  "t": "Archivo de guardado cargado."
+ },
+ "fbea82286f78": {
+  "en": "Rolled twice: (1) {a} (2) {b}",
+  "t": "Tirado dos veces: (1) {a} (2) {b}"
+ },
+ "fcc20146dd3d": {
+  "en": "Site",
+  "t": "Sitio"
+ },
+ "fcd49b4c4a7b": {
+  "en": "Save file downloaded.",
+  "t": "Archivo de guardado descargado."
+ },
+ "fce5960036ad": {
+  "en": "In-world date",
+  "t": "Fecha en el mundo"
+ },
+ "fcf13a9483de": {
+  "en": "Reputation with {name}",
+  "t": "Reputación con {name}"
+ },
+ "fd6d73ae6d1e": {
+  "en": "Table entry",
+  "t": "Entrada de la tabla"
+ },
+ "febd2122d0ca": {
+  "en": "Dead",
+  "t": "Muerto"
+ },
+ "fed56c5c5c1d": {
+  "en": "{n} of {total} steps done",
+  "t": "{n} de {total} pasos hechos"
+ },
+ "ff16e2bcf015": {
+  "en": "Replace this shift's event? Its notes and fight go too.",
+  "t": "¿Sustituir el evento de este turno? Sus notas y su combate también se van."
+ },
+ "ff17ae0d0e6e": {
+  "en": "the offer comes before they leave.",
+  "t": "la oferta llega antes de que salgan."
+ },
+ "ff53306cf2ab": {
+  "en": "Add the party ({n})",
+  "t": "Añadir el grupo ({n})"
+ },
+ "ff77049abf40": {
+  "en": "d6 {n}: {pct}% of the cargo's value. Each successful DC 13 Persuasion adds 10% (max 60%).",
+  "t": "d6 {n}: el {pct}% del valor de la carga. Cada tirada de Persuasión con éxito a DC 13 suma un 10% (máx. 60%)."
+ },
+ "ff951936ea78": {
+  "en": "Quest board",
+  "t": "Tablón de misiones"
+ },
+ "ffa2caa57460": {
+  "en": "Dangerous trip: encounters on 1–2",
+  "t": "Viaje peligroso: encuentros con 1–2"
+ }
+}

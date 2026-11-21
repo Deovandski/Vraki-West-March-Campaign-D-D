@@ -1,0 +1,102 @@
+{
+ "1dee0689b9e7": {
+  "en": "Sleepy",
+  "t": "졸림"
+ },
+ "229180c589d5": {
+  "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
+  "t": "−3 쫓김 · −2 적대 · −1 불신 · 0 모름 · +1 우호 · +2 신뢰 · +3 가족. 세션당 최대 한 단계."
+ },
+ "2d6f2ef30ed8": {
+  "en": "Reward",
+  "t": "보수"
+ },
+ "380957daf1b3": {
+  "en": "Deadline",
+  "t": "기한"
+ },
+ "3e6b78d7874f": {
+  "en": "Player",
+  "t": "플레이어"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "애머시스트"
+ },
+ "585cdf11ff4a": {
+  "en": "Grumpy",
+  "t": "심술"
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "펄"
+ },
+ "5c7d6a88a590": {
+  "en": "Pearls",
+  "t": "펄"
+ },
+ "6003ecad9b4e": {
+  "en": "Revival window",
+  "t": "부활 기한"
+ },
+ "849cc321f202": {
+  "en": "Level",
+  "t": "레벨"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "서클"
+ },
+ "8b93e371e76e": {
+  "en": "Cargo",
+  "t": "화물"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "출발지"
+ },
+ "c8a9d51017e9": {
+  "en": "Angry",
+  "t": "분노"
+ },
+ "c9531522b042": {
+  "en": "Revived",
+  "t": "부활함"
+ },
+ "c99b50cb40d4": {
+  "en": "Restless",
+  "t": "불안"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "등급"
+ },
+ "cea2b18d5c7f": {
+  "en": "Name",
+  "t": "이름"
+ },
+ "e3d95e017a11": {
+  "en": "Month",
+  "t": "월"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "사파이어"
+ },
+ "ed4a38fe9259": {
+  "en": "DM",
+  "t": "DM"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "아쿠아마린"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "목적지"
+ },
+ "f95ed6f5d34d": {
+  "en": "Furious",
+  "t": "격노"
+ }
+}
