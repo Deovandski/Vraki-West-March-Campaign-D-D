@@ -1,0 +1,430 @@
+{
+ "026788607cf3": {
+  "en": "Ptaina scrambling every compass",
+  "t": "모든 나침반을 엉망으로 만드는 프타이나"
+ },
+ "04c03bf816a4": {
+  "en": "A Koalin in the grass (everyone feels dread)",
+  "t": "풀숲에 코알린(모두가 두려움을 느낀다)"
+ },
+ "05c50fc377f3": {
+  "en": "Hifuna People grove (1d2)",
+  "t": "히푸나 피플 숲(1d2)"
+ },
+ "086d874806e7": {
+  "en": "A Freeish Blood-group hunting party tests whether you're \"worth a damn\"",
+  "t": "프리이시 피의 무리 사냥대가 너희가 ‘쓸 만한지’ 시험한다"
+ },
+ "094d424d94e9": {
+  "en": "Ptaina stuns fish (and your helmsman)",
+  "t": "프타이나가 물고기를(그리고 키잡이를) 기절시킨다"
+ },
+ "0990cd2fea79": {
+  "en": "A lighthouse gone dark",
+  "t": "꺼진 등대"
+ },
+ "0b3a6b12e105": {
+  "en": "Eerie silence — no event, but everyone feels watched from the north",
+  "t": "으스스한 정적 — 이벤트는 없지만, 모두가 북쪽에서 감시당하는 느낌을 받는다"
+ },
+ "108ae2c42f06": {
+  "en": "Sucker Lady begins stalking one character (it attacks in 1d3 nights)",
+  "t": "서커 레이디가 캐릭터 한 명을 미행하기 시작한다(1d3밤 뒤 공격)"
+ },
+ "11f13917c300": {
+  "en": "Black Sapphire symbol scratched on a rock",
+  "t": "바위에 긁어 새긴 블랙 사파이어 표식"
+ },
+ "13cfb6aae192": {
+  "en": "Abandoned watchtower with a dead adventurer and a half-full water skin",
+  "t": "죽은 모험가와 반쯤 찬 물주머니가 있는 버려진 망루"
+ },
+ "16234851d29f": {
+  "en": "Use the region the party is crossing. Stat blocks are in [Stat Blocks](Stat%20Blocks). Scale numbers to the party.",
+  "t": "일행이 지나고 있는 지역을 쓴다. 수치는 [수치 모음](Stat%20Blocks)에 있다. 수는 일행에 맞춰 조절하라."
+ },
+ "1bf5868659d3": {
+  "en": "A Walking Heart stone glinting in the rubble",
+  "t": "잔해 속에서 반짝이는 워킹 하트 돌"
+ },
+ "1d94fa5e7b51": {
+  "en": "On any wagon or cargo escort, a go-between may offer the party a cut for helping the bandits rob the wagon they're guarding. Roll a d6 at departure (offer on a **1**), or swap it in for a night encounter, once per escort. Full rules: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md).",
+  "t": "수레나 화물 호위 중에는 중개인이 일행에게, 지키고 있는 수레를 산적이 터는 것을 도우면 몫을 주겠다고 제안할 수 있다. 출발할 때 d6을 굴리거나(**1**이면 제안), 밤 조우 하나와 바꿔 넣는다. 호위당 한 번. 전체 규칙: [내부자 작업](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)."
+ },
+ "1e45d3804d15": {
+  "en": "A stray Egua that loves whoever feeds it",
+  "t": "먹이를 주는 사람이면 누구든 좋아하는 길 잃은 에구아"
+ },
+ "1f6e45cce440": {
+  "en": "Sanbi Coast & Swamps (Sanbi, Long Bridge, Aldemeri, Cruro, Tastyleaf)",
+  "t": "산비 해안과 늪(산비, 롱 브리지, 알데메리, 크루로, 테이스티리프)"
+ },
+ "20a0ab641deb": {
+  "en": "Wood People bandits herding trees toward a wagon",
+  "t": "수레 쪽으로 나무를 몰아가는 우드 피플 산적"
+ },
+ "22965fb8810a": {
+  "en": "Combat",
+  "t": "전투"
+ },
+ "22b0f27c7a28": {
+  "en": "Blue Wozens \"donation\" checkpoint (1 boss + 1d4+2 bandits) — they'd rather take your balls than your life (escorting cargo? they may make an offer instead: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))",
+  "t": "블루 워젠스의 ‘기부’ 검문소(두목 1 + 산적 1d4+2) — 목숨보다 볼을 가져가는 쪽을 좋아한다(화물을 호위 중이라면? 대신 제안을 할 수도 있다: [내부자 작업](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))"
+ },
+ "249fc620635b": {
+  "en": "Old Fuhrair gamblers with a \"foolproof\" claim map",
+  "t": "‘절대 틀림없는’ 채굴권 지도를 든 올드 푸레어 도박꾼"
+ },
+ "25840c471123": {
+  "en": "Sea fog: Survival DC 13 or +1 day",
+  "t": "바다 안개: DC 13 생존에 실패하면 +1일"
+ },
+ "25b4a3b146f3": {
+  "en": "Region tables (d12)",
+  "t": "지역 표(d12)"
+ },
+ "27dcdf3d3fee": {
+  "en": "A Fihi-infested reef",
+  "t": "피히가 들끓는 암초"
+ },
+ "2c647e1774d8": {
+  "en": "Brunto stowaway (Endlessfog)",
+  "t": "브룬토 밀항자(엔들리스포그)"
+ },
+ "2c9b6a2d8f0c": {
+  "en": "Crazed Muckman wandering, ignoring you unless provoked",
+  "t": "크레이즈드 머크맨이 돌아다닌다. 도발하지 않으면 무시한다"
+ },
+ "2f2be1bda092": {
+  "en": "Fatupari launches out of a tree",
+  "t": "파투파리가 나무에서 몸을 날린다"
+ },
+ "2f4d08c5f643": {
+  "en": "A Fanchaki swarm stampedes through camp",
+  "t": "판차키 떼가 야영지를 휩쓸고 지나간다"
+ },
+ "307cd2673845": {
+  "en": "Events & Encounters",
+  "t": "이벤트와 조우"
+ },
+ "322cb365035b": {
+  "en": "Radiation surge: everyone makes an exposure save",
+  "t": "방사능 급증: 모두 노출 내성 굴림을 한다"
+ },
+ "3273a814b0e9": {
+  "en": "Corpse with a Monika butterfly on it — a dead adventurer; badge still on them (return it for 1 amethyst)",
+  "t": "모니카 나비가 앉아 있는 시체 — 죽은 모험가로, 신분패가 아직 달려 있다(돌려주면 1 애머시스트)"
+ },
+ "358e6e641d6b": {
+  "en": "When to roll",
+  "t": "굴릴 때"
+ },
+ "35c228db0fa4": {
+  "en": "A village festival (Blood & Soil, White Roundies) — free food, likely brawl",
+  "t": "마을 축제(피와 흙, 화이트 라운디스) — 공짜 음식, 아마 난투"
+ },
+ "36270072fc8a": {
+  "en": "Wozen pack hunting at night (1d4+1)",
+  "t": "밤에 사냥하는 워젠 무리(1d4+1)"
+ },
+ "3708b0559f87": {
+  "en": "Crocus pair invisible in the reeds (2)",
+  "t": "갈대 속에 투명해진 크로커스 한 쌍(2)"
+ },
+ "38d18b46a770": {
+  "en": "Rumors (d10)",
+  "t": "소문(d10)"
+ },
+ "3b1ae16b7cbc": {
+  "en": "Smugglers with banned gels",
+  "t": "금지 젤을 가진 밀수꾼"
+ },
+ "3ea122432636": {
+  "en": "A Wozefaries baby glides down from the Goodbye Cliff (if near Gandew)",
+  "t": "워제파리에스 아기가 굿바이 절벽에서 활공해 내려온다(간듀 근처라면)"
+ },
+ "3edff9ca9ae2": {
+  "en": "Aldemeri bandits in the ruins (escorting cargo? one of them comes to camp with a proposal: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))",
+  "t": "폐허에 있는 알데메리 산적(화물 호위 중이라면? 한 명이 제안을 들고 야영지로 온다: [내부자 작업](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))"
+ },
+ "3ee29ff54486": {
+  "en": "A giant Sanbi fish rises and stares at the oldest person aboard",
+  "t": "거대한 산비 물고기가 떠올라 배에서 가장 나이 많은 사람을 빤히 본다"
+ },
+ "4036c9e595e4": {
+  "en": "Gandew guard alone on patrol, helmet locked; silent",
+  "t": "투구를 잠근 채 홀로 순찰하는 간듀 경비병. 말이 없다"
+ },
+ "420c4ce05c9c": {
+  "en": "Sanbi guards fishing off duty; offer to share",
+  "t": "비번에 낚시하는 산비 경비병. 나눠 먹자고 한다"
+ },
+ "442f7a4b8526": {
+  "en": "Ganyrami squatters offer a \"contract\" — no badges involved",
+  "t": "가니라미 무단 거주자들이 ‘계약’을 제안한다 — 신분패는 상관없다"
+ },
+ "4a00b48f6453": {
+  "en": "**Graveyard** and **Night** shifts: always roll.",
+  "t": "**심야**와 **밤** 시간대: 언제나 굴린다."
+ },
+ "4b4d01b3f883": {
+  "en": "Sandstorm: lost for a day unless DC 15 Survival",
+  "t": "모래 폭풍: DC 15 생존에 성공하지 못하면 하루 길을 잃는다"
+ },
+ "4ea1b0bf7f16": {
+  "en": "Night Wozens (1d3) stalk the camp",
+  "t": "밤의 워젠(1d3)이 야영지를 노린다"
+ },
+ "4fa889e9c34f": {
+  "en": "Toleridemian patrol in a big lazy pack; they won't negotiate",
+  "t": "덩치 크고 느긋한 무리로 움직이는 톨레리데메 순찰대. 협상하지 않는다"
+ },
+ "545d8f98b8c7": {
+  "en": "Newland driftwood carved with giant-sloth claw marks",
+  "t": "거대 나무늘보 발톱 자국이 새겨진, 뉴랜드에서 떠내려온 나무"
+ },
+ "54b43dc68a07": {
+  "en": "Who's watching?",
+  "t": "누가 지켜보고 있나?"
+ },
+ "54bb347fef8c": {
+  "en": "Cruro tribal hunters (1d4+1); smart ones draw first, dumb ones bite first",
+  "t": "크루로 부족 사냥꾼(1d4+1). 영리한 놈은 먼저 무기를 뽑고, 멍청한 놈은 먼저 문다"
+ },
+ "5520ba833739": {
+  "en": "Lansha herd (1d3)",
+  "t": "란샤 무리(1d3)"
+ },
+ "5bb2a0ccd2d5": {
+  "en": "A broken merchant wagon; the merchant swears it was \"an accident\" (ambush 50%)",
+  "t": "고장 난 상인 수레. 상인은 ‘사고’였다고 맹세한다(50% 매복)"
+ },
+ "5fd86e8c3566": {
+  "en": "Hifuna & the Far North",
+  "t": "히푸나와 먼 북쪽"
+ },
+ "620dcdf4f2d4": {
+  "en": "Zico with his journal (he's lost, and happy to see you)",
+  "t": "일지를 든 지코(길을 잃었고, 너희를 만나 반가워한다)"
+ },
+ "693417767245": {
+  "en": "**Event roll (d6):** **1** = encounter (roll on the region table) · **2** = sign or omen (tracks, smoke, a rumor, a corpse — something that hints at the region table) · **3–6** = nothing (describe the scenery or food).\nIncrease the chance (1–2 = encounter) in Slow-pace regions, at night, or if the party is loud, smelly (Bagarisa musk!) or carrying something valuable.",
+  "t": "**이벤트 굴림(d6):** **1** = 조우(지역 표에서 굴린다) · **2** = 징후나 전조(발자국, 연기, 소문, 시체 — 지역 표를 암시하는 무언가) · **3–6** = 아무 일 없음(풍경이나 음식을 묘사한다).\n느림 속도 지역, 밤, 또는 일행이 시끄럽거나, 냄새가 나거나(바가리사 사향!), 값비싼 것을 운반할 때는 확률을 올린다(1–2 = 조우)."
+ },
+ "694bd1f2f8d5": {
+  "en": "A vassal village walled with paralyzed Wood People asks for help",
+  "t": "마비시킨 우드 피플로 담을 두른 속국 마을이 도움을 청한다"
+ },
+ "6a9782e1674f": {
+  "en": "Big Winga shadow overhead (a wild one!)",
+  "t": "머리 위로 빅 윙가의 그림자(야생이다!)"
+ },
+ "6c0a0a19823b": {
+  "en": "Travelers going the other way: swap gossip (roll a rumor)",
+  "t": "반대 방향으로 가는 여행자: 뒷말을 주고받는다(소문 굴림)"
+ },
+ "6d56e7d72d98": {
+  "en": "**Morning** and **Afternoon** shifts: roll if you want (or skip them).",
+  "t": "**오전**과 **오후** 시간대: 원하면 굴린다(아니면 건너뛴다)."
+ },
+ "7933e1c26464": {
+  "en": "Sanbi fishers in trouble",
+  "t": "곤경에 처한 산비 어부"
+ },
+ "7a04aa16ee67": {
+  "en": "A Sundeath patrol looking for someone guilty (that could be you)",
+  "t": "누군가 유죄인 자를 찾는 선데스 순찰대(당신일 수도 있다)"
+ },
+ "7d2b5916d0f3": {
+  "en": "Forway Plains & Roads (around Forway, Long Bridge and the main roads)",
+  "t": "포웨이 평원과 길(포웨이, 롱 브리지, 주요 도로 주변)"
+ },
+ "82b003aa5aed": {
+  "en": "Lukewarm Lake Fihi near the shore",
+  "t": "물가 가까이에 미지근한 호수의 피히"
+ },
+ "8497d6a258ed": {
+  "en": "Teefyro wandering down from Hifuna (near Tastyleaf)",
+  "t": "히푸나에서 내려온 티피로(테이스티리프 근처)"
+ },
+ "87b00c3952f5": {
+  "en": "Bahyum's mood rises 1 (see Dangerous Places)",
+  "t": "바혐의 기분이 1 오른다(‘위험한 장소’ 참고)"
+ },
+ "8b441cd5ef98": {
+  "en": "Triangle patrol boat insists everyone bathroom-syncs",
+  "t": "트라이앵글 순찰선이 모두 화장실 시간을 맞추라고 우긴다"
+ },
+ "8f0b0216d31e": {
+  "en": "Flinga circling low — and something small and wooden riding it",
+  "t": "낮게 원을 그리는 플링가 — 그리고 그 위에 탄 작은 나무 무언가"
+ },
+ "91b72d1fc441": {
+  "en": "Wooly herd up in the cold heights",
+  "t": "추운 고지대의 울리 무리"
+ },
+ "92c6bc2c8b51": {
+  "en": "Sweet Sting workers (near Sweetlake): don't swat",
+  "t": "스위트 스팅 일벌(스위트레이크 근처): 휘둘러 쫓지 마라"
+ },
+ "92e7a1a07a73": {
+  "en": "Teefyro pack (1d3)",
+  "t": "티피로 무리(1d3)"
+ },
+ "930d3b1a6f69": {
+  "en": "Pussy Power members interrogating a frightened man",
+  "t": "겁에 질린 남자를 심문하는 푸시 파워 단원들"
+ },
+ "932a3527f08c": {
+  "en": "A ruined Forway science station",
+  "t": "폐허가 된 포웨이 과학 기지"
+ },
+ "953e3ab50a70": {
+  "en": "Pink Winga flock — beautiful, territorial",
+  "t": "분홍 윙가 떼 — 아름답고 영역 다툼이 심하다"
+ },
+ "961f1be63301": {
+  "en": "During Graveyard, characters on watch roll Wisdom (Perception) when an encounter comes. Sleepers wake up at the start of round 2 (or round 1 if a watcher shouts). Saynas, Wozefaries and Darfaries veins help: grant advantage where it makes sense.",
+  "t": "심야 동안 조우가 일어나면 보초를 서는 캐릭터는 지혜(감지) 판정을 한다. 자던 사람은 2라운드 시작에 깨어난다(보초가 소리치면 1라운드). 사이나, 워제파리에스, 다르파리에스 혈관이 도움이 된다: 말이 되는 곳에서는 이점을 주어라."
+ },
+ "966bf9a474fa": {
+  "en": "Cinika swarm flees east — storm in 1 shift",
+  "t": "시니카 떼가 동쪽으로 달아난다 — 1시간대 뒤 폭풍"
+ },
+ "99397a06f8be": {
+  "en": "Half-Cruro recruiters negotiating with a frightened Cruro",
+  "t": "겁에 질린 크루로와 협상하는 하프 크루로 모집책"
+ },
+ "a0ee6168f2e2": {
+  "en": "A Hash creature of the DM's choice",
+  "t": "DM이 고른 해시 생물"
+ },
+ "a128f1c96a7b": {
+  "en": "Falling Greenbread (DC 13 Dex save or 3d10 bludgeoning)",
+  "t": "그린브레드가 떨어진다(DC 13 민첩 내성에 실패하면 3d10 타격)"
+ },
+ "a23aeeeb78cf": {
+  "en": "Darfaries \"dungeon party\" crawling out of a tunnel, drunk and challenging anyone",
+  "t": "터널에서 기어 나온, 술에 취해 아무에게나 도전하는 다르파리에스 ‘던전 파티’"
+ },
+ "a86a7a74a0a0": {
+  "en": "Flinga overhead (an omen in winter)",
+  "t": "머리 위의 플링가(겨울이면 징조)"
+ },
+ "a9f603c6f080": {
+  "en": "Trunk People light up the trees — curious, then protective if you damage a soul tree",
+  "t": "트렁크 피플이 나무를 밝힌다 — 호기심을 보이다가, 영혼나무를 해치면 보호하려 든다"
+ },
+ "ac3baf674787": {
+  "en": "Fake green signal smoke ahead (bandit trap)",
+  "t": "앞쪽에 가짜 초록 신호 연기(산적의 덫)"
+ },
+ "b26d39e00d8c": {
+  "en": "Elevator queue at Waterfall: Sanbians first, Toleridemians wait",
+  "t": "워터폴 승강기 줄: 산비인 먼저, 톨레리데메인은 기다린다"
+ },
+ "b416b6a42e5c": {
+  "en": "Special event: The Inside Job",
+  "t": "특별 이벤트: 내부자 작업"
+ },
+ "b5dd9f694f0c": {
+  "en": "Barina frogs in a pond — toxic gas",
+  "t": "연못의 바리나 개구리 — 독가스"
+ },
+ "b7eceba842aa": {
+  "en": "Desert (Gandew, Flatland, Sundeath, Old Fuhrair)",
+  "t": "사막(간듀, 플랫랜드, 선데스, 올드 푸레어)"
+ },
+ "b811b9280caa": {
+  "en": "Hash Wozen pack",
+  "t": "해시 워젠 무리"
+ },
+ "bc51d190846c": {
+  "en": "Legunia flock bolts — the desert is getting worse (hump shrinks)",
+  "t": "레구니아 떼가 달아난다 — 사막이 나빠지고 있다(혹이 줄어든다)"
+ },
+ "befdf90eb263": {
+  "en": "Sand Worm ambush (DC 15 Perception, or a Sayna, to notice)",
+  "t": "샌드 웜 매복(알아채려면 DC 15 감지 또는 사이나)"
+ },
+ "c29e095b486e": {
+  "en": "A drunk Toleridemian toastmaster insists you toast for hours",
+  "t": "술 취한 톨레리데메 건배 담당이 몇 시간 동안 건배하자고 우긴다"
+ },
+ "c5f967a5edf3": {
+  "en": "Roll twice",
+  "t": "두 번 굴린다"
+ },
+ "c94f4691721b": {
+  "en": "Use normal **initiative**. (The Alpha campaign's \"turns based on AC\" is retired.)",
+  "t": "일반적인 **우선권**을 쓴다. (알파 캠페인의 ‘AC로 정하는 차례’는 폐지했다.)"
+ },
+ "cc2cac26af1b": {
+  "en": "Sand Sea guild hunters with nets and an empty cage",
+  "t": "그물과 빈 우리를 가진 샌드 시 길드 사냥꾼"
+ },
+ "ccdca60dbea8": {
+  "en": "Black Magina sleepers — drugged travelers asleep in a clearing",
+  "t": "블랙 마지나의 잠꾸러기들 — 빈터에서 잠든, 약에 취한 여행자들"
+ },
+ "ce8397db349e": {
+  "en": "Forway guard patrol (1d4+2 guards) asks for badges; superiority complex included",
+  "t": "포웨이 경비병 순찰대(1d4+2명)가 신분패를 요구한다. 우월감 포함"
+ },
+ "d31f012a863a": {
+  "en": "Walking Flesh (1) standing perfectly still in a field",
+  "t": "들판에서 미동도 없이 서 있는 워킹 플레시(1)"
+ },
+ "d5fb40184df9": {
+  "en": "Buhraies Plains (Tolerideme, Bahyum, Wingarest, Waterfall)",
+  "t": "부라이에스 평원(톨레리데메, 바혐, 윙가레스트, 워터폴)"
+ },
+ "da9c664a5866": {
+  "en": "Saynas playing — \"Pohw-pohhhww!\" (one might adopt the party)",
+  "t": "놀고 있는 사이나들 — ‘포우-포우우우!’(한 마리가 일행을 입양할지도)"
+ },
+ "db8d32f7f46b": {
+  "en": "Fishers chanting the Safe Fishing Prayer — a big Sanbi is about to be landed",
+  "t": "안전 조업 기원을 외는 어부들 — 큰 산비가 막 올라오려 한다"
+ },
+ "de416f849404": {
+  "en": "**Long trips:** roll **once per circle** instead of per shift. The DM's knob again.",
+  "t": "**긴 여행:** 시간대마다가 아니라 **서클마다 한 번** 굴린다. 이것도 DM의 다이얼이다."
+ },
+ "e572bdfb2b55": {
+  "en": "Walking Skin swarm drifting from Bahyum (2d4)",
+  "t": "바혐에서 떠밀려 온 워킹 스킨 떼(2d4)"
+ },
+ "e79de586e852": {
+  "en": "A Bagarisa herd blocks the road (2d4 Bagarisa) — great dinner, bad musk",
+  "t": "바가리사 무리가 길을 막는다(2d4마리) — 훌륭한 저녁, 고약한 사향"
+ },
+ "e7a5fd07a8fb": {
+  "en": "Shapeshifter mimicking a lost traveler's voice",
+  "t": "길 잃은 여행자의 목소리를 흉내 내는 변신자"
+ },
+ "f02de34439ca": {
+  "en": "White Roundies swim alongside (winter) — trade food for treasure",
+  "t": "화이트 라운디스가 나란히 헤엄친다(겨울) — 음식과 보물을 바꾼다"
+ },
+ "f04a52ed4e61": {
+  "en": "Freeish Forests (Freeish, Deltacross, Blood, Sweetlake, Ganyrami)",
+  "t": "프리이시 숲(프리이시, 델타크로스, 블러드, 스위트레이크, 가니라미)"
+ },
+ "f44454818331": {
+  "en": "Wood People grove wanders across the path (1d4)",
+  "t": "우드 피플 숲이 길을 가로질러 간다(1d4)"
+ },
+ "f8b201f5b11a": {
+  "en": "Hash Bagarisa (template)",
+  "t": "해시 바가리사(템플릿)"
+ },
+ "fa1cc072e553": {
+  "en": "\"Bahyum's mood tracker hit 5 last week.\" 2. \"A Fuhraies was seen near Fuhrair.\" 3. \"The Blue Wozens' den is near Fiera's Hut.\" 4. \"Red Winga is recruiting in Sweetlake.\" 5. \"The Smart Ladies' statue cried beer.\" 6. \"Flingas in winter again — something's coming.\" 7. \"Someone is selling Walking Hearts in Ganyrami.\" 8. \"The Stinger killed a Sand Worm bare-handed.\" 9. \"King Itagiba has bastards all over the kingdoms.\" 10. \"A Sapphire hero didn't die in Hifuna — he was murdered.\"",
+  "t": "‘지난주에 바혐 기분 게시판이 5를 찍었대.’ 2. ‘푸레어 근처에서 푸라이에스를 봤대.’ 3. ‘블루 워젠스 소굴은 피에라의 오두막 근처야.’ 4. ‘레드 윙가가 스위트레이크에서 사람을 모으고 있어.’ 5. ‘스마트 레이디 동상이 맥주 눈물을 흘렸대.’ 6. ‘또 겨울에 플링가야 — 뭔가 오고 있어.’ 7. ‘가니라미에서 누가 워킹 하트를 팔고 있어.’ 8. ‘스팅어가 맨손으로 샌드 웜을 죽였대.’ 9. ‘이타지바 왕은 온 왕국에 사생아가 있어.’ 10. ‘사파이어 영웅은 히푸나에서 죽은 게 아니야 — 살해당한 거야.’"
+ },
+ "fdf99c0a2bc3": {
+  "en": "Sea & Islands (Triangle, Endlessfog, coastal boats)",
+  "t": "바다와 섬(트라이앵글, 엔들리스포그, 연안 배)"
+ }
+}

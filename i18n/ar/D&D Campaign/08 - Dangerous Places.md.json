@@ -1,11 +1,127 @@
 {
+ "06e50bc6a491": {
+  "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
+  "t": "**مؤشر المزاج (1–6).** في بداية كل يوم من أيام العالم، ارمِ d6: عند 1 ينخفض المزاج 1؛ وعند 6 يرتفع 1. والفرق التي تقاتل في الداخل ترفعه 1 عن كل يوم تقضيه هناك."
+ },
+ "0c814187591b": {
+  "en": "Nari Caverns (under Blood)",
+  "t": "كهوف ناري (تحت بلاد)"
+ },
+ "181199f11e9e": {
+  "en": "Special rules for the places that make West March parties famous — or dead.",
+  "t": "قواعد خاصة للأماكن التي تجعل فرق ويست مارش مشهورة — أو ميتة."
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "ناعس"
  },
+ "2bb785b5d192": {
+  "en": "Hifuna — exposure",
+  "t": "هيفونا — التعرّض"
+ },
+ "2bf600bc5be8": {
+  "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
+  "t": "الأنفاق بين غانديو وصنديث مليئة بالوحوش — سافروا برًا."
+ },
+ "2fd7b6d12e33": {
+  "en": "Rooms rearrange; a Walking Flathead wakes",
+  "t": "الغرف تُعاد ترتيبها؛ يستيقظ ووكينغ فلاتهيد"
+ },
+ "37bf7b183ebf": {
+  "en": "Everything awake",
+  "t": "كل شيء مستيقظ"
+ },
+ "3d2f3ffa2d82": {
+  "en": "Waves of undead pour out with **five commanders** (Flatheads). **Kingdom Alert**: all adventurers called. Kill the commanders to drop the mood to 3",
+  "t": "موجات من الموتى الأحياء تتدفق مع **خمسة قادة** (فلاتهيد). **إنذار الممالك**: يُستدعى كل المغامرين. اقتل القادة لينخفض المزاج إلى 3"
+ },
+ "3e05721d8a69": {
+  "en": "**Rampage**",
+  "t": "**الهيجان**"
+ },
+ "3ee3ebe0f1ef": {
+  "en": "Wood People groves wander. A **fost stone** jammed into a crown (melee attack vs AC 14, or automatic against a grappled tree) paralyzes one.",
+  "t": "أيكات الوود بيبول تتجول. و**حجر فوست** يُغرس في التاج (هجوم التحامي ضد AC 14، أو تلقائي ضد شجرة ممسوكة) يشلّ واحدة."
+ },
+ "444599ee02ef": {
+  "en": "**Gandew law:** any dispute can become a duel. Refuse and you lose face — and in Gandew, face matters.",
+  "t": "**قانون غانديو:** أي نزاع قد يصير مبارزة. ارفض فتفقد ماء وجهك — وفي غانديو، ماء الوجه مهم."
+ },
+ "488aff06b94b": {
+  "en": "**Noise:** every loud action (combat, explosions, shouting) — roll a d6; on a 1 the worms stir and the cavern **quakes** (DC 13 Dex save or 2d6 bludgeoning and knocked prone).",
+  "t": "**الضجيج:** كل فعل صاخب (قتال، انفجارات، صراخ) — ارمِ d6؛ عند 1 تتحرك الديدان و**يهتز** الكهف (رمية إنقاذ براعة DC 13 وإلا 2d6 راض والسقوط منبطحًا)."
+ },
+ "520a8784ad31": {
+  "en": "The plateau edge is a 2 km cliff. Waterfall's elevators are the safe way up.",
+  "t": "حافة الهضبة جرف بارتفاع 2 كم. ومصاعد ووترفول هي الطريق الآمن للصعود."
+ },
+ "5661b5bd8aaa": {
+  "en": "Dangerous Places",
+  "t": "الأماكن الخطرة"
+ },
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "متجهّم"
+ },
+ "5f63c7cf5839": {
+  "en": "Walking Flesh hunt intruders; traps arm",
+  "t": "الووكينغ فليش يصطادون الدخلاء؛ والفخاخ تتسلح"
+ },
+ "66e5d6835c21": {
+  "en": "**Food** grown or hunted in Hifuna gives 1 Exposure when eaten.",
+  "t": "**الطعام** المزروع أو المصطاد في هيفونا يعطي 1 من التعرّض حين يؤكل."
+ },
+ "67124bfc2385": {
+  "en": "Each day without water: DC 12 Con save or 1 exhaustion (DC 15 in Paulin).",
+  "t": "كل يوم بلا ماء: رمية إنقاذ بنية DC 12 وإلا مستوى إنهاك واحد (DC 15 في باولين)."
+ },
+ "6e820db3b996": {
+  "en": "Exposure 1: nausea (disadvantage on Con checks) · 2: hair falls out, −1 max SP · 3: you start to become **Hash** — +2 Strength, −2 Intelligence, you look wrong · 4: a full Hash mutation (DM and player design it; the character may need to retire as an NPC monster).",
+  "t": "التعرّض 1: غثيان (عيب في اختبارات البنية) · 2: يتساقط الشعر، −1 للحد الأقصى من SP · 3: تبدأ بالتحول إلى **هاش** — +2 للقوة، −2 للذكاء، شكلك يبدو خاطئًا · 4: تحوّر هاش كامل (يصممه مدير اللعبة واللاعب؛ وقد تحتاج الشخصية إلى التقاعد كوحش من الشخصيات غير اللاعبة)."
+ },
+ "709d1c4f9f08": {
+  "en": "The Desert (Gandew, Flatland, Sundeath)",
+  "t": "الصحراء (غانديو، فلاتلاند، صنديث)"
+ },
+ "725383d9892b": {
+  "en": "Outside",
+  "t": "في الخارج"
+ },
+ "785d46cfcb8e": {
+  "en": "Nights are freezing: no warm gear → DC 10 Con save or 1 exhaustion.",
+  "t": "الليالي متجمدة: بلا ملابس دافئة ← رمية إنقاذ بنية DC 10 وإلا مستوى إنهاك واحد."
+ },
+ "84938c66dec3": {
+  "en": "**Long rest outside Hifuna** removes 1 Exposure. A Tier III Nari Refresher or Body RESTORE (Tier III) removes all but the Hash change at 3+.",
+  "t": "**الاستراحة الطويلة خارج هيفونا** تزيل 1 من التعرّض. وناري ريفريشر من المستوى III أو بودي ريستور (المستوى III) يزيلان كل شيء عدا تغيّر الهاش عند 3 فأكثر."
+ },
+ "90ca40f2552d": {
+  "en": "**Walking Heart stones** grow here. A character who implants one (via a scientist willing to do it) becomes undead: no eating/breathing/sleep, recovers SP only through strong emotion or stabbing nari stones into the chest, takes the stone's color powers (+2 to one ability, −2 to another, per the color table in the World Lore) and its emotional flaw. **Can't be revived.** Forway treats them as soul dead and wanted.",
+  "t": "تنمو **أحجار ووكينغ هارت** هنا. والشخصية التي تزرع واحدًا (عبر عالم مستعد لفعل ذلك) تصبح من الموتى الأحياء: لا أكل ولا تنفس ولا نوم، ولا تستعيد SP إلا بالمشاعر القوية أو بغرس أحجار ناري في الصدر، وتكتسب قوى لون الحجر (+2 لقدرة، −2 لأخرى، بحسب جدول الألوان في World Lore) وعيبه العاطفي. **لا يمكن إحياؤها.** وتعاملها فورواي على أنها ميتة الروح ومطلوبة."
+ },
+ "90ca8855e6ca": {
+  "en": "The castle is alive, moody, and still running Buhraies experiments. Bahyum village posts **\"Today's Castle Mood\"** every morning.",
+  "t": "القلعة حيّة، متقلبة المزاج، وما زالت تُجري تجارب البورايس. وتنشر قرية باهيوم **«مزاج القلعة اليوم»** كل صباح."
+ },
+ "90d4906e4123": {
+  "en": "**Lukewarm Lake:** Fihi big enough to drag a person under (use Fihi stats ×2 HP, swallow on a crit).",
+  "t": "**البحيرة الفاترة:** فيهي كبيرة بما يكفي لجرّ شخص إلى الأعماق (استخدم إحصاءات الفيهي مع ×2 HP، وتبتلع عند الضربة الحرجة)."
+ },
+ "918b69037868": {
+  "en": "Undead idle; doors open; a **new room** appears 1-in-6",
+  "t": "الموتى الأحياء خاملون؛ الأبواب مفتوحة؛ تظهر **غرفة جديدة** باحتمال 1 من 6"
+ },
+ "95994003efcf": {
+  "en": "Bahyum Castle — the Castle Mood",
+  "t": "قلعة باهيوم — مزاج القلعة"
+ },
+ "9691b2d01805": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
+  "t": "اثنان من الفلاتهيد؛ ضباب يستنزف الروح (1 SP في الساعة)"
+ },
+ "c699d767b83d": {
+  "en": "Stragglers on the plains",
+  "t": "متخلّفون في السهول"
  },
  "c8a9d51017e9": {
   "en": "Angry",
@@ -15,13 +131,57 @@
   "en": "Restless",
   "t": "قلِق"
  },
+ "c9bb96fc7374": {
+  "en": "Irradiated land. Everything mutates.",
+  "t": "أرض مشعّة. كل شيء يتحوّر."
+ },
+ "cb16d93bb653": {
+  "en": "**Loot:** Buhraies research notes, Walking Heart stones (illegal), soul wood, black wood, ancient sigil rings (old-style rings are collectibles), and the occasional thing that should never leave.\n**New rooms** are a great excuse for one-shot dungeons.",
+  "t": "**الغنائم:** ملاحظات أبحاث البورايس، وأحجار ووكينغ هارت (غير قانونية)، وخشب الروح، والخشب الأسود، وخواتم سيجيل قديمة (الخواتم ذات الطراز القديم مقتنيات)، وأحيانًا شيء ما كان ينبغي أن يخرج أبدًا.\nو**الغرف الجديدة** ذريعة رائعة لزنزانات من جلسة واحدة."
+ },
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "الاسم"
  },
+ "cee862ffbe9f": {
+  "en": "Patrols of Walking Skin",
+  "t": "دوريات من الووكينغ سكين"
+ },
+ "dda58424b5c0": {
+  "en": "Mood",
+  "t": "المزاج"
+ },
+ "e7daf0606071": {
+  "en": "Inside the castle",
+  "t": "داخل القلعة"
+ },
+ "e84dd92bd631": {
+  "en": "Walking Skin packs raid nearby farms",
+  "t": "جماعات ووكينغ سكين تغير على المزارع القريبة"
+ },
+ "e92163beb8b7": {
+  "en": "Embassy posts an Aquamarine quest",
+  "t": "السفارة تنشر مهمة أكوامارين"
+ },
+ "ea6fe908f718": {
+  "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
+  "t": "**الساند وورم:** تكشفه ساينا أو جل ووزن سميل؛ وإلا فإدراك DC 15."
+ },
+ "ee5a0b8d29e1": {
+  "en": "**Sundeath law:** guilty until proven innocent. Have friends.",
+  "t": "**قانون صنديث:** مذنب حتى تثبت براءته. اتخذ أصدقاء."
+ },
+ "f10604376588": {
+  "en": "The Buhraies Plains",
+  "t": "سهول بورايس"
+ },
  "f2c02022cd69": {
   "en": "Quiet",
   "t": "هادئ"
+ },
+ "f85783fbd253": {
+  "en": "**Each day** in Hifuna (or each hour near a Walking Heart deposit), make a **DC 12 Constitution save** (DC 15 deep inside). On a failure, gain 1 **Exposure**.",
+  "t": "**كل يوم** في هيفونا (أو كل ساعة قرب رواسب ووكينغ هارت)، أجرِ **رمية إنقاذ بنية DC 12** (DC 15 في العمق). وعند الفشل، اكتسب 1 من **التعرّض**."
  },
  "f95ed6f5d34d": {
   "en": "Furious",

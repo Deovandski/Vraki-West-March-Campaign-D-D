@@ -1,11 +1,35 @@
 {
+ "02724420fd6e": {
+  "en": "??? (see DM Secrets)",
+  "t": "???(‘DM의 비밀’ 참고)"
+ },
+ "0433bc514364": {
+  "en": "Cruro hunters",
+  "t": "크루로 사냥꾼"
+ },
  "04ba7efef9f3": {
   "en": "Strength, privacy, tradition",
   "t": "힘, 사생활, 전통"
  },
+ "07b0ce6a75d7": {
+  "en": "Sleep Inducer gels, smugglers' routes",
+  "t": "슬립 인듀서 젤, 밀수 경로"
+ },
  "085e70444e95": {
   "en": "Factions and what they want",
   "t": "파벌과 그들이 원하는 것"
+ },
+ "090132024753": {
+  "en": "Fences for stolen goods, tips on Forway convoys",
+  "t": "장물아비, 포웨이 수송대 정보"
+ },
+ "10c788cb984f": {
+  "en": "Customers, privacy",
+  "t": "손님, 비밀 유지"
+ },
+ "111a031da88c": {
+  "en": "Bandits punished, Sundeath law",
+  "t": "산적 처벌, 선데스 법"
  },
  "12ed4534aacc": {
   "en": "**Sanbi Royals**",
@@ -14,6 +38,22 @@
  "19089d32d628": {
   "en": "Their people happy, daughters left alone, the Queen's schemes kept quiet",
   "t": "백성의 행복, 딸들을 건드리지 않는 것, 여왕의 계략이 조용히 묻히는 것"
+ },
+ "1c857b6f0350": {
+  "en": "**Black Sapphires**",
+  "t": "**블랙 사파이어스**"
+ },
+ "227373754379": {
+  "en": "The other village",
+  "t": "다른 마을"
+ },
+ "23a93b5fd265": {
+  "en": "Revival-debt collectors",
+  "t": "부활 빚 수금원"
+ },
+ "25245711f5d8": {
+  "en": "Abusers — and people who report them to Forway",
+  "t": "학대자 — 그리고 그들을 포웨이에 신고하는 자"
  },
  "267b716d224b": {
   "en": "Distrusted",
@@ -31,33 +71,97 @@
   "en": "Hagglers, latecomers",
   "t": "흥정하는 자, 늦는 자"
  },
+ "34f84c176f76": {
+  "en": "Cruros becoming citizens",
+  "t": "크루로가 시민이 되는 것"
+ },
+ "3a6bfa5a8a81": {
+  "en": "**Triangle Lovers**",
+  "t": "**트라이앵글 러버스**"
+ },
  "3ed8f8451369": {
   "en": "See [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) for how helping, reporting or double-crossing bandits on an escort changes reputation.\n+1 for a completed job or a big favor for them; −1 for hurting their interests; −2 for killing members or exposing their secrets. One step per session at most.",
   "t": "호위 중에 산적을 돕거나, 신고하거나, 배신하면 평판이 어떻게 바뀌는지는 [내부자 작업](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) 참고.\n일을 완수하거나 큰 호의를 베풀면 +1, 그들의 이익을 해치면 −1, 구성원을 죽이거나 비밀을 폭로하면 −2. 세션마다 최대 한 단계."
+ },
+ "402c40b5dd89": {
+  "en": "Information, loyalty, silence",
+  "t": "정보, 충성, 침묵"
+ },
+ "44621dd98413": {
+  "en": "Resort access, Sorefaries companions at a discount",
+  "t": "리조트 이용, 할인된 소레파리에스 동료"
+ },
+ "453ad71216b8": {
+  "en": "Forway Law defenders",
+  "t": "포웨이 법 옹호자"
  },
  "47fa9b6d86fb": {
   "en": "Their village to win",
   "t": "자기 마을이 이기는 것"
  },
+ "483d811d6a85": {
+  "en": "Safe passage on Triangle",
+  "t": "트라이앵글에서의 안전한 통행"
+ },
  "494ac0f00394": {
   "en": "Factions & Reputation",
   "t": "파벌과 평판"
+ },
+ "4da74c04f6e7": {
+  "en": "Secrets about anyone, safe houses in brothels",
+  "t": "누구에 대해서든 비밀, 사창가의 은신처"
+ },
+ "4fce8772af7a": {
+  "en": "Bodyguards, intel on abusers",
+  "t": "경호원, 학대자에 대한 정보"
+ },
+ "56f9c4356a11": {
+  "en": "**Blue Wozens**",
+  "t": "**블루 워젠스**"
  },
  "59cb10e498ea": {
   "en": "Rep",
   "t": "평판"
  },
+ "5e7c905e205e": {
+  "en": "The Triangle Way",
+  "t": "트라이앵글의 길"
+ },
+ "60f1430c7277": {
+  "en": "Blackmail, sabotage done quietly",
+  "t": "협박, 조용한 사보타주"
+ },
  "62464ed174e1": {
   "en": "A Blood Book signature (lifelong ally), chitin gear",
   "t": "블러드 북 서명(평생의 동맹), 키틴 장비"
+ },
+ "634d0e028d16": {
+  "en": "**Half-Cruro**",
+  "t": "**하프 크루로**"
  },
  "673e6d26a5d6": {
   "en": "Contracts honored to the letter, booze sold, Wood People under control",
   "t": "계약을 글자 그대로 지키기, 술 판매, 우드 피플 통제"
  },
+ "6883b9e71001": {
+  "en": "Vigilante muscle, bandit hideout locations",
+  "t": "자경단 완력, 산적 은신처 위치"
+ },
+ "6989dbb38706": {
+  "en": "Guilds as factions",
+  "t": "파벌로서의 길드"
+ },
  "6a31e99a23d5": {
   "en": "Track the party's (or each character's) reputation with factions from **−3 to +3**. Start at 0. Shared reputation is part of the shared world: one party's choices affect everyone.",
   "t": "파벌별로 일행(또는 캐릭터 각자)의 평판을 **−3에서 +3**까지 기록한다. 0에서 시작한다. 공유 평판은 공유 세계의 일부다: 한 일행의 선택이 모두에게 영향을 준다."
+ },
+ "6b24599785b6": {
+  "en": "Snitches, runaways and anyone who helps them",
+  "t": "밀고자, 도망자, 그리고 그들을 돕는 모든 이"
+ },
+ "6b552b19986f": {
+  "en": "**Fallen Tree**",
+  "t": "**폴른 트리**"
  },
  "6c9df0b07c1d": {
   "en": "**Tolerideme kings**",
@@ -67,6 +171,22 @@
   "en": "Meaning",
   "t": "의미"
  },
+ "6eac13562875": {
+  "en": "**Red Winga**",
+  "t": "**레드 윙가**"
+ },
+ "73a15543951d": {
+  "en": "Protection for women and kids",
+  "t": "여성과 아이 보호"
+ },
+ "7b6378439916": {
+  "en": "Adventurers who find their den",
+  "t": "소굴을 찾아낸 모험가"
+ },
+ "826e47cf5c80": {
+  "en": "Forway inspectors",
+  "t": "포웨이 감찰관"
+ },
  "8a57754cde6e": {
   "en": "**Freeish villages**",
   "t": "**프리이시 마을들**"
@@ -75,13 +195,33 @@
   "en": "Vigilantes, debt-dodgers, Nari Worm killers",
   "t": "자경단, 빚 떼먹는 자, 나리 웜 살해자"
  },
+ "98a4c0c0ad95": {
+  "en": "**Flatland guilds**",
+  "t": "**플랫랜드 길드**"
+ },
  "9a670df0d36d": {
   "en": "**Gandew**",
   "t": "**간듀**"
  },
+ "9c8e494285ad": {
+  "en": "Safe passage on the Forway–Sanbi road",
+  "t": "포웨이–산비 길의 안전한 통행"
+ },
+ "a3113cdad5dc": {
+  "en": "**Hidden Sorenos**",
+  "t": "**히든 소레노스**"
+ },
+ "a4e3d5c17989": {
+  "en": "Profit without bodies",
+  "t": "시체 없이 내는 이익"
+ },
  "ad96f2a7bbd7": {
   "en": "**Forway (embassies)**",
   "t": "**포웨이(대사관)**"
+ },
+ "ae7ae3c72fcb": {
+  "en": "**Pussy Power**",
+  "t": "**푸시 파워**"
  },
  "b0a1e8267185": {
   "en": "Gaining and losing",
@@ -95,6 +235,10 @@
   "en": "Anyone who embarrasses the family",
   "t": "가문을 망신시키는 자"
  },
+ "bc9e3c6b14ea": {
+  "en": "Rivals ruined, no trails",
+  "t": "흔적 없이 망가뜨린 경쟁자"
+ },
  "bd1e2f7d0881": {
   "en": "Village guides, hunting grounds, a free guild if you marry in",
   "t": "마을 안내인, 사냥터, 마을 사람과 결혼하면 공짜 길드"
@@ -106,6 +250,10 @@
  "d105253081c4": {
   "en": "Free meals, fost stones, Domar Carbey shipments",
   "t": "공짜 식사, 포스트석, 도마르 카베이 출하"
+ },
+ "d532d0a10a3c": {
+  "en": "Joining a guild (or founding one, 1 sapphire) gives the party a home, shared storage, inheritance rules and a family name. Guild reputation can be tracked like a faction.",
+  "t": "길드에 들어가면(또는 1 사파이어로 하나 세우면) 일행은 거처, 공용 창고, 상속 규칙, 그리고 가문의 이름을 얻는다. 길드 평판도 파벌처럼 기록할 수 있다."
  },
  "d64c3b4f5396": {
   "en": "Wants",
@@ -123,13 +271,33 @@
   "en": "Order, taxes, quests done, debts paid",
   "t": "질서, 세금, 의뢰 완수, 빚 상환"
  },
+ "dbce22727fbd": {
+  "en": "Anyone who burns a field",
+  "t": "밭을 태우는 자"
+ },
+ "dcf402a48292": {
+  "en": "**Bagarisa Brothers**",
+  "t": "**바가리사 형제**"
+ },
+ "e0a8de7e6402": {
+  "en": "**Black Magina**",
+  "t": "**블랙 마지나**"
+ },
  "e1f20d437c27": {
   "en": "Cowards, people who mock the Goodbye Cliff",
   "t": "겁쟁이, 굿바이 절벽을 비웃는 자"
  },
+ "e5b589a45fa3": {
+  "en": "Investigators",
+  "t": "조사하는 자"
+ },
  "e5c573ac0ba5": {
   "en": "Friendly; small favors, fair prices",
   "t": "우호적. 작은 호의, 정당한 가격"
+ },
+ "e77475b4c302": {
+  "en": "Cruro guides, swamp passage",
+  "t": "크루로 안내인, 늪 통행"
  },
  "e9e1e516087b": {
   "en": "Better quests, promotion recommendations, debt extensions",
@@ -139,6 +307,14 @@
   "en": "Faction",
   "t": "파벌"
  },
+ "f49300ebc818": {
+  "en": "Loose lips",
+  "t": "입이 가벼운 자"
+ },
+ "f92e17719b5e": {
+  "en": "\"Donations\"",
+  "t": "‘기부’"
+ },
  "fcd5a642ce9c": {
   "en": "Trusted; secret quests, safe houses, discounts",
   "t": "신뢰. 비밀 의뢰, 은신처, 할인"
@@ -146,5 +322,9 @@
  "feca2e4f68d9": {
   "en": "Hostile; prices doubled; ambushes",
   "t": "적대적. 가격 두 배. 매복"
+ },
+ "ff4974e0d06f": {
+  "en": "Forway's money",
+  "t": "포웨이의 돈"
  }
 }

@@ -1,11 +1,127 @@
 {
+ "06e50bc6a491": {
+  "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
+  "t": "**心情等级（1–6）。** 每个游戏内日的开始时掷一个d6：掷出1心情降1；掷出6升1。在城里战斗的队伍每在那里待一天，心情升1。"
+ },
+ "0c814187591b": {
+  "en": "Nari Caverns (under Blood)",
+  "t": "纳里洞窟（布拉德地下）"
+ },
+ "181199f11e9e": {
+  "en": "Special rules for the places that make West March parties famous — or dead.",
+  "t": "让西境队伍出名——或丧命——的那些地方的特殊规则。"
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "昏昏欲睡"
  },
+ "2bb785b5d192": {
+  "en": "Hifuna — exposure",
+  "t": "希富纳——暴露"
+ },
+ "2bf600bc5be8": {
+  "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
+  "t": "甘杜和桑德斯之间的隧道里满是魔兽——走地面。"
+ },
+ "2fd7b6d12e33": {
+  "en": "Rooms rearrange; a Walking Flathead wakes",
+  "t": "房间重新排列；一个沃金·弗拉特黑德醒来"
+ },
+ "37bf7b183ebf": {
+  "en": "Everything awake",
+  "t": "全部醒来"
+ },
+ "3d2f3ffa2d82": {
+  "en": "Waves of undead pour out with **five commanders** (Flatheads). **Kingdom Alert**: all adventurers called. Kill the commanders to drop the mood to 3",
+  "t": "一波波亡灵在**五名指挥官**（弗拉特黑德）的带领下涌出。**王国警报**：召集所有冒险者。杀死指挥官能让心情降到3"
+ },
+ "3e05721d8a69": {
+  "en": "**Rampage**",
+  "t": "**暴走**"
+ },
+ "3ee3ebe0f1ef": {
+  "en": "Wood People groves wander. A **fost stone** jammed into a crown (melee attack vs AC 14, or automatic against a grappled tree) paralyzes one.",
+  "t": "伍德皮普尔树林会四处游荡。把一块**福斯特石**塞进树冠（对AC 14进行近战攻击，对被擒抱的树则自动成功）就能麻痹一棵。"
+ },
+ "444599ee02ef": {
+  "en": "**Gandew law:** any dispute can become a duel. Refuse and you lose face — and in Gandew, face matters.",
+  "t": "**甘杜法：** 任何争端都可能变成决斗。拒绝就会丢脸——而在甘杜，脸面很重要。"
+ },
+ "488aff06b94b": {
+  "en": "**Noise:** every loud action (combat, explosions, shouting) — roll a d6; on a 1 the worms stir and the cavern **quakes** (DC 13 Dex save or 2d6 bludgeoning and knocked prone).",
+  "t": "**噪音：** 每次发出巨大声响的行动（战斗、爆炸、喊叫）都掷一个d6；掷出1时虫子会骚动，洞窟会**震动**（DC 13敏捷豁免，失败则受2d6钝击并倒地）。"
+ },
+ "520a8784ad31": {
+  "en": "The plateau edge is a 2 km cliff. Waterfall's elevators are the safe way up.",
+  "t": "高原边缘是一道2公里高的悬崖。沃特福尔的升降机是安全的上去方式。"
+ },
+ "5661b5bd8aaa": {
+  "en": "Dangerous Places",
+  "t": "危险之地"
+ },
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "脾气不好"
+ },
+ "5f63c7cf5839": {
+  "en": "Walking Flesh hunt intruders; traps arm",
+  "t": "沃金·弗莱什猎杀入侵者；陷阱启动"
+ },
+ "66e5d6835c21": {
+  "en": "**Food** grown or hunted in Hifuna gives 1 Exposure when eaten.",
+  "t": "吃下在希富纳种出或猎到的**食物**会获得1点暴露。"
+ },
+ "67124bfc2385": {
+  "en": "Each day without water: DC 12 Con save or 1 exhaustion (DC 15 in Paulin).",
+  "t": "每天没有水：DC 12体质豁免，失败则1级力竭（保林月为DC 15）。"
+ },
+ "6e820db3b996": {
+  "en": "Exposure 1: nausea (disadvantage on Con checks) · 2: hair falls out, −1 max SP · 3: you start to become **Hash** — +2 Strength, −2 Intelligence, you look wrong · 4: a full Hash mutation (DM and player design it; the character may need to retire as an NPC monster).",
+  "t": "暴露1：恶心（体质检定具有劣势）· 2：掉头发，SP上限−1 · 3：开始变成**哈什**——力量+2，智力−2，样子变得不对劲 · 4：完全的哈什变异（由DM和玩家设计；这个角色可能需要作为NPC怪物退休）。"
+ },
+ "709d1c4f9f08": {
+  "en": "The Desert (Gandew, Flatland, Sundeath)",
+  "t": "沙漠（甘杜、弗拉特兰、桑德斯）"
+ },
+ "725383d9892b": {
+  "en": "Outside",
+  "t": "城堡外"
+ },
+ "785d46cfcb8e": {
+  "en": "Nights are freezing: no warm gear → DC 10 Con save or 1 exhaustion.",
+  "t": "夜里冷得结冰：没有保暖装备 → DC 10体质豁免，失败则1级力竭。"
+ },
+ "84938c66dec3": {
+  "en": "**Long rest outside Hifuna** removes 1 Exposure. A Tier III Nari Refresher or Body RESTORE (Tier III) removes all but the Hash change at 3+.",
+  "t": "在**希富纳以外长休**一次能去除1点暴露。第III级纳里里弗雷舍或博迪里斯托尔（第III级）能去除全部暴露，但3点以上时出现的哈什变化除外。"
+ },
+ "90ca40f2552d": {
+  "en": "**Walking Heart stones** grow here. A character who implants one (via a scientist willing to do it) becomes undead: no eating/breathing/sleep, recovers SP only through strong emotion or stabbing nari stones into the chest, takes the stone's color powers (+2 to one ability, −2 to another, per the color table in the World Lore) and its emotional flaw. **Can't be revived.** Forway treats them as soul dead and wanted.",
+  "t": "**沃金哈特石**在这里生长。植入一块（找个愿意动手的科学家）的角色会变成亡灵：不吃、不呼吸、不睡觉，只能通过强烈的情绪或把纳里石刺进胸口来恢复SP，获得石头颜色的力量（按World Lore的颜色表，一项属性+2、另一项−2）以及它的情绪缺陷。**无法复活。** 福威把他们视为灵魂已死的通缉犯。"
+ },
+ "90ca8855e6ca": {
+  "en": "The castle is alive, moody, and still running Buhraies experiments. Bahyum village posts **\"Today's Castle Mood\"** every morning.",
+  "t": "这座城堡是活的，喜怒无常，至今仍在进行布莱斯的实验。巴休姆村每天早上都会公布 **“今日城堡心情”**。"
+ },
+ "90d4906e4123": {
+  "en": "**Lukewarm Lake:** Fihi big enough to drag a person under (use Fihi stats ×2 HP, swallow on a crit).",
+  "t": "**温水湖：** 菲希大得能把人拖到水下（使用菲希数据，HP ×2，重击时把人吞下）。"
+ },
+ "918b69037868": {
+  "en": "Undead idle; doors open; a **new room** appears 1-in-6",
+  "t": "亡灵闲置；门开着；有六分之一概率出现一个**新房间**"
+ },
+ "95994003efcf": {
+  "en": "Bahyum Castle — the Castle Mood",
+  "t": "巴休姆城堡——城堡心情"
+ },
+ "9691b2d01805": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
+  "t": "两个弗拉特黑德；汲取灵魂的雾（每小时1 SP）"
+ },
+ "c699d767b83d": {
+  "en": "Stragglers on the plains",
+  "t": "平原上的零散亡灵"
  },
  "c8a9d51017e9": {
   "en": "Angry",
@@ -15,13 +131,57 @@
   "en": "Restless",
   "t": "躁动不安"
  },
+ "c9bb96fc7374": {
+  "en": "Irradiated land. Everything mutates.",
+  "t": "受辐射的土地。一切都会变异。"
+ },
+ "cb16d93bb653": {
+  "en": "**Loot:** Buhraies research notes, Walking Heart stones (illegal), soul wood, black wood, ancient sigil rings (old-style rings are collectibles), and the occasional thing that should never leave.\n**New rooms** are a great excuse for one-shot dungeons.",
+  "t": "**战利品：** 布莱斯的研究笔记、沃金哈特石（违禁）、灵魂木、黑木、古代西吉尔戒指（老式戒指是收藏品），偶尔还有绝不该被带出来的东西。\n**新房间**是跑单次地牢的绝佳借口。"
+ },
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "名称"
  },
+ "cee862ffbe9f": {
+  "en": "Patrols of Walking Skin",
+  "t": "沃金·斯金的巡逻"
+ },
+ "dda58424b5c0": {
+  "en": "Mood",
+  "t": "心情"
+ },
+ "e7daf0606071": {
+  "en": "Inside the castle",
+  "t": "城堡内部"
+ },
+ "e84dd92bd631": {
+  "en": "Walking Skin packs raid nearby farms",
+  "t": "成群的沃金·斯金袭击附近的农场"
+ },
+ "e92163beb8b7": {
+  "en": "Embassy posts an Aquamarine quest",
+  "t": "大使馆发布一个阿夸马林级委托"
+ },
+ "ea6fe908f718": {
+  "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
+  "t": "**桑德沃姆：** 赛纳或沃增斯梅尔凝胶能发现它们；否则需要DC 15察觉。"
+ },
+ "ee5a0b8d29e1": {
+  "en": "**Sundeath law:** guilty until proven innocent. Have friends.",
+  "t": "**桑德斯法：** 未证明无罪之前即有罪。多交朋友。"
+ },
+ "f10604376588": {
+  "en": "The Buhraies Plains",
+  "t": "布莱斯平原"
+ },
  "f2c02022cd69": {
   "en": "Quiet",
   "t": "安静"
+ },
+ "f85783fbd253": {
+  "en": "**Each day** in Hifuna (or each hour near a Walking Heart deposit), make a **DC 12 Constitution save** (DC 15 deep inside). On a failure, gain 1 **Exposure**.",
+  "t": "在希富纳的**每一天**（或在沃金哈特矿床附近的每一小时），进行一次**DC 12的体质豁免检定**（深处为DC 15）。失败则获得1点**暴露**。"
  },
  "f95ed6f5d34d": {
   "en": "Furious",

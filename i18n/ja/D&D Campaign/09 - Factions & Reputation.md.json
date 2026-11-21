@@ -1,11 +1,35 @@
 {
+ "02724420fd6e": {
+  "en": "??? (see DM Secrets)",
+  "t": "？？？（「DMの秘密」を参照）"
+ },
+ "0433bc514364": {
+  "en": "Cruro hunters",
+  "t": "クルロ狩り"
+ },
  "04ba7efef9f3": {
   "en": "Strength, privacy, tradition",
   "t": "強さ、私生活、伝統"
  },
+ "07b0ce6a75d7": {
+  "en": "Sleep Inducer gels, smugglers' routes",
+  "t": "スリープ・インデューサーのジェル、密輸の経路"
+ },
  "085e70444e95": {
   "en": "Factions and what they want",
   "t": "派閥とその望み"
+ },
+ "090132024753": {
+  "en": "Fences for stolen goods, tips on Forway convoys",
+  "t": "盗品の故買屋、フォーウェイの輸送隊の情報"
+ },
+ "10c788cb984f": {
+  "en": "Customers, privacy",
+  "t": "客、秘密厳守"
+ },
+ "111a031da88c": {
+  "en": "Bandits punished, Sundeath law",
+  "t": "盗賊が罰せられること、サンデスの法"
  },
  "12ed4534aacc": {
   "en": "**Sanbi Royals**",
@@ -14,6 +38,22 @@
  "19089d32d628": {
   "en": "Their people happy, daughters left alone, the Queen's schemes kept quiet",
   "t": "民が幸せであること、娘たちに手を出されないこと、王妃のたくらみが表に出ないこと"
+ },
+ "1c857b6f0350": {
+  "en": "**Black Sapphires**",
+  "t": "**ブラックサファイアズ**"
+ },
+ "227373754379": {
+  "en": "The other village",
+  "t": "よその村"
+ },
+ "23a93b5fd265": {
+  "en": "Revival-debt collectors",
+  "t": "蘇生の借金の取り立て屋"
+ },
+ "25245711f5d8": {
+  "en": "Abusers — and people who report them to Forway",
+  "t": "虐待者 — そして彼女たちをフォーウェイに通報する者"
  },
  "267b716d224b": {
   "en": "Distrusted",
@@ -31,33 +71,97 @@
   "en": "Hagglers, latecomers",
   "t": "値切る者、遅刻する者"
  },
+ "34f84c176f76": {
+  "en": "Cruros becoming citizens",
+  "t": "クルロが市民になること"
+ },
+ "3a6bfa5a8a81": {
+  "en": "**Triangle Lovers**",
+  "t": "**トライアングル・ラヴァーズ**"
+ },
  "3ed8f8451369": {
   "en": "See [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) for how helping, reporting or double-crossing bandits on an escort changes reputation.\n+1 for a completed job or a big favor for them; −1 for hurting their interests; −2 for killing members or exposing their secrets. One step per session at most.",
   "t": "護衛中に盗賊を手伝ったり、通報したり、裏切ったりしたとき評判がどう変わるかは[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)を参照。\n仕事をやり遂げたり大きな恩を売ったりすれば+1。彼らの利益を損なえば−1。構成員を殺したり秘密を暴いたりすれば−2。1セッションにつき最大1段階まで。"
+ },
+ "402c40b5dd89": {
+  "en": "Information, loyalty, silence",
+  "t": "情報、忠誠、沈黙"
+ },
+ "44621dd98413": {
+  "en": "Resort access, Sorefaries companions at a discount",
+  "t": "リゾートへの出入り、ソレファリエスの仲間を割引で"
+ },
+ "453ad71216b8": {
+  "en": "Forway Law defenders",
+  "t": "フォーウェイ法の擁護者"
  },
  "47fa9b6d86fb": {
   "en": "Their village to win",
   "t": "自分の村が勝つこと"
  },
+ "483d811d6a85": {
+  "en": "Safe passage on Triangle",
+  "t": "トライアングルでの安全な通行"
+ },
  "494ac0f00394": {
   "en": "Factions & Reputation",
   "t": "派閥と評判"
+ },
+ "4da74c04f6e7": {
+  "en": "Secrets about anyone, safe houses in brothels",
+  "t": "誰のことでも秘密を握れる、娼館の隠れ家"
+ },
+ "4fce8772af7a": {
+  "en": "Bodyguards, intel on abusers",
+  "t": "護衛、虐待者の情報"
+ },
+ "56f9c4356a11": {
+  "en": "**Blue Wozens**",
+  "t": "**ブルーウォゼンズ**"
  },
  "59cb10e498ea": {
   "en": "Rep",
   "t": "評判"
  },
+ "5e7c905e205e": {
+  "en": "The Triangle Way",
+  "t": "トライアングルの道"
+ },
+ "60f1430c7277": {
+  "en": "Blackmail, sabotage done quietly",
+  "t": "ゆすり、ひそかな妨害工作"
+ },
  "62464ed174e1": {
   "en": "A Blood Book signature (lifelong ally), chitin gear",
   "t": "ブラッドブックへの署名（一生の味方）、キチンの装備"
+ },
+ "634d0e028d16": {
+  "en": "**Half-Cruro**",
+  "t": "**ハーフ・クルロ**"
  },
  "673e6d26a5d6": {
   "en": "Contracts honored to the letter, booze sold, Wood People under control",
   "t": "契約を一字一句守ること、酒が売れること、ウッドピープルを抑えておくこと"
  },
+ "6883b9e71001": {
+  "en": "Vigilante muscle, bandit hideout locations",
+  "t": "自警団の腕力、盗賊の隠れ家の場所"
+ },
+ "6989dbb38706": {
+  "en": "Guilds as factions",
+  "t": "派閥としてのギルド"
+ },
  "6a31e99a23d5": {
   "en": "Track the party's (or each character's) reputation with factions from **−3 to +3**. Start at 0. Shared reputation is part of the shared world: one party's choices affect everyone.",
   "t": "一行の（またはキャラクターごとの）派閥からの評判を **−3から+3**で記録する。最初は0。共有の評判は共有の世界の一部であり、一つの一行の選択が皆に影響する。"
+ },
+ "6b24599785b6": {
+  "en": "Snitches, runaways and anyone who helps them",
+  "t": "密告者、逃亡者、そして彼らを助ける者すべて"
+ },
+ "6b552b19986f": {
+  "en": "**Fallen Tree**",
+  "t": "**フォールンツリー**"
  },
  "6c9df0b07c1d": {
   "en": "**Tolerideme kings**",
@@ -67,6 +171,22 @@
   "en": "Meaning",
   "t": "意味"
  },
+ "6eac13562875": {
+  "en": "**Red Winga**",
+  "t": "**レッドウィンガ**"
+ },
+ "73a15543951d": {
+  "en": "Protection for women and kids",
+  "t": "女性と子どもの保護"
+ },
+ "7b6378439916": {
+  "en": "Adventurers who find their den",
+  "t": "根城を見つけた冒険者"
+ },
+ "826e47cf5c80": {
+  "en": "Forway inspectors",
+  "t": "フォーウェイの検査官"
+ },
  "8a57754cde6e": {
   "en": "**Freeish villages**",
   "t": "**フリーイッシュの村々**"
@@ -75,13 +195,33 @@
   "en": "Vigilantes, debt-dodgers, Nari Worm killers",
   "t": "自警団、借金逃れ、ナリワーム殺し"
  },
+ "98a4c0c0ad95": {
+  "en": "**Flatland guilds**",
+  "t": "**フラットランドのギルド**"
+ },
  "9a670df0d36d": {
   "en": "**Gandew**",
   "t": "**ガンデュー**"
  },
+ "9c8e494285ad": {
+  "en": "Safe passage on the Forway–Sanbi road",
+  "t": "フォーウェイ～サンビ街道の安全な通行"
+ },
+ "a3113cdad5dc": {
+  "en": "**Hidden Sorenos**",
+  "t": "**ヒドゥン・ソレノズ**"
+ },
+ "a4e3d5c17989": {
+  "en": "Profit without bodies",
+  "t": "死体を出さずに儲けること"
+ },
  "ad96f2a7bbd7": {
   "en": "**Forway (embassies)**",
   "t": "**フォーウェイ（大使館）**"
+ },
+ "ae7ae3c72fcb": {
+  "en": "**Pussy Power**",
+  "t": "**プッシーパワー**"
  },
  "b0a1e8267185": {
   "en": "Gaining and losing",
@@ -95,6 +235,10 @@
   "en": "Anyone who embarrasses the family",
   "t": "一族に恥をかかせる者"
  },
+ "bc9e3c6b14ea": {
+  "en": "Rivals ruined, no trails",
+  "t": "足跡を残さずライバルを破滅させること"
+ },
  "bd1e2f7d0881": {
   "en": "Village guides, hunting grounds, a free guild if you marry in",
   "t": "村の案内人、狩り場、村の者と結婚すれば無料のギルド"
@@ -106,6 +250,10 @@
  "d105253081c4": {
   "en": "Free meals, fost stones, Domar Carbey shipments",
   "t": "無料の食事、フォストストーン、ドマー・カーベイの出荷"
+ },
+ "d532d0a10a3c": {
+  "en": "Joining a guild (or founding one, 1 sapphire) gives the party a home, shared storage, inheritance rules and a family name. Guild reputation can be tracked like a faction.",
+  "t": "ギルドに入る（または1サファイアで作る）と、一行は拠点、共有の倉庫、相続のルール、そして家名を得る。ギルドの評判も派閥と同じように記録できる。"
  },
  "d64c3b4f5396": {
   "en": "Wants",
@@ -123,13 +271,33 @@
   "en": "Order, taxes, quests done, debts paid",
   "t": "秩序、税、依頼の達成、借金の返済"
  },
+ "dbce22727fbd": {
+  "en": "Anyone who burns a field",
+  "t": "畑を焼く者"
+ },
+ "dcf402a48292": {
+  "en": "**Bagarisa Brothers**",
+  "t": "**バガリサ・ブラザーズ**"
+ },
+ "e0a8de7e6402": {
+  "en": "**Black Magina**",
+  "t": "**ブラックマジナ**"
+ },
  "e1f20d437c27": {
   "en": "Cowards, people who mock the Goodbye Cliff",
   "t": "臆病者、グッバイ・クリフをからかう者"
  },
+ "e5b589a45fa3": {
+  "en": "Investigators",
+  "t": "調査する者"
+ },
  "e5c573ac0ba5": {
   "en": "Friendly; small favors, fair prices",
   "t": "友好的。ちょっとした頼みを聞いてくれ、値段も公正"
+ },
+ "e77475b4c302": {
+  "en": "Cruro guides, swamp passage",
+  "t": "クルロの案内人、沼の通行"
  },
  "e9e1e516087b": {
   "en": "Better quests, promotion recommendations, debt extensions",
@@ -139,6 +307,14 @@
   "en": "Faction",
   "t": "派閥"
  },
+ "f49300ebc818": {
+  "en": "Loose lips",
+  "t": "口の軽い者"
+ },
+ "f92e17719b5e": {
+  "en": "\"Donations\"",
+  "t": "「寄付」"
+ },
  "fcd5a642ce9c": {
   "en": "Trusted; secret quests, safe houses, discounts",
   "t": "信頼されている。秘密の依頼、隠れ家、割引"
@@ -146,5 +322,9 @@
  "feca2e4f68d9": {
   "en": "Hostile; prices doubled; ambushes",
   "t": "敵対。値段は2倍。待ち伏せ"
+ },
+ "ff4974e0d06f": {
+  "en": "Forway's money",
+  "t": "フォーウェイの金"
  }
 }

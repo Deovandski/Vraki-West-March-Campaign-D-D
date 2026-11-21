@@ -1,11 +1,127 @@
 {
+ "06e50bc6a491": {
+  "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
+  "t": "**Medidor de humor (1–6).** Al principio de cada día en el mundo, tira un d6: con un 1 el humor baja 1; con un 6 sube 1. Los grupos que luchan dentro lo suben 1 por cada día que pasan allí."
+ },
+ "0c814187591b": {
+  "en": "Nari Caverns (under Blood)",
+  "t": "Cavernas de Nari (bajo Blood)"
+ },
+ "181199f11e9e": {
+  "en": "Special rules for the places that make West March parties famous — or dead.",
+  "t": "Reglas especiales para los lugares que hacen famosos — o matan — a los grupos de West March."
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "Adormilado"
  },
+ "2bb785b5d192": {
+  "en": "Hifuna — exposure",
+  "t": "Hifuna — exposición"
+ },
+ "2bf600bc5be8": {
+  "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
+  "t": "Los túneles entre Gandew y Sundeath están llenos de bestias — id por tierra."
+ },
+ "2fd7b6d12e33": {
+  "en": "Rooms rearrange; a Walking Flathead wakes",
+  "t": "Las salas se reorganizan; un Walking Flathead despierta"
+ },
+ "37bf7b183ebf": {
+  "en": "Everything awake",
+  "t": "Todo despierto"
+ },
+ "3d2f3ffa2d82": {
+  "en": "Waves of undead pour out with **five commanders** (Flatheads). **Kingdom Alert**: all adventurers called. Kill the commanders to drop the mood to 3",
+  "t": "Oleadas de no muertos salen en tropel con **cinco comandantes** (Flatheads). **Alerta del reino**: se llama a todos los aventureros. Mata a los comandantes para bajar el humor a 3"
+ },
+ "3e05721d8a69": {
+  "en": "**Rampage**",
+  "t": "**Arrasamiento**"
+ },
+ "3ee3ebe0f1ef": {
+  "en": "Wood People groves wander. A **fost stone** jammed into a crown (melee attack vs AC 14, or automatic against a grappled tree) paralyzes one.",
+  "t": "Los bosquecillos de Wood People deambulan. Una **piedra fost** clavada en la copa (ataque cuerpo a cuerpo contra AC 14, o automático contra un árbol agarrado) paraliza a uno."
+ },
+ "444599ee02ef": {
+  "en": "**Gandew law:** any dispute can become a duel. Refuse and you lose face — and in Gandew, face matters.",
+  "t": "**Ley de Gandew:** cualquier disputa puede convertirse en un duelo. Si te niegas, quedas mal — y en Gandew, quedar bien importa."
+ },
+ "488aff06b94b": {
+  "en": "**Noise:** every loud action (combat, explosions, shouting) — roll a d6; on a 1 the worms stir and the cavern **quakes** (DC 13 Dex save or 2d6 bludgeoning and knocked prone).",
+  "t": "**Ruido:** cada acción ruidosa (combate, explosiones, gritos) — tira un d6; con un 1 los gusanos se agitan y la caverna **tiembla** (salvación de Des DC 13 o 2d6 contundente y derribado)."
+ },
+ "520a8784ad31": {
+  "en": "The plateau edge is a 2 km cliff. Waterfall's elevators are the safe way up.",
+  "t": "El borde de la meseta es un acantilado de 2 km. Los ascensores de Waterfall son la forma segura de subir."
+ },
+ "5661b5bd8aaa": {
+  "en": "Dangerous Places",
+  "t": "Lugares peligrosos"
+ },
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "Gruñón"
+ },
+ "5f63c7cf5839": {
+  "en": "Walking Flesh hunt intruders; traps arm",
+  "t": "Los Walking Flesh cazan a los intrusos; las trampas se arman"
+ },
+ "66e5d6835c21": {
+  "en": "**Food** grown or hunted in Hifuna gives 1 Exposure when eaten.",
+  "t": "La **comida** cultivada o cazada en Hifuna da 1 de Exposición al comerla."
+ },
+ "67124bfc2385": {
+  "en": "Each day without water: DC 12 Con save or 1 exhaustion (DC 15 in Paulin).",
+  "t": "Cada día sin agua: salvación de Con DC 12 o 1 nivel de cansancio (DC 15 en Paulin)."
+ },
+ "6e820db3b996": {
+  "en": "Exposure 1: nausea (disadvantage on Con checks) · 2: hair falls out, −1 max SP · 3: you start to become **Hash** — +2 Strength, −2 Intelligence, you look wrong · 4: a full Hash mutation (DM and player design it; the character may need to retire as an NPC monster).",
+  "t": "Exposición 1: náuseas (desventaja en pruebas de Con) · 2: se te cae el pelo, −1 a los SP máximos · 3: empiezas a volverte **Hash** — +2 a Fuerza, −2 a Inteligencia, tienes un aspecto raro · 4: una mutación Hash completa (la diseñan el DM y el jugador; puede que el personaje tenga que retirarse como monstruo PNJ)."
+ },
+ "709d1c4f9f08": {
+  "en": "The Desert (Gandew, Flatland, Sundeath)",
+  "t": "El desierto (Gandew, Flatland, Sundeath)"
+ },
+ "725383d9892b": {
+  "en": "Outside",
+  "t": "Fuera"
+ },
+ "785d46cfcb8e": {
+  "en": "Nights are freezing: no warm gear → DC 10 Con save or 1 exhaustion.",
+  "t": "Las noches son heladas: sin ropa de abrigo → salvación de Con DC 10 o 1 nivel de cansancio."
+ },
+ "84938c66dec3": {
+  "en": "**Long rest outside Hifuna** removes 1 Exposure. A Tier III Nari Refresher or Body RESTORE (Tier III) removes all but the Hash change at 3+.",
+  "t": "Un **descanso largo fuera de Hifuna** elimina 1 de Exposición. Un Nari Refresher de Nivel III o un Body RESTORE (Nivel III) la eliminan toda, salvo el cambio Hash a partir de 3."
+ },
+ "90ca40f2552d": {
+  "en": "**Walking Heart stones** grow here. A character who implants one (via a scientist willing to do it) becomes undead: no eating/breathing/sleep, recovers SP only through strong emotion or stabbing nari stones into the chest, takes the stone's color powers (+2 to one ability, −2 to another, per the color table in the World Lore) and its emotional flaw. **Can't be revived.** Forway treats them as soul dead and wanted.",
+  "t": "Aquí crecen las **piedras Walking Heart**. Un personaje que se implanta una (gracias a un científico dispuesto a hacerlo) se vuelve no muerto: no come, no respira ni duerme, recupera SP solo con emociones fuertes o clavándose piedras de nari en el pecho, adquiere los poderes del color de la piedra (+2 a una característica, −2 a otra, según la tabla de colores de World Lore) y su defecto emocional. **No se puede reanimar.** Forway lo trata como muerto del alma y buscado."
+ },
+ "90ca8855e6ca": {
+  "en": "The castle is alive, moody, and still running Buhraies experiments. Bahyum village posts **\"Today's Castle Mood\"** every morning.",
+  "t": "El castillo está vivo, es temperamental y sigue ejecutando experimentos buhraies. La aldea de Bahyum publica **«El Humor del Castillo de Hoy»** cada mañana."
+ },
+ "90d4906e4123": {
+  "en": "**Lukewarm Lake:** Fihi big enough to drag a person under (use Fihi stats ×2 HP, swallow on a crit).",
+  "t": "**Lago Templado:** Fihi lo bastante grandes para arrastrar a una persona al fondo (usa las estadísticas de Fihi con ×2 HP; se traga a la víctima con un crítico)."
+ },
+ "918b69037868": {
+  "en": "Undead idle; doors open; a **new room** appears 1-in-6",
+  "t": "No muertos inactivos; puertas abiertas; aparece una **sala nueva** con 1 entre 6"
+ },
+ "95994003efcf": {
+  "en": "Bahyum Castle — the Castle Mood",
+  "t": "Castillo de Bahyum — el Humor del Castillo"
+ },
+ "9691b2d01805": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
+  "t": "Dos Flatheads; niebla que drena el alma (1 SP por hora)"
+ },
+ "c699d767b83d": {
+  "en": "Stragglers on the plains",
+  "t": "Rezagados en las llanuras"
  },
  "c8a9d51017e9": {
   "en": "Angry",
@@ -15,13 +131,57 @@
   "en": "Restless",
   "t": "Inquieto"
  },
+ "c9bb96fc7374": {
+  "en": "Irradiated land. Everything mutates.",
+  "t": "Tierra irradiada. Todo muta."
+ },
+ "cb16d93bb653": {
+  "en": "**Loot:** Buhraies research notes, Walking Heart stones (illegal), soul wood, black wood, ancient sigil rings (old-style rings are collectibles), and the occasional thing that should never leave.\n**New rooms** are a great excuse for one-shot dungeons.",
+  "t": "**Botín:** notas de investigación buhraies, piedras Walking Heart (ilegales), madera de alma, madera negra, anillos de sigilo antiguos (los anillos de estilo antiguo son objetos de coleccionista) y, de vez en cuando, algo que nunca debería salir de allí.\nLas **salas nuevas** son una excusa estupenda para mazmorras de una sola sesión."
+ },
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "Nombre"
  },
+ "cee862ffbe9f": {
+  "en": "Patrols of Walking Skin",
+  "t": "Patrullas de Walking Skin"
+ },
+ "dda58424b5c0": {
+  "en": "Mood",
+  "t": "Humor"
+ },
+ "e7daf0606071": {
+  "en": "Inside the castle",
+  "t": "Dentro del castillo"
+ },
+ "e84dd92bd631": {
+  "en": "Walking Skin packs raid nearby farms",
+  "t": "Grupos de Walking Skin asaltan granjas cercanas"
+ },
+ "e92163beb8b7": {
+  "en": "Embassy posts an Aquamarine quest",
+  "t": "La embajada publica una misión Aquamarine"
+ },
+ "ea6fe908f718": {
+  "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
+  "t": "**Sand Worms:** un Sayna o un gel Wozen Smell los detecta; si no, Percepción DC 15."
+ },
+ "ee5a0b8d29e1": {
+  "en": "**Sundeath law:** guilty until proven innocent. Have friends.",
+  "t": "**Ley de Sundeath:** culpable hasta que se demuestre lo contrario. Ten amigos."
+ },
+ "f10604376588": {
+  "en": "The Buhraies Plains",
+  "t": "Las Llanuras de Buhraies"
+ },
  "f2c02022cd69": {
   "en": "Quiet",
   "t": "Tranquilo"
+ },
+ "f85783fbd253": {
+  "en": "**Each day** in Hifuna (or each hour near a Walking Heart deposit), make a **DC 12 Constitution save** (DC 15 deep inside). On a failure, gain 1 **Exposure**.",
+  "t": "**Cada día** en Hifuna (o cada hora cerca de un yacimiento de Walking Hearts), haz una **tirada de salvación de Constitución DC 12** (DC 15 en lo más profundo). Si fallas, ganas 1 de **Exposición**."
  },
  "f95ed6f5d34d": {
   "en": "Furious",

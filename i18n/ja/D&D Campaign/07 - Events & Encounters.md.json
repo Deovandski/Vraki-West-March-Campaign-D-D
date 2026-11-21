@@ -1,0 +1,430 @@
+{
+ "026788607cf3": {
+  "en": "Ptaina scrambling every compass",
+  "t": "羅針盤をすべて狂わせるプタイナ"
+ },
+ "04c03bf816a4": {
+  "en": "A Koalin in the grass (everyone feels dread)",
+  "t": "草むらにコアリン（全員が恐怖を感じる）"
+ },
+ "05c50fc377f3": {
+  "en": "Hifuna People grove (1d2)",
+  "t": "ヒフナピープルの木立（1d2）"
+ },
+ "086d874806e7": {
+  "en": "A Freeish Blood-group hunting party tests whether you're \"worth a damn\"",
+  "t": "フリーイッシュの血のグループの狩猟隊が、君たちが「使える」かどうか試してくる"
+ },
+ "094d424d94e9": {
+  "en": "Ptaina stuns fish (and your helmsman)",
+  "t": "プタイナが魚を（そして君の舵取りを）気絶させる"
+ },
+ "0990cd2fea79": {
+  "en": "A lighthouse gone dark",
+  "t": "消えた灯台"
+ },
+ "0b3a6b12e105": {
+  "en": "Eerie silence — no event, but everyone feels watched from the north",
+  "t": "不気味な静けさ — イベントはないが、全員が北から見られている気がする"
+ },
+ "108ae2c42f06": {
+  "en": "Sucker Lady begins stalking one character (it attacks in 1d3 nights)",
+  "t": "サッカー・レディがキャラクターの一人をつけ回し始める（1d3晩後に襲う）"
+ },
+ "11f13917c300": {
+  "en": "Black Sapphire symbol scratched on a rock",
+  "t": "岩に刻まれたブラックサファイアの印"
+ },
+ "13cfb6aae192": {
+  "en": "Abandoned watchtower with a dead adventurer and a half-full water skin",
+  "t": "死んだ冒険者と半分残った水袋がある、打ち捨てられた見張り塔"
+ },
+ "16234851d29f": {
+  "en": "Use the region the party is crossing. Stat blocks are in [Stat Blocks](Stat%20Blocks). Scale numbers to the party.",
+  "t": "一行が通っている地域の表を使う。データは[データ集](Stat%20Blocks)にある。数は一行に合わせて調整すること。"
+ },
+ "1bf5868659d3": {
+  "en": "A Walking Heart stone glinting in the rubble",
+  "t": "がれきの中で光るウォーキングハートの石"
+ },
+ "1d94fa5e7b51": {
+  "en": "On any wagon or cargo escort, a go-between may offer the party a cut for helping the bandits rob the wagon they're guarding. Roll a d6 at departure (offer on a **1**), or swap it in for a night encounter, once per escort. Full rules: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md).",
+  "t": "荷馬車や積み荷の護衛中、仲介人が一行に、守っている荷馬車を盗賊が襲う手助けをすれば分け前をやると持ちかけてくることがある。出発時にd6を振る（**1**で申し出）か、夜の遭遇の代わりにする。護衛1回につき1回まで。ルールの全文：[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)。"
+ },
+ "1e45d3804d15": {
+  "en": "A stray Egua that loves whoever feeds it",
+  "t": "餌をくれる人なら誰にでもなつく迷いエグア"
+ },
+ "1f6e45cce440": {
+  "en": "Sanbi Coast & Swamps (Sanbi, Long Bridge, Aldemeri, Cruro, Tastyleaf)",
+  "t": "サンビの海岸と沼（サンビ、ロング・ブリッジ、アルデメリ、クルロ、テイスティリーフ）"
+ },
+ "20a0ab641deb": {
+  "en": "Wood People bandits herding trees toward a wagon",
+  "t": "荷馬車へ木々を追い立てるウッドピープルの盗賊"
+ },
+ "22965fb8810a": {
+  "en": "Combat",
+  "t": "戦闘"
+ },
+ "22b0f27c7a28": {
+  "en": "Blue Wozens \"donation\" checkpoint (1 boss + 1d4+2 bandits) — they'd rather take your balls than your life (escorting cargo? they may make an offer instead: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))",
+  "t": "ブルーウォゼンズの「寄付」の検問（頭目1＋盗賊1d4+2） — 命より君のボールが欲しい連中だ（積み荷の護衛中？ 代わりに話を持ちかけてくるかもしれない：[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）"
+ },
+ "249fc620635b": {
+  "en": "Old Fuhrair gamblers with a \"foolproof\" claim map",
+  "t": "「絶対確実な」採掘権の地図を持ったオールド・フライアのギャンブラー"
+ },
+ "25840c471123": {
+  "en": "Sea fog: Survival DC 13 or +1 day",
+  "t": "海霧：DC 13の〈生存〉に失敗すると+1日"
+ },
+ "25b4a3b146f3": {
+  "en": "Region tables (d12)",
+  "t": "地域の表（d12）"
+ },
+ "27dcdf3d3fee": {
+  "en": "A Fihi-infested reef",
+  "t": "フィヒがはびこる岩礁"
+ },
+ "2c647e1774d8": {
+  "en": "Brunto stowaway (Endlessfog)",
+  "t": "ブルントの密航者（エンドレスフォグ）"
+ },
+ "2c9b6a2d8f0c": {
+  "en": "Crazed Muckman wandering, ignoring you unless provoked",
+  "t": "クレイズド・マックマンがうろついている。挑発しない限り無視する"
+ },
+ "2f2be1bda092": {
+  "en": "Fatupari launches out of a tree",
+  "t": "ファトゥパリが木から飛びかかってくる"
+ },
+ "2f4d08c5f643": {
+  "en": "A Fanchaki swarm stampedes through camp",
+  "t": "ファンチャキの群れが野営地を駆け抜ける"
+ },
+ "307cd2673845": {
+  "en": "Events & Encounters",
+  "t": "イベントと遭遇"
+ },
+ "322cb365035b": {
+  "en": "Radiation surge: everyone makes an exposure save",
+  "t": "放射能の急上昇：全員が被曝のセーヴを行う"
+ },
+ "3273a814b0e9": {
+  "en": "Corpse with a Monika butterfly on it — a dead adventurer; badge still on them (return it for 1 amethyst)",
+  "t": "モニカ蝶がとまった死体 — 死んだ冒険者で、身分証がまだついている（届ければ1アメジスト）"
+ },
+ "358e6e641d6b": {
+  "en": "When to roll",
+  "t": "ロールするタイミング"
+ },
+ "35c228db0fa4": {
+  "en": "A village festival (Blood & Soil, White Roundies) — free food, likely brawl",
+  "t": "村の祭り（血と土、ホワイトラウンディーズ） — 食べ物は無料、たぶん乱闘"
+ },
+ "36270072fc8a": {
+  "en": "Wozen pack hunting at night (1d4+1)",
+  "t": "夜に狩りをするウォゼンの群れ（1d4+1）"
+ },
+ "3708b0559f87": {
+  "en": "Crocus pair invisible in the reeds (2)",
+  "t": "葦の中に姿を消したクロッカスの二頭組（2）"
+ },
+ "38d18b46a770": {
+  "en": "Rumors (d10)",
+  "t": "噂（d10）"
+ },
+ "3b1ae16b7cbc": {
+  "en": "Smugglers with banned gels",
+  "t": "禁止ジェルを持った密輸人"
+ },
+ "3ea122432636": {
+  "en": "A Wozefaries baby glides down from the Goodbye Cliff (if near Gandew)",
+  "t": "ウォゼファリエスの赤ん坊がグッバイ・クリフから滑空してくる（ガンデューの近くなら）"
+ },
+ "3edff9ca9ae2": {
+  "en": "Aldemeri bandits in the ruins (escorting cargo? one of them comes to camp with a proposal: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))",
+  "t": "遺跡にいるアルデメリの盗賊（積み荷の護衛中？ 一人が話を持って野営地にやってくる：[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）"
+ },
+ "3ee29ff54486": {
+  "en": "A giant Sanbi fish rises and stares at the oldest person aboard",
+  "t": "巨大なサンビの魚が浮かび上がり、船上でいちばん年長の者をじっと見つめる"
+ },
+ "4036c9e595e4": {
+  "en": "Gandew guard alone on patrol, helmet locked; silent",
+  "t": "兜を固定し、一人で巡回するガンデューの衛兵。無言"
+ },
+ "420c4ce05c9c": {
+  "en": "Sanbi guards fishing off duty; offer to share",
+  "t": "非番で釣りをしているサンビの衛兵。分けてくれると言う"
+ },
+ "442f7a4b8526": {
+  "en": "Ganyrami squatters offer a \"contract\" — no badges involved",
+  "t": "ガニラミの住人が「契約」を持ちかけてくる — 身分証は関係なし"
+ },
+ "4a00b48f6453": {
+  "en": "**Graveyard** and **Night** shifts: always roll.",
+  "t": "**深夜**と**夜**の時間帯：必ずロールする。"
+ },
+ "4b4d01b3f883": {
+  "en": "Sandstorm: lost for a day unless DC 15 Survival",
+  "t": "砂嵐：DC 15の〈生存〉に成功しなければ1日迷う"
+ },
+ "4ea1b0bf7f16": {
+  "en": "Night Wozens (1d3) stalk the camp",
+  "t": "夜のウォゼン（1d3）が野営地をうかがう"
+ },
+ "4fa889e9c34f": {
+  "en": "Toleridemian patrol in a big lazy pack; they won't negotiate",
+  "t": "大人数でのんびり動くトレリデメの巡回隊。交渉には応じない"
+ },
+ "545d8f98b8c7": {
+  "en": "Newland driftwood carved with giant-sloth claw marks",
+  "t": "巨大なナマケモノの爪あとが刻まれた、ニューランドからの流木"
+ },
+ "54b43dc68a07": {
+  "en": "Who's watching?",
+  "t": "見張りは誰？"
+ },
+ "54bb347fef8c": {
+  "en": "Cruro tribal hunters (1d4+1); smart ones draw first, dumb ones bite first",
+  "t": "クルロの部族の狩人（1d4+1）。賢いのは先に武器を抜き、愚かなのは先に噛みつく"
+ },
+ "5520ba833739": {
+  "en": "Lansha herd (1d3)",
+  "t": "ランシャの群れ（1d3）"
+ },
+ "5bb2a0ccd2d5": {
+  "en": "A broken merchant wagon; the merchant swears it was \"an accident\" (ambush 50%)",
+  "t": "壊れた商人の荷馬車。商人は「事故だった」と言い張る（50%で待ち伏せ）"
+ },
+ "5fd86e8c3566": {
+  "en": "Hifuna & the Far North",
+  "t": "ヒフナと遥かな北"
+ },
+ "620dcdf4f2d4": {
+  "en": "Zico with his journal (he's lost, and happy to see you)",
+  "t": "日誌を持ったジコ（迷子で、君たちに会えて大喜び）"
+ },
+ "693417767245": {
+  "en": "**Event roll (d6):** **1** = encounter (roll on the region table) · **2** = sign or omen (tracks, smoke, a rumor, a corpse — something that hints at the region table) · **3–6** = nothing (describe the scenery or food).\nIncrease the chance (1–2 = encounter) in Slow-pace regions, at night, or if the party is loud, smelly (Bagarisa musk!) or carrying something valuable.",
+  "t": "**イベント・ロール（d6）：** **1** ＝ 遭遇（地域の表でロール） · **2** ＝ 兆しや前触れ（足跡、煙、噂、死体 — 地域の表をほのめかす何か） · **3–6** ＝ 何もなし（景色や食事を描写する）。\n遅いペースの地域、夜、または一行がうるさい、臭い（バガリサのじゃこう！）、何か価値あるものを運んでいる場合は、確率を上げる（1–2 ＝ 遭遇）。"
+ },
+ "694bd1f2f8d5": {
+  "en": "A vassal village walled with paralyzed Wood People asks for help",
+  "t": "麻痺させたウッドピープルで囲われた属村が助けを求める"
+ },
+ "6a9782e1674f": {
+  "en": "Big Winga shadow overhead (a wild one!)",
+  "t": "頭上にビッグウィンガの影（野生だ！）"
+ },
+ "6c0a0a19823b": {
+  "en": "Travelers going the other way: swap gossip (roll a rumor)",
+  "t": "反対方向へ行く旅人：噂話を交換する（噂をロール）"
+ },
+ "6d56e7d72d98": {
+  "en": "**Morning** and **Afternoon** shifts: roll if you want (or skip them).",
+  "t": "**朝**と**午後**の時間帯：ロールしたければする（飛ばしてもよい）。"
+ },
+ "7933e1c26464": {
+  "en": "Sanbi fishers in trouble",
+  "t": "困っているサンビの漁師"
+ },
+ "7a04aa16ee67": {
+  "en": "A Sundeath patrol looking for someone guilty (that could be you)",
+  "t": "誰か有罪の者を探しているサンデスの巡回隊（君かもしれない）"
+ },
+ "7d2b5916d0f3": {
+  "en": "Forway Plains & Roads (around Forway, Long Bridge and the main roads)",
+  "t": "フォーウェイの平原と街道（フォーウェイ、ロング・ブリッジ、主要街道の周辺）"
+ },
+ "82b003aa5aed": {
+  "en": "Lukewarm Lake Fihi near the shore",
+  "t": "岸の近くにぬるま湖のフィヒ"
+ },
+ "8497d6a258ed": {
+  "en": "Teefyro wandering down from Hifuna (near Tastyleaf)",
+  "t": "ヒフナから下りてきたティーフィロ（テイスティリーフ近く）"
+ },
+ "87b00c3952f5": {
+  "en": "Bahyum's mood rises 1 (see Dangerous Places)",
+  "t": "バヒュムの機嫌が1上がる（「危険な場所」を参照）"
+ },
+ "8b441cd5ef98": {
+  "en": "Triangle patrol boat insists everyone bathroom-syncs",
+  "t": "トライアングルの巡視船が、全員トイレの時間をそろえろと言い張る"
+ },
+ "8f0b0216d31e": {
+  "en": "Flinga circling low — and something small and wooden riding it",
+  "t": "低く旋回するフリンガ — そして、それに乗った小さな木の何か"
+ },
+ "91b72d1fc441": {
+  "en": "Wooly herd up in the cold heights",
+  "t": "寒い高地にいるウーリーの群れ"
+ },
+ "92c6bc2c8b51": {
+  "en": "Sweet Sting workers (near Sweetlake): don't swat",
+  "t": "スイートスティングの働き蜂（スイートレイクの近く）：はたいてはいけない"
+ },
+ "92e7a1a07a73": {
+  "en": "Teefyro pack (1d3)",
+  "t": "ティーフィロの群れ（1d3）"
+ },
+ "930d3b1a6f69": {
+  "en": "Pussy Power members interrogating a frightened man",
+  "t": "おびえる男を尋問するプッシーパワーの構成員"
+ },
+ "932a3527f08c": {
+  "en": "A ruined Forway science station",
+  "t": "廃墟になったフォーウェイの科学観測所"
+ },
+ "953e3ab50a70": {
+  "en": "Pink Winga flock — beautiful, territorial",
+  "t": "ピンク・ウィンガの群れ — 美しく、縄張り意識が強い"
+ },
+ "961f1be63301": {
+  "en": "During Graveyard, characters on watch roll Wisdom (Perception) when an encounter comes. Sleepers wake up at the start of round 2 (or round 1 if a watcher shouts). Saynas, Wozefaries and Darfaries veins help: grant advantage where it makes sense.",
+  "t": "深夜のあいだ、遭遇が起きたら見張りのキャラクターは【判断力】〈知覚〉判定を行う。眠っている者は第2ラウンドの開始時に目を覚ます（見張りが叫べば第1ラウンド）。サイナ、ウォゼファリエス、ダルファリエスの血管は役に立つ：理にかなう場面では有利を与えよう。"
+ },
+ "966bf9a474fa": {
+  "en": "Cinika swarm flees east — storm in 1 shift",
+  "t": "シニカの群れが東へ逃げていく — 1時間帯後に嵐"
+ },
+ "99397a06f8be": {
+  "en": "Half-Cruro recruiters negotiating with a frightened Cruro",
+  "t": "おびえるクルロと交渉するハーフ・クルロの勧誘員"
+ },
+ "a0ee6168f2e2": {
+  "en": "A Hash creature of the DM's choice",
+  "t": "DMが選んだハッシュの生き物"
+ },
+ "a128f1c96a7b": {
+  "en": "Falling Greenbread (DC 13 Dex save or 3d10 bludgeoning)",
+  "t": "グリーンブレッドが落ちてくる（DC 13の【敏捷力】セーヴに失敗すると3d10の殴打）"
+ },
+ "a23aeeeb78cf": {
+  "en": "Darfaries \"dungeon party\" crawling out of a tunnel, drunk and challenging anyone",
+  "t": "トンネルから這い出してきた、酔っぱらって誰彼かまわず挑むダルファリエスの「ダンジョン・パーティー」"
+ },
+ "a86a7a74a0a0": {
+  "en": "Flinga overhead (an omen in winter)",
+  "t": "頭上にフリンガ（冬なら凶兆）"
+ },
+ "a9f603c6f080": {
+  "en": "Trunk People light up the trees — curious, then protective if you damage a soul tree",
+  "t": "トランクピープルが木々を照らす — 好奇心旺盛だが、ソウルツリーを傷つけると守りに入る"
+ },
+ "ac3baf674787": {
+  "en": "Fake green signal smoke ahead (bandit trap)",
+  "t": "前方に偽の緑の合図の煙（盗賊の罠）"
+ },
+ "b26d39e00d8c": {
+  "en": "Elevator queue at Waterfall: Sanbians first, Toleridemians wait",
+  "t": "ウォーターフォールの昇降機の行列：サンビ人が先、トレリデメ人は後回し"
+ },
+ "b416b6a42e5c": {
+  "en": "Special event: The Inside Job",
+  "t": "特別イベント：内部の手引き"
+ },
+ "b5dd9f694f0c": {
+  "en": "Barina frogs in a pond — toxic gas",
+  "t": "池のバリナガエル — 毒ガス"
+ },
+ "b7eceba842aa": {
+  "en": "Desert (Gandew, Flatland, Sundeath, Old Fuhrair)",
+  "t": "砂漠（ガンデュー、フラットランド、サンデス、オールド・フライア）"
+ },
+ "b811b9280caa": {
+  "en": "Hash Wozen pack",
+  "t": "ハッシュのウォゼンの群れ"
+ },
+ "bc51d190846c": {
+  "en": "Legunia flock bolts — the desert is getting worse (hump shrinks)",
+  "t": "レグニアの群れが一斉に逃げ出す — 砂漠の状態が悪くなっている（こぶが縮む）"
+ },
+ "befdf90eb263": {
+  "en": "Sand Worm ambush (DC 15 Perception, or a Sayna, to notice)",
+  "t": "サンドワームの待ち伏せ（気づくにはDC 15の〈知覚〉かサイナが必要）"
+ },
+ "c29e095b486e": {
+  "en": "A drunk Toleridemian toastmaster insists you toast for hours",
+  "t": "酔ったトレリデメの乾杯役が、何時間も乾杯しろと言い張る"
+ },
+ "c5f967a5edf3": {
+  "en": "Roll twice",
+  "t": "2回ロールする"
+ },
+ "c94f4691721b": {
+  "en": "Use normal **initiative**. (The Alpha campaign's \"turns based on AC\" is retired.)",
+  "t": "通常の**イニシアチブ**を使う。（アルファ版キャンペーンの「ACによる手番」は廃止。）"
+ },
+ "cc2cac26af1b": {
+  "en": "Sand Sea guild hunters with nets and an empty cage",
+  "t": "網と空の檻を持ったサンドシーギルドの狩人"
+ },
+ "ccdca60dbea8": {
+  "en": "Black Magina sleepers — drugged travelers asleep in a clearing",
+  "t": "ブラックマジナの眠り客 — 空き地で眠りこける薬を盛られた旅人たち"
+ },
+ "ce8397db349e": {
+  "en": "Forway guard patrol (1d4+2 guards) asks for badges; superiority complex included",
+  "t": "フォーウェイの衛兵の巡回（1d4+2人）が身分証を求める。優越感つき"
+ },
+ "d31f012a863a": {
+  "en": "Walking Flesh (1) standing perfectly still in a field",
+  "t": "畑の中で微動だにしないウォーキング・フレッシュ（1）"
+ },
+ "d5fb40184df9": {
+  "en": "Buhraies Plains (Tolerideme, Bahyum, Wingarest, Waterfall)",
+  "t": "ブライエス・プレーンズ（トレリデメ、バヒュム、ウィンガレスト、ウォーターフォール）"
+ },
+ "da9c664a5866": {
+  "en": "Saynas playing — \"Pohw-pohhhww!\" (one might adopt the party)",
+  "t": "遊んでいるサイナたち — 「ポウ・ポーーウ！」（一匹が一行を飼い主に選ぶかも）"
+ },
+ "db8d32f7f46b": {
+  "en": "Fishers chanting the Safe Fishing Prayer — a big Sanbi is about to be landed",
+  "t": "安全な漁の祈りを唱える漁師たち — 大きなサンビがまさに釣り上げられようとしている"
+ },
+ "de416f849404": {
+  "en": "**Long trips:** roll **once per circle** instead of per shift. The DM's knob again.",
+  "t": "**長旅：** 時間帯ごとではなく**1サークルにつき1回**ロールする。ここでもDMのつまみだ。"
+ },
+ "e572bdfb2b55": {
+  "en": "Walking Skin swarm drifting from Bahyum (2d4)",
+  "t": "バヒュムから流れてきたウォーキング・スキンの群れ（2d4）"
+ },
+ "e79de586e852": {
+  "en": "A Bagarisa herd blocks the road (2d4 Bagarisa) — great dinner, bad musk",
+  "t": "バガリサの群れが道をふさぐ（2d4頭） — 最高の夕食、最悪のじゃこう"
+ },
+ "e7a5fd07a8fb": {
+  "en": "Shapeshifter mimicking a lost traveler's voice",
+  "t": "迷った旅人の声をまねるシェイプシフター"
+ },
+ "f02de34439ca": {
+  "en": "White Roundies swim alongside (winter) — trade food for treasure",
+  "t": "ホワイトラウンディーズが並んで泳ぐ（冬） — 食べ物と宝を交換する"
+ },
+ "f04a52ed4e61": {
+  "en": "Freeish Forests (Freeish, Deltacross, Blood, Sweetlake, Ganyrami)",
+  "t": "フリーイッシュの森（フリーイッシュ、デルタクロス、ブラッド、スイートレイク、ガニラミ）"
+ },
+ "f44454818331": {
+  "en": "Wood People grove wanders across the path (1d4)",
+  "t": "ウッドピープルの木立が道を横切る（1d4）"
+ },
+ "f8b201f5b11a": {
+  "en": "Hash Bagarisa (template)",
+  "t": "ハッシュのバガリサ（テンプレート）"
+ },
+ "fa1cc072e553": {
+  "en": "\"Bahyum's mood tracker hit 5 last week.\" 2. \"A Fuhraies was seen near Fuhrair.\" 3. \"The Blue Wozens' den is near Fiera's Hut.\" 4. \"Red Winga is recruiting in Sweetlake.\" 5. \"The Smart Ladies' statue cried beer.\" 6. \"Flingas in winter again — something's coming.\" 7. \"Someone is selling Walking Hearts in Ganyrami.\" 8. \"The Stinger killed a Sand Worm bare-handed.\" 9. \"King Itagiba has bastards all over the kingdoms.\" 10. \"A Sapphire hero didn't die in Hifuna — he was murdered.\"",
+  "t": "「先週、バヒュムの機嫌の掲示が5になった」 2.「フライアの近くでフライエスが目撃された」 3.「ブルーウォゼンズの根城はフィエラズ・ハットの近くだ」 4.「レッドウィンガがスイートレイクで人を集めている」 5.「スマートレディーズの像がビールの涙を流した」 6.「また冬にフリンガだ — 何かが来るぞ」 7.「ガニラミで誰かがウォーキングハートを売っている」 8.「スティンガーが素手でサンドワームを殺した」 9.「イタジバ王には王国じゅうに隠し子がいる」 10.「サファイアの英雄はヒフナで死んだんじゃない — 殺されたんだ」"
+ },
+ "fdf99c0a2bc3": {
+  "en": "Sea & Islands (Triangle, Endlessfog, coastal boats)",
+  "t": "海と島々（トライアングル、エンドレスフォグ、沿岸の船）"
+ }
+}

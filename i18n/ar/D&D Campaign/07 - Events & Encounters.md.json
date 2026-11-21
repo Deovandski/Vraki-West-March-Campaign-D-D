@@ -1,0 +1,430 @@
+{
+ "026788607cf3": {
+  "en": "Ptaina scrambling every compass",
+  "t": "بتاينا يربك كل البوصلات"
+ },
+ "04c03bf816a4": {
+  "en": "A Koalin in the grass (everyone feels dread)",
+  "t": "كوالين في العشب (يشعر الجميع بالرهبة)"
+ },
+ "05c50fc377f3": {
+  "en": "Hifuna People grove (1d2)",
+  "t": "أيكة من هيفونا بيبول (1d2)"
+ },
+ "086d874806e7": {
+  "en": "A Freeish Blood-group hunting party tests whether you're \"worth a damn\"",
+  "t": "فرقة صيد من مجموعة الدم في فريئيش تختبر إن كنتم «تساوون شيئًا»"
+ },
+ "094d424d94e9": {
+  "en": "Ptaina stuns fish (and your helmsman)",
+  "t": "بتاينا يصعق السمك (وربّان دفتك)"
+ },
+ "0990cd2fea79": {
+  "en": "A lighthouse gone dark",
+  "t": "منارة انطفأت"
+ },
+ "0b3a6b12e105": {
+  "en": "Eerie silence — no event, but everyone feels watched from the north",
+  "t": "صمت مخيف — لا حدث، لكن الجميع يشعر أنه مراقَب من الشمال"
+ },
+ "108ae2c42f06": {
+  "en": "Sucker Lady begins stalking one character (it attacks in 1d3 nights)",
+  "t": "ساكر ليدي تبدأ بملاحقة إحدى الشخصيات (تهاجم بعد 1d3 ليالٍ)"
+ },
+ "11f13917c300": {
+  "en": "Black Sapphire symbol scratched on a rock",
+  "t": "رمز بلاك سافاير محفور على صخرة"
+ },
+ "13cfb6aae192": {
+  "en": "Abandoned watchtower with a dead adventurer and a half-full water skin",
+  "t": "برج مراقبة مهجور فيه مغامر ميت وقربة ماء نصف ممتلئة"
+ },
+ "16234851d29f": {
+  "en": "Use the region the party is crossing. Stat blocks are in [Stat Blocks](Stat%20Blocks). Scale numbers to the party.",
+  "t": "استخدم الإقليم الذي يعبره الفريق. كتل الإحصاءات في [كتل الإحصاءات](Stat%20Blocks). واضبط الأعداد بحسب الفريق."
+ },
+ "1bf5868659d3": {
+  "en": "A Walking Heart stone glinting in the rubble",
+  "t": "حجر ووكينغ هارت يلمع بين الأنقاض"
+ },
+ "1d94fa5e7b51": {
+  "en": "On any wagon or cargo escort, a go-between may offer the party a cut for helping the bandits rob the wagon they're guarding. Roll a d6 at departure (offer on a **1**), or swap it in for a night encounter, once per escort. Full rules: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md).",
+  "t": "في أي مرافقة لعربة أو بضاعة، قد يعرض وسيط على الفريق حصة مقابل مساعدة قطّاع الطرق على سرقة العربة التي يحرسونها. ارمِ d6 عند الانطلاق (العرض عند **1**)، أو ضعه مكان لقاء ليلي، مرة واحدة لكل مرافقة. القواعد كاملة: [العمل من الداخل](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)."
+ },
+ "1e45d3804d15": {
+  "en": "A stray Egua that loves whoever feeds it",
+  "t": "إيغوا تائه يحب كل من يطعمه"
+ },
+ "1f6e45cce440": {
+  "en": "Sanbi Coast & Swamps (Sanbi, Long Bridge, Aldemeri, Cruro, Tastyleaf)",
+  "t": "ساحل سانبي ومستنقعاتها (سانبي، لونغ بريدج، ألديميري، كرورو، تيستي ليف)"
+ },
+ "20a0ab641deb": {
+  "en": "Wood People bandits herding trees toward a wagon",
+  "t": "قطّاع طرق الوود بيبول يسوقون الأشجار نحو عربة"
+ },
+ "22965fb8810a": {
+  "en": "Combat",
+  "t": "القتال"
+ },
+ "22b0f27c7a28": {
+  "en": "Blue Wozens \"donation\" checkpoint (1 boss + 1d4+2 bandits) — they'd rather take your balls than your life (escorting cargo? they may make an offer instead: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))",
+  "t": "نقطة «تبرعات» للبلو ووزنز (زعيم واحد + 1d4+2 من قطّاع الطرق) — يفضّلون أخذ كراتك على أخذ حياتك (ترافقون بضاعة؟ قد يقدمون لكم عرضًا بدلًا من ذلك: [العمل من الداخل](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))"
+ },
+ "249fc620635b": {
+  "en": "Old Fuhrair gamblers with a \"foolproof\" claim map",
+  "t": "مقامرو فورير القديمة مع خريطة امتياز «لا تخيب»"
+ },
+ "25840c471123": {
+  "en": "Sea fog: Survival DC 13 or +1 day",
+  "t": "ضباب البحر: النجاة DC 13 وإلا +1 يوم"
+ },
+ "25b4a3b146f3": {
+  "en": "Region tables (d12)",
+  "t": "جداول الأقاليم (d12)"
+ },
+ "27dcdf3d3fee": {
+  "en": "A Fihi-infested reef",
+  "t": "شعاب تعجّ بالفيهي"
+ },
+ "2c647e1774d8": {
+  "en": "Brunto stowaway (Endlessfog)",
+  "t": "برونتو متسلل على متن القارب (إندلس فوغ)"
+ },
+ "2c9b6a2d8f0c": {
+  "en": "Crazed Muckman wandering, ignoring you unless provoked",
+  "t": "كريزد ماكمان يتجول، ويتجاهلكم ما لم يُستفزّ"
+ },
+ "2f2be1bda092": {
+  "en": "Fatupari launches out of a tree",
+  "t": "فاتوباري يقذف نفسه من شجرة"
+ },
+ "2f4d08c5f643": {
+  "en": "A Fanchaki swarm stampedes through camp",
+  "t": "سرب من الفانتشاكي يتدافع عبر المخيم"
+ },
+ "307cd2673845": {
+  "en": "Events & Encounters",
+  "t": "الأحداث واللقاءات"
+ },
+ "322cb365035b": {
+  "en": "Radiation surge: everyone makes an exposure save",
+  "t": "طفرة إشعاع: يجري الجميع رمية إنقاذ من التعرّض"
+ },
+ "3273a814b0e9": {
+  "en": "Corpse with a Monika butterfly on it — a dead adventurer; badge still on them (return it for 1 amethyst)",
+  "t": "جثة عليها فراشة مونيكا — مغامر ميت؛ وبطاقته ما زالت معه (أعِدها مقابل 1 أميثيست)"
+ },
+ "358e6e641d6b": {
+  "en": "When to roll",
+  "t": "متى ترمي"
+ },
+ "35c228db0fa4": {
+  "en": "A village festival (Blood & Soil, White Roundies) — free food, likely brawl",
+  "t": "مهرجان قرية (الدم والتربة، الوايت راونديز) — طعام مجاني، وعراك محتمل"
+ },
+ "36270072fc8a": {
+  "en": "Wozen pack hunting at night (1d4+1)",
+  "t": "قطيع ووزن يصطاد ليلًا (1d4+1)"
+ },
+ "3708b0559f87": {
+  "en": "Crocus pair invisible in the reeds (2)",
+  "t": "زوج من الكروكوس خفيّ بين القصب (2)"
+ },
+ "38d18b46a770": {
+  "en": "Rumors (d10)",
+  "t": "الشائعات (d10)"
+ },
+ "3b1ae16b7cbc": {
+  "en": "Smugglers with banned gels",
+  "t": "مهربون بجل محظور"
+ },
+ "3ea122432636": {
+  "en": "A Wozefaries baby glides down from the Goodbye Cliff (if near Gandew)",
+  "t": "طفل ووزيفاريس ينزلق نازلًا من جرف الوداع (إن كنتم قرب غانديو)"
+ },
+ "3edff9ca9ae2": {
+  "en": "Aldemeri bandits in the ruins (escorting cargo? one of them comes to camp with a proposal: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))",
+  "t": "قطّاع طرق ألديميري في الأطلال (ترافقون بضاعة؟ يأتي أحدهم إلى المخيم بعرض: [العمل من الداخل](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))"
+ },
+ "3ee29ff54486": {
+  "en": "A giant Sanbi fish rises and stares at the oldest person aboard",
+  "t": "سمكة سانبي عملاقة تطفو وتحدّق في أكبر من على متن القارب سنًّا"
+ },
+ "4036c9e595e4": {
+  "en": "Gandew guard alone on patrol, helmet locked; silent",
+  "t": "حارس من غانديو في دورية وحده، خوذته مقفلة؛ صامت"
+ },
+ "420c4ce05c9c": {
+  "en": "Sanbi guards fishing off duty; offer to share",
+  "t": "حراس سانبي يصطادون في عطلتهم؛ ويعرضون مشاركتكم"
+ },
+ "442f7a4b8526": {
+  "en": "Ganyrami squatters offer a \"contract\" — no badges involved",
+  "t": "واضعو يد من غانيرامي يعرضون «عقدًا» — بلا بطاقات"
+ },
+ "4a00b48f6453": {
+  "en": "**Graveyard** and **Night** shifts: always roll.",
+  "t": "نوبتا **آخر الليل** و**الليل**: ارمِ دائمًا."
+ },
+ "4b4d01b3f883": {
+  "en": "Sandstorm: lost for a day unless DC 15 Survival",
+  "t": "عاصفة رملية: ضياع ليوم ما لم تنجح في النجاة DC 15"
+ },
+ "4ea1b0bf7f16": {
+  "en": "Night Wozens (1d3) stalk the camp",
+  "t": "ووزن ليلية (1d3) تتربص بالمخيم"
+ },
+ "4fa889e9c34f": {
+  "en": "Toleridemian patrol in a big lazy pack; they won't negotiate",
+  "t": "دورية توليريديمية في جماعة كبيرة كسولة؛ لا يفاوضون"
+ },
+ "545d8f98b8c7": {
+  "en": "Newland driftwood carved with giant-sloth claw marks",
+  "t": "خشب طافٍ من نيولاند عليه آثار مخالب كسلان عملاق"
+ },
+ "54b43dc68a07": {
+  "en": "Who's watching?",
+  "t": "من يراقب؟"
+ },
+ "54bb347fef8c": {
+  "en": "Cruro tribal hunters (1d4+1); smart ones draw first, dumb ones bite first",
+  "t": "صيادون قبليون من الكرورو (1d4+1)؛ الأذكياء يستلّون أولًا، والأغبياء يعضّون أولًا"
+ },
+ "5520ba833739": {
+  "en": "Lansha herd (1d3)",
+  "t": "قطيع لانشا (1d3)"
+ },
+ "5bb2a0ccd2d5": {
+  "en": "A broken merchant wagon; the merchant swears it was \"an accident\" (ambush 50%)",
+  "t": "عربة تاجر معطلة؛ يقسم التاجر إنها كانت «حادثًا» (كمين بنسبة 50%)"
+ },
+ "5fd86e8c3566": {
+  "en": "Hifuna & the Far North",
+  "t": "هيفونا والشمال البعيد"
+ },
+ "620dcdf4f2d4": {
+  "en": "Zico with his journal (he's lost, and happy to see you)",
+  "t": "زيكو مع دفتر يومياته (ضائع، وسعيد برؤيتكم)"
+ },
+ "693417767245": {
+  "en": "**Event roll (d6):** **1** = encounter (roll on the region table) · **2** = sign or omen (tracks, smoke, a rumor, a corpse — something that hints at the region table) · **3–6** = nothing (describe the scenery or food).\nIncrease the chance (1–2 = encounter) in Slow-pace regions, at night, or if the party is loud, smelly (Bagarisa musk!) or carrying something valuable.",
+  "t": "**رمية الحدث (d6):** **1** = لقاء (ارمِ على جدول الإقليم) · **2** = علامة أو نذير (آثار، دخان، شائعة، جثة — شيء يلمّح إلى جدول الإقليم) · **3–6** = لا شيء (صِف المشهد أو الطعام).\nزِد الاحتمال (1–2 = لقاء) في أقاليم الإيقاع البطيء، أو ليلًا، أو إن كان الفريق صاخبًا، أو نتنًا (مسك الباغاريسا!)، أو يحمل شيئًا ثمينًا."
+ },
+ "694bd1f2f8d5": {
+  "en": "A vassal village walled with paralyzed Wood People asks for help",
+  "t": "قرية تابعة مسوّرة بوود بيبول مشلولين تطلب المساعدة"
+ },
+ "6a9782e1674f": {
+  "en": "Big Winga shadow overhead (a wild one!)",
+  "t": "ظل بيغ وينغا في الأعلى (بري!)"
+ },
+ "6c0a0a19823b": {
+  "en": "Travelers going the other way: swap gossip (roll a rumor)",
+  "t": "مسافرون في الاتجاه المعاكس: تبادلوا الثرثرة (ارمِ شائعة)"
+ },
+ "6d56e7d72d98": {
+  "en": "**Morning** and **Afternoon** shifts: roll if you want (or skip them).",
+  "t": "نوبتا **الصباح** و**بعد الظهر**: ارمِ إن شئت (أو تخطَّهما)."
+ },
+ "7933e1c26464": {
+  "en": "Sanbi fishers in trouble",
+  "t": "صيادو سانبي في ورطة"
+ },
+ "7a04aa16ee67": {
+  "en": "A Sundeath patrol looking for someone guilty (that could be you)",
+  "t": "دورية من صنديث تبحث عن مذنب ما (قد تكون أنت)"
+ },
+ "7d2b5916d0f3": {
+  "en": "Forway Plains & Roads (around Forway, Long Bridge and the main roads)",
+  "t": "سهول فورواي وطرقها (حول فورواي ولونغ بريدج والطرق الرئيسية)"
+ },
+ "82b003aa5aed": {
+  "en": "Lukewarm Lake Fihi near the shore",
+  "t": "فيهي البحيرة الفاترة قرب الشاطئ"
+ },
+ "8497d6a258ed": {
+  "en": "Teefyro wandering down from Hifuna (near Tastyleaf)",
+  "t": "تيفيرو يتجول نازلًا من هيفونا (قرب تيستي ليف)"
+ },
+ "87b00c3952f5": {
+  "en": "Bahyum's mood rises 1 (see Dangerous Places)",
+  "t": "يرتفع مزاج باهيوم 1 (انظر الأماكن الخطرة)"
+ },
+ "8b441cd5ef98": {
+  "en": "Triangle patrol boat insists everyone bathroom-syncs",
+  "t": "قارب دورية من ترايانغل يصرّ أن يوحّد الجميع مواعيد الحمّام"
+ },
+ "8f0b0216d31e": {
+  "en": "Flinga circling low — and something small and wooden riding it",
+  "t": "فلينغا يحوم منخفضًا — وشيء صغير خشبي يركبه"
+ },
+ "91b72d1fc441": {
+  "en": "Wooly herd up in the cold heights",
+  "t": "قطيع وولي في المرتفعات الباردة"
+ },
+ "92c6bc2c8b51": {
+  "en": "Sweet Sting workers (near Sweetlake): don't swat",
+  "t": "عاملات سويت ستينغ (قرب سويت ليك): لا تضربها"
+ },
+ "92e7a1a07a73": {
+  "en": "Teefyro pack (1d3)",
+  "t": "قطيع تيفيرو (1d3)"
+ },
+ "930d3b1a6f69": {
+  "en": "Pussy Power members interrogating a frightened man",
+  "t": "عضوات من بوسي باور يستجوبن رجلًا مذعورًا"
+ },
+ "932a3527f08c": {
+  "en": "A ruined Forway science station",
+  "t": "محطة علمية مدمّرة تابعة لفورواي"
+ },
+ "953e3ab50a70": {
+  "en": "Pink Winga flock — beautiful, territorial",
+  "t": "سرب وينغا وردي — جميل، ويدافع عن أرضه"
+ },
+ "961f1be63301": {
+  "en": "During Graveyard, characters on watch roll Wisdom (Perception) when an encounter comes. Sleepers wake up at the start of round 2 (or round 1 if a watcher shouts). Saynas, Wozefaries and Darfaries veins help: grant advantage where it makes sense.",
+  "t": "خلال آخر الليل، يرمي الحراس حكمة (الإدراك) حين يأتي لقاء. ويستيقظ النائمون في بداية الجولة 2 (أو الجولة 1 إن صرخ الحارس). والساينا والووزيفاريس وعروق الدارفاريس تساعد: امنح أفضلية حيث يكون ذلك منطقيًا."
+ },
+ "966bf9a474fa": {
+  "en": "Cinika swarm flees east — storm in 1 shift",
+  "t": "سرب سينيكا يهرب شرقًا — عاصفة بعد نوبة واحدة"
+ },
+ "99397a06f8be": {
+  "en": "Half-Cruro recruiters negotiating with a frightened Cruro",
+  "t": "مجنِّدو هاف كرورو يفاوضون كرورو مذعورًا"
+ },
+ "a0ee6168f2e2": {
+  "en": "A Hash creature of the DM's choice",
+  "t": "مخلوق هاش يختاره مدير اللعبة"
+ },
+ "a128f1c96a7b": {
+  "en": "Falling Greenbread (DC 13 Dex save or 3d10 bludgeoning)",
+  "t": "سقوط غرينبريد (رمية إنقاذ براعة DC 13 وإلا 3d10 راض)"
+ },
+ "a23aeeeb78cf": {
+  "en": "Darfaries \"dungeon party\" crawling out of a tunnel, drunk and challenging anyone",
+  "t": "«حفلة زنزانة» دارفاريسية تزحف من نفق، سكارى يتحدّون أي أحد"
+ },
+ "a86a7a74a0a0": {
+  "en": "Flinga overhead (an omen in winter)",
+  "t": "فلينغا في الأعلى (نذير في الشتاء)"
+ },
+ "a9f603c6f080": {
+  "en": "Trunk People light up the trees — curious, then protective if you damage a soul tree",
+  "t": "الترانك بيبول يضيئون الأشجار — فضوليون، ثم حُماة إن أتلفت شجرة روح"
+ },
+ "ac3baf674787": {
+  "en": "Fake green signal smoke ahead (bandit trap)",
+  "t": "دخان إشارة أخضر مزيف في الأمام (فخ لقطّاع الطرق)"
+ },
+ "b26d39e00d8c": {
+  "en": "Elevator queue at Waterfall: Sanbians first, Toleridemians wait",
+  "t": "طابور مصاعد ووترفول: السانبيون أولًا، والتوليريديميون ينتظرون"
+ },
+ "b416b6a42e5c": {
+  "en": "Special event: The Inside Job",
+  "t": "حدث خاص: العمل من الداخل"
+ },
+ "b5dd9f694f0c": {
+  "en": "Barina frogs in a pond — toxic gas",
+  "t": "ضفادع بارينا في بركة — غاز سام"
+ },
+ "b7eceba842aa": {
+  "en": "Desert (Gandew, Flatland, Sundeath, Old Fuhrair)",
+  "t": "الصحراء (غانديو، فلاتلاند، صنديث، فورير القديمة)"
+ },
+ "b811b9280caa": {
+  "en": "Hash Wozen pack",
+  "t": "قطيع ووزن هاش"
+ },
+ "bc51d190846c": {
+  "en": "Legunia flock bolts — the desert is getting worse (hump shrinks)",
+  "t": "سرب ليغونيا ينطلق هاربًا — الصحراء تزداد سوءًا (السنام ينكمش)"
+ },
+ "befdf90eb263": {
+  "en": "Sand Worm ambush (DC 15 Perception, or a Sayna, to notice)",
+  "t": "كمين ساند وورم (إدراك DC 15، أو ساينا، للانتباه إليه)"
+ },
+ "c29e095b486e": {
+  "en": "A drunk Toleridemian toastmaster insists you toast for hours",
+  "t": "عريف أنخاب توليريديمي سكران يصرّ أن تشربوا الأنخاب لساعات"
+ },
+ "c5f967a5edf3": {
+  "en": "Roll twice",
+  "t": "ارمِ مرتين"
+ },
+ "c94f4691721b": {
+  "en": "Use normal **initiative**. (The Alpha campaign's \"turns based on AC\" is retired.)",
+  "t": "استخدم **المبادرة** العادية. («الأدوار بحسب فئة الدرع» في حملة ألفا أُلغيت.)"
+ },
+ "cc2cac26af1b": {
+  "en": "Sand Sea guild hunters with nets and an empty cage",
+  "t": "صيادو نقابة ساند سي بشباك وقفص فارغ"
+ },
+ "ccdca60dbea8": {
+  "en": "Black Magina sleepers — drugged travelers asleep in a clearing",
+  "t": "نائمو بلاك ماجينا — مسافرون مخدَّرون نائمون في فسحة"
+ },
+ "ce8397db349e": {
+  "en": "Forway guard patrol (1d4+2 guards) asks for badges; superiority complex included",
+  "t": "دورية من حراس فورواي (1d4+2 حراس) تطلب البطاقات؛ وعقدة التفوق مشمولة"
+ },
+ "d31f012a863a": {
+  "en": "Walking Flesh (1) standing perfectly still in a field",
+  "t": "ووكينغ فليش (1) يقف ساكنًا تمامًا في حقل"
+ },
+ "d5fb40184df9": {
+  "en": "Buhraies Plains (Tolerideme, Bahyum, Wingarest, Waterfall)",
+  "t": "سهول بورايس (توليريديمي، باهيوم، وينغاريست، ووترفول)"
+ },
+ "da9c664a5866": {
+  "en": "Saynas playing — \"Pohw-pohhhww!\" (one might adopt the party)",
+  "t": "ساينا تلعب — «بوه-بوهههه!» (قد تتبنّى إحداها الفريق)"
+ },
+ "db8d32f7f46b": {
+  "en": "Fishers chanting the Safe Fishing Prayer — a big Sanbi is about to be landed",
+  "t": "صيادون يرتّلون صلاة الصيد الآمن — سمكة سانبي كبيرة على وشك أن تُسحب"
+ },
+ "de416f849404": {
+  "en": "**Long trips:** roll **once per circle** instead of per shift. The DM's knob again.",
+  "t": "**الرحلات الطويلة:** ارمِ **مرة لكل دائرة** بدل كل نوبة. مقبض مدير اللعبة مرة أخرى."
+ },
+ "e572bdfb2b55": {
+  "en": "Walking Skin swarm drifting from Bahyum (2d4)",
+  "t": "سرب ووكينغ سكين ينجرف من باهيوم (2d4)"
+ },
+ "e79de586e852": {
+  "en": "A Bagarisa herd blocks the road (2d4 Bagarisa) — great dinner, bad musk",
+  "t": "قطيع باغاريسا يسد الطريق (2d4 باغاريسا) — عشاء رائع، ومسك سيئ"
+ },
+ "e7a5fd07a8fb": {
+  "en": "Shapeshifter mimicking a lost traveler's voice",
+  "t": "متحوّل يقلّد صوت مسافر تائه"
+ },
+ "f02de34439ca": {
+  "en": "White Roundies swim alongside (winter) — trade food for treasure",
+  "t": "الوايت راونديز يسبحون بجانبكم (شتاءً) — بادلوا الطعام بالكنوز"
+ },
+ "f04a52ed4e61": {
+  "en": "Freeish Forests (Freeish, Deltacross, Blood, Sweetlake, Ganyrami)",
+  "t": "غابات فريئيش (فريئيش، دلتاكروس، بلاد، سويت ليك، غانيرامي)"
+ },
+ "f44454818331": {
+  "en": "Wood People grove wanders across the path (1d4)",
+  "t": "أيكة من الوود بيبول تعبر الطريق (1d4)"
+ },
+ "f8b201f5b11a": {
+  "en": "Hash Bagarisa (template)",
+  "t": "باغاريسا هاش (قالب)"
+ },
+ "fa1cc072e553": {
+  "en": "\"Bahyum's mood tracker hit 5 last week.\" 2. \"A Fuhraies was seen near Fuhrair.\" 3. \"The Blue Wozens' den is near Fiera's Hut.\" 4. \"Red Winga is recruiting in Sweetlake.\" 5. \"The Smart Ladies' statue cried beer.\" 6. \"Flingas in winter again — something's coming.\" 7. \"Someone is selling Walking Hearts in Ganyrami.\" 8. \"The Stinger killed a Sand Worm bare-handed.\" 9. \"King Itagiba has bastards all over the kingdoms.\" 10. \"A Sapphire hero didn't die in Hifuna — he was murdered.\"",
+  "t": "«بلغ مؤشر مزاج باهيوم 5 الأسبوع الماضي.» 2. «شوهد فورايس قرب فورير.» 3. «وكر البلو ووزنز قرب كوخ فييرا.» 4. «ريد وينغا تجنّد في سويت ليك.» 5. «تمثال السيدات الذكيات بكى جعة.» 6. «الفلينغا في الشتاء مرة أخرى — شيء ما قادم.» 7. «أحدهم يبيع قلوب ووكينغ هارت في غانيرامي.» 8. «ستينغر قتل ساند وورم بيديه العاريتين.» 9. «للملك إيتاجيبا أبناء غير شرعيين في كل الممالك.» 10. «بطل من رتبة سافاير لم يمت في هيفونا — بل قُتل.»"
+ },
+ "fdf99c0a2bc3": {
+  "en": "Sea & Islands (Triangle, Endlessfog, coastal boats)",
+  "t": "البحر والجزر (ترايانغل، إندلس فوغ، القوارب الساحلية)"
+ }
+}

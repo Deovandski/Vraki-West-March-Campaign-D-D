@@ -1,11 +1,127 @@
 {
+ "06e50bc6a491": {
+  "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
+  "t": "**기분 단계(1–6).** 세계 속 하루가 시작될 때마다 d6을 굴린다: 1이면 기분이 1 내려가고, 6이면 1 오른다. 성 안에서 싸우는 일행이 있으면 그곳에서 보낸 하루마다 1 오른다."
+ },
+ "0c814187591b": {
+  "en": "Nari Caverns (under Blood)",
+  "t": "나리 동굴(블러드 아래)"
+ },
+ "181199f11e9e": {
+  "en": "Special rules for the places that make West March parties famous — or dead.",
+  "t": "웨스트 마치 일행을 유명하게 — 혹은 죽게 — 만드는 장소들의 특별 규칙."
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "졸림"
  },
+ "2bb785b5d192": {
+  "en": "Hifuna — exposure",
+  "t": "히푸나 — 노출"
+ },
+ "2bf600bc5be8": {
+  "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
+  "t": "간듀와 선데스 사이의 터널은 마수로 가득하다 — 땅 위로 가라."
+ },
+ "2fd7b6d12e33": {
+  "en": "Rooms rearrange; a Walking Flathead wakes",
+  "t": "방이 재배치된다. 워킹 플랫헤드가 깨어난다"
+ },
+ "37bf7b183ebf": {
+  "en": "Everything awake",
+  "t": "모두 깨어 있다"
+ },
+ "3d2f3ffa2d82": {
+  "en": "Waves of undead pour out with **five commanders** (Flatheads). **Kingdom Alert**: all adventurers called. Kill the commanders to drop the mood to 3",
+  "t": "**지휘관 다섯**(플랫헤드)이 이끄는 언데드 물결이 쏟아져 나온다. **왕국 경보**: 모든 모험가가 소집된다. 지휘관을 죽이면 기분이 3으로 내려간다"
+ },
+ "3e05721d8a69": {
+  "en": "**Rampage**",
+  "t": "**폭주**"
+ },
+ "3ee3ebe0f1ef": {
+  "en": "Wood People groves wander. A **fost stone** jammed into a crown (melee attack vs AC 14, or automatic against a grappled tree) paralyzes one.",
+  "t": "우드 피플 숲은 돌아다닌다. 우듬지에 박은 **포스트석**(AC 14에 근접 공격, 붙잡은 나무에는 자동 성공)으로 하나를 마비시킨다."
+ },
+ "444599ee02ef": {
+  "en": "**Gandew law:** any dispute can become a duel. Refuse and you lose face — and in Gandew, face matters.",
+  "t": "**간듀 법:** 어떤 다툼이든 결투가 될 수 있다. 거절하면 체면을 잃는다 — 그리고 간듀에서는 체면이 중요하다."
+ },
+ "488aff06b94b": {
+  "en": "**Noise:** every loud action (combat, explosions, shouting) — roll a d6; on a 1 the worms stir and the cavern **quakes** (DC 13 Dex save or 2d6 bludgeoning and knocked prone).",
+  "t": "**소음:** 시끄러운 행동(전투, 폭발, 고함)마다 d6을 굴린다. 1이면 벌레들이 꿈틀거리고 동굴이 **흔들린다**(DC 13 민첩 내성에 실패하면 2d6 타격을 받고 넘어진다)."
+ },
+ "520a8784ad31": {
+  "en": "The plateau edge is a 2 km cliff. Waterfall's elevators are the safe way up.",
+  "t": "고원 가장자리는 2 km 절벽이다. 워터폴의 승강기가 안전하게 올라가는 길이다."
+ },
+ "5661b5bd8aaa": {
+  "en": "Dangerous Places",
+  "t": "위험한 장소"
+ },
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "심술"
+ },
+ "5f63c7cf5839": {
+  "en": "Walking Flesh hunt intruders; traps arm",
+  "t": "워킹 플레시가 침입자를 사냥한다. 덫이 작동한다"
+ },
+ "66e5d6835c21": {
+  "en": "**Food** grown or hunted in Hifuna gives 1 Exposure when eaten.",
+  "t": "히푸나에서 기르거나 사냥한 **음식**을 먹으면 노출을 1 얻는다."
+ },
+ "67124bfc2385": {
+  "en": "Each day without water: DC 12 Con save or 1 exhaustion (DC 15 in Paulin).",
+  "t": "물 없이 보내는 날마다: DC 12 건강 내성에 실패하면 탈진 1(파울린에는 DC 15)."
+ },
+ "6e820db3b996": {
+  "en": "Exposure 1: nausea (disadvantage on Con checks) · 2: hair falls out, −1 max SP · 3: you start to become **Hash** — +2 Strength, −2 Intelligence, you look wrong · 4: a full Hash mutation (DM and player design it; the character may need to retire as an NPC monster).",
+  "t": "노출 1: 메스꺼움(건강 판정에 불리점) · 2: 머리카락이 빠지고 최대 SP −1 · 3: **해시**가 되기 시작한다 — 근력 +2, 지능 −2, 겉모습이 어딘가 이상하다 · 4: 완전한 해시 변이(DM과 플레이어가 설계한다. 캐릭터는 NPC 괴물로 은퇴해야 할 수도 있다)."
+ },
+ "709d1c4f9f08": {
+  "en": "The Desert (Gandew, Flatland, Sundeath)",
+  "t": "사막(간듀, 플랫랜드, 선데스)"
+ },
+ "725383d9892b": {
+  "en": "Outside",
+  "t": "성 밖"
+ },
+ "785d46cfcb8e": {
+  "en": "Nights are freezing: no warm gear → DC 10 Con save or 1 exhaustion.",
+  "t": "밤은 얼어붙을 듯 춥다: 방한 장비가 없으면 → DC 10 건강 내성에 실패하면 탈진 1."
+ },
+ "84938c66dec3": {
+  "en": "**Long rest outside Hifuna** removes 1 Exposure. A Tier III Nari Refresher or Body RESTORE (Tier III) removes all but the Hash change at 3+.",
+  "t": "**히푸나 밖에서의 긴 휴식**으로 노출이 1 줄어든다. III등급 나리 리프레셔나 보디 리스토어(III등급)는 3 이상에서 생긴 해시 변화를 제외한 모든 것을 없앤다."
+ },
+ "90ca40f2552d": {
+  "en": "**Walking Heart stones** grow here. A character who implants one (via a scientist willing to do it) becomes undead: no eating/breathing/sleep, recovers SP only through strong emotion or stabbing nari stones into the chest, takes the stone's color powers (+2 to one ability, −2 to another, per the color table in the World Lore) and its emotional flaw. **Can't be revived.** Forway treats them as soul dead and wanted.",
+  "t": "**워킹 하트 돌**은 이곳에서 자란다. (기꺼이 해 주는 과학자를 통해) 그것을 심은 캐릭터는 언데드가 된다: 먹지도 숨 쉬지도 자지도 않고, SP는 강한 감정이나 나리석을 가슴에 찔러 넣는 것으로만 회복하며, 돌 색깔의 힘(World Lore의 색 표에 따라 한 능력치 +2, 다른 능력치 −2)과 감정적 결함을 얻는다. **되살릴 수 없다.** 포웨이는 그들을 영혼이 죽은 수배자로 취급한다."
+ },
+ "90ca8855e6ca": {
+  "en": "The castle is alive, moody, and still running Buhraies experiments. Bahyum village posts **\"Today's Castle Mood\"** every morning.",
+  "t": "성은 살아 있고, 변덕스럽고, 아직도 부라이에스의 실험을 돌리고 있다. 바혐 마을은 매일 아침 **‘오늘 성의 기분’** 을 내건다."
+ },
+ "90d4906e4123": {
+  "en": "**Lukewarm Lake:** Fihi big enough to drag a person under (use Fihi stats ×2 HP, swallow on a crit).",
+  "t": "**미지근한 호수:** 사람을 물속으로 끌고 갈 만큼 큰 피히(피히 수치에 HP ×2, 치명타면 삼킨다)."
+ },
+ "918b69037868": {
+  "en": "Undead idle; doors open; a **new room** appears 1-in-6",
+  "t": "언데드는 가만히 있다. 문이 열려 있다. 6분의 1로 **새 방**이 나타난다"
+ },
+ "95994003efcf": {
+  "en": "Bahyum Castle — the Castle Mood",
+  "t": "바혐 성 — 성의 기분"
+ },
+ "9691b2d01805": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
+  "t": "플랫헤드 둘. 영혼을 빨아들이는 안개(시간당 1 SP)"
+ },
+ "c699d767b83d": {
+  "en": "Stragglers on the plains",
+  "t": "평원에 낙오자"
  },
  "c8a9d51017e9": {
   "en": "Angry",
@@ -15,13 +131,57 @@
   "en": "Restless",
   "t": "불안"
  },
+ "c9bb96fc7374": {
+  "en": "Irradiated land. Everything mutates.",
+  "t": "방사능에 오염된 땅. 모든 것이 변이한다."
+ },
+ "cb16d93bb653": {
+  "en": "**Loot:** Buhraies research notes, Walking Heart stones (illegal), soul wood, black wood, ancient sigil rings (old-style rings are collectibles), and the occasional thing that should never leave.\n**New rooms** are a great excuse for one-shot dungeons.",
+  "t": "**전리품:** 부라이에스 연구 노트, 워킹 하트 돌(불법), 영혼나무, 검은 나무, 고대 시질 링(옛 양식의 반지는 수집품이다), 그리고 가끔 절대 밖으로 나와서는 안 되는 것.\n**새 방**은 단편 던전을 위한 훌륭한 구실이다."
+ },
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "이름"
  },
+ "cee862ffbe9f": {
+  "en": "Patrols of Walking Skin",
+  "t": "워킹 스킨 순찰"
+ },
+ "dda58424b5c0": {
+  "en": "Mood",
+  "t": "기분"
+ },
+ "e7daf0606071": {
+  "en": "Inside the castle",
+  "t": "성 안"
+ },
+ "e84dd92bd631": {
+  "en": "Walking Skin packs raid nearby farms",
+  "t": "워킹 스킨 무리가 근처 농장을 습격한다"
+ },
+ "e92163beb8b7": {
+  "en": "Embassy posts an Aquamarine quest",
+  "t": "대사관이 아쿠아마린 의뢰를 올린다"
+ },
+ "ea6fe908f718": {
+  "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
+  "t": "**샌드 웜:** 사이나나 워젠 스멜 젤이 있으면 찾아낸다. 아니면 DC 15 감지."
+ },
+ "ee5a0b8d29e1": {
+  "en": "**Sundeath law:** guilty until proven innocent. Have friends.",
+  "t": "**선데스 법:** 무죄가 증명될 때까지는 유죄. 친구를 만들어 두어라."
+ },
+ "f10604376588": {
+  "en": "The Buhraies Plains",
+  "t": "부라이에스 평원"
+ },
  "f2c02022cd69": {
   "en": "Quiet",
   "t": "조용함"
+ },
+ "f85783fbd253": {
+  "en": "**Each day** in Hifuna (or each hour near a Walking Heart deposit), make a **DC 12 Constitution save** (DC 15 deep inside). On a failure, gain 1 **Exposure**.",
+  "t": "히푸나에서 **매일**(워킹 하트 매장지 근처에서는 매시간) **DC 12 건강 내성 굴림**을 한다(깊은 곳에서는 DC 15). 실패하면 **노출**을 1 얻는다."
  },
  "f95ed6f5d34d": {
   "en": "Furious",
