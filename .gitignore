@@ -19,6 +19,11 @@ ehthumbs.db
 *.local.md
 scratch/
 
+# Written by site/build-llms.js (the Pages workflow makes fresh ones on every deploy)
+/llms.txt
+/llms-full.txt
+/sitemap.xml
+
 # Handout build tooling (Handouts/source/render.js)
 node_modules/
 package-lock.json

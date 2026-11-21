@@ -32,6 +32,9 @@ jobs:
       - name: Refresh the bundled copy of the pages
         run: node site/build-snapshot.js
 
+      - name: Write llms.txt, llms-full.txt and sitemap.xml for AI tools and search engines
+        run: node site/build-llms.js
+
       - name: Stamp the service worker with this commit
         # Each deploy saves a fresh copy of the site on people's devices and drops the old one.
         run: sed -i "s/__BUILD__/${GITHUB_SHA::8}/" sw.js
@@ -40,7 +43,7 @@ jobs:
         shell: bash
         run: |
           mkdir _site
-          cp -r index.html sw.js .nojekyll site Handouts Maps "World Lore" "D&D Campaign" ./*.md _site/
+          cp -r index.html sw.js .nojekyll site Handouts Maps "World Lore" "D&D Campaign" ./*.md llms.txt llms-full.txt sitemap.xml _site/
 
       - uses: actions/configure-pages@v5
 
