@@ -3,29 +3,101 @@
   "en": "III",
   "t": "III"
  },
+ "0377b9100d91": {
+  "en": "Revival is guaranteed for bodies returned within the window. Ice them.",
+  "t": "기한 안에 가져온 시신은 반드시 부활시킨다. 얼음에 재워라."
+ },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
   "t": "신호 연막탄(빨강/청록/초록/노랑)"
+ },
+ "078512b00fa4": {
+  "en": "Conspiracy against Forway",
+  "t": "포웨이에 대한 음모"
+ },
+ "078d7325de1d": {
+  "en": "<b>NOTICE:</b> the Long Bridge road \"toll\" is not legal. Report it; do not punish it.",
+  "t": "<b>알림:</b> 롱 브리지 길의 ‘통행료’는 불법이다. 신고하라. 직접 벌하지 마라."
+ },
+ "08f5aa86ed9b": {
+  "en": "PEARL QUEST · PEST CONTROL",
+  "t": "펄 의뢰 · 해수 퇴치"
+ },
+ "0b2811f7cf03": {
+  "en": "Wagon to Sanbi",
+  "t": "산비행 수레"
  },
  "0c00c18dd4d7": {
   "en": "Place",
   "t": "장소"
  },
+ "0f3503e615b0": {
+  "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
+  "t": "일반 게시: 펄 1닢 · 지역 경고: 애머시스트 1개"
+ },
  "0f796c865397": {
   "en": "V",
   "t": "V"
+ },
+ "117b87e25c52": {
+  "en": "Contract signed in blood. Nullification clauses on the back.",
+  "t": "피로 서명한 계약서. 뒷면에 무효 조항."
+ },
+ "121a7a633c8e": {
+  "en": "Do not approach. Walking Heart carriers cannot be revived, and neither, usually, can the people who find them.",
+  "t": "다가가지 마라. 워킹 하트를 지닌 자는 부활시킬 수 없고, 대개 그들을 찾아낸 사람도 마찬가지다."
  },
  "12a50b821cd4": {
   "en": "Days",
   "t": "일수"
  },
+ "161984742f73": {
+  "en": "AMETHYST QUEST · CARGO PROTECTION",
+  "t": "애머시스트 의뢰 · 화물 보호"
+ },
+ "1700e6ef542b": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
+  "t": "창구에서 피로 서명하라. 실패 벌금: 보수의 10%. 기한이 지나면 수색대를 보낸다."
+ },
+ "1a6ad10c01ca": {
+  "en": "Before the mood reaches 6",
+  "t": "기분이 6이 되기 전"
+ },
+ "1d822b71ce22": {
+  "en": "Pearl and up",
+  "t": "펄 이상"
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "졸림"
  },
+ "22274ba2f160": {
+  "en": "Type",
+  "t": "종류"
+ },
  "229180c589d5": {
   "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
   "t": "−3 쫓김 · −2 적대 · −1 불신 · 0 모름 · +1 우호 · +2 신뢰 · +3 가족. 세션당 최대 한 단계."
+ },
+ "237250d76870": {
+  "en": "LOCAL WARNING · QUEST NOTICE",
+  "t": "지역 경고 · 의뢰 공고"
+ },
+ "26095b19807c": {
+  "en": "Vraki West March · Handout 04 · Blank Wanted Poster",
+  "t": "Vraki West March · 배포물 04 · 빈 수배 전단"
+ },
+ "265adbcfdd14": {
+  "en": "Local Warnings · Forway Embassy, Floor 1 · New quests read aloud at Monnalow",
+  "t": "지역 경고 · 포웨이 대사관 1층 · 새 의뢰는 몬나로에 낭독"
+ },
+ "28e14253d23c": {
+  "en": "5 days from signing",
+  "t": "서명 후 5일"
+ },
+ "2951f79ca0ac": {
+  "en": "UP TO 5 SAPPHIRES",
+  "t": "최대 사파이어 5개"
  },
  "2be94f37330b": {
   "en": "Fall",
@@ -35,17 +107,69 @@
   "en": "Reward",
   "t": "보수"
  },
+ "2df4a29c8aee": {
+  "en": "QUEST BOARD",
+  "t": "의뢰 게시판"
+ },
+ "2e641e2fe6ce": {
+  "en": "If you've traveled between Forway and Sanbi, you've probably \"donated\" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.",
+  "t": "포웨이와 산비 사이를 여행했다면, 아마 그의 패거리에게 ‘기부’했을 것이다. 소문으로는 <b>워킹 하트</b>와 융합해 이제 히푸나 마수만큼 강하다고 한다. 알려진 일당: <b>빅 귯 패거리</b>(마커스, 클로도베우, 윌슨). 패거리 신분패: 워젠이 그려진 파란 네모."
+ },
+ "2f29b4304770": {
+  "en": "Murder",
+  "t": "살인"
+ },
+ "3218e941e385": {
+  "en": "INFORMATION WANTED",
+  "t": "정보 구함"
+ },
+ "34b16da8fcd5": {
+  "en": "BY ORDER OF FORWAY LAW",
+  "t": "포웨이 법의 명에 따라"
+ },
+ "36931ae1b254": {
+  "en": "Classifieds <span class=\"tiny\">(1 pearl per post)</span>",
+  "t": "짧은 광고 <span class=\"tiny\">(한 건에 펄 1닢)</span>"
+ },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "기한"
+ },
+ "3c39e7786f25": {
+  "en": "FORWAY NEWS",
+  "t": "포웨이 뉴스"
  },
  "3e6b78d7874f": {
   "en": "Player",
   "t": "플레이어"
  },
+ "3fc196bf8c15": {
+  "en": "Vraki West March · Handout 03 · Wanted: Kozaku Forway",
+  "t": "Vraki West March · 배포물 03 · 수배: 고자쿠 포웨이"
+ },
+ "40cd343920b1": {
+  "en": "PRINTED AT THE FORWAY EMBASSY",
+  "t": "포웨이 대사관 인쇄"
+ },
+ "41ad41c696b2": {
+  "en": "KOZAKU FORWAY",
+  "t": "고자쿠 포웨이"
+ },
+ "429f5207c1bc": {
+  "en": "Courier Wingas Shot Down",
+  "t": "전령 윙가 격추"
+ },
  "44c1f47383f1": {
   "en": "I",
   "t": "I"
+ },
+ "478a332a3faa": {
+  "en": "<b>Merchants ask: were the guards in on it?</b> A merchant wagon bound for Sanbi was found empty two days short of the Long Bridge. Its contracted adventurers reported to the Sanbi embassy that they were \"overwhelmed by bandits.\" The merchant, who arrived the next day with a black eye, tells a different story.",
+  "t": "<b>상인들은 묻는다: 경비병도 한패였나?</b> 산비로 가던 상인 수레가 롱 브리지를 이틀 앞둔 곳에서 텅 빈 채 발견됐다. 계약한 모험가들은 산비 대사관에 ‘산적에게 압도당했다’고 보고했다. 다음 날 눈에 멍이 든 채 도착한 상인의 이야기는 다르다."
+ },
+ "486433270bb9": {
+  "en": "Posted on",
+  "t": "게시일"
  },
  "4ad2ea48f3ca": {
   "en": "Summer",
@@ -59,6 +183,14 @@
   "en": "IV",
   "t": "IV"
  },
+ "519d6ceeb5d4": {
+  "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
+  "t": "블루 워젠스의 두목 · 931년 A.G. 출생 · 마지막 목격: 한참 전"
+ },
+ "52fddfc73573": {
+  "en": "From the Embassy",
+  "t": "대사관에서"
+ },
  "5443e491030b": {
   "en": "Amethyst",
   "t": "애머시스트"
@@ -66,6 +198,18 @@
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "심술"
+ },
+ "58c7a0bb6721": {
+  "en": "Vraki West March · Handout 05 · Forway News (sample issue)",
+  "t": "Vraki West March · 배포물 05 · 포웨이 뉴스(견본호)"
+ },
+ "5a1025bdcf8e": {
+  "en": "FREEDAY, MOACIR 12TH, 1042 A.G.",
+  "t": "1042년 A.G. 모아시르 12일 프리데이"
+ },
+ "5bf7a6c4a7be": {
+  "en": "Any adventurer may take this job. Hiding a wanted criminal is itself a crime.",
+  "t": "모험가라면 누구나 이 일을 맡을 수 있다. 수배범을 숨겨 주는 것 자체가 범죄다."
  },
  "5c7b10517158": {
   "en": "Pearl",
@@ -83,17 +227,117 @@
   "en": "Revival window",
   "t": "부활 기한"
  },
+ "6042adb75545": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward.",
+  "t": "창구에서 피로 서명하라. 실패 벌금: 보수의 10%."
+ },
+ "6139707159a1": {
+  "en": "5 amethysts per party, paid on delivery",
+  "t": "일행당 애머시스트 5개, 인도 시 지급"
+ },
+ "63c6d4505de0": {
+  "en": "Misuse of official signal colors",
+  "t": "공식 신호 색 남용"
+ },
  "65283b7e6485": {
   "en": "Water-reactive nari bomb",
   "t": "물에 반응하는 나리 폭탄"
+ },
+ "6693fa591b5c": {
+  "en": "AMETHYST QUEST · BOUNTY",
+  "t": "애머시스트 의뢰 · 현상금"
+ },
+ "6ac090254da1": {
+  "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
+  "t": "<b>판매:</b> 점토 얼음 보관함, 약간 귀신 들림. 최고가에(톨레리데메인은 흥정할 필요 없음)."
+ },
+ "6bf25f0f5e7b": {
+  "en": "Quest",
+  "t": "의뢰"
+ },
+ "7010c4292cd3": {
+  "en": "30 pearls + all the Soreno you can eat (please don't)",
+  "t": "펄 30닢 + 먹을 수 있는 만큼의 소레노(제발 먹지 마라)"
+ },
+ "70f8df0d4df7": {
+  "en": "Three courier Wingas have been shot down on the Waterfall route since Freeday last. Killing a Winga is a crime. Letters were missing from all three. An Amethyst quest is posted.",
+  "t": "지난 프리데이 이후 워터폴 노선에서 전령 윙가 세 마리가 격추됐다. 윙가를 죽이는 것은 범죄다. 세 마리 모두 편지가 사라졌다. 애머시스트 의뢰가 게시됐다."
+ },
+ "73171bdae4af": {
+  "en": "Vraki West March · Handout 01 · Quest Board",
+  "t": "Vraki West March · 배포물 01 · 의뢰 게시판"
+ },
+ "73bab1cbc1ec": {
+  "en": "Badge rank",
+  "t": "신분패 계급"
+ },
+ "75b8c6683770": {
+  "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
+  "t": "자기 계급 이하의 의뢰를 받는다 · 일행 중 누가 한 계급 위면 거기까지 · 부활 빚이 먼저 50%를 가져간다 · 의뢰를 게시하려면 애머시스트 1개"
+ },
+ "771c54e57c5a": {
+  "en": "REWARD: ____________",
+  "t": "현상금: ____________"
+ },
+ "790c8ec40330": {
+  "en": "Bahyum village reports Today's Castle Mood at <b>5 (Furious)</b>. Thin the undead before it reaches 6 and a Kingdom Alert is called. Bring nari stones; the fog drinks souls.",
+  "t": "바혐 마을의 보고로는 오늘 성의 기분이 <b>5(격노)</b>다. 6이 되어 왕국 경보가 내려지기 전에 언데드를 줄여라. 나리석을 챙겨라. 안개가 영혼을 마신다."
+ },
+ "7957e7c61882": {
+  "en": "Wagon Vanishes on the Sanbi Road",
+  "t": "산비 길에서 수레가 사라지다"
+ },
+ "7a070d013210": {
+  "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
+  "t": "롱 브리지 길로 포웨이에서 산비까지 상인 수레를 호위하라. 이 길에서는 블루 워젠스가 ‘세금’을 걷는다. 상인은 기부하고 싶지 않다. 화물 내역은 서명할 때 알려 준다."
+ },
+ "7b106ad2407d": {
+  "en": "□ alive only · □ alive or dead · bounty quest posted at the ________________ embassy",
+  "t": "□ 생포만 · □ 생사 불문 · 현상금 의뢰는 ________________ 대사관에 게시"
+ },
+ "7c0d177ad981": {
+  "en": "<b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.",
+  "t": "<b>포데이</b>는 쉬는 날이다. 대사관은 일반인에게 문을 닫는다. 시신은 그래도 옆문으로 넘겨도 된다."
+ },
+ "7d97ee8bf4eb": {
+  "en": "Bahyum: Mood Rising",
+  "t": "바혐: 기분 상승 중"
+ },
+ "7ed707162a6a": {
+  "en": "Mood sign at 4 or lower, signed by the village watch",
+  "t": "마을 경비대가 서명한, 4 이하의 기분 팻말"
+ },
+ "808c079a16e4": {
+  "en": "Proof",
+  "t": "증거"
+ },
+ "80f2a666fb3e": {
+  "en": "Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.",
+  "t": "소레노가 포웨이의 곡물 저장고에 들어가 이번 철 비축분을 갉아 먹고 있다. 지킬 게 남지 않기 전에 쫓아내라. 자루는 각자 지참."
  },
  "8220146365f2": {
   "en": "Black honey (jar)",
   "t": "검은 꿀(병)"
  },
+ "82c47debad95": {
+  "en": "Last seen",
+  "t": "마지막 목격"
+ },
+ "84610a41263d": {
+  "en": "<b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.",
+  "t": "<b>구함:</b> 클리프베이 등대 근무, 모험가 3–5명. 포스트 램프 지참. 창구에 전갈을 남길 것."
+ },
+ "84640d58c1a3": {
+  "en": "Today's Castle Mood · Bahyum",
+  "t": "오늘 성의 기분 · 바혐"
+ },
  "849cc321f202": {
   "en": "Level",
   "t": "레벨"
+ },
+ "86f21e170b3f": {
+  "en": "WANTED",
+  "t": "수배"
  },
  "8ae5de71fd4b": {
   "en": "Circles",
@@ -107,29 +351,117 @@
   "en": "Tier",
   "t": "등급"
  },
+ "8e52bfa426ce": {
+  "en": "Amethyst (or a Pearl party led by one)",
+  "t": "애머시스트(또는 애머시스트가 이끄는 펄 일행)"
+ },
+ "9176ce89095a": {
+  "en": "Other: ______________",
+  "t": "기타: ______________"
+ },
+ "9826815b57f9": {
+  "en": "<b>ANGRY.</b> Walking Skin packs raiding farms near Bahyum. Bar your doors. An Aquamarine quest goes up if it reaches 5.",
+  "t": "<b>분노.</b> 워킹 스킨 무리가 바혐 근처 농장을 습격 중. 문을 걸어 잠가라. 5가 되면 아쿠아마린 의뢰가 올라온다."
+ },
+ "99fa290e7885": {
+  "en": "Vigilantes are criminals. So are adventurers who become them.",
+  "t": "자경단은 범죄자다. 자경단이 된 모험가도 마찬가지다."
+ },
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "9b996c619b29": {
+  "en": "Name · Place · Guild",
+  "t": "이름 · 장소 · 길드"
+ },
+ "9c2adccbb599": {
+  "en": "Posted by",
+  "t": "게시자"
+ },
+ "a4f7be073854": {
+  "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
+  "t": "산비 대사관이 조사에 들어갔다. 상인 길드들은 이제 화물 보호 계약에 <b>보수의 10% 보증금</b>을 미리 내라고 한다. ‘산비 길의 모험가들은 한패다.’ 이름을 밝히기를 원치 않은 한 상인의 말이다."
+ },
+ "a70e48bd0367": {
+  "en": "SAMPLE ISSUE",
+  "t": "견본호"
+ },
+ "a84e4c00b86a": {
+  "en": "draw the criminal here",
+  "t": "여기에 범인을 그려라"
+ },
+ "a8b557c065aa": {
+  "en": "<b>LOST:</b> courier Winga, blue, answers to \"Feathers.\" Do not eat. Reward 5 pearls.",
+  "t": "<b>분실:</b> 전령 윙가, 파랑, ‘깃털이’라고 부르면 대답함. 먹지 마시오. 사례금 펄 5닢."
+ },
+ "aad2f88a3da8": {
+  "en": "Robbing contracted cargo",
+  "t": "계약 화물 강탈"
+ },
+ "acf86fb27bf5": {
+  "en": "Fleeing revival debt",
+  "t": "부활 빚 도주"
+ },
+ "b1e9c61f07f2": {
+  "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
+  "t": "<b>판매:</b> 뼈나무 피커, 거의 안 씹힘. 펄 8닢."
+ },
+ "b3b4d9f426af": {
+  "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
+  "t": "<b>부활 빚</b>은 레벨당 펄 100닢이며, 다 갚을 때까지 모든 의뢰 보수의 50%가 포웨이로 간다. 빚을 떼먹고 도망치면 수배된다. 빚진 채로 또 죽으면 포웨이 경비대에 징집된다. <i>포웨이는 당신의 봉사에 감사드립니다.</i>"
  },
  "b76af4cfe69d": {
   "en": "Black honey revival pot",
   "t": "검은 꿀 부활 단지"
  },
+ "bac9a1eda6ca": {
+  "en": "Heard in the Lounge",
+  "t": "라운지에서 들은 말"
+ },
+ "be16c3c04ebb": {
+  "en": "The Bagarisa Brothers' Recruiter",
+  "t": "바가리사 형제의 모집책"
+ },
  "be2326901242": {
   "en": "Travel by Circles",
   "t": "서클로 여행하기"
+ },
+ "be74672db1d9": {
+  "en": "Weekly printout · read aloud at Monnalow",
+  "t": "주간 인쇄물 · 몬나로에서 낭독"
+ },
+ "bffdcf140e1e": {
+  "en": "Breach of contract",
+  "t": "계약 위반"
+ },
+ "c437f693df6f": {
+  "en": "Vraki West March · Handout 02 · Blank Quest Notices",
+  "t": "Vraki West March · 배포물 02 · 빈 의뢰 공고"
  },
  "c6154c9d7a78": {
   "en": "From",
   "t": "출발지"
  },
+ "c88bf0d64ddf": {
+  "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "글과 레이아웃은 AI의 도움을 받음 · 그림: Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
  "c8a9d51017e9": {
   "en": "Angry",
   "t": "분노"
  },
+ "c8d560d4e2a0": {
+  "en": "Details",
+  "t": "내용"
+ },
  "c9531522b042": {
   "en": "Revived",
   "t": "부활함"
+ },
+ "c953dce063b5": {
+  "en": "Princess Maiara's team took the finals for another year, carrying the ball to the nest on their third chance. The other four teams are reportedly \"considering their options,\" which in Homeegg means buying better gels.",
+  "t": "마이아라 공주의 팀이 올해도 결승을 차지했다. 세 번째 기회에 공을 둥지까지 옮겼다. 나머지 네 팀은 ‘선택지를 검토 중’이라는데, 홈에그에서 그 말은 더 좋은 젤을 산다는 뜻이다."
  },
  "c99b50cb40d4": {
   "en": "Restless",
@@ -147,9 +479,25 @@
   "en": "Spring",
   "t": "봄"
  },
+ "d6a2e267aafb": {
+  "en": "Silo keeper's signed receipt",
+  "t": "저장고지기가 서명한 영수증"
+ },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "볼"
+ },
+ "d9daeebbcea6": {
+  "en": "HAVE YOU SEEN<br>THIS MAN?",
+  "t": "이 남자를<br>본 적 있는가?"
+ },
+ "da45ea5a2676": {
+  "en": "4 aquamarines",
+  "t": "아쿠아마린 4개"
+ },
+ "dea2e498b351": {
+  "en": "Homeegg: Sanbi Wins Again",
+  "t": "홈에그: 산비가 또 이겼다"
  },
  "dec64fbe04ed": {
   "en": "Nari stone stick (5 stones)",
@@ -163,6 +511,14 @@
   "en": "Sapphire",
   "t": "사파이어"
  },
+ "e54e1a482bf0": {
+  "en": "· Poachers swear they saw a <b>living Fuhraies</b>.<br>· A gore-soaked figure in insect armor, <b>\"The Stinger,\"</b> was seen near a road again. Forway is curious, not hostile.<br>· A <b>new room</b> appeared in Bahyum Castle.<br>· Someone is selling <b>Walking Hearts</b> again.<br>· This year's <b>Black Magina</b> field is \"somewhere warm.\"<br>· A Teefyro exploded near Tastyleaf and <b>left something</b> in the crater.",
+  "t": "· 밀렵꾼들이 <b>살아 있는 푸라이에스</b>를 봤다고 맹세한다.<br>· 피범벅에 벌레 같은 갑옷을 입은 형체, <b>‘스팅어’</b>가 또 길 근처에서 목격됐다. 포웨이는 적대하지 않고 궁금해하고 있다.<br>· 바혐 성에 <b>새 방</b>이 생겼다.<br>· 누군가 또 <b>워킹 하트</b>를 팔고 있다.<br>· 올해 <b>블랙 마지나</b>의 밭은 ‘어딘가 따뜻한 곳’이다.<br>· 테이스티리프 근처에서 티피로가 폭발해 구덩이에 <b>무언가를 남겼다</b>."
+ },
+ "e74f6337e511": {
+  "en": "AQUAMARINE QUEST · BAHYUM CONTROL",
+  "t": "아쿠아마린 의뢰 · 바혐 통제"
+ },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
   "t": "1 아쿠아마린"
@@ -175,12 +531,52 @@
   "en": "Aquamarine",
   "t": "아쿠아마린"
  },
+ "ef30a8d69ce2": {
+  "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
+  "t": "<b>구함:</b> 미나리 상대, 톨데이 밤. 말은 각자 지참."
+ },
+ "f151f3dab9c8": {
+  "en": "None, until someone claims it",
+  "t": "누군가 나설 때까지 없음"
+ },
+ "f4d19ca4b670": {
+  "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
+  "t": "자경단 바가리사 형제의 모집책이 포웨이 법을 벗어나 ‘산적을 벌하려고’ 농장 일꾼을 모으고 있다. <b>산 채로</b> 대사관에 데려와라. 이번에는 포웨이가 시체에 돈을 주지 않는다."
+ },
+ "f5890b93de7b": {
+  "en": "The man himself, breathing",
+  "t": "본인, 숨이 붙은 채로"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "목적지"
  },
+ "f88b2a35f578": {
+  "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
+  "t": "그의 행방에 대한 확실한 정보에 대해, 포웨이의 어느 대사관에서나 지급"
+ },
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "격노"
+ },
+ "f96a2573dd0b": {
+  "en": "Harm without consent",
+  "t": "동의 없는 가해"
+ },
+ "f991612587b4": {
+  "en": "Soreno Scourge",
+  "t": "소레노 재앙"
+ },
+ "fbe3b46cbe70": {
+  "en": "Embassy",
+  "t": "대사관"
+ },
+ "fc579a92ff12": {
+  "en": "Round trip + 50%, set by the clerk",
+  "t": "왕복 + 50%, 서기가 정한다"
+ },
+ "ffc820385233": {
+  "en": "Delivery receipt sealed by the Sanbi embassy",
+  "t": "산비 대사관이 봉인한 인수증"
  }
 }

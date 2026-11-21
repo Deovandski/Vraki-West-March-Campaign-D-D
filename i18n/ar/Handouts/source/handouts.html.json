@@ -3,29 +3,101 @@
   "en": "III",
   "t": "III"
  },
+ "0377b9100d91": {
+  "en": "Revival is guaranteed for bodies returned within the window. Ice them.",
+  "t": "الإحياء مضمون للأجساد التي تُعاد ضمن النافذة. ضعوها على الثلج."
+ },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
   "t": "قنبلة دخان للإشارة (أحمر/سماوي/أخضر/أصفر)"
+ },
+ "078512b00fa4": {
+  "en": "Conspiracy against Forway",
+  "t": "التآمر على فورواي"
+ },
+ "078d7325de1d": {
+  "en": "<b>NOTICE:</b> the Long Bridge road \"toll\" is not legal. Report it; do not punish it.",
+  "t": "<b>تنبيه:</b> «رسم مرور» طريق لونغ بريدج غير قانوني. أبلغوا عنه؛ لا تعاقبوا عليه بأنفسكم."
+ },
+ "08f5aa86ed9b": {
+  "en": "PEARL QUEST · PEST CONTROL",
+  "t": "مهمة بيرل · مكافحة الآفات"
+ },
+ "0b2811f7cf03": {
+  "en": "Wagon to Sanbi",
+  "t": "عربة إلى سانبي"
  },
  "0c00c18dd4d7": {
   "en": "Place",
   "t": "المكان"
  },
+ "0f3503e615b0": {
+  "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
+  "t": "الإعلانات العامة: 1 بيرل · التحذيرات المحلية: 1 أميثيست"
+ },
  "0f796c865397": {
   "en": "V",
   "t": "V"
+ },
+ "117b87e25c52": {
+  "en": "Contract signed in blood. Nullification clauses on the back.",
+  "t": "عقد موقّع بالدم. بنود الإبطال على الظهر."
+ },
+ "121a7a633c8e": {
+  "en": "Do not approach. Walking Heart carriers cannot be revived, and neither, usually, can the people who find them.",
+  "t": "لا تقترب. حاملو الووكينغ هارت لا يمكن إحياؤهم، وكذلك عادةً من يجدونهم."
  },
  "12a50b821cd4": {
   "en": "Days",
   "t": "الأيام"
  },
+ "161984742f73": {
+  "en": "AMETHYST QUEST · CARGO PROTECTION",
+  "t": "مهمة أميثيست · حماية البضائع"
+ },
+ "1700e6ef542b": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
+  "t": "وقّع بالدم عند المكتب. غرامة الفشل: 10% من المكافأة. يُرسل فريق بحث حين يمضي الموعد."
+ },
+ "1a6ad10c01ca": {
+  "en": "Before the mood reaches 6",
+  "t": "قبل أن يبلغ المزاج 6"
+ },
+ "1d822b71ce22": {
+  "en": "Pearl and up",
+  "t": "بيرل فما فوق"
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "ناعس"
  },
+ "22274ba2f160": {
+  "en": "Type",
+  "t": "النوع"
+ },
  "229180c589d5": {
   "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
   "t": "−3 مطارَدون · −2 عدائي · −1 ارتياب · 0 مجهولون · +1 ودّي · +2 موثوق · +3 من العائلة. خطوة واحدة في الجلسة على الأكثر."
+ },
+ "237250d76870": {
+  "en": "LOCAL WARNING · QUEST NOTICE",
+  "t": "تحذير محلي · إعلان مهمة"
+ },
+ "26095b19807c": {
+  "en": "Vraki West March · Handout 04 · Blank Wanted Poster",
+  "t": "Vraki West March · المطبوعة 04 · ملصق مطلوب فارغ"
+ },
+ "265adbcfdd14": {
+  "en": "Local Warnings · Forway Embassy, Floor 1 · New quests read aloud at Monnalow",
+  "t": "تحذيرات محلية · سفارة فورواي، الطابق 1 · تُقرأ المهام الجديدة بصوت عالٍ عند مونالو"
+ },
+ "28e14253d23c": {
+  "en": "5 days from signing",
+  "t": "5 أيام من التوقيع"
+ },
+ "2951f79ca0ac": {
+  "en": "UP TO 5 SAPPHIRES",
+  "t": "حتى 5 سافاير"
  },
  "2be94f37330b": {
   "en": "Fall",
@@ -35,17 +107,69 @@
   "en": "Reward",
   "t": "المكافأة"
  },
+ "2df4a29c8aee": {
+  "en": "QUEST BOARD",
+  "t": "لوحة المهام"
+ },
+ "2e641e2fe6ce": {
+  "en": "If you've traveled between Forway and Sanbi, you've probably \"donated\" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.",
+  "t": "إن سافرت بين فورواي وسانبي، فالأرجح أنك «تبرعت» لعصابته. تقول الشائعة إنه اندمج مع <b>ووكينغ هارت</b> وصار الآن قويًا كوحش من هيفونا. شركاؤه المعروفون: <b>فتيان بيغ غيوت</b> (ماركوس، وكلودوفيو، وويلسون). بطاقة العصابة: مربع أزرق عليه ووزن."
+ },
+ "2f29b4304770": {
+  "en": "Murder",
+  "t": "القتل"
+ },
+ "3218e941e385": {
+  "en": "INFORMATION WANTED",
+  "t": "مطلوب معلومات"
+ },
+ "34b16da8fcd5": {
+  "en": "BY ORDER OF FORWAY LAW",
+  "t": "بأمر قانون فورواي"
+ },
+ "36931ae1b254": {
+  "en": "Classifieds <span class=\"tiny\">(1 pearl per post)</span>",
+  "t": "إعلانات مبوّبة <span class=\"tiny\">(1 بيرل للإعلان)</span>"
+ },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "المهلة"
+ },
+ "3c39e7786f25": {
+  "en": "FORWAY NEWS",
+  "t": "أخبار فورواي"
  },
  "3e6b78d7874f": {
   "en": "Player",
   "t": "لاعب"
  },
+ "3fc196bf8c15": {
+  "en": "Vraki West March · Handout 03 · Wanted: Kozaku Forway",
+  "t": "Vraki West March · المطبوعة 03 · مطلوب: كوزاكو فورواي"
+ },
+ "40cd343920b1": {
+  "en": "PRINTED AT THE FORWAY EMBASSY",
+  "t": "طُبعت في سفارة فورواي"
+ },
+ "41ad41c696b2": {
+  "en": "KOZAKU FORWAY",
+  "t": "كوزاكو فورواي"
+ },
+ "429f5207c1bc": {
+  "en": "Courier Wingas Shot Down",
+  "t": "إسقاط وينغا البريد"
+ },
  "44c1f47383f1": {
   "en": "I",
   "t": "I"
+ },
+ "478a332a3faa": {
+  "en": "<b>Merchants ask: were the guards in on it?</b> A merchant wagon bound for Sanbi was found empty two days short of the Long Bridge. Its contracted adventurers reported to the Sanbi embassy that they were \"overwhelmed by bandits.\" The merchant, who arrived the next day with a black eye, tells a different story.",
+  "t": "<b>التجار يسألون: هل كان الحراس متواطئين؟</b> وُجدت عربة تاجر متجهة إلى سانبي فارغة على بعد يومين من لونغ بريدج. وأبلغ المغامرون المتعاقدون معها سفارة سانبي أن «قطّاع الطرق تغلّبوا عليهم». أما التاجر، الذي وصل في اليوم التالي بعين متورمة، فيروي قصة أخرى."
+ },
+ "486433270bb9": {
+  "en": "Posted on",
+  "t": "تاريخ النشر"
  },
  "4ad2ea48f3ca": {
   "en": "Summer",
@@ -59,6 +183,14 @@
   "en": "IV",
   "t": "IV"
  },
+ "519d6ceeb5d4": {
+  "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
+  "t": "زعيم البلو ووزنز · وُلد 931 A.G. · آخر مرة شوهد فيها: منذ زمن بعيد"
+ },
+ "52fddfc73573": {
+  "en": "From the Embassy",
+  "t": "من السفارة"
+ },
  "5443e491030b": {
   "en": "Amethyst",
   "t": "أميثيست"
@@ -66,6 +198,18 @@
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "متجهّم"
+ },
+ "58c7a0bb6721": {
+  "en": "Vraki West March · Handout 05 · Forway News (sample issue)",
+  "t": "Vraki West March · المطبوعة 05 · أخبار فورواي (عدد نموذجي)"
+ },
+ "5a1025bdcf8e": {
+  "en": "FREEDAY, MOACIR 12TH, 1042 A.G.",
+  "t": "فريداي، 12 مواسير 1042 A.G."
+ },
+ "5bf7a6c4a7be": {
+  "en": "Any adventurer may take this job. Hiding a wanted criminal is itself a crime.",
+  "t": "يمكن لأي مغامر أن يأخذ هذا العمل. وإخفاء مجرم مطلوب جريمة في حد ذاته."
  },
  "5c7b10517158": {
   "en": "Pearl",
@@ -83,17 +227,117 @@
   "en": "Revival window",
   "t": "مهلة الإحياء"
  },
+ "6042adb75545": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward.",
+  "t": "وقّع بالدم عند المكتب. غرامة الفشل: 10% من المكافأة."
+ },
+ "6139707159a1": {
+  "en": "5 amethysts per party, paid on delivery",
+  "t": "5 أميثيست لكل فريق، تُدفع عند التسليم"
+ },
+ "63c6d4505de0": {
+  "en": "Misuse of official signal colors",
+  "t": "إساءة استخدام ألوان الإشارات الرسمية"
+ },
  "65283b7e6485": {
   "en": "Water-reactive nari bomb",
   "t": "قنبلة ناري تتفاعل مع الماء"
+ },
+ "6693fa591b5c": {
+  "en": "AMETHYST QUEST · BOUNTY",
+  "t": "مهمة أميثيست · مكافأة"
+ },
+ "6ac090254da1": {
+  "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
+  "t": "<b>للبيع:</b> حافظة ثلج من الطين، مسكونة قليلًا. لأفضل عرض (لا داعي للتوليريديميين أن يساوموا)."
+ },
+ "6bf25f0f5e7b": {
+  "en": "Quest",
+  "t": "المهمة"
+ },
+ "7010c4292cd3": {
+  "en": "30 pearls + all the Soreno you can eat (please don't)",
+  "t": "30 بيرل + كل ما تستطيع أكله من السورينو (أرجوك لا تفعل)"
+ },
+ "70f8df0d4df7": {
+  "en": "Three courier Wingas have been shot down on the Waterfall route since Freeday last. Killing a Winga is a crime. Letters were missing from all three. An Amethyst quest is posted.",
+  "t": "أُسقطت ثلاث وينغا بريد على طريق ووترفول منذ يوم الفريداي الماضي. وقتل الوينغا جريمة. وكانت الرسائل مفقودة من الثلاث. وقد نُشرت مهمة أميثيست."
+ },
+ "73171bdae4af": {
+  "en": "Vraki West March · Handout 01 · Quest Board",
+  "t": "Vraki West March · المطبوعة 01 · لوحة المهام"
+ },
+ "73bab1cbc1ec": {
+  "en": "Badge rank",
+  "t": "رتبة البطاقة"
+ },
+ "75b8c6683770": {
+  "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
+  "t": "خذ مهام رتبتك أو أدنى · رتبة أعلى إن كان أحد أعضاء الفريق يحملها · دين الإحياء يأخذ نسبته 50% أولًا · نشر مهمة يكلّف 1 أميثيست"
+ },
+ "771c54e57c5a": {
+  "en": "REWARD: ____________",
+  "t": "المكافأة: ____________"
+ },
+ "790c8ec40330": {
+  "en": "Bahyum village reports Today's Castle Mood at <b>5 (Furious)</b>. Thin the undead before it reaches 6 and a Kingdom Alert is called. Bring nari stones; the fog drinks souls.",
+  "t": "تبلغ قرية باهيوم أن مزاج القلعة اليوم عند <b>5 (هائج)</b>. قلّل عدد الموتى الأحياء قبل أن يبلغ 6 ويُعلن إنذار مملكة. أحضر أحجار ناري؛ فالضباب يشرب الأرواح."
+ },
+ "7957e7c61882": {
+  "en": "Wagon Vanishes on the Sanbi Road",
+  "t": "اختفاء عربة على طريق سانبي"
+ },
+ "7a070d013210": {
+  "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
+  "t": "رافق عربة تاجر من فورواي إلى سانبي عبر طريق لونغ بريدج. البلو ووزنز «يفرضون ضرائب» على هذا الطريق؛ والتاجر يفضّل ألا يتبرع. تُعطى تفاصيل البضاعة عند التوقيع."
+ },
+ "7b106ad2407d": {
+  "en": "□ alive only · □ alive or dead · bounty quest posted at the ________________ embassy",
+  "t": "□ حيًّا فقط · □ حيًّا أو ميتًا · مهمة المكافأة منشورة في سفارة ________________"
+ },
+ "7c0d177ad981": {
+  "en": "<b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.",
+  "t": "<b>الفورداي</b> يوم راحة. السفارات مغلقة أمام العامة. ويمكن مع ذلك تسليم الجثث من الباب الجانبي."
+ },
+ "7d97ee8bf4eb": {
+  "en": "Bahyum: Mood Rising",
+  "t": "باهيوم: المزاج يرتفع"
+ },
+ "7ed707162a6a": {
+  "en": "Mood sign at 4 or lower, signed by the village watch",
+  "t": "لافتة مزاج عند 4 أو أقل، موقّعة من حرس القرية"
+ },
+ "808c079a16e4": {
+  "en": "Proof",
+  "t": "الدليل"
+ },
+ "80f2a666fb3e": {
+  "en": "Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.",
+  "t": "استوطنت السورينو صومعة حبوب في فورواي وتقضم مخزون الموسم. أخرجها قبل ألا يبقى ما يُحرس. أحضر أكياسك."
  },
  "8220146365f2": {
   "en": "Black honey (jar)",
   "t": "عسل أسود (جرّة)"
  },
+ "82c47debad95": {
+  "en": "Last seen",
+  "t": "آخر مرة شوهد فيها"
+ },
+ "84610a41263d": {
+  "en": "<b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.",
+  "t": "<b>مطلوب:</b> 3–5 مغامرين لخدمة المنارة في كليفباي. أحضروا مصباح فوست. اتركوا خبرًا عند المكتب."
+ },
+ "84640d58c1a3": {
+  "en": "Today's Castle Mood · Bahyum",
+  "t": "مزاج القلعة اليوم · باهيوم"
+ },
  "849cc321f202": {
   "en": "Level",
   "t": "المستوى"
+ },
+ "86f21e170b3f": {
+  "en": "WANTED",
+  "t": "مطلوب"
  },
  "8ae5de71fd4b": {
   "en": "Circles",
@@ -107,29 +351,117 @@
   "en": "Tier",
   "t": "المستوى"
  },
+ "8e52bfa426ce": {
+  "en": "Amethyst (or a Pearl party led by one)",
+  "t": "أميثيست (أو فريق بيرل يقوده أحدهم)"
+ },
+ "9176ce89095a": {
+  "en": "Other: ______________",
+  "t": "غير ذلك: ______________"
+ },
+ "9826815b57f9": {
+  "en": "<b>ANGRY.</b> Walking Skin packs raiding farms near Bahyum. Bar your doors. An Aquamarine quest goes up if it reaches 5.",
+  "t": "<b>غاضب.</b> قطعان الووكينغ سكين تغير على المزارع قرب باهيوم. أوصدوا أبوابكم. وتُنشر مهمة أكوامارين إن بلغ 5."
+ },
+ "99fa290e7885": {
+  "en": "Vigilantes are criminals. So are adventurers who become them.",
+  "t": "أفراد الجماعات الأهلية مجرمون. وكذلك المغامرون الذين يصيرون منهم."
+ },
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "9b996c619b29": {
+  "en": "Name · Place · Guild",
+  "t": "الاسم · المكان · النقابة"
+ },
+ "9c2adccbb599": {
+  "en": "Posted by",
+  "t": "نشرها"
+ },
+ "a4f7be073854": {
+  "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
+  "t": "فتحت سفارة سانبي تحقيقًا. وتطلب نقابات التجار الآن <b>ضمانًا بنسبة 10% من المكافأة</b>، يُدفع مقدمًا، في عقود حماية البضائع. «المغامرون على طريق سانبي متواطئون»، قال أحدهم، ولم يرغب في ذكر اسمه."
+ },
+ "a70e48bd0367": {
+  "en": "SAMPLE ISSUE",
+  "t": "عدد نموذجي"
+ },
+ "a84e4c00b86a": {
+  "en": "draw the criminal here",
+  "t": "ارسم المجرم هنا"
+ },
+ "a8b557c065aa": {
+  "en": "<b>LOST:</b> courier Winga, blue, answers to \"Feathers.\" Do not eat. Reward 5 pearls.",
+  "t": "<b>مفقودة:</b> وينغا بريد، زرقاء، تستجيب لاسم «ريشة». لا تأكلوها. المكافأة 5 بيرل."
+ },
+ "aad2f88a3da8": {
+  "en": "Robbing contracted cargo",
+  "t": "سرقة بضاعة متعاقد عليها"
+ },
+ "acf86fb27bf5": {
+  "en": "Fleeing revival debt",
+  "t": "الهروب من دين الإحياء"
+ },
+ "b1e9c61f07f2": {
+  "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
+  "t": "<b>للبيع:</b> بيكر من العظم-الخشب، بالكاد مقضوم. 8 بيرل."
+ },
+ "b3b4d9f426af": {
+  "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
+  "t": "<b>دين الإحياء</b> 100 بيرل لكل مستوى، و50% من كل مكافأة مهمة تذهب إلى فورواي حتى يُسدَّد. والهروب من دينك يجعلك مطلوبًا. والموت مرة أخرى وأنت مدين يجنّدك في حرس فورواي. <i>فورواي تشكرك على خدمتك.</i>"
  },
  "b76af4cfe69d": {
   "en": "Black honey revival pot",
   "t": "إناء العسل الأسود للإحياء"
  },
+ "bac9a1eda6ca": {
+  "en": "Heard in the Lounge",
+  "t": "سُمع في الردهة"
+ },
+ "be16c3c04ebb": {
+  "en": "The Bagarisa Brothers' Recruiter",
+  "t": "مجنِّد الأخوين باغاريسا"
+ },
  "be2326901242": {
   "en": "Travel by Circles",
   "t": "السفر بالدوائر"
+ },
+ "be74672db1d9": {
+  "en": "Weekly printout · read aloud at Monnalow",
+  "t": "نشرة أسبوعية · تُقرأ بصوت عالٍ عند مونالو"
+ },
+ "bffdcf140e1e": {
+  "en": "Breach of contract",
+  "t": "الإخلال بالعقد"
+ },
+ "c437f693df6f": {
+  "en": "Vraki West March · Handout 02 · Blank Quest Notices",
+  "t": "Vraki West March · المطبوعة 02 · إعلانات مهام فارغة"
  },
  "c6154c9d7a78": {
   "en": "From",
   "t": "من"
  },
+ "c88bf0d64ddf": {
+  "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "النص والتخطيط بمساعدة الذكاء الاصطناعي · الفن لـMitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
  "c8a9d51017e9": {
   "en": "Angry",
   "t": "غاضب"
  },
+ "c8d560d4e2a0": {
+  "en": "Details",
+  "t": "التفاصيل"
+ },
  "c9531522b042": {
   "en": "Revived",
   "t": "أُحيي"
+ },
+ "c953dce063b5": {
+  "en": "Princess Maiara's team took the finals for another year, carrying the ball to the nest on their third chance. The other four teams are reportedly \"considering their options,\" which in Homeegg means buying better gels.",
+  "t": "فاز فريق الأميرة مايارا بالنهائي لعام آخر، حاملًا الكرة إلى العشّ في فرصته الثالثة. ويُقال إن الفرق الأربعة الأخرى «تدرس خياراتها»، وهذا في هوم إغ يعني شراء جل أفضل."
  },
  "c99b50cb40d4": {
   "en": "Restless",
@@ -147,9 +479,25 @@
   "en": "Spring",
   "t": "الربيع"
  },
+ "d6a2e267aafb": {
+  "en": "Silo keeper's signed receipt",
+  "t": "إيصال موقّع من حارس الصومعة"
+ },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "الكرة"
+ },
+ "d9daeebbcea6": {
+  "en": "HAVE YOU SEEN<br>THIS MAN?",
+  "t": "هل رأيت<br>هذا الرجل؟"
+ },
+ "da45ea5a2676": {
+  "en": "4 aquamarines",
+  "t": "4 أكوامارين"
+ },
+ "dea2e498b351": {
+  "en": "Homeegg: Sanbi Wins Again",
+  "t": "هوم إغ: سانبي تفوز من جديد"
  },
  "dec64fbe04ed": {
   "en": "Nari stone stick (5 stones)",
@@ -163,6 +511,14 @@
   "en": "Sapphire",
   "t": "سافاير"
  },
+ "e54e1a482bf0": {
+  "en": "· Poachers swear they saw a <b>living Fuhraies</b>.<br>· A gore-soaked figure in insect armor, <b>\"The Stinger,\"</b> was seen near a road again. Forway is curious, not hostile.<br>· A <b>new room</b> appeared in Bahyum Castle.<br>· Someone is selling <b>Walking Hearts</b> again.<br>· This year's <b>Black Magina</b> field is \"somewhere warm.\"<br>· A Teefyro exploded near Tastyleaf and <b>left something</b> in the crater.",
+  "t": "· يقسم صيادون غير شرعيين أنهم رأوا <b>فورايس حيًّا</b>.<br>· شوهد شخص ملطخ بالدماء في درع حشري، <b>«ستينغر»</b>، قرب طريق مرة أخرى. فورواي فضولية، لا عدائية.<br>· ظهرت <b>غرفة جديدة</b> في قلعة باهيوم.<br>· أحدهم يبيع <b>ووكينغ هارت</b> مرة أخرى.<br>· حقل <b>بلاك ماجينا</b> هذا العام «في مكان دافئ ما».<br>· انفجر تيفيرو قرب تيستي ليف و<b>ترك شيئًا</b> في الحفرة."
+ },
+ "e74f6337e511": {
+  "en": "AQUAMARINE QUEST · BAHYUM CONTROL",
+  "t": "مهمة أكوامارين · السيطرة على باهيوم"
+ },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
   "t": "1 أكوامارين"
@@ -175,12 +531,52 @@
   "en": "Aquamarine",
   "t": "أكوامارين"
  },
+ "ef30a8d69ce2": {
+  "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
+  "t": "<b>مطلوب:</b> لاعبو ميناري، ليالي التولداي. أحضروا تماثيلكم."
+ },
+ "f151f3dab9c8": {
+  "en": "None, until someone claims it",
+  "t": "لا شيء، حتى يطالب بها أحد"
+ },
+ "f4d19ca4b670": {
+  "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
+  "t": "مجنِّد لجماعة الأخوين باغاريسا الأهلية يجنّد عمّال المزارع «لمعاقبة قطّاع الطرق» خارج قانون فورواي. أحضره إلى السفارة <b>حيًّا</b>. فورواي لا تدفع ثمن الجثث في هذه."
+ },
+ "f5890b93de7b": {
+  "en": "The man himself, breathing",
+  "t": "الرجل نفسه، يتنفس"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "إلى"
  },
+ "f88b2a35f578": {
+  "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
+  "t": "مقابل معلومات مؤكدة عن مكانه، تدفعها أي سفارة لفورواي"
+ },
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "هائج"
+ },
+ "f96a2573dd0b": {
+  "en": "Harm without consent",
+  "t": "الإيذاء دون موافقة"
+ },
+ "f991612587b4": {
+  "en": "Soreno Scourge",
+  "t": "وباء السورينو"
+ },
+ "fbe3b46cbe70": {
+  "en": "Embassy",
+  "t": "السفارة"
+ },
+ "fc579a92ff12": {
+  "en": "Round trip + 50%, set by the clerk",
+  "t": "ذهابًا وإيابًا + 50%، يحددها الكاتب"
+ },
+ "ffc820385233": {
+  "en": "Delivery receipt sealed by the Sanbi embassy",
+  "t": "إيصال تسليم مختوم من سفارة سانبي"
  }
 }

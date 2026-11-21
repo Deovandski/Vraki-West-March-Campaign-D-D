@@ -3,29 +3,101 @@
   "en": "III",
   "t": "III"
  },
+ "0377b9100d91": {
+  "en": "Revival is guaranteed for bodies returned within the window. Ice them.",
+  "t": "在时限内送回的尸体保证复活。给它们冰上。"
+ },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
   "t": "信号烟雾弹（红／青／绿／黄）"
+ },
+ "078512b00fa4": {
+  "en": "Conspiracy against Forway",
+  "t": "密谋反对福威"
+ },
+ "078d7325de1d": {
+  "en": "<b>NOTICE:</b> the Long Bridge road \"toll\" is not legal. Report it; do not punish it.",
+  "t": "<b>告示：</b> 朗布里奇大道的“过路费”不合法。请举报；不要自己惩罚。"
+ },
+ "08f5aa86ed9b": {
+  "en": "PEARL QUEST · PEST CONTROL",
+  "t": "珀尔委托 · 害兽防治"
+ },
+ "0b2811f7cf03": {
+  "en": "Wagon to Sanbi",
+  "t": "前往桑比的货车"
  },
  "0c00c18dd4d7": {
   "en": "Place",
   "t": "地点"
  },
+ "0f3503e615b0": {
+  "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
+  "t": "一般告示：1枚珀尔 · 地方警告：1个阿米西斯特"
+ },
  "0f796c865397": {
   "en": "V",
   "t": "V"
+ },
+ "117b87e25c52": {
+  "en": "Contract signed in blood. Nullification clauses on the back.",
+  "t": "用血签订的合同。背面有作废条款。"
+ },
+ "121a7a633c8e": {
+  "en": "Do not approach. Walking Heart carriers cannot be revived, and neither, usually, can the people who find them.",
+  "t": "不要靠近。沃金哈特的携带者无法复活，发现他们的人通常也一样。"
  },
  "12a50b821cd4": {
   "en": "Days",
   "t": "天数"
  },
+ "161984742f73": {
+  "en": "AMETHYST QUEST · CARGO PROTECTION",
+  "t": "阿米西斯特委托 · 货物护送"
+ },
+ "1700e6ef542b": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
+  "t": "在柜台用血签名。失败罚金：报酬的10%。期限一过就会派出搜救队。"
+ },
+ "1a6ad10c01ca": {
+  "en": "Before the mood reaches 6",
+  "t": "在心情升到6之前"
+ },
+ "1d822b71ce22": {
+  "en": "Pearl and up",
+  "t": "珀尔及以上"
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "昏昏欲睡"
  },
+ "22274ba2f160": {
+  "en": "Type",
+  "t": "类型"
+ },
  "229180c589d5": {
   "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
   "t": "−3 被追杀 · −2 敌对 · −1 不信任 · 0 不认识 · +1 友好 · +2 信任 · +3 自己人。每次跑团最多变动一级。"
+ },
+ "237250d76870": {
+  "en": "LOCAL WARNING · QUEST NOTICE",
+  "t": "地方警告 · 委托告示"
+ },
+ "26095b19807c": {
+  "en": "Vraki West March · Handout 04 · Blank Wanted Poster",
+  "t": "Vraki West March · 道具04 · 空白通缉令"
+ },
+ "265adbcfdd14": {
+  "en": "Local Warnings · Forway Embassy, Floor 1 · New quests read aloud at Monnalow",
+  "t": "地方警告 · 福威大使馆一楼 · 新委托在蒙纳洛宣读"
+ },
+ "28e14253d23c": {
+  "en": "5 days from signing",
+  "t": "签约后5天"
+ },
+ "2951f79ca0ac": {
+  "en": "UP TO 5 SAPPHIRES",
+  "t": "最高5个萨菲尔"
  },
  "2be94f37330b": {
   "en": "Fall",
@@ -35,17 +107,69 @@
   "en": "Reward",
   "t": "报酬"
  },
+ "2df4a29c8aee": {
+  "en": "QUEST BOARD",
+  "t": "委托板"
+ },
+ "2e641e2fe6ce": {
+  "en": "If you've traveled between Forway and Sanbi, you've probably \"donated\" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.",
+  "t": "如果你在福威和桑比之间旅行过，你多半已经给他的团伙“捐”过钱了。传说他和一颗<b>沃金哈特</b>融合了，现在强得像希富纳的魔兽。已知同伙：<b>大久特一伙</b>（马库斯、克洛多韦乌、威尔逊）。团伙徽记：画着沃增的蓝色方块。"
+ },
+ "2f29b4304770": {
+  "en": "Murder",
+  "t": "谋杀"
+ },
+ "3218e941e385": {
+  "en": "INFORMATION WANTED",
+  "t": "征集情报"
+ },
+ "34b16da8fcd5": {
+  "en": "BY ORDER OF FORWAY LAW",
+  "t": "奉福威法律之命"
+ },
+ "36931ae1b254": {
+  "en": "Classifieds <span class=\"tiny\">(1 pearl per post)</span>",
+  "t": "分类广告 <span class=\"tiny\">（每条1枚珀尔）</span>"
+ },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "期限"
+ },
+ "3c39e7786f25": {
+  "en": "FORWAY NEWS",
+  "t": "福威新闻"
  },
  "3e6b78d7874f": {
   "en": "Player",
   "t": "玩家"
  },
+ "3fc196bf8c15": {
+  "en": "Vraki West March · Handout 03 · Wanted: Kozaku Forway",
+  "t": "Vraki West March · 道具03 · 通缉：小作·福威"
+ },
+ "40cd343920b1": {
+  "en": "PRINTED AT THE FORWAY EMBASSY",
+  "t": "福威大使馆印制"
+ },
+ "41ad41c696b2": {
+  "en": "KOZAKU FORWAY",
+  "t": "小作·福威"
+ },
+ "429f5207c1bc": {
+  "en": "Courier Wingas Shot Down",
+  "t": "信使温加被击落"
+ },
  "44c1f47383f1": {
   "en": "I",
   "t": "I"
+ },
+ "478a332a3faa": {
+  "en": "<b>Merchants ask: were the guards in on it?</b> A merchant wagon bound for Sanbi was found empty two days short of the Long Bridge. Its contracted adventurers reported to the Sanbi embassy that they were \"overwhelmed by bandits.\" The merchant, who arrived the next day with a black eye, tells a different story.",
+  "t": "<b>商人们问：卫兵是不是也有份？</b> 一辆开往桑比的商队货车在离朗布里奇还有两天路程的地方被发现时已空空如也。签约的冒险者向桑比大使馆报告说他们“被强盗压倒了”。第二天带着一只黑眼圈赶到的商人，讲的却是另一回事。"
+ },
+ "486433270bb9": {
+  "en": "Posted on",
+  "t": "发布日期"
  },
  "4ad2ea48f3ca": {
   "en": "Summer",
@@ -59,6 +183,14 @@
   "en": "IV",
   "t": "IV"
  },
+ "519d6ceeb5d4": {
+  "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
+  "t": "布卢沃增斯首领 · 生于931年A.G. · 最后一次出现：很久以前"
+ },
+ "52fddfc73573": {
+  "en": "From the Embassy",
+  "t": "大使馆通告"
+ },
  "5443e491030b": {
   "en": "Amethyst",
   "t": "阿米西斯特"
@@ -66,6 +198,18 @@
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "脾气不好"
+ },
+ "58c7a0bb6721": {
+  "en": "Vraki West March · Handout 05 · Forway News (sample issue)",
+  "t": "Vraki West March · 道具05 · 福威新闻（样刊）"
+ },
+ "5a1025bdcf8e": {
+  "en": "FREEDAY, MOACIR 12TH, 1042 A.G.",
+  "t": "1042年A.G. 莫阿西尔月12日，弗里日"
+ },
+ "5bf7a6c4a7be": {
+  "en": "Any adventurer may take this job. Hiding a wanted criminal is itself a crime.",
+  "t": "任何冒险者都可以接这个活。窝藏通缉犯本身就是犯罪。"
  },
  "5c7b10517158": {
   "en": "Pearl",
@@ -83,17 +227,117 @@
   "en": "Revival window",
   "t": "复活期限"
  },
+ "6042adb75545": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward.",
+  "t": "在柜台用血签名。失败罚金：报酬的10%。"
+ },
+ "6139707159a1": {
+  "en": "5 amethysts per party, paid on delivery",
+  "t": "每支队伍5个阿米西斯特，交货时支付"
+ },
+ "63c6d4505de0": {
+  "en": "Misuse of official signal colors",
+  "t": "滥用官方信号颜色"
+ },
  "65283b7e6485": {
   "en": "Water-reactive nari bomb",
   "t": "遇水反应的纳里炸弹"
+ },
+ "6693fa591b5c": {
+  "en": "AMETHYST QUEST · BOUNTY",
+  "t": "阿米西斯特委托 · 悬赏"
+ },
+ "6ac090254da1": {
+  "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
+  "t": "<b>出售：</b> 陶土保冰箱，稍微闹鬼。价高者得（托勒里德梅人就不用还价了）。"
+ },
+ "6bf25f0f5e7b": {
+  "en": "Quest",
+  "t": "委托"
+ },
+ "7010c4292cd3": {
+  "en": "30 pearls + all the Soreno you can eat (please don't)",
+  "t": "30枚珀尔 + 你能吃下的所有索雷诺（请别吃）"
+ },
+ "70f8df0d4df7": {
+  "en": "Three courier Wingas have been shot down on the Waterfall route since Freeday last. Killing a Winga is a crime. Letters were missing from all three. An Amethyst quest is posted.",
+  "t": "自上个弗里日以来，沃特福尔航线上已有三只信使温加被击落。杀死温加是犯罪。三只身上的信都不见了。已发布一个阿米西斯特委托。"
+ },
+ "73171bdae4af": {
+  "en": "Vraki West March · Handout 01 · Quest Board",
+  "t": "Vraki West March · 道具01 · 委托板"
+ },
+ "73bab1cbc1ec": {
+  "en": "Badge rank",
+  "t": "身份牌级别"
+ },
+ "75b8c6683770": {
+  "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
+  "t": "接取不高于自己级别的委托 · 若队伍中有人持有更高一级，可高一级 · 复活债先扣50% · 发布一个委托要花1个阿米西斯特"
+ },
+ "771c54e57c5a": {
+  "en": "REWARD: ____________",
+  "t": "赏金：____________"
+ },
+ "790c8ec40330": {
+  "en": "Bahyum village reports Today's Castle Mood at <b>5 (Furious)</b>. Thin the undead before it reaches 6 and a Kingdom Alert is called. Bring nari stones; the fog drinks souls.",
+  "t": "巴休姆村报告今天的城堡心情为<b>5（暴怒）</b>。在升到6、发布王国警报之前，削减亡灵的数量。带上纳里石；雾会喝掉灵魂。"
+ },
+ "7957e7c61882": {
+  "en": "Wagon Vanishes on the Sanbi Road",
+  "t": "货车在桑比大道上失踪"
+ },
+ "7a070d013210": {
+  "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
+  "t": "沿朗布里奇大道护送一辆商队货车从福威到桑比。布卢沃增斯在这条路上“收税”；商人不想捐。货物详情在签约时告知。"
+ },
+ "7b106ad2407d": {
+  "en": "□ alive only · □ alive or dead · bounty quest posted at the ________________ embassy",
+  "t": "□ 只要活的 · □ 死活不论 · 悬赏委托发布于________________大使馆"
+ },
+ "7c0d177ad981": {
+  "en": "<b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.",
+  "t": "<b>福日</b>是休息日。大使馆不对外开放。尸体仍可以从侧门送来。"
+ },
+ "7d97ee8bf4eb": {
+  "en": "Bahyum: Mood Rising",
+  "t": "巴休姆：心情上升"
+ },
+ "7ed707162a6a": {
+  "en": "Mood sign at 4 or lower, signed by the village watch",
+  "t": "由村庄守卫签名、显示4或更低的心情牌"
+ },
+ "808c079a16e4": {
+  "en": "Proof",
+  "t": "证明"
+ },
+ "80f2a666fb3e": {
+  "en": "Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.",
+  "t": "一群索雷诺钻进了福威的一座粮仓，正在啃食这一季的存粮。在没东西可守之前把它们赶出去。袋子自备。"
  },
  "8220146365f2": {
   "en": "Black honey (jar)",
   "t": "黑蜜（一罐）"
  },
+ "82c47debad95": {
+  "en": "Last seen",
+  "t": "最后一次出现"
+ },
+ "84610a41263d": {
+  "en": "<b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.",
+  "t": "<b>招募：</b> 克利夫贝灯塔值守，需要3–5名冒险者。带上福斯特灯。在柜台留言。"
+ },
+ "84640d58c1a3": {
+  "en": "Today's Castle Mood · Bahyum",
+  "t": "今日城堡心情 · 巴休姆"
+ },
  "849cc321f202": {
   "en": "Level",
   "t": "等级"
+ },
+ "86f21e170b3f": {
+  "en": "WANTED",
+  "t": "通缉"
  },
  "8ae5de71fd4b": {
   "en": "Circles",
@@ -107,29 +351,117 @@
   "en": "Tier",
   "t": "等级"
  },
+ "8e52bfa426ce": {
+  "en": "Amethyst (or a Pearl party led by one)",
+  "t": "阿米西斯特（或由一名阿米西斯特带领的珀尔队伍）"
+ },
+ "9176ce89095a": {
+  "en": "Other: ______________",
+  "t": "其他：______________"
+ },
+ "9826815b57f9": {
+  "en": "<b>ANGRY.</b> Walking Skin packs raiding farms near Bahyum. Bar your doors. An Aquamarine quest goes up if it reaches 5.",
+  "t": "<b>愤怒。</b> 沃金·斯金成群袭击巴休姆附近的农场。闩好门。如果升到5，就会发布一个阿夸马林委托。"
+ },
+ "99fa290e7885": {
+  "en": "Vigilantes are criminals. So are adventurers who become them.",
+  "t": "自警团是罪犯。变成自警团的冒险者也是。"
+ },
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "9b996c619b29": {
+  "en": "Name · Place · Guild",
+  "t": "姓名 · 地点 · 公会"
+ },
+ "9c2adccbb599": {
+  "en": "Posted by",
+  "t": "发布者"
+ },
+ "a4f7be073854": {
+  "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
+  "t": "桑比大使馆已展开调查。商人公会现在要求货物护送合同预先支付<b>报酬10%的保证金</b>。“桑比大道上的冒险者都有份，”一位不愿透露姓名的商人说。"
+ },
+ "a70e48bd0367": {
+  "en": "SAMPLE ISSUE",
+  "t": "样刊"
+ },
+ "a84e4c00b86a": {
+  "en": "draw the criminal here",
+  "t": "在这里画出罪犯"
+ },
+ "a8b557c065aa": {
+  "en": "<b>LOST:</b> courier Winga, blue, answers to \"Feathers.\" Do not eat. Reward 5 pearls.",
+  "t": "<b>寻物：</b> 信使温加，蓝色，叫“羽毛”会应。别吃。酬谢5枚珀尔。"
+ },
+ "aad2f88a3da8": {
+  "en": "Robbing contracted cargo",
+  "t": "抢劫签约货物"
+ },
+ "acf86fb27bf5": {
+  "en": "Fleeing revival debt",
+  "t": "逃避复活债"
+ },
+ "b1e9c61f07f2": {
+  "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
+  "t": "<b>出售：</b> 骨木皮克，几乎没被咬过。8枚珀尔。"
+ },
+ "b3b4d9f426af": {
+  "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
+  "t": "<b>复活债</b>是每级100枚珀尔，还清之前每笔委托报酬的50%都归福威。逃债会让你被通缉。欠着债又死了，就会被征召进福威卫兵。<i>福威感谢你的服务。</i>"
  },
  "b76af4cfe69d": {
   "en": "Black honey revival pot",
   "t": "黑蜜复活罐"
  },
+ "bac9a1eda6ca": {
+  "en": "Heard in the Lounge",
+  "t": "休息室里听到的"
+ },
+ "be16c3c04ebb": {
+  "en": "The Bagarisa Brothers' Recruiter",
+  "t": "巴加里萨兄弟的招募人"
+ },
  "be2326901242": {
   "en": "Travel by Circles",
   "t": "按圈旅行"
+ },
+ "be74672db1d9": {
+  "en": "Weekly printout · read aloud at Monnalow",
+  "t": "每周印发 · 在蒙纳洛宣读"
+ },
+ "bffdcf140e1e": {
+  "en": "Breach of contract",
+  "t": "违约"
+ },
+ "c437f693df6f": {
+  "en": "Vraki West March · Handout 02 · Blank Quest Notices",
+  "t": "Vraki West March · 道具02 · 空白委托告示"
  },
  "c6154c9d7a78": {
   "en": "From",
   "t": "出发地"
  },
+ "c88bf0d64ddf": {
+  "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "文字与排版有AI辅助 · 美术：Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
  "c8a9d51017e9": {
   "en": "Angry",
   "t": "愤怒"
  },
+ "c8d560d4e2a0": {
+  "en": "Details",
+  "t": "详情"
+ },
  "c9531522b042": {
   "en": "Revived",
   "t": "已复活"
+ },
+ "c953dce063b5": {
+  "en": "Princess Maiara's team took the finals for another year, carrying the ball to the nest on their third chance. The other four teams are reportedly \"considering their options,\" which in Homeegg means buying better gels.",
+  "t": "迈阿拉公主的队伍又一年拿下决赛，在第三次机会时把球运进了巢。据说其他四支队伍正在“考虑他们的选择”，在霍姆埃格这意味着买更好的凝胶。"
  },
  "c99b50cb40d4": {
   "en": "Restless",
@@ -147,9 +479,25 @@
   "en": "Spring",
   "t": "春"
  },
+ "d6a2e267aafb": {
+  "en": "Silo keeper's signed receipt",
+  "t": "粮仓看守签名的收据"
+ },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "球"
+ },
+ "d9daeebbcea6": {
+  "en": "HAVE YOU SEEN<br>THIS MAN?",
+  "t": "你见过<br>这个人吗？"
+ },
+ "da45ea5a2676": {
+  "en": "4 aquamarines",
+  "t": "4个阿夸马林"
+ },
+ "dea2e498b351": {
+  "en": "Homeegg: Sanbi Wins Again",
+  "t": "霍姆埃格：桑比再次夺冠"
  },
  "dec64fbe04ed": {
   "en": "Nari stone stick (5 stones)",
@@ -163,6 +511,14 @@
   "en": "Sapphire",
   "t": "萨菲尔"
  },
+ "e54e1a482bf0": {
+  "en": "· Poachers swear they saw a <b>living Fuhraies</b>.<br>· A gore-soaked figure in insect armor, <b>\"The Stinger,\"</b> was seen near a road again. Forway is curious, not hostile.<br>· A <b>new room</b> appeared in Bahyum Castle.<br>· Someone is selling <b>Walking Hearts</b> again.<br>· This year's <b>Black Magina</b> field is \"somewhere warm.\"<br>· A Teefyro exploded near Tastyleaf and <b>left something</b> in the crater.",
+  "t": "· 偷猎者发誓他们看到了一个<b>活着的弗莱斯</b>。<br>· 一个浑身是血、穿着昆虫盔甲的身影，<b>“斯廷格”</b>，又在一条大路附近出现了。福威感到好奇，而不是敌意。<br>· 巴休姆城堡里出现了一个<b>新房间</b>。<br>· 又有人在卖<b>沃金哈特</b>了。<br>· 今年<b>布莱克玛吉纳</b>的田“在某个暖和的地方”。<br>· 一只蒂菲罗在泰斯蒂利夫附近爆炸，在弹坑里<b>留下了什么东西</b>。"
+ },
+ "e74f6337e511": {
+  "en": "AQUAMARINE QUEST · BAHYUM CONTROL",
+  "t": "阿夸马林委托 · 管控巴休姆"
+ },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
   "t": "1阿夸马林"
@@ -175,12 +531,52 @@
   "en": "Aquamarine",
   "t": "阿夸马林"
  },
+ "ef30a8d69ce2": {
+  "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
+  "t": "<b>招募：</b> 米纳里玩家，托尔日晚上。棋子自备。"
+ },
+ "f151f3dab9c8": {
+  "en": "None, until someone claims it",
+  "t": "无，直到有人认领"
+ },
+ "f4d19ca4b670": {
+  "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
+  "t": "巴加里萨兄弟这个自警团的一名招募人一直在招农场帮工，在福威法律之外“惩罚强盗”。把他<b>活着</b>带到大使馆。这一次福威不为尸体付钱。"
+ },
+ "f5890b93de7b": {
+  "en": "The man himself, breathing",
+  "t": "本人，还在喘气"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "目的地"
  },
+ "f88b2a35f578": {
+  "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
+  "t": "提供他下落的确切情报者，任何福威大使馆均可支付"
+ },
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "暴怒"
+ },
+ "f96a2573dd0b": {
+  "en": "Harm without consent",
+  "t": "未经同意伤人"
+ },
+ "f991612587b4": {
+  "en": "Soreno Scourge",
+  "t": "索雷诺之灾"
+ },
+ "fbe3b46cbe70": {
+  "en": "Embassy",
+  "t": "大使馆"
+ },
+ "fc579a92ff12": {
+  "en": "Round trip + 50%, set by the clerk",
+  "t": "往返时间 + 50%，由书记员定"
+ },
+ "ffc820385233": {
+  "en": "Delivery receipt sealed by the Sanbi embassy",
+  "t": "桑比大使馆盖印的交货收据"
  }
 }

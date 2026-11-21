@@ -5,7 +5,7 @@
  },
  "0ccd4252c532": {
   "en": "*A bandit go-between offers a cut for helping rob the wagon ([The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)).",
-  "t": "*Un intermediario de los bandidos ofrece una parte por ayudar a robar la carreta ([El Trabajo Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))."
+  "t": "*Un intermediario de los bandidos ofrece una parte por ayudar a robar el carro ([El Trabajo Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))."
  },
  "1eaa3917adfe": {
   "en": "No need to calculate distances, Egua speeds or loads. The [travel map](../Maps) has **circles drawn along the routes connecting places**.",
@@ -25,7 +25,7 @@
  },
  "22362e946f58": {
   "en": "**Travel** — keep the wagon moving, use companions (if they have them) to check for danger, let the Eguas graze, etc.",
-  "t": "**Viajar** — mantener la carreta en marcha, usar a los compañeros (si los tienen) para vigilar el peligro, dejar pastar a las Eguas, etc."
+  "t": "**Viajar** — mantener el carro en marcha, usar a los compañeros (si los tienen) para vigilar el peligro, dejar pastar a las Eguas, etc."
  },
  "234db54f6d14": {
   "en": "Players can create their own characters, or use an existing adventurer. See [Adventurers](Adventurers) for pre-made characters, or [Making an Adventurer](02%20-%20Making%20an%20Adventurer.md).",
@@ -65,7 +65,7 @@
  },
  "44c345a288ba": {
   "en": "Alpha One-Shot: Wagon Escort",
-  "t": "Aventura corta Alpha: escolta de carreta"
+  "t": "Aventura corta Alpha: escolta de carro"
  },
  "4b4f7f54253a": {
   "en": "The original metadata map with kilometers lives in the [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) for the lore-curious. Full travel rules: [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
@@ -73,7 +73,7 @@
  },
  "4fe6ce4319ee": {
   "en": "The original #HusbandOutWorld Alpha campaign, kept here for quick games. For the full open-table campaign, see the [DM Guide](README.md); this one-shot works as a single **Cargo Protection** quest in the West March too.",
-  "t": "La campaña Alpha original de #HusbandOutWorld, guardada aquí para partidas rápidas. Para la campaña completa de mesa abierta, consulta la [Guía del DM](README.md); esta aventura corta también funciona como una única misión de **Cargo Protection** en la West March."
+  "t": "La campaña Alpha original de #HusbandOutWorld, guardada aquí para partidas rápidas. Para la campaña completa de mesa abierta, consulta la [Guía del DM](README.md); esta aventura corta también funciona como una única misión de **Protección de carga** en la West March."
  },
  "5eb0ce43f1ce": {
   "en": "**1 day (Fast)** — good roads, light loads, or the DM wants to get to the action.",
@@ -81,7 +81,7 @@
  },
  "5ffcd8fda6be": {
   "en": "**Count the circles** from point A to point B along the map. A wagon from Forway to Sanbi crosses 6 circles; the [route lengths table](../Maps/README.md#route-lengths) has the rest.",
-  "t": "**Cuenta los círculos** del punto A al punto B en el mapa. Una carreta de Forway a Sanbi cruza 6 círculos; la [tabla de longitudes de ruta](../Maps/README.md#route-lengths) tiene el resto."
+  "t": "**Cuenta los círculos** del punto A al punto B en el mapa. Un carro de Forway a Sanbi cruza 6 círculos; la [tabla de longitudes de ruta](../Maps/README.md#route-lengths) tiene el resto."
  },
  "67317ae44e7c": {
   "en": "Players decide who stays awake, if anyone.",
@@ -109,7 +109,7 @@
  },
  "877b733a9812": {
   "en": "Punishment (if caught by guards or reported by one of the people in the wagon or someone else.)",
-  "t": "Castigo (si los pillan los guardias o los denuncia alguien de la carreta u otra persona)."
+  "t": "Castigo (si los pillan los guardias o los denuncia alguien del carro u otra persona)."
  },
  "89d7288616c2": {
   "en": "Whatever makes the game more fun — do it.  \nIf you have a proposal for tweaking numbers, send us a PR modifying only the D&D campaign files!",
@@ -133,7 +133,7 @@
  },
  "a37d475b4c17": {
   "en": "**3 days (Slow)** — heavy wagon, off-road, swamp, desert, mountains, bad weather, or the DM wants the journey to *be* the adventure.",
-  "t": "**3 días (Lento)** — carreta pesada, campo a través, pantano, desierto, montañas, mal tiempo, o el DM quiere que el viaje *sea* la aventura."
+  "t": "**3 días (Lento)** — carro pesado, campo a través, pantano, desierto, montañas, mal tiempo, o el DM quiere que el viaje *sea* la aventura."
  },
  "a3cb49416a78": {
   "en": "Daily Structure",
@@ -145,7 +145,7 @@
  },
  "bcc630834b56": {
   "en": "*Find corpses (adventurers, other wagon, etc.)",
-  "t": "*Encontrar cadáveres (aventureros, otra carreta, etc.)"
+  "t": "*Encontrar cadáveres (aventureros, otro carro, etc.)"
  },
  "bdb345622188": {
   "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md) — event rolls and regional encounter tables",
@@ -153,7 +153,7 @@
  },
  "ca82d9e7c13d": {
   "en": "*Broken wagon.",
-  "t": "*Carreta rota."
+  "t": "*Carro roto."
  },
  "d212f917b48f": {
   "en": "For DMs",
@@ -161,11 +161,11 @@
  },
  "d2d0b9f36830": {
   "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — the bandits' offer: help rob the wagon, gamble on the payout",
-  "t": "[El Trabajo Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — la oferta de los bandidos: ayudar a robar la carreta y apostar por el botín"
+  "t": "[El Trabajo Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — la oferta de los bandidos: ayudar a robar el carro y apostar por el botín"
  },
  "d9e8acc981bc": {
   "en": "If in town or staying with other wagons, social actions become available. Prep Nari gels, etc.",
-  "t": "Si están en un pueblo o acampando con otras carretas, se abren las acciones sociales. Preparar geles de nari, etc."
+  "t": "Si están en un pueblo o acampando con otros carros, se abren las acciones sociales. Preparar geles de nari, etc."
  },
  "da591a7e9f3b": {
   "en": "Rewards.  ",
@@ -177,11 +177,11 @@
  },
  "f27b8b733337": {
   "en": "The campaign involves **2–6 players** working as adventurers protecting a wagon from one place to another. More of a one‑shot type of campaign.",
-  "t": "La campaña reúne a **2–6 jugadores** que hacen de aventureros protegiendo una carreta de un lugar a otro. Es más bien una campaña de una sola sesión."
+  "t": "La campaña reúne a **2–6 jugadores** que hacen de aventureros protegiendo un carro de un lugar a otro. Es más bien una campaña de una sola sesión."
  },
  "f59374ff2724": {
   "en": "**2 days (Standard)** — a normal wagon on roads and trails.",
-  "t": "**2 días (Normal)** — una carreta normal por caminos y senderos."
+  "t": "**2 días (Normal)** — un carro normal por caminos y senderos."
  },
  "f6733a9b0481": {
   "en": "Events, enemies for event types, etc. Possible events:",

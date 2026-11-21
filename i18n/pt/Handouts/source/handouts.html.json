@@ -3,29 +3,101 @@
   "en": "III",
   "t": "III"
  },
+ "0377b9100d91": {
+  "en": "Revival is guaranteed for bodies returned within the window. Ice them.",
+  "t": "A reanimação é garantida para corpos trazidos de volta dentro da janela. Ponha gelo neles."
+ },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
   "t": "Bomba de fumaça de sinal (vermelho/ciano/verde/amarelo)"
+ },
+ "078512b00fa4": {
+  "en": "Conspiracy against Forway",
+  "t": "Conspiração contra Forway"
+ },
+ "078d7325de1d": {
+  "en": "<b>NOTICE:</b> the Long Bridge road \"toll\" is not legal. Report it; do not punish it.",
+  "t": "<b>AVISO:</b> o «pedágio» da estrada de Long Bridge não é legal. Denuncie; não puna por conta própria."
+ },
+ "08f5aa86ed9b": {
+  "en": "PEARL QUEST · PEST CONTROL",
+  "t": "MISSÃO PEARL · CONTROLE DE PRAGAS"
+ },
+ "0b2811f7cf03": {
+  "en": "Wagon to Sanbi",
+  "t": "Carroça para Sanbi"
  },
  "0c00c18dd4d7": {
   "en": "Place",
   "t": "Lugar"
  },
+ "0f3503e615b0": {
+  "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
+  "t": "Anúncios gerais: 1 pearl · Avisos locais: 1 amethyst"
+ },
  "0f796c865397": {
   "en": "V",
   "t": "V"
+ },
+ "117b87e25c52": {
+  "en": "Contract signed in blood. Nullification clauses on the back.",
+  "t": "Contrato assinado com sangue. Cláusulas de anulação no verso."
+ },
+ "121a7a633c8e": {
+  "en": "Do not approach. Walking Heart carriers cannot be revived, and neither, usually, can the people who find them.",
+  "t": "Não se aproxime. Portadores de Walking Heart não podem ser reanimados, e normalmente quem os encontra também não."
  },
  "12a50b821cd4": {
   "en": "Days",
   "t": "Dias"
  },
+ "161984742f73": {
+  "en": "AMETHYST QUEST · CARGO PROTECTION",
+  "t": "MISSÃO AMETHYST · PROTEÇÃO DE CARGA"
+ },
+ "1700e6ef542b": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
+  "t": "Assine com sangue no balcão. Multa por fracasso: 10% da recompensa. Uma equipe de busca é enviada quando o prazo vence."
+ },
+ "1a6ad10c01ca": {
+  "en": "Before the mood reaches 6",
+  "t": "Antes de o humor chegar a 6"
+ },
+ "1d822b71ce22": {
+  "en": "Pearl and up",
+  "t": "Pearl ou acima"
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "Sonolento"
  },
+ "22274ba2f160": {
+  "en": "Type",
+  "t": "Tipo"
+ },
  "229180c589d5": {
   "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
   "t": "−3 caçados · −2 hostil · −1 desconfiança · 0 desconhecidos · +1 amigável · +2 de confiança · +3 família. No máximo um passo por sessão."
+ },
+ "237250d76870": {
+  "en": "LOCAL WARNING · QUEST NOTICE",
+  "t": "AVISO LOCAL · ANÚNCIO DE MISSÃO"
+ },
+ "26095b19807c": {
+  "en": "Vraki West March · Handout 04 · Blank Wanted Poster",
+  "t": "Vraki West March · Material 04 · Cartaz de procurado em branco"
+ },
+ "265adbcfdd14": {
+  "en": "Local Warnings · Forway Embassy, Floor 1 · New quests read aloud at Monnalow",
+  "t": "Avisos locais · Embaixada de Forway, 1º andar · Missões novas são lidas em voz alta em Monnalow"
+ },
+ "28e14253d23c": {
+  "en": "5 days from signing",
+  "t": "5 dias a partir da assinatura"
+ },
+ "2951f79ca0ac": {
+  "en": "UP TO 5 SAPPHIRES",
+  "t": "ATÉ 5 SAPPHIRES"
  },
  "2be94f37330b": {
   "en": "Fall",
@@ -35,17 +107,69 @@
   "en": "Reward",
   "t": "Recompensa"
  },
+ "2df4a29c8aee": {
+  "en": "QUEST BOARD",
+  "t": "QUADRO DE MISSÕES"
+ },
+ "2e641e2fe6ce": {
+  "en": "If you've traveled between Forway and Sanbi, you've probably \"donated\" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.",
+  "t": "Se você já viajou entre Forway e Sanbi, provavelmente já «doou» para o bando dele. Dizem que ele se fundiu com um <b>Walking Heart</b> e agora é tão forte quanto uma fera de Hifuna. Comparsas conhecidos: os <b>rapazes Big-Gyut</b> (Marcus, Clodoveu, Wilson). Distintivo do bando: um quadrado azul com um Wozen."
+ },
+ "2f29b4304770": {
+  "en": "Murder",
+  "t": "Assassinato"
+ },
+ "3218e941e385": {
+  "en": "INFORMATION WANTED",
+  "t": "PROCURA-SE INFORMAÇÃO"
+ },
+ "34b16da8fcd5": {
+  "en": "BY ORDER OF FORWAY LAW",
+  "t": "POR ORDEM DA LEI DE FORWAY"
+ },
+ "36931ae1b254": {
+  "en": "Classifieds <span class=\"tiny\">(1 pearl per post)</span>",
+  "t": "Classificados <span class=\"tiny\">(1 pearl por anúncio)</span>"
+ },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "Prazo"
+ },
+ "3c39e7786f25": {
+  "en": "FORWAY NEWS",
+  "t": "FORWAY NEWS"
  },
  "3e6b78d7874f": {
   "en": "Player",
   "t": "Jogador"
  },
+ "3fc196bf8c15": {
+  "en": "Vraki West March · Handout 03 · Wanted: Kozaku Forway",
+  "t": "Vraki West March · Material 03 · Procurado: Kozaku Forway"
+ },
+ "40cd343920b1": {
+  "en": "PRINTED AT THE FORWAY EMBASSY",
+  "t": "IMPRESSO NA EMBAIXADA DE FORWAY"
+ },
+ "41ad41c696b2": {
+  "en": "KOZAKU FORWAY",
+  "t": "KOZAKU FORWAY"
+ },
+ "429f5207c1bc": {
+  "en": "Courier Wingas Shot Down",
+  "t": "Wingas mensageiras abatidas"
+ },
  "44c1f47383f1": {
   "en": "I",
   "t": "I"
+ },
+ "478a332a3faa": {
+  "en": "<b>Merchants ask: were the guards in on it?</b> A merchant wagon bound for Sanbi was found empty two days short of the Long Bridge. Its contracted adventurers reported to the Sanbi embassy that they were \"overwhelmed by bandits.\" The merchant, who arrived the next day with a black eye, tells a different story.",
+  "t": "<b>Mercadores perguntam: os guardas estavam envolvidos?</b> Uma carroça de mercadorias a caminho de Sanbi foi achada vazia a dois dias de Long Bridge. Os aventureiros contratados relataram à embaixada de Sanbi que foram «dominados por bandidos». O mercador, que chegou no dia seguinte com um olho roxo, conta outra história."
+ },
+ "486433270bb9": {
+  "en": "Posted on",
+  "t": "Publicada em"
  },
  "4ad2ea48f3ca": {
   "en": "Summer",
@@ -59,6 +183,14 @@
   "en": "IV",
   "t": "IV"
  },
+ "519d6ceeb5d4": {
+  "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
+  "t": "Chefe dos Blue Wozens · nascido em 931 A.G. · visto pela última vez: faz séculos"
+ },
+ "52fddfc73573": {
+  "en": "From the Embassy",
+  "t": "Da embaixada"
+ },
  "5443e491030b": {
   "en": "Amethyst",
   "t": "Amethyst"
@@ -66,6 +198,18 @@
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "Rabugento"
+ },
+ "58c7a0bb6721": {
+  "en": "Vraki West March · Handout 05 · Forway News (sample issue)",
+  "t": "Vraki West March · Material 05 · Forway News (edição de amostra)"
+ },
+ "5a1025bdcf8e": {
+  "en": "FREEDAY, MOACIR 12TH, 1042 A.G.",
+  "t": "FREEDAY, 12 DE MOACIR DE 1042 A.G."
+ },
+ "5bf7a6c4a7be": {
+  "en": "Any adventurer may take this job. Hiding a wanted criminal is itself a crime.",
+  "t": "Qualquer aventureiro pode pegar este trabalho. Esconder um criminoso procurado também é crime."
  },
  "5c7b10517158": {
   "en": "Pearl",
@@ -83,17 +227,117 @@
   "en": "Revival window",
   "t": "Prazo de revivência"
  },
+ "6042adb75545": {
+  "en": "Sign in blood at the counter. Failure penalty: 10% of reward.",
+  "t": "Assine com sangue no balcão. Multa por fracasso: 10% da recompensa."
+ },
+ "6139707159a1": {
+  "en": "5 amethysts per party, paid on delivery",
+  "t": "5 amethysts por grupo, pagos na entrega"
+ },
+ "63c6d4505de0": {
+  "en": "Misuse of official signal colors",
+  "t": "Uso indevido das cores oficiais de sinal"
+ },
  "65283b7e6485": {
   "en": "Water-reactive nari bomb",
   "t": "Bomba de nari que reage à água"
+ },
+ "6693fa591b5c": {
+  "en": "AMETHYST QUEST · BOUNTY",
+  "t": "MISSÃO AMETHYST · RECOMPENSA"
+ },
+ "6ac090254da1": {
+  "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
+  "t": "<b>VENDE-SE:</b> conservador de gelo de argila, levemente assombrado. Melhor oferta (toleridemianos, nem tentem pechinchar)."
+ },
+ "6bf25f0f5e7b": {
+  "en": "Quest",
+  "t": "Missão"
+ },
+ "7010c4292cd3": {
+  "en": "30 pearls + all the Soreno you can eat (please don't)",
+  "t": "30 pearls + todo Soreno que você conseguir comer (por favor, não)"
+ },
+ "70f8df0d4df7": {
+  "en": "Three courier Wingas have been shot down on the Waterfall route since Freeday last. Killing a Winga is a crime. Letters were missing from all three. An Amethyst quest is posted.",
+  "t": "Três Wingas mensageiras foram abatidas na rota de Waterfall desde o último Freeday. Matar uma Winga é crime. Faltavam cartas nas três. Há uma missão Amethyst publicada."
+ },
+ "73171bdae4af": {
+  "en": "Vraki West March · Handout 01 · Quest Board",
+  "t": "Vraki West March · Material 01 · Quadro de missões"
+ },
+ "73bab1cbc1ec": {
+  "en": "Badge rank",
+  "t": "Patente do distintivo"
+ },
+ "75b8c6683770": {
+  "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
+  "t": "Pegue missões da sua patente ou abaixo · uma patente acima se alguém do grupo a tiver · a dívida de reanimação leva seus 50% primeiro · publicar uma missão custa 1 amethyst"
+ },
+ "771c54e57c5a": {
+  "en": "REWARD: ____________",
+  "t": "RECOMPENSA: ____________"
+ },
+ "790c8ec40330": {
+  "en": "Bahyum village reports Today's Castle Mood at <b>5 (Furious)</b>. Thin the undead before it reaches 6 and a Kingdom Alert is called. Bring nari stones; the fog drinks souls.",
+  "t": "A aldeia de Bahyum informa que o humor do castelo hoje está em <b>5 (Furioso)</b>. Reduza os mortos-vivos antes que chegue a 6 e seja dado um Alerta do reino. Traga pedras de nari; a névoa bebe almas."
+ },
+ "7957e7c61882": {
+  "en": "Wagon Vanishes on the Sanbi Road",
+  "t": "Carroça some na estrada de Sanbi"
+ },
+ "7a070d013210": {
+  "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
+  "t": "Escolte uma carroça de mercadorias de Forway a Sanbi pela estrada de Long Bridge. Os Blue Wozens «cobram imposto» nesta estrada; o mercador prefere não doar. Os detalhes da carga são dados na assinatura."
+ },
+ "7b106ad2407d": {
+  "en": "□ alive only · □ alive or dead · bounty quest posted at the ________________ embassy",
+  "t": "□ só vivo · □ vivo ou morto · missão de recompensa publicada na embaixada de ________________"
+ },
+ "7c0d177ad981": {
+  "en": "<b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.",
+  "t": "<b>Forrday</b> é dia de descanso. As embaixadas fecham ao público. Corpos ainda podem ser entregues pela porta lateral."
+ },
+ "7d97ee8bf4eb": {
+  "en": "Bahyum: Mood Rising",
+  "t": "Bahyum: o humor está subindo"
+ },
+ "7ed707162a6a": {
+  "en": "Mood sign at 4 or lower, signed by the village watch",
+  "t": "Placa do humor em 4 ou menos, assinada pela vigia da aldeia"
+ },
+ "808c079a16e4": {
+  "en": "Proof",
+  "t": "Prova"
+ },
+ "80f2a666fb3e": {
+  "en": "Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.",
+  "t": "Sorenos se instalaram num silo de grãos de Forway e estão roendo os estoques da estação. Expulse-os antes que não sobre nada para vigiar. Traga seus próprios sacos."
  },
  "8220146365f2": {
   "en": "Black honey (jar)",
   "t": "Mel negro (pote)"
  },
+ "82c47debad95": {
+  "en": "Last seen",
+  "t": "Visto pela última vez"
+ },
+ "84610a41263d": {
+  "en": "<b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.",
+  "t": "<b>PROCURAM-SE:</b> 3–5 aventureiros para o serviço do farol em Cliffbay. Tragam uma lâmpada de fost. Deixem recado no balcão."
+ },
+ "84640d58c1a3": {
+  "en": "Today's Castle Mood · Bahyum",
+  "t": "O humor do castelo hoje · Bahyum"
+ },
  "849cc321f202": {
   "en": "Level",
   "t": "Nível"
+ },
+ "86f21e170b3f": {
+  "en": "WANTED",
+  "t": "PROCURADO"
  },
  "8ae5de71fd4b": {
   "en": "Circles",
@@ -107,29 +351,117 @@
   "en": "Tier",
   "t": "Nível"
  },
+ "8e52bfa426ce": {
+  "en": "Amethyst (or a Pearl party led by one)",
+  "t": "Amethyst (ou um grupo Pearl liderado por um)"
+ },
+ "9176ce89095a": {
+  "en": "Other: ______________",
+  "t": "Outro: ______________"
+ },
+ "9826815b57f9": {
+  "en": "<b>ANGRY.</b> Walking Skin packs raiding farms near Bahyum. Bar your doors. An Aquamarine quest goes up if it reaches 5.",
+  "t": "<b>IRRITADO.</b> Bandos de Walking Skin atacando fazendas perto de Bahyum. Tranquem as portas. Se chegar a 5, sai uma missão Aquamarine."
+ },
+ "99fa290e7885": {
+  "en": "Vigilantes are criminals. So are adventurers who become them.",
+  "t": "Justiceiros são criminosos. Aventureiros que viram justiceiros também."
+ },
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "9b996c619b29": {
+  "en": "Name · Place · Guild",
+  "t": "Nome · Lugar · Guilda"
+ },
+ "9c2adccbb599": {
+  "en": "Posted by",
+  "t": "Publicada por"
+ },
+ "a4f7be073854": {
+  "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
+  "t": "A embaixada de Sanbi abriu uma investigação. As guildas de mercadores agora pedem uma <b>caução de 10% da recompensa</b>, paga adiantada, nos contratos de proteção de carga. «Os aventureiros da estrada de Sanbi estão envolvidos», disse um deles, que não quis se identificar."
+ },
+ "a70e48bd0367": {
+  "en": "SAMPLE ISSUE",
+  "t": "EDIÇÃO DE AMOSTRA"
+ },
+ "a84e4c00b86a": {
+  "en": "draw the criminal here",
+  "t": "desenhe o criminoso aqui"
+ },
+ "a8b557c065aa": {
+  "en": "<b>LOST:</b> courier Winga, blue, answers to \"Feathers.\" Do not eat. Reward 5 pearls.",
+  "t": "<b>PERDIDA:</b> Winga mensageira, azul, atende por «Peninha». Não coma. Recompensa de 5 pearls."
+ },
+ "aad2f88a3da8": {
+  "en": "Robbing contracted cargo",
+  "t": "Roubo de carga contratada"
+ },
+ "acf86fb27bf5": {
+  "en": "Fleeing revival debt",
+  "t": "Fuga da dívida de reanimação"
+ },
+ "b1e9c61f07f2": {
+  "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
+  "t": "<b>VENDE-SE:</b> Picker de osso-madeira, quase sem mordidas. 8 pearls."
+ },
+ "b3b4d9f426af": {
+  "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
+  "t": "A <b>dívida de reanimação</b> é de 100 pearls por nível, e 50% de toda recompensa de missão vai para Forway até ser paga. Fugir da dívida torna você procurado. Morrer de novo enquanto deve recruta você para a Guarda de Forway. <i>Forway agradece pelos seus serviços.</i>"
  },
  "b76af4cfe69d": {
   "en": "Black honey revival pot",
   "t": "Pote de mel negro para reanimação"
  },
+ "bac9a1eda6ca": {
+  "en": "Heard in the Lounge",
+  "t": "Ouvido no salão"
+ },
+ "be16c3c04ebb": {
+  "en": "The Bagarisa Brothers' Recruiter",
+  "t": "O recrutador dos Bagarisa Brothers"
+ },
  "be2326901242": {
   "en": "Travel by Circles",
   "t": "Viajar por círculos"
+ },
+ "be74672db1d9": {
+  "en": "Weekly printout · read aloud at Monnalow",
+  "t": "Impresso semanal · lido em voz alta em Monnalow"
+ },
+ "bffdcf140e1e": {
+  "en": "Breach of contract",
+  "t": "Quebra de contrato"
+ },
+ "c437f693df6f": {
+  "en": "Vraki West March · Handout 02 · Blank Quest Notices",
+  "t": "Vraki West March · Material 02 · Avisos de missão em branco"
  },
  "c6154c9d7a78": {
   "en": "From",
   "t": "De"
  },
+ "c88bf0d64ddf": {
+  "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "Texto e diagramação com ajuda de IA · Arte de Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
  "c8a9d51017e9": {
   "en": "Angry",
   "t": "Irritado"
  },
+ "c8d560d4e2a0": {
+  "en": "Details",
+  "t": "Detalhes"
+ },
  "c9531522b042": {
   "en": "Revived",
   "t": "Revivido"
+ },
+ "c953dce063b5": {
+  "en": "Princess Maiara's team took the finals for another year, carrying the ball to the nest on their third chance. The other four teams are reportedly \"considering their options,\" which in Homeegg means buying better gels.",
+  "t": "O time da princesa Maiara levou a final mais um ano, carregando a bola até o ninho na terceira chance. Dizem que os outros quatro times estão «avaliando suas opções», o que em Homeegg quer dizer comprar géis melhores."
  },
  "c99b50cb40d4": {
   "en": "Restless",
@@ -147,9 +479,25 @@
   "en": "Spring",
   "t": "Primavera"
  },
+ "d6a2e267aafb": {
+  "en": "Silo keeper's signed receipt",
+  "t": "Recibo assinado pelo guarda do silo"
+ },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "Bola"
+ },
+ "d9daeebbcea6": {
+  "en": "HAVE YOU SEEN<br>THIS MAN?",
+  "t": "VOCÊ VIU<br>ESTE HOMEM?"
+ },
+ "da45ea5a2676": {
+  "en": "4 aquamarines",
+  "t": "4 aquamarines"
+ },
+ "dea2e498b351": {
+  "en": "Homeegg: Sanbi Wins Again",
+  "t": "Homeegg: Sanbi vence de novo"
  },
  "dec64fbe04ed": {
   "en": "Nari stone stick (5 stones)",
@@ -163,6 +511,14 @@
   "en": "Sapphire",
   "t": "Sapphire"
  },
+ "e54e1a482bf0": {
+  "en": "· Poachers swear they saw a <b>living Fuhraies</b>.<br>· A gore-soaked figure in insect armor, <b>\"The Stinger,\"</b> was seen near a road again. Forway is curious, not hostile.<br>· A <b>new room</b> appeared in Bahyum Castle.<br>· Someone is selling <b>Walking Hearts</b> again.<br>· This year's <b>Black Magina</b> field is \"somewhere warm.\"<br>· A Teefyro exploded near Tastyleaf and <b>left something</b> in the crater.",
+  "t": "· Caçadores ilegais juram que viram um <b>Fuhraies vivo</b>.<br>· Uma figura encharcada de sangue numa armadura de inseto, <b>«The Stinger»</b>, foi vista de novo perto de uma estrada. Forway está curiosa, não hostil.<br>· Uma <b>sala nova</b> apareceu no Castelo de Bahyum.<br>· Alguém está vendendo <b>Walking Hearts</b> de novo.<br>· O campo da <b>Black Magina</b> deste ano fica «em algum lugar quente».<br>· Um Teefyro explodiu perto de Tastyleaf e <b>deixou algo</b> na cratera."
+ },
+ "e74f6337e511": {
+  "en": "AQUAMARINE QUEST · BAHYUM CONTROL",
+  "t": "MISSÃO AQUAMARINE · CONTROLE DE BAHYUM"
+ },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
   "t": "1 aquamarine"
@@ -175,12 +531,52 @@
   "en": "Aquamarine",
   "t": "Aquamarine"
  },
+ "ef30a8d69ce2": {
+  "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
+  "t": "<b>PROCURAM-SE:</b> jogadores de Minari, noites de Tollday. Tragam suas próprias estatuetas."
+ },
+ "f151f3dab9c8": {
+  "en": "None, until someone claims it",
+  "t": "Nenhum, até alguém reivindicar"
+ },
+ "f4d19ca4b670": {
+  "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
+  "t": "Um recrutador dos justiceiros Bagarisa Brothers anda alistando lavradores para «punir bandidos» fora da Lei de Forway. Traga-o à embaixada <b>vivo</b>. Desta vez Forway não paga por cadáveres."
+ },
+ "f5890b93de7b": {
+  "en": "The man himself, breathing",
+  "t": "O próprio homem, respirando"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "Para"
  },
+ "f88b2a35f578": {
+  "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
+  "t": "por informação confirmada sobre o paradeiro dele, pagos por qualquer embaixada de Forway"
+ },
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "Furioso"
+ },
+ "f96a2573dd0b": {
+  "en": "Harm without consent",
+  "t": "Dano sem consentimento"
+ },
+ "f991612587b4": {
+  "en": "Soreno Scourge",
+  "t": "A praga de Sorenos"
+ },
+ "fbe3b46cbe70": {
+  "en": "Embassy",
+  "t": "Embaixada"
+ },
+ "fc579a92ff12": {
+  "en": "Round trip + 50%, set by the clerk",
+  "t": "Ida e volta + 50%, definido pelo escrivão"
+ },
+ "ffc820385233": {
+  "en": "Delivery receipt sealed by the Sanbi embassy",
+  "t": "Recibo de entrega selado pela embaixada de Sanbi"
  }
 }
