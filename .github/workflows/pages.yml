@@ -2,6 +2,9 @@ name: Website
 
 # Publishes the campaign website (index.html, site/ and the Markdown it reads) to GitHub Pages.
 # One-time setup: repo Settings > Pages > Build and deployment > Source = "GitHub Actions".
+# The actions run on Node 24 (checkout v7, setup-node v7, configure-pages v6, upload-pages-artifact v5,
+# deploy-pages v5). Pages built by Actions skip Jekyll, so .nojekyll isn't needed (and upload-pages-artifact
+# leaves out hidden files).
 on:
   push:
     branches: [main]
@@ -23,9 +26,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: "22"
 
@@ -60,13 +63,15 @@ jobs:
         shell: bash
         run: |
           mkdir _site
-          cp -r index.html sw.js .nojekyll site Handouts Maps "World Lore" "D&D Campaign" ./*.md llms.txt llms-full.txt sitemap.xml _site/
+          cp -r index.html sw.js site Handouts Maps "World Lore" "D&D Campaign" ./*.md llms.txt llms-full.txt sitemap.xml _site/
           # The handout renderer's Playwright install isn't part of the site.
           rm -rf _site/Handouts/source/node_modules _site/Handouts/source/package*.json
+          # What gets deployed, biggest first (about 80 MB: the 34 MB print map and the handouts in 7 languages).
+          { echo "### Site size: $(du -sh _site | cut -f1)"; echo '```'; du -sh _site/* | sort -rh | head -8; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v6
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -78,4 +83,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
