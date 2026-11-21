@@ -427,9 +427,9 @@ input[type="checkbox"], input[type="radio"] { width: 18px; height: 18px; accent-
 .shift.unset .s-ev { color: var(--ink-2); font-style: italic; }
 .shift.encounter { background: linear-gradient(90deg, var(--blood-bg), var(--card) 85%); }
 .shift.encounter .s-ev { font-weight: 700; }
-.shift.omen .s-ev::before { content: "Sign · "; color: var(--pearl); font: 700 13px var(--ui); }
+.shift.omen .s-tag { color: var(--pearl); font: 700 13px var(--ui); }
 .shift.insidejob { background: linear-gradient(90deg, color-mix(in srgb, var(--amethyst) 14%, var(--card)), var(--card) 85%); }
-.shift.custom .s-ev::before { content: "Yours · "; color: var(--aquamarine); font: 700 13px var(--ui); }
+.shift.custom .s-tag { color: var(--aquamarine); font: 700 13px var(--ui); }
 .shift.done .s-ev { text-decoration: line-through; text-decoration-color: var(--ink-2); }
 .s-count { font: 700 12.5px var(--ui); color: var(--blood); }
 

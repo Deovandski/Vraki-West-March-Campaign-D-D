@@ -6,7 +6,8 @@
      docs      every Markdown page the site lists (site/js/content.js), split into segments by
                site/js/i18n.js: a heading, a paragraph, a list item or a table cell
      ui        the site's own text: __("…"), __.n(n, "…", "…") and N_("…") in site/js/*.js, plus the
-               elements marked data-i18n / data-i18n-attr in index.html
+               elements marked data-i18n / data-i18n-attr in index.html, and the menu's group names and page titles
+               (site/js/content.js)
      handouts  the printable props (Handouts/source/handouts.html); the Vraki-script lines stay in Vraki
    Each segment is stored under a short hash of its English, so unchanged English is never translated again.
 
@@ -82,6 +83,10 @@ function uiStrings() {
   for (const m of html.matchAll(/<\w+\b[^>]*\sdata-i18n-attr="([^"]+)"[^>]*>/g)) {
     m[1].split(/\s+/).forEach((a) => { const v = new RegExp("\\s" + a + '="([^"]*)"').exec(m[0]); if (v) out.add(v[1].replace(/&amp;/g, "&")); });
   }
+  // The menu: group names and page titles in site/js/content.js (shown through __(title)).
+  const sb = { window: {}, console };
+  vm.runInNewContext(read("site/js/content.js"), sb);
+  for (const g of sb.window.VW.content.groups) { out.add(g.title); g.docs.forEach((d) => out.add(d[1])); }
   out.delete("");
   return [...out];
 }

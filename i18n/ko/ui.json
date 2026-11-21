@@ -119,6 +119,10 @@
   "en": "Saving…",
   "t": "저장 중…"
  },
+ "099b65fac375": {
+  "en": "Kaiana",
+  "t": "카이아나"
+ },
  "0a681e5d9fd3": {
   "en": "Start the guide over",
   "t": "안내 처음부터 다시 하기"
@@ -379,6 +383,14 @@
   "en": "Dangerous places",
   "t": "위험한 장소"
  },
+ "2765e1ff99a2": {
+  "en": "Soul energy & sigil rings",
+  "t": "영혼 에너지와 시질 링"
+ },
+ "277d27c89260": {
+  "en": "All pre-made adventurers",
+  "t": "사전 제작 모험가 전체"
+ },
  "27be80977c16": {
   "en": "Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click).",
   "t": "신청한 모험가를 <b>파티</b> 페이지에 추가하세요(미리 만든 모험가는 한 번에 불러옵니다)."
@@ -451,6 +463,10 @@
   "en": "a cantrip ring",
   "t": "소마법 반지"
  },
+ "2bc9766a1efc": {
+  "en": "{n} encounters",
+  "t": "조우 {n}건"
+ },
  "2c207de27d66": {
   "en": "Standard",
   "t": "보통"
@@ -490,6 +506,10 @@
  "2fb84a3ee938": {
   "en": "It's one shared world. Whatever your party kills, maps or angers stays that way for everyone.",
   "t": "하나의 공유된 세계입니다. 여러분의 파티가 죽이고, 지도에 그리고, 화나게 한 것은 모두에게 그대로 남습니다."
+ },
+ "2fb85aadcf76": {
+  "en": "Death, revival & debt",
+  "t": "죽음, 부활, 빚"
  },
  "2fb97e854c4c": {
   "en": "Patrol roll",
@@ -675,6 +695,10 @@
   "en": "Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which.",
   "t": "두 장소 사이의 서클을 세세요. 서클 하나는 여행 1일, 2일, 3일 중 하나이며 DM이 정합니다."
  },
+ "3f68e5441d9e": {
+  "en": "{n} sign",
+  "t": "징조 {n}건"
+ },
  "3fd940eb0c0a": {
   "en": "Full-size file for printing",
   "t": "인쇄용 원본 크기 파일"
@@ -711,9 +735,17 @@
   "en": "Nari stones on hand",
   "t": "가진 나리석"
  },
+ "4538b6a957bf": {
+  "en": "Sign",
+  "t": "징조"
+ },
  "4540f7843779": {
   "en": "no patrol today.",
   "t": "오늘은 순찰이 없다."
+ },
+ "45694f7c975e": {
+  "en": "Maps & handouts",
+  "t": "지도와 배포물"
  },
  "45f61418b146": {
   "en": "Disadvantage",
@@ -759,9 +791,21 @@
   "en": "the trip",
   "t": "이 여행"
  },
+ "4a4448155dee": {
+  "en": "Law, treaties & embassies",
+  "t": "법, 조약, 대사관"
+ },
  "4b2c4f63ca40": {
   "en": "On a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day.",
   "t": "1이 나오면 기분이 1 내려가고, 6이 나오면 1 올라갑니다. 성 안에서 싸우는 파티가 있으면 매일 1씩 올라갑니다."
+ },
+ "4c1d75c48db2": {
+  "en": "Money, prices & economy",
+  "t": "돈, 물가, 경제"
+ },
+ "4c4058771939": {
+  "en": "Takeo",
+  "t": "다케오"
  },
  "4ca775823b63": {
   "en": "6am–12pm",
@@ -915,6 +959,10 @@
   "en": "The handouts in this language are on their way; these are the English ones.",
   "t": "이 언어의 배포물은 준비 중입니다. 지금은 영어판입니다."
  },
+ "54a36639a1b4": {
+  "en": "Hiromi",
+  "t": "히로미"
+ },
  "54c33383a51b": {
   "en": "<b>{pearls}</b>; Forway takes {n} off their debt",
   "t": "<b>{pearls}</b>, 포웨이가 빚에서 {n}을 깎음"
@@ -934,6 +982,10 @@
  "56bf8e5830f6": {
   "en": "Add a custom foe",
   "t": "직접 만든 적 추가"
+ },
+ "56d0adc45bde": {
+  "en": "{n} circle.",
+  "t": "{n}서클."
  },
  "56f22adee6bf": {
   "en": "Where",
@@ -962,6 +1014,10 @@
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "심술"
+ },
+ "58694b0bf153": {
+  "en": "{n} foes",
+  "t": "적 {n}"
  },
  "587ce6284b63": {
   "en": "Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.",
@@ -1151,6 +1207,10 @@
   "en": "Roll this shift",
   "t": "이 시간대 굴리기"
  },
+ "68a9bedc6974": {
+  "en": "Notable people",
+  "t": "유명인"
+ },
  "68f2433f5148": {
   "en": "Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer.",
   "t": "서클 하나는 1일, 2일, 3일(빠름, 보통, 느림)입니다. 여행을 짧게 할지 길게 할지 여러분이 고릅니다."
@@ -1283,6 +1343,10 @@
   "en": "Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play.",
   "t": "주의: 세계관 페이지에는 세계의 비밀이 담겨 있습니다. 플레이하면서 발견하고 싶다면 개요에서 멈추세요."
  },
+ "7266efb63925": {
+  "en": "Posaqui",
+  "t": "포사키"
+ },
  "72a027dd7c1b": {
   "en": "Rooms rearrange; a Walking Flathead wakes. Walking Skin packs raid nearby farms.",
   "t": "방들이 재배치되고 워킹 플랫헤드 하나가 깨어난다. 워킹 스킨 무리가 근처 농장을 습격한다."
@@ -1307,6 +1371,10 @@
   "en": ", ",
   "t": ", "
  },
+ "7426c4fd5ff0": {
+  "en": "Rolled {n} shifts.",
+  "t": "시간대 {n}개를 굴렸습니다."
+ },
  "758f3a5a53e7": {
   "en": "Damage taken",
   "t": "받은 피해"
@@ -1315,6 +1383,10 @@
   "en": "Page not found",
   "t": "페이지를 찾을 수 없습니다"
  },
+ "76ee0c258795": {
+  "en": "Harry Sanbi",
+  "t": "해리 산비"
+ },
  "77032d3a785c": {
   "en": "Plain text for AI tools and search engines:",
   "t": "AI 도구와 검색 엔진을 위한 일반 텍스트:"
@@ -1322,6 +1394,10 @@
  "7780a262469a": {
   "en": "Zoom out",
   "t": "축소"
+ },
+ "77ce05ef9b96": {
+  "en": "Handouts guide",
+  "t": "배포물 안내"
  },
  "77fa3ba25c50": {
   "en": "Switch light or dark",
@@ -1367,6 +1443,10 @@
   "en": "That link doesn't match a page here.",
   "t": "이 링크와 맞는 페이지가 여기에 없습니다."
  },
+ "7bdcdd50f4a4": {
+  "en": "Morika",
+  "t": "모리카"
+ },
  "7c3240bef1f4": {
   "en": "Campaign",
   "t": "캠페인"
@@ -1378,6 +1458,10 @@
  "7da8b2bfe6b1": {
   "en": "The Inside Job: on cargo escorts, bandits may offer the party a cut.",
   "t": "내부자 작업: 화물 호위 중에 도적이 파티에 몫을 제안할 수 있습니다."
+ },
+ "7db4ae1861ea": {
+  "en": "Running the game",
+  "t": "게임 진행하기"
  },
  "7dd0a3454563": {
   "en": "<b>{pearls}</b> penalty",
@@ -1503,6 +1587,10 @@
   "en": "Plan trips circle by circle, roll events, run fights, track the party, the Castle Mood and every faction.",
   "t": "서클 단위로 여행을 계획하고, 이벤트를 굴리고, 전투를 진행하고, 파티와 성의 기분, 모든 파벌을 관리하세요."
  },
+ "8609f477b109": {
+  "en": "{n} encounter",
+  "t": "조우 {n}건"
+ },
  "864e3055cb78": {
   "en": "Current HP",
   "t": "현재 HP"
@@ -1619,6 +1707,10 @@
   "en": "The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which.",
   "t": "여행 지도에는 경로를 따라 서클이 그려져 있습니다. 목적지까지 서클을 세세요. 서클 하나는 1일, 2일, 3일 중 하나이며 DM이 정합니다."
  },
+ "91446a3e1033": {
+  "en": "July",
+  "t": "줄라이"
+ },
  "9170d0585fd5": {
   "en": "DM 101",
   "t": "DM 입문"
@@ -1643,6 +1735,10 @@
   "en": "Swap",
   "t": "바꾸기"
  },
+ "9390e120fc76": {
+  "en": "License",
+  "t": "라이선스"
+ },
  "93f1f57143ad": {
   "en": "Event: encounter",
   "t": "이벤트: 조우"
@@ -1663,6 +1759,10 @@
   "en": "Roll d12",
   "t": "d12 굴리기"
  },
+ "951362ea258c": {
+  "en": "{n} signs",
+  "t": "징조 {n}건"
+ },
  "952bf8d5043f": {
   "en": "The world bites back. These pages are DM-only: players shouldn't read them.",
   "t": "세계는 되물어 뜯습니다. 이 페이지들은 DM 전용입니다. 플레이어는 읽지 마세요."
@@ -1678,6 +1778,10 @@
  "9586003ce71b": {
   "en": "Run it, then wrap it up",
   "t": "진행하고, 마무리하기"
+ },
+ "95b596f70549": {
+  "en": "Rolled {n} shift.",
+  "t": "시간대 {n}개를 굴렸습니다."
  },
  "95da44300193": {
   "en": "Plan this trip in the travel planner",
@@ -1795,6 +1899,10 @@
   "en": "Dates",
   "t": "날짜"
  },
+ "a241ebbafa85": {
+  "en": "Daily life, food & festivals",
+  "t": "일상, 음식, 축제"
+ },
  "a259862da7cd": {
   "en": "Normal",
   "t": "보통"
@@ -1814,6 +1922,10 @@
  "a348695eecca": {
   "en": "You're ready. Grab a quest, sign in blood, and come back alive.",
   "t": "준비되었습니다. 의뢰를 받아라, 피로 서명하라, 살아서 돌아와라."
+ },
+ "a47831aec776": {
+  "en": "{n} circles.",
+  "t": "{n}서클."
  },
  "a49efba97da0": {
   "en": "Label, like Long Bridge",
@@ -1891,6 +2003,10 @@
   "en": "Encounter table",
   "t": "조우 표"
  },
+ "a807d44cd0f3": {
+  "en": "World lore",
+  "t": "세계 설정"
+ },
  "a8b05c31595c": {
   "en": "Filter by name, region or ability",
   "t": "이름, 지역, 능력으로 거르기"
@@ -1922,6 +2038,10 @@
  "a9ff71a9ef79": {
   "en": "Start over? This clears trips, the party, campaign tracking and characters saved in this browser. Download a save file first if you want a backup.",
   "t": "처음부터 다시 시작할까요? 이 브라우저에 저장된 여행, 파티, 캠페인 기록, 캐릭터가 지워집니다. 백업이 필요하면 먼저 저장 파일을 내려받으세요."
+ },
+ "aa2b6259c59e": {
+  "en": "{n} foe",
+  "t": "적 {n}"
  },
  "ab403ed4eaa4": {
   "en": "Their cut (d6)",
@@ -1971,6 +2091,10 @@
   "en": "New adventurer",
   "t": "새 모험가"
  },
+ "aef83d28171a": {
+  "en": "Alpha one-shot: wagon escort",
+  "t": "알파 단편 시나리오: 수레 호위"
+ },
  "af200952052b": {
   "en": "Untitled trip",
   "t": "제목 없는 여행"
@@ -1990,6 +2114,10 @@
  "b1bc0b460618": {
   "en": "This page can spoil surprises. If you're running the game, switch to DM mode.",
   "t": "이 페이지에는 스포일러가 있을 수 있습니다. 게임을 진행한다면 DM 모드로 바꾸세요."
+ },
+ "b234376db19b": {
+  "en": "Player rules",
+  "t": "플레이어 규칙"
  },
  "b33de0752c52": {
   "en": "Region",
@@ -2043,6 +2171,10 @@
   "en": "you can cast it",
   "t": "쓸 수 있습니다"
  },
+ "b897e804ff49": {
+  "en": "Soul energy & interfaces",
+  "t": "영혼 에너지와 인터페이스"
+ },
  "b8aec19adbda": {
   "en": "Round {n}",
   "t": "{n}라운드"
@@ -2050,6 +2182,10 @@
  "b8f2bb9f9fdb": {
   "en": "This site is your character sheet helper during play.",
   "t": "이 사이트는 플레이 중에 캐릭터 시트를 도와줍니다."
+ },
+ "b948a7d76fc9": {
+  "en": "Lands, ruins & villages",
+  "t": "땅, 폐허, 마을"
  },
  "b96908ad3d07": {
   "en": "Results",
@@ -2267,9 +2403,17 @@
   "en": "Once per circle (faster for long trips)",
   "t": "서클마다 한 번(긴 여행에 빠름)"
  },
+ "c97caad6b232": {
+  "en": "Fauna & flora",
+  "t": "동물과 식물"
+ },
  "c99b50cb40d4": {
   "en": "Restless",
   "t": "불안"
+ },
+ "c9ef17fc0370": {
+  "en": "Magi",
+  "t": "마기"
  },
  "ca2710f69bc9": {
   "en": "Deal modifier",
@@ -2319,6 +2463,10 @@
   "en": "Every Graveyard and Night shift",
   "t": "모든 심야와 밤 시간대"
  },
+ "cd8a9469d27b": {
+  "en": "AI disclosure",
+  "t": "AI 사용 안내"
+ },
  "cdb891719589": {
   "en": "Nothing happens. Describe the scenery, or the food.",
   "t": "아무 일도 일어나지 않는다. 풍경이나 음식을 묘사하세요."
@@ -2326,6 +2474,10 @@
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "이름"
+ },
+ "ced027cfce5c": {
+  "en": "Start here",
+  "t": "여기서 시작"
  },
  "cfd20d2f37f2": {
   "en": "<b>Go-between:</b> {who}. <b>Cut:</b> {cut}%. <b>Cargo:</b> {cargo}. <b>Payment:</b> {pay}.",
@@ -2395,6 +2547,10 @@
   "en": "My adventurers",
   "t": "나의 모험가"
  },
+ "d69af9b2ba01": {
+  "en": "Lore index",
+  "t": "설정 목차"
+ },
  "d6ff375c5986": {
   "en": "Your own event",
   "t": "직접 만든 이벤트"
@@ -2414,6 +2570,10 @@
  "d8918bb008bd": {
   "en": "{circles} from {from} to {to}.",
   "t": "{from}에서 {to}까지 {circles}."
+ },
+ "d8e21a4c6ccf": {
+  "en": "Time, calendar & units",
+  "t": "시간, 달력, 단위"
  },
  "d8f50deb5aa2": {
   "en": "Every Graveyard and Night shift, plus Morning and Afternoon",
@@ -2458,6 +2618,10 @@
  "ddd13ed8100b": {
   "en": "DM secrets",
   "t": "DM의 비밀"
+ },
+ "ddf9e681d233": {
+  "en": "Yours",
+  "t": "직접"
  },
  "de262c99bfb6": {
   "en": "Mark as not done",
@@ -2547,6 +2711,10 @@
   "en": "An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. Players come and go, every party starts and ends at a Forway embassy, and whatever one party finds stays found for everyone.",
   "t": "#HusbandOutWorld 세계를 무대로 한 오픈 테이블 D&amp;D 5e 캠페인입니다. 플레이어는 오고 가며, 모든 파티는 포웨이 대사관에서 출발해 그곳에서 끝납니다. 한 파티가 찾아낸 것은 모두에게 계속 남습니다."
  },
+ "e4bfd5cb0676": {
+  "en": "Fernan",
+  "t": "페르난"
+ },
  "e4d3c29f8ecd": {
   "en": "Sapphire",
   "t": "사파이어"
@@ -2611,6 +2779,10 @@
   "en": "The Inside Job",
   "t": "내부자 작업"
  },
+ "ea96707ee3a1": {
+  "en": "Nari gels, bombs & stones",
+  "t": "나리 젤, 폭탄, 돌"
+ },
  "eac6a30d75b8": {
   "en": "<b>Heat</b> {n} · talking their way out: DC {dc}",
   "t": "<b>경계도</b> {n} · 말로 빠져나가기: DC {dc}"
@@ -2650,6 +2822,10 @@
  "ee5807acbeef": {
   "en": "about <b>{days}</b>",
   "t": "약 <b>{days}</b>"
+ },
+ "ef6a55c5abea": {
+  "en": "About this website",
+  "t": "이 웹사이트에 대해"
  },
  "efb7751b866b": {
   "en": "nothing",
@@ -2754,6 +2930,10 @@
  "f99a1715bda2": {
   "en": "<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid.",
   "t": "<b>죽음:</b> 제때 시신을 대사관에 옮기면 포웨이가 부활시켜 줍니다. 그 뒤 빚을 다 갚을 때까지 의뢰 보수의 50%를 가져갑니다."
+ },
+ "f9c773664157": {
+  "en": "Adventurers, guilds & professions",
+  "t": "모험가, 길드, 직업"
  },
  "faa835e761a9": {
   "en": "Delete “{name}” and all its events?",

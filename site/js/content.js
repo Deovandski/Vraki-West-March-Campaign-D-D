@@ -160,7 +160,7 @@
       return localize({
         creatures,
         byId: Object.fromEntries(creatures.map((c) => [c.id, c])),
-        regions: enc.regions, rumors: enc.rumors, eventRoll: enc.eventRoll,
+        regions: enc.regions, rumors: enc.rumors, rumorLines: enc.rumorLines, eventRoll: enc.eventRoll,
         quests: P.parseQuests(quests),
         factions: P.parseFactions(factions),
         adventurers,

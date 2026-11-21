@@ -65,7 +65,7 @@
   function toCircles(data, res, pace) {
     const out = [];
     res.legs.forEach((leg) => {
-      for (let i = 0; i < leg.circles; i++) out.push({ id: VW.util.uid("c"), pace: pace || 2, region: regionId(data, leg.region), label: nm(leg.from) + " → " + nm(leg.to) });
+      for (let i = 0; i < leg.circles; i++) out.push({ id: VW.util.uid("c"), pace: pace || 2, region: regionId(data, leg.region), label: nm(leg.from) + " " + VW.i18n.arrow + " " + nm(leg.to) });
     });
     return out;
   }
@@ -73,9 +73,9 @@
   function describe(res, data) {
     const n = res.circles;
     const leg = (l) => data.map.routes.find((r) => (r.from === l.from && r.to === l.to) || (r.from === l.to && r.to === l.from)) || {};
-    return `<p class="rf-total"><b>${esc(nm(res.from))} → ${esc(nm(res.to))}: ${circles(n)}</b>${res.legs.length > 1 ? ` <span class="muted">(${res.legs.map((l) => l.circles).join(" + ")})</span>` : ""}</p>
+    return `<p class="rf-total"><b>${esc(nm(res.from))} ${VW.i18n.arrow} ${esc(nm(res.to))}: ${circles(n)}</b>${res.legs.length > 1 ? ` <span class="muted">(${res.legs.map((l) => l.circles).join(" + ")})</span>` : ""}</p>
       <p class="rf-days">${__("{fast} days at Fast · {std} at Standard · {slow} at Slow", { fast: n, std: n * 2, slow: n * 3 })}</p>
-      <ol class="rf-legs">${res.legs.map((l) => `<li>${esc(nm(l.from))} → ${esc(nm(l.to))}: ${circles(l.circles)} <span class="muted">(${esc(leg(l).lookL || l.look)}${l.region ? "; " + esc(leg(l).regionL || l.region) : ""})</span></li>`).join("")}</ol>`;
+      <ol class="rf-legs">${res.legs.map((l) => `<li>${esc(nm(l.from))} ${VW.i18n.arrow} ${esc(nm(l.to))}: ${circles(l.circles)} <span class="muted">(${esc(leg(l).lookL || l.look)}${l.region ? "; " + esc(leg(l).regionL || l.region) : ""})</span></li>`).join("")}</ol>`;
   }
 
   // The map viewer's own words (its buttons and help), passed in through data-text.

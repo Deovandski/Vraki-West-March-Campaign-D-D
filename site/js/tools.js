@@ -332,8 +332,13 @@
       const cells = l.split("|").map((s) => s.trim());
       const when = VW.parse.stripMd(VW.i18n.tx(cells[3] || ""));
       const re = /\[([^\]]+)\]\((images\/[^)]+)\)/g;
-      let mm;
-      while ((mm = re.exec(cells[2] || ""))) items.push({ title: mm[1] === "back" ? __("Contract (back)") : VW.parse.stripMd(VW.i18n.tx(mm[1])), src: handoutSrc(decodeURIComponent(mm[2])), when });
+      // The link texts are translated as part of the whole cell: pair the translated links with the English ones.
+      const tLinks = [...VW.i18n.tx(cells[2] || "").matchAll(re)];
+      let mm, k = 0;
+      while ((mm = re.exec(cells[2] || ""))) {
+        const t = tLinks[k++];
+        items.push({ title: mm[1] === "back" ? __("Contract (back)") : VW.parse.stripMd(t ? t[1] : mm[1]), src: handoutSrc(decodeURIComponent(mm[2])), when });
+      }
     });
     m.innerHTML = `<div class="page wide tool">
       <h1>${__("Handouts and props")}</h1>

@@ -119,6 +119,10 @@
   "en": "Saving…",
   "t": "Guardando…"
  },
+ "099b65fac375": {
+  "en": "Kaiana",
+  "t": "Kaiana"
+ },
  "0a681e5d9fd3": {
   "en": "Start the guide over",
   "t": "Empezar la guía de nuevo"
@@ -141,7 +145,7 @@
  },
  "0c75ce0436d6": {
   "en": "Make an adventurer, read the rules and lore, roll dice, count your balls and your debts.",
-  "t": "Crea un aventurero, lee las reglas y el lore, tira dados, cuenta tus bolas y tus deudas."
+  "t": "Crea un aventurero, lee las reglas y el trasfondo, tira dados, cuenta tus bolas y tus deudas."
  },
  "0cc1dfb3f64d": {
   "en": "Lower",
@@ -217,7 +221,7 @@
  },
  "142d16b737f2": {
   "en": "Spoiler warning: the lore pages and the DM pages reveal secrets of the world, including some from unreleased story notes.",
-  "t": "Aviso de spoilers: las páginas de lore y las del DM revelan secretos del mundo, incluidos algunos de notas de la historia aún sin publicar."
+  "t": "Aviso de spoilers: las páginas del trasfondo y las del DM revelan secretos del mundo, incluidos algunos de notas de la historia aún sin publicar."
  },
  "142d8c0e9b6f": {
   "en": "After the session, help fill in the expedition report so the next party knows what's out there.",
@@ -277,7 +281,7 @@
  },
  "1c037f803608": {
   "en": "Search rules, lore, creatures",
-  "t": "Buscar reglas, lore, criaturas"
+  "t": "Buscar reglas, trasfondo, criaturas"
  },
  "1d8ba5b7ff76": {
   "en": "Roll an offer",
@@ -379,6 +383,14 @@
   "en": "Dangerous places",
   "t": "Lugares peligrosos"
  },
+ "2765e1ff99a2": {
+  "en": "Soul energy & sigil rings",
+  "t": "Energía del alma y anillos de sigilo"
+ },
+ "277d27c89260": {
+  "en": "All pre-made adventurers",
+  "t": "Todos los aventureros pregenerados"
+ },
  "27be80977c16": {
   "en": "Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click).",
   "t": "Añade a los aventureros apuntados en la página <b>Grupo</b> (los ya hechos se cargan con un clic)."
@@ -451,6 +463,10 @@
   "en": "a cantrip ring",
   "t": "un anillo de truco"
  },
+ "2bc9766a1efc": {
+  "en": "{n} encounters",
+  "t": "{n} encuentros"
+ },
  "2c207de27d66": {
   "en": "Standard",
   "t": "Normal"
@@ -490,6 +506,10 @@
  "2fb84a3ee938": {
   "en": "It's one shared world. Whatever your party kills, maps or angers stays that way for everyone.",
   "t": "Es un único mundo compartido. Lo que tu grupo mata, cartografía o enfada se queda así para todos."
+ },
+ "2fb85aadcf76": {
+  "en": "Death, revival & debt",
+  "t": "Muerte, resurrección y deuda"
  },
  "2fb97e854c4c": {
   "en": "Patrol roll",
@@ -675,6 +695,10 @@
   "en": "Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which.",
   "t": "Cuenta los círculos entre dos lugares. Cada círculo son 1, 2 o 3 días de viaje, y el DM decide cuántos."
  },
+ "3f68e5441d9e": {
+  "en": "{n} sign",
+  "t": "{n} señal"
+ },
  "3fd940eb0c0a": {
   "en": "Full-size file for printing",
   "t": "Archivo a tamaño completo para imprimir"
@@ -711,9 +735,17 @@
   "en": "Nari stones on hand",
   "t": "Nari stones a mano"
  },
+ "4538b6a957bf": {
+  "en": "Sign",
+  "t": "Señal"
+ },
  "4540f7843779": {
   "en": "no patrol today.",
   "t": "hoy no hay patrulla."
+ },
+ "45694f7c975e": {
+  "en": "Maps & handouts",
+  "t": "Mapas y material"
  },
  "45f61418b146": {
   "en": "Disadvantage",
@@ -759,9 +791,21 @@
   "en": "the trip",
   "t": "el viaje"
  },
+ "4a4448155dee": {
+  "en": "Law, treaties & embassies",
+  "t": "Leyes, tratados y embajadas"
+ },
  "4b2c4f63ca40": {
   "en": "On a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day.",
   "t": "Con un 1 el humor baja 1; con un 6 sube 1. Los grupos que luchan dentro lo suben 1 cada día."
+ },
+ "4c1d75c48db2": {
+  "en": "Money, prices & economy",
+  "t": "Dinero, precios y economía"
+ },
+ "4c4058771939": {
+  "en": "Takeo",
+  "t": "Takeo"
  },
  "4ca775823b63": {
   "en": "6am–12pm",
@@ -915,6 +959,10 @@
   "en": "The handouts in this language are on their way; these are the English ones.",
   "t": "El material en este idioma está en camino; estos son los de inglés."
  },
+ "54a36639a1b4": {
+  "en": "Hiromi",
+  "t": "Hiromi"
+ },
  "54c33383a51b": {
   "en": "<b>{pearls}</b>; Forway takes {n} off their debt",
   "t": "<b>{pearls}</b>; Forway descuenta {n} de su deuda"
@@ -934,6 +982,10 @@
  "56bf8e5830f6": {
   "en": "Add a custom foe",
   "t": "Añadir un enemigo propio"
+ },
+ "56d0adc45bde": {
+  "en": "{n} circle.",
+  "t": "{n} círculo."
  },
  "56f22adee6bf": {
   "en": "Where",
@@ -962,6 +1014,10 @@
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "Gruñón"
+ },
+ "58694b0bf153": {
+  "en": "{n} foes",
+  "t": "{n} enemigos"
  },
  "587ce6284b63": {
   "en": "Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.",
@@ -1151,6 +1207,10 @@
   "en": "Roll this shift",
   "t": "Tirar este turno"
  },
+ "68a9bedc6974": {
+  "en": "Notable people",
+  "t": "Gente notable"
+ },
  "68f2433f5148": {
   "en": "Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer.",
   "t": "Cada círculo son 1, 2 o 3 días (Rápido, Normal, Lento). Tú eliges, para alargar o acortar un viaje."
@@ -1281,7 +1341,11 @@
  },
  "725aa286e571": {
   "en": "Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play.",
-  "t": "Ojo: las páginas de lore revelan secretos del mundo. Quédate en el resumen si prefieres descubrir las cosas jugando."
+  "t": "Ojo: las páginas del trasfondo revelan secretos del mundo. Quédate en el resumen si prefieres descubrir las cosas jugando."
+ },
+ "7266efb63925": {
+  "en": "Posaqui",
+  "t": "Posaqui"
  },
  "72a027dd7c1b": {
   "en": "Rooms rearrange; a Walking Flathead wakes. Walking Skin packs raid nearby farms.",
@@ -1307,6 +1371,10 @@
   "en": ", ",
   "t": ", "
  },
+ "7426c4fd5ff0": {
+  "en": "Rolled {n} shifts.",
+  "t": "Se han tirado {n} turnos."
+ },
  "758f3a5a53e7": {
   "en": "Damage taken",
   "t": "Daño recibido"
@@ -1315,6 +1383,10 @@
   "en": "Page not found",
   "t": "Página no encontrada"
  },
+ "76ee0c258795": {
+  "en": "Harry Sanbi",
+  "t": "Harry Sanbi"
+ },
  "77032d3a785c": {
   "en": "Plain text for AI tools and search engines:",
   "t": "Texto plano para herramientas de IA y buscadores:"
@@ -1322,6 +1394,10 @@
  "7780a262469a": {
   "en": "Zoom out",
   "t": "Alejar"
+ },
+ "77ce05ef9b96": {
+  "en": "Handouts guide",
+  "t": "Guía del material"
  },
  "77fa3ba25c50": {
   "en": "Switch light or dark",
@@ -1367,6 +1443,10 @@
   "en": "That link doesn't match a page here.",
   "t": "Ese enlace no lleva a ninguna página de aquí."
  },
+ "7bdcdd50f4a4": {
+  "en": "Morika",
+  "t": "Morika"
+ },
  "7c3240bef1f4": {
   "en": "Campaign",
   "t": "Campaña"
@@ -1378,6 +1458,10 @@
  "7da8b2bfe6b1": {
   "en": "The Inside Job: on cargo escorts, bandits may offer the party a cut.",
   "t": "El Trabajo Interno: en las escoltas de carga, los bandidos pueden ofrecer una parte al grupo."
+ },
+ "7db4ae1861ea": {
+  "en": "Running the game",
+  "t": "Dirigir la partida"
  },
  "7dd0a3454563": {
   "en": "<b>{pearls}</b> penalty",
@@ -1503,6 +1587,10 @@
   "en": "Plan trips circle by circle, roll events, run fights, track the party, the Castle Mood and every faction.",
   "t": "Planifica viajes círculo a círculo, tira eventos, dirige combates, sigue al grupo, el Humor del Castillo y cada facción."
  },
+ "8609f477b109": {
+  "en": "{n} encounter",
+  "t": "{n} encuentro"
+ },
  "864e3055cb78": {
   "en": "Current HP",
   "t": "HP actuales"
@@ -1619,6 +1707,10 @@
   "en": "The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which.",
   "t": "El mapa de viaje tiene círculos dibujados a lo largo de sus rutas. Cuenta los círculos hasta donde vas. Cada círculo son 1, 2 o 3 días, y el DM decide cuántos."
  },
+ "91446a3e1033": {
+  "en": "July",
+  "t": "July"
+ },
  "9170d0585fd5": {
   "en": "DM 101",
   "t": "DM 101"
@@ -1643,6 +1735,10 @@
   "en": "Swap",
   "t": "Intercambiar"
  },
+ "9390e120fc76": {
+  "en": "License",
+  "t": "Licencia"
+ },
  "93f1f57143ad": {
   "en": "Event: encounter",
   "t": "Evento: encuentro"
@@ -1663,6 +1759,10 @@
   "en": "Roll d12",
   "t": "Tirar d12"
  },
+ "951362ea258c": {
+  "en": "{n} signs",
+  "t": "{n} señales"
+ },
  "952bf8d5043f": {
   "en": "The world bites back. These pages are DM-only: players shouldn't read them.",
   "t": "El mundo muerde. Estas páginas son solo para el DM: los jugadores no deberían leerlas."
@@ -1678,6 +1778,10 @@
  "9586003ce71b": {
   "en": "Run it, then wrap it up",
   "t": "Dirígela y luego ciérrala"
+ },
+ "95b596f70549": {
+  "en": "Rolled {n} shift.",
+  "t": "Se ha tirado {n} turno."
  },
  "95da44300193": {
   "en": "Plan this trip in the travel planner",
@@ -1697,7 +1801,7 @@
  },
  "993700571014": {
   "en": "Nari gels & gear",
-  "t": "Nari gels y equipo"
+  "t": "Geles de nari y equipo"
  },
  "99846cefae5f": {
   "en": "{n} circle",
@@ -1733,7 +1837,7 @@
  },
  "9eb43f0bb041": {
   "en": "Search the rules and lore",
-  "t": "Buscar en las reglas y el lore"
+  "t": "Buscar en las reglas y el trasfondo"
  },
  "9ec5867e234e": {
   "en": "Revived at an embassy",
@@ -1795,6 +1899,10 @@
   "en": "Dates",
   "t": "Fechas"
  },
+ "a241ebbafa85": {
+  "en": "Daily life, food & festivals",
+  "t": "Vida cotidiana, comida y fiestas"
+ },
  "a259862da7cd": {
   "en": "Normal",
   "t": "Normal"
@@ -1814,6 +1922,10 @@
  "a348695eecca": {
   "en": "You're ready. Grab a quest, sign in blood, and come back alive.",
   "t": "Ya estás listo. Coge una misión, firma con sangre y vuelve con vida."
+ },
+ "a47831aec776": {
+  "en": "{n} circles.",
+  "t": "{n} círculos."
  },
  "a49efba97da0": {
   "en": "Label, like Long Bridge",
@@ -1891,6 +2003,10 @@
   "en": "Encounter table",
   "t": "Tabla de encuentros"
  },
+ "a807d44cd0f3": {
+  "en": "World lore",
+  "t": "Trasfondo del mundo"
+ },
  "a8b05c31595c": {
   "en": "Filter by name, region or ability",
   "t": "Filtrar por nombre, región o habilidad"
@@ -1922,6 +2038,10 @@
  "a9ff71a9ef79": {
   "en": "Start over? This clears trips, the party, campaign tracking and characters saved in this browser. Download a save file first if you want a backup.",
   "t": "¿Empezar de cero? Se borran los viajes, el grupo, el seguimiento de la campaña y los personajes guardados en este navegador. Descarga antes un archivo de guardado si quieres una copia."
+ },
+ "aa2b6259c59e": {
+  "en": "{n} foe",
+  "t": "{n} enemigo"
  },
  "ab403ed4eaa4": {
   "en": "Their cut (d6)",
@@ -1971,6 +2091,10 @@
   "en": "New adventurer",
   "t": "Nuevo aventurero"
  },
+ "aef83d28171a": {
+  "en": "Alpha one-shot: wagon escort",
+  "t": "Aventura corta Alpha: escolta de carro"
+ },
  "af200952052b": {
   "en": "Untitled trip",
   "t": "Viaje sin título"
@@ -1990,6 +2114,10 @@
  "b1bc0b460618": {
   "en": "This page can spoil surprises. If you're running the game, switch to DM mode.",
   "t": "Esta página puede destripar sorpresas. Si diriges la partida, cambia al modo DM."
+ },
+ "b234376db19b": {
+  "en": "Player rules",
+  "t": "Reglas para jugadores"
  },
  "b33de0752c52": {
   "en": "Region",
@@ -2043,6 +2171,10 @@
   "en": "you can cast it",
   "t": "puedes lanzarlo"
  },
+ "b897e804ff49": {
+  "en": "Soul energy & interfaces",
+  "t": "Energía del alma e interfaces"
+ },
  "b8aec19adbda": {
   "en": "Round {n}",
   "t": "Asalto {n}"
@@ -2050,6 +2182,10 @@
  "b8f2bb9f9fdb": {
   "en": "This site is your character sheet helper during play.",
   "t": "Este sitio te ayuda con la hoja de personaje durante la partida."
+ },
+ "b948a7d76fc9": {
+  "en": "Lands, ruins & villages",
+  "t": "Tierras, ruinas y aldeas"
  },
  "b96908ad3d07": {
   "en": "Results",
@@ -2267,9 +2403,17 @@
   "en": "Once per circle (faster for long trips)",
   "t": "Una vez por círculo (más rápido en viajes largos)"
  },
+ "c97caad6b232": {
+  "en": "Fauna & flora",
+  "t": "Fauna y flora"
+ },
  "c99b50cb40d4": {
   "en": "Restless",
   "t": "Inquieto"
+ },
+ "c9ef17fc0370": {
+  "en": "Magi",
+  "t": "Magi"
  },
  "ca2710f69bc9": {
   "en": "Deal modifier",
@@ -2319,6 +2463,10 @@
   "en": "Every Graveyard and Night shift",
   "t": "Cada turno de Madrugada y de Noche"
  },
+ "cd8a9469d27b": {
+  "en": "AI disclosure",
+  "t": "Declaración sobre IA"
+ },
  "cdb891719589": {
   "en": "Nothing happens. Describe the scenery, or the food.",
   "t": "No pasa nada. Describe el paisaje, o la comida."
@@ -2326,6 +2474,10 @@
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "Nombre"
+ },
+ "ced027cfce5c": {
+  "en": "Start here",
+  "t": "Empieza aquí"
  },
  "cfd20d2f37f2": {
   "en": "<b>Go-between:</b> {who}. <b>Cut:</b> {cut}%. <b>Cargo:</b> {cargo}. <b>Payment:</b> {pay}.",
@@ -2395,6 +2547,10 @@
   "en": "My adventurers",
   "t": "Mis aventureros"
  },
+ "d69af9b2ba01": {
+  "en": "Lore index",
+  "t": "Índice del trasfondo"
+ },
  "d6ff375c5986": {
   "en": "Your own event",
   "t": "Tu propio evento"
@@ -2414,6 +2570,10 @@
  "d8918bb008bd": {
   "en": "{circles} from {from} to {to}.",
   "t": "{circles} de {from} a {to}."
+ },
+ "d8e21a4c6ccf": {
+  "en": "Time, calendar & units",
+  "t": "Tiempo, calendario y unidades"
  },
  "d8f50deb5aa2": {
   "en": "Every Graveyard and Night shift, plus Morning and Afternoon",
@@ -2458,6 +2618,10 @@
  "ddd13ed8100b": {
   "en": "DM secrets",
   "t": "Secretos del DM"
+ },
+ "ddf9e681d233": {
+  "en": "Yours",
+  "t": "Tuyo"
  },
  "de262c99bfb6": {
   "en": "Mark as not done",
@@ -2525,7 +2689,7 @@
  },
  "e33cb445fad1": {
   "en": "All world lore",
-  "t": "Todo el lore del mundo"
+  "t": "Todo el trasfondo del mundo"
  },
  "e3d95e017a11": {
   "en": "Month",
@@ -2546,6 +2710,10 @@
  "e4be842da18e": {
   "en": "An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. Players come and go, every party starts and ends at a Forway embassy, and whatever one party finds stays found for everyone.",
   "t": "Una campaña de D&amp;D 5e de mesa abierta en el mundo de #HusbandOutWorld. Los jugadores van y vienen, cada grupo empieza y termina en una embajada de Forway, y lo que encuentra un grupo queda encontrado para todos."
+ },
+ "e4bfd5cb0676": {
+  "en": "Fernan",
+  "t": "Fernan"
  },
  "e4d3c29f8ecd": {
   "en": "Sapphire",
@@ -2611,6 +2779,10 @@
   "en": "The Inside Job",
   "t": "El Trabajo Interno"
  },
+ "ea96707ee3a1": {
+  "en": "Nari gels, bombs & stones",
+  "t": "Geles de nari, bombas y piedras"
+ },
  "eac6a30d75b8": {
   "en": "<b>Heat</b> {n} · talking their way out: DC {dc}",
   "t": "<b>Sospecha</b> {n} · salir del paso hablando: DC {dc}"
@@ -2621,7 +2793,7 @@
  },
  "ec2681a0b9e9": {
   "en": "World, lore and characters © Deovandski Skibinski Junior. Art by Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of Deovandski Skibinski Junior. Licensed CC-BY-NC-SA-4.0. Monetized videos and posts about it are welcome; other commercial use needs approval (<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> or <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>). Site text and code are AI-assisted; see the <a href=\"{url}\">AI disclosure</a>.",
-  "t": "Mundo, lore y personajes © Deovandski Skibinski Junior. Arte de Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> y #HusbandOutWorld son marcas de Deovandski Skibinski Junior. Licencia CC-BY-NC-SA-4.0. Los vídeos y publicaciones monetizados sobre la obra son bienvenidos; cualquier otro uso comercial necesita aprobación (<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> o <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>). El texto y el código del sitio se han hecho con ayuda de IA; consulta la <a href=\"{url}\">declaración sobre IA</a>."
+  "t": "Mundo, trasfondo y personajes © Deovandski Skibinski Junior. Arte de Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> y #HusbandOutWorld son marcas de Deovandski Skibinski Junior. Licencia CC-BY-NC-SA-4.0. Los vídeos y publicaciones monetizados sobre la obra son bienvenidos; cualquier otro uso comercial necesita aprobación (<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> o <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>). El texto y el código del sitio se han hecho con ayuda de IA; consulta la <a href=\"{url}\">declaración sobre IA</a>."
  },
  "ec796ebf3015": {
   "en": "Player 101",
@@ -2650,6 +2822,10 @@
  "ee5807acbeef": {
   "en": "about <b>{days}</b>",
   "t": "unos <b>{days}</b>"
+ },
+ "ef6a55c5abea": {
+  "en": "About this website",
+  "t": "Sobre esta web"
  },
  "efb7751b866b": {
   "en": "nothing",
@@ -2754,6 +2930,10 @@
  "f99a1715bda2": {
   "en": "<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid.",
   "t": "<b>Muerte:</b> lleva tu cuerpo a una embajada a tiempo y Forway te reanima; después se queda con el 50% de tu paga de misiones hasta que saldes la deuda."
+ },
+ "f9c773664157": {
+  "en": "Adventurers, guilds & professions",
+  "t": "Aventureros, gremios y oficios"
  },
  "faa835e761a9": {
   "en": "Delete “{name}” and all its events?",

@@ -119,6 +119,10 @@
   "en": "Saving…",
   "t": "正在保存…"
  },
+ "099b65fac375": {
+  "en": "Kaiana",
+  "t": "凯阿娜"
+ },
  "0a681e5d9fd3": {
   "en": "Start the guide over",
   "t": "重新开始指南"
@@ -379,6 +383,14 @@
   "en": "Dangerous places",
   "t": "危险地点"
  },
+ "2765e1ff99a2": {
+  "en": "Soul energy & sigil rings",
+  "t": "灵魂能量与西吉尔戒指"
+ },
+ "277d27c89260": {
+  "en": "All pre-made adventurers",
+  "t": "所有预制冒险者"
+ },
  "27be80977c16": {
   "en": "Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click).",
   "t": "在<b>队伍</b>页面添加报名的冒险者（预设冒险者一键载入）。"
@@ -451,6 +463,10 @@
   "en": "a cantrip ring",
   "t": "一枚戏法戒指"
  },
+ "2bc9766a1efc": {
+  "en": "{n} encounters",
+  "t": "{n}次遭遇"
+ },
  "2c207de27d66": {
   "en": "Standard",
   "t": "标准"
@@ -490,6 +506,10 @@
  "2fb84a3ee938": {
   "en": "It's one shared world. Whatever your party kills, maps or angers stays that way for everyone.",
   "t": "这是一个共享的世界。你的队伍杀掉的、画进地图的、惹恼的东西，对所有人来说都会保持那样。"
+ },
+ "2fb85aadcf76": {
+  "en": "Death, revival & debt",
+  "t": "死亡、复活与债务"
  },
  "2fb97e854c4c": {
   "en": "Patrol roll",
@@ -675,6 +695,10 @@
   "en": "Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which.",
   "t": "数一数两地之间有几个圈。每个圈是1、2或3天的路程，由DM决定。"
  },
+ "3f68e5441d9e": {
+  "en": "{n} sign",
+  "t": "{n}个征兆"
+ },
  "3fd940eb0c0a": {
   "en": "Full-size file for printing",
   "t": "用于打印的原尺寸文件"
@@ -711,9 +735,17 @@
   "en": "Nari stones on hand",
   "t": "手头的纳里石"
  },
+ "4538b6a957bf": {
+  "en": "Sign",
+  "t": "征兆"
+ },
  "4540f7843779": {
   "en": "no patrol today.",
   "t": "今天没有巡逻。"
+ },
+ "45694f7c975e": {
+  "en": "Maps & handouts",
+  "t": "地图与道具"
  },
  "45f61418b146": {
   "en": "Disadvantage",
@@ -759,9 +791,21 @@
   "en": "the trip",
   "t": "本次旅程"
  },
+ "4a4448155dee": {
+  "en": "Law, treaties & embassies",
+  "t": "法律、条约与大使馆"
+ },
  "4b2c4f63ca40": {
   "en": "On a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day.",
   "t": "掷出1时心情下降1；掷出6时上升1。有队伍在城内战斗时，每天上升1。"
+ },
+ "4c1d75c48db2": {
+  "en": "Money, prices & economy",
+  "t": "货币、物价与经济"
+ },
+ "4c4058771939": {
+  "en": "Takeo",
+  "t": "武雄"
  },
  "4ca775823b63": {
   "en": "6am–12pm",
@@ -915,6 +959,10 @@
   "en": "The handouts in this language are on their way; these are the English ones.",
   "t": "这个语言的道具还在制作中；这些是英文版。"
  },
+ "54a36639a1b4": {
+  "en": "Hiromi",
+  "t": "弘美"
+ },
  "54c33383a51b": {
   "en": "<b>{pearls}</b>; Forway takes {n} off their debt",
   "t": "<b>{pearls}</b>；福威从其债务中扣除 {n}"
@@ -934,6 +982,10 @@
  "56bf8e5830f6": {
   "en": "Add a custom foe",
   "t": "添加自定义敌人"
+ },
+ "56d0adc45bde": {
+  "en": "{n} circle.",
+  "t": "{n}个圈。"
  },
  "56f22adee6bf": {
   "en": "Where",
@@ -962,6 +1014,10 @@
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "脾气不好"
+ },
+ "58694b0bf153": {
+  "en": "{n} foes",
+  "t": "{n}个敌人"
  },
  "587ce6284b63": {
   "en": "Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.",
@@ -1151,6 +1207,10 @@
   "en": "Roll this shift",
   "t": "掷这个时段"
  },
+ "68a9bedc6974": {
+  "en": "Notable people",
+  "t": "知名人物"
+ },
  "68f2433f5148": {
   "en": "Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer.",
   "t": "每个圈是1、2或3天（快速、标准、慢速）。由你选择，让旅程变短或变长。"
@@ -1283,6 +1343,10 @@
   "en": "Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play.",
   "t": "注意：世界观页面会揭示世界的秘密。如果想在游戏中自己发现，读完概览就停下。"
  },
+ "7266efb63925": {
+  "en": "Posaqui",
+  "t": "波萨基"
+ },
  "72a027dd7c1b": {
   "en": "Rooms rearrange; a Walking Flathead wakes. Walking Skin packs raid nearby farms.",
   "t": "房间重新排列；一只沃金·弗拉特黑德醒来。成群的沃金·斯金袭击附近的农场。"
@@ -1307,6 +1371,10 @@
   "en": ", ",
   "t": "、"
  },
+ "7426c4fd5ff0": {
+  "en": "Rolled {n} shifts.",
+  "t": "已为{n}个时段掷骰。"
+ },
  "758f3a5a53e7": {
   "en": "Damage taken",
   "t": "受到的伤害"
@@ -1315,6 +1383,10 @@
   "en": "Page not found",
   "t": "找不到页面"
  },
+ "76ee0c258795": {
+  "en": "Harry Sanbi",
+  "t": "哈利·桑比"
+ },
  "77032d3a785c": {
   "en": "Plain text for AI tools and search engines:",
   "t": "供 AI 工具和搜索引擎读取的纯文本："
@@ -1322,6 +1394,10 @@
  "7780a262469a": {
   "en": "Zoom out",
   "t": "缩小"
+ },
+ "77ce05ef9b96": {
+  "en": "Handouts guide",
+  "t": "道具指南"
  },
  "77fa3ba25c50": {
   "en": "Switch light or dark",
@@ -1367,6 +1443,10 @@
   "en": "That link doesn't match a page here.",
   "t": "这个链接对应不到本站的任何页面。"
  },
+ "7bdcdd50f4a4": {
+  "en": "Morika",
+  "t": "莫里卡"
+ },
  "7c3240bef1f4": {
   "en": "Campaign",
   "t": "战役"
@@ -1378,6 +1458,10 @@
  "7da8b2bfe6b1": {
   "en": "The Inside Job: on cargo escorts, bandits may offer the party a cut.",
   "t": "内应计划：护送货物时，强盗可能会给队伍一份分成。"
+ },
+ "7db4ae1861ea": {
+  "en": "Running the game",
+  "t": "主持游戏"
  },
  "7dd0a3454563": {
   "en": "<b>{pearls}</b> penalty",
@@ -1503,6 +1587,10 @@
   "en": "Plan trips circle by circle, roll events, run fights, track the party, the Castle Mood and every faction.",
   "t": "按圈规划旅程，掷事件，主持战斗，记录队伍、城堡心情和每个派系。"
  },
+ "8609f477b109": {
+  "en": "{n} encounter",
+  "t": "{n}次遭遇"
+ },
  "864e3055cb78": {
   "en": "Current HP",
   "t": "当前HP"
@@ -1619,6 +1707,10 @@
   "en": "The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which.",
   "t": "旅行地图的路线上画着圈。数一数到目的地有几个圈。每个圈是1、2或3天，由DM决定。"
  },
+ "91446a3e1033": {
+  "en": "July",
+  "t": "朱莉"
+ },
  "9170d0585fd5": {
   "en": "DM 101",
   "t": "DM入门"
@@ -1643,6 +1735,10 @@
   "en": "Swap",
   "t": "交换"
  },
+ "9390e120fc76": {
+  "en": "License",
+  "t": "许可证"
+ },
  "93f1f57143ad": {
   "en": "Event: encounter",
   "t": "事件：遭遇"
@@ -1663,6 +1759,10 @@
   "en": "Roll d12",
   "t": "掷 d12"
  },
+ "951362ea258c": {
+  "en": "{n} signs",
+  "t": "{n}个征兆"
+ },
  "952bf8d5043f": {
   "en": "The world bites back. These pages are DM-only: players shouldn't read them.",
   "t": "这个世界会反咬一口。这些页面仅供DM阅读：玩家不该看。"
@@ -1678,6 +1778,10 @@
  "9586003ce71b": {
   "en": "Run it, then wrap it up",
   "t": "主持，然后收尾"
+ },
+ "95b596f70549": {
+  "en": "Rolled {n} shift.",
+  "t": "已为{n}个时段掷骰。"
  },
  "95da44300193": {
   "en": "Plan this trip in the travel planner",
@@ -1795,6 +1899,10 @@
   "en": "Dates",
   "t": "日期"
  },
+ "a241ebbafa85": {
+  "en": "Daily life, food & festivals",
+  "t": "日常生活、美食与节日"
+ },
  "a259862da7cd": {
   "en": "Normal",
   "t": "普通"
@@ -1814,6 +1922,10 @@
  "a348695eecca": {
   "en": "You're ready. Grab a quest, sign in blood, and come back alive.",
   "t": "准备好了。接下委托，以血签名，活着回来。"
+ },
+ "a47831aec776": {
+  "en": "{n} circles.",
+  "t": "{n}个圈。"
  },
  "a49efba97da0": {
   "en": "Label, like Long Bridge",
@@ -1891,6 +2003,10 @@
   "en": "Encounter table",
   "t": "遭遇表"
  },
+ "a807d44cd0f3": {
+  "en": "World lore",
+  "t": "世界设定"
+ },
  "a8b05c31595c": {
   "en": "Filter by name, region or ability",
   "t": "按名称、地区或能力筛选"
@@ -1922,6 +2038,10 @@
  "a9ff71a9ef79": {
   "en": "Start over? This clears trips, the party, campaign tracking and characters saved in this browser. Download a save file first if you want a backup.",
   "t": "要重新开始吗？这会清除保存在这个浏览器里的旅程、队伍、战役记录和角色。如果需要备份，请先下载保存文件。"
+ },
+ "aa2b6259c59e": {
+  "en": "{n} foe",
+  "t": "{n}个敌人"
  },
  "ab403ed4eaa4": {
   "en": "Their cut (d6)",
@@ -1971,6 +2091,10 @@
   "en": "New adventurer",
   "t": "新冒险者"
  },
+ "aef83d28171a": {
+  "en": "Alpha one-shot: wagon escort",
+  "t": "阿尔法单次冒险：货车护送"
+ },
  "af200952052b": {
   "en": "Untitled trip",
   "t": "未命名的旅程"
@@ -1990,6 +2114,10 @@
  "b1bc0b460618": {
   "en": "This page can spoil surprises. If you're running the game, switch to DM mode.",
   "t": "本页可能剧透。如果你是主持游戏的人，请切换到DM模式。"
+ },
+ "b234376db19b": {
+  "en": "Player rules",
+  "t": "玩家规则"
  },
  "b33de0752c52": {
   "en": "Region",
@@ -2043,6 +2171,10 @@
   "en": "you can cast it",
   "t": "可以施放"
  },
+ "b897e804ff49": {
+  "en": "Soul energy & interfaces",
+  "t": "灵魂能量与界面"
+ },
  "b8aec19adbda": {
   "en": "Round {n}",
   "t": "第 {n} 轮"
@@ -2050,6 +2182,10 @@
  "b8f2bb9f9fdb": {
   "en": "This site is your character sheet helper during play.",
   "t": "本站是你在游戏中管理角色卡的帮手。"
+ },
+ "b948a7d76fc9": {
+  "en": "Lands, ruins & villages",
+  "t": "土地、遗迹与村庄"
  },
  "b96908ad3d07": {
   "en": "Results",
@@ -2267,9 +2403,17 @@
   "en": "Once per circle (faster for long trips)",
   "t": "每个圈一次（长途更快）"
  },
+ "c97caad6b232": {
+  "en": "Fauna & flora",
+  "t": "动物与植物"
+ },
  "c99b50cb40d4": {
   "en": "Restless",
   "t": "躁动不安"
+ },
+ "c9ef17fc0370": {
+  "en": "Magi",
+  "t": "玛姬"
  },
  "ca2710f69bc9": {
   "en": "Deal modifier",
@@ -2319,6 +2463,10 @@
   "en": "Every Graveyard and Night shift",
   "t": "每个深夜和夜晚时段"
  },
+ "cd8a9469d27b": {
+  "en": "AI disclosure",
+  "t": "AI使用说明"
+ },
  "cdb891719589": {
   "en": "Nothing happens. Describe the scenery, or the food.",
   "t": "什么也没发生。描述一下风景，或者食物。"
@@ -2326,6 +2474,10 @@
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "名称"
+ },
+ "ced027cfce5c": {
+  "en": "Start here",
+  "t": "从这里开始"
  },
  "cfd20d2f37f2": {
   "en": "<b>Go-between:</b> {who}. <b>Cut:</b> {cut}%. <b>Cargo:</b> {cargo}. <b>Payment:</b> {pay}.",
@@ -2395,6 +2547,10 @@
   "en": "My adventurers",
   "t": "我的冒险者"
  },
+ "d69af9b2ba01": {
+  "en": "Lore index",
+  "t": "设定索引"
+ },
  "d6ff375c5986": {
   "en": "Your own event",
   "t": "自定义事件"
@@ -2414,6 +2570,10 @@
  "d8918bb008bd": {
   "en": "{circles} from {from} to {to}.",
   "t": "从{from}到{to}共{circles}。"
+ },
+ "d8e21a4c6ccf": {
+  "en": "Time, calendar & units",
+  "t": "时间、历法与单位"
  },
  "d8f50deb5aa2": {
   "en": "Every Graveyard and Night shift, plus Morning and Afternoon",
@@ -2458,6 +2618,10 @@
  "ddd13ed8100b": {
   "en": "DM secrets",
   "t": "DM秘密"
+ },
+ "ddf9e681d233": {
+  "en": "Yours",
+  "t": "自定"
  },
  "de262c99bfb6": {
   "en": "Mark as not done",
@@ -2547,6 +2711,10 @@
   "en": "An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. Players come and go, every party starts and ends at a Forway embassy, and whatever one party finds stays found for everyone.",
   "t": "一场以#HusbandOutWorld世界为舞台的开放式D&amp;D 5e战役。玩家来来去去，每支队伍都从福威大使馆出发并回到那里，一支队伍发现的东西，对所有人来说都一直存在。"
  },
+ "e4bfd5cb0676": {
+  "en": "Fernan",
+  "t": "费尔南"
+ },
  "e4d3c29f8ecd": {
   "en": "Sapphire",
   "t": "萨菲尔"
@@ -2611,6 +2779,10 @@
   "en": "The Inside Job",
   "t": "内应计划"
  },
+ "ea96707ee3a1": {
+  "en": "Nari gels, bombs & stones",
+  "t": "纳里凝胶、炸弹与石头"
+ },
  "eac6a30d75b8": {
   "en": "<b>Heat</b> {n} · talking their way out: DC {dc}",
   "t": "<b>热度</b> {n} · 靠嘴脱身：DC {dc}"
@@ -2650,6 +2822,10 @@
  "ee5807acbeef": {
   "en": "about <b>{days}</b>",
   "t": "约<b>{days}</b>"
+ },
+ "ef6a55c5abea": {
+  "en": "About this website",
+  "t": "关于本网站"
  },
  "efb7751b866b": {
   "en": "nothing",
@@ -2754,6 +2930,10 @@
  "f99a1715bda2": {
   "en": "<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid.",
   "t": "<b>死亡：</b>及时把你的尸体送到大使馆，福威就会让你复活，之后拿走你委托报酬的50%，直到还清债务。"
+ },
+ "f9c773664157": {
+  "en": "Adventurers, guilds & professions",
+  "t": "冒险者、公会与职业"
  },
  "faa835e761a9": {
   "en": "Delete “{name}” and all its events?",

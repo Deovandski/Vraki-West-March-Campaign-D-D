@@ -219,7 +219,9 @@
     __: t, N_: N, // the names the site's scripts use (tools/i18n.js finds the text by them)
     get docsLoaded() { return !!docs; },
     meta: (pack && pack.meta) || { name: "English", html_lang: "en", dir: "ltr" },
-    locale: (pack && pack.meta && pack.meta.locale) || "en-US"
+    locale: (pack && pack.meta && pack.meta.locale) || "en-US",
+    // "From → To" points the way the text reads: ← in a right-to-left language.
+    arrow: pack && pack.meta && pack.meta.dir === "rtl" ? "←" : "→"
   };
   root.VW = root.VW || {};
   root.VW.i18n = api;

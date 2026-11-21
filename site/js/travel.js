@@ -10,7 +10,6 @@
   const app = VW.app;
   const dice = VW.dice;
   const { __, N_ } = VW.i18n;
-  const plural = (n, one, many) => __.n(n, one, many);
   const nDays = (n) => __.n(n, "{n} day", "{n} days");
 
   /* ---------------- calendar ---------------- */
@@ -256,7 +255,7 @@
         <button class="btn" data-action="clear-events">${__("Clear all events")}</button>
         <a class="btn" href="#/t/trip-print">${__("Print or save as PDF")}</a>
         <p class="trip-sum">${total ? __("<b>{days}</b> one way · {start} to {end} · deadline <b>{deadline}</b> if they come back the same way · <b>{rations}</b> rations for {people} people", { days: nDays(total), start: fmtDate(t.start), end: fmtDate(end.date), deadline: nDays(deadline), rations: round * partySize(), people: partySize() }) : __("Add a circle to start.")}</p>
-        <p class="trip-sum muted">${[plural(counts.encounter, "{n} encounter", "{n} encounters"), plural(counts.omen, "{n} sign", "{n} signs"), counts.insidejob ? __("the Inside Job offer") : "", counts.custom ? __("{n} of your own", { n: counts.custom }) : ""].filter(Boolean).join(__(", "))}. ${__("{n} still to run.", { n: counts.open })}</p>
+        <p class="trip-sum muted">${[__.n(counts.encounter, "{n} encounter", "{n} encounters"), __.n(counts.omen, "{n} sign", "{n} signs"), counts.insidejob ? __("the Inside Job offer") : "", counts.custom ? __("{n} of your own", { n: counts.custom }) : ""].filter(Boolean).join(__(", "))}. ${__("{n} still to run.", { n: counts.open })}</p>
       </div>
 
       <ol class="route" aria-label="${__("Circles on this trip")}">${t.circles.map((c, ci) => {
@@ -292,8 +291,8 @@
           const label = ev && ev.type ? (ev.type === "quiet" ? __("Quiet") : ev.title || typeName(ev.type)) : (sh.always || t.rollDay ? __("Not rolled") : "—");
           return `<button class="shift ${sh.id} ${ev && ev.type ? "has " + ev.type : "unset"} ${ev && ev.resolved ? "done" : ""} ${on ? "on" : ""}" data-action="pick-shift" data-key="${k}" aria-pressed="${on}">
             <span class="s-name">${sh.name}<small>${sh.time}</small></span>
-            <span class="s-ev">${esc(label)}</span>
-            ${ev && ev.combatants && ev.combatants.some((x) => !x.partyId) ? `<span class="s-count">${plural(ev.combatants.filter((x) => !x.partyId).length, "{n} foe", "{n} foes")}</span>` : ""}
+            <span class="s-ev">${ev && ev.type === "omen" ? `<span class="s-tag">${__("Sign")} · </span>` : ev && ev.type === "custom" ? `<span class="s-tag">${__("Yours")} · </span>` : ""}${esc(label)}</span>
+            ${ev && ev.combatants && ev.combatants.some((x) => !x.partyId) ? `<span class="s-count">${__.n(ev.combatants.filter((x) => !x.partyId).length, "{n} foe", "{n} foes")}</span>` : ""}
           </button>`;
         }).join("")}</div></div>`;
     }
@@ -617,10 +616,10 @@
         <header class="ps-head">
           <p class="ps-kicker">${__("Vraki West March · Trip sheet")}</p>
           <h1>${esc(t.name || __("Untitled trip"))}</h1>
-          <p class="ps-route">${esc(VW.content.nameL(t.from) || "?")} → ${esc(VW.content.nameL(t.to) || "?")}</p>
+          <p class="ps-route">${esc(VW.content.nameL(t.from) || "?")} ${VW.i18n.arrow} ${esc(VW.content.nameL(t.to) || "?")}</p>
           <dl class="ps-facts">
             <div><dt>${__("Dates")}</dt><dd>${total ? __("{start} to {end}", { start: fmtDate(t.start, true), end: fmtDate(end.date, true) }) : "—"}${t.start.weekday ? " " + __("(starts on {day})", { day: esc(dayName(t.start.weekday)) }) : ""}</dd></div>
-            <div><dt>${__("Length")}</dt><dd>${__("{circles}, {days} one way", { circles: plural(t.circles.length, "{n} circle", "{n} circles"), days: nDays(total) })}</dd></div>
+            <div><dt>${__("Length")}</dt><dd>${__("{circles}, {days} one way", { circles: __.n(t.circles.length, "{n} circle", "{n} circles"), days: nDays(total) })}</dd></div>
             <div><dt>${__("Deadline")}</dt><dd>${__("{days} if they come back the same way", { days: nDays(deadline) })}</dd></div>
             <div><dt>${__("Rations")}</dt><dd>${__("{n} for {people} people, there and back", { n: round * partySize(), people: partySize() })}</dd></div>
             <div><dt>${__("Region")}</dt><dd>${esc(regionById(data, t.region).label || regionById(data, t.region).name)}</dd></div>
@@ -680,7 +679,7 @@
     const nt = newTrip(data, __("{from} to {to}", { from: VW.content.nameL(res.from), to: VW.content.nameL(res.to) }));
     applyRoute(data, nt, res);
     s.trips.push(nt); s.currentTrip = nt.id; store.save();
-    VW.toast(__("{circles} from {from} to {to}.", { circles: plural(res.circles, "{n} circle", "{n} circles"), from: VW.content.nameL(res.from), to: VW.content.nameL(res.to) }));
+    VW.toast(__("{circles} from {from} to {to}.", { circles: __.n(res.circles, "{n} circle", "{n} circles"), from: VW.content.nameL(res.from), to: VW.content.nameL(res.to) }));
   }
 
   /* ---------------- actions ---------------- */
@@ -708,7 +707,7 @@
         if (!res) { VW.toast(t.from && t.to ? __("No route on the map joins {a} and {b}. Check the spelling, or set the circles yourself.", { a: t.from, b: t.to }) : __("Fill in From and To first."), "error"); return; }
         if (Object.keys(t.events).length && !confirm(__("This replaces the circles and clears this trip's events. Go ahead?"))) return;
         applyRoute(data, t, res);
-        VW.toast(res.legs.length > 1 ? __("{circles} via {places}.", { circles: plural(res.circles, "{n} circle", "{n} circles"), places: res.legs.slice(0, -1).map((l) => VW.content.nameL(l.to)).join(__(", ")) }) : plural(res.circles, "{n} circle.", "{n} circles."));
+        VW.toast(res.legs.length > 1 ? __("{circles} via {places}.", { circles: __.n(res.circles, "{n} circle", "{n} circles"), places: res.legs.slice(0, -1).map((l) => VW.content.nameL(l.to)).join(__(", ")) }) : __.n(res.circles, "{n} circle.", "{n} circles."));
         return save();
       }
       case "circles": {
@@ -726,7 +725,7 @@
       case "pace": { const c = t.circles.find((x) => x.id === el.dataset.cid); if (c) c.pace = +el.dataset.p; return save(); }
       case "pick-circle": t.sel = keyOf(el.dataset.cid, 0, "graveyard"); return save();
       case "pick-shift": t.sel = el.dataset.key; store.save(); app.rerender().then(() => { const p = document.getElementById("event-panel"); if (p && p.getBoundingClientRect().top > innerHeight - 80) p.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" }); }); return;
-      case "autofill": { const n = autofill(data, t); VW.toast(n ? plural(n, "Rolled {n} shift.", "Rolled {n} shifts.") : __("Every shift that needs a roll already has one.")); return save(); }
+      case "autofill": { const n = autofill(data, t); VW.toast(n ? __.n(n, "Rolled {n} shift.", "Rolled {n} shifts.") : __("Every shift that needs a roll already has one.")); return save(); }
       case "clear-events":
         if (!Object.keys(t.events).length || !confirm(__("Clear every event on this trip, including fights and notes?"))) return;
         t.events = {}; t.departure = null; return save();
