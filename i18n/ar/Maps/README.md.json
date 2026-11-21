@@ -1,4 +1,12 @@
 {
+ "0210c2d7b398": {
+  "en": "yellow",
+  "t": "أصفر"
+ },
+ "0290e9b5a8bb": {
+  "en": "The [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) has the full-resolution world map (with and without names), the metadata map (populations, altitudes, villages), a Sanbi city map, embassy art, and the global map of the western continent. The metadata map's kilometer labels are canon, but you don't need them at the table.",
+  "t": "في [مستودع #HusbandOutWorld](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) خريطة العالم بدقتها الكاملة (بالأسماء ومن دونها)، وخريطة البيانات الوصفية (السكان، والارتفاعات، والقرى)، وخريطة لمدينة سانبي، ورسوم للسفارة، والخريطة العامة للقارة الغربية. تسميات الكيلومترات في خريطة البيانات الوصفية من الأصل، لكنك لا تحتاجها على الطاولة."
+ },
  "0776b1ecc9bf": {
   "en": "Tastyleaf",
   "t": "تيستي ليف"
@@ -6,6 +14,10 @@
  "11577c2f2403": {
   "en": "Wingarest",
   "t": "وينغاريست"
+ },
+ "14d1d26ca726": {
+  "en": "green, grey, white, then grey up the east coast",
+  "t": "أخضر، رمادي، أبيض، ثم رمادي صعودًا على الساحل الشرقي"
  },
  "1b137c5ecaae": {
   "en": "Deltacross",
@@ -19,13 +31,65 @@
   "en": "Forway",
   "t": "فورواي"
  },
+ "29aed0bbc0c3": {
+  "en": "light blue",
+  "t": "أزرق فاتح"
+ },
+ "2a8f515b1158": {
+  "en": "Buhraies Plains",
+  "t": "سهول بورايس"
+ },
+ "2acc73d59453": {
+  "en": "The table map for the West March: the world map with **circles drawn along the roads and sea lanes connecting places**. Each road has its own colour so you can follow it across the map.",
+  "t": "خريطة الطاولة لويست مارش: خريطة العالم مع **دوائر مرسومة على طول الطرق والممرات البحرية التي تربط الأماكن**. لكل طريق لونه الخاص لتتمكن من تتبّعه عبر الخريطة."
+ },
+ "2b51b722702b": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)",
+  "t": "[![خريطة السفر في ويست مارش فراكي: خريطة العالم مع دوائر ملوّنة على طول الطرق والممرات البحرية بين الأماكن](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)"
+ },
+ "2e4178e46288": {
+  "en": "orange",
+  "t": "برتقالي"
+ },
+ "2f3b5167d79a": {
+  "en": "grey, across the lake to the north edge",
+  "t": "رمادي، عبر البحيرة حتى الحافة الشمالية"
+ },
  "325ff50ba847": {
   "en": "On the map",
   "t": "على الخريطة"
  },
+ "3c5bbe37d12c": {
+  "en": "Endlessboil",
+  "t": "إندلس بويل"
+ },
+ "3eef871173ce": {
+  "en": "green",
+  "t": "أخضر"
+ },
+ "4aa393c4643f": {
+  "en": "**Full size, for printing:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png) (8000 × 4000, 34 MB). It's a 2:1 map: print it 24 × 12 in, 36 × 18 in or bigger.",
+  "t": "**الحجم الكامل، للطباعة:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png) (8000 × 4000، 34 ميغابايت). إنها خريطة بنسبة 2:1: اطبعها بمقاس 24 × 12 بوصة أو 36 × 18 بوصة أو أكبر."
+ },
+ "4b8f1731c75e": {
+  "en": "Maps",
+  "t": "الخرائط"
+ },
  "4d005acc69ee": {
   "en": "Cruro",
   "t": "الكرورو"
+ },
+ "4d16271e833b": {
+  "en": "SweetLake",
+  "t": "سويت ليك"
+ },
+ "4d82c9663dd3": {
+  "en": "grey, past Forway's lighthouse",
+  "t": "رمادي، بعد منارة فورواي"
+ },
+ "5396de0fb3a7": {
+  "en": "white, then grey",
+  "t": "أبيض، ثم رمادي"
  },
  "5475a939ba73": {
   "en": "Blood",
@@ -39,9 +103,37 @@
   "en": "Hifuna & the Far North",
   "t": "هيفونا والشمال البعيد"
  },
+ "60cf22944d47": {
+  "en": "south-west, along the coast",
+  "t": "جنوبًا غربًا، على طول الساحل"
+ },
  "60f0853dfedc": {
   "en": "Waterfall",
   "t": "ووترفول"
+ },
+ "65d4ab386238": {
+  "en": "A white lane also branches south from the Sanbi–Endlessfog lane (where it meets the Triangle lane) and ends in open sea after 11 circles.",
+  "t": "ويتفرع أيضًا ممر أبيض جنوبًا من ممر سانبي–إندلس فوغ (حيث يلتقي بممر ترايانغل) وينتهي في البحر المفتوح بعد 11 دائرة."
+ },
+ "6637b6dc488e": {
+  "en": "World maps",
+  "t": "خرائط العالم"
+ },
+ "67907200c248": {
+  "en": "Route lengths",
+  "t": "أطوال الطرق"
+ },
+ "6a0cd3e160c1": {
+  "en": "Sea & Islands",
+  "t": "البحر والجزر"
+ },
+ "6aca866c257c": {
+  "en": "grey",
+  "t": "رمادي"
+ },
+ "6bdf0cf5986c": {
+  "en": "white",
+  "t": "أبيض"
  },
  "700f74a121a9": {
   "en": "Freeish",
@@ -51,21 +143,49 @@
   "en": "Fuhrair",
   "t": "فورير"
  },
+ "755e2c251f07": {
+  "en": "Forway Plains & Roads",
+  "t": "سهول فورواي وطرقها"
+ },
+ "75b7861847ca": {
+  "en": "**For screens:** [2400 px](web/west-march-map-2400.jpg) and [5000 px](web/west-march-map-5000.jpg) copies. The website has the map with zoom and pan.",
+  "t": "**للشاشات:** نسختا [2400 بكسل](web/west-march-map-2400.jpg) و[5000 بكسل](web/west-march-map-5000.jpg). وفي الموقع الخريطة مع التكبير والتحريك."
+ },
  "7728dc17a25b": {
   "en": "Ganyrami",
   "t": "غانيرامي"
+ },
+ "7d3b26f4e651": {
+  "en": "green, grey, then white",
+  "t": "أخضر، رمادي، ثم أبيض"
  },
  "88c0b5c816a5": {
   "en": "Sanbi",
   "t": "سانبي"
  },
+ "89dcb7fbc781": {
+  "en": "Circles to the edge",
+  "t": "الدوائر حتى الحافة"
+ },
  "8ae5de71fd4b": {
   "en": "Circles",
   "t": "الدوائر"
  },
+ "8ecfabb247b2": {
+  "en": "green, then grey",
+  "t": "أخضر، ثم رمادي"
+ },
  "8f7eaa47ff4e": {
   "en": "Old Fuhrair",
   "t": "فورير القديمة"
+ },
+ "9101cd941d28": {
+  "en": "south",
+  "t": "جنوبًا"
+ },
+ "96a74ffac375": {
+  "en": "How to use it",
+  "t": "طريقة الاستخدام"
  },
  "96b26d6615f5": {
   "en": "Gandew",
@@ -75,9 +195,37 @@
   "en": "Tolerideme",
   "t": "توليريديمي"
  },
+ "9d508eab4816": {
+  "en": "light blue, to the north edge",
+  "t": "أزرق فاتح، حتى الحافة الشمالية"
+ },
  "9db4f13ef375": {
   "en": "Endlessfog",
   "t": "إندلس فوغ"
+ },
+ "9e261a7d148e": {
+  "en": "How many circles each road or sea lane on the map takes. For a trip through several places, add up the legs (Forway → Sanbi → Cruro is 6 + 10 = 16 circles). The encounter table is a suggestion for which [Events & Encounters](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md) table to roll on; switch it when a trip crosses into other country.",
+  "t": "كم دائرة يستغرق كل طريق أو ممر بحري على الخريطة. لرحلة تمر بعدة أماكن، اجمع المراحل (فورواي ← سانبي ← كرورو تساوي 6 + 10 = 16 دائرة). وجدول اللقاءات اقتراح لأي جدول من [الأحداث واللقاءات](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md) تُرمى عليه؛ غيّره حين تعبر الرحلة إلى إقليم آخر."
+ },
+ "9fbaa09bcb9c": {
+  "en": "east, toward Newland",
+  "t": "شرقًا، نحو نيولاند"
+ },
+ "9fc7f48b1088": {
+  "en": "Full rules: [Travel by Circles](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md).",
+  "t": "القواعد الكاملة: [السفر بالدوائر](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)."
+ },
+ "a0e98cadf6bf": {
+  "en": "**Count the circles** between where the party is and where it's going. Count every circle on the way. A circle next to a town counts for every road that leaves from it, and where two roads share circles (like the two green circles just north of Sanbi), count them on both.",
+  "t": "**عُدّ الدوائر** بين مكان الفريق والمكان الذي يقصده. عُدّ كل دائرة في الطريق. الدائرة المجاورة لبلدة تُحسب لكل طريق يخرج منها، وحيث يتشارك طريقان دوائر (مثل الدائرتين الخضراوين شمال سانبي مباشرة)، عُدّها في الطريقين كليهما."
+ },
+ "a35ba9a0312e": {
+  "en": "**Keep a shared copy** and mark the circles your parties have traveled or explored. DMs can draw new circles as parties push into unknown land.",
+  "t": "**احتفظوا بنسخة مشتركة** وعلّموا الدوائر التي سلكتها فرقكم أو استكشفتها. ويمكن لمديري اللعبة رسم دوائر جديدة حين تتوغل الفرق في أرض مجهولة."
+ },
+ "a522d847927c": {
+  "en": "Hifuna",
+  "t": "هيفونا"
  },
  "a7f53e96f0a7": {
   "en": "Encounter table",
@@ -87,9 +235,65 @@
   "en": "Desert",
   "t": "الصحراء"
  },
+ "b6013f8a5440": {
+  "en": "Heading",
+  "t": "الاتجاه"
+ },
+ "b828d5ecbb59": {
+  "en": "Sanbi Coast & Swamps",
+  "t": "ساحل سانبي ومستنقعاتها"
+ },
+ "b84d62d2586b": {
+  "en": "The West March travel map",
+  "t": "خريطة السفر في ويست مارش"
+ },
+ "b850a37c5ce5": {
+  "en": "blue",
+  "t": "أزرق"
+ },
+ "b99b14ddd8ba": {
+  "en": "grey, along the south coast",
+  "t": "رمادي، على طول الساحل الجنوبي"
+ },
+ "ba1c35e14ad0": {
+  "en": "green, then light blue",
+  "t": "أخضر، ثم أزرق فاتح"
+ },
+ "bbeeed41a1f0": {
+  "en": "**Each circle is 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer. Forway to Sanbi is 6 circles: 6 days at Fast, 12 at Standard, 18 at Slow.",
+  "t": "**كل دائرة يوم أو يومان أو ثلاثة أيام من السفر. يختار مدير اللعبة**، رحلةً برحلة، ليجعل المسير أقصر أو أطول. من فورواي إلى سانبي 6 دوائر: 6 أيام بالإيقاع السريع، و12 بالعادي، و18 بالبطيء."
+ },
+ "bd487b0038b7": {
+  "en": "purple",
+  "t": "بنفسجي"
+ },
+ "bddaa0abb34e": {
+  "en": "Map © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "الخريطة © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
+ "c173d239b293": {
+  "en": "yellow, then orange",
+  "t": "أصفر، ثم برتقالي"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "من"
+ },
+ "c70adeb9a7f1": {
+  "en": "These lanes run off the map. The count is to the edge; the DM decides how far the rest is.",
+  "t": "هذه الممرات تخرج من الخريطة. والعدّ حتى الحافة؛ ويقرر مدير اللعبة كم يبقى."
+ },
+ "cba0eaef0185": {
+  "en": "red",
+  "t": "أحمر"
+ },
+ "d0a6dcecf386": {
+  "en": "orange, then grey",
+  "t": "برتقالي، ثم رمادي"
+ },
+ "da02cfd46fa7": {
+  "en": "Freeish Forests",
+  "t": "غابات فريئيش"
  },
  "e5512f4a91e6": {
   "en": "Flatland",
@@ -99,9 +303,17 @@
   "en": "Triangle",
   "t": "ترايانغل"
  },
+ "ec7334a81392": {
+  "en": "grey, down the east coast",
+  "t": "رمادي، نزولًا على الساحل الشرقي"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "إلى"
+ },
+ "f669e2224c59": {
+  "en": "west",
+  "t": "غربًا"
  },
  "fcd11baaa769": {
   "en": "Bahyum",

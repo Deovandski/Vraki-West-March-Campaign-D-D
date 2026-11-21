@@ -1,4 +1,12 @@
 {
+ "0210c2d7b398": {
+  "en": "yellow",
+  "t": "黄色"
+ },
+ "0290e9b5a8bb": {
+  "en": "The [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) has the full-resolution world map (with and without names), the metadata map (populations, altitudes, villages), a Sanbi city map, embassy art, and the global map of the western continent. The metadata map's kilometer labels are canon, but you don't need them at the table.",
+  "t": "[#HusbandOutWorld仓库](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map)里有全分辨率的世界地图（带名字和不带名字的）、元数据地图（人口、海拔、村庄）、桑比城市地图、大使馆插画，以及西部大陆的全图。元数据地图上的公里标注是官方设定，但跑团时用不着。"
+ },
  "0776b1ecc9bf": {
   "en": "Tastyleaf",
   "t": "泰斯蒂利夫"
@@ -6,6 +14,10 @@
  "11577c2f2403": {
   "en": "Wingarest",
   "t": "温加雷斯特"
+ },
+ "14d1d26ca726": {
+  "en": "green, grey, white, then grey up the east coast",
+  "t": "绿色、灰色、白色，然后沿东海岸北上的灰色"
  },
  "1b137c5ecaae": {
   "en": "Deltacross",
@@ -19,13 +31,65 @@
   "en": "Forway",
   "t": "福威"
  },
+ "29aed0bbc0c3": {
+  "en": "light blue",
+  "t": "浅蓝色"
+ },
+ "2a8f515b1158": {
+  "en": "Buhraies Plains",
+  "t": "布莱斯平原"
+ },
+ "2acc73d59453": {
+  "en": "The table map for the West March: the world map with **circles drawn along the roads and sea lanes connecting places**. Each road has its own colour so you can follow it across the map.",
+  "t": "西境的桌面地图：一张**沿着连接各地的道路和航线画着圈**的世界地图。每条路都有自己的颜色，方便你在地图上一路追踪。"
+ },
+ "2b51b722702b": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)",
+  "t": "[![弗拉基西境旅行地图：沿着各地之间的道路和航线画着彩色圆圈的世界地图](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)"
+ },
+ "2e4178e46288": {
+  "en": "orange",
+  "t": "橙色"
+ },
+ "2f3b5167d79a": {
+  "en": "grey, across the lake to the north edge",
+  "t": "灰色，横穿湖面到北部边缘"
+ },
  "325ff50ba847": {
   "en": "On the map",
   "t": "地图上的样子"
  },
+ "3c5bbe37d12c": {
+  "en": "Endlessboil",
+  "t": "恩德莱斯博伊尔"
+ },
+ "3eef871173ce": {
+  "en": "green",
+  "t": "绿色"
+ },
+ "4aa393c4643f": {
+  "en": "**Full size, for printing:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png) (8000 × 4000, 34 MB). It's a 2:1 map: print it 24 × 12 in, 36 × 18 in or bigger.",
+  "t": "**全尺寸，用于打印：** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png)（8000 × 4000，34 MB）。这是一张2:1的地图：可以打印成24 × 12英寸、36 × 18英寸或更大。"
+ },
+ "4b8f1731c75e": {
+  "en": "Maps",
+  "t": "地图"
+ },
  "4d005acc69ee": {
   "en": "Cruro",
   "t": "克鲁罗"
+ },
+ "4d16271e833b": {
+  "en": "SweetLake",
+  "t": "斯威特莱克"
+ },
+ "4d82c9663dd3": {
+  "en": "grey, past Forway's lighthouse",
+  "t": "灰色，经过福威的灯塔"
+ },
+ "5396de0fb3a7": {
+  "en": "white, then grey",
+  "t": "白色，然后灰色"
  },
  "5475a939ba73": {
   "en": "Blood",
@@ -39,9 +103,37 @@
   "en": "Hifuna & the Far North",
   "t": "希富纳与极北之地"
  },
+ "60cf22944d47": {
+  "en": "south-west, along the coast",
+  "t": "西南，沿着海岸"
+ },
  "60f0853dfedc": {
   "en": "Waterfall",
   "t": "沃特福尔"
+ },
+ "65d4ab386238": {
+  "en": "A white lane also branches south from the Sanbi–Endlessfog lane (where it meets the Triangle lane) and ends in open sea after 11 circles.",
+  "t": "还有一条白色航线从桑比–恩德莱斯福格航线（与特赖安格尔航线交会处）向南分出，经过11个圈后在开阔的海面上结束。"
+ },
+ "6637b6dc488e": {
+  "en": "World maps",
+  "t": "世界地图"
+ },
+ "67907200c248": {
+  "en": "Route lengths",
+  "t": "路线长度"
+ },
+ "6a0cd3e160c1": {
+  "en": "Sea & Islands",
+  "t": "海洋与岛屿"
+ },
+ "6aca866c257c": {
+  "en": "grey",
+  "t": "灰色"
+ },
+ "6bdf0cf5986c": {
+  "en": "white",
+  "t": "白色"
  },
  "700f74a121a9": {
   "en": "Freeish",
@@ -51,21 +143,49 @@
   "en": "Fuhrair",
   "t": "弗莱尔"
  },
+ "755e2c251f07": {
+  "en": "Forway Plains & Roads",
+  "t": "福威平原与道路"
+ },
+ "75b7861847ca": {
+  "en": "**For screens:** [2400 px](web/west-march-map-2400.jpg) and [5000 px](web/west-march-map-5000.jpg) copies. The website has the map with zoom and pan.",
+  "t": "**用于屏幕：** [2400 px](web/west-march-map-2400.jpg)和[5000 px](web/west-march-map-5000.jpg)的版本。网站上的地图可以缩放和拖动。"
+ },
  "7728dc17a25b": {
   "en": "Ganyrami",
   "t": "加尼拉米"
+ },
+ "7d3b26f4e651": {
+  "en": "green, grey, then white",
+  "t": "绿色、灰色，然后白色"
  },
  "88c0b5c816a5": {
   "en": "Sanbi",
   "t": "桑比"
  },
+ "89dcb7fbc781": {
+  "en": "Circles to the edge",
+  "t": "到边缘的圈数"
+ },
  "8ae5de71fd4b": {
   "en": "Circles",
   "t": "圈数"
  },
+ "8ecfabb247b2": {
+  "en": "green, then grey",
+  "t": "绿色，然后灰色"
+ },
  "8f7eaa47ff4e": {
   "en": "Old Fuhrair",
   "t": "老弗莱尔"
+ },
+ "9101cd941d28": {
+  "en": "south",
+  "t": "南"
+ },
+ "96a74ffac375": {
+  "en": "How to use it",
+  "t": "怎么用"
  },
  "96b26d6615f5": {
   "en": "Gandew",
@@ -75,9 +195,37 @@
   "en": "Tolerideme",
   "t": "托勒里德梅"
  },
+ "9d508eab4816": {
+  "en": "light blue, to the north edge",
+  "t": "浅蓝色，到北部边缘"
+ },
  "9db4f13ef375": {
   "en": "Endlessfog",
   "t": "恩德莱斯福格"
+ },
+ "9e261a7d148e": {
+  "en": "How many circles each road or sea lane on the map takes. For a trip through several places, add up the legs (Forway → Sanbi → Cruro is 6 + 10 = 16 circles). The encounter table is a suggestion for which [Events & Encounters](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md) table to roll on; switch it when a trip crosses into other country.",
+  "t": "地图上每条道路或航线占多少个圈。要经过几个地方的旅程，就把各段加起来（福威 → 桑比 → 克鲁罗是6 + 10 = 16个圈）。遭遇表一栏是建议你掷[事件与遭遇](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md)里的哪张表；旅程进入别的地区时就换表。"
+ },
+ "9fbaa09bcb9c": {
+  "en": "east, toward Newland",
+  "t": "东，朝纽兰方向"
+ },
+ "9fc7f48b1088": {
+  "en": "Full rules: [Travel by Circles](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md).",
+  "t": "完整规则：[按圈旅行](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)。"
+ },
+ "a0e98cadf6bf": {
+  "en": "**Count the circles** between where the party is and where it's going. Count every circle on the way. A circle next to a town counts for every road that leaves from it, and where two roads share circles (like the two green circles just north of Sanbi), count them on both.",
+  "t": "**数一数**队伍所在地和目的地之间的圈。路上的每个圈都要数。城镇旁边的圈对从那里出发的每条路都算数；两条路共用圈的地方（比如桑比正北的那两个绿圈），两条路都要算上。"
+ },
+ "a35ba9a0312e": {
+  "en": "**Keep a shared copy** and mark the circles your parties have traveled or explored. DMs can draw new circles as parties push into unknown land.",
+  "t": "**保留一份共享的副本**，在上面标出你们的队伍走过或探索过的圈。当队伍深入未知之地时，DM可以画上新的圈。"
+ },
+ "a522d847927c": {
+  "en": "Hifuna",
+  "t": "希富纳"
  },
  "a7f53e96f0a7": {
   "en": "Encounter table",
@@ -87,9 +235,65 @@
   "en": "Desert",
   "t": "沙漠"
  },
+ "b6013f8a5440": {
+  "en": "Heading",
+  "t": "方向"
+ },
+ "b828d5ecbb59": {
+  "en": "Sanbi Coast & Swamps",
+  "t": "桑比海岸与沼泽"
+ },
+ "b84d62d2586b": {
+  "en": "The West March travel map",
+  "t": "西境旅行地图"
+ },
+ "b850a37c5ce5": {
+  "en": "blue",
+  "t": "蓝色"
+ },
+ "b99b14ddd8ba": {
+  "en": "grey, along the south coast",
+  "t": "灰色，沿着南部海岸"
+ },
+ "ba1c35e14ad0": {
+  "en": "green, then light blue",
+  "t": "绿色，然后浅蓝色"
+ },
+ "bbeeed41a1f0": {
+  "en": "**Each circle is 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer. Forway to Sanbi is 6 circles: 6 days at Fast, 12 at Standard, 18 at Slow.",
+  "t": "**每个圈代表1、2或3天的旅程。由DM每次旅行选择**，让路途变短或变长。福威到桑比是6个圈：快速6天，标准12天，慢速18天。"
+ },
+ "bd487b0038b7": {
+  "en": "purple",
+  "t": "紫色"
+ },
+ "bddaa0abb34e": {
+  "en": "Map © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "地图 © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
+ "c173d239b293": {
+  "en": "yellow, then orange",
+  "t": "黄色，然后橙色"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "出发地"
+ },
+ "c70adeb9a7f1": {
+  "en": "These lanes run off the map. The count is to the edge; the DM decides how far the rest is.",
+  "t": "这些航线一直延伸到地图外。圈数只算到地图边缘；剩下还有多远由DM决定。"
+ },
+ "cba0eaef0185": {
+  "en": "red",
+  "t": "红色"
+ },
+ "d0a6dcecf386": {
+  "en": "orange, then grey",
+  "t": "橙色，然后灰色"
+ },
+ "da02cfd46fa7": {
+  "en": "Freeish Forests",
+  "t": "弗里伊什森林"
  },
  "e5512f4a91e6": {
   "en": "Flatland",
@@ -99,9 +303,17 @@
   "en": "Triangle",
   "t": "特赖安格尔"
  },
+ "ec7334a81392": {
+  "en": "grey, down the east coast",
+  "t": "灰色，沿东海岸南下"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "目的地"
+ },
+ "f669e2224c59": {
+  "en": "west",
+  "t": "西"
  },
  "fcd11baaa769": {
   "en": "Bahyum",

@@ -1,4 +1,12 @@
 {
+ "0210c2d7b398": {
+  "en": "yellow",
+  "t": "黄"
+ },
+ "0290e9b5a8bb": {
+  "en": "The [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) has the full-resolution world map (with and without names), the metadata map (populations, altitudes, villages), a Sanbi city map, embassy art, and the global map of the western continent. The metadata map's kilometer labels are canon, but you don't need them at the table.",
+  "t": "[#HusbandOutWorldのリポジトリ](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map)には、フル解像度の世界地図（名前入りと名前なし）、メタデータの地図（人口、標高、村）、サンビの都市地図、大使館のイラスト、西の大陸の全体図がある。メタデータの地図のキロメートル表記は正史だが、卓では必要ない。"
+ },
  "0776b1ecc9bf": {
   "en": "Tastyleaf",
   "t": "テイスティリーフ"
@@ -6,6 +14,10 @@
  "11577c2f2403": {
   "en": "Wingarest",
   "t": "ウィンガレスト"
+ },
+ "14d1d26ca726": {
+  "en": "green, grey, white, then grey up the east coast",
+  "t": "緑、灰色、白、それから東の海岸を北上する灰色"
  },
  "1b137c5ecaae": {
   "en": "Deltacross",
@@ -19,13 +31,65 @@
   "en": "Forway",
   "t": "フォーウェイ"
  },
+ "29aed0bbc0c3": {
+  "en": "light blue",
+  "t": "水色"
+ },
+ "2a8f515b1158": {
+  "en": "Buhraies Plains",
+  "t": "ブライエス・プレーンズ"
+ },
+ "2acc73d59453": {
+  "en": "The table map for the West March: the world map with **circles drawn along the roads and sea lanes connecting places**. Each road has its own colour so you can follow it across the map.",
+  "t": "ウェストマーチの卓用の地図：**場所と場所を結ぶ道と航路に沿ってサークルが描かれた**世界地図。道ごとに色が違うので、地図の上でたどっていける。"
+ },
+ "2b51b722702b": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)",
+  "t": "[![ヴラキ・ウェストマーチの旅の地図：場所と場所を結ぶ道と航路に沿って色つきのサークルが描かれた世界地図](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)"
+ },
+ "2e4178e46288": {
+  "en": "orange",
+  "t": "オレンジ"
+ },
+ "2f3b5167d79a": {
+  "en": "grey, across the lake to the north edge",
+  "t": "灰色、湖を渡って北の端まで"
+ },
  "325ff50ba847": {
   "en": "On the map",
   "t": "地図上の見た目"
  },
+ "3c5bbe37d12c": {
+  "en": "Endlessboil",
+  "t": "エンドレスボイル"
+ },
+ "3eef871173ce": {
+  "en": "green",
+  "t": "緑"
+ },
+ "4aa393c4643f": {
+  "en": "**Full size, for printing:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png) (8000 × 4000, 34 MB). It's a 2:1 map: print it 24 × 12 in, 36 × 18 in or bigger.",
+  "t": "**印刷用のフルサイズ：** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png)（8000 × 4000、34 MB）。縦横比2:1の地図なので、24 × 12インチ、36 × 18インチ、またはそれ以上で印刷しよう。"
+ },
+ "4b8f1731c75e": {
+  "en": "Maps",
+  "t": "地図"
+ },
  "4d005acc69ee": {
   "en": "Cruro",
   "t": "クルロ"
+ },
+ "4d16271e833b": {
+  "en": "SweetLake",
+  "t": "スイートレイク"
+ },
+ "4d82c9663dd3": {
+  "en": "grey, past Forway's lighthouse",
+  "t": "灰色、フォーウェイの灯台を過ぎて"
+ },
+ "5396de0fb3a7": {
+  "en": "white, then grey",
+  "t": "白、それから灰色"
  },
  "5475a939ba73": {
   "en": "Blood",
@@ -39,9 +103,37 @@
   "en": "Hifuna & the Far North",
   "t": "ヒフナと遥かな北"
  },
+ "60cf22944d47": {
+  "en": "south-west, along the coast",
+  "t": "南西、海岸沿い"
+ },
  "60f0853dfedc": {
   "en": "Waterfall",
   "t": "ウォーターフォール"
+ },
+ "65d4ab386238": {
+  "en": "A white lane also branches south from the Sanbi–Endlessfog lane (where it meets the Triangle lane) and ends in open sea after 11 circles.",
+  "t": "サンビ–エンドレスフォグの航路からも白い航路が南へ分かれており（トライアングルの航路と交わるところ）、11サークル進んだ先の外洋で途切れる。"
+ },
+ "6637b6dc488e": {
+  "en": "World maps",
+  "t": "世界地図"
+ },
+ "67907200c248": {
+  "en": "Route lengths",
+  "t": "ルートの長さ"
+ },
+ "6a0cd3e160c1": {
+  "en": "Sea & Islands",
+  "t": "海と島々"
+ },
+ "6aca866c257c": {
+  "en": "grey",
+  "t": "灰色"
+ },
+ "6bdf0cf5986c": {
+  "en": "white",
+  "t": "白"
  },
  "700f74a121a9": {
   "en": "Freeish",
@@ -51,21 +143,49 @@
   "en": "Fuhrair",
   "t": "フライア"
  },
+ "755e2c251f07": {
+  "en": "Forway Plains & Roads",
+  "t": "フォーウェイの平原と街道"
+ },
+ "75b7861847ca": {
+  "en": "**For screens:** [2400 px](web/west-march-map-2400.jpg) and [5000 px](web/west-march-map-5000.jpg) copies. The website has the map with zoom and pan.",
+  "t": "**画面用：** [2400 px](web/west-march-map-2400.jpg)と[5000 px](web/west-march-map-5000.jpg)の版。サイトでは拡大や移動ができる地図を見られる。"
+ },
  "7728dc17a25b": {
   "en": "Ganyrami",
   "t": "ガニラミ"
+ },
+ "7d3b26f4e651": {
+  "en": "green, grey, then white",
+  "t": "緑、灰色、それから白"
  },
  "88c0b5c816a5": {
   "en": "Sanbi",
   "t": "サンビ"
  },
+ "89dcb7fbc781": {
+  "en": "Circles to the edge",
+  "t": "端までのサークル"
+ },
  "8ae5de71fd4b": {
   "en": "Circles",
   "t": "サークル"
  },
+ "8ecfabb247b2": {
+  "en": "green, then grey",
+  "t": "緑、それから灰色"
+ },
  "8f7eaa47ff4e": {
   "en": "Old Fuhrair",
   "t": "オールド・フライア"
+ },
+ "9101cd941d28": {
+  "en": "south",
+  "t": "南"
+ },
+ "96a74ffac375": {
+  "en": "How to use it",
+  "t": "使い方"
  },
  "96b26d6615f5": {
   "en": "Gandew",
@@ -75,9 +195,37 @@
   "en": "Tolerideme",
   "t": "トレリデメ"
  },
+ "9d508eab4816": {
+  "en": "light blue, to the north edge",
+  "t": "水色、北の端まで"
+ },
  "9db4f13ef375": {
   "en": "Endlessfog",
   "t": "エンドレスフォグ"
+ },
+ "9e261a7d148e": {
+  "en": "How many circles each road or sea lane on the map takes. For a trip through several places, add up the legs (Forway → Sanbi → Cruro is 6 + 10 = 16 circles). The encounter table is a suggestion for which [Events & Encounters](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md) table to roll on; switch it when a trip crosses into other country.",
+  "t": "地図上のそれぞれの道や航路が何サークルか。いくつもの場所を通る旅なら、区間を足す（フォーウェイ → サンビ → クルロは6 + 10 = 16サークル）。遭遇表は、[イベントと遭遇](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md)のどの表を振るかの目安だ。旅が別の地域に入ったら切り替えよう。"
+ },
+ "9fbaa09bcb9c": {
+  "en": "east, toward Newland",
+  "t": "東、ニューランドの方へ"
+ },
+ "9fc7f48b1088": {
+  "en": "Full rules: [Travel by Circles](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md).",
+  "t": "詳しいルール：[サークルで旅する](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)。"
+ },
+ "a0e98cadf6bf": {
+  "en": "**Count the circles** between where the party is and where it's going. Count every circle on the way. A circle next to a town counts for every road that leaves from it, and where two roads share circles (like the two green circles just north of Sanbi), count them on both.",
+  "t": "一行がいる場所から行き先までの**サークルを数える**。途中のサークルはすべて数えること。町の隣のサークルは、そこから出るどの道でも数に入る。二本の道がサークルを共有しているところ（サンビのすぐ北にある二つの緑のサークルなど）は、両方の道で数える。"
+ },
+ "a35ba9a0312e": {
+  "en": "**Keep a shared copy** and mark the circles your parties have traveled or explored. DMs can draw new circles as parties push into unknown land.",
+  "t": "**共有の写しを用意して**、一行が通ったサークルと探検したサークルに印をつけよう。一行が未知の土地へ踏み込んだら、DMは新しいサークルを描き足してかまわない。"
+ },
+ "a522d847927c": {
+  "en": "Hifuna",
+  "t": "ヒフナ"
  },
  "a7f53e96f0a7": {
   "en": "Encounter table",
@@ -87,9 +235,65 @@
   "en": "Desert",
   "t": "砂漠"
  },
+ "b6013f8a5440": {
+  "en": "Heading",
+  "t": "方角"
+ },
+ "b828d5ecbb59": {
+  "en": "Sanbi Coast & Swamps",
+  "t": "サンビの海岸と沼"
+ },
+ "b84d62d2586b": {
+  "en": "The West March travel map",
+  "t": "ウェストマーチの旅の地図"
+ },
+ "b850a37c5ce5": {
+  "en": "blue",
+  "t": "青"
+ },
+ "b99b14ddd8ba": {
+  "en": "grey, along the south coast",
+  "t": "灰色、南の海岸沿い"
+ },
+ "ba1c35e14ad0": {
+  "en": "green, then light blue",
+  "t": "緑、それから水色"
+ },
+ "bbeeed41a1f0": {
+  "en": "**Each circle is 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer. Forway to Sanbi is 6 circles: 6 days at Fast, 12 at Standard, 18 at Slow.",
+  "t": "**1サークルは旅の1日、2日、または3日。どれにするかはDMが**旅ごとに選び、道のりを短くも長くもする。フォーウェイからサンビまでは6サークル：速いなら6日、普通なら12日、遅いなら18日。"
+ },
+ "bd487b0038b7": {
+  "en": "purple",
+  "t": "紫"
+ },
+ "bddaa0abb34e": {
+  "en": "Map © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "地図 © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
+ "c173d239b293": {
+  "en": "yellow, then orange",
+  "t": "黄、それからオレンジ"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "出発地"
+ },
+ "c70adeb9a7f1": {
+  "en": "These lanes run off the map. The count is to the edge; the DM decides how far the rest is.",
+  "t": "これらの航路は地図の外へ続く。数は端までのもので、その先がどれだけあるかはDMが決める。"
+ },
+ "cba0eaef0185": {
+  "en": "red",
+  "t": "赤"
+ },
+ "d0a6dcecf386": {
+  "en": "orange, then grey",
+  "t": "オレンジ、それから灰色"
+ },
+ "da02cfd46fa7": {
+  "en": "Freeish Forests",
+  "t": "フリーイッシュの森"
  },
  "e5512f4a91e6": {
   "en": "Flatland",
@@ -99,9 +303,17 @@
   "en": "Triangle",
   "t": "トライアングル"
  },
+ "ec7334a81392": {
+  "en": "grey, down the east coast",
+  "t": "灰色、東の海岸を南下"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "目的地"
+ },
+ "f669e2224c59": {
+  "en": "west",
+  "t": "西"
  },
  "fcd11baaa769": {
   "en": "Bahyum",
