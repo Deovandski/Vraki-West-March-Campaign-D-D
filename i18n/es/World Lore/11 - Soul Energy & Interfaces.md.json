@@ -13,7 +13,7 @@
  },
  "1920b8108b65": {
   "en": "Soul Energy (SE)",
-  "t": "Energía del alma (EA)"
+  "t": "Energía del alma (SE)"
  },
  "1db084c3e97b": {
   "en": "**Miscasts:** missing or sloppy logograms make the spell fall back on whatever you're thinking. That can explode in your hand — or turn you into a chicken-like Fanchaki.",
@@ -85,7 +85,7 @@
  },
  "b54bcd11081b": {
   "en": "SE comes in **tiers** (I, II, III… X and up). Each tier needs double the energy of the one before it: **1 nari stone for Tier I, 2 for Tier II, 4 for Tier III, 8 for Tier IV…**",
-  "t": "La EA viene en **niveles** (I, II, III… X y más). Cada nivel necesita el doble de energía que el anterior: **1 piedra de nari para el Nivel I, 2 para el Nivel II, 4 para el Nivel III, 8 para el Nivel IV…**"
+  "t": "La SE viene en **niveles** (I, II, III… X y más). Cada nivel necesita el doble de energía que el anterior: **1 piedra de nari para el Nivel I, 2 para el Nivel II, 4 para el Nivel III, 8 para el Nivel IV…**"
  },
  "bf7af2224bd6": {
   "en": "The five rings hold **2, 8, 18, 32 and 50** tiers of energy. Nobody has officially cast at the fourth or fifth ring.",
@@ -157,7 +157,7 @@
  },
  "eb955d883656": {
   "en": "Your **badge** shows your current SE (only to you).",
-  "t": "Tu **insignia** muestra tu EA actual (solo a ti)."
+  "t": "Tu **insignia** muestra tu SE actual (solo a ti)."
  },
  "fe0dd2eef3ca": {
   "en": "**Lifespan** depends on how strong and dense the connections between flesh and soul are. Aging is those connections wearing out. Regrowing a lost limb lowers the density (shortens your life), so **reattach limbs before healing**.",

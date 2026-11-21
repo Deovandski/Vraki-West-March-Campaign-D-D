@@ -1,15 +1,147 @@
 {
+ "031c66013fe7": {
+  "en": "**Bite.** Natural weapon: 1d6 + Strength piercing.",
+  "t": "**물기.** 자연 무기: 1d6 + 근력 관통."
+ },
  "05381bfcc598": {
   "en": "**Amethyst**",
   "t": "**애머시스트**"
+ },
+ "0c686d3e2c25": {
+  "en": "**Childlike Mind.** Disadvantage on Intelligence (Investigation) and Wisdom (Insight) checks. Your emotions run loud: the DM may call for a Wisdom save to stay calm when things get scary or exciting.",
+  "t": "**아이 같은 마음.** 지능(수사)과 지혜(통찰) 판정에 불리점. 감정이 크게 드러난다: 무섭거나 신나는 상황에서 침착함을 유지하려면 DM이 지혜 내성 굴림을 요구할 수 있다."
+ },
+ "0deae0d4ee50": {
+  "en": "Quest access",
+  "t": "의뢰 이용"
+ },
+ "0eba1d8bb37d": {
+  "en": "Everyone starts with an embassy **badge** (Pearl corners). It shows your Soul Points to you alone.",
+  "t": "모두 대사관 **신분패**(펄 모서리)를 가지고 시작한다. 신분패는 소울 포인트를 당신에게만 보여 준다."
+ },
+ "10603646ae85": {
+  "en": "Human (mixed blood) — the default",
+  "t": "인간(혼혈) — 기본"
+ },
+ "1255b84d73e6": {
+  "en": "6. Starting debt (recommended)",
+  "t": "6. 시작 빚(권장)"
+ },
+ "127e12b2c400": {
+  "en": "Making an Adventurer",
+  "t": "모험가 만들기"
+ },
+ "158dd47ad88f": {
+  "en": "Companions instead of pets",
+  "t": "애완동물이 아닌 동료"
+ },
+ "1610b965f63b": {
+  "en": "Badge corners",
+  "t": "신분패 모서리"
+ },
+ "18b9355e72b5": {
+  "en": "Most adventurers owe someone for their gear. Roll 1d6:\n1–2: no debt (lucky you) · 3–4: **1 amethyst** owed to your guild · 5: **2 amethysts** owed to a private lender (who's not nice) · 6: **1 aquamarine** owed to an investor guild like the Cliff-Jumpers (they take 30% of your quest pay until it's paid).",
+  "t": "대부분의 모험가는 장비 값을 누군가에게 빚지고 있다. 1d6을 굴려라:\n1–2: 빚 없음(운 좋다) · 3–4: 길드에 **1 애머시스트** 빚 · 5: 개인 사채업자(친절하지 않다)에게 **2 애머시스트** 빚 · 6: 클리프 점퍼스 같은 투자 길드에 **1 아쿠아마린** 빚(다 갚을 때까지 의뢰 보수의 30%를 떼어 간다)."
+ },
+ "18f1d59acc99": {
+  "en": "**Rogues:** guild agents, Red Winga runaways, Ganyrami squatters.",
+  "t": "**로그:** 길드 요원, 레드 윙가에서 달아난 자, 가니라미의 무단 거주자."
+ },
+ "1b989407b579": {
+  "en": "Every class works. Magic is reskinned as **soul energy science**:",
+  "t": "모든 클래스를 쓸 수 있다. 마법은 **영혼 에너지 과학**으로 겉모습을 바꾼다."
+ },
+ "1c7fc258f07d": {
+  "en": "Almost every human has a little Darfaries or Wozefaries blood.",
+  "t": "거의 모든 인간에게 다르파리에스나 워제파리에스의 피가 조금씩 섞여 있다."
+ },
+ "1d44dac3a9bb": {
+  "en": "\"Pure\" human (rare)",
+  "t": "‘순수한’ 인간(드묾)"
+ },
+ "1dedf12ebbc2": {
+  "en": "**Warlocks:** your patron is a **contract** — signed in blood with a Black Sapphire, Red Winga's Madam, a Finaies watching from the north, Bahyum Castle itself, or something worse.",
+  "t": "**워락:** 당신의 후원자는 **계약**이다 — 블랙 사파이어스의 누군가, 레드 윙가의 마담, 북쪽에서 지켜보는 피나이에스, 바혐 성 그 자체, 혹은 그보다 더 나쁜 무언가와 피로 서명한 계약."
+ },
+ "218819577bda": {
+  "en": "Spell names are descriptive, not shouted. A fireball is an **Elemental Fire CREATE** at Tier III.",
+  "t": "주문 이름은 외치는 것이 아니라 설명하는 것이다. 파이어볼은 III등급의 **엘리멘탈 파이어 크리에이트**다."
+ },
+ "237813895fc4": {
+  "en": "**Darfaries Interface.**",
+  "t": "**다르파리에스 인터페이스.**"
+ },
+ "275cb656a3ec": {
+  "en": "**Monks:** Gandew duelists, Tea-Drinkers brawlers.",
+  "t": "**몽크:** 간듀의 결투가, 티 드링커스의 싸움꾼."
+ },
+ "28f3904d7476": {
+  "en": "**Scaly Hide.** Without armor, your AC is 13 + your Dexterity modifier.",
+  "t": "**비늘 가죽.** 갑옷을 입지 않았을 때 AC는 13 + 민첩 수정치다."
+ },
+ "2d51c88dd6eb": {
+  "en": "1. Pick your people",
+  "t": "1. 종족 고르기"
+ },
+ "2df1de50ad75": {
+  "en": "**Darfaries Interface.** You can use sigil rings and drawn logograms (see Soul Energy rules).",
+  "t": "**다르파리에스 인터페이스.** 시질 링과 손으로 그린 표어 문자를 쓸 수 있다(영혼 에너지 규칙 참고)."
  },
  "2e59c978609a": {
   "en": "Wozefaries",
   "t": "워제파리에스"
  },
+ "32dbf3519281": {
+  "en": "**Clerics and paladins:** there are no gods. Make them **soul medics**, ancestor-revering duelists, oath-bound contract enforcers, or devotees of the sea, the Smart Ladies, the Tastyleaf tree or the Triangle. Their power is still soul energy.",
+  "t": "**클레릭과 팔라딘:** 신은 없다. **영혼 의사**, 조상을 숭배하는 결투가, 맹세에 묶인 계약 집행자, 또는 바다, 스마트 레이디, 테이스티리프 나무, 트라이앵글의 신봉자로 만들어라. 그들의 힘도 여전히 영혼 에너지다."
+ },
+ "35d1c0c26295": {
+  "en": "No Darfaries or Wozefaries blood at all — maybe from a remote bloodline, or somewhere stranger.",
+  "t": "다르파리에스나 워제파리에스의 피가 전혀 없다 — 외딴 혈통 출신일 수도, 더 이상한 곳에서 왔을 수도 있다."
+ },
+ "389064e4087e": {
+  "en": "Small, slight cousins of the Darfaries; most grew up in Flatland after the Goodbye Cliff.",
+  "t": "다르파리에스의 작고 가냘픈 사촌. 대부분 굿바이 절벽 이후 플랫랜드에서 자랐다."
+ },
+ "3e91d889b2ec": {
+  "en": "Reaching the level isn't enough. You also need a **promotion**: complete a promotion quest set by the embassy, or get recognized at the **Adventurer Feast** (Paulin 100th). Aquamarine needs fundamental schooling or passing a test (DC 13 Intelligence check, or a scene). Sapphire needs Adventurer School — Forway pays, but it takes half a year of in-world time (and Forway now considers you *theirs*).",
+  "t": "레벨에 도달하는 것만으로는 부족하다. **승급**도 필요하다: 대사관이 정한 승급 의뢰를 완수하거나, **모험가 연회**(파울린 100일째)에서 인정받아야 한다. 아쿠아마린은 기초 교육을 받았거나 시험을 통과해야 한다(DC 13 지능 판정, 또는 한 장면). 사파이어는 모험가 학교가 필요하다 — 포웨이가 비용을 대지만 세계 안의 시간으로 반년이 걸린다(그리고 포웨이는 이제 당신을 *자기 사람*으로 여긴다)."
+ },
+ "3f7638d309ec": {
+  "en": "**Druids and rangers:** hunters of Blood, Freeish Soil-Group farmers, Endlessfog Brunto-friends. Wild Shape is \"soul shaping\" (or you're just really good with nari gels).",
+  "t": "**드루이드와 레인저:** 블러드의 사냥꾼, 프리이시 흙의 무리 농부, 엔들리스포그의 브룬토스 친구. 야생 변신은 ‘영혼 빚기’다(아니면 그냥 나리 젤을 아주 잘 다루는 것이다)."
+ },
+ "424080a9a3ab": {
+  "en": "5. Money",
+  "t": "5. 돈"
+ },
+ "4a80f9ce1884": {
+  "en": "+ Aquamarine quests",
+  "t": "+ 아쿠아마린 의뢰"
+ },
+ "4b326aebb926": {
+  "en": "Tiny, joyful, child-minded flyers. Best as companions, but a DM can allow one for a chaotic game.",
+  "t": "작고 즐겁고 아이 같은 마음을 가진 비행 종족. 동료로 가장 잘 어울리지만, 혼돈스러운 게임이라면 DM이 허락할 수도 있다."
+ },
  "4d005acc69ee": {
   "en": "Cruro",
   "t": "크루로"
+ },
+ "4d5ca83b1226": {
+  "en": "**Fade.** Once per long rest, as an action, you turn invisible for 1 minute or until you attack or cast a spell.",
+  "t": "**사라지기.** 긴 휴식마다 한 번, 행동으로 1분 동안, 또는 공격하거나 주문을 시전할 때까지 투명해진다."
+ },
+ "4e26c3f806b4": {
+  "en": "Use the normal D&D 5e character creation rules (2014 or 2024), with the changes below. Characters start at **level 1** as **Pearl** adventurers, unless the DM says otherwise. Pre-generated level 3 adventurers are in [Adventurers](Adventurers).",
+  "t": "D&D 5판의 일반 캐릭터 생성 규칙(2014년판 또는 2024년판)을 쓰되, 아래와 같이 바꾼다. DM이 달리 정하지 않는 한 캐릭터는 **펄** 모험가로 **1레벨**에서 시작한다. 미리 만들어 둔 3레벨 모험가는 [모험가](Adventurers)에 있다."
+ },
+ "50df7a6f2daf": {
+  "en": "1 **Amethyst** (50 pearls)",
+  "t": "1 **애머시스트**(50 펄)"
+ },
+ "5243ee017081": {
+  "en": "**Size** Medium (2–2.5 m tall). **Speed** 30 ft.",
+  "t": "**크기** 중형(키 2–2.5 m). **이동속도** 30피트."
  },
  "5443e491030b": {
   "en": "Amethyst",
@@ -19,6 +151,22 @@
   "en": "**Pearl**",
   "t": "**펄**"
  },
+ "5636e5a4d0a0": {
+  "en": "**Size** Small or Medium (your choice). **Speed** 30 ft.",
+  "t": "**크기** 소형 또는 중형(선택). **이동속도** 30피트."
+ },
+ "56bfe1f78b57": {
+  "en": "Sorefaries (DM's permission)",
+  "t": "소레파리에스(DM 허락 필요)"
+ },
+ "5855aadd15f7": {
+  "en": "**Mute.** You can't speak. You understand Vraki and communicate by writing, drawing, gestures and grunts that other Cruros and Crocuses understand.",
+  "t": "**벙어리.** 말을 할 수 없다. 브라키어를 알아듣고, 글, 그림, 몸짓, 그리고 다른 크루로와 크로커스가 알아듣는 끙끙 소리로 소통한다."
+ },
+ "5b3ad092a670": {
+  "en": "Levels",
+  "t": "레벨"
+ },
  "5c7b10517158": {
   "en": "Pearl",
   "t": "펄"
@@ -27,28 +175,220 @@
   "en": "**Aquamarine**",
   "t": "**아쿠아마린**"
  },
+ "605286a2edda": {
+  "en": "**Heritage hint** (optional, pick one): *Darfaries blood* — proficiency in Athletics; or *Wozefaries blood* — proficiency in Acrobatics.",
+  "t": "**혈통 힌트**(선택, 하나 고르기): *다르파리에스의 피* — 운동 숙련. 또는 *워제파리에스의 피* — 곡예 숙련."
+ },
+ "630bf606147c": {
+  "en": "3. Pick a background",
+  "t": "3. 배경 고르기"
+ },
+ "690985909566": {
+  "en": "**Friendly Face.** Proficiency in Persuasion or Insight.",
+  "t": "**호감 가는 얼굴.** 설득 또는 통찰 숙련."
+ },
+ "6da6fcdbe94c": {
+  "en": "2. Pick a class",
+  "t": "2. 클래스 고르기"
+ },
+ "6f4a28c9d642": {
+  "en": "Your name is **NAME PLACE GUILD** (e.g., *Tosa Blood Red-Fang*). No surname — your guild is your family. No guild? Just name and place.",
+  "t": "이름은 **이름 장소 길드** 순이다(예: *토사 블러드 레드 팽*). 성은 없다 — 길드가 가족이다. 길드가 없다면? 이름과 장소만 쓴다."
+ },
+ "72241b2f45b5": {
+  "en": "4. Your badge, name and guild",
+  "t": "4. 신분패, 이름, 길드"
+ },
+ "75af01fd2d70": {
+  "en": "**Wizards, sorcerers, bards, artificers:** soul energy scientists and performers casting through interfaces.",
+  "t": "**위저드, 소서러, 바드, 아티피서:** 인터페이스로 시전하는 영혼 에너지 과학자와 공연가."
+ },
+ "78e5bcec9332": {
+  "en": "**Neutralizing Saliva** (as above).",
+  "t": "**중화 침**(위와 같음)."
+ },
+ "7c3b0cd16aaa": {
+  "en": "**Powerful Build.** You count as one size larger for carrying, pushing, dragging and lifting.",
+  "t": "**강인한 체격.** 운반하고, 밀고, 끌고, 들어 올릴 때 크기가 한 단계 큰 것으로 친다."
+ },
+ "7ec88623c72e": {
+  "en": "1 **Sapphire** (5,000 pearls)",
+  "t": "1 **사파이어**(5,000 펄)"
+ },
+ "80790f3d2aab": {
+  "en": "**Darfaries Veins.** You sense soul energy: you know when a spell is cast or a nari gel is used within 30 ft, and you can tell the weather coming in the next day (no check).",
+  "t": "**다르파리에스 혈관.** 영혼 에너지를 감지한다. 30피트 안에서 주문이 시전되거나 나리 젤이 쓰이면 알 수 있고, 다음 날 날씨도 알 수 있다(판정 없음)."
+ },
+ "81843314c8e8": {
+  "en": "Any 5e background works with a Vraki twist. Ideas: **Goodbye Cliff Survivor** (Wozefaries/Sorefaries raised in Flatland), **Guild Debtor**, **Blood Hunter**, **Sanbi Fisher**, **Toleridemian Brewer**, **Gandew Duelist**, **Freeish Villager** (Soil or Blood group), **Embassy Clerk**, **Runaway Courtesan**, **Contract Servant** (you sold your freedom and bought it back), **Ex-Bandit** (Beer Balls, Wood People…), **Half-Cruro Laborer**, **Soul Energy School Dropout**, **Lighthouse Keeper**.",
+  "t": "5판의 어떤 배경이든 브라키식으로 비틀면 쓸 수 있다. 아이디어: **굿바이 절벽 생존자**(플랫랜드에서 자란 워제파리에스/소레파리에스), **길드 채무자**, **블러드 사냥꾼**, **산비 어부**, **톨레리데메 양조업자**, **간듀 결투가**, **프리이시 마을 사람**(흙 또는 피의 무리), **대사관 직원**, **도망친 고급 매춘부**, **계약 노역자**(자유를 팔았다가 되샀다), **전직 산적**(비어 볼스, 우드 피플…), **하프 크루로 일꾼**, **영혼 에너지 학교 중퇴자**, **등대지기**."
+ },
+ "83c21c16ab6f": {
+  "en": "**Glide.** When you fall, you can descend at 60 ft per round and move up to 2 ft horizontally for every 1 ft you descend; you take no falling damage while gliding. You can't gain altitude.",
+  "t": "**활공.** 떨어질 때 라운드당 60피트씩 내려갈 수 있고, 1피트 내려갈 때마다 수평으로 최대 2피트 움직일 수 있다. 활공하는 동안에는 낙하 피해를 받지 않는다. 고도를 높일 수는 없다."
+ },
+ "869cfb5afd5d": {
+  "en": "**Darfaries Veins** (as above, 30 ft).",
+  "t": "**다르파리에스 혈관**(위와 같음, 30피트)."
+ },
+ "8904f8d1d44e": {
+  "en": "Saynas, Wingas, Bruntos, Sorefaries and the occasional Big Winga are classic adventurer companions. Use the stat blocks as beast companions/familiars where your class allows, or as hirelings.",
+  "t": "사이나, 윙가, 브룬토스, 소레파리에스, 그리고 가끔 빅 윙가는 모험가의 전형적인 동료다. 클래스가 허락하는 경우 짐승 동료나 사역마로, 아니면 고용인으로 수치를 쓴다."
+ },
  "8b82f852e2e7": {
   "en": "**Sapphire**",
   "t": "**사파이어**"
+ },
+ "8d3f443454d6": {
+  "en": "+ Sapphire and secret quests",
+  "t": "+ 사파이어와 비밀 의뢰"
+ },
+ "906864b2600f": {
+  "en": "**Short Fuse.** When you're drunk (DM's call), you have disadvantage on saves to resist being goaded into a fight.",
+  "t": "**짧은 도화선.** 취했을 때(DM 판단), 도발당해 싸움에 말려들지 않기 위한 내성 굴림에 불리점을 받는다."
  },
  "980e3c6878bd": {
   "en": "Darfaries",
   "t": "다르파리에스"
  },
+ "9bbce6745cda": {
+  "en": "**Starting money:** take your class's starting equipment plus **2d4 × 10 pearls**.",
+  "t": "**시작 자금:** 클래스의 시작 장비에 **2d4 × 10 펄**을 더한다."
+ },
+ "9f7c8c8415b7": {
+  "en": "**Hold Breath.** 15 minutes.",
+  "t": "**숨 참기.** 15분."
+ },
+ "a039ee591f53": {
+  "en": "**Neutralizing Saliva.** Once per long rest, as an action, lick a creature or object you touch to end one ongoing nari gel or spell effect of Tier/level 2 or lower on it.",
+  "t": "**중화 침.** 긴 휴식마다 한 번, 행동으로 손에 닿은 생물이나 물체를 핥아, 그것에 걸린 등급/레벨 2 이하의 지속 중인 나리 젤이나 주문 효과 하나를 끝낸다."
+ },
+ "a75bd8087902": {
+  "en": "Use the 5e **Human**.",
+  "t": "5판의 **인간**을 쓴다."
+ },
+ "a7fa92321920": {
+  "en": "Anything cheaper than a pearl (a bread bowl, a spoon of Basi) is \"a few crumbs\" — round it off.",
+  "t": "1 펄보다 싼 것(빵 그릇, 바시 한 숟갈)은 ‘부스러기 몇 개’ — 반올림해 버려라."
+ },
+ "aaafea041b1d": {
+  "en": "Pearl quests",
+  "t": "펄 의뢰"
+ },
+ "ad5a671c847e": {
+  "en": "Every character has **Soul Points (SP)** = **proficiency bonus + Constitution modifier** (minimum 1). See [Soul Energy, Interfaces & Sigil Rings](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md).",
+  "t": "모든 캐릭터는 **소울 포인트(SP)** = **숙련 보너스 + 건강 수정치**(최소 1)를 가진다. [영혼 에너지, 인터페이스, 시질 링](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md) 참고."
+ },
+ "adcd6b2aef13": {
+  "en": "Tolerideme names have 4 or 6 letters; Gandew names sound Chinese/Japanese and your place must be High-, Mid- or Low-Gandew; Sanbi names are unique and changeable; Freeish and Sanbi names often sound Brazilian.",
+  "t": "톨레리데메 이름은 4글자나 6글자다. 간듀 이름은 중국어나 일본어처럼 들리고, 장소는 하이 간듀, 미드 간듀, 로 간듀 중 하나여야 한다. 산비 이름은 하나뿐이고 바꿀 수 있다. 프리이시와 산비 이름은 브라질식으로 들리는 경우가 많다."
+ },
+ "b1495099a386": {
+  "en": "**Huge Soul.** Your maximum Soul Points increase by 2.",
+  "t": "**거대한 영혼.** 소울 포인트 최대치가 2 늘어난다."
+ },
+ "b551a9795fe8": {
+  "en": "Giant tusked people; most come from Gandew.",
+  "t": "엄니가 난 거인 같은 사람들. 대부분 간듀 출신이다."
+ },
+ "b6c0b6cfa819": {
+  "en": "1 **Aquamarine** (500 pearls)",
+  "t": "1 **아쿠아마린**(500 펄)"
+ },
+ "b9ba164f3f18": {
+  "en": "**Itchy Back.** You feel soul energy being used within 30 ft as an itch (you know it's happening, not where).",
+  "t": "**가려운 등.** 30피트 안에서 영혼 에너지가 쓰이면 가려움으로 느낀다(일어나고 있다는 것은 알지만 어디인지는 모른다)."
+ },
+ "be9edf60a23e": {
+  "en": "Use the 5e **Human** (any version your table uses).",
+  "t": "5판의 **인간**을 쓴다(테이블에서 쓰는 판이면 무엇이든)."
+ },
+ "bf25b878618a": {
+  "en": "**Cruro Interface.** You can't use sigil rings (no Darfaries blood), but your Fade and Itchy Back use soul energy.",
+  "t": "**크루로 인터페이스.** 시질 링은 쓸 수 없지만(다르파리에스의 피가 없다), 사라지기와 가려운 등은 영혼 에너지를 쓴다."
+ },
+ "c7b48369c89f": {
+  "en": "Prices in the PHB convert easily:",
+  "t": "플레이어즈 핸드북의 가격은 쉽게 바꿀 수 있다."
+ },
+ "c943a541f533": {
+  "en": "8. Soul Points",
+  "t": "8. 소울 포인트"
+ },
  "ca476635d4ad": {
   "en": "Rank",
   "t": "등급"
+ },
+ "ca57581358e7": {
+  "en": "**Sterile & Short-lived.** Flavor only: Sorefaries grow senile in their thirties.",
+  "t": "**불임과 짧은 수명.** 분위기용 설정: 소레파리에스는 서른 즈음에 노망이 든다."
+ },
+ "cdd56a55cf48": {
+  "en": "7. Ranks and levels",
+  "t": "7. 계급과 레벨"
+ },
+ "d38a47f1e082": {
+  "en": "**Tusks.** Natural weapon: 1d6 + Strength piercing.",
+  "t": "**엄니.** 자연 무기: 1d6 + 근력 관통."
  },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "볼"
  },
+ "deff37de3e6a": {
+  "en": "**Size** Small. **Speed** 25 ft, **fly** 30 ft (only in no armor or light armor).",
+  "t": "**크기** 소형. **이동속도** 25피트, **비행** 30피트(갑옷이 없거나 경갑일 때만)."
+ },
+ "dfd10725202c": {
+  "en": "5e equivalent",
+  "t": "5판 기준 값"
+ },
  "e4d3c29f8ecd": {
   "en": "Sapphire",
   "t": "사파이어"
  },
+ "e80624323479": {
+  "en": "**Deep Soul.** You regain **1 extra Soul Point** when you finish a long rest.",
+  "t": "**깊은 영혼.** 긴 휴식을 마치면 **소울 포인트를 1 더** 회복한다."
+ },
+ "ebfc70324602": {
+  "en": "**Darfaries Veins** (as above). **Darfaries Interface.**",
+  "t": "**다르파리에스 혈관**(위와 같음). **다르파리에스 인터페이스.**"
+ },
+ "ec3e6bec17fa": {
+  "en": "1 **Pearl**",
+  "t": "1 **펄**"
+ },
  "edb8957aad32": {
   "en": "Aquamarine",
   "t": "아쿠아마린"
+ },
+ "f330256022e7": {
+  "en": "**No Interface.** You can't use sigil rings or logograms. (Class spellcasting still works — see Soul Energy rules for why.)",
+  "t": "**인터페이스 없음.** 시질 링도 표어 문자도 쓸 수 없다. (클래스 주문 시전은 그대로 된다 — 이유는 영혼 에너지 규칙 참고.)"
+ },
+ "f4b689fbd2c0": {
+  "en": "**Soften the Fall.** Reaction when falling: take no damage from the first 30 ft of a fall.",
+  "t": "**낙하 완화.** 떨어질 때 반응행동: 낙하의 처음 30피트에 대해서는 피해를 받지 않는다."
+ },
+ "f5406531baab": {
+  "en": "+ Amethyst quests",
+  "t": "+ 애머시스트 의뢰"
+ },
+ "f88437cd83db": {
+  "en": "Vraki has no elves, dwarves, halflings or gnomes. Use these instead. Unless noted, use the standard **human** chassis for size, speed and languages (Vraki is the common tongue), then apply the traits below.",
+  "t": "브라키에는 엘프, 드워프, 하플링, 노움이 없다. 대신 아래 종족을 쓴다. 따로 적혀 있지 않으면 크기, 이동속도, 언어는 표준 **인간** 틀을 쓰고(브라키어가 공용어다), 그다음 아래 특성을 적용한다."
+ },
+ "f983967e2b59": {
+  "en": "10 Pearls",
+  "t": "10 펄"
+ },
+ "fba5ea5b64b1": {
+  "en": "**Size** Medium. **Speed** 30 ft, **swim** 30 ft.",
+  "t": "**크기** 중형. **이동속도** 30피트, **수영** 30피트."
+ },
+ "fc089e4a5df4": {
+  "en": "Crocodile-folk from the Cruro swamps who joined (or escaped to) society. You're only a citizen if you belong to the Half-Cruro guild.",
+  "t": "크루로 늪에서 사회로 들어온(또는 도망쳐 온) 악어족. 하프 크루로 길드에 속해야만 시민이 된다."
  }
 }

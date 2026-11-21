@@ -1,15 +1,147 @@
 {
+ "031c66013fe7": {
+  "en": "**Bite.** Natural weapon: 1d6 + Strength piercing.",
+  "t": "**Mordida.** Arma natural: 1d6 + Força perfurante."
+ },
  "05381bfcc598": {
   "en": "**Amethyst**",
   "t": "**Amethyst**"
+ },
+ "0c686d3e2c25": {
+  "en": "**Childlike Mind.** Disadvantage on Intelligence (Investigation) and Wisdom (Insight) checks. Your emotions run loud: the DM may call for a Wisdom save to stay calm when things get scary or exciting.",
+  "t": "**Mente infantil.** Desvantagem em testes de Inteligência (Investigação) e Sabedoria (Intuição). Suas emoções são barulhentas: o Mestre pode pedir um teste de resistência de Sabedoria para você manter a calma quando as coisas ficarem assustadoras ou empolgantes."
+ },
+ "0deae0d4ee50": {
+  "en": "Quest access",
+  "t": "Acesso a missões"
+ },
+ "0eba1d8bb37d": {
+  "en": "Everyone starts with an embassy **badge** (Pearl corners). It shows your Soul Points to you alone.",
+  "t": "Todo mundo começa com um **distintivo** da embaixada (com cantos de Pearl). Ele mostra seus Soul Points só para você."
+ },
+ "10603646ae85": {
+  "en": "Human (mixed blood) — the default",
+  "t": "Humano (sangue misturado) — o padrão"
+ },
+ "1255b84d73e6": {
+  "en": "6. Starting debt (recommended)",
+  "t": "6. Dívida inicial (recomendada)"
+ },
+ "127e12b2c400": {
+  "en": "Making an Adventurer",
+  "t": "Criando um aventureiro"
+ },
+ "158dd47ad88f": {
+  "en": "Companions instead of pets",
+  "t": "Companheiros em vez de bichos de estimação"
+ },
+ "1610b965f63b": {
+  "en": "Badge corners",
+  "t": "Cantos do distintivo"
+ },
+ "18b9355e72b5": {
+  "en": "Most adventurers owe someone for their gear. Roll 1d6:\n1–2: no debt (lucky you) · 3–4: **1 amethyst** owed to your guild · 5: **2 amethysts** owed to a private lender (who's not nice) · 6: **1 aquamarine** owed to an investor guild like the Cliff-Jumpers (they take 30% of your quest pay until it's paid).",
+  "t": "A maioria dos aventureiros deve o equipamento a alguém. Role 1d6:\n1–2: sem dívida (sortudo) · 3–4: **1 amethyst** devida à sua guilda · 5: **2 amethysts** devidas a um agiota particular (que não é legal) · 6: **1 aquamarine** devida a uma guilda investidora como os Cliff-Jumpers (eles ficam com 30% do pagamento das suas missões até quitar)."
+ },
+ "18f1d59acc99": {
+  "en": "**Rogues:** guild agents, Red Winga runaways, Ganyrami squatters.",
+  "t": "**Ladinos:** agentes de guilda, fugitivos da Red Winga, invasores de Ganyrami."
+ },
+ "1b989407b579": {
+  "en": "Every class works. Magic is reskinned as **soul energy science**:",
+  "t": "Toda classe funciona. A magia ganha nova roupagem como **ciência da energia da alma**:"
+ },
+ "1c7fc258f07d": {
+  "en": "Almost every human has a little Darfaries or Wozefaries blood.",
+  "t": "Quase todo humano tem um pouco de sangue darfaries ou wozefaries."
+ },
+ "1d44dac3a9bb": {
+  "en": "\"Pure\" human (rare)",
+  "t": "Humano «puro» (raro)"
+ },
+ "1dedf12ebbc2": {
+  "en": "**Warlocks:** your patron is a **contract** — signed in blood with a Black Sapphire, Red Winga's Madam, a Finaies watching from the north, Bahyum Castle itself, or something worse.",
+  "t": "**Bruxos:** seu patrono é um **contrato** — assinado com sangue com um Black Sapphire, com a Madame da Red Winga, com um finaies que vigia do norte, com o próprio Castelo de Bahyum ou com algo pior."
+ },
+ "218819577bda": {
+  "en": "Spell names are descriptive, not shouted. A fireball is an **Elemental Fire CREATE** at Tier III.",
+  "t": "Os nomes das magias são descritivos, não gritados. Uma bola de fogo é um **Elemental Fire CREATE** de Nível III."
+ },
+ "237813895fc4": {
+  "en": "**Darfaries Interface.**",
+  "t": "**Interface darfaries.**"
+ },
+ "275cb656a3ec": {
+  "en": "**Monks:** Gandew duelists, Tea-Drinkers brawlers.",
+  "t": "**Monges:** duelistas de Gandew, brigões dos Tea-Drinkers."
+ },
+ "28f3904d7476": {
+  "en": "**Scaly Hide.** Without armor, your AC is 13 + your Dexterity modifier.",
+  "t": "**Couro escamoso.** Sem armadura, sua AC é 13 + seu modificador de Destreza."
+ },
+ "2d51c88dd6eb": {
+  "en": "1. Pick your people",
+  "t": "1. Escolha seu povo"
+ },
+ "2df1de50ad75": {
+  "en": "**Darfaries Interface.** You can use sigil rings and drawn logograms (see Soul Energy rules).",
+  "t": "**Interface darfaries.** Você pode usar anéis de sigilo e logogramas desenhados (veja as regras de energia da alma)."
  },
  "2e59c978609a": {
   "en": "Wozefaries",
   "t": "Wozefaries"
  },
+ "32dbf3519281": {
+  "en": "**Clerics and paladins:** there are no gods. Make them **soul medics**, ancestor-revering duelists, oath-bound contract enforcers, or devotees of the sea, the Smart Ladies, the Tastyleaf tree or the Triangle. Their power is still soul energy.",
+  "t": "**Clérigos e paladinos:** não existem deuses. Faça deles **médicos da alma**, duelistas que veneram os ancestrais, executores de contratos presos a juramentos ou devotos do mar, das Smart Ladies, da árvore de Tastyleaf ou do Triângulo. O poder deles continua sendo energia da alma."
+ },
+ "35d1c0c26295": {
+  "en": "No Darfaries or Wozefaries blood at all — maybe from a remote bloodline, or somewhere stranger.",
+  "t": "Nenhum sangue darfaries ou wozefaries — talvez de uma linhagem remota, ou de algum lugar mais estranho."
+ },
+ "389064e4087e": {
+  "en": "Small, slight cousins of the Darfaries; most grew up in Flatland after the Goodbye Cliff.",
+  "t": "Primos pequenos e franzinos dos darfaries; a maioria cresceu em Flatland depois do Goodbye Cliff."
+ },
+ "3e91d889b2ec": {
+  "en": "Reaching the level isn't enough. You also need a **promotion**: complete a promotion quest set by the embassy, or get recognized at the **Adventurer Feast** (Paulin 100th). Aquamarine needs fundamental schooling or passing a test (DC 13 Intelligence check, or a scene). Sapphire needs Adventurer School — Forway pays, but it takes half a year of in-world time (and Forway now considers you *theirs*).",
+  "t": "Chegar ao nível não basta. Você também precisa de uma **promoção**: complete uma missão de promoção definida pela embaixada, ou seja reconhecido no **Banquete dos Aventureiros** (dia 100 de Paulin). Aquamarine exige ensino fundamental ou passar numa prova (teste de Inteligência DC 13, ou uma cena). Sapphire exige a Escola de Aventureiros — Forway paga, mas leva meio ano de tempo no mundo (e Forway passa a considerar você *dela*)."
+ },
+ "3f7638d309ec": {
+  "en": "**Druids and rangers:** hunters of Blood, Freeish Soil-Group farmers, Endlessfog Brunto-friends. Wild Shape is \"soul shaping\" (or you're just really good with nari gels).",
+  "t": "**Druidas e patrulheiros:** caçadores de Blood, lavradores do Grupo da Terra de Freeish, amigos dos Bruntos de Endlessfog. A Forma Selvagem é «modelagem da alma» (ou você só é muito bom com géis de nari)."
+ },
+ "424080a9a3ab": {
+  "en": "5. Money",
+  "t": "5. Dinheiro"
+ },
+ "4a80f9ce1884": {
+  "en": "+ Aquamarine quests",
+  "t": "+ missões Aquamarine"
+ },
+ "4b326aebb926": {
+  "en": "Tiny, joyful, child-minded flyers. Best as companions, but a DM can allow one for a chaotic game.",
+  "t": "Voadores minúsculos, alegres e de mente infantil. Funcionam melhor como companheiros, mas um Mestre pode permitir um num jogo caótico."
+ },
  "4d005acc69ee": {
   "en": "Cruro",
   "t": "Cruro"
+ },
+ "4d5ca83b1226": {
+  "en": "**Fade.** Once per long rest, as an action, you turn invisible for 1 minute or until you attack or cast a spell.",
+  "t": "**Sumir.** Uma vez por descanso longo, como ação, você fica invisível por 1 minuto ou até atacar ou conjurar uma magia."
+ },
+ "4e26c3f806b4": {
+  "en": "Use the normal D&D 5e character creation rules (2014 or 2024), with the changes below. Characters start at **level 1** as **Pearl** adventurers, unless the DM says otherwise. Pre-generated level 3 adventurers are in [Adventurers](Adventurers).",
+  "t": "Use as regras normais de criação de personagem de D&D 5e (2014 ou 2024), com as mudanças abaixo. Os personagens começam no **nível 1** como aventureiros **Pearl**, a menos que o Mestre diga outra coisa. Há aventureiros pré-gerados de nível 3 em [Aventureiros](Adventurers)."
+ },
+ "50df7a6f2daf": {
+  "en": "1 **Amethyst** (50 pearls)",
+  "t": "1 **Amethyst** (50 pearls)"
+ },
+ "5243ee017081": {
+  "en": "**Size** Medium (2–2.5 m tall). **Speed** 30 ft.",
+  "t": "**Tamanho** Médio (2–2,5 m de altura). **Deslocamento** 30 pés."
  },
  "5443e491030b": {
   "en": "Amethyst",
@@ -19,6 +151,22 @@
   "en": "**Pearl**",
   "t": "**Pearl**"
  },
+ "5636e5a4d0a0": {
+  "en": "**Size** Small or Medium (your choice). **Speed** 30 ft.",
+  "t": "**Tamanho** Pequeno ou Médio (à sua escolha). **Deslocamento** 30 pés."
+ },
+ "56bfe1f78b57": {
+  "en": "Sorefaries (DM's permission)",
+  "t": "Sorefaries (com permissão do Mestre)"
+ },
+ "5855aadd15f7": {
+  "en": "**Mute.** You can't speak. You understand Vraki and communicate by writing, drawing, gestures and grunts that other Cruros and Crocuses understand.",
+  "t": "**Mudo.** Você não consegue falar. Você entende vraki e se comunica escrevendo, desenhando, com gestos e com grunhidos que outros cruros e os Crocuses entendem."
+ },
+ "5b3ad092a670": {
+  "en": "Levels",
+  "t": "Níveis"
+ },
  "5c7b10517158": {
   "en": "Pearl",
   "t": "Pearl"
@@ -27,28 +175,220 @@
   "en": "**Aquamarine**",
   "t": "**Aquamarine**"
  },
+ "605286a2edda": {
+  "en": "**Heritage hint** (optional, pick one): *Darfaries blood* — proficiency in Athletics; or *Wozefaries blood* — proficiency in Acrobatics.",
+  "t": "**Pista de herança** (opcional, escolha uma): *sangue darfaries* — proficiência em Atletismo; ou *sangue wozefaries* — proficiência em Acrobacia."
+ },
+ "630bf606147c": {
+  "en": "3. Pick a background",
+  "t": "3. Escolha um antecedente"
+ },
+ "690985909566": {
+  "en": "**Friendly Face.** Proficiency in Persuasion or Insight.",
+  "t": "**Rosto amigável.** Proficiência em Persuasão ou Intuição."
+ },
+ "6da6fcdbe94c": {
+  "en": "2. Pick a class",
+  "t": "2. Escolha uma classe"
+ },
+ "6f4a28c9d642": {
+  "en": "Your name is **NAME PLACE GUILD** (e.g., *Tosa Blood Red-Fang*). No surname — your guild is your family. No guild? Just name and place.",
+  "t": "Seu nome é **NOME LUGAR GUILDA** (por exemplo, *Tosa Blood Red-Fang*). Não há sobrenome — sua guilda é sua família. Sem guilda? Só nome e lugar."
+ },
+ "72241b2f45b5": {
+  "en": "4. Your badge, name and guild",
+  "t": "4. Seu distintivo, nome e guilda"
+ },
+ "75af01fd2d70": {
+  "en": "**Wizards, sorcerers, bards, artificers:** soul energy scientists and performers casting through interfaces.",
+  "t": "**Magos, feiticeiros, bardos, artífices:** cientistas e artistas da energia da alma que conjuram por meio de interfaces."
+ },
+ "78e5bcec9332": {
+  "en": "**Neutralizing Saliva** (as above).",
+  "t": "**Saliva neutralizante** (como acima)."
+ },
+ "7c3b0cd16aaa": {
+  "en": "**Powerful Build.** You count as one size larger for carrying, pushing, dragging and lifting.",
+  "t": "**Constituição poderosa.** Você conta como uma categoria de tamanho maior para carregar, empurrar, arrastar e levantar."
+ },
+ "7ec88623c72e": {
+  "en": "1 **Sapphire** (5,000 pearls)",
+  "t": "1 **Sapphire** (5.000 pearls)"
+ },
+ "80790f3d2aab": {
+  "en": "**Darfaries Veins.** You sense soul energy: you know when a spell is cast or a nari gel is used within 30 ft, and you can tell the weather coming in the next day (no check).",
+  "t": "**Veias darfaries.** Você sente a energia da alma: sabe quando uma magia é conjurada ou um gel de nari é usado a até 30 pés, e consegue saber o tempo que vai fazer no dia seguinte (sem teste)."
+ },
+ "81843314c8e8": {
+  "en": "Any 5e background works with a Vraki twist. Ideas: **Goodbye Cliff Survivor** (Wozefaries/Sorefaries raised in Flatland), **Guild Debtor**, **Blood Hunter**, **Sanbi Fisher**, **Toleridemian Brewer**, **Gandew Duelist**, **Freeish Villager** (Soil or Blood group), **Embassy Clerk**, **Runaway Courtesan**, **Contract Servant** (you sold your freedom and bought it back), **Ex-Bandit** (Beer Balls, Wood People…), **Half-Cruro Laborer**, **Soul Energy School Dropout**, **Lighthouse Keeper**.",
+  "t": "Qualquer antecedente de 5e funciona com um toque vraki. Ideias: **Sobrevivente do Goodbye Cliff** (wozefaries/sorefaries criados em Flatland), **Devedor de guilda**, **Caçador de Blood**, **Pescador de Sanbi**, **Cervejeiro toleridemiano**, **Duelista de Gandew**, **Aldeão de Freeish** (do grupo da Terra ou do Sangue), **Escriturário de embaixada**, **Cortesã fugitiva**, **Servo por contrato** (você vendeu sua liberdade e comprou de volta), **Ex-bandido** (Beer Balls, Wood People…), **Trabalhador Half-Cruro**, **Desistente da escola de energia da alma**, **Faroleiro**."
+ },
+ "83c21c16ab6f": {
+  "en": "**Glide.** When you fall, you can descend at 60 ft per round and move up to 2 ft horizontally for every 1 ft you descend; you take no falling damage while gliding. You can't gain altitude.",
+  "t": "**Planar.** Quando você cai, pode descer a 60 pés por rodada e se mover até 2 pés na horizontal para cada 1 pé que descer; você não sofre dano de queda enquanto plana. Você não consegue ganhar altitude."
+ },
+ "869cfb5afd5d": {
+  "en": "**Darfaries Veins** (as above, 30 ft).",
+  "t": "**Veias darfaries** (como acima, 30 pés)."
+ },
+ "8904f8d1d44e": {
+  "en": "Saynas, Wingas, Bruntos, Sorefaries and the occasional Big Winga are classic adventurer companions. Use the stat blocks as beast companions/familiars where your class allows, or as hirelings.",
+  "t": "Saynas, Wingas, Bruntos, sorefaries e um ou outro Big Winga são companheiros clássicos de aventureiros. Use os blocos de estatísticas como companheiros animais/familiares onde sua classe permitir, ou como contratados."
+ },
  "8b82f852e2e7": {
   "en": "**Sapphire**",
   "t": "**Sapphire**"
+ },
+ "8d3f443454d6": {
+  "en": "+ Sapphire and secret quests",
+  "t": "+ missões Sapphire e secretas"
+ },
+ "906864b2600f": {
+  "en": "**Short Fuse.** When you're drunk (DM's call), you have disadvantage on saves to resist being goaded into a fight.",
+  "t": "**Pavio curto.** Quando você está bêbado (a critério do Mestre), tem desvantagem nos testes de resistência para não ser provocado a brigar."
  },
  "980e3c6878bd": {
   "en": "Darfaries",
   "t": "Darfaries"
  },
+ "9bbce6745cda": {
+  "en": "**Starting money:** take your class's starting equipment plus **2d4 × 10 pearls**.",
+  "t": "**Dinheiro inicial:** pegue o equipamento inicial da sua classe mais **2d4 × 10 pearls**."
+ },
+ "9f7c8c8415b7": {
+  "en": "**Hold Breath.** 15 minutes.",
+  "t": "**Prender a respiração.** 15 minutos."
+ },
+ "a039ee591f53": {
+  "en": "**Neutralizing Saliva.** Once per long rest, as an action, lick a creature or object you touch to end one ongoing nari gel or spell effect of Tier/level 2 or lower on it.",
+  "t": "**Saliva neutralizante.** Uma vez por descanso longo, como ação, lamba uma criatura ou objeto que você tocar para encerrar nele um efeito contínuo de gel de nari ou de magia de Nível/nível 2 ou menor."
+ },
+ "a75bd8087902": {
+  "en": "Use the 5e **Human**.",
+  "t": "Use o **Humano** de 5e."
+ },
+ "a7fa92321920": {
+  "en": "Anything cheaper than a pearl (a bread bowl, a spoon of Basi) is \"a few crumbs\" — round it off.",
+  "t": "Qualquer coisa mais barata que uma pearl (uma tigela de pão, uma colher de Basi) é «umas migalhas» — arredonde."
+ },
+ "aaafea041b1d": {
+  "en": "Pearl quests",
+  "t": "Missões Pearl"
+ },
+ "ad5a671c847e": {
+  "en": "Every character has **Soul Points (SP)** = **proficiency bonus + Constitution modifier** (minimum 1). See [Soul Energy, Interfaces & Sigil Rings](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md).",
+  "t": "Todo personagem tem **Soul Points (SP)** = **bônus de proficiência + modificador de Constituição** (mínimo 1). Veja [Energia da alma, interfaces e anéis de sigilo](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)."
+ },
+ "adcd6b2aef13": {
+  "en": "Tolerideme names have 4 or 6 letters; Gandew names sound Chinese/Japanese and your place must be High-, Mid- or Low-Gandew; Sanbi names are unique and changeable; Freeish and Sanbi names often sound Brazilian.",
+  "t": "Nomes de Tolerideme têm 4 ou 6 letras; nomes de Gandew soam chineses/japoneses e seu lugar deve ser High-, Mid- ou Low-Gandew; nomes de Sanbi são únicos e mudáveis; nomes de Freeish e de Sanbi costumam soar brasileiros."
+ },
+ "b1495099a386": {
+  "en": "**Huge Soul.** Your maximum Soul Points increase by 2.",
+  "t": "**Alma enorme.** Seus Soul Points máximos aumentam em 2."
+ },
+ "b551a9795fe8": {
+  "en": "Giant tusked people; most come from Gandew.",
+  "t": "Gente gigante com presas; a maioria vem de Gandew."
+ },
+ "b6c0b6cfa819": {
+  "en": "1 **Aquamarine** (500 pearls)",
+  "t": "1 **Aquamarine** (500 pearls)"
+ },
+ "b9ba164f3f18": {
+  "en": "**Itchy Back.** You feel soul energy being used within 30 ft as an itch (you know it's happening, not where).",
+  "t": "**Costas coçando.** Você sente como uma coceira a energia da alma sendo usada a até 30 pés (sabe que está acontecendo, não onde)."
+ },
+ "be9edf60a23e": {
+  "en": "Use the 5e **Human** (any version your table uses).",
+  "t": "Use o **Humano** de 5e (qualquer versão que sua mesa use)."
+ },
+ "bf25b878618a": {
+  "en": "**Cruro Interface.** You can't use sigil rings (no Darfaries blood), but your Fade and Itchy Back use soul energy.",
+  "t": "**Interface cruro.** Você não pode usar anéis de sigilo (não tem sangue darfaries), mas seus traços Sumir e Costas coçando usam energia da alma."
+ },
+ "c7b48369c89f": {
+  "en": "Prices in the PHB convert easily:",
+  "t": "Os preços do PHB se convertem com facilidade:"
+ },
+ "c943a541f533": {
+  "en": "8. Soul Points",
+  "t": "8. Soul Points"
+ },
  "ca476635d4ad": {
   "en": "Rank",
   "t": "Rank"
+ },
+ "ca57581358e7": {
+  "en": "**Sterile & Short-lived.** Flavor only: Sorefaries grow senile in their thirties.",
+  "t": "**Estéreis e de vida curta.** Só ambientação: os sorefaries ficam senis por volta dos trinta."
+ },
+ "cdd56a55cf48": {
+  "en": "7. Ranks and levels",
+  "t": "7. Patentes e níveis"
+ },
+ "d38a47f1e082": {
+  "en": "**Tusks.** Natural weapon: 1d6 + Strength piercing.",
+  "t": "**Presas.** Arma natural: 1d6 + Força perfurante."
  },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "Bola"
  },
+ "deff37de3e6a": {
+  "en": "**Size** Small. **Speed** 25 ft, **fly** 30 ft (only in no armor or light armor).",
+  "t": "**Tamanho** Pequeno. **Deslocamento** 25 pés, **voo** 30 pés (só sem armadura ou com armadura leve)."
+ },
+ "dfd10725202c": {
+  "en": "5e equivalent",
+  "t": "Equivalente em 5e"
+ },
  "e4d3c29f8ecd": {
   "en": "Sapphire",
   "t": "Sapphire"
  },
+ "e80624323479": {
+  "en": "**Deep Soul.** You regain **1 extra Soul Point** when you finish a long rest.",
+  "t": "**Alma profunda.** Você recupera **1 Soul Point extra** quando termina um descanso longo."
+ },
+ "ebfc70324602": {
+  "en": "**Darfaries Veins** (as above). **Darfaries Interface.**",
+  "t": "**Veias darfaries** (como acima). **Interface darfaries.**"
+ },
+ "ec3e6bec17fa": {
+  "en": "1 **Pearl**",
+  "t": "1 **Pearl**"
+ },
  "edb8957aad32": {
   "en": "Aquamarine",
   "t": "Aquamarine"
+ },
+ "f330256022e7": {
+  "en": "**No Interface.** You can't use sigil rings or logograms. (Class spellcasting still works — see Soul Energy rules for why.)",
+  "t": "**Sem interface.** Você não pode usar anéis de sigilo nem logogramas. (A conjuração de classe continua funcionando — veja as regras de energia da alma para entender por quê.)"
+ },
+ "f4b689fbd2c0": {
+  "en": "**Soften the Fall.** Reaction when falling: take no damage from the first 30 ft of a fall.",
+  "t": "**Amortecer a queda.** Reação ao cair: você não sofre dano pelos primeiros 30 pés de uma queda."
+ },
+ "f5406531baab": {
+  "en": "+ Amethyst quests",
+  "t": "+ missões Amethyst"
+ },
+ "f88437cd83db": {
+  "en": "Vraki has no elves, dwarves, halflings or gnomes. Use these instead. Unless noted, use the standard **human** chassis for size, speed and languages (Vraki is the common tongue), then apply the traits below.",
+  "t": "Vraki não tem elfos, anões, halflings nem gnomos. Use estes no lugar. Salvo indicação em contrário, use a base padrão de **humano** para tamanho, deslocamento e idiomas (o vraki é a língua comum) e depois aplique os traços abaixo."
+ },
+ "f983967e2b59": {
+  "en": "10 Pearls",
+  "t": "10 Pearls"
+ },
+ "fba5ea5b64b1": {
+  "en": "**Size** Medium. **Speed** 30 ft, **swim** 30 ft.",
+  "t": "**Tamanho** Médio. **Deslocamento** 30 pés, **natação** 30 pés."
+ },
+ "fc089e4a5df4": {
+  "en": "Crocodile-folk from the Cruro swamps who joined (or escaped to) society. You're only a citizen if you belong to the Half-Cruro guild.",
+  "t": "Gente-crocodilo dos pântanos cruros que entrou para a sociedade (ou fugiu para ela). Você só é cidadão se pertencer à guilda Half-Cruro."
  }
 }
