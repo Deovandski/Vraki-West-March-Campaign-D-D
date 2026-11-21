@@ -1,0 +1,70 @@
+{
+ "20bfe7cb2366": {
+  "en": "**Curious Cook.** During a short rest, cooks a meal that grants each eater 1d4+1 temporary HP.",
+  "t": "**طبّاخ فضولي.** أثناء استراحة قصيرة، يطبخ وجبة تمنح كل من يأكلها 1d4+1 نقاط حياة مؤقتة."
+ },
+ "25e4ce1f93c4": {
+  "en": "**Heart Pulse (Recharge 6, or spend 1 SP).** 10-ft cone, 2d6 thunder, DC 11 Con save for half.",
+  "t": "**نبضة القلب (إعادة شحن 6، أو أنفق 1 SP).** مخروط 10 أقدام، 2d6 رعد، إنقاذ بنية DC 11 للنصف."
+ },
+ "26776897960f": {
+  "en": "**People:** \"Pure\" human with a Bagarisa-touched soul · **Class:** Soul-Touched (homebrew Ranger/Monk hybrid) · **Background:** Isekai Stranger · **Alignment:** Neutral Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 3 (+1 extra on each long rest: Deep Soul)",
+  "t": "**الشعب:** بشري «نقي» بروح مسّها باغاريسا · **الفئة:** الممسوس بالروح (هجين منزلي بين الجوّال والراهب) · **الخلفية:** الغريب القادم من عالم آخر · **التوجه:** محايد خيّر · **الرتبة:** بيرل\n**الواجهة:** لا شيء (لا يستطيع استخدام خواتم سيجيل) · **نقاط الروح:** 3 (+1 إضافية في كل استراحة طويلة: روح عميقة)"
+ },
+ "395995bc9ea2": {
+  "en": "**Improvised Weapon.** +4 to hit, 1d8+2.",
+  "t": "**سلاح مرتجل.** +4 للإصابة، 1d8+2."
+ },
+ "4004100fd78f": {
+  "en": "Harry Sanbi — Level 3 Soul-Touched Wanderer",
+  "t": "هاري سانبي — هائم ممسوس بالروح من المستوى 3"
+ },
+ "45b24362989f": {
+  "en": "**Bagarisa Soul Battery.** Regains 1 extra Soul Point per long rest (stacks with Deep Soul).",
+  "t": "**بطارية روح الباغاريسا.** يستعيد نقطة روح إضافية واحدة في كل استراحة طويلة (تتراكم مع روح عميقة)."
+ },
+ "4ca4b8f2059a": {
+  "en": "**Claustrophobic.** In tight spaces, DC 10 Wis save or frightened for 1 round.",
+  "t": "**رهاب الأماكن المغلقة.** في الأماكن الضيقة، إنقاذ حكمة DC 10 أو خائف لجولة واحدة."
+ },
+ "7eaf8a43b457": {
+  "en": "**Soul Push (1 SP).** Shove a creature 5 ft without a check.",
+  "t": "**دفعة الروح (1 SP).** يدفع مخلوقًا 5 أقدام دون اختبار."
+ },
+ "8012ba2eebc1": {
+  "en": "**AC** 13 · **HP** 24 · **Speed** 30 ft\n**STR** 12 · **DEX** 14 · **CON** 13 · **INT** 10 · **WIS** 11 · **CHA** 15",
+  "t": "**AC** 13 · **HP** 24 · **السرعة** 30 قدمًا\n**القوة** 12 · **البراعة** 14 · **البنية** 13 · **الذكاء** 10 · **الحكمة** 11 · **الكاريزما** 15"
+ },
+ "8ac1f3297aeb": {
+  "en": "Soul-Energy Abilities (spend SP)",
+  "t": "قدرات طاقة الروح (تُنفق SP)"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "السمات والخصال"
+ },
+ "a93ec4c46638": {
+  "en": "**Adaptable Heart.** Advantage on one death save per long rest.",
+  "t": "**قلب متكيّف.** أفضلية على رمية إنقاذ واحدة من الموت في كل استراحة طويلة."
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "الأفعال"
+ },
+ "b40e82229cb7": {
+  "en": "**Soul Flicker (1 SP).** Bonus action: +10 ft movement this turn.",
+  "t": "**ومضة الروح (1 SP).** فعل إضافي: +10 أقدام للحركة في هذا الدور."
+ },
+ "c0e568ead7b3": {
+  "en": "**Skills:** Persuasion +4, Insight +3, Survival +2, Perception +2\n**Equipment:** Traveler's clothes, cooking kit, simple blade, notebook of fragmented memories, badge, 20 pearls.\n**Hook:** Nobody believes where he says he's from. Sometimes he isn't sure either.",
+  "t": "**المهارات:** الإقناع +4، البصيرة +3، النجاة +2، الإدراك +2\n**العتاد:** ملابس مسافر، عدة طبخ، نصل بسيط، دفتر ذكريات مبعثرة، بطاقة، 20 بيرل.\n**الخيط:** لا أحد يصدّق المكان الذي يقول إنه جاء منه. وأحيانًا لا يكون هو نفسه متأكدًا."
+ },
+ "c655dbca8880": {
+  "en": "**Confused Memories.** Disadvantage on History checks about Vraki.",
+  "t": "**ذكريات مشوشة.** عيب على اختبارات التاريخ المتعلقة بفراكي."
+ },
+ "cbff27fce4eb": {
+  "en": "**Unarmed Strike.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**ضربة بلا سلاح.** +4 للإصابة، 1d6+2 راض."
+ }
+}

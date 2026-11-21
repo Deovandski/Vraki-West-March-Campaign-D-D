@@ -1,0 +1,66 @@
+{
+ "0799799a2389": {
+  "en": "**Hunter's Instinct.** Advantage on Survival checks to track.",
+  "t": "**狩人の本能。** 追跡のための〈生存〉判定に有利。"
+ },
+ "0d4be79289dd": {
+  "en": "**Spell Save DC** 13 · **Slots** 3 (1st level)\n*Hunter's Mark, Absorb Elements, Goodberry*",
+  "t": "**呪文セーヴDC** 13 · **スロット** 3（1レベル）\n*《ハンターズ・マーク》、《アブソーブ・エレメンツ》、《グッドベリー》*"
+ },
+ "2970532bc9ce": {
+  "en": "**Skills:** Stealth +6, Survival +5, Perception +5, Investigation +4, Acrobatics +5\n**Equipment:** Bow, 20 arrows, traps, camouflage cloth, pink blanket, fruit snacks, a Time Quicken jar (for staying awake), badge.\n**Hook:** Her Sapphire father vanished. Everyone says Hifuna. She doesn't buy it.",
+  "t": "**技能：** 〈隠密〉+6、〈生存〉+5、〈知覚〉+5、〈捜査〉+4、〈軽業〉+5\n**装備：** 弓、矢20本、罠、迷彩布、ピンクの毛布、果物のおやつ、タイム・クイックンの瓶（起きているため）、身分証。\n**フック：** サファイアだった父が消えた。誰もがヒフナだと言う。彼女は信じていない。"
+ },
+ "377a44bb780f": {
+  "en": "**People:** Human (strong Wozefaries blood) · **Class:** Ranger · **Background:** Guild Debtor · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**種族：** 人間（ウォゼファリエスの血が濃い） · **クラス：** レンジャー · **背景：** ギルドの債務者 · **属性：** 秩序にして中立 · **階級：** パール\n**インターフェース：** ダルファリエス · **ソウルポイント：** 3"
+ },
+ "506d37f39fd0": {
+  "en": "**Wozefaries Blood.** Proficiency in Acrobatics; resistance to cold damage.",
+  "t": "**ウォゼファリエスの血。** 〈軽業〉に習熟。冷気ダメージに抵抗。"
+ },
+ "55182f9ffc65": {
+  "en": "**Shortsword.** +5 to hit, 1d6+3 slashing.",
+  "t": "**ショートソード。** 命中+5、1d6+3の斬撃。"
+ },
+ "5759bf904467": {
+  "en": "**Snare Trap (Recharge 6).** DC 12 Dex save or restrained.",
+  "t": "**くくり罠（再チャージ6）。** DC 12の【敏捷力】セーヴに失敗すると拘束状態。"
+ },
+ "6319c481caca": {
+  "en": "**Narcolepsy.** When rolling initiative, roll a d6. On a 1, Magi starts the fight asleep until an ally uses an action to wake her (or she takes damage).",
+  "t": "**ナルコレプシー。** イニシアチブをロールするとき、d6も振る。1が出たら、マギは味方がアクションを使って起こすまで（あるいはダメージを受けるまで）眠ったまま戦闘を始める。"
+ },
+ "66383d9492a8": {
+  "en": "**AC** 14 · **HP** 26 · **Speed** 30 ft\n**STR** 10 · **DEX** 16 · **CON** 12 · **INT** 14 · **WIS** 15 · **CHA** 11",
+  "t": "**AC** 14 · **HP** 26 · **移動速度** 30フィート\n**【筋】** 10 · **【敏】** 16 · **【耐】** 12 · **【知】** 14 · **【判】** 15 · **【魅】** 11"
+ },
+ "734fd96cf087": {
+  "en": "**Longbow.** +6 to hit, 1d8+3 piercing.",
+  "t": "**ロングボウ。** 命中+6、1d8+3の刺突。"
+ },
+ "76f4f0dcb060": {
+  "en": "Spellcasting (Ranger)",
+  "t": "呪文発動（レンジャー）"
+ },
+ "a238253474af": {
+  "en": "**Guild Debt.** Her family guild owes money; half her personal loot goes home to Blood.",
+  "t": "**ギルドの借金。** 実家のギルドが借金を抱えており、個人の戦利品の半分はブラッドの実家に送られる。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特徴と特性"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "アクション"
+ },
+ "c13be0b59acd": {
+  "en": "Magi Blood Blue-Flower-Red-Bone — Level 3 Ranger",
+  "t": "マギ・ブラッド・ブルー・フラワー・レッド・ボーン — レベル3のレンジャー"
+ },
+ "d67e3f84e77f": {
+  "en": "**Distrustful.** Disadvantage on Persuasion checks with strangers.",
+  "t": "**疑り深い。** 見知らぬ相手への〈説得〉判定に不利。"
+ }
+}

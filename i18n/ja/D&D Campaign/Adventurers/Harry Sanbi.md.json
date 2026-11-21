@@ -1,0 +1,70 @@
+{
+ "20bfe7cb2366": {
+  "en": "**Curious Cook.** During a short rest, cooks a meal that grants each eater 1d4+1 temporary HP.",
+  "t": "**好奇心旺盛な料理人。** 小休憩の間に料理を作り、食べた者それぞれに一時的ヒット・ポイントを1d4+1与える。"
+ },
+ "25e4ce1f93c4": {
+  "en": "**Heart Pulse (Recharge 6, or spend 1 SP).** 10-ft cone, 2d6 thunder, DC 11 Con save for half.",
+  "t": "**心臓の脈動（再チャージ6、またはSPを1消費）。** 10フィートの円錐、2d6の雷鳴、DC 11の【耐久力】セーヴで半減。"
+ },
+ "26776897960f": {
+  "en": "**People:** \"Pure\" human with a Bagarisa-touched soul · **Class:** Soul-Touched (homebrew Ranger/Monk hybrid) · **Background:** Isekai Stranger · **Alignment:** Neutral Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 3 (+1 extra on each long rest: Deep Soul)",
+  "t": "**種族：** バガリサに触れた魂を持つ「純粋な」人間 · **クラス：** 魂に触れし者（ハウスルールのレンジャー／モンクの混成） · **背景：** 異世界からの来訪者 · **属性：** 中立にして善 · **階級：** パール\n**インターフェース：** なし（シジルリングを使えない） · **ソウルポイント：** 3（大休憩ごとに追加で+1：深い魂）"
+ },
+ "395995bc9ea2": {
+  "en": "**Improvised Weapon.** +4 to hit, 1d8+2.",
+  "t": "**即席武器。** 命中+4、1d8+2。"
+ },
+ "4004100fd78f": {
+  "en": "Harry Sanbi — Level 3 Soul-Touched Wanderer",
+  "t": "ハリー・サンビ — レベル3の魂に触れし放浪者"
+ },
+ "45b24362989f": {
+  "en": "**Bagarisa Soul Battery.** Regains 1 extra Soul Point per long rest (stacks with Deep Soul).",
+  "t": "**バガリサの魂の電池。** 大休憩ごとにソウルポイントを追加で1回復する（深い魂と重複する）。"
+ },
+ "4ca4b8f2059a": {
+  "en": "**Claustrophobic.** In tight spaces, DC 10 Wis save or frightened for 1 round.",
+  "t": "**閉所恐怖症。** 狭い場所では、DC 10の【判断力】セーヴに失敗すると1ラウンド恐怖状態。"
+ },
+ "7eaf8a43b457": {
+  "en": "**Soul Push (1 SP).** Shove a creature 5 ft without a check.",
+  "t": "**魂の押し（1 SP）。** 判定なしでクリーチャー1体を5フィート押しやる。"
+ },
+ "8012ba2eebc1": {
+  "en": "**AC** 13 · **HP** 24 · **Speed** 30 ft\n**STR** 12 · **DEX** 14 · **CON** 13 · **INT** 10 · **WIS** 11 · **CHA** 15",
+  "t": "**AC** 13 · **HP** 24 · **移動速度** 30フィート\n**【筋】** 12 · **【敏】** 14 · **【耐】** 13 · **【知】** 10 · **【判】** 11 · **【魅】** 15"
+ },
+ "8ac1f3297aeb": {
+  "en": "Soul-Energy Abilities (spend SP)",
+  "t": "魂のエネルギーの能力（SPを消費）"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特徴と特性"
+ },
+ "a93ec4c46638": {
+  "en": "**Adaptable Heart.** Advantage on one death save per long rest.",
+  "t": "**順応する心臓。** 大休憩ごとに1回、死亡セーヴに有利。"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "アクション"
+ },
+ "b40e82229cb7": {
+  "en": "**Soul Flicker (1 SP).** Bonus action: +10 ft movement this turn.",
+  "t": "**魂の明滅（1 SP）。** ボーナス・アクション：このターンの移動+10フィート。"
+ },
+ "c0e568ead7b3": {
+  "en": "**Skills:** Persuasion +4, Insight +3, Survival +2, Perception +2\n**Equipment:** Traveler's clothes, cooking kit, simple blade, notebook of fragmented memories, badge, 20 pearls.\n**Hook:** Nobody believes where he says he's from. Sometimes he isn't sure either.",
+  "t": "**技能：** 〈説得〉+4、〈看破〉+3、〈生存〉+2、〈知覚〉+2\n**装備：** 旅人の服、調理道具、簡素な刃物、断片的な記憶を書いた手帳、身分証、パール20枚。\n**フック：** 彼の言う出身地を誰も信じない。本人もときどき自信がなくなる。"
+ },
+ "c655dbca8880": {
+  "en": "**Confused Memories.** Disadvantage on History checks about Vraki.",
+  "t": "**混乱した記憶。** ヴラキに関する〈歴史〉判定に不利。"
+ },
+ "cbff27fce4eb": {
+  "en": "**Unarmed Strike.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**素手打撃。** 命中+4、1d6+2の殴打。"
+ }
+}

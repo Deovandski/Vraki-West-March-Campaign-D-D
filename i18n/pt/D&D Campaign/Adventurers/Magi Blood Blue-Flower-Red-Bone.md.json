@@ -1,0 +1,66 @@
+{
+ "0799799a2389": {
+  "en": "**Hunter's Instinct.** Advantage on Survival checks to track.",
+  "t": "**Instinto de Caçadora.** Vantagem em testes de Sobrevivência para rastrear."
+ },
+ "0d4be79289dd": {
+  "en": "**Spell Save DC** 13 · **Slots** 3 (1st level)\n*Hunter's Mark, Absorb Elements, Goodberry*",
+  "t": "**DC de resistência de magia** 13 · **Espaços** 3 (1º círculo)\n*Marca do caçador, absorver elementos, bom fruto*"
+ },
+ "2970532bc9ce": {
+  "en": "**Skills:** Stealth +6, Survival +5, Perception +5, Investigation +4, Acrobatics +5\n**Equipment:** Bow, 20 arrows, traps, camouflage cloth, pink blanket, fruit snacks, a Time Quicken jar (for staying awake), badge.\n**Hook:** Her Sapphire father vanished. Everyone says Hifuna. She doesn't buy it.",
+  "t": "**Perícias:** Furtividade +6, Sobrevivência +5, Percepção +5, Investigação +4, Acrobacia +5\n**Equipamento:** arco, 20 flechas, armadilhas, pano de camuflagem, cobertor rosa, lanchinhos de fruta, um pote de Time Quicken (para ficar acordada), distintivo.\n**Gancho:** O pai dela, um Sapphire, sumiu. Todo mundo diz que foi em Hifuna. Ela não acredita."
+ },
+ "377a44bb780f": {
+  "en": "**People:** Human (strong Wozefaries blood) · **Class:** Ranger · **Background:** Guild Debtor · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**Povo:** humana (sangue wozefaries forte) · **Classe:** patrulheira · **Antecedente:** Devedora da guilda · **Tendência:** Leal e Neutro · **Patente:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3"
+ },
+ "506d37f39fd0": {
+  "en": "**Wozefaries Blood.** Proficiency in Acrobatics; resistance to cold damage.",
+  "t": "**Sangue Wozefaries.** Proficiência em Acrobacia; resistência a dano de frio."
+ },
+ "55182f9ffc65": {
+  "en": "**Shortsword.** +5 to hit, 1d6+3 slashing.",
+  "t": "**Espada Curta.** +5 para acertar, 1d6+3 cortante."
+ },
+ "5759bf904467": {
+  "en": "**Snare Trap (Recharge 6).** DC 12 Dex save or restrained.",
+  "t": "**Armadilha de Laço (Recarga 6).** Teste de resistência de Des DC 12 ou impedido."
+ },
+ "6319c481caca": {
+  "en": "**Narcolepsy.** When rolling initiative, roll a d6. On a 1, Magi starts the fight asleep until an ally uses an action to wake her (or she takes damage).",
+  "t": "**Narcolepsia.** Ao rolar iniciativa, role um d6. Num 1, Magi começa a luta dormindo até um aliado usar uma ação para acordá-la (ou ela sofrer dano)."
+ },
+ "66383d9492a8": {
+  "en": "**AC** 14 · **HP** 26 · **Speed** 30 ft\n**STR** 10 · **DEX** 16 · **CON** 12 · **INT** 14 · **WIS** 15 · **CHA** 11",
+  "t": "**AC** 14 · **HP** 26 · **Deslocamento** 30 pés\n**FOR** 10 · **DES** 16 · **CON** 12 · **INT** 14 · **SAB** 15 · **CAR** 11"
+ },
+ "734fd96cf087": {
+  "en": "**Longbow.** +6 to hit, 1d8+3 piercing.",
+  "t": "**Arco Longo.** +6 para acertar, 1d8+3 perfurante."
+ },
+ "76f4f0dcb060": {
+  "en": "Spellcasting (Ranger)",
+  "t": "Conjuração (patrulheira)"
+ },
+ "a238253474af": {
+  "en": "**Guild Debt.** Her family guild owes money; half her personal loot goes home to Blood.",
+  "t": "**Dívida da Guilda.** A guilda da família dela deve dinheiro; metade do saque pessoal dela vai para casa, em Blood."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "Características e traços"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "Ações"
+ },
+ "c13be0b59acd": {
+  "en": "Magi Blood Blue-Flower-Red-Bone — Level 3 Ranger",
+  "t": "Magi Blood Blue-Flower-Red-Bone — Patrulheira de nível 3"
+ },
+ "d67e3f84e77f": {
+  "en": "**Distrustful.** Disadvantage on Persuasion checks with strangers.",
+  "t": "**Desconfiada.** Desvantagem em testes de Persuasão com estranhos."
+ }
+}

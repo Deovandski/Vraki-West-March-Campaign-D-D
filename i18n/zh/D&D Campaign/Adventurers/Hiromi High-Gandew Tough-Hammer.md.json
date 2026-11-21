@@ -1,0 +1,78 @@
+{
+ "108c02d3ae08": {
+  "en": "**Improved Critical.** Crits on 19–20.",
+  "t": "**强化重击。** 掷出19–20即为重击。"
+ },
+ "37a880c1b1e8": {
+  "en": "**Storyteller.** Every story stars Hiromi. Advantage on Performance checks to tell a tale in a tavern; disadvantage on Stealth when he's talking (he's always talking).",
+  "t": "**讲故事的人。** 每个故事的主角都是弘美。在酒馆讲故事的表演检定具有优势；他说话时隐匿具有劣势（他总在说话）。"
+ },
+ "3d4153400378": {
+  "en": "**Second Wind.** Bonus action: regain 1d10+3 HP (1/short rest).",
+  "t": "**回气。** 附赠动作：恢复1d10+3点HP（每次短休1次）。"
+ },
+ "4139492966c2": {
+  "en": "**Tusks.** +5 to hit, 1d6+3 piercing.",
+  "t": "**獠牙。** 命中+5，1d6+3穿刺。"
+ },
+ "430d4a3e1739": {
+  "en": "**Action Surge.** One extra action (1/short rest).",
+  "t": "**动作如潮。** 额外一个动作（每次短休1次）。"
+ },
+ "735f488f53ec": {
+  "en": "**Flies Off the Handle.** If someone insults something he holds dear (Yacamim, Gandew, booze), DC 12 Wis save or he picks a fight.",
+  "t": "**一点就炸。** 如果有人侮辱他珍视的东西（娅卡敏、甘杜、酒），进行DC 12感知豁免，失败则挑起打斗。"
+ },
+ "754970f1d473": {
+  "en": "**AC** 16 (chitin scale) · **HP** 31 · **Speed** 30 ft\n**STR** 17 · **DEX** 12 · **CON** 16 · **INT** 10 · **WIS** 11 · **CHA** 14",
+  "t": "**AC** 16（甲壳鳞甲） · **HP** 31 · **速度** 30尺\n**力量** 17 · **敏捷** 12 · **体质** 16 · **智力** 10 · **感知** 11 · **魅力** 14"
+ },
+ "7d514fe0e6d4": {
+  "en": "**Gandew Duelist.** Knows the Duel Rights by heart; advantage on checks to start, referee or end a Gandew-style duel.",
+  "t": "**甘杜决斗者。** 能背出决斗权；发起、裁判或结束甘杜式决斗的检定具有优势。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特性与特质"
+ },
+ "aa79d07c4c28": {
+  "en": "**People:** Darfaries · **Class:** Fighter (Champion) · **Background:** Royal Runaway (First Prince of Gandew) · **Alignment:** Chaotic Good · **Rank:** Pearl (he never bothered to get promoted)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**种族：** 达尔法里斯 · **职业：** 战士（勇士） · **背景：** 离家出走的王子（甘杜第一王子） · **阵营：** 混乱善良 · **级别：** 珀尔（他从来懒得去晋级）\n**界面：** 达尔法里斯 · **灵魂点数：** 5"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "动作"
+ },
+ "bda26062d511": {
+  "en": "**Change from the original Alpha sheet:** it made Hiromi a human interrogator rogue — those traits actually belong to Takeo (see *Takeo Forway Tea-Drinkers*). This sheet matches the lore: a 232 cm Darfaries prince who'd rather drink and wander.",
+  "t": "**相对原版阿尔法角色卡的改动：** 原卡把弘美做成了一个人类审讯者游荡者——那些特质其实属于武雄（见*武雄·福威·蒂德林克斯*）。这张卡与设定一致：一位身高232厘米、更喜欢喝酒和四处游荡的达尔法里斯王子。"
+ },
+ "bdae4d2fd0cf": {
+  "en": "Fighter Features",
+  "t": "战士特性"
+ },
+ "c828aacb0ce2": {
+  "en": "**Belly Shake Shove.** Shove a creature 10 ft instead of 5 (Mountain Greeting gone wrong).",
+  "t": "**甩肚推撞。** 把一个生物推开10尺而不是5尺（一次搞砸了的山岳问候）。"
+ },
+ "cf078d270fbf": {
+  "en": "**Skills:** Athletics +5, Intimidation +4, Performance +4, Survival +2\n**Equipment:** Maul (his mother forged it), chitin scale armor, a quaich bowl, three bottles of something strong, picture book of the sea, badge (High-Gandew).\n**Hook:** Engaged to a Sanbi princess he beat in a bar brawl. Neither of them wants the crown.",
+  "t": "**技能：** 运动+5、威吓+4、表演+4、求生+2\n**装备：** 巨锤（他母亲锻造的）、甲壳鳞甲、一只夸奇碗、三瓶烈性的东西、海洋图画书、身份牌（海甘杜）。\n**剧情钩子：** 和一位在酒吧斗殴中被他打败的桑比公主订了婚。两人都不想要王冠。"
+ },
+ "d962e3e67d18": {
+  "en": "**Darfaries.** Powerful Build, Tusks (1d6+3 piercing), Darfaries Veins (senses spells and weather within 30 ft), Soften the Fall (30 ft), Neutralizing Saliva (1/long rest).",
+  "t": "**达尔法里斯。** 强健体格、獠牙（1d6+3穿刺）、达尔法里斯血管（感知30尺内的法术和天气）、缓冲坠落（30尺）、中和唾液（每次长休1次）。"
+ },
+ "f32d6944e118": {
+  "en": "**Round's on Me.** Spend 10 pearls in a tavern: advantage on Charisma checks there for the evening.",
+  "t": "**这轮我请。** 在酒馆花10枚珀尔：当晚在那里的魅力检定具有优势。"
+ },
+ "f3ce270dd1da": {
+  "en": "**Maul.** +5 to hit, 2d6+3 bludgeoning.",
+  "t": "**巨锤。** 命中+5，2d6+3钝击。"
+ },
+ "f60d12af7cf5": {
+  "en": "Hiromi High-Gandew Tough-Hammer — Level 3 Fighter (Gandew Brawler)",
+  "t": "弘美·海甘杜·塔夫哈默——3级战士（甘杜格斗家）"
+ }
+}

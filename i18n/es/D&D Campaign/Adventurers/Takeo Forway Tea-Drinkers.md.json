@@ -1,0 +1,46 @@
+{
+ "1125477d7a09": {
+  "en": "Takeo Forway Tea-Drinkers — Level 3 Rogue (Inquisitive)",
+  "t": "Takeo Forway Tea-Drinkers — Pícaro de nivel 3 (Inquisitivo)"
+ },
+ "119f0a1c469e": {
+  "en": "**People:** Human (looks Darfaries — tall, big tusks — but has no Darfaries veins) · **Class:** Rogue · **Background:** Guild Muscle (Tea-Drinkers) · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 4",
+  "t": "**Pueblo:** humano (parece darfaries — alto, colmillos grandes — pero no tiene venas darfaries) · **Clase:** pícaro · **Trasfondo:** Matón del gremio (Tea-Drinkers) · **Alineamiento:** legal neutral · **Rango:** Pearl\n**Interfaz:** Darfaries · **Soul Points:** 4"
+ },
+ "24a0c5096373": {
+  "en": "**Dark Side.** Lie to him and the politeness ends. When his Insight catches someone's lie, he has advantage on attacks and Intimidation checks against that creature until the end of the scene. Once he starts questioning someone, stopping takes a DC 12 Wisdom save.",
+  "t": "**Lado oscuro.** Miéntele y se acabó la educación. Cuando su Perspicacia pilla la mentira de alguien, tiene ventaja en los ataques y en las pruebas de Intimidación contra esa criatura hasta el final de la escena. Una vez que empieza a interrogar a alguien, parar requiere una salvación de Sabiduría DC 12."
+ },
+ "6a5ad0d63585": {
+  "en": "**Not Quite Darfaries.** Immune to being charmed for 1 round (1/day). Doesn't like being asked about his veins.",
+  "t": "**No del todo darfaries.** Inmune a ser hechizado durante 1 asalto (1/día). No le gusta que le pregunten por sus venas."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "Rasgos y atributos"
+ },
+ "aa332f45694d": {
+  "en": "**New pre-gen:** this sheet carries the interrogator traits that the Alpha campaign had put on Hiromi.",
+  "t": "**Nuevo pregenerado:** esta hoja lleva los rasgos de interrogador que la campaña Alpha le había puesto a Hiromi."
+ },
+ "abd56a0f4324": {
+  "en": "**Interrogator's Edge.** Proficiency with torture tools (his finger-clipping pliers); +2 to Intimidation.",
+  "t": "**Ventaja del interrogador.** Competencia con herramientas de tortura (sus tenazas para cortar dedos); +2 a Intimidación."
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "Acciones"
+ },
+ "c5738e07a531": {
+  "en": "**Curt.** Few words, a flat voice, and polite only up to a point. Disadvantage on Persuasion checks that need warmth or small talk; advantage on Intimidation when he goes quiet and just stares.",
+  "t": "**Seco.** Pocas palabras, voz monótona y educado solo hasta cierto punto. Desventaja en las pruebas de Persuasión que requieran calidez o charla; ventaja en Intimidación cuando se calla y se queda mirando."
+ },
+ "e445e97f209c": {
+  "en": "**AC** 14 · **HP** 27 · **Speed** 30 ft\n**STR** 14 · **DEX** 16 · **CON** 14 · **INT** 12 · **WIS** 13 · **CHA** 10",
+  "t": "**AC** 14 · **HP** 27 · **Velocidad** 30 pies\n**FUE** 14 · **DES** 16 · **CON** 14 · **INT** 12 · **SAB** 13 · **CAR** 10"
+ },
+ "e9c8c9750663": {
+  "en": "**Conflict Avoidant.** If allies argue, DC 10 Wis save or he leaves the scene for 1 round (\"We finished the quest. We celebrated. We all spoke our minds. Now we say our goodbyes.\").",
+  "t": "**Evita los conflictos.** Si los aliados discuten, salvación de Sab DC 10 o se va de la escena durante 1 asalto («Terminamos la misión. Lo celebramos. Todos dijimos lo que pensábamos. Ahora nos despedimos.»)."
+ }
+}

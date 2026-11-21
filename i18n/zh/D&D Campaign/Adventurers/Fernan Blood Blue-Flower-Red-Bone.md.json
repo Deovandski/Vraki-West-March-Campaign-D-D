@@ -1,0 +1,62 @@
+{
+ "0db1e1968fba": {
+  "en": "**Seeking Arrow (1/day, or 2 SP).** Automatically hits for 1d8+4.",
+  "t": "**追踪箭（1/日，或2 SP）。** 自动命中，造成1d8+4。"
+ },
+ "31d4a65e1f13": {
+  "en": "**Archer's Pride.** +1 damage with bows.",
+  "t": "**弓手的骄傲。** 用弓造成的伤害+1。"
+ },
+ "7f49b0e07f7c": {
+  "en": "**Shortsword.** +6 to hit, 1d6+4 slashing.",
+  "t": "**短剑。** 命中+6，1d6+4挥砍。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特性与特质"
+ },
+ "a8ba00cb4e90": {
+  "en": "**Canon note:** in the lore, Fernan is a famous Sapphire who \"died in Hifuna\". Play him as his **young self** in a flashback/one-shot, as a look-alike, or with your table's blessing to bend canon. The West March doesn't follow the novels, so it's your call.",
+  "t": "**关于原作的说明：** 在设定中，费尔南是一位“死在希富纳”的著名萨菲尔。可以在闪回或单次冒险中扮演**年轻时的他**，也可以扮演一个长得像他的人，或者在你们这桌同意的前提下改动原作。西境不沿用小说，所以由你决定。"
+ },
+ "ac6e8077bfba": {
+  "en": "**People:** \"Pure\" human · **Class:** Fighter · **Background:** Sapphire Hero (young) · **Alignment:** Chaotic Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 4 (+1 extra on each long rest: Deep Soul)",
+  "t": "**种族：** “纯种”人类 · **职业：** 战士 · **背景：** 萨菲尔英雄（年轻时） · **阵营：** 混乱善良 · **级别：** 珀尔\n**界面：** 无（不能使用西吉尔戒指） · **灵魂点数：** 4（每次长休额外+1：深邃灵魂）"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "动作"
+ },
+ "b2f990388845": {
+  "en": "**Romantic Fool.** Disadvantage on Insight checks involving attractive Wozefaries with long hair.",
+  "t": "**浪漫的傻瓜。** 涉及长发迷人的沃泽法里斯时，洞悉检定具有劣势。"
+ },
+ "bb91d72d923a": {
+  "en": "Fernan Blood Blue-Flower-Red-Bone — Level 3 Fighter (Arcane Archer-lite)",
+  "t": "费尔南·布拉德·布卢-弗劳尔-雷德-博恩——3级战士（简化版奥法射手）"
+ },
+ "cee7f64b59a3": {
+  "en": "**Burst Arrow (2/day, or 1 SP).** 1d6 force in a 5-ft radius on impact.",
+  "t": "**爆裂箭（2/日，或1 SP）。** 命中时在5尺半径内造成1d6力场伤害。"
+ },
+ "d85990cacf19": {
+  "en": "**Selfless Defender.** When an ally within 5 ft is hit, Fernan can use his reaction to impose disadvantage on the attack (1/day).",
+  "t": "**无私的守护者。** 当5尺内的盟友被命中时，费尔南可以用反应让那次攻击具有劣势（1/日）。"
+ },
+ "d9b62b28d873": {
+  "en": "**Skills:** Athletics +4, Perception +3, Persuasion +5, Acrobatics +6\n**Equipment:** Masterwork bow (chitin and bone wood, Winga-beak blades for close quarters), quiver, jerky, travel cloak, a carved statue of Akemi, badge.",
+  "t": "**技能：** 运动+4、察觉+3、游说+5、特技+6\n**装备：** 大师级弓（甲壳和骨木制成，带有近战用的温加喙刃）、箭袋、肉干、旅行斗篷、一尊明美的木雕像、身份牌。"
+ },
+ "efe9218cdc56": {
+  "en": "**Longbow.** +7 to hit, 1d8+5 piercing.",
+  "t": "**长弓。** 命中+7，1d8+5穿刺。"
+ },
+ "f7e160178e9a": {
+  "en": "**Born Hero.** Advantage on Persuasion checks with civilians.",
+  "t": "**天生的英雄。** 对平民的游说检定具有优势。"
+ },
+ "ff1e39f790f0": {
+  "en": "**AC** 16 · **HP** 32 · **Speed** 30 ft\n**STR** 14 · **DEX** 18 · **CON** 14 · **INT** 11 · **WIS** 13 · **CHA** 16",
+  "t": "**AC** 16 · **HP** 32 · **速度** 30尺\n**力量** 14 · **敏捷** 18 · **体质** 14 · **智力** 11 · **感知** 13 · **魅力** 16"
+ }
+}

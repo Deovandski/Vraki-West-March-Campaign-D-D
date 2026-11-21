@@ -1,18 +1,154 @@
 {
+ "10a9436e4b22": {
+  "en": "These are canon characters from the novels. In the West March they're just adventurers of the 1040s — their book storylines don't apply unless your table wants them to.",
+  "t": "これは小説に登場する原作のキャラクターだ。ウェストマーチでは1040年代のただの冒険者で、卓が望まない限り本の筋書きは適用されない。"
+ },
+ "11d27b754235": {
+  "en": "[July Forway Tea-Drinkers](July%20Forway%20Tea-Drinkers.md)",
+  "t": "[ジュライ・フォーウェイ・ティー・ドリンカーズ](July%20Forway%20Tea-Drinkers.md)"
+ },
+ "1a235aab5467": {
+  "en": "[Takeo Forway Tea-Drinkers](Takeo%20Forway%20Tea-Drinkers.md)",
+  "t": "[タケオ・フォーウェイ・ティー・ドリンカーズ](Takeo%20Forway%20Tea-Drinkers.md)"
+ },
+ "1c65d91d2f61": {
+  "en": "Ranger",
+  "t": "レンジャー"
+ },
+ "23bebc9819cf": {
+  "en": "Tank, storyteller",
+  "t": "盾役、語り部"
+ },
+ "261ad41d8cff": {
+  "en": "Adventurer",
+  "t": "冒険者"
+ },
+ "2f93ff40b81b": {
+  "en": "[Posaqui Sanbi](Posaqui%20Sanbi.md)",
+  "t": "[ポサキ・サンビ](Posaqui%20Sanbi.md)"
+ },
+ "36270285d9b3": {
+  "en": "Bard (Glamour)",
+  "t": "バード（グラマー）"
+ },
+ "3e2415eadd89": {
+  "en": "Fighter (archer)",
+  "t": "ファイター（射手）"
+ },
+ "3fbe5136bfd4": {
+  "en": "[Kaiana Forway Cliff-Jumper](Kaiana%20Forway%20Cliff-Jumper.md)",
+  "t": "[カイアナ・フォーウェイ・クリフ・ジャンパー](Kaiana%20Forway%20Cliff-Jumper.md)"
+ },
+ "409ba0afccec": {
+  "en": "Fighter (brawler)",
+  "t": "ファイター（喧嘩屋）"
+ },
+ "5446ee964553": {
+  "en": "Nine level 3 adventurers, ported from the original Alpha campaign (previously in the #HusbandOutWorld repo) and adjusted for the West March rules (people, interface and Soul Points on every sheet).",
+  "t": "レベル3の冒険者9人。元のアルファ版キャンペーン（以前は#HusbandOutWorldのリポジトリにあった）から移し、ウェストマーチのルールに合わせて調整した（どのシートにも種族、インターフェース、ソウルポイントがある）。"
+ },
+ "591787b1bbc3": {
+  "en": "Human (Wozefaries blood)",
+  "t": "人間（ウォゼファリエスの血）"
+ },
  "5b5e9ca6c739": {
   "en": "People",
   "t": "人物"
+ },
+ "5c8fc79a524d": {
+  "en": "[Fernan Blood Blue-Flower-Red-Bone](Fernan%20Blood%20Blue-Flower-Red-Bone.md)",
+  "t": "[フェルナン・ブラッド・ブルー・フラワー・レッド・ボーン](Fernan%20Blood%20Blue-Flower-Red-Bone.md)"
+ },
+ "7c1a86dee832": {
+  "en": "Barbarian",
+  "t": "バーバリアン"
+ },
+ "7f176a83bebb": {
+  "en": "[Hiromi High-Gandew Tough-Hammer](Hiromi%20High-Gandew%20Tough-Hammer.md)",
+  "t": "[ヒロミ・ハイ・ガンデュー・タフ・ハンマー](Hiromi%20High-Gandew%20Tough-Hammer.md)"
+ },
+ "823b0f5bfc10": {
+  "en": "\"The Stinger\"",
+  "t": "「スティンガー」"
+ },
+ "874fb054ad37": {
+  "en": "Sorcerer",
+  "t": "ソーサラー"
+ },
+ "894bdc8feb65": {
+  "en": "Cook, face, oddball",
+  "t": "料理人、交渉役、変わり者"
  },
  "897335ee0ca8": {
   "en": "Class",
   "t": "クラス"
  },
+ "97fc8e50e628": {
+  "en": "Close-quarters fighter (+ Sayna)",
+  "t": "接近戦の戦士（＋サイナ）"
+ },
  "980e3c6878bd": {
   "en": "Darfaries",
   "t": "ダルファリエス"
  },
+ "a5278fedbdc6": {
+  "en": "Hero, defender",
+  "t": "英雄、守り手"
+ },
+ "a7b637af9047": {
+  "en": "Human",
+  "t": "人間"
+ },
+ "ba51341d6d2e": {
+  "en": "Interrogator",
+  "t": "尋問役"
+ },
+ "bac32184cb52": {
+  "en": "Tracker, archer",
+  "t": "追跡役、射手"
+ },
  "bb27af857f6f": {
   "en": "\"Pure\" human",
   "t": "「純粋な」人間"
+ },
+ "cf9247401e0c": {
+  "en": "[Harry Sanbi](Harry%20Sanbi.md)",
+  "t": "[ハリー・サンビ](Harry%20Sanbi.md)"
+ },
+ "daf2c39aa60b": {
+  "en": "Rogue (Inquisitive)",
+  "t": "ローグ（インクィジティヴ）"
+ },
+ "dc53a70030ad": {
+  "en": "[Morika Tolerideme](Morika%20Tolerideme.md)",
+  "t": "[モリカ・トレリデメ](Morika%20Tolerideme.md)"
+ },
+ "e3a0c5a88d50": {
+  "en": "Pre-Generated Adventurers",
+  "t": "作成済みの冒険者"
+ },
+ "e81b37e12d50": {
+  "en": "Soul-Touched (Ranger/Monk)",
+  "t": "魂に触れし者（レンジャー／モンク）"
+ },
+ "ed0d0ecaa745": {
+  "en": "Monk",
+  "t": "モンク"
+ },
+ "ee45e9fa824f": {
+  "en": "Face, information",
+  "t": "交渉役、情報"
+ },
+ "f040c86de0a5": {
+  "en": "[Magi Blood Blue-Flower-Red-Bone](Magi%20Blood%20Blue-Flower-Red-Bone.md)",
+  "t": "[マギ・ブラッド・ブルー・フラワー・レッド・ボーン](Magi%20Blood%20Blue-Flower-Red-Bone.md)"
+ },
+ "f6b099c1fe8b": {
+  "en": "Role",
+  "t": "役割"
+ },
+ "fa0f4afd3b0f": {
+  "en": "Blaster",
+  "t": "火力役"
  }
 }

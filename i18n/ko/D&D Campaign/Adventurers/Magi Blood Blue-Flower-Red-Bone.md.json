@@ -1,0 +1,66 @@
+{
+ "0799799a2389": {
+  "en": "**Hunter's Instinct.** Advantage on Survival checks to track.",
+  "t": "**사냥꾼의 본능.** 추적을 위한 생존 판정에 이점."
+ },
+ "0d4be79289dd": {
+  "en": "**Spell Save DC** 13 · **Slots** 3 (1st level)\n*Hunter's Mark, Absorb Elements, Goodberry*",
+  "t": "**주문 내성 DC** 13 · **슬롯** 3(1레벨)\n*사냥꾼의 표식, 원소 흡수, 좋은열매*"
+ },
+ "2970532bc9ce": {
+  "en": "**Skills:** Stealth +6, Survival +5, Perception +5, Investigation +4, Acrobatics +5\n**Equipment:** Bow, 20 arrows, traps, camouflage cloth, pink blanket, fruit snacks, a Time Quicken jar (for staying awake), badge.\n**Hook:** Her Sapphire father vanished. Everyone says Hifuna. She doesn't buy it.",
+  "t": "**기술:** 은신 +6, 생존 +5, 감지 +5, 수사 +4, 곡예 +5\n**장비:** 활, 화살 20개, 덫, 위장천, 분홍 담요, 과일 간식, 타임 퀴큰 한 병(깨어 있기 위해), 신분패.\n**떡밥:** 사파이어였던 아버지가 사라졌다. 모두 히푸나라고 한다. 그녀는 믿지 않는다."
+ },
+ "377a44bb780f": {
+  "en": "**People:** Human (strong Wozefaries blood) · **Class:** Ranger · **Background:** Guild Debtor · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**종족:** 인간(워제파리에스의 피가 짙다) · **클래스:** 레인저 · **배경:** 길드 채무자 · **성향:** 질서 중립 · **계급:** 펄\n**인터페이스:** 다르파리에스 · **소울 포인트:** 3"
+ },
+ "506d37f39fd0": {
+  "en": "**Wozefaries Blood.** Proficiency in Acrobatics; resistance to cold damage.",
+  "t": "**워제파리에스의 피.** 곡예에 숙련. 냉기 피해에 저항."
+ },
+ "55182f9ffc65": {
+  "en": "**Shortsword.** +5 to hit, 1d6+3 slashing.",
+  "t": "**소검.** 명중 +5, 1d6+3 참격."
+ },
+ "5759bf904467": {
+  "en": "**Snare Trap (Recharge 6).** DC 12 Dex save or restrained.",
+  "t": "**올가미 덫(재충전 6).** DC 12 민첩 내성에 실패하면 포박."
+ },
+ "6319c481caca": {
+  "en": "**Narcolepsy.** When rolling initiative, roll a d6. On a 1, Magi starts the fight asleep until an ally uses an action to wake her (or she takes damage).",
+  "t": "**기면증.** 우선권을 굴릴 때 d6도 굴린다. 1이 나오면 마기는 아군이 행동을 써서 깨울 때까지(또는 피해를 받을 때까지) 잠든 채로 전투를 시작한다."
+ },
+ "66383d9492a8": {
+  "en": "**AC** 14 · **HP** 26 · **Speed** 30 ft\n**STR** 10 · **DEX** 16 · **CON** 12 · **INT** 14 · **WIS** 15 · **CHA** 11",
+  "t": "**AC** 14 · **HP** 26 · **이동속도** 30피트\n**근력** 10 · **민첩** 16 · **건강** 12 · **지능** 14 · **지혜** 15 · **매력** 11"
+ },
+ "734fd96cf087": {
+  "en": "**Longbow.** +6 to hit, 1d8+3 piercing.",
+  "t": "**장궁.** 명중 +6, 1d8+3 관통."
+ },
+ "76f4f0dcb060": {
+  "en": "Spellcasting (Ranger)",
+  "t": "주문시전(레인저)"
+ },
+ "a238253474af": {
+  "en": "**Guild Debt.** Her family guild owes money; half her personal loot goes home to Blood.",
+  "t": "**길드 빚.** 집안 길드가 빚을 지고 있어서, 개인 전리품의 절반은 블러드의 집으로 간다."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "특징과 특성"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "행동"
+ },
+ "c13be0b59acd": {
+  "en": "Magi Blood Blue-Flower-Red-Bone — Level 3 Ranger",
+  "t": "마기 블러드 블루-플라워-레드-본 — 3레벨 레인저"
+ },
+ "d67e3f84e77f": {
+  "en": "**Distrustful.** Disadvantage on Persuasion checks with strangers.",
+  "t": "**의심 많음.** 낯선 사람에 대한 설득 판정에 불리점."
+ }
+}

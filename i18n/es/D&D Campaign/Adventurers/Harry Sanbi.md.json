@@ -1,0 +1,70 @@
+{
+ "20bfe7cb2366": {
+  "en": "**Curious Cook.** During a short rest, cooks a meal that grants each eater 1d4+1 temporary HP.",
+  "t": "**Cocinero curioso.** Durante un descanso corto, cocina una comida que da a cada comensal 1d4+1 HP temporales."
+ },
+ "25e4ce1f93c4": {
+  "en": "**Heart Pulse (Recharge 6, or spend 1 SP).** 10-ft cone, 2d6 thunder, DC 11 Con save for half.",
+  "t": "**Pulso del corazón (Recarga 6, o gasta 1 SP).** Cono de 10 pies, 2d6 trueno, salvación de Con DC 11 para la mitad."
+ },
+ "26776897960f": {
+  "en": "**People:** \"Pure\" human with a Bagarisa-touched soul · **Class:** Soul-Touched (homebrew Ranger/Monk hybrid) · **Background:** Isekai Stranger · **Alignment:** Neutral Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 3 (+1 extra on each long rest: Deep Soul)",
+  "t": "**Pueblo:** humano «puro» con un alma tocada por un Bagarisa · **Clase:** Tocado por el alma (híbrido casero de explorador y monje) · **Trasfondo:** Extraño isekai · **Alineamiento:** neutral bueno · **Rango:** Pearl\n**Interfaz:** ninguna (no puede usar anillos de sigilo) · **Soul Points:** 3 (+1 adicional en cada descanso largo: Alma profunda)"
+ },
+ "395995bc9ea2": {
+  "en": "**Improvised Weapon.** +4 to hit, 1d8+2.",
+  "t": "**Arma improvisada.** +4 para impactar, 1d8+2."
+ },
+ "4004100fd78f": {
+  "en": "Harry Sanbi — Level 3 Soul-Touched Wanderer",
+  "t": "Harry Sanbi — Vagabundo tocado por el alma de nivel 3"
+ },
+ "45b24362989f": {
+  "en": "**Bagarisa Soul Battery.** Regains 1 extra Soul Point per long rest (stacks with Deep Soul).",
+  "t": "**Batería de alma de Bagarisa.** Recupera 1 Soul Point adicional por descanso largo (se acumula con Alma profunda)."
+ },
+ "4ca4b8f2059a": {
+  "en": "**Claustrophobic.** In tight spaces, DC 10 Wis save or frightened for 1 round.",
+  "t": "**Claustrofóbico.** En espacios estrechos, salvación de Sab DC 10 o asustado durante 1 asalto."
+ },
+ "7eaf8a43b457": {
+  "en": "**Soul Push (1 SP).** Shove a creature 5 ft without a check.",
+  "t": "**Empujón del alma (1 SP).** Empuja a una criatura 5 pies sin prueba."
+ },
+ "8012ba2eebc1": {
+  "en": "**AC** 13 · **HP** 24 · **Speed** 30 ft\n**STR** 12 · **DEX** 14 · **CON** 13 · **INT** 10 · **WIS** 11 · **CHA** 15",
+  "t": "**AC** 13 · **HP** 24 · **Velocidad** 30 pies\n**FUE** 12 · **DES** 14 · **CON** 13 · **INT** 10 · **SAB** 11 · **CAR** 15"
+ },
+ "8ac1f3297aeb": {
+  "en": "Soul-Energy Abilities (spend SP)",
+  "t": "Capacidades de energía del alma (gastan SP)"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "Rasgos y atributos"
+ },
+ "a93ec4c46638": {
+  "en": "**Adaptable Heart.** Advantage on one death save per long rest.",
+  "t": "**Corazón adaptable.** Ventaja en una salvación contra la muerte por descanso largo."
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "Acciones"
+ },
+ "b40e82229cb7": {
+  "en": "**Soul Flicker (1 SP).** Bonus action: +10 ft movement this turn.",
+  "t": "**Parpadeo del alma (1 SP).** Acción adicional: +10 pies de movimiento este turno."
+ },
+ "c0e568ead7b3": {
+  "en": "**Skills:** Persuasion +4, Insight +3, Survival +2, Perception +2\n**Equipment:** Traveler's clothes, cooking kit, simple blade, notebook of fragmented memories, badge, 20 pearls.\n**Hook:** Nobody believes where he says he's from. Sometimes he isn't sure either.",
+  "t": "**Habilidades:** Persuasión +4, Perspicacia +3, Supervivencia +2, Percepción +2\n**Equipo:** ropa de viajero, kit de cocina, cuchillo sencillo, cuaderno de recuerdos fragmentados, insignia, 20 pearls.\n**Gancho:** Nadie se cree de dónde dice que viene. A veces ni él está seguro."
+ },
+ "c655dbca8880": {
+  "en": "**Confused Memories.** Disadvantage on History checks about Vraki.",
+  "t": "**Recuerdos confusos.** Desventaja en las pruebas de Historia sobre Vraki."
+ },
+ "cbff27fce4eb": {
+  "en": "**Unarmed Strike.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**Golpe sin armas.** +4 para impactar, 1d6+2 contundente."
+ }
+}
