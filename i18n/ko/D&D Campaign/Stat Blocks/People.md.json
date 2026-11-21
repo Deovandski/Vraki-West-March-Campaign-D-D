@@ -1,0 +1,222 @@
+{
+ "0236415102a6": {
+  "en": "**Maul.** +6, 2d6+4 bludgeoning; on a hit, DC 13 Str save or knocked prone.",
+  "t": "**대형 망치.** +6, 2d6+4 타격. 명중하면 DC 13 근력 내성에 실패할 경우 넘어짐."
+ },
+ "07a7b2e85dde": {
+  "en": "**Wood People bandits:** carry fost stones to herd and steer Wood People (DC 12 to steer one 30 ft).",
+  "t": "**우드 피플 산적:** 포스트석을 들고 다니며 우드 피플을 몰고 조종한다(하나를 30피트 조종하는 데 DC 12)."
+ },
+ "0fee232fd478": {
+  "en": "Knows every quest, every deadline and everyone's debt. Bribable with gossip.",
+  "t": "모든 의뢰, 모든 기한, 모두의 빚을 안다. 소문으로 매수할 수 있다."
+ },
+ "1230de140aac": {
+  "en": "**Black Honey Pot (1/day).** When reduced to 0 HP, an adjacent guard can use an action to revive it at 1 HP. Steal the pot (leg pocket) to stop it.",
+  "t": "**검은 꿀 단지(1/일).** HP가 0이 되면, 인접한 경비병이 행동을 써서 HP 1로 되살릴 수 있다. 막으려면 단지(다리 주머니)를 훔쳐라."
+ },
+ "13511c528b67": {
+  "en": "AC 17 (shiny plate-ish armor) · HP 25 · speed 25 ft",
+  "t": "AC 17(번쩍이는 판금 비슷한 갑옷) · HP 25 · 이동속도 25피트"
+ },
+ "1951b7183d1e": {
+  "en": "**Nari Bomb (1/day).** Smoke (heavily obscured 20 ft) — then they either attack or leave.",
+  "t": "**나리 폭탄(1/일).** 연기(20피트 심하게 가려짐) — 그다음 공격하거나 떠난다."
+ },
+ "1c3ca56a75c4": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to all adjacent.",
+  "t": "**갑옷 가시 폭발(재충전 6).** 인접한 모두에게 2d6 관통."
+ },
+ "29a602afd8d2": {
+  "en": "**Hallucinogen Reflexes.** Advantage on initiative and Dex saves.",
+  "t": "**환각제 반사신경.** 우선권과 민첩 내성에 이점."
+ },
+ "2d5263334e87": {
+  "en": "**Gore Charge.** Moves 20 ft straight and attacks: +7, 2d6+4 piercing; prone on a hit (DC 14 Str).",
+  "t": "**뿔 돌진.** 똑바로 20피트 이동해 공격: +7, 2d6+4 관통. 명중하면 넘어짐(DC 14 근력)."
+ },
+ "320874f96ff8": {
+  "en": "Tolerideme Guard (CR 2) — use *Guard*, but…",
+  "t": "톨레리데메 경비병(CR 2) — *경비병* 사용, 단…"
+ },
+ "3b8e5cbbaa7c": {
+  "en": "Sigil rings for four spells; a satchel of three random nari gels; lab notes worth 1 aquamarine to the right buyer; terrible people skills.",
+  "t": "주문 네 개용 시질 링. 무작위 나리 젤 세 개가 든 가방. 알맞은 구매자에게는 아쿠아마린 1개 값이 나가는 연구 노트. 사람 다루는 솜씨는 형편없다."
+ },
+ "4459a6e3416b": {
+  "en": "Big Winga Guard (CR 4)",
+  "t": "빅 윙가 경비병(CR 4)"
+ },
+ "44c38ac88b36": {
+  "en": "Guards, bandits and specialists. Built on 5e NPC blocks with Vraki gear. All carry an embassy badge unless noted.",
+  "t": "경비병, 산적, 전문가. 5판 NPC 능력치에 브라키 장비를 더한 것이다. 따로 적지 않았다면 모두 대사관 신분패를 지니고 있다."
+ },
+ "4588770cb746": {
+  "en": "**Alone, Silent.** Helmet locks the tusks; can't speak while wearing it. Advantage on saves vs. fear.",
+  "t": "**홀로, 말없이.** 투구가 엄니를 고정해서 쓰고 있는 동안은 말을 못 한다. 공포에 대한 내성에 이점."
+ },
+ "4972b66312c3": {
+  "en": "Bandit (CR ⅛) / Bandit Captain (CR 2)",
+  "t": "산적(CR ⅛) / 산적 두목(CR 2)"
+ },
+ "4b07d1fecf6e": {
+  "en": "Mixed Human–Darfaries; red Walking Heart (undead).\nAC 16 · HP 170 · speed 40 ft",
+  "t": "인간과 다르파리에스의 혼혈. 붉은 워킹 하트(언데드).\nAC 16 · HP 170 · 이동속도 40피트"
+ },
+ "4eac88db08e6": {
+  "en": "The Stinger (CR 5) — Morika in Sweet Sting chitin",
+  "t": "스팅어(CR 5) — 스위트 스팅 키틴을 두른 모리카"
+ },
+ "516f98d608f7": {
+  "en": "**Never Negotiates.** Immune to Persuasion attempts to bargain.",
+  "t": "**절대 협상하지 않는다.** 흥정하려는 설득 시도에 면역."
+ },
+ "5e83d8d48ae1": {
+  "en": "**Gauntlet.** +4, 1d8+2 bludgeoning.",
+  "t": "**건틀릿.** +4, 1d8+2 타격."
+ },
+ "619b1642dbab": {
+  "en": "Perfect cover identity (maid, florist, courtesan); Fake Skin gel; poisoned hairpin (Bleed Out I). \"We are here to please you.\"",
+  "t": "완벽한 위장 신분(메이드, 꽃집 직원, 고급 창부). 페이크 스킨 젤. 독을 바른 머리핀(블리드 아웃 I). ‘우리는 당신을 기쁘게 하려고 여기 있습니다.’"
+ },
+ "64f49fb45008": {
+  "en": "A Forway guard in Big Winga gel: use **Big Winga** stats, but Intelligence 10, can understand Vraki, and patrols embassies.",
+  "t": "빅 윙가 젤을 쓴 포웨이 경비병: **빅 윙가** 능력치를 쓰되, 지능 10이고, 브라키어를 알아듣고, 대사관을 순찰한다."
+ },
+ "76498dd7d77b": {
+  "en": "Soul Energy Scientist (CR 2) — use *Mage* (lower slots)",
+  "t": "영혼 에너지 과학자(CR 2) — *마법사* 사용(슬롯 적게)"
+ },
+ "7b4b60e9db04": {
+  "en": "AC 16 (gauntlets + padding) · HP 30 · speed 25 ft",
+  "t": "AC 16(건틀릿 + 덧댐) · HP 30 · 이동속도 25피트"
+ },
+ "7dbaa9bf7dee": {
+  "en": "**Urban Legend.** Commoners who see it make a DC 12 Wis save or flee. Out of the armor he's mute, polite and anxious.",
+  "t": "**도시 전설.** 이것을 본 평민은 DC 12 지혜 내성을 하고, 실패하면 달아난다. 갑옷을 벗으면 그는 말이 없고, 예의 바르고, 불안해한다."
+ },
+ "7ea03821ca8d": {
+  "en": "Use the 5e blocks. Vraki flavors:",
+  "t": "5판 능력치를 쓴다. 브라키다운 맛:"
+ },
+ "854970f19672": {
+  "en": "Sanbi Guard (CR 1) — use *Scout*",
+  "t": "산비 경비병(CR 1) — *정찰병* 사용"
+ },
+ "857f701797c0": {
+  "en": "Embassy Clerk (CR 0) — use *Commoner*",
+  "t": "대사관 서기(CR 0) — *평민* 사용"
+ },
+ "993606c5cd98": {
+  "en": "**Stinger Slash.** Two attacks, +7, 1d8+4 slashing.",
+  "t": "**독침 베기.** 공격 2회, +7, 1d8+4 참격."
+ },
+ "a0ad1b3e4e92": {
+  "en": "Kozaku Forway, Blue Wozens Boss (CR 9)",
+  "t": "고자쿠 포웨이, 블루 워젠스 두목(CR 9)"
+ },
+ "a487976a4b05": {
+  "en": "Gandew Guard (CR 3) — use *Thug* with chitin",
+  "t": "간듀 경비병(CR 3) — 키틴을 두른 *깡패* 사용"
+ },
+ "a670e63b8ac0": {
+  "en": "AC 18 (chitin) · HP 45",
+  "t": "AC 18(키틴) · HP 45"
+ },
+ "abb930ea22d2": {
+  "en": "**Undead.** No breathing, eating or sleep; immune to poison; can't be revived.",
+  "t": "**언데드.** 숨 쉬지도, 먹지도, 자지도 않는다. 독에 면역. 되살릴 수 없다."
+ },
+ "b09a5c4aa8a6": {
+  "en": "**Nari Bomb Dash.** Throws smoke, then moves 30 ft without provoking.",
+  "t": "**나리 폭탄 도주.** 연기를 던지고, 기회공격을 유발하지 않고 30피트 이동한다."
+ },
+ "b37a90d4886e": {
+  "en": "People Stat Blocks",
+  "t": "능력치: 사람"
+ },
+ "b409cf7e7748": {
+  "en": "**Red Heart Rage.** Multiattack: three punches, +9, 2d10+6 bludgeoning. On a crit, the target's head is… gone (DC 15 Con save to survive at 0 HP instead).",
+  "t": "**붉은 심장의 분노.** 다중공격: 주먹 세 번, +9, 2d10+6 타격. 치명타가 나면 목표의 머리가… 사라진다(대신 DC 15 건강 내성으로 HP 0인 채 살아남는다)."
+ },
+ "b8aaef8dfd76": {
+  "en": "**Pack Tactics.** Advantage on attacks while an ally is within 5 ft of the target. Always in groups of 3+.",
+  "t": "**무리 전술.** 목표 5피트 이내에 아군이 있는 동안 공격에 이점을 얻는다. 언제나 3명 이상이 함께 다닌다."
+ },
+ "bbc7fcfa7538": {
+  "en": "Red Winga Agent (CR 2) — use *Spy*",
+  "t": "레드 윙가 요원(CR 2) — *첩자* 사용"
+ },
+ "c488677977f1": {
+  "en": "**Sleeve Sword.** +5, 1d6+3; can draw and attack as one action (surprise).",
+  "t": "**소매 검.** +5, 1d6+3. 검을 뽑아 공격하는 것을 행동 하나로 할 수 있다(기습)."
+ },
+ "c49f6bb5cf5c": {
+  "en": "Forway Captain (CR 5) — use *Veteran*",
+  "t": "포웨이 대장(CR 5) — *베테랑* 사용"
+ },
+ "c5e3b3575eb6": {
+  "en": "**Superiority Complex.** If an enemy looked weak last turn (took the Dodge action, retreated, or failed a check), the guard has disadvantage on its next Wisdom (Insight) check and attack against that enemy.",
+  "t": "**우월감.** 지난 턴에 적이 약해 보였다면(회피 행동을 했거나, 물러났거나, 판정에 실패했다면), 경비병은 그 적에 대한 다음 지혜(통찰) 판정과 공격에 불리점을 받는다."
+ },
+ "c673532a4dbc": {
+  "en": "**Longbow.** +4, 1d8+2 piercing; arrows may carry a nari gel (Body Paralysis II or Sleep Inducer I).",
+  "t": "**장궁.** +4, 1d8+2 관통. 화살에 나리 젤(보디 패럴리시스 II 또는 슬립 인듀서 I)을 묻혀 두기도 한다."
+ },
+ "c958063e2e51": {
+  "en": "Freeish Guard (CR 1)",
+  "t": "프리이시 경비병(CR 1)"
+ },
+ "ccfd193c3603": {
+  "en": "**Unstoppable.** Advantage on Str checks and saves. Red flame bursts from his chest when angry.",
+  "t": "**막을 수 없다.** 근력 판정과 내성에 이점. 화가 나면 가슴에서 붉은 불꽃이 터져 나온다."
+ },
+ "d3087640897e": {
+  "en": "**Blue Wozens:** blue Wozen badge; prefer robbery to killing (\"donation\"). ",
+  "t": "**블루 워젠스:** 파란 워젠 신분패. 죽이기보다 털기를 좋아한다(‘기부’). "
+ },
+ "d867cbc5f5f2": {
+  "en": "**Bagarisa Brothers:** use *Berserker*; secret tusk handshake.",
+  "t": "**바가리사 브라더스:** *광전사* 사용. 엄니로 하는 비밀 악수."
+ },
+ "db454435d4b3": {
+  "en": "**Fallen Tree:** ex-adventurers — use *Veteran*/*Spy*; hate embassy staff.",
+  "t": "**폴른 트리:** 전직 모험가 — *베테랑*/*첩자* 사용. 대사관 직원을 증오한다."
+ },
+ "dc3f4418293a": {
+  "en": "Forway Guard (CR 1) — use *Guard* + changes",
+  "t": "포웨이 경비병(CR 1) — *경비병* + 변경점"
+ },
+ "e090fef53559": {
+  "en": "**Beer Balls:** drunk; disadvantage on Wis saves; fight fiercely for beer.",
+  "t": "**비어 볼스:** 술에 취해 있다. 지혜 내성에 불리점. 맥주를 위해서라면 사납게 싸운다."
+ },
+ "e1eec0c0e3a4": {
+  "en": "AC 14 (bone-wood) · HP 22",
+  "t": "AC 14(뼈나무) · HP 22"
+ },
+ "ef072a0e73ec": {
+  "en": "**Everything Is a Weapon.** Improvised weapons count as proficient (1d6).",
+  "t": "**뭐든지 무기.** 즉석 무기도 숙련된 무기로 친다(1d6)."
+ },
+ "ef28c44a61fa": {
+  "en": "**Elemental Ball (slow).** Takes a full turn to charge (it's obvious); next turn ranged 60 ft, +5, 3d8 cold/fire/lightning/thunder. Only cast in packs of 4+.",
+  "t": "**엘리멘탈 볼(느림).** 모으는 데 한 턴이 꼬박 걸린다(티가 난다). 다음 턴에 원거리 60피트, +5, 3d8 냉기/화염/번개/천둥. 4명 이상 무리일 때만 쏜다."
+ },
+ "f536fddbeee8": {
+  "en": "**Black Magina:** never kill; Sleep Inducer darts (+4, DC 13 Con or unconscious 1 minute).",
+  "t": "**블랙 마지나:** 절대 죽이지 않는다. 슬립 인듀서 다트(+4, DC 13 건강에 실패하면 1분간 무의식)."
+ },
+ "f56ab8004c44": {
+  "en": "**Burnout.** If he uses Multiattack 3 turns in a row, he takes 2d10 necrotic each extra turn (his soul is burning). Someone must stop him — or let him burn out.",
+  "t": "**연소.** 3턴 연속으로 다중공격을 쓰면, 그 뒤 턴마다 2d10 사령 피해를 받는다(영혼이 타고 있다). 누군가 그를 막아야 한다 — 아니면 다 타 버리게 두든가."
+ },
+ "fb89d6354a8c": {
+  "en": "Same armor as a soldier plus a **fancy cap**. Adds: **Entangle Ring** (all allies within 120 ft hear its orders), **Body RESTORE ring** (Tier II, 2/day), authority over embassy grounds.",
+  "t": "병사와 같은 갑옷에 **멋진 모자**. 추가: **인탱글 링**(120피트 이내 모든 아군이 명령을 듣는다), **보디 리스토어 링**(II등급, 2/일), 대사관 구내에서의 권한."
+ },
+ "fd68f87feed2": {
+  "en": "**Crossbow.** +4, 1d8+2 piercing, range 80/320.",
+  "t": "**석궁.** +4, 1d8+2 관통, 사거리 80/320."
+ }
+}

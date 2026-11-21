@@ -1,6 +1,194 @@
 {
+ "015151de15c4": {
+  "en": "[Stat Blocks](Stat%20Blocks) — beasts, fauna and people",
+  "t": "[数据卡](Stat%20Blocks)——魔兽、动物和人物"
+ },
+ "0ccd4252c532": {
+  "en": "*A bandit go-between offers a cut for helping rob the wagon ([The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)).",
+  "t": "*强盗的中间人提出分成，让你们帮忙抢劫货车（[内应计划](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）。"
+ },
+ "1eaa3917adfe": {
+  "en": "No need to calculate distances, Egua speeds or loads. The [travel map](../Maps) has **circles drawn along the routes connecting places**.",
+  "t": "不需要计算距离、埃瓜速度或负重。[旅行地图](../Maps)上**沿着连接各地的路线画着圈**。"
+ },
+ "1ffc59fb0037": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make the trip shorter or longer:",
+  "t": "**每个圈代表1、2或3天的旅程——由DM选择**，让旅程变短或变长："
+ },
+ "2152f752587d": {
+  "en": "**Stay for rest** — repair, hunt for good dinner, barter, flirt, steal, etc.  ",
+  "t": "**停下休息**——修理、打一顿好晚饭、讨价还价、调情、偷东西等。  "
+ },
+ "21888858ff16": {
+  "en": "Additional Files",
+  "t": "其他文件"
+ },
+ "22362e946f58": {
+  "en": "**Travel** — keep the wagon moving, use companions (if they have them) to check for danger, let the Eguas graze, etc.",
+  "t": "**赶路**——让货车继续前进、让同伴（如果有的话）侦查危险、让埃瓜吃草等。"
+ },
+ "234db54f6d14": {
+  "en": "Players can create their own characters, or use an existing adventurer. See [Adventurers](Adventurers) for pre-made characters, or [Making an Adventurer](02%20-%20Making%20an%20Adventurer.md).",
+  "t": "玩家可以自己创建角色，也可以使用现成的冒险者。预制角色见[冒险者](Adventurers)，或见[创建冒险者](02%20-%20Making%20an%20Adventurer.md)。"
+ },
+ "2a9c70c6d9c9": {
+  "en": "DM rolls dice for events.",
+  "t": "DM为事件掷骰。"
+ },
+ "33505ee7dd32": {
+  "en": "*Ambush from bandits",
+  "t": "*强盗伏击"
+ },
+ "3b169b78cd9c": {
+  "en": "Player Decisions",
+  "t": "玩家的决定"
+ },
+ "3f0b9095c717": {
+  "en": "**Graveyard (12am–6am)**",
+  "t": "**深夜（0点–6点）**"
+ },
+ "3fbb65e6d6fb": {
+  "en": "**Morning (6am–12pm)**",
+  "t": "**上午（6点–12点）**"
+ },
+ "40392d89eb5b": {
+  "en": "DM rolls dice for events (or not).",
+  "t": "DM为事件掷骰（也可以不掷）。"
+ },
+ "426ccbd88842": {
+  "en": "DM Decisions",
+  "t": "DM的决定"
+ },
+ "446d9967935a": {
+  "en": "Players decide their actions.",
+  "t": "玩家决定他们的行动。"
+ },
+ "44c345a288ba": {
+  "en": "Alpha One-Shot: Wagon Escort",
+  "t": "阿尔法单次冒险：货车护送"
+ },
+ "4b4f7f54253a": {
+  "en": "The original metadata map with kilometers lives in the [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) for the lore-curious. Full travel rules: [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "带公里数的原版元数据地图放在[#HusbandOutWorld仓库](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map)里，供对设定好奇的人查看。完整的旅行规则：[按圈旅行](01%20-%20Travel%20by%20Circles.md)。"
+ },
+ "4fe6ce4319ee": {
+  "en": "The original #HusbandOutWorld Alpha campaign, kept here for quick games. For the full open-table campaign, see the [DM Guide](README.md); this one-shot works as a single **Cargo Protection** quest in the West March too.",
+  "t": "最初的#HusbandOutWorld阿尔法战役，保存在这里供快速游戏使用。完整的开放式战役请看[DM指南](README.md)；这个单次冒险在西境里也可以作为一个**货物护送**委托来玩。"
+ },
+ "5eb0ce43f1ce": {
+  "en": "**1 day (Fast)** — good roads, light loads, or the DM wants to get to the action.",
+  "t": "**1天（快速）**——好路、轻载，或者DM想尽快进入正题。"
+ },
+ "5ffcd8fda6be": {
+  "en": "**Count the circles** from point A to point B along the map. A wagon from Forway to Sanbi crosses 6 circles; the [route lengths table](../Maps/README.md#route-lengths) has the rest.",
+  "t": "在地图上**数一数**从A点到B点的圈。从福威到桑比的货车要经过6个圈；其余的见[路线长度表](../Maps/README.md#route-lengths)。"
+ },
+ "67317ae44e7c": {
+  "en": "Players decide who stays awake, if anyone.",
+  "t": "玩家决定谁守夜，或者干脆没人守。"
+ },
+ "67fe1db765a4": {
+  "en": "**Days × 4 shifts** = how many time chunks you play. Roll events per shift, or once per circle to speed things up. Assuming ~5 minutes of playtime per shift, each day of travel is ~20 minutes of play.",
+  "t": "**天数 × 4个时段** = 要玩多少个时段。每个时段掷一次事件，或者为了加快节奏每个圈掷一次。按每个时段约5分钟游戏时间算，每一天的旅程约20分钟。"
+ },
+ "6d5075c781f9": {
+  "en": "**Afternoon (12pm–6pm)**",
+  "t": "**下午（12点–18点）**"
+ },
+ "7112ad71e850": {
+  "en": "**Roles** — who stays awake, who actively protects, who rests.",
+  "t": "**分工**——谁守夜、谁主动护卫、谁休息。"
+ },
+ "738d2099d47b": {
+  "en": "Each day is split into chunks:",
+  "t": "每天分成几个时段："
+ },
+ "85825c501db3": {
+  "en": "For each time chunk, players decide:",
+  "t": "每个时段，玩家决定："
+ },
+ "877b733a9812": {
+  "en": "Punishment (if caught by guards or reported by one of the people in the wagon or someone else.)",
+  "t": "惩罚（如果被卫兵抓住，或被货车上的人或其他人举报）。"
+ },
+ "89d7288616c2": {
+  "en": "Whatever makes the game more fun — do it.  \nIf you have a proposal for tweaking numbers, send us a PR modifying only the D&D campaign files!",
+  "t": "只要能让游戏更好玩——就去做。  \n如果你有调整数值的提议，就发一个只修改D&D战役文件的PR给我们！"
+ },
+ "8eb1c5f6ae7f": {
+  "en": "[Adventurers](Adventurers) — nine pre-made level 3 adventurers",
+  "t": "[冒险者](Adventurers)——九名预制的3级冒险者"
+ },
+ "9543e663f5ef": {
+  "en": "**Night (6pm–12am)**",
+  "t": "**夜晚（18点–0点）**"
+ },
+ "9dd9e1fa6888": {
+  "en": "Campaign Duration: travel by circles",
+  "t": "战役时长：按圈旅行"
+ },
+ "a1a1e1305505": {
+  "en": "*Nothing.",
+  "t": "*什么也没发生。"
+ },
+ "a37d475b4c17": {
+  "en": "**3 days (Slow)** — heavy wagon, off-road, swamp, desert, mountains, bad weather, or the DM wants the journey to *be* the adventure.",
+  "t": "**3天（慢速）**——重载货车、越野、沼泽、沙漠、山地、坏天气，或者DM想让旅程本身*就是*冒险。"
+ },
+ "a3cb49416a78": {
+  "en": "Daily Structure",
+  "t": "每日结构"
+ },
+ "ace517d536f1": {
+  "en": "**Combat** — roll initiative as usual.",
+  "t": "**战斗**——照常掷先攻。"
+ },
+ "bcc630834b56": {
+  "en": "*Find corpses (adventurers, other wagon, etc.)",
+  "t": "*发现尸体（冒险者、其他货车等）"
+ },
+ "bdb345622188": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md) — event rolls and regional encounter tables",
+  "t": "[事件与遭遇](07%20-%20Events%20&%20Encounters.md)——事件掷骰和各地区遭遇表"
+ },
+ "ca82d9e7c13d": {
+  "en": "*Broken wagon.",
+  "t": "*货车坏了。"
+ },
  "d212f917b48f": {
   "en": "For DMs",
   "t": "给DM们"
+ },
+ "d2d0b9f36830": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — the bandits' offer: help rob the wagon, gamble on the payout",
+  "t": "[内应计划](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)——强盗的提议：帮忙抢劫货车，赌一把分成"
+ },
+ "d9e8acc981bc": {
+  "en": "If in town or staying with other wagons, social actions become available. Prep Nari gels, etc.",
+  "t": "如果在城镇里或和其他货车一起扎营，就可以进行社交行动。准备纳里凝胶等。"
+ },
+ "da591a7e9f3b": {
+  "en": "Rewards.  ",
+  "t": "奖励。  "
+ },
+ "dc0b7234930e": {
+  "en": "**Eguas** graze during the Morning and Night and eat ~20 kg of grass, hay or Carbey a day — but there's no speed or load math. Pushing them harder is a good reason for the DM to pick a faster pace (with Con saves for everyone and cranky Eguas); bad terrain is a good reason for a slower one.",
+  "t": "**埃瓜**在上午和夜晚吃草，每天吃约20公斤青草、干草或卡贝——但不用算速度或负重。逼它们赶路是DM选择更快节奏的好理由（所有人进行体质豁免，还有脾气暴躁的埃瓜）；地形恶劣则是选择更慢节奏的好理由。"
+ },
+ "f27b8b733337": {
+  "en": "The campaign involves **2–6 players** working as adventurers protecting a wagon from one place to another. More of a one‑shot type of campaign.",
+  "t": "这个战役由**2–6名玩家**扮演冒险者，护送一辆货车从一个地方到另一个地方。更像是一次性的单次冒险。"
+ },
+ "f59374ff2724": {
+  "en": "**2 days (Standard)** — a normal wagon on roads and trails.",
+  "t": "**2天（标准）**——普通货车走大路和小道。"
+ },
+ "f6733a9b0481": {
+  "en": "Events, enemies for event types, etc. Possible events:",
+  "t": "事件、各类事件对应的敌人等。可能的事件："
+ },
+ "fdf10baf2f74": {
+  "en": "*Ambush from Fauna or beast. Bagarisa swarm, etc",
+  "t": "*动物或魔兽伏击。巴加里萨群等"
  }
 }

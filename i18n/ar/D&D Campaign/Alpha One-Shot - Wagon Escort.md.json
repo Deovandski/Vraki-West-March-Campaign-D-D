@@ -1,6 +1,194 @@
 {
+ "015151de15c4": {
+  "en": "[Stat Blocks](Stat%20Blocks) — beasts, fauna and people",
+  "t": "[بطاقات الإحصاءات](Stat%20Blocks) — الوحوش والحيوانات والناس"
+ },
+ "0ccd4252c532": {
+  "en": "*A bandit go-between offers a cut for helping rob the wagon ([The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)).",
+  "t": "*وسيط لقطّاع الطرق يعرض حصة مقابل المساعدة في سرقة العربة ([العمل من الداخل](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))."
+ },
+ "1eaa3917adfe": {
+  "en": "No need to calculate distances, Egua speeds or loads. The [travel map](../Maps) has **circles drawn along the routes connecting places**.",
+  "t": "لا حاجة لحساب المسافات أو سرعات الإيغوا أو الأحمال. في [خريطة السفر](../Maps) **دوائر مرسومة على طول الطرق التي تربط الأماكن**."
+ },
+ "1ffc59fb0037": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make the trip shorter or longer:",
+  "t": "**كل دائرة تمثل يومًا أو يومين أو ثلاثة أيام من السفر — يختار مدير اللعبة**، ليجعل الرحلة أقصر أو أطول:"
+ },
+ "2152f752587d": {
+  "en": "**Stay for rest** — repair, hunt for good dinner, barter, flirt, steal, etc.  ",
+  "t": "**البقاء للراحة** — الإصلاح، أو صيد عشاء جيد، أو المقايضة، أو المغازلة، أو السرقة، إلخ.  "
+ },
+ "21888858ff16": {
+  "en": "Additional Files",
+  "t": "ملفات إضافية"
+ },
+ "22362e946f58": {
+  "en": "**Travel** — keep the wagon moving, use companions (if they have them) to check for danger, let the Eguas graze, etc.",
+  "t": "**السفر** — إبقاء العربة سائرة، واستخدام الرفاق (إن وُجدوا) لاستطلاع الخطر، وترك الإيغوا ترعى، إلخ."
+ },
+ "234db54f6d14": {
+  "en": "Players can create their own characters, or use an existing adventurer. See [Adventurers](Adventurers) for pre-made characters, or [Making an Adventurer](02%20-%20Making%20an%20Adventurer.md).",
+  "t": "يمكن للاعبين صنع شخصياتهم الخاصة، أو استخدام مغامر جاهز. راجع [المغامرون](Adventurers) للشخصيات الجاهزة، أو [صنع مغامر](02%20-%20Making%20an%20Adventurer.md)."
+ },
+ "2a9c70c6d9c9": {
+  "en": "DM rolls dice for events.",
+  "t": "يرمي مدير اللعبة النرد للأحداث."
+ },
+ "33505ee7dd32": {
+  "en": "*Ambush from bandits",
+  "t": "*كمين من قطّاع الطرق"
+ },
+ "3b169b78cd9c": {
+  "en": "Player Decisions",
+  "t": "قرارات اللاعبين"
+ },
+ "3f0b9095c717": {
+  "en": "**Graveyard (12am–6am)**",
+  "t": "**آخر الليل (12 ص–6 ص)**"
+ },
+ "3fbb65e6d6fb": {
+  "en": "**Morning (6am–12pm)**",
+  "t": "**الصباح (6 ص–12 م)**"
+ },
+ "40392d89eb5b": {
+  "en": "DM rolls dice for events (or not).",
+  "t": "يرمي مدير اللعبة النرد للأحداث (أو لا)."
+ },
+ "426ccbd88842": {
+  "en": "DM Decisions",
+  "t": "قرارات مدير اللعبة"
+ },
+ "446d9967935a": {
+  "en": "Players decide their actions.",
+  "t": "يقرر اللاعبون أفعالهم."
+ },
+ "44c345a288ba": {
+  "en": "Alpha One-Shot: Wagon Escort",
+  "t": "مغامرة ألفا القصيرة: مرافقة العربة"
+ },
+ "4b4f7f54253a": {
+  "en": "The original metadata map with kilometers lives in the [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) for the lore-curious. Full travel rules: [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "خريطة البيانات الوصفية الأصلية بالكيلومترات موجودة في [مستودع #HusbandOutWorld](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) لمن يهوى الحكاية. قواعد السفر الكاملة: [السفر بالدوائر](01%20-%20Travel%20by%20Circles.md)."
+ },
+ "4fe6ce4319ee": {
+  "en": "The original #HusbandOutWorld Alpha campaign, kept here for quick games. For the full open-table campaign, see the [DM Guide](README.md); this one-shot works as a single **Cargo Protection** quest in the West March too.",
+  "t": "حملة ألفا الأصلية من #HusbandOutWorld، محفوظة هنا للألعاب السريعة. وللحملة الكاملة ذات الطاولة المفتوحة، راجع [دليل مدير اللعبة](README.md)؛ وتصلح هذه المغامرة القصيرة أيضًا مهمةً واحدة من نوع **حماية البضائع** في ويست مارش."
+ },
+ "5eb0ce43f1ce": {
+  "en": "**1 day (Fast)** — good roads, light loads, or the DM wants to get to the action.",
+  "t": "**يوم واحد (سريعة)** — طرق جيدة، وأحمال خفيفة، أو يريد مدير اللعبة الوصول إلى الحدث."
+ },
+ "5ffcd8fda6be": {
+  "en": "**Count the circles** from point A to point B along the map. A wagon from Forway to Sanbi crosses 6 circles; the [route lengths table](../Maps/README.md#route-lengths) has the rest.",
+  "t": "**عُدّ الدوائر** من النقطة أ إلى النقطة ب على الخريطة. العربة من فورواي إلى سانبي تعبر 6 دوائر؛ والباقي في [جدول أطوال الطرق](../Maps/README.md#route-lengths)."
+ },
+ "67317ae44e7c": {
+  "en": "Players decide who stays awake, if anyone.",
+  "t": "يقرر اللاعبون من يبقى مستيقظًا، إن بقي أحد."
+ },
+ "67fe1db765a4": {
+  "en": "**Days × 4 shifts** = how many time chunks you play. Roll events per shift, or once per circle to speed things up. Assuming ~5 minutes of playtime per shift, each day of travel is ~20 minutes of play.",
+  "t": "**الأيام × 4 نوبات** = عدد الفترات الزمنية التي تلعبونها. ارمِ للأحداث في كل نوبة، أو مرة لكل دائرة لتسريع الأمور. وعلى افتراض ~5 دقائق لعب لكل نوبة، فكل يوم سفر يساوي ~20 دقيقة لعب."
+ },
+ "6d5075c781f9": {
+  "en": "**Afternoon (12pm–6pm)**",
+  "t": "**بعد الظهر (12 م–6 م)**"
+ },
+ "7112ad71e850": {
+  "en": "**Roles** — who stays awake, who actively protects, who rests.",
+  "t": "**الأدوار** — من يبقى مستيقظًا، ومن يحمي بنشاط، ومن يرتاح."
+ },
+ "738d2099d47b": {
+  "en": "Each day is split into chunks:",
+  "t": "ينقسم كل يوم إلى فترات:"
+ },
+ "85825c501db3": {
+  "en": "For each time chunk, players decide:",
+  "t": "في كل فترة زمنية، يقرر اللاعبون:"
+ },
+ "877b733a9812": {
+  "en": "Punishment (if caught by guards or reported by one of the people in the wagon or someone else.)",
+  "t": "العقوبة (إن أمسك بهم الحراس أو أبلغ عنهم أحد من في العربة أو شخص آخر.)"
+ },
+ "89d7288616c2": {
+  "en": "Whatever makes the game more fun — do it.  \nIf you have a proposal for tweaking numbers, send us a PR modifying only the D&D campaign files!",
+  "t": "كل ما يجعل اللعبة أمتع — افعله.  \nوإن كان لديك اقتراح لتعديل الأرقام، أرسل لنا PR يعدّل ملفات حملة D&D فقط!"
+ },
+ "8eb1c5f6ae7f": {
+  "en": "[Adventurers](Adventurers) — nine pre-made level 3 adventurers",
+  "t": "[المغامرون](Adventurers) — تسعة مغامرين جاهزين من المستوى 3"
+ },
+ "9543e663f5ef": {
+  "en": "**Night (6pm–12am)**",
+  "t": "**الليل (6 م–12 ص)**"
+ },
+ "9dd9e1fa6888": {
+  "en": "Campaign Duration: travel by circles",
+  "t": "مدة الحملة: السفر بالدوائر"
+ },
+ "a1a1e1305505": {
+  "en": "*Nothing.",
+  "t": "*لا شيء."
+ },
+ "a37d475b4c17": {
+  "en": "**3 days (Slow)** — heavy wagon, off-road, swamp, desert, mountains, bad weather, or the DM wants the journey to *be* the adventure.",
+  "t": "**3 أيام (بطيئة)** — عربة ثقيلة، أو خارج الطرق، أو مستنقع، أو صحراء، أو جبال، أو طقس سيئ، أو يريد مدير اللعبة أن تكون الرحلة *هي* المغامرة."
+ },
+ "a3cb49416a78": {
+  "en": "Daily Structure",
+  "t": "بنية اليوم"
+ },
+ "ace517d536f1": {
+  "en": "**Combat** — roll initiative as usual.",
+  "t": "**القتال** — ارموا المبادرة كالمعتاد."
+ },
+ "bcc630834b56": {
+  "en": "*Find corpses (adventurers, other wagon, etc.)",
+  "t": "*العثور على جثث (مغامرون، عربة أخرى، إلخ)"
+ },
+ "bdb345622188": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md) — event rolls and regional encounter tables",
+  "t": "[الأحداث واللقاءات](07%20-%20Events%20&%20Encounters.md) — رميات الأحداث وجداول اللقاءات حسب الإقليم"
+ },
+ "ca82d9e7c13d": {
+  "en": "*Broken wagon.",
+  "t": "*عربة معطلة."
+ },
  "d212f917b48f": {
   "en": "For DMs",
   "t": "لمديري اللعبة"
+ },
+ "d2d0b9f36830": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — the bandits' offer: help rob the wagon, gamble on the payout",
+  "t": "[العمل من الداخل](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — عرض قطّاع الطرق: ساعد في سرقة العربة، وراهن على الحصة"
+ },
+ "d9e8acc981bc": {
+  "en": "If in town or staying with other wagons, social actions become available. Prep Nari gels, etc.",
+  "t": "إن كانوا في بلدة أو يبيتون مع عربات أخرى، تصبح الأفعال الاجتماعية متاحة. تحضير جل ناري، إلخ."
+ },
+ "da591a7e9f3b": {
+  "en": "Rewards.  ",
+  "t": "المكافآت.  "
+ },
+ "dc0b7234930e": {
+  "en": "**Eguas** graze during the Morning and Night and eat ~20 kg of grass, hay or Carbey a day — but there's no speed or load math. Pushing them harder is a good reason for the DM to pick a faster pace (with Con saves for everyone and cranky Eguas); bad terrain is a good reason for a slower one.",
+  "t": "**الإيغوا** ترعى في الصباح والليل وتأكل ~20 كغ من العشب أو التبن أو الكاربي يوميًا — لكن لا حسابات للسرعة أو الحمولة. إرهاقها سبب وجيه لأن يختار مدير اللعبة إيقاعًا أسرع (مع رميات إنقاذ البنية للجميع وإيغوا عصبية المزاج)؛ والأرض الوعرة سبب وجيه لإيقاع أبطأ."
+ },
+ "f27b8b733337": {
+  "en": "The campaign involves **2–6 players** working as adventurers protecting a wagon from one place to another. More of a one‑shot type of campaign.",
+  "t": "تضم الحملة **2–6 لاعبين** يعملون مغامرين يحمون عربة من مكان إلى آخر. وهي أقرب إلى حملة من جلسة واحدة."
+ },
+ "f59374ff2724": {
+  "en": "**2 days (Standard)** — a normal wagon on roads and trails.",
+  "t": "**يومان (عادية)** — عربة عادية على الطرق والدروب."
+ },
+ "f6733a9b0481": {
+  "en": "Events, enemies for event types, etc. Possible events:",
+  "t": "الأحداث، والأعداء بحسب نوع الحدث، إلخ. أحداث ممكنة:"
+ },
+ "fdf10baf2f74": {
+  "en": "*Ambush from Fauna or beast. Bagarisa swarm, etc",
+  "t": "*كمين من الحيوانات أو وحش. سرب باغاريسا، إلخ"
  }
 }

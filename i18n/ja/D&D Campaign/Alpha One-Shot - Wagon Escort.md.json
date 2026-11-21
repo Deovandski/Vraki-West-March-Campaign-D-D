@@ -1,6 +1,194 @@
 {
+ "015151de15c4": {
+  "en": "[Stat Blocks](Stat%20Blocks) — beasts, fauna and people",
+  "t": "[データ](Stat%20Blocks) — 魔獣、動物、人々"
+ },
+ "0ccd4252c532": {
+  "en": "*A bandit go-between offers a cut for helping rob the wagon ([The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)).",
+  "t": "*盗賊の仲介役が、荷馬車を襲う手助けをすれば分け前をやると持ちかける（[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）。"
+ },
+ "1eaa3917adfe": {
+  "en": "No need to calculate distances, Egua speeds or loads. The [travel map](../Maps) has **circles drawn along the routes connecting places**.",
+  "t": "距離、エグアの速さ、積載を計算する必要はない。[旅の地図](../Maps)には**場所と場所を結ぶルートに沿ってサークルが描かれている**。"
+ },
+ "1ffc59fb0037": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make the trip shorter or longer:",
+  "t": "**1サークルは旅の1日、2日、または3日を表す — どれにするかはDMが選ぶ**ことで、旅を短くも長くもできる："
+ },
+ "2152f752587d": {
+  "en": "**Stay for rest** — repair, hunt for good dinner, barter, flirt, steal, etc.  ",
+  "t": "**休んでいく** — 修理する、うまい夕食を狩る、値切る、口説く、盗む、など。  "
+ },
+ "21888858ff16": {
+  "en": "Additional Files",
+  "t": "その他のファイル"
+ },
+ "22362e946f58": {
+  "en": "**Travel** — keep the wagon moving, use companions (if they have them) to check for danger, let the Eguas graze, etc.",
+  "t": "**旅を続ける** — 荷馬車を進ませる、（いれば）相棒に危険を見張らせる、エグアに草を食ませる、など。"
+ },
+ "234db54f6d14": {
+  "en": "Players can create their own characters, or use an existing adventurer. See [Adventurers](Adventurers) for pre-made characters, or [Making an Adventurer](02%20-%20Making%20an%20Adventurer.md).",
+  "t": "プレイヤーは自分のキャラクターを作っても、既存の冒険者を使ってもいい。作成済みのキャラクターは[冒険者](Adventurers)を、作り方は[冒険者の作り方](02%20-%20Making%20an%20Adventurer.md)を参照。"
+ },
+ "2a9c70c6d9c9": {
+  "en": "DM rolls dice for events.",
+  "t": "DMがイベントのダイスを振る。"
+ },
+ "33505ee7dd32": {
+  "en": "*Ambush from bandits",
+  "t": "*盗賊の待ち伏せ"
+ },
+ "3b169b78cd9c": {
+  "en": "Player Decisions",
+  "t": "プレイヤーの決めること"
+ },
+ "3f0b9095c717": {
+  "en": "**Graveyard (12am–6am)**",
+  "t": "**深夜（午前0時〜午前6時）**"
+ },
+ "3fbb65e6d6fb": {
+  "en": "**Morning (6am–12pm)**",
+  "t": "**朝（午前6時〜正午）**"
+ },
+ "40392d89eb5b": {
+  "en": "DM rolls dice for events (or not).",
+  "t": "DMがイベントのダイスを振る（振らなくてもいい）。"
+ },
+ "426ccbd88842": {
+  "en": "DM Decisions",
+  "t": "DMの決めること"
+ },
+ "446d9967935a": {
+  "en": "Players decide their actions.",
+  "t": "プレイヤーが行動を決める。"
+ },
+ "44c345a288ba": {
+  "en": "Alpha One-Shot: Wagon Escort",
+  "t": "アルファ版の単発シナリオ：荷馬車の護衛"
+ },
+ "4b4f7f54253a": {
+  "en": "The original metadata map with kilometers lives in the [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) for the lore-curious. Full travel rules: [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "キロメートル入りの元のメタデータの地図は、設定が気になる人のために[#HusbandOutWorldのリポジトリ](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map)にある。旅の詳しいルール：[サークルで旅する](01%20-%20Travel%20by%20Circles.md)。"
+ },
+ "4fe6ce4319ee": {
+  "en": "The original #HusbandOutWorld Alpha campaign, kept here for quick games. For the full open-table campaign, see the [DM Guide](README.md); this one-shot works as a single **Cargo Protection** quest in the West March too.",
+  "t": "#HusbandOutWorldの元のアルファ版キャンペーンを、手軽な遊び用にここに残してある。誰でも参加できる卓の本格的なキャンペーンは[DMガイド](README.md)を参照。この単発シナリオは、ウェストマーチの中の一つの**積み荷の護衛**依頼としても使える。"
+ },
+ "5eb0ce43f1ce": {
+  "en": "**1 day (Fast)** — good roads, light loads, or the DM wants to get to the action.",
+  "t": "**1日（速い）** — 良い道、軽い荷、あるいはDMが早く本題に入りたいとき。"
+ },
+ "5ffcd8fda6be": {
+  "en": "**Count the circles** from point A to point B along the map. A wagon from Forway to Sanbi crosses 6 circles; the [route lengths table](../Maps/README.md#route-lengths) has the rest.",
+  "t": "地図上で地点Aから地点Bまでの**サークルを数える**。フォーウェイからサンビへの荷馬車は6サークルを越える。ほかは[ルートの長さの表](../Maps/README.md#route-lengths)にある。"
+ },
+ "67317ae44e7c": {
+  "en": "Players decide who stays awake, if anyone.",
+  "t": "誰が起きているか（そもそも誰か起きているか）をプレイヤーが決める。"
+ },
+ "67fe1db765a4": {
+  "en": "**Days × 4 shifts** = how many time chunks you play. Roll events per shift, or once per circle to speed things up. Assuming ~5 minutes of playtime per shift, each day of travel is ~20 minutes of play.",
+  "t": "**日数 × 4つの時間帯** = 遊ぶ時間帯の数。イベントは時間帯ごとに、あるいは手早く済ませたいならサークルごとに1回振る。1つの時間帯をおよそ5分の遊びと見れば、旅の1日はおよそ20分のプレイになる。"
+ },
+ "6d5075c781f9": {
+  "en": "**Afternoon (12pm–6pm)**",
+  "t": "**午後（正午〜午後6時）**"
+ },
+ "7112ad71e850": {
+  "en": "**Roles** — who stays awake, who actively protects, who rests.",
+  "t": "**役割** — 誰が起きているか、誰が積極的に守るか、誰が休むか。"
+ },
+ "738d2099d47b": {
+  "en": "Each day is split into chunks:",
+  "t": "1日はいくつかの時間帯に分かれる："
+ },
+ "85825c501db3": {
+  "en": "For each time chunk, players decide:",
+  "t": "時間帯ごとに、プレイヤーは次のことを決める："
+ },
+ "877b733a9812": {
+  "en": "Punishment (if caught by guards or reported by one of the people in the wagon or someone else.)",
+  "t": "刑罰（衛兵に捕まるか、荷馬車の誰かやほかの人に通報された場合）。"
+ },
+ "89d7288616c2": {
+  "en": "Whatever makes the game more fun — do it.  \nIf you have a proposal for tweaking numbers, send us a PR modifying only the D&D campaign files!",
+  "t": "ゲームが楽しくなるなら — やってしまおう。  \n数字の調整を提案したいなら、D&Dキャンペーンのファイルだけを変更したPRを送ってほしい！"
+ },
+ "8eb1c5f6ae7f": {
+  "en": "[Adventurers](Adventurers) — nine pre-made level 3 adventurers",
+  "t": "[冒険者](Adventurers) — 作成済みのレベル3の冒険者9人"
+ },
+ "9543e663f5ef": {
+  "en": "**Night (6pm–12am)**",
+  "t": "**夜（午後6時〜午前0時）**"
+ },
+ "9dd9e1fa6888": {
+  "en": "Campaign Duration: travel by circles",
+  "t": "キャンペーンの長さ：サークルで旅する"
+ },
+ "a1a1e1305505": {
+  "en": "*Nothing.",
+  "t": "*何も起きない。"
+ },
+ "a37d475b4c17": {
+  "en": "**3 days (Slow)** — heavy wagon, off-road, swamp, desert, mountains, bad weather, or the DM wants the journey to *be* the adventure.",
+  "t": "**3日（遅い）** — 重い荷馬車、道なき道、沼地、砂漠、山、悪天候、あるいはDMが旅そのものを冒険に*したい*とき。"
+ },
+ "a3cb49416a78": {
+  "en": "Daily Structure",
+  "t": "1日の流れ"
+ },
+ "ace517d536f1": {
+  "en": "**Combat** — roll initiative as usual.",
+  "t": "**戦闘** — いつもどおりイニシアチブをロールする。"
+ },
+ "bcc630834b56": {
+  "en": "*Find corpses (adventurers, other wagon, etc.)",
+  "t": "*死体を見つける（冒険者、ほかの荷馬車、など）"
+ },
+ "bdb345622188": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md) — event rolls and regional encounter tables",
+  "t": "[イベントと遭遇](07%20-%20Events%20&%20Encounters.md) — イベント・ロールと地域別の遭遇表"
+ },
+ "ca82d9e7c13d": {
+  "en": "*Broken wagon.",
+  "t": "*荷馬車の故障。"
+ },
  "d212f917b48f": {
   "en": "For DMs",
   "t": "DMの皆さんへ"
+ },
+ "d2d0b9f36830": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — the bandits' offer: help rob the wagon, gamble on the payout",
+  "t": "[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — 盗賊の持ちかけ：荷馬車を襲う手助けをして、分け前に賭ける"
+ },
+ "d9e8acc981bc": {
+  "en": "If in town or staying with other wagons, social actions become available. Prep Nari gels, etc.",
+  "t": "町にいるか、ほかの荷馬車と一緒に野営しているなら、社交的な行動ができる。ナリジェルの用意、など。"
+ },
+ "da591a7e9f3b": {
+  "en": "Rewards.  ",
+  "t": "報酬。  "
+ },
+ "dc0b7234930e": {
+  "en": "**Eguas** graze during the Morning and Night and eat ~20 kg of grass, hay or Carbey a day — but there's no speed or load math. Pushing them harder is a good reason for the DM to pick a faster pace (with Con saves for everyone and cranky Eguas); bad terrain is a good reason for a slower one.",
+  "t": "**エグア**は朝と夜に草を食み、1日に草、干し草、カーベイをおよそ20kg食べる — ただし速さや積載の計算はない。無理をさせるのは、DMが速いペースを選ぶ良い理由になる（全員に【耐久力】セーヴ、そして機嫌の悪いエグア）。悪い地形は遅いペースを選ぶ良い理由になる。"
+ },
+ "f27b8b733337": {
+  "en": "The campaign involves **2–6 players** working as adventurers protecting a wagon from one place to another. More of a one‑shot type of campaign.",
+  "t": "このキャンペーンでは、**2–6人のプレイヤー**が冒険者となり、荷馬車をある場所から別の場所まで守る。どちらかといえば単発向けのキャンペーンだ。"
+ },
+ "f59374ff2724": {
+  "en": "**2 days (Standard)** — a normal wagon on roads and trails.",
+  "t": "**2日（普通）** — 道や小道を行く普通の荷馬車。"
+ },
+ "f6733a9b0481": {
+  "en": "Events, enemies for event types, etc. Possible events:",
+  "t": "イベント、イベントの種類に応じた敵、など。考えられるイベント："
+ },
+ "fdf10baf2f74": {
+  "en": "*Ambush from Fauna or beast. Bagarisa swarm, etc",
+  "t": "*動物や魔獣の待ち伏せ。バガリサの群れ、など"
  }
 }

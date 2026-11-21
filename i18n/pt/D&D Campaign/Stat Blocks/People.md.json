@@ -1,0 +1,222 @@
+{
+ "0236415102a6": {
+  "en": "**Maul.** +6, 2d6+4 bludgeoning; on a hit, DC 13 Str save or knocked prone.",
+  "t": "**Malho.** +6, 2d6+4 concussão; ao acertar, teste de resistência de For DC 13 ou fica caído."
+ },
+ "07a7b2e85dde": {
+  "en": "**Wood People bandits:** carry fost stones to herd and steer Wood People (DC 12 to steer one 30 ft).",
+  "t": "**Bandidos da Wood People:** levam pedras fost para tocar e guiar a Wood People (DC 12 para guiar um por 30 pés)."
+ },
+ "0fee232fd478": {
+  "en": "Knows every quest, every deadline and everyone's debt. Bribable with gossip.",
+  "t": "Conhece cada missão, cada prazo e a dívida de todo mundo. Dá para subornar com fofoca."
+ },
+ "1230de140aac": {
+  "en": "**Black Honey Pot (1/day).** When reduced to 0 HP, an adjacent guard can use an action to revive it at 1 HP. Steal the pot (leg pocket) to stop it.",
+  "t": "**Pote de Mel Negro (1/dia).** Quando cai a 0 HP, um guarda adjacente pode usar uma ação para reanimá-lo com 1 HP. Roube o pote (bolso da perna) para impedir."
+ },
+ "13511c528b67": {
+  "en": "AC 17 (shiny plate-ish armor) · HP 25 · speed 25 ft",
+  "t": "AC 17 (armadura brilhante quase de placas) · HP 25 · deslocamento 25 pés"
+ },
+ "1951b7183d1e": {
+  "en": "**Nari Bomb (1/day).** Smoke (heavily obscured 20 ft) — then they either attack or leave.",
+  "t": "**Bomba de Nari (1/dia).** Fumaça (área de escuridão densa de 20 pés) — depois eles atacam ou vão embora."
+ },
+ "1c3ca56a75c4": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to all adjacent.",
+  "t": "**Explosão de Espinhos da Armadura (Recarga 6).** 2d6 perfurante em todos os adjacentes."
+ },
+ "29a602afd8d2": {
+  "en": "**Hallucinogen Reflexes.** Advantage on initiative and Dex saves.",
+  "t": "**Reflexos Alucinógenos.** Vantagem na iniciativa e em testes de resistência de Des."
+ },
+ "2d5263334e87": {
+  "en": "**Gore Charge.** Moves 20 ft straight and attacks: +7, 2d6+4 piercing; prone on a hit (DC 14 Str).",
+  "t": "**Investida com Chifres.** Move-se 20 pés em linha reta e ataca: +7, 2d6+4 perfurante; caído se acertar (For DC 14)."
+ },
+ "320874f96ff8": {
+  "en": "Tolerideme Guard (CR 2) — use *Guard*, but…",
+  "t": "Guarda de Tolerideme (CR 2) — use *Guarda*, mas…"
+ },
+ "3b8e5cbbaa7c": {
+  "en": "Sigil rings for four spells; a satchel of three random nari gels; lab notes worth 1 aquamarine to the right buyer; terrible people skills.",
+  "t": "Anéis de sigilo para quatro magias; uma bolsa com três géis de nari aleatórios; anotações de laboratório que valem 1 água-marinha para o comprador certo; péssimo com pessoas."
+ },
+ "4459a6e3416b": {
+  "en": "Big Winga Guard (CR 4)",
+  "t": "Guarda Big Winga (CR 4)"
+ },
+ "44c38ac88b36": {
+  "en": "Guards, bandits and specialists. Built on 5e NPC blocks with Vraki gear. All carry an embassy badge unless noted.",
+  "t": "Guardas, bandidos e especialistas. Baseados nas fichas de PdM de 5e com equipamento de Vraki. Todos levam um distintivo de embaixada, salvo indicação."
+ },
+ "4588770cb746": {
+  "en": "**Alone, Silent.** Helmet locks the tusks; can't speak while wearing it. Advantage on saves vs. fear.",
+  "t": "**Sozinho e Calado.** O elmo trava as presas; não consegue falar enquanto o usa. Vantagem em testes de resistência contra medo."
+ },
+ "4972b66312c3": {
+  "en": "Bandit (CR ⅛) / Bandit Captain (CR 2)",
+  "t": "Bandido (CR ⅛) / Capitão Bandido (CR 2)"
+ },
+ "4b07d1fecf6e": {
+  "en": "Mixed Human–Darfaries; red Walking Heart (undead).\nAC 16 · HP 170 · speed 40 ft",
+  "t": "Mestiço de humano e darfaries; Walking Heart vermelho (morto-vivo).\nAC 16 · HP 170 · deslocamento 40 pés"
+ },
+ "4eac88db08e6": {
+  "en": "The Stinger (CR 5) — Morika in Sweet Sting chitin",
+  "t": "The Stinger (CR 5) — Morika na quitina de Sweet Sting"
+ },
+ "516f98d608f7": {
+  "en": "**Never Negotiates.** Immune to Persuasion attempts to bargain.",
+  "t": "**Nunca Negocia.** Imune a tentativas de Persuasão para barganhar."
+ },
+ "5e83d8d48ae1": {
+  "en": "**Gauntlet.** +4, 1d8+2 bludgeoning.",
+  "t": "**Manopla.** +4, 1d8+2 concussão."
+ },
+ "619b1642dbab": {
+  "en": "Perfect cover identity (maid, florist, courtesan); Fake Skin gel; poisoned hairpin (Bleed Out I). \"We are here to please you.\"",
+  "t": "Identidade de fachada perfeita (empregada, florista, cortesã); gel de Fake Skin; grampo de cabelo envenenado (Bleed Out I). «Estamos aqui para agradar você.»"
+ },
+ "64f49fb45008": {
+  "en": "A Forway guard in Big Winga gel: use **Big Winga** stats, but Intelligence 10, can understand Vraki, and patrols embassies.",
+  "t": "Um guarda de Forway em gel de Big Winga: use as estatísticas de **Big Winga**, mas com Inteligência 10, entende vraki e patrulha embaixadas."
+ },
+ "76498dd7d77b": {
+  "en": "Soul Energy Scientist (CR 2) — use *Mage* (lower slots)",
+  "t": "Cientista de energia da alma (CR 2) — use *Mago* (menos espaços)"
+ },
+ "7b4b60e9db04": {
+  "en": "AC 16 (gauntlets + padding) · HP 30 · speed 25 ft",
+  "t": "AC 16 (manoplas + acolchoado) · HP 30 · deslocamento 25 pés"
+ },
+ "7dbaa9bf7dee": {
+  "en": "**Urban Legend.** Commoners who see it make a DC 12 Wis save or flee. Out of the armor he's mute, polite and anxious.",
+  "t": "**Lenda Urbana.** Plebeus que o veem fazem um teste de resistência de Sab DC 12 ou fogem. Fora da armadura ele é mudo, educado e ansioso."
+ },
+ "7ea03821ca8d": {
+  "en": "Use the 5e blocks. Vraki flavors:",
+  "t": "Use as fichas de 5e. Sabores de Vraki:"
+ },
+ "854970f19672": {
+  "en": "Sanbi Guard (CR 1) — use *Scout*",
+  "t": "Guarda de Sanbi (CR 1) — use *Batedor*"
+ },
+ "857f701797c0": {
+  "en": "Embassy Clerk (CR 0) — use *Commoner*",
+  "t": "Escrivão da embaixada (CR 0) — use *Plebeu*"
+ },
+ "993606c5cd98": {
+  "en": "**Stinger Slash.** Two attacks, +7, 1d8+4 slashing.",
+  "t": "**Corte do Ferrão.** Dois ataques, +7, 1d8+4 cortante."
+ },
+ "a0ad1b3e4e92": {
+  "en": "Kozaku Forway, Blue Wozens Boss (CR 9)",
+  "t": "Kozaku Forway, chefe dos Blue Wozens (CR 9)"
+ },
+ "a487976a4b05": {
+  "en": "Gandew Guard (CR 3) — use *Thug* with chitin",
+  "t": "Guarda de Gandew (CR 3) — use *Brutamontes* com quitina"
+ },
+ "a670e63b8ac0": {
+  "en": "AC 18 (chitin) · HP 45",
+  "t": "AC 18 (quitina) · HP 45"
+ },
+ "abb930ea22d2": {
+  "en": "**Undead.** No breathing, eating or sleep; immune to poison; can't be revived.",
+  "t": "**Morto-vivo.** Não respira, não come nem dorme; imune a veneno; não pode ser reanimado."
+ },
+ "b09a5c4aa8a6": {
+  "en": "**Nari Bomb Dash.** Throws smoke, then moves 30 ft without provoking.",
+  "t": "**Fuga com Bomba de Nari.** Joga fumaça e depois se move 30 pés sem provocar ataques."
+ },
+ "b37a90d4886e": {
+  "en": "People Stat Blocks",
+  "t": "Fichas de estatísticas: pessoas"
+ },
+ "b409cf7e7748": {
+  "en": "**Red Heart Rage.** Multiattack: three punches, +9, 2d10+6 bludgeoning. On a crit, the target's head is… gone (DC 15 Con save to survive at 0 HP instead).",
+  "t": "**Fúria do Coração Vermelho.** Ataques Múltiplos: três socos, +9, 2d10+6 concussão. Num crítico, a cabeça do alvo… some (teste de resistência de Con DC 15 para, em vez disso, sobreviver com 0 HP)."
+ },
+ "b8aaef8dfd76": {
+  "en": "**Pack Tactics.** Advantage on attacks while an ally is within 5 ft of the target. Always in groups of 3+.",
+  "t": "**Táticas de Matilha.** Vantagem nos ataques enquanto um aliado estiver a até 5 pés do alvo. Sempre em grupos de 3+."
+ },
+ "bbc7fcfa7538": {
+  "en": "Red Winga Agent (CR 2) — use *Spy*",
+  "t": "Agente da Red Winga (CR 2) — use *Espião*"
+ },
+ "c488677977f1": {
+  "en": "**Sleeve Sword.** +5, 1d6+3; can draw and attack as one action (surprise).",
+  "t": "**Espada na Manga.** +5, 1d6+3; pode sacar e atacar como uma única ação (surpresa)."
+ },
+ "c49f6bb5cf5c": {
+  "en": "Forway Captain (CR 5) — use *Veteran*",
+  "t": "Capitão de Forway (CR 5) — use *Veterano*"
+ },
+ "c5e3b3575eb6": {
+  "en": "**Superiority Complex.** If an enemy looked weak last turn (took the Dodge action, retreated, or failed a check), the guard has disadvantage on its next Wisdom (Insight) check and attack against that enemy.",
+  "t": "**Complexo de Superioridade.** Se um inimigo pareceu fraco no último turno (usou a ação Esquivar, recuou ou falhou num teste), o guarda tem desvantagem no próximo teste de Sabedoria (Intuição) e no próximo ataque contra esse inimigo."
+ },
+ "c673532a4dbc": {
+  "en": "**Longbow.** +4, 1d8+2 piercing; arrows may carry a nari gel (Body Paralysis II or Sleep Inducer I).",
+  "t": "**Arco Longo.** +4, 1d8+2 perfurante; as flechas podem levar um gel de nari (Body Paralysis II ou Sleep Inducer I)."
+ },
+ "c958063e2e51": {
+  "en": "Freeish Guard (CR 1)",
+  "t": "Guarda Freeish (CR 1)"
+ },
+ "ccfd193c3603": {
+  "en": "**Unstoppable.** Advantage on Str checks and saves. Red flame bursts from his chest when angry.",
+  "t": "**Imparável.** Vantagem em testes e testes de resistência de For. Chamas vermelhas saem do peito dele quando está com raiva."
+ },
+ "d3087640897e": {
+  "en": "**Blue Wozens:** blue Wozen badge; prefer robbery to killing (\"donation\"). ",
+  "t": "**Blue Wozens:** distintivo de Wozen azul; preferem roubar a matar («doação»). "
+ },
+ "d867cbc5f5f2": {
+  "en": "**Bagarisa Brothers:** use *Berserker*; secret tusk handshake.",
+  "t": "**Bagarisa Brothers:** use *Berserker*; aperto de mão secreto com as presas."
+ },
+ "db454435d4b3": {
+  "en": "**Fallen Tree:** ex-adventurers — use *Veteran*/*Spy*; hate embassy staff.",
+  "t": "**Fallen Tree:** ex-aventureiros — use *Veterano*/*Espião*; odeiam os funcionários da embaixada."
+ },
+ "dc3f4418293a": {
+  "en": "Forway Guard (CR 1) — use *Guard* + changes",
+  "t": "Guarda de Forway (CR 1) — use *Guarda* + mudanças"
+ },
+ "e090fef53559": {
+  "en": "**Beer Balls:** drunk; disadvantage on Wis saves; fight fiercely for beer.",
+  "t": "**Beer Balls:** bêbados; desvantagem em testes de resistência de Sab; lutam ferozmente por cerveja."
+ },
+ "e1eec0c0e3a4": {
+  "en": "AC 14 (bone-wood) · HP 22",
+  "t": "AC 14 (osso-madeira) · HP 22"
+ },
+ "ef072a0e73ec": {
+  "en": "**Everything Is a Weapon.** Improvised weapons count as proficient (1d6).",
+  "t": "**Tudo É Arma.** Armas improvisadas contam como armas com proficiência (1d6)."
+ },
+ "ef28c44a61fa": {
+  "en": "**Elemental Ball (slow).** Takes a full turn to charge (it's obvious); next turn ranged 60 ft, +5, 3d8 cold/fire/lightning/thunder. Only cast in packs of 4+.",
+  "t": "**Bola Elemental (lenta).** Leva um turno inteiro para carregar (dá para perceber); no turno seguinte, à distância de 60 pés, +5, 3d8 de frio/fogo/elétrico/trovejante. Só lançam em grupos de 4+."
+ },
+ "f536fddbeee8": {
+  "en": "**Black Magina:** never kill; Sleep Inducer darts (+4, DC 13 Con or unconscious 1 minute).",
+  "t": "**Black Magina:** nunca matam; dardos de Sleep Inducer (+4, Con DC 13 ou inconsciente por 1 minuto)."
+ },
+ "f56ab8004c44": {
+  "en": "**Burnout.** If he uses Multiattack 3 turns in a row, he takes 2d10 necrotic each extra turn (his soul is burning). Someone must stop him — or let him burn out.",
+  "t": "**Esgotamento.** Se usar Ataques Múltiplos 3 turnos seguidos, sofre 2d10 necrótico a cada turno extra (a alma dele está queimando). Alguém precisa pará-lo — ou deixar que ele se esgote."
+ },
+ "fb89d6354a8c": {
+  "en": "Same armor as a soldier plus a **fancy cap**. Adds: **Entangle Ring** (all allies within 120 ft hear its orders), **Body RESTORE ring** (Tier II, 2/day), authority over embassy grounds.",
+  "t": "A mesma armadura de um soldado mais um **quepe chique**. Acrescenta: **Entangle Ring** (todos os aliados a até 120 pés ouvem suas ordens), **anel de Body RESTORE** (Nível II, 2/dia), autoridade sobre o terreno da embaixada."
+ },
+ "fd68f87feed2": {
+  "en": "**Crossbow.** +4, 1d8+2 piercing, range 80/320.",
+  "t": "**Besta.** +4, 1d8+2 perfurante, alcance 80/320."
+ }
+}
