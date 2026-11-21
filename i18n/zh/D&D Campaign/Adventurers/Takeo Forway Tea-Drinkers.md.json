@@ -1,4 +1,12 @@
 {
+ "098df78db072": {
+  "en": "**Dagger.** +5 to hit, 1d4+3 piercing.",
+  "t": "**匕首。** 命中+5，1d4+3穿刺。"
+ },
+ "0bf6c19ae325": {
+  "en": "**Shortbow.** +5 to hit, 1d6+3 piercing.",
+  "t": "**短弓。** 命中+5，1d6+3穿刺。"
+ },
  "1125477d7a09": {
   "en": "Takeo Forway Tea-Drinkers — Level 3 Rogue (Inquisitive)",
   "t": "武雄·福威·蒂德林克斯——3级游荡者（审判者）"
@@ -11,9 +19,21 @@
   "en": "**Dark Side.** Lie to him and the politeness ends. When his Insight catches someone's lie, he has advantage on attacks and Intimidation checks against that creature until the end of the scene. Once he starts questioning someone, stopping takes a DC 12 Wisdom save.",
   "t": "**阴暗面。** 对他撒谎，礼貌就到头了。当他的洞悉识破某人的谎言时，直到这一幕结束，他对那个生物的攻击和威吓检定具有优势。一旦他开始审问某人，要停下来需要一次DC 12感知豁免。"
  },
+ "306a93d6bd63": {
+  "en": "**Skills:** Stealth +5, Investigation +5, Insight +5, Intimidation +4\n**Equipment:** Steel finger-clipping pliers, dark cloak, boots, a Steen stick to chew, a letter from his father Francisco, badge.\n**Hook:** Hates lies and hates being suspected. Has a very personal definition of justice.",
+  "t": "**技能：** 隐匿+5、调查+5、洞悉+5、威吓+4\n**装备：** 剪手指的钢钳、深色斗篷、靴子、一根用来嚼的斯廷枝、父亲弗朗西斯科的来信、身份牌。\n**剧情钩子：** 讨厌谎言，也讨厌被怀疑。对正义有一套非常个人化的定义。"
+ },
+ "34fbbfd8002d": {
+  "en": "**Insightful Fighting.** Bonus action: Insight vs. the target's Deception to get Sneak Attack without advantage.",
+  "t": "**洞察战斗。** 附赠动作：用洞悉对抗目标的欺瞒，成功则无需优势也能偷袭。"
+ },
  "6a5ad0d63585": {
   "en": "**Not Quite Darfaries.** Immune to being charmed for 1 round (1/day). Doesn't like being asked about his veins.",
   "t": "**不完全是达尔法里斯。** 1轮内免疫魅惑（1/日）。不喜欢别人问起他的血管。"
+ },
+ "6c865c4df135": {
+  "en": "Rogue Features",
+  "t": "游荡者特性"
  },
  "a3c24e61756d": {
   "en": "Features & Traits",
@@ -31,9 +51,17 @@
   "en": "Actions",
   "t": "动作"
  },
+ "b25d10ec1aa2": {
+  "en": "**Sneak Attack (2d6).**",
+  "t": "**偷袭（2d6）。**"
+ },
  "c5738e07a531": {
   "en": "**Curt.** Few words, a flat voice, and polite only up to a point. Disadvantage on Persuasion checks that need warmth or small talk; advantage on Intimidation when he goes quiet and just stares.",
   "t": "**简慢。** 话少，语气平板，礼貌也只到一定程度。需要热情或闲聊的游说检定具有劣势；当他沉默下来、只是盯着人看时，威吓具有优势。"
+ },
+ "dc4533abc8ab": {
+  "en": "**Hifuna Yabuca Habit.** Once per long rest he can eat a Hifuna fruit for +2 Strength for 1 hour. He also gains 1 Exposure (see Dangerous Places).",
+  "t": "**希富纳亚布卡习惯。** 每次长休一次，他可以吃一颗希富纳果实，1小时内力量+2。同时获得1点暴露（见危险之地）。"
  },
  "e445e97f209c": {
   "en": "**AC** 14 · **HP** 27 · **Speed** 30 ft\n**STR** 14 · **DEX** 16 · **CON** 14 · **INT** 12 · **WIS** 13 · **CHA** 10",
@@ -42,5 +70,13 @@
  "e9c8c9750663": {
   "en": "**Conflict Avoidant.** If allies argue, DC 10 Wis save or he leaves the scene for 1 round (\"We finished the quest. We celebrated. We all spoke our minds. Now we say our goodbyes.\").",
   "t": "**回避冲突。** 如果盟友吵起来，进行DC 10感知豁免，失败则离开现场1轮（“委托完成了。我们庆祝过了。大家都把话说出来了。现在该道别了。”）。"
+ },
+ "ee50b734c002": {
+  "en": "**Clip & Question (Recharge 6).** A grappled or restrained creature makes a DC 12 Wis save or is frightened for 1 round and answers one question truthfully.",
+  "t": "**剪指审问（充能6）。** 受擒或被束缚的生物进行DC 12感知豁免，失败则恐慌1轮，并如实回答一个问题。"
+ },
+ "fe5c6761cdeb": {
+  "en": "**Cunning Action.** Dash, Disengage or Hide as a bonus action.",
+  "t": "**灵巧动作。** 以附赠动作进行疾走、撤离或躲藏。"
  }
 }

@@ -1,4 +1,32 @@
 {
+ "16aa506d617f": {
+  "en": "**People:** Human · **Class:** Monk · **Background:** Tea-Drinkers Guild Fighter · **Alignment:** Chaotic Good · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**الشعب:** بشرية · **الفئة:** راهبة · **الخلفية:** مقاتلة نقابة تي درينكرز · **التوجه:** فوضوي خيّر · **الرتبة:** بيرل\n**الواجهة:** دارفاريس · **نقاط الروح:** 3"
+ },
+ "1b15ede6276a": {
+  "en": "Monk Features",
+  "t": "سمات الراهب"
+ },
+ "38be325bc776": {
+  "en": "**Protective of Mugi.** +2 to all rolls while defending her Sayna, Mugi.",
+  "t": "**حامية موغي.** +2 على كل الرميات وهي تدافع عن ساينتها موغي."
+ },
+ "3bb3c100c12a": {
+  "en": "**Voracious Charmer.** Advantage on Persuasion checks with men.",
+  "t": "**الفاتنة النهمة.** أفضلية على اختبارات الإقناع مع الرجال."
+ },
+ "61278beb91c1": {
+  "en": "**Grapple Flip.** On a hit, DC 12 Dex save or knocked prone.",
+  "t": "**قلبة الإمساك.** عند الإصابة، إنقاذ براعة DC 12 أو يسقط منبطحًا."
+ },
+ "6c8cbeb20ba9": {
+  "en": "**Martial Arts (1d6).**",
+  "t": "**فنون القتال (1d6).**"
+ },
+ "92f3d758fda0": {
+  "en": "**Nari Gel Trauma.** If someone forces a nari gel on her, she goes berserk for 1 round (attacks them, advantage, can't be calmed). She warns first.",
+  "t": "**صدمة جل ناري.** إن أجبرها أحد على تناول جل ناري، تهيج جولة واحدة (تهاجمه، بأفضلية، ولا يمكن تهدئتها). وهي تُنذر أولًا."
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "السمات والخصال"
@@ -6,5 +34,41 @@
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "الأفعال"
+ },
+ "b3e61d1b5b4e": {
+  "en": "Companion: Mugi (Sayna)",
+  "t": "الرفيقة: موغي (ساينا)"
+ },
+ "b481cdc6fff9": {
+  "en": "Use the Sayna stat block (Fauna). Hears up to a mile, spots invisible creatures and Sand Worms. Cuddly. Smarter than a cat.",
+  "t": "استخدم بطاقة إحصاءات الساينا (الحيوانات). تسمع حتى ميل، وترصد المخلوقات غير المرئية والساند وورم. تُحضَن. أذكى من قطة."
+ },
+ "b81d6a1df9ee": {
+  "en": "**Ki (3 points):** Flurry of Blows, Step of the Wind, Patient Defense.",
+  "t": "**الكي (3 نقاط):** وابل الضربات، خطوة الريح، الدفاع الصبور."
+ },
+ "bab22dbc0de4": {
+  "en": "**AC** 15 · **HP** 27 · **Speed** 40 ft\n**STR** 12 · **DEX** 16 · **CON** 12 · **INT** 11 · **WIS** 14 · **CHA** 16",
+  "t": "**AC** 15 · **HP** 27 · **السرعة** 40 قدمًا\n**القوة** 12 · **البراعة** 16 · **البنية** 12 · **الذكاء** 11 · **الحكمة** 14 · **الكاريزما** 16"
+ },
+ "c18352af4c41": {
+  "en": "**Skills:** Acrobatics +5, Persuasion +5, Insight +4, Performance +5\n**Equipment:** Tea-Drinkers uniform, hand wraps, hidden dagger, Mugi's grooming kit, badge.\n**Hook:** Don't pry into her past. She'll tell you once. Then she won't.",
+  "t": "**المهارات:** الألعاب البهلوانية +5، الإقناع +5، البصيرة +4، الأداء +5\n**العتاد:** زيّ تي درينكرز، لفائف لليدين، خنجر مخبأ، عدة تمشيط موغي، بطاقة.\n**الخيط:** لا تنبش في ماضيها. ستحكيه لك مرة. ثم لا."
+ },
+ "cdcf651cab1f": {
+  "en": "**CQC Master.** Unarmed strikes deal 1d6 instead of 1d4.",
+  "t": "**أستاذة القتال القريب.** الضربات بلا سلاح تُحدث 1d6 بدلًا من 1d4."
+ },
+ "da5fac24f004": {
+  "en": "July Forway Tea-Drinkers — Level 3 Monk (CQC Specialist)",
+  "t": "جولاي فورواي تي درينكرز — راهبة من المستوى 3 (متخصصة في القتال القريب)"
+ },
+ "eb825d125cdd": {
+  "en": "**Unarmed Strike.** +5 to hit, 1d6+3 bludgeoning.",
+  "t": "**ضربة بلا سلاح.** +5 للإصابة، 1d6+3 راض."
+ },
+ "fe96a3c07852": {
+  "en": "**Pressure-Point Burst (1 Ki).** 2d6 psychic, DC 12 Con save for half.",
+  "t": "**انفجار نقاط الضغط (1 كي).** 2d6 نفسي، إنقاذ بنية DC 12 للنصف."
  }
 }

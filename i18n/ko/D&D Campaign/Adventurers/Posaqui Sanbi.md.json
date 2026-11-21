@@ -1,10 +1,74 @@
 {
+ "2d0b80e867ac": {
+  "en": "**Glamour Burst (Recharge 6).** 2d6 psychic, DC 14 Wis save for half.",
+  "t": "**매혹 폭발(재충전 6).** 2d6 정신, DC 14 지혜 내성 성공 시 절반."
+ },
+ "38cbf19a4337": {
+  "en": "**Talk-Your-Way-Out.** Once per long rest, charm a humanoid for 10 minutes.",
+  "t": "**말로 빠져나가기.** 긴 휴식마다 한 번, 인간형 하나를 10분 동안 매혹한다."
+ },
+ "3b47c2c5479e": {
+  "en": "**AC** 14 · **HP** 22 · **Speed** 30 ft\n**STR** 8 · **DEX** 14 · **CON** 12 · **INT** 13 · **WIS** 10 · **CHA** 18",
+  "t": "**AC** 14 · **HP** 22 · **이동속도** 30피트\n**근력** 8 · **민첩** 14 · **건강** 12 · **지능** 13 · **지혜** 10 · **매력** 18"
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "주문시전"
+ },
+ "4cde420e4895": {
+  "en": "Bardic Inspiration (d6), Jack of All Trades, Mantle of Inspiration.",
+  "t": "바드의 고양감(d6), 만물박사, 고양의 망토."
+ },
+ "5fe5c2c2b4d4": {
+  "en": "Posaqui Sanbi — Level 3 Bard (Glamour)",
+  "t": "포사키 산비 — 3레벨 바드(매혹)"
+ },
+ "69429d3734d0": {
+  "en": "**Cutting Words.** Reaction: subtract 1d6 from an enemy's roll.",
+  "t": "**베어내는 말.** 반응행동: 적의 굴림에서 1d6을 뺀다."
+ },
+ "978b82033db2": {
+  "en": "**People:** Human · **Class:** Bard (College of Glamour) · **Background:** Information Broker · **Alignment:** Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**종족:** 인간 · **클래스:** 바드(매혹 학파) · **배경:** 정보상 · **성향:** 중립 · **계급:** 펄\n**인터페이스:** 다르파리에스 · **소울 포인트:** 3"
+ },
+ "983381fa02c8": {
+  "en": "**Skills:** Deception +8, Performance +8, Persuasion +8, Insight +2\n**Equipment:** Sparkling rapier, makeup kit, blue accessories, forged documents, a mirror, badge.\n**Hook:** Avoids fights, loves blue, hates fat Toleridemians, and always knows a little too much.",
+  "t": "**기술:** 기만 +8, 공연 +8, 설득 +8, 통찰 +2\n**장비:** 반짝이는 레이피어, 화장 도구, 파란 장신구, 위조 서류, 거울, 신분패.\n**떡밥:** 싸움을 피하고, 파란색을 사랑하고, 뚱뚱한 톨레리데메인을 싫어하며, 언제나 조금 지나치게 많이 안다."
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "특징과 특성"
  },
+ "aa823765a182": {
+  "en": "**Spell Save DC** 14 · *Charm Person, Dissonant Whispers, Healing Word, Faerie Fire, Silent Image, Suggestion*",
+  "t": "**주문 내성 DC** 14 · *인간 매혹, 불협화음의 속삭임, 치유의 단어, 요정불, 무음 영상, 암시*"
+ },
+ "ade78b47bdd6": {
+  "en": "Bard Features",
+  "t": "바드 특징"
+ },
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "행동"
+ },
+ "c84dca72b1eb": {
+  "en": "**Grandiose Performer.** Advantage on Performance checks.",
+  "t": "**허세 가득한 연기자.** 공연 판정에 이점."
+ },
+ "dd833d094f78": {
+  "en": "**Narcissistic Flare.** When complimented, +1 to his next roll.",
+  "t": "**나르시시스트의 과시.** 칭찬을 들으면 다음 굴림에 +1."
+ },
+ "e7581b66bfe2": {
+  "en": "**Rapier.** +4 to hit, 1d8+2 piercing.",
+  "t": "**레이피어.** 명중 +4, 1d8+2 관통."
+ },
+ "f59b9d8b85e5": {
+  "en": "**Beauty Rage.** If his looks are insulted, DC 12 Wis save or he lashes out.",
+  "t": "**미모의 분노.** 외모를 모욕당하면, DC 12 지혜 내성에 실패할 경우 덤벼든다."
+ },
+ "fd998e6effcb": {
+  "en": "**Friends in High Places.** Has a contract with someone powerful in Sanbi. (DM: see DM Secrets.)",
+  "t": "**높은 곳의 친구.** 산비의 권력자와 계약을 맺고 있다. (DM: DM의 비밀 참고.)"
  }
 }

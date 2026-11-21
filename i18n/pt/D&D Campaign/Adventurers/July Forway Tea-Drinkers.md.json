@@ -1,4 +1,32 @@
 {
+ "16aa506d617f": {
+  "en": "**People:** Human · **Class:** Monk · **Background:** Tea-Drinkers Guild Fighter · **Alignment:** Chaotic Good · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**Povo:** humana · **Classe:** monge · **Antecedente:** Lutadora da guilda Tea-Drinkers · **Tendência:** Caótico e Bom · **Patente:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3"
+ },
+ "1b15ede6276a": {
+  "en": "Monk Features",
+  "t": "Características de monge"
+ },
+ "38be325bc776": {
+  "en": "**Protective of Mugi.** +2 to all rolls while defending her Sayna, Mugi.",
+  "t": "**Protetora de Mugi.** +2 em todas as rolagens enquanto defende sua Sayna, Mugi."
+ },
+ "3bb3c100c12a": {
+  "en": "**Voracious Charmer.** Advantage on Persuasion checks with men.",
+  "t": "**Sedutora Voraz.** Vantagem em testes de Persuasão com homens."
+ },
+ "61278beb91c1": {
+  "en": "**Grapple Flip.** On a hit, DC 12 Dex save or knocked prone.",
+  "t": "**Virada no Agarrão.** Ao acertar, teste de resistência de Des DC 12 ou fica caído."
+ },
+ "6c8cbeb20ba9": {
+  "en": "**Martial Arts (1d6).**",
+  "t": "**Artes Marciais (1d6).**"
+ },
+ "92f3d758fda0": {
+  "en": "**Nari Gel Trauma.** If someone forces a nari gel on her, she goes berserk for 1 round (attacks them, advantage, can't be calmed). She warns first.",
+  "t": "**Trauma de Gel de Nari.** Se alguém a força a tomar um gel de nari, ela fica furiosa por 1 rodada (ataca a pessoa, com vantagem, e não há como acalmá-la). Ela avisa antes."
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "Características e traços"
@@ -6,5 +34,41 @@
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "Ações"
+ },
+ "b3e61d1b5b4e": {
+  "en": "Companion: Mugi (Sayna)",
+  "t": "Companheira: Mugi (Sayna)"
+ },
+ "b481cdc6fff9": {
+  "en": "Use the Sayna stat block (Fauna). Hears up to a mile, spots invisible creatures and Sand Worms. Cuddly. Smarter than a cat.",
+  "t": "Use a ficha da Sayna (Fauna). Ouve até uma milha, percebe criaturas invisíveis e Sand Worms. Fofinha. Mais esperta que um gato."
+ },
+ "b81d6a1df9ee": {
+  "en": "**Ki (3 points):** Flurry of Blows, Step of the Wind, Patient Defense.",
+  "t": "**Ki (3 pontos):** Rajada de Golpes, Passo do Vento, Defesa Paciente."
+ },
+ "bab22dbc0de4": {
+  "en": "**AC** 15 · **HP** 27 · **Speed** 40 ft\n**STR** 12 · **DEX** 16 · **CON** 12 · **INT** 11 · **WIS** 14 · **CHA** 16",
+  "t": "**AC** 15 · **HP** 27 · **Deslocamento** 40 pés\n**FOR** 12 · **DES** 16 · **CON** 12 · **INT** 11 · **SAB** 14 · **CAR** 16"
+ },
+ "c18352af4c41": {
+  "en": "**Skills:** Acrobatics +5, Persuasion +5, Insight +4, Performance +5\n**Equipment:** Tea-Drinkers uniform, hand wraps, hidden dagger, Mugi's grooming kit, badge.\n**Hook:** Don't pry into her past. She'll tell you once. Then she won't.",
+  "t": "**Perícias:** Acrobacia +5, Persuasão +5, Intuição +4, Atuação +5\n**Equipamento:** uniforme dos Tea-Drinkers, faixas para as mãos, adaga escondida, kit de cuidados da Mugi, distintivo.\n**Gancho:** Não fuce no passado dela. Ela conta uma vez. Depois, não."
+ },
+ "cdcf651cab1f": {
+  "en": "**CQC Master.** Unarmed strikes deal 1d6 instead of 1d4.",
+  "t": "**Mestra do Corpo a Corpo.** Ataques desarmados causam 1d6 em vez de 1d4."
+ },
+ "da5fac24f004": {
+  "en": "July Forway Tea-Drinkers — Level 3 Monk (CQC Specialist)",
+  "t": "July Forway Tea-Drinkers — Monge de nível 3 (especialista em combate corpo a corpo)"
+ },
+ "eb825d125cdd": {
+  "en": "**Unarmed Strike.** +5 to hit, 1d6+3 bludgeoning.",
+  "t": "**Ataque Desarmado.** +5 para acertar, 1d6+3 concussão."
+ },
+ "fe96a3c07852": {
+  "en": "**Pressure-Point Burst (1 Ki).** 2d6 psychic, DC 12 Con save for half.",
+  "t": "**Explosão de Pontos de Pressão (1 de Ki).** 2d6 psíquico, teste de resistência de Con DC 12 reduz à metade."
  }
 }

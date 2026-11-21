@@ -1,4 +1,32 @@
 {
+ "16aa506d617f": {
+  "en": "**People:** Human · **Class:** Monk · **Background:** Tea-Drinkers Guild Fighter · **Alignment:** Chaotic Good · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**種族：** 人間 · **クラス：** モンク · **背景：** ティー・ドリンカーズのギルドの戦士 · **属性：** 混沌にして善 · **階級：** パール\n**インターフェース：** ダルファリエス · **ソウルポイント：** 3"
+ },
+ "1b15ede6276a": {
+  "en": "Monk Features",
+  "t": "モンクの特徴"
+ },
+ "38be325bc776": {
+  "en": "**Protective of Mugi.** +2 to all rolls while defending her Sayna, Mugi.",
+  "t": "**ムギを守る。** 自分のサイナ、ムギを守っている間、すべてのロールに+2。"
+ },
+ "3bb3c100c12a": {
+  "en": "**Voracious Charmer.** Advantage on Persuasion checks with men.",
+  "t": "**貪欲な魅惑者。** 男性への〈説得〉判定に有利。"
+ },
+ "61278beb91c1": {
+  "en": "**Grapple Flip.** On a hit, DC 12 Dex save or knocked prone.",
+  "t": "**組み投げ。** 命中したら、DC 12の【敏捷力】セーヴに失敗すると伏せ状態。"
+ },
+ "6c8cbeb20ba9": {
+  "en": "**Martial Arts (1d6).**",
+  "t": "**マーシャル・アーツ（1d6）。**"
+ },
+ "92f3d758fda0": {
+  "en": "**Nari Gel Trauma.** If someone forces a nari gel on her, she goes berserk for 1 round (attacks them, advantage, can't be calmed). She warns first.",
+  "t": "**ナリジェルのトラウマ。** 誰かにナリジェルを無理やり飲まされると、1ラウンドの間暴れる（その相手を攻撃し、有利を得て、なだめられない）。先に警告はする。"
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "特徴と特性"
@@ -6,5 +34,41 @@
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "アクション"
+ },
+ "b3e61d1b5b4e": {
+  "en": "Companion: Mugi (Sayna)",
+  "t": "相棒：ムギ（サイナ）"
+ },
+ "b481cdc6fff9": {
+  "en": "Use the Sayna stat block (Fauna). Hears up to a mile, spots invisible creatures and Sand Worms. Cuddly. Smarter than a cat.",
+  "t": "サイナのデータ（動物）を使う。1マイル先まで聞こえ、不可視のクリーチャーとサンドワームを見つける。抱きしめたくなる。猫より賢い。"
+ },
+ "b81d6a1df9ee": {
+  "en": "**Ki (3 points):** Flurry of Blows, Step of the Wind, Patient Defense.",
+  "t": "**気（3ポイント）：** 連打、疾風の足運び、堅忍防御。"
+ },
+ "bab22dbc0de4": {
+  "en": "**AC** 15 · **HP** 27 · **Speed** 40 ft\n**STR** 12 · **DEX** 16 · **CON** 12 · **INT** 11 · **WIS** 14 · **CHA** 16",
+  "t": "**AC** 15 · **HP** 27 · **移動速度** 40フィート\n**【筋】** 12 · **【敏】** 16 · **【耐】** 12 · **【知】** 11 · **【判】** 14 · **【魅】** 16"
+ },
+ "c18352af4c41": {
+  "en": "**Skills:** Acrobatics +5, Persuasion +5, Insight +4, Performance +5\n**Equipment:** Tea-Drinkers uniform, hand wraps, hidden dagger, Mugi's grooming kit, badge.\n**Hook:** Don't pry into her past. She'll tell you once. Then she won't.",
+  "t": "**技能：** 〈軽業〉+5、〈説得〉+5、〈看破〉+4、〈芸能〉+5\n**装備：** ティー・ドリンカーズの制服、拳に巻く布、隠しダガー、ムギの手入れ道具、身分証。\n**フック：** 彼女の過去を詮索しないこと。一度は話してくれる。二度目はない。"
+ },
+ "cdcf651cab1f": {
+  "en": "**CQC Master.** Unarmed strikes deal 1d6 instead of 1d4.",
+  "t": "**近接格闘の達人。** 素手打撃のダメージが1d4ではなく1d6。"
+ },
+ "da5fac24f004": {
+  "en": "July Forway Tea-Drinkers — Level 3 Monk (CQC Specialist)",
+  "t": "ジュライ・フォーウェイ・ティー・ドリンカーズ — レベル3のモンク（近接格闘の専門家）"
+ },
+ "eb825d125cdd": {
+  "en": "**Unarmed Strike.** +5 to hit, 1d6+3 bludgeoning.",
+  "t": "**素手打撃。** 命中+5、1d6+3の殴打。"
+ },
+ "fe96a3c07852": {
+  "en": "**Pressure-Point Burst (1 Ki).** 2d6 psychic, DC 12 Con save for half.",
+  "t": "**ツボ打ちの炸裂（気1）。** 2d6の精神、DC 12の【耐久力】セーヴで半減。"
  }
 }

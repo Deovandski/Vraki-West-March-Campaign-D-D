@@ -1,4 +1,32 @@
 {
+ "16aa506d617f": {
+  "en": "**People:** Human · **Class:** Monk · **Background:** Tea-Drinkers Guild Fighter · **Alignment:** Chaotic Good · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**种族：** 人类 · **职业：** 武僧 · **背景：** 蒂德林克斯公会斗士 · **阵营：** 混乱善良 · **级别：** 珀尔\n**界面：** 达尔法里斯 · **灵魂点数：** 3"
+ },
+ "1b15ede6276a": {
+  "en": "Monk Features",
+  "t": "武僧特性"
+ },
+ "38be325bc776": {
+  "en": "**Protective of Mugi.** +2 to all rolls while defending her Sayna, Mugi.",
+  "t": "**守护麦吉。** 保护她的赛纳麦吉时，所有掷骰+2。"
+ },
+ "3bb3c100c12a": {
+  "en": "**Voracious Charmer.** Advantage on Persuasion checks with men.",
+  "t": "**贪婪的魅惑者。** 对男性的游说检定具有优势。"
+ },
+ "61278beb91c1": {
+  "en": "**Grapple Flip.** On a hit, DC 12 Dex save or knocked prone.",
+  "t": "**擒摔。** 命中时，DC 12敏捷豁免，失败则倒地。"
+ },
+ "6c8cbeb20ba9": {
+  "en": "**Martial Arts (1d6).**",
+  "t": "**武艺（1d6）。**"
+ },
+ "92f3d758fda0": {
+  "en": "**Nari Gel Trauma.** If someone forces a nari gel on her, she goes berserk for 1 round (attacks them, advantage, can't be calmed). She warns first.",
+  "t": "**纳里凝胶创伤。** 如果有人强迫她服用纳里凝胶，她会狂暴1轮（攻击对方，具有优势，劝不住）。她会先警告。"
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "特性与特质"
@@ -6,5 +34,41 @@
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "动作"
+ },
+ "b3e61d1b5b4e": {
+  "en": "Companion: Mugi (Sayna)",
+  "t": "伙伴：麦吉（赛纳）"
+ },
+ "b481cdc6fff9": {
+  "en": "Use the Sayna stat block (Fauna). Hears up to a mile, spots invisible creatures and Sand Worms. Cuddly. Smarter than a cat.",
+  "t": "使用赛纳的数据卡（动物）。能听到一英里远，能发现隐形生物和桑德沃姆。软乎乎的。比猫聪明。"
+ },
+ "b81d6a1df9ee": {
+  "en": "**Ki (3 points):** Flurry of Blows, Step of the Wind, Patient Defense.",
+  "t": "**气（3点）：** 疾风连击、疾步如风、坚强防御。"
+ },
+ "bab22dbc0de4": {
+  "en": "**AC** 15 · **HP** 27 · **Speed** 40 ft\n**STR** 12 · **DEX** 16 · **CON** 12 · **INT** 11 · **WIS** 14 · **CHA** 16",
+  "t": "**AC** 15 · **HP** 27 · **速度** 40尺\n**力量** 12 · **敏捷** 16 · **体质** 12 · **智力** 11 · **感知** 14 · **魅力** 16"
+ },
+ "c18352af4c41": {
+  "en": "**Skills:** Acrobatics +5, Persuasion +5, Insight +4, Performance +5\n**Equipment:** Tea-Drinkers uniform, hand wraps, hidden dagger, Mugi's grooming kit, badge.\n**Hook:** Don't pry into her past. She'll tell you once. Then she won't.",
+  "t": "**技能：** 特技+5、游说+5、洞悉+4、表演+5\n**装备：** 蒂德林克斯制服、缠手布、暗藏的匕首、麦吉的梳理工具、身份牌。\n**剧情钩子：** 别打听她的过去。她会说一次。然后就不说了。"
+ },
+ "cdcf651cab1f": {
+  "en": "**CQC Master.** Unarmed strikes deal 1d6 instead of 1d4.",
+  "t": "**近身格斗大师。** 徒手打击造成1d6而不是1d4。"
+ },
+ "da5fac24f004": {
+  "en": "July Forway Tea-Drinkers — Level 3 Monk (CQC Specialist)",
+  "t": "朱莉·福威·蒂德林克斯——3级武僧（近身格斗专家）"
+ },
+ "eb825d125cdd": {
+  "en": "**Unarmed Strike.** +5 to hit, 1d6+3 bludgeoning.",
+  "t": "**徒手打击。** 命中+5，1d6+3钝击。"
+ },
+ "fe96a3c07852": {
+  "en": "**Pressure-Point Burst (1 Ki).** 2d6 psychic, DC 12 Con save for half.",
+  "t": "**穴位爆发（1点气）。** 2d6心灵，DC 12体质豁免成功则减半。"
  }
 }

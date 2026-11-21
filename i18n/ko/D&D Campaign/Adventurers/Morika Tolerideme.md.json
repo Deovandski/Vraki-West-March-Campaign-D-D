@@ -1,10 +1,70 @@
 {
+ "04c03cca5d8d": {
+  "en": "**People:** Human · **Class:** Barbarian (Path of the Beast-lite) · **Background:** Unknown Wanderer · **Alignment:** Chaotic Neutral · **Rank:** Pearl (on paper)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**종족:** 인간 · **클래스:** 바바리안(간이 야수의 길) · **배경:** 정체불명의 방랑자 · **성향:** 혼돈 중립 · **계급:** 펄(서류상)\n**인터페이스:** 다르파리에스 · **소울 포인트:** 5"
+ },
+ "2a6d0cfb4e1f": {
+  "en": "**Gore Charge (raging).** +5 to hit, 2d6+3 piercing.",
+  "t": "**뿔 돌진(격노 중).** 명중 +5, 2d6+3 관통."
+ },
+ "2eace524d94f": {
+  "en": "**AC** 15 (Stinger chitin armor) / 15 unarmored (10 + Dex + Con) · **HP** 36 · **Speed** 30 ft\n**STR** 16 · **DEX** 14 · **CON** 16 · **INT** 10 · **WIS** 12 · **CHA** 10",
+  "t": "**AC** 15(스팅어 키틴 갑옷) / 갑옷 없이 15(10 + 민첩 + 건강) · **HP** 36 · **이동속도** 30피트\n**근력** 16 · **민첩** 14 · **건강** 16 · **지능** 10 · **지혜** 12 · **매력** 10"
+ },
+ "4e861c45e27e": {
+  "en": "**Blood-Soaked Wanderer.** Advantage on Intimidation while covered in gore.",
+  "t": "**피에 젖은 방랑자.** 피와 내장을 뒤집어쓰고 있는 동안 위협에 이점."
+ },
+ "56431754db05": {
+  "en": "**Dual Persona.** *Armor on:* bold, loud, reckless (The Stinger). *Armor off:* mute, meticulous, polite to the point of sounding robotic.",
+  "t": "**이중인격.** *갑옷을 입으면:* 대담하고, 시끄럽고, 무모하다(스팅어). *갑옷을 벗으면:* 말이 없고, 꼼꼼하고, 로봇처럼 들릴 만큼 예의 바르다."
+ },
+ "5a47ec5e5d46": {
+  "en": "**Unarmored Defense.** AC = 10 + Dex + Con when the armor is off.",
+  "t": "**비무장 방어.** 갑옷을 벗었을 때 AC = 10 + 민첩 + 건강."
+ },
+ "905f708e5fcf": {
+  "en": "**Urban Legend.** Commoners have disadvantage to identify the Stinger as Morika.",
+  "t": "**도시 전설.** 평민이 스팅어가 모리카라는 걸 알아보는 데 불리점."
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "특징과 특성"
  },
+ "ad8f49708d9a": {
+  "en": "**Reckless Attack, Danger Sense.**",
+  "t": "**무모한 공격, 위험 감지.**"
+ },
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "행동"
+ },
+ "c3af44c4e708": {
+  "en": "Barbarian Features",
+  "t": "바바리안 특징"
+ },
+ "cce5c08a4e6f": {
+  "en": "**Rage (3/day).** +2 damage; resistance to bludgeoning, piercing and slashing.",
+  "t": "**격노(3/일).** 피해 +2. 타격, 관통, 참격 피해에 저항."
+ },
+ "ea1fd6abdd59": {
+  "en": "**Stinger Slash.** +5 to hit, 1d8+3 slashing.",
+  "t": "**독침 베기.** 명중 +5, 1d8+3 참격."
+ },
+ "eb5eefdd2d92": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to everything within 5 ft.",
+  "t": "**갑옷 가시 폭발(재충전 6).** 5피트 이내의 모든 것에 2d6 관통."
+ },
+ "ec1c5df4e822": {
+  "en": "**Skills:** Athletics +5, Survival +3, Perception +3\n**Equipment:** Stinger chitin armor (modeled on a Sweet Sting), serrated blade, blood-stained cloak, journal, a jar of black honey, badge.\n**Hook:** Nobody knows the Stinger is Morika. Keep it that way.",
+  "t": "**기술:** 운동 +5, 생존 +3, 감지 +3\n**장비:** 스팅어 키틴 갑옷(스위트 스팅을 본뜬 것), 톱니 칼날, 피 묻은 망토, 일지, 검은 꿀 한 병, 신분패.\n**떡밥:** 스팅어가 모리카라는 걸 아무도 모른다. 계속 그렇게 두어라."
+ },
+ "f127ea27edb7": {
+  "en": "Morika Tolerideme — Level 3 Barbarian (\"The Stinger\")",
+  "t": "모리카 톨레리데메 — 3레벨 바바리안(‘스팅어’)"
+ },
+ "f45a390d6c0f": {
+  "en": "**Too Thin for Tolerideme.** Toleridemians mock him; he avoids home.",
+  "t": "**톨레리데메에 비하면 너무 마른.** 톨레리데메인들이 그를 놀리므로, 고향을 피한다."
  }
 }

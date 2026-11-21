@@ -1,4 +1,12 @@
 {
+ "098df78db072": {
+  "en": "**Dagger.** +5 to hit, 1d4+3 piercing.",
+  "t": "**Daga.** +5 para impactar, 1d4+3 perforante."
+ },
+ "0bf6c19ae325": {
+  "en": "**Shortbow.** +5 to hit, 1d6+3 piercing.",
+  "t": "**Arco corto.** +5 para impactar, 1d6+3 perforante."
+ },
  "1125477d7a09": {
   "en": "Takeo Forway Tea-Drinkers — Level 3 Rogue (Inquisitive)",
   "t": "Takeo Forway Tea-Drinkers — Pícaro de nivel 3 (Inquisitivo)"
@@ -11,9 +19,21 @@
   "en": "**Dark Side.** Lie to him and the politeness ends. When his Insight catches someone's lie, he has advantage on attacks and Intimidation checks against that creature until the end of the scene. Once he starts questioning someone, stopping takes a DC 12 Wisdom save.",
   "t": "**Lado oscuro.** Miéntele y se acabó la educación. Cuando su Perspicacia pilla la mentira de alguien, tiene ventaja en los ataques y en las pruebas de Intimidación contra esa criatura hasta el final de la escena. Una vez que empieza a interrogar a alguien, parar requiere una salvación de Sabiduría DC 12."
  },
+ "306a93d6bd63": {
+  "en": "**Skills:** Stealth +5, Investigation +5, Insight +5, Intimidation +4\n**Equipment:** Steel finger-clipping pliers, dark cloak, boots, a Steen stick to chew, a letter from his father Francisco, badge.\n**Hook:** Hates lies and hates being suspected. Has a very personal definition of justice.",
+  "t": "**Habilidades:** Sigilo +5, Investigación +5, Perspicacia +5, Intimidación +4\n**Equipo:** tenazas de acero para cortar dedos, capa oscura, botas, un palito de Steen para mascar, una carta de su padre Francisco, insignia.\n**Gancho:** Odia las mentiras y odia que sospechen de él. Tiene una definición muy personal de la justicia."
+ },
+ "34fbbfd8002d": {
+  "en": "**Insightful Fighting.** Bonus action: Insight vs. the target's Deception to get Sneak Attack without advantage.",
+  "t": "**Combate perspicaz.** Acción adicional: Perspicacia contra el Engaño del objetivo para tener Ataque furtivo sin ventaja."
+ },
  "6a5ad0d63585": {
   "en": "**Not Quite Darfaries.** Immune to being charmed for 1 round (1/day). Doesn't like being asked about his veins.",
   "t": "**No del todo darfaries.** Inmune a ser hechizado durante 1 asalto (1/día). No le gusta que le pregunten por sus venas."
+ },
+ "6c865c4df135": {
+  "en": "Rogue Features",
+  "t": "Rasgos de pícaro"
  },
  "a3c24e61756d": {
   "en": "Features & Traits",
@@ -31,9 +51,17 @@
   "en": "Actions",
   "t": "Acciones"
  },
+ "b25d10ec1aa2": {
+  "en": "**Sneak Attack (2d6).**",
+  "t": "**Ataque furtivo (2d6).**"
+ },
  "c5738e07a531": {
   "en": "**Curt.** Few words, a flat voice, and polite only up to a point. Disadvantage on Persuasion checks that need warmth or small talk; advantage on Intimidation when he goes quiet and just stares.",
   "t": "**Seco.** Pocas palabras, voz monótona y educado solo hasta cierto punto. Desventaja en las pruebas de Persuasión que requieran calidez o charla; ventaja en Intimidación cuando se calla y se queda mirando."
+ },
+ "dc4533abc8ab": {
+  "en": "**Hifuna Yabuca Habit.** Once per long rest he can eat a Hifuna fruit for +2 Strength for 1 hour. He also gains 1 Exposure (see Dangerous Places).",
+  "t": "**Hábito de la Yabuca de Hifuna.** Una vez por descanso largo puede comerse una fruta de Hifuna para obtener +2 a Fuerza durante 1 hora. También gana 1 de Exposición (ver Lugares peligrosos)."
  },
  "e445e97f209c": {
   "en": "**AC** 14 · **HP** 27 · **Speed** 30 ft\n**STR** 14 · **DEX** 16 · **CON** 14 · **INT** 12 · **WIS** 13 · **CHA** 10",
@@ -42,5 +70,13 @@
  "e9c8c9750663": {
   "en": "**Conflict Avoidant.** If allies argue, DC 10 Wis save or he leaves the scene for 1 round (\"We finished the quest. We celebrated. We all spoke our minds. Now we say our goodbyes.\").",
   "t": "**Evita los conflictos.** Si los aliados discuten, salvación de Sab DC 10 o se va de la escena durante 1 asalto («Terminamos la misión. Lo celebramos. Todos dijimos lo que pensábamos. Ahora nos despedimos.»)."
+ },
+ "ee50b734c002": {
+  "en": "**Clip & Question (Recharge 6).** A grappled or restrained creature makes a DC 12 Wis save or is frightened for 1 round and answers one question truthfully.",
+  "t": "**Cortar y preguntar (Recarga 6).** Una criatura agarrada o apresada hace una salvación de Sab DC 12 o queda asustada durante 1 asalto y responde con la verdad a una pregunta."
+ },
+ "fe5c6761cdeb": {
+  "en": "**Cunning Action.** Dash, Disengage or Hide as a bonus action.",
+  "t": "**Acción astuta.** Correr, Destrabarse o Esconderse como acción adicional."
  }
 }

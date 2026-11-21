@@ -1,10 +1,74 @@
 {
+ "2d0b80e867ac": {
+  "en": "**Glamour Burst (Recharge 6).** 2d6 psychic, DC 14 Wis save for half.",
+  "t": "**انفجار السحر الفاتن (إعادة شحن 6).** 2d6 نفسي، إنقاذ حكمة DC 14 للنصف."
+ },
+ "38cbf19a4337": {
+  "en": "**Talk-Your-Way-Out.** Once per long rest, charm a humanoid for 10 minutes.",
+  "t": "**الخروج بالكلام.** مرة في كل استراحة طويلة، يسحر كائنًا بشريًا لمدة 10 دقائق."
+ },
+ "3b47c2c5479e": {
+  "en": "**AC** 14 · **HP** 22 · **Speed** 30 ft\n**STR** 8 · **DEX** 14 · **CON** 12 · **INT** 13 · **WIS** 10 · **CHA** 18",
+  "t": "**AC** 14 · **HP** 22 · **السرعة** 30 قدمًا\n**القوة** 8 · **البراعة** 14 · **البنية** 12 · **الذكاء** 13 · **الحكمة** 10 · **الكاريزما** 18"
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "إلقاء التعاويذ"
+ },
+ "4cde420e4895": {
+  "en": "Bardic Inspiration (d6), Jack of All Trades, Mantle of Inspiration.",
+  "t": "الإلهام البردي (d6)، متعدد المهارات، عباءة الإلهام."
+ },
+ "5fe5c2c2b4d4": {
+  "en": "Posaqui Sanbi — Level 3 Bard (Glamour)",
+  "t": "بوساكي سانبي — شاعر جوّال من المستوى 3 (السحر الفاتن)"
+ },
+ "69429d3734d0": {
+  "en": "**Cutting Words.** Reaction: subtract 1d6 from an enemy's roll.",
+  "t": "**الكلمات القاطعة.** رد فعل: اطرح 1d6 من رمية عدو."
+ },
+ "978b82033db2": {
+  "en": "**People:** Human · **Class:** Bard (College of Glamour) · **Background:** Information Broker · **Alignment:** Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**الشعب:** بشري · **الفئة:** شاعر جوّال (كلية السحر الفاتن) · **الخلفية:** سمسار معلومات · **التوجه:** محايد · **الرتبة:** بيرل\n**الواجهة:** دارفاريس · **نقاط الروح:** 3"
+ },
+ "983381fa02c8": {
+  "en": "**Skills:** Deception +8, Performance +8, Persuasion +8, Insight +2\n**Equipment:** Sparkling rapier, makeup kit, blue accessories, forged documents, a mirror, badge.\n**Hook:** Avoids fights, loves blue, hates fat Toleridemians, and always knows a little too much.",
+  "t": "**المهارات:** الخداع +8، الأداء +8، الإقناع +8، البصيرة +2\n**العتاد:** سيف رفيع لامع، عدة تجميل، إكسسوارات زرقاء، وثائق مزوّرة، مرآة، بطاقة.\n**الخيط:** يتجنب العراك، ويحب الأزرق، ويكره التوليريديميين البدناء، ويعرف دائمًا أكثر مما ينبغي بقليل."
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "السمات والخصال"
  },
+ "aa823765a182": {
+  "en": "**Spell Save DC** 14 · *Charm Person, Dissonant Whispers, Healing Word, Faerie Fire, Silent Image, Suggestion*",
+  "t": "**DC إنقاذ التعاويذ** 14 · *سحر شخص، الهمسات النشاز، كلمة الشفاء، نار الجنيات، الصورة الصامتة، الإيحاء*"
+ },
+ "ade78b47bdd6": {
+  "en": "Bard Features",
+  "t": "سمات الشاعر الجوّال"
+ },
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "الأفعال"
+ },
+ "c84dca72b1eb": {
+  "en": "**Grandiose Performer.** Advantage on Performance checks.",
+  "t": "**المؤدي المتعاظم.** أفضلية على اختبارات الأداء."
+ },
+ "dd833d094f78": {
+  "en": "**Narcissistic Flare.** When complimented, +1 to his next roll.",
+  "t": "**نزوة نرجسية.** حين يُمدح، +1 على رميته التالية."
+ },
+ "e7581b66bfe2": {
+  "en": "**Rapier.** +4 to hit, 1d8+2 piercing.",
+  "t": "**السيف الرفيع.** +4 للإصابة، 1d8+2 خارق."
+ },
+ "f59b9d8b85e5": {
+  "en": "**Beauty Rage.** If his looks are insulted, DC 12 Wis save or he lashes out.",
+  "t": "**غضب الجمال.** إن أُهين مظهره، إنقاذ حكمة DC 12 أو ينفجر غضبًا."
+ },
+ "fd998e6effcb": {
+  "en": "**Friends in High Places.** Has a contract with someone powerful in Sanbi. (DM: see DM Secrets.)",
+  "t": "**أصدقاء في الأعالي.** لديه عقد مع شخص نافذ في سانبي. (مدير اللعبة: انظر أسرار مدير اللعبة.)"
  }
 }

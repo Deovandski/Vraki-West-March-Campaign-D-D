@@ -1,10 +1,74 @@
 {
+ "2d0b80e867ac": {
+  "en": "**Glamour Burst (Recharge 6).** 2d6 psychic, DC 14 Wis save for half.",
+  "t": "**Explosão de Glamour (Recarga 6).** 2d6 psíquico, teste de resistência de Sab DC 14 reduz à metade."
+ },
+ "38cbf19a4337": {
+  "en": "**Talk-Your-Way-Out.** Once per long rest, charm a humanoid for 10 minutes.",
+  "t": "**Sair na Conversa.** Uma vez por descanso longo, enfeitiça um humanoide por 10 minutos."
+ },
+ "3b47c2c5479e": {
+  "en": "**AC** 14 · **HP** 22 · **Speed** 30 ft\n**STR** 8 · **DEX** 14 · **CON** 12 · **INT** 13 · **WIS** 10 · **CHA** 18",
+  "t": "**AC** 14 · **HP** 22 · **Deslocamento** 30 pés\n**FOR** 8 · **DES** 14 · **CON** 12 · **INT** 13 · **SAB** 10 · **CAR** 18"
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "Conjuração"
+ },
+ "4cde420e4895": {
+  "en": "Bardic Inspiration (d6), Jack of All Trades, Mantle of Inspiration.",
+  "t": "Inspiração de Bardo (d6), Versatilidade, Manto de Inspiração."
+ },
+ "5fe5c2c2b4d4": {
+  "en": "Posaqui Sanbi — Level 3 Bard (Glamour)",
+  "t": "Posaqui Sanbi — Bardo de nível 3 (Glamour)"
+ },
+ "69429d3734d0": {
+  "en": "**Cutting Words.** Reaction: subtract 1d6 from an enemy's roll.",
+  "t": "**Palavras Cortantes.** Reação: subtrai 1d6 da rolagem de um inimigo."
+ },
+ "978b82033db2": {
+  "en": "**People:** Human · **Class:** Bard (College of Glamour) · **Background:** Information Broker · **Alignment:** Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**Povo:** humano · **Classe:** bardo (Colégio do Glamour) · **Antecedente:** Corretor de informações · **Tendência:** Neutro · **Patente:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3"
+ },
+ "983381fa02c8": {
+  "en": "**Skills:** Deception +8, Performance +8, Persuasion +8, Insight +2\n**Equipment:** Sparkling rapier, makeup kit, blue accessories, forged documents, a mirror, badge.\n**Hook:** Avoids fights, loves blue, hates fat Toleridemians, and always knows a little too much.",
+  "t": "**Perícias:** Enganação +8, Atuação +8, Persuasão +8, Intuição +2\n**Equipamento:** rapieira cintilante, kit de maquiagem, acessórios azuis, documentos falsificados, um espelho, distintivo.\n**Gancho:** Evita brigas, adora azul, odeia toleridemianos gordos e sempre sabe um pouco demais."
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "Características e traços"
  },
+ "aa823765a182": {
+  "en": "**Spell Save DC** 14 · *Charm Person, Dissonant Whispers, Healing Word, Faerie Fire, Silent Image, Suggestion*",
+  "t": "**DC de resistência de magia** 14 · *Enfeitiçar pessoa, sussurros dissonantes, palavra curativa, fogo das fadas, imagem silenciosa, sugestão*"
+ },
+ "ade78b47bdd6": {
+  "en": "Bard Features",
+  "t": "Características de bardo"
+ },
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "Ações"
+ },
+ "c84dca72b1eb": {
+  "en": "**Grandiose Performer.** Advantage on Performance checks.",
+  "t": "**Artista Grandioso.** Vantagem em testes de Atuação."
+ },
+ "dd833d094f78": {
+  "en": "**Narcissistic Flare.** When complimented, +1 to his next roll.",
+  "t": "**Chilique Narcisista.** Quando recebe um elogio, +1 na próxima rolagem."
+ },
+ "e7581b66bfe2": {
+  "en": "**Rapier.** +4 to hit, 1d8+2 piercing.",
+  "t": "**Rapieira.** +4 para acertar, 1d8+2 perfurante."
+ },
+ "f59b9d8b85e5": {
+  "en": "**Beauty Rage.** If his looks are insulted, DC 12 Wis save or he lashes out.",
+  "t": "**Fúria da Beleza.** Se insultarem a aparência dele, teste de resistência de Sab DC 12 ou ele explode."
+ },
+ "fd998e6effcb": {
+  "en": "**Friends in High Places.** Has a contract with someone powerful in Sanbi. (DM: see DM Secrets.)",
+  "t": "**Amigos Poderosos.** Tem um contrato com alguém poderoso em Sanbi. (Mestre: veja Segredos do Mestre.)"
  }
 }

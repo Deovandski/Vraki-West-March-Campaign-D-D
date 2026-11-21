@@ -1,10 +1,62 @@
 {
+ "09227714f03f": {
+  "en": "**People:** Human · **Class:** Sorcerer (Soul-Energy origin) · **Background:** Investor-Guild Adventurer (Cliff-Jumpers) · **Alignment:** Chaotic Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**Povo:** humana · **Classe:** feiticeira (origem de energia da alma) · **Antecedente:** Aventureira de guilda investidora (Cliff-Jumpers) · **Tendência:** Caótico e Neutro · **Patente:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3"
+ },
+ "17b8a8419a92": {
+  "en": "**Drunk Caster.** While drunk: spell damage +1, spell save DC −1.",
+  "t": "**Conjuradora Bêbada.** Enquanto bêbada: dano de magia +1, DC de resistência de magia −1."
+ },
+ "2933cf3cfe64": {
+  "en": "**Soul Slap.** +5 to hit, 1d4+2 psychic.",
+  "t": "**Tapa da Alma.** +5 para acertar, 1d4+2 psíquico."
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "Conjuração"
+ },
+ "4c5cf5b43ee6": {
+  "en": "**Soul Overdraw.** Once per day, convert 1 HP into 1 sorcery point (or 1 SP).",
+  "t": "**Saque a Descoberto da Alma.** Uma vez por dia, converte 1 HP em 1 ponto de feitiçaria (ou 1 SP)."
+ },
+ "5cde0cc0a365": {
+  "en": "**Skills:** Arcana +3, Intimidation +5, Acrobatics +4\n**Equipment:** White-caster uniform, flask, sigil rings, spell focus crystal, badge.\n**Hook:** Never knew her father. (DM: see DM Secrets.)",
+  "t": "**Perícias:** Arcanismo +3, Intimidação +5, Acrobacia +4\n**Equipamento:** uniforme de conjuradora branca, cantil, anéis de sigilo, cristal de foco de magia, distintivo.\n**Gancho:** Nunca conheceu o pai. (Mestre: veja Segredos do Mestre.)"
+ },
+ "5ebfc416baf6": {
+  "en": "**Personal-Space Aggressor.** Advantage on Intimidation face-to-face.",
+  "t": "**Invasora do Espaço Pessoal.** Vantagem em Intimidação cara a cara."
+ },
+ "6c38f8ce3494": {
+  "en": "**AC** 13 · **HP** 20 · **Speed** 30 ft\n**STR** 10 · **DEX** 14 · **CON** 12 · **INT** 12 · **WIS** 11 · **CHA** 17",
+  "t": "**AC** 13 · **HP** 20 · **Deslocamento** 30 pés\n**FOR** 10 · **DES** 14 · **CON** 12 · **INT** 12 · **SAB** 11 · **CAR** 17"
+ },
+ "89b434dd64a1": {
+  "en": "Kaiana Forway Cliff-Jumper — Level 3 Sorcerer (Soul-Caster)",
+  "t": "Kaiana Forway Cliff-Jumper — Feiticeira de nível 3 (conjuradora da alma)"
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "Características e traços"
  },
+ "a6816af76883": {
+  "en": "**Spell Save DC** 13 · **Spell Attack** +5 · **Slots** 4 (1st), 2 (2nd)\n*Magic Missile, Shield, Thunderwave, Charm Person, Scorching Ray, Detect Thoughts*\n(Described as Darfaries interface spells: \"Fire CREATE\", \"Gravity REPEL\", etc.)",
+  "t": "**DC de resistência de magia** 13 · **Ataque com magia** +5 · **Espaços** 4 (1º círculo), 2 (2º círculo)\n*Mísseis mágicos, escudo arcano, onda trovejante, enfeitiçar pessoa, raio ardente, detectar pensamentos*\n(Descritas como magias de interface darfaries: «Fire CREATE», «Gravity REPEL» etc.)"
+ },
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "Ações"
+ },
+ "b62414631cc0": {
+  "en": "**Cliff-Jumper Debt.** Her guild takes 30% of her quest pay.",
+  "t": "**Dívida com os Cliff-Jumpers.** A guilda dela fica com 30% do pagamento das missões."
+ },
+ "c2b878ae3ed0": {
+  "en": "**Quick-Witted White Caster.** +2 to initiative. \"QWWC\" is sewn on her uniform. Everyone calls her \"AWC with Double D\" instead.",
+  "t": "**Conjuradora Branca de Raciocínio Rápido.** +2 na iniciativa. «QWWC» está costurado no uniforme dela. Em vez disso, todo mundo a chama de «AWC com Duplo D»."
+ },
+ "f6d59ac6c2ab": {
+  "en": "**White-Caster Burst (Recharge 6).** 2d6 radiant in a 10-ft radius.",
+  "t": "**Explosão da Conjuradora Branca (Recarga 6).** 2d6 radiante num raio de 10 pés."
  }
 }

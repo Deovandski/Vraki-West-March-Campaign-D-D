@@ -1,10 +1,62 @@
 {
+ "09227714f03f": {
+  "en": "**People:** Human · **Class:** Sorcerer (Soul-Energy origin) · **Background:** Investor-Guild Adventurer (Cliff-Jumpers) · **Alignment:** Chaotic Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**الشعب:** بشرية · **الفئة:** مشعوذة (أصل طاقة الروح) · **الخلفية:** مغامرة في نقابة مستثمرين (كليف جمبرز) · **التوجه:** فوضوي محايد · **الرتبة:** بيرل\n**الواجهة:** دارفاريس · **نقاط الروح:** 3"
+ },
+ "17b8a8419a92": {
+  "en": "**Drunk Caster.** While drunk: spell damage +1, spell save DC −1.",
+  "t": "**الملقية السكرى.** وهي سكرى: ضرر التعاويذ +1، وDC إنقاذ التعاويذ −1."
+ },
+ "2933cf3cfe64": {
+  "en": "**Soul Slap.** +5 to hit, 1d4+2 psychic.",
+  "t": "**صفعة الروح.** +5 للإصابة، 1d4+2 نفسي."
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "إلقاء التعاويذ"
+ },
+ "4c5cf5b43ee6": {
+  "en": "**Soul Overdraw.** Once per day, convert 1 HP into 1 sorcery point (or 1 SP).",
+  "t": "**السحب على المكشوف من الروح.** مرة في اليوم، تحوّل 1 HP إلى نقطة شعوذة واحدة (أو 1 SP)."
+ },
+ "5cde0cc0a365": {
+  "en": "**Skills:** Arcana +3, Intimidation +5, Acrobatics +4\n**Equipment:** White-caster uniform, flask, sigil rings, spell focus crystal, badge.\n**Hook:** Never knew her father. (DM: see DM Secrets.)",
+  "t": "**المهارات:** الغوامض +3، الترهيب +5، الألعاب البهلوانية +4\n**العتاد:** زيّ الملقية البيضاء، قارورة، خواتم سيجيل، بلورة تركيز التعاويذ، بطاقة.\n**الخيط:** لم تعرف أباها قط. (مدير اللعبة: انظر أسرار مدير اللعبة.)"
+ },
+ "5ebfc416baf6": {
+  "en": "**Personal-Space Aggressor.** Advantage on Intimidation face-to-face.",
+  "t": "**غازية المساحة الشخصية.** أفضلية على الترهيب وجهًا لوجه."
+ },
+ "6c38f8ce3494": {
+  "en": "**AC** 13 · **HP** 20 · **Speed** 30 ft\n**STR** 10 · **DEX** 14 · **CON** 12 · **INT** 12 · **WIS** 11 · **CHA** 17",
+  "t": "**AC** 13 · **HP** 20 · **السرعة** 30 قدمًا\n**القوة** 10 · **البراعة** 14 · **البنية** 12 · **الذكاء** 12 · **الحكمة** 11 · **الكاريزما** 17"
+ },
+ "89b434dd64a1": {
+  "en": "Kaiana Forway Cliff-Jumper — Level 3 Sorcerer (Soul-Caster)",
+  "t": "كايانا فورواي كليف جمبر — مشعوذة من المستوى 3 (ملقية الروح)"
+ },
  "a3c24e61756d": {
   "en": "Features & Traits",
   "t": "السمات والخصال"
  },
+ "a6816af76883": {
+  "en": "**Spell Save DC** 13 · **Spell Attack** +5 · **Slots** 4 (1st), 2 (2nd)\n*Magic Missile, Shield, Thunderwave, Charm Person, Scorching Ray, Detect Thoughts*\n(Described as Darfaries interface spells: \"Fire CREATE\", \"Gravity REPEL\", etc.)",
+  "t": "**DC إنقاذ التعاويذ** 13 · **هجوم التعويذة** +5 · **الخانات** 4 (الأول)، 2 (الثاني)\n*القذيفة السحرية، الدرع، موجة الرعد، سحر شخص، الشعاع الحارق، كشف الأفكار*\n(تُوصف بأنها تعاويذ واجهة دارفاريس: «فاير كرييت»، «غرافيتي ريبل»، إلخ.)"
+ },
  "b1ea7f1858f2": {
   "en": "Actions",
   "t": "الأفعال"
+ },
+ "b62414631cc0": {
+  "en": "**Cliff-Jumper Debt.** Her guild takes 30% of her quest pay.",
+  "t": "**دين الكليف جمبرز.** نقابتها تأخذ 30% من أجر مهامها."
+ },
+ "c2b878ae3ed0": {
+  "en": "**Quick-Witted White Caster.** +2 to initiative. \"QWWC\" is sewn on her uniform. Everyone calls her \"AWC with Double D\" instead.",
+  "t": "**الملقية البيضاء سريعة البديهة.** +2 للمبادرة. «QWWC» مخيط على زيّها. لكن الجميع ينادونها «AWC with Double D» بدلًا من ذلك."
+ },
+ "f6d59ac6c2ab": {
+  "en": "**White-Caster Burst (Recharge 6).** 2d6 radiant in a 10-ft radius.",
+  "t": "**انفجار الملقية البيضاء (إعادة شحن 6).** 2d6 إشعاعي في نصف قطر 10 أقدام."
  }
 }
