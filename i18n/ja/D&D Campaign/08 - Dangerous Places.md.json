@@ -1,0 +1,262 @@
+{
+ "06ddf6b41785": {
+  "en": "Slow pace; Crocus invisible in still water (DC 14 Perception).",
+  "t": "遅いペース。静かな水の中ではクロッカスは見えない（DC 14の〈知覚〉）。"
+ },
+ "06e50bc6a491": {
+  "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
+  "t": "**機嫌の段階（1–6）。** 作中の毎日のはじめにd6を振る：1なら機嫌が1下がり、6なら1上がる。城の中で戦う一行がいると、そこで過ごした日ごとに1上がる。"
+ },
+ "0c814187591b": {
+  "en": "Nari Caverns (under Blood)",
+  "t": "ナリ・カヴァーンズ（ブラッドの地下）"
+ },
+ "0e679727a196": {
+  "en": "Everyone follows **the Triangle Way**: bathroom breaks at the same time (a gong tells you when), triangle-cut clothes, no pets. Non-humans wear a triangle amulet.",
+  "t": "誰もが**トライアングルの道**に従う：トイレは全員同時（どらが合図する）、三角に裁った服、ペット禁止。人間以外は三角のお守りを身につける。"
+ },
+ "106a89dbe6ef": {
+  "en": "Altitude ~9 km: −20 °C or colder. Without cold-weather gear, DC 13 Con save each hour or 1 exhaustion. Winga Skin and Wooly Skin gels help a lot.",
+  "t": "標高~9 km：−20 °C以下。防寒具がなければ、1時間ごとにDC 13の【耐久力】セーヴに失敗すると消耗1。ウィンガ・スキンとウーリー・スキンのジェルが大いに役立つ。"
+ },
+ "181199f11e9e": {
+  "en": "Special rules for the places that make West March parties famous — or dead.",
+  "t": "ウェストマーチの一行を有名にする — あるいは死なせる — 場所のための特別ルール。"
+ },
+ "1dee0689b9e7": {
+  "en": "Sleepy",
+  "t": "眠たげ"
+ },
+ "2bb785b5d192": {
+  "en": "Hifuna — exposure",
+  "t": "ヒフナ — 被曝"
+ },
+ "2bf600bc5be8": {
+  "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
+  "t": "ガンデューとサンデスのあいだのトンネルは魔獣だらけだ — 地上を行くこと。"
+ },
+ "2ef1c1e4505b": {
+  "en": "No guards, no badges, no reports. Contracts are enforced by whoever's bigger.",
+  "t": "衛兵なし、身分証なし、報告なし。契約を守らせるのは体の大きいほうだ。"
+ },
+ "2fd7b6d12e33": {
+  "en": "Rooms rearrange; a Walking Flathead wakes",
+  "t": "部屋が組み変わる。ウォーキング・フラットヘッドが目を覚ます"
+ },
+ "37bf7b183ebf": {
+  "en": "Everything awake",
+  "t": "すべてが目覚めている"
+ },
+ "3d2f3ffa2d82": {
+  "en": "Waves of undead pour out with **five commanders** (Flatheads). **Kingdom Alert**: all adventurers called. Kill the commanders to drop the mood to 3",
+  "t": "**5体の指揮官**（フラットヘッド）に率いられたアンデッドの波があふれ出す。**王国警報**：すべての冒険者が招集される。指揮官を倒せば機嫌は3まで下がる"
+ },
+ "3e05721d8a69": {
+  "en": "**Rampage**",
+  "t": "**暴走**"
+ },
+ "3ee3ebe0f1ef": {
+  "en": "Wood People groves wander. A **fost stone** jammed into a crown (melee attack vs AC 14, or automatic against a grappled tree) paralyzes one.",
+  "t": "ウッドピープルの木立はさまよう。冠に打ち込んだ**フォストストーン**（AC 14に対する近接攻撃、組みついた木には自動成功）で一体を麻痺させられる。"
+ },
+ "444599ee02ef": {
+  "en": "**Gandew law:** any dispute can become a duel. Refuse and you lose face — and in Gandew, face matters.",
+  "t": "**ガンデューの法：** どんな争いも決闘になりうる。断れば面目を失う — そしてガンデューでは面目がものを言う。"
+ },
+ "488aff06b94b": {
+  "en": "**Noise:** every loud action (combat, explosions, shouting) — roll a d6; on a 1 the worms stir and the cavern **quakes** (DC 13 Dex save or 2d6 bludgeoning and knocked prone).",
+  "t": "**物音：** 大きな音を立てる行動（戦闘、爆発、叫び声）のたびにd6を振る。1が出ると虫たちが身じろぎし、洞窟が**揺れる**（DC 13の【敏捷力】セーヴに失敗すると2d6の殴打を受け、伏せ状態になる）。"
+ },
+ "520a8784ad31": {
+  "en": "The plateau edge is a 2 km cliff. Waterfall's elevators are the safe way up.",
+  "t": "台地の縁は高さ2 kmの断崖だ。ウォーターフォールの昇降機が安全に登る手段だ。"
+ },
+ "5661b5bd8aaa": {
+  "en": "Dangerous Places",
+  "t": "危険な場所"
+ },
+ "585cdf11ff4a": {
+  "en": "Grumpy",
+  "t": "不機嫌"
+ },
+ "5f63c7cf5839": {
+  "en": "Walking Flesh hunt intruders; traps arm",
+  "t": "ウォーキング・フレッシュが侵入者を狩る。罠が作動状態になる"
+ },
+ "66e5d6835c21": {
+  "en": "**Food** grown or hunted in Hifuna gives 1 Exposure when eaten.",
+  "t": "ヒフナで育てた、または狩った**食べ物**を食べると被曝を1得る。"
+ },
+ "67124bfc2385": {
+  "en": "Each day without water: DC 12 Con save or 1 exhaustion (DC 15 in Paulin).",
+  "t": "水のない日ごとに：DC 12の【耐久力】セーヴに失敗すると消耗1（パウリンではDC 15）。"
+ },
+ "6e820db3b996": {
+  "en": "Exposure 1: nausea (disadvantage on Con checks) · 2: hair falls out, −1 max SP · 3: you start to become **Hash** — +2 Strength, −2 Intelligence, you look wrong · 4: a full Hash mutation (DM and player design it; the character may need to retire as an NPC monster).",
+  "t": "被曝1：吐き気（【耐久力】判定に不利） · 2：髪が抜け、SPの最大値−1 · 3：**ハッシュ**化が始まる — 【筋力】+2、【知力】−2、見た目がおかしくなる · 4：完全なハッシュの変異（DMとプレイヤーが作る。キャラクターはNPCの怪物として引退する必要があるかもしれない）。"
+ },
+ "709d1c4f9f08": {
+  "en": "The Desert (Gandew, Flatland, Sundeath)",
+  "t": "砂漠（ガンデュー、フラットランド、サンデス）"
+ },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "フライア"
+ },
+ "725383d9892b": {
+  "en": "Outside",
+  "t": "城の外"
+ },
+ "785d46cfcb8e": {
+  "en": "Nights are freezing: no warm gear → DC 10 Con save or 1 exhaustion.",
+  "t": "夜は凍えるほど寒い：防寒具がなければ → DC 10の【耐久力】セーヴに失敗すると消耗1。"
+ },
+ "84938c66dec3": {
+  "en": "**Long rest outside Hifuna** removes 1 Exposure. A Tier III Nari Refresher or Body RESTORE (Tier III) removes all but the Hash change at 3+.",
+  "t": "**ヒフナの外での大休憩**で被曝が1減る。ティアIIIのナリ・リフレッシャーかボディ・リストア（ティアIII）なら、3以上でのハッシュの変化以外はすべて取り除ける。"
+ },
+ "90ca40f2552d": {
+  "en": "**Walking Heart stones** grow here. A character who implants one (via a scientist willing to do it) becomes undead: no eating/breathing/sleep, recovers SP only through strong emotion or stabbing nari stones into the chest, takes the stone's color powers (+2 to one ability, −2 to another, per the color table in the World Lore) and its emotional flaw. **Can't be revived.** Forway treats them as soul dead and wanted.",
+  "t": "**ウォーキングハートの石**はここで育つ。（引き受けてくれる科学者の手で）それを埋め込んだキャラクターはアンデッドになる：食べず、息をせず、眠らず、SPは強い感情か、ナリストーンを胸に突き刺すことでしか回復しない。石の色の力（World Loreの色の表に従い、ある能力値に+2、別の能力値に−2）と、その感情の欠点を得る。**蘇生できない。** フォーウェイは魂の死を迎えた指名手配者として扱う。"
+ },
+ "90ca8855e6ca": {
+  "en": "The castle is alive, moody, and still running Buhraies experiments. Bahyum village posts **\"Today's Castle Mood\"** every morning.",
+  "t": "城は生きていて、気分屋で、今もブライエスの実験を続けている。バヒュム村は毎朝 **「今日の城の機嫌」** を掲示する。"
+ },
+ "90d4906e4123": {
+  "en": "**Lukewarm Lake:** Fihi big enough to drag a person under (use Fihi stats ×2 HP, swallow on a crit).",
+  "t": "**ぬるま湖：** 人を水中に引きずり込めるほど大きなフィヒ（フィヒのデータをHP 2倍で使い、クリティカルで丸のみ）。"
+ },
+ "918b69037868": {
+  "en": "Undead idle; doors open; a **new room** appears 1-in-6",
+  "t": "アンデッドはじっとしている。扉は開いている。6分の1で**新しい部屋**が現れる"
+ },
+ "91b1ebc0a616": {
+  "en": "**Cruros barter** — they aren't citizens, so it's legal. Bring Wooly jerky.",
+  "t": "**クルロは物々交換をする** — 市民ではないので合法だ。ウーリーの干し肉を持って行こう。"
+ },
+ "95994003efcf": {
+  "en": "Bahyum Castle — the Castle Mood",
+  "t": "バヒュム城 — 城の機嫌"
+ },
+ "9691b2d01805": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
+  "t": "フラットヘッドが2体。魂を吸う霧（1時間に1 SP）"
+ },
+ "976c9f90c7b2": {
+  "en": "Sweetlake Nest",
+  "t": "スイートレイクの巣"
+ },
+ "9cec11d2ea5a": {
+  "en": "**Harming a Nari Worm or its eggs** is a crime punishable by exile to Hifuna. The Nari Extraction Coordination Office in Blood investigates every death.",
+  "t": "**ナリワームやその卵を傷つける**ことは、ヒフナへの追放で罰せられる犯罪だ。ブラッドのナリ採掘調整局がすべての死を調べる。"
+ },
+ "b1ec4d793ba7": {
+  "en": "Without a Sweet Sting costume (Blood and Sweetlake tailors, 2 amethysts), every hour near the nest: 1d4 Sweet Sting workers attack.",
+  "t": "スイートスティングの仮装（ブラッドとスイートレイクの仕立屋で2アメジスト）がなければ、巣の近くでは1時間ごとに1d4匹のスイートスティングの働き蜂が襲ってくる。"
+ },
+ "b4e2f36df065": {
+  "en": "Tribe leaders challenge strangers who stare too long. Losing badly can mean an unwanted \"marriage\" to a leader's daughter.",
+  "t": "部族の長は、じろじろ見すぎるよそ者に勝負を挑む。ひどい負け方をすると、長の娘との望まぬ「結婚」が待っているかもしれない。"
+ },
+ "ba73a6a94526": {
+  "en": "With one: DC 12 Charisma (Performance) every hour to keep acting like a bee.",
+  "t": "仮装していれば：蜂らしくふるまい続けるため、1時間ごとにDC 12の【魅力】〈芸能〉判定。"
+ },
+ "c20f38f31823": {
+  "en": "The **Deep Hole Chamber** is rumored to hold the Queen Nari Worm and raw nari deposits.",
+  "t": "**ディープホールの間**には女王ナリワームと、ナリの原石の鉱床があるという噂だ。"
+ },
+ "c4173d64faca": {
+  "en": "Triangle City",
+  "t": "トライアングルの街"
+ },
+ "c699d767b83d": {
+  "en": "Stragglers on the plains",
+  "t": "平原にはぐれた者"
+ },
+ "c8a9d51017e9": {
+  "en": "Angry",
+  "t": "怒り"
+ },
+ "c99b50cb40d4": {
+  "en": "Restless",
+  "t": "落ち着かない"
+ },
+ "c9bb96fc7374": {
+  "en": "Irradiated land. Everything mutates.",
+  "t": "放射能に汚染された土地。すべてが変異する。"
+ },
+ "cb16d93bb653": {
+  "en": "**Loot:** Buhraies research notes, Walking Heart stones (illegal), soul wood, black wood, ancient sigil rings (old-style rings are collectibles), and the occasional thing that should never leave.\n**New rooms** are a great excuse for one-shot dungeons.",
+  "t": "**戦利品：** ブライエスの研究ノート、ウォーキングハートの石（違法）、ソウルウッド、黒い木、古代のシジルリング（古い型の指輪は収集品だ）、そしてときどき、決して外に出してはいけないもの。\n**新しい部屋**は単発のダンジョンをやるのにうってつけの口実だ。"
+ },
+ "cea2b18d5c7f": {
+  "en": "Name",
+  "t": "名前"
+ },
+ "cee862ffbe9f": {
+  "en": "Patrols of Walking Skin",
+  "t": "ウォーキング・スキンの巡回"
+ },
+ "d684c84bb98f": {
+  "en": "Doorless snow houses connect by tunnels. Old Fuhraies traps. Hidden Forway science stations. Something kept prisoner in the dark (see DM Secrets).",
+  "t": "扉のない雪の家々がトンネルでつながっている。古いフライエスの罠。隠されたフォーウェイの科学観測所。暗闇に閉じ込められた何か（「DMの秘密」を参照）。"
+ },
+ "dda58424b5c0": {
+  "en": "Mood",
+  "t": "機嫌"
+ },
+ "de62bdca84fc": {
+  "en": "Break the Way publicly: the Triangle Lovers escort you out — or somewhere worse.",
+  "t": "人前で道を破ると：トライアングル・ラヴァーズに街の外へ — あるいはもっと悪い場所へ — 連れて行かれる。"
+ },
+ "e4f5e8b2ce0c": {
+  "en": "Ganyrami Ruins",
+  "t": "ガニラミの遺跡"
+ },
+ "e7daf0606071": {
+  "en": "Inside the castle",
+  "t": "城の中"
+ },
+ "e84dd92bd631": {
+  "en": "Walking Skin packs raid nearby farms",
+  "t": "ウォーキング・スキンの群れが近くの農場を襲う"
+ },
+ "e92163beb8b7": {
+  "en": "Embassy posts an Aquamarine quest",
+  "t": "大使館がアクアマリンの依頼を出す"
+ },
+ "ea35a827a767": {
+  "en": "Asking about anyone's past: DC 15 Persuasion or the conversation (and maybe the welcome) ends.",
+  "t": "誰かの過去について尋ねる：DC 15の〈説得〉に失敗すると会話は（そしてたぶん歓迎も）終わる。"
+ },
+ "ea6fe908f718": {
+  "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
+  "t": "**サンドワーム：** サイナかウォゼン・スメルのジェルがあれば見つけられる。なければDC 15の〈知覚〉。"
+ },
+ "ee5a0b8d29e1": {
+  "en": "**Sundeath law:** guilty until proven innocent. Have friends.",
+  "t": "**サンデスの法：** 無罪が証明されるまでは有罪。友達を作っておこう。"
+ },
+ "f10604376588": {
+  "en": "The Buhraies Plains",
+  "t": "ブライエス・プレーンズ"
+ },
+ "f2c02022cd69": {
+  "en": "Quiet",
+  "t": "静か"
+ },
+ "f85783fbd253": {
+  "en": "**Each day** in Hifuna (or each hour near a Walking Heart deposit), make a **DC 12 Constitution save** (DC 15 deep inside). On a failure, gain 1 **Exposure**.",
+  "t": "ヒフナでは**毎日**（ウォーキングハートの鉱床の近くでは毎時間）、**DC 12の【耐久力】セーヴィング・スロー**を行う（奥地ではDC 15）。失敗すると**被曝**を1得る。"
+ },
+ "f95ed6f5d34d": {
+  "en": "Furious",
+  "t": "激怒"
+ },
+ "fe69f763ecb7": {
+  "en": "Swamps (Cruro lands, Sanbi–Tastyleaf)",
+  "t": "沼地（クルロの土地、サンビ～テイスティリーフ）"
+ }
+}

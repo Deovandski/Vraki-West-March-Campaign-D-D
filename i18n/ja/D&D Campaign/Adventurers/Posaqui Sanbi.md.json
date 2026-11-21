@@ -1,0 +1,74 @@
+{
+ "2d0b80e867ac": {
+  "en": "**Glamour Burst (Recharge 6).** 2d6 psychic, DC 14 Wis save for half.",
+  "t": "**グラマーの炸裂（再チャージ6）。** 2d6の精神、DC 14の【判断力】セーヴで半減。"
+ },
+ "38cbf19a4337": {
+  "en": "**Talk-Your-Way-Out.** Once per long rest, charm a humanoid for 10 minutes.",
+  "t": "**口八丁で切り抜ける。** 大休憩ごとに1回、人型生物1体を10分間魅了する。"
+ },
+ "3b47c2c5479e": {
+  "en": "**AC** 14 · **HP** 22 · **Speed** 30 ft\n**STR** 8 · **DEX** 14 · **CON** 12 · **INT** 13 · **WIS** 10 · **CHA** 18",
+  "t": "**AC** 14 · **HP** 22 · **移動速度** 30フィート\n**【筋】** 8 · **【敏】** 14 · **【耐】** 12 · **【知】** 13 · **【判】** 10 · **【魅】** 18"
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "呪文発動"
+ },
+ "4cde420e4895": {
+  "en": "Bardic Inspiration (d6), Jack of All Trades, Mantle of Inspiration.",
+  "t": "バードの鼓舞（d6）、何でも屋、鼓舞のマント。"
+ },
+ "5fe5c2c2b4d4": {
+  "en": "Posaqui Sanbi — Level 3 Bard (Glamour)",
+  "t": "ポサキ・サンビ — レベル3のバード（グラマー）"
+ },
+ "69429d3734d0": {
+  "en": "**Cutting Words.** Reaction: subtract 1d6 from an enemy's roll.",
+  "t": "**切り裂く言葉。** リアクション：敵のロールから1d6を引く。"
+ },
+ "978b82033db2": {
+  "en": "**People:** Human · **Class:** Bard (College of Glamour) · **Background:** Information Broker · **Alignment:** Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**種族：** 人間 · **クラス：** バード（グラマー大学） · **背景：** 情報屋 · **属性：** 真なる中立 · **階級：** パール\n**インターフェース：** ダルファリエス · **ソウルポイント：** 3"
+ },
+ "983381fa02c8": {
+  "en": "**Skills:** Deception +8, Performance +8, Persuasion +8, Insight +2\n**Equipment:** Sparkling rapier, makeup kit, blue accessories, forged documents, a mirror, badge.\n**Hook:** Avoids fights, loves blue, hates fat Toleridemians, and always knows a little too much.",
+  "t": "**技能：** 〈ペテン〉+8、〈芸能〉+8、〈説得〉+8、〈看破〉+2\n**装備：** きらめくレイピア、化粧道具、青い装身具、偽造書類、鏡、身分証。\n**フック：** 喧嘩は避け、青が大好きで、太ったトレリデメ人が大嫌い。そしていつも少し知りすぎている。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特徴と特性"
+ },
+ "aa823765a182": {
+  "en": "**Spell Save DC** 14 · *Charm Person, Dissonant Whispers, Healing Word, Faerie Fire, Silent Image, Suggestion*",
+  "t": "**呪文セーヴDC** 14 · *《チャーム・パーソン》、《ディソナント・ウィスパーズ》、《ヒーリング・ワード》、《フェアリー・ファイアー》、《サイレント・イメージ》、《サジェスチョン》*"
+ },
+ "ade78b47bdd6": {
+  "en": "Bard Features",
+  "t": "バードの特徴"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "アクション"
+ },
+ "c84dca72b1eb": {
+  "en": "**Grandiose Performer.** Advantage on Performance checks.",
+  "t": "**大仰な芸人。** 〈芸能〉判定に有利。"
+ },
+ "dd833d094f78": {
+  "en": "**Narcissistic Flare.** When complimented, +1 to his next roll.",
+  "t": "**ナルシストの見せびらかし。** ほめられると、次のロールに+1。"
+ },
+ "e7581b66bfe2": {
+  "en": "**Rapier.** +4 to hit, 1d8+2 piercing.",
+  "t": "**レイピア。** 命中+4、1d8+2の刺突。"
+ },
+ "f59b9d8b85e5": {
+  "en": "**Beauty Rage.** If his looks are insulted, DC 12 Wis save or he lashes out.",
+  "t": "**美の怒り。** 容姿を侮辱されたら、DC 12の【判断力】セーヴに失敗すると食ってかかる。"
+ },
+ "fd998e6effcb": {
+  "en": "**Friends in High Places.** Has a contract with someone powerful in Sanbi. (DM: see DM Secrets.)",
+  "t": "**有力者の友人。** サンビの権力者と契約を結んでいる。（DMへ：DMの秘密を参照）"
+ }
+}

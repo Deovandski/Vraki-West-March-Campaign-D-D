@@ -1,0 +1,870 @@
+{
+ "01cd70f3cd35": {
+  "en": "Thick coat: +1 AC, disadv. on stealth",
+  "t": "두꺼운 털: AC +1, 은신에 불리점"
+ },
+ "02ed88d532ca": {
+  "en": "Can't form new memories for the duration",
+  "t": "지속 시간 동안 새 기억을 만들 수 없음"
+ },
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "나리 젤과 장비"
+ },
+ "06261b5c960e": {
+  "en": "Flawless complexion (adv. on one Persuasion)",
+  "t": "흠 없는 안색(설득 판정 한 번에 이점)"
+ },
+ "076a428ce1ca": {
+  "en": "Signal smoke bomb (red/cyan/green/yellow)",
+  "t": "신호 연막탄(빨강/청록/초록/노랑)"
+ },
+ "0db483b96ea9": {
+  "en": "Darkvision 120 ft; you see green as gray (DM describes everything as neon)",
+  "t": "암시야 120피트. 초록이 회색으로 보인다(DM은 모든 것을 네온처럼 묘사한다)"
+ },
+ "0e206b60f4c2": {
+  "en": "Resistance to psychic damage; speed −10 ft; disadv. on initiative",
+  "t": "정신 피해 저항. 이동속도 −10피트. 우선권에 불리점"
+ },
+ "0f81ee943991": {
+  "en": "Restrained, can't speak (DC 13 Con ends at end of turn)",
+  "t": "포박, 말을 못 함(턴 끝에 건강 DC 13으로 종료)"
+ },
+ "0faac30f419b": {
+  "en": "As Skin Melt IV",
+  "t": "스킨 멜트 IV와 같음"
+ },
+ "0faccb6d50e8": {
+  "en": "Darkvision 120 ft; disadv. on reading and close work",
+  "t": "암시야 120피트. 읽기와 정밀 작업에 불리점"
+ },
+ "10ae207e1611": {
+  "en": "Fly 30 ft (light or no armor; can't hold two-handed items or use somatic components while flying)",
+  "t": "비행 30피트(경갑이거나 갑옷 없음. 비행 중에는 양손 물건을 들 수 없고 동작 구성요소를 쓸 수 없다)"
+ },
+ "14f86d5be3a4": {
+  "en": "Jam into a Wood Person's crown (melee attack against AC 14, or while it's grappled) to **paralyze** it",
+  "t": "우드 퍼슨의 우듬지에 박으면(AC 14에 근접 공격, 또는 붙잡은 상태에서) **마비시킨다**"
+ },
+ "1541e5b3811b": {
+  "en": "Thrown into water: 3d6 thunder in 15 ft and a 20-ft geyser. Wrap in paper to delay 1 round",
+  "t": "물에 던지면: 15피트 안에 3d6 천둥과 20피트 물기둥. 종이로 싸면 1라운드 늦출 수 있다"
+ },
+ "155b086ce724": {
+  "en": "**Sigil rings**: see Soul Energy rules.",
+  "t": "**시질 링**: 영혼 에너지 규칙 참고."
+ },
+ "19993e45d672": {
+  "en": "Walk on water (Large/Darfaries)",
+  "t": "물 위를 걸음(대형/다르파리에스)"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "가격"
+ },
+ "1aa1e29b125c": {
+  "en": "Speed halved",
+  "t": "이동속도 절반"
+ },
+ "1aa2f3272b9b": {
+  "en": "Companions",
+  "t": "동료"
+ },
+ "1abd5d23a35e": {
+  "en": "Feed several stones in one action",
+  "t": "한 번의 행동으로 돌 여러 개를 먹인다"
+ },
+ "1bfa6d34ab17": {
+  "en": "priceless / illegal to sell",
+  "t": "값을 매길 수 없음 / 판매 불법"
+ },
+ "1ca8da91ab11": {
+  "en": "**Sleep Inducer** (poison; II+ banned)",
+  "t": "**슬립 인듀서**(독. II 이상 금지)"
+ },
+ "1cecbb6bc55c": {
+  "en": "**Fake Skin / Eye**",
+  "t": "**페이크 스킨 / 아이**"
+ },
+ "1cf395d2f928": {
+  "en": "Unconscious 1 hour (DC 13 Con)",
+  "t": "1시간 무의식(건강 DC 13)"
+ },
+ "1d5db4413684": {
+  "en": "Fost lamp",
+  "t": "포스트 램프"
+ },
+ "1da204a107a2": {
+  "en": "Porter for rough terrain",
+  "t": "험한 지형의 짐꾼"
+ },
+ "1dcc3f06fdf9": {
+  "en": "+2 initiative, can't be surprised, no sleep needed tonight",
+  "t": "우선권 +2, 기습당하지 않음, 오늘 밤 잠이 필요 없음"
+ },
+ "1decf382bac7": {
+  "en": "**Walking Dead**",
+  "t": "**워킹 데드**"
+ },
+ "1f62fb6dc94e": {
+  "en": "Item",
+  "t": "물품"
+ },
+ "1f67dc27d568": {
+  "en": "Detects invisible things and sand worms; goofy",
+  "t": "보이지 않는 것과 샌드 웜을 찾아낸다. 익살꾼"
+ },
+ "204cb4b10525": {
+  "en": "Malformed gills: disadv. on Con checks, can't eat",
+  "t": "기형 아가미: 건강 판정에 불리점, 먹을 수 없음"
+ },
+ "20ef4273b8b7": {
+  "en": "**Wooly Skin**",
+  "t": "**울리 스킨**"
+ },
+ "21307738f32b": {
+  "en": "Look like the target's part (cosmetic)",
+  "t": "대상의 부위를 닮음(외형만)"
+ },
+ "229182d4733b": {
+  "en": "Small horns (1d4 gore), deep voice, resistance to cold",
+  "t": "작은 뿔(들이받기 1d4), 낮은 목소리, 냉기 저항"
+ },
+ "26f38bb185ba": {
+  "en": "**Mind Enabler** (banned)",
+  "t": "**마인드 이네이블러**(금지)"
+ },
+ "277bc41bc456": {
+  "en": "Feathery hair (cosmetic)",
+  "t": "깃털 같은 머리카락(외형만)"
+ },
+ "279a3b452e52": {
+  "en": "**No Breath**",
+  "t": "**노 브레스**"
+ },
+ "279b40cf72d7": {
+  "en": "Nari Worm egg",
+  "t": "나리 웜 알"
+ },
+ "27ce44dc9538": {
+  "en": "Advantage on Survival checks to predict weather and hunting",
+  "t": "날씨와 사냥을 예측하는 생존 판정에 이점"
+ },
+ "2a62276e67bc": {
+  "en": "Full wagon puller",
+  "t": "짐 가득한 수레를 끈다"
+ },
+ "2a6d387bfe03": {
+  "en": "Gel effects",
+  "t": "젤 효과"
+ },
+ "2c68086e13fb": {
+  "en": "Smoke bomb (intense)",
+  "t": "연막탄(강)"
+ },
+ "2c7f2cbc034d": {
+  "en": "**Time Quicken**",
+  "t": "**타임 퀴큰**"
+ },
+ "2cc9d0ebb4ae": {
+  "en": "Euphoric: immune to fear",
+  "t": "황홀감: 공포에 면역"
+ },
+ "2eee9940b164": {
+  "en": "Flatland Companion Meetup fee (2 aquamarines)",
+  "t": "플랫랜드 동료 만남의 날 참가비(2 아쿠아마린)"
+ },
+ "2f1764936597": {
+  "en": "Loyal flying companion",
+  "t": "충성스러운 비행 동료"
+ },
+ "2f4fa96fd8bf": {
+  "en": "Courier; recognizes faces; Fauna stats",
+  "t": "전령. 얼굴을 알아본다. 동물 수치"
+ },
+ "303a191a167f": {
+  "en": "Wounds won't close: 1d6 bleed each turn until healed",
+  "t": "상처가 아물지 않음: 치료될 때까지 매 턴 출혈 1d6"
+ },
+ "3066d2140b2d": {
+  "en": "Breathe in swamps and murky water; scaly; can't breathe air",
+  "t": "늪과 흐린 물에서 숨 쉼. 비늘이 생김. 공기로 숨 쉴 수 없음"
+ },
+ "320b59e8d691": {
+  "en": "Gels are **Tier III goods** for distance pricing; banned gels are black-market only (double or triple price and a Forway Law problem if caught).",
+  "t": "거리별 가격에서 젤은 **III등급 물품**이다. 금지 젤은 암시장에만 있다(두세 배 가격, 들키면 포웨이 법 문제)."
+ },
+ "321a9ad90dc4": {
+  "en": "Identical (agony: 4d6 psychic even for fine grade)",
+  "t": "똑같아짐(극심한 고통: 고운 등급이라도 4d6 정신)"
+ },
+ "326c4c3c2aaf": {
+  "en": "Faint sparkles (useless)",
+  "t": "희미한 반짝임(쓸모없음)"
+ },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**중첩:** 서로 다른 젤 몇 가지는 중첩될 수 있다(DM 판단). 같은 젤은 자기 자신과 중첩되지 않는다 — 높은 등급을 쓴다."
+ },
+ "341a791c2849": {
+  "en": "Map (region / detailed)",
+  "t": "지도(지역 / 상세)"
+ },
+ "359b29bbb115": {
+  "en": "Find the chosen scent within 1 mile (corpses, traps, living things); migraine (disadv. on Int checks)",
+  "t": "고른 냄새를 1마일 안에서 찾음(시체, 덫, 살아 있는 것). 편두통(지능 판정에 불리점)"
+ },
+ "363f8c57d8cc": {
+  "en": "5 amethysts",
+  "t": "5 애머시스트"
+ },
+ "36a3073db5e5": {
+  "en": "Breathe water while swimming (not air)",
+  "t": "헤엄치는 동안 물로 숨 쉼(공기는 불가)"
+ },
+ "3713223a3a74": {
+  "en": "Squeeze through Small gaps",
+  "t": "소형 틈을 비집고 지나감"
+ },
+ "379b3d485a78": {
+  "en": "1 amethyst / 1 aquamarine",
+  "t": "1 애머시스트 / 1 아쿠아마린"
+ },
+ "383e3f970f51": {
+  "en": "**Chitin** (Sand Worm): Gandew armor. Treat chitin plate as half plate with no disadvantage on Stealth; price ×1.5.",
+  "t": "**키틴**(샌드 웜): 간듀의 갑옷. 키틴 판금은 은신에 불리점이 없는 하프 플레이트로 취급. 가격 ×1.5."
+ },
+ "3c035c71646f": {
+  "en": "Groggy: disadv. on Wis checks",
+  "t": "몽롱함: 지혜 판정에 불리점"
+ },
+ "3dcad2321ac1": {
+  "en": "Vomit, hair melts off: poisoned 1 hour",
+  "t": "구토, 머리카락이 녹아내림: 1시간 중독"
+ },
+ "3e2c948f2eaa": {
+  "en": "Confused memories: disadv. on Int saves",
+  "t": "뒤섞인 기억: 지능 내성에 불리점"
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**먹기(거친 등급):** 행동. 효과는 다음 턴이 끝날 때 시작된다. **1d4일** 지속."
+ },
+ "3f29b5521112": {
+  "en": "4d6 acid; disfigurement",
+  "t": "4d6 산성. 외모 손상"
+ },
+ "3fd6330b142d": {
+  "en": "6 aquamarines",
+  "t": "6 아쿠아마린"
+ },
+ "420275751827": {
+  "en": "**Bleed Out** (poison)",
+  "t": "**블리드 아웃**(독)"
+ },
+ "423874e0b2f0": {
+  "en": "Cold immunity in normal weather; overheat in hot places (disadv. on Con saves vs. heat)",
+  "t": "평범한 날씨에서는 냉기 면역. 더운 곳에서는 과열(더위에 대한 건강 내성에 불리점)"
+ },
+ "4266f66e1be3": {
+  "en": "Death (DC 17 Con)",
+  "t": "죽음(건강 DC 17)"
+ },
+ "4372c652f62d": {
+  "en": "Light 20 ft when wet with salt water; lasts a year. Sucker Ladies and many beasts avoid it",
+  "t": "바닷물에 적시면 20피트를 밝힌다. 1년 간다. 서커 레이디와 많은 마수가 피한다"
+ },
+ "4446426affd0": {
+  "en": "**Time Slower**",
+  "t": "**타임 슬로어**"
+ },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "테이블에서의 나리 젤"
+ },
+ "48edb2544e3a": {
+  "en": "Restores up to 4 SP and acts as a Tier III Nari Refresher. 1-in-6 chance it hatches in your bag",
+  "t": "SP를 최대 4 회복하고 III등급 나리 리프레셔 역할을 한다. 6분의 1 확률로 가방 안에서 부화한다"
+ },
+ "4913580e8dc4": {
+  "en": "**Nari Refresher**",
+  "t": "**나리 리프레셔**"
+ },
+ "49968cd81c5a": {
+  "en": "Advantage on smell-based Perception",
+  "t": "후각 기반 감지에 이점"
+ },
+ "4a020091bee7": {
+  "en": "Coma 1d4 days (DC 15 Con)",
+  "t": "1d4일 혼수(건강 DC 15)"
+ },
+ "4c05347d1141": {
+  "en": "See invisible creatures; you feel like you're dying (disadv. on Wis saves)",
+  "t": "투명한 생물을 봄. 죽어 가는 느낌(지혜 내성에 불리점)"
+ },
+ "4d2cbc953012": {
+  "en": "Natural AC 12 + Dex, small tail",
+  "t": "자연 AC 12 + 민첩, 작은 꼬리"
+ },
+ "4e1ba4250de1": {
+  "en": "20 pearls",
+  "t": "20 펄"
+ },
+ "4e776c47742b": {
+  "en": "Bad trip: DC 13 Wis or confused 1 minute",
+  "t": "배드 트립: 지혜 DC 13에 실패하면 1분간 혼란"
+ },
+ "4f08c9382bed": {
+  "en": "+1 AC and an extra bonus-action Dash each turn; anxious (disadv. on Insight)",
+  "t": "AC +1, 매 턴 추가 보너스 행동으로 질주. 불안함(통찰에 불리점)"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30 펄"
+ },
+ "51c01287f5ae": {
+  "en": "Ends nausea",
+  "t": "메스꺼움을 멈춘다"
+ },
+ "537a68635e74": {
+  "en": "Close match: advantage on Deception to impersonate",
+  "t": "매우 닮음: 사칭할 때 기만에 이점"
+ },
+ "590fae2cf41e": {
+  "en": "See a chosen scent's trail within 300 ft",
+  "t": "고른 냄새의 자취를 300피트 안에서 봄"
+ },
+ "5accdc3492f6": {
+  "en": "Gear and materials",
+  "t": "장비와 재료"
+ },
+ "5d8a468a52fd": {
+  "en": "Ends Tier ≤III; heal 3d4",
+  "t": "III등급 이하를 끝낸다. 3d4 치유"
+ },
+ "5e5cc65370d1": {
+  "en": "8d6 acid; death if reduced to 0",
+  "t": "8d6 산성. 0이 되면 죽음"
+ },
+ "5fed45345a35": {
+  "en": "Fully aquatic lungs; can't breathe air",
+  "t": "완전히 수생인 폐. 공기로 숨 쉴 수 없음"
+ },
+ "6213d3f8d772": {
+  "en": "Hold breath +1 minute",
+  "t": "숨 참기 +1분"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1 사파이어"
+ },
+ "631d0bc83f29": {
+  "en": "As *polymorph* into a Winga (Fauna stats)",
+  "t": "*변신*처럼 윙가가 된다(동물 수치)"
+ },
+ "63b365e58e0f": {
+  "en": "See souls as a shimmer (detect living creatures in 30 ft)",
+  "t": "영혼이 아른거림으로 보임(30피트 안의 살아 있는 생물 감지)"
+ },
+ "65283b7e6485": {
+  "en": "Water-reactive nari bomb",
+  "t": "물에 반응하는 나리 폭탄"
+ },
+ "652ed7ab4428": {
+  "en": "Natural AC 14 + Dex",
+  "t": "자연 AC 14 + 민첩"
+ },
+ "66c762d797d5": {
+  "en": "Hooves (+10 ft speed), tail, overheating",
+  "t": "발굽(이동속도 +10피트), 꼬리, 과열"
+ },
+ "67fd06f93056": {
+  "en": "Colored flames: 1d6 fire to creatures you grapple or touch",
+  "t": "색깔 불꽃: 붙잡거나 닿은 생물에게 1d6 화염"
+ },
+ "6847b9e8c95c": {
+  "en": "As *haste*; at the end of each of your turns take 1d6 force damage",
+  "t": "*가속*과 같음. 매 턴 끝에 1d6 역장 피해를 받는다"
+ },
+ "693d31d4622d": {
+  "en": "Death (DC 15 Con)",
+  "t": "죽음(건강 DC 15)"
+ },
+ "6bd90eaf3a6c": {
+  "en": "Speed halved, slurred speech, disadv. on Dex checks/saves",
+  "t": "이동속도 절반, 혀가 꼬임, 민첩 판정과 내성에 불리점"
+ },
+ "6e769670ac0a": {
+  "en": "Hear a mile away; without Time Slower, DC 15 Con or incapacitated",
+  "t": "1마일 밖까지 들림. 타임 슬로어 없이는 건강 DC 15에 실패하면 행동불능"
+ },
+ "6f5cfcd0a872": {
+  "en": "Poison: DC 15 Con save or heart stops (0 HP, dying)",
+  "t": "독: DC 15 건강 내성에 실패하면 심장이 멎는다(0 HP, 빈사)"
+ },
+ "7107e9ef6352": {
+  "en": "Tamed Winga",
+  "t": "길들인 윙가"
+ },
+ "721d81354ff2": {
+  "en": "**Arm Light**",
+  "t": "**암 라이트**"
+ },
+ "726d99fe9103": {
+  "en": "1 SP of energy for interfaces. Comes in soul wood; stack into sticks",
+  "t": "인터페이스용 1 SP 분량의 에너지. 영혼나무에 박혀 있고, 쌓아서 스틱으로 만든다"
+ },
+ "7595824c0ba4": {
+  "en": "Nari stones, bombs and other consumables",
+  "t": "나리석, 폭탄, 기타 소모품"
+ },
+ "768dbc639623": {
+  "en": "Hooves: +10 ft speed on land",
+  "t": "발굽: 땅 위 이동속도 +10피트"
+ },
+ "7696398f9f70": {
+  "en": "Overload: blindsight 30 ft by smell, but poisoned near strong smells",
+  "t": "과부하: 후각으로 맹안시야 30피트, 하지만 강한 냄새 근처에서는 중독"
+ },
+ "76e79a4ff4e5": {
+  "en": "**Winga-dust coating**: a weapon coated with Winga dust ignores resistance to slashing/piercing from nonmagical attacks for a year. 1 aquamarine.",
+  "t": "**윙가 가루 코팅**: 윙가 가루를 입힌 무기는 1년 동안 비마법 공격의 참격/관통 저항을 무시한다. 1 아쿠아마린."
+ },
+ "77567bb3643e": {
+  "en": "**Water Walk**",
+  "t": "**워터 워크**"
+ },
+ "7931660fbde8": {
+  "en": "Overwhelming feelings: advantage on Charisma, disadv. on Wisdom",
+  "t": "압도적인 감정: 매력에 이점, 지혜에 불리점"
+ },
+ "7a84aa0fd38f": {
+  "en": "2d6 bleed per turn, bleeding from eyes/ears",
+  "t": "턴마다 출혈 2d6, 눈과 귀에서 피"
+ },
+ "7b3c162b3bdd": {
+  "en": "**Bone wood** (bone, iron, ground nari, greenbread core): as wood or metal; lasts longer. Freeish guards wear bone-wood armor (as hide/scale).",
+  "t": "**뼈나무**(뼈, 철, 간 나리, 그린브레드 심): 나무나 금속으로 취급. 더 오래간다. 프리이시 경비병은 뼈나무 갑옷을 입는다(하이드/스케일 상당)."
+ },
+ "7b58eccef4ad": {
+  "en": "Squeeze through 1-inch gaps; must hold breath",
+  "t": "1인치 틈을 비집고 지나감. 숨을 참아야 함"
+ },
+ "7c5af08694b6": {
+  "en": "Feather fall at will; −2 Str checks",
+  "t": "*깃털 낙하*를 마음대로. 근력 판정 −2"
+ },
+ "7d1a56b761ee": {
+  "en": "Identify any creature by smell within 30 ft; perfume = DC 12 Con or poisoned",
+  "t": "30피트 안의 어떤 생물이든 냄새로 식별. 향수 = 건강 DC 12에 실패하면 중독"
+ },
+ "7d5d0bfddffd": {
+  "en": "Companion",
+  "t": "동료"
+ },
+ "7e4c460ac454": {
+  "en": "Body structure matches",
+  "t": "신체 구조가 일치"
+ },
+ "80cf249ba2d6": {
+  "en": "Gel",
+  "t": "젤"
+ },
+ "818e23c9b213": {
+  "en": "Burns: 2d6 fire",
+  "t": "화상: 2d6 화염"
+ },
+ "8220146365f2": {
+  "en": "Black honey (jar)",
+  "t": "검은 꿀(병)"
+ },
+ "835f5431c341": {
+  "en": "Neck gills: hold breath 6 minutes; mute",
+  "t": "목 아가미: 숨을 6분 참음. 말을 못 함"
+ },
+ "83dce580ecd5": {
+  "en": "Advantage on hearing Perception",
+  "t": "청각 감지에 이점"
+ },
+ "87c9fe369c04": {
+  "en": "Nari stone",
+  "t": "나리석"
+ },
+ "883f855da487": {
+  "en": "Walk on water (Medium)",
+  "t": "물 위를 걸음(중형)"
+ },
+ "8a6cd49e8d37": {
+  "en": "Breathe underwater ~20 minutes; mute; can't breathe air",
+  "t": "물속에서 ~20분 숨 쉼. 말을 못 함. 공기로 숨 쉴 수 없음"
+ },
+ "8a709fd6a4e2": {
+  "en": "**Body Paralysis** (poison)",
+  "t": "**보디 패럴리시스**(독)"
+ },
+ "8ae498b70077": {
+  "en": "Blindsight 10 ft by sound; loud noises: DC 13 Con or deafened 1 min",
+  "t": "소리로 맹안시야 10피트. 큰 소리: 건강 DC 13에 실패하면 1분간 귀먹음"
+ },
+ "8b9548956584": {
+  "en": "Paralyzed; DC 15 Con each turn or stop breathing",
+  "t": "마비. 매 턴 건강 DC 15에 실패하면 숨이 멎는다"
+ },
+ "8da4aeb09e9c": {
+  "en": "free (Endlessfog's House of Bruntos, if one bonds with you)",
+  "t": "무료(엔들리스포그의 브룬토스의 집에서 한 마리가 당신과 유대를 맺는다면)"
+ },
+ "8da665aa9f77": {
+  "en": "Advantage on saves vs. ingested poison",
+  "t": "삼킨 독에 대한 내성에 이점"
+ },
+ "8e31e0896449": {
+  "en": "Hear whispers through walls",
+  "t": "벽 너머 속삭임이 들림"
+ },
+ "8fbb05286dc1": {
+  "en": "**Getting stuck:** use the same Tier III+ gel for more than 3 days in a row and make a DC 13 Constitution save each extra day; on a failure the change becomes **permanent** until a Nari Refresher of that tier and a long rest. Living permanently transformed for months corrupts the soul (DM's call: you may never come back).",
+  "t": "**빠져나오지 못함:** 같은 III등급 이상 젤을 3일 넘게 연달아 쓰면, 넘긴 날마다 DC 13 건강 내성 굴림을 한다. 실패하면 그 등급의 나리 리프레셔를 쓰고 긴 휴식을 할 때까지 변화가 **영구적**이 된다. 몇 달씩 변한 몸으로 계속 살면 영혼이 오염된다(DM 판단: 영영 돌아오지 못할 수도 있다)."
+ },
+ "91b8c9726e81": {
+  "en": "Laxative (cures a stomach ache, ruins a day)",
+  "t": "설사약(복통은 낫지만 하루를 망친다)"
+ },
+ "923e85a7e02e": {
+  "en": "Lasting personality change (DM and player decide)",
+  "t": "오래가는 인격 변화(DM과 플레이어가 정한다)"
+ },
+ "93e521962edf": {
+  "en": "As *haste* plus advantage on Dex saves; take 2d6 force at end of each turn; when it ends, DC 15 Con save or drop to 0 HP (aneurysm)",
+  "t": "*가속*과 같고 민첩 내성에 이점. 매 턴 끝에 2d6 역장 피해. 효과가 끝나면 DC 15 건강 내성에 실패할 경우 0 HP가 된다(동맥류)"
+ },
+ "942e0f9e874f": {
+  "en": "Fly 60 ft; you can't speak Vraki",
+  "t": "비행 60피트. 브라키어를 말할 수 없다"
+ },
+ "955b3b84b060": {
+  "en": "Tier I",
+  "t": "I등급"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1 애머시스트"
+ },
+ "9836e1a5abfb": {
+  "en": "Breathe water freely, swim speed = speed (not air)",
+  "t": "물로 자유롭게 숨 쉼, 수영 속도 = 이동속도(공기는 불가)"
+ },
+ "98888ac1b5b2": {
+  "en": "**Sore Mind**",
+  "t": "**소어 마인드**"
+ },
+ "9c9199184152": {
+  "en": "Removes hair, scars, tattoos",
+  "t": "털, 흉터, 문신 제거"
+ },
+ "9f578f34f508": {
+  "en": "3 amethysts",
+  "t": "3 애머시스트"
+ },
+ "a21485c6adb2": {
+  "en": "Young Egua",
+  "t": "어린 에구아"
+ },
+ "a3e89ea7a049": {
+  "en": "**Wozen Smell**",
+  "t": "**워젠 스멜**"
+ },
+ "a570b4373cfd": {
+  "en": "**Badge replacement**: 1 amethyst (plus questions).",
+  "t": "**신분패 재발급**: 1 애머시스트(질문 공세 포함)."
+ },
+ "a65d11b0cb95": {
+  "en": "Flying scout with a huge soul; a person, not a pet",
+  "t": "거대한 영혼을 지닌 비행 정찰병. 애완동물이 아니라 한 사람이다"
+ },
+ "ac0d6b06d922": {
+  "en": "Ends Tier ≤II; heal 2d4",
+  "t": "II등급 이하를 끝낸다. 2d4 치유"
+ },
+ "adab8dadcb78": {
+  "en": "Notes",
+  "t": "메모"
+ },
+ "ae72f1db57c8": {
+  "en": "Fed to someone who died within the last minute, with their body mostly intact: they return to 1 HP. Forway guards carry these in their leg pockets",
+  "t": "지난 1분 안에 죽었고 몸이 거의 온전한 사람에게 먹인다: 1 HP로 돌아온다. 포웨이 경비병은 다리 주머니에 이걸 넣고 다닌다"
+ },
+ "b06bab289b6e": {
+  "en": "Sorefaries companion",
+  "t": "소레파리에스 동료"
+ },
+ "b071c63665ff": {
+  "en": "**Wood People vines**: as hempen rope but elastic (50 ft for 5 pearls in Tolerideme, 15 elsewhere).",
+  "t": "**우드 피플 덩굴**: 삼 밧줄과 같지만 늘어난다(톨레리데메에서는 50피트에 5 펄, 다른 곳에서는 15)."
+ },
+ "b1d38f00e126": {
+  "en": "You're a slime (DM provides ooze stats)",
+  "t": "슬라임이 된다(DM이 점액체 수치를 준다)"
+ },
+ "b27b4aac7927": {
+  "en": "Green leathery skin (cosmetic)",
+  "t": "초록색 가죽 같은 피부(외형만)"
+ },
+ "b346b6cd745c": {
+  "en": "Tier IV",
+  "t": "IV등급"
+ },
+ "b3ea8d0b906a": {
+  "en": "Eat during a short rest: regain an extra 1d4 HP per Hit Die spent (once per rest). Mildly addictive",
+  "t": "짧은 휴식 중에 먹는다: 쓴 히트 다이스 하나마다 추가로 1d4 HP 회복(휴식마다 한 번). 약한 중독성"
+ },
+ "b3eee2b5fd9e": {
+  "en": "**Sayna Hearing**",
+  "t": "**사이나 히어링**"
+ },
+ "b51600212f96": {
+  "en": "Numb: −2 to attack rolls",
+  "t": "저림: 명중 굴림 −2"
+ },
+ "b665bdfd60b8": {
+  "en": "Advantage on saves vs. fear; you can sleep anywhere; hungry",
+  "t": "공포에 대한 내성에 이점. 어디서든 잘 수 있음. 배고픔"
+ },
+ "b6cc11829f01": {
+  "en": "Use PHB equipment and prices (1 gp = 10 pearls), with Vraki materials:",
+  "t": "플레이어즈 핸드북의 장비와 가격을 쓰고(1 gp = 10 펄), 브라키 재료로 바꾼다."
+ },
+ "b729dc21bb94": {
+  "en": "Pack animal; light loads",
+  "t": "짐 운반 동물. 가벼운 짐"
+ },
+ "b76af4cfe69d": {
+  "en": "Black honey revival pot",
+  "t": "검은 꿀 부활 단지"
+ },
+ "b7cbdc7d1bc4": {
+  "en": "Bright light 20 ft",
+  "t": "20피트 밝은 빛"
+ },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**일찍 끝내기:** 같거나 더 높은 등급의 **나리 리프레셔**는 당신에게 걸린 모든 젤 효과를 끝낸다."
+ },
+ "bcdbe52f4e7e": {
+  "en": "Your veins glow (light 10 ft)",
+  "t": "혈관이 빛남(10피트 빛)"
+ },
+ "bd88696efa1f": {
+  "en": "Natural AC 16 + Dex; you can't speak; you look like a Cruro",
+  "t": "자연 AC 16 + 민첩. 말을 할 수 없음. 크루로처럼 보임"
+ },
+ "bdf9525fa9f4": {
+  "en": "Resistance to cold damage",
+  "t": "냉기 피해 저항"
+ },
+ "bee3832ddb2a": {
+  "en": "Woolly hair (cosmetic, very fashionable)",
+  "t": "양털 같은 머리카락(외형만, 대유행)"
+ },
+ "bfdda802b945": {
+  "en": "Track a known scent (adv. on Survival to track)",
+  "t": "아는 냄새를 추적(추적용 생존에 이점)"
+ },
+ "c01ccec55696": {
+  "en": "Tamed Bagarisa",
+  "t": "길들인 바가리사"
+ },
+ "c3376fb508da": {
+  "en": "Rare; fire-tusked guard pig",
+  "t": "드묾. 불 엄니를 가진 경비 돼지"
+ },
+ "c7452be4b9c9": {
+  "en": "Lunar mapping (this year)",
+  "t": "달 지도(올해 것)"
+ },
+ "c786f28f1bc7": {
+  "en": "Adult Egua",
+  "t": "다 큰 에구아"
+ },
+ "c7eb9ffbeea8": {
+  "en": "15 pearls",
+  "t": "15 펄"
+ },
+ "c8731830d000": {
+  "en": "Coma",
+  "t": "혼수"
+ },
+ "ca38faeb8b69": {
+  "en": "**Winga Skin**",
+  "t": "**윙가 스킨**"
+ },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**주사(고운 등급, 가격 두 배):** 주사기를 쓰는 보너스 행동. 효과는 즉시 시작된다. **1일** 지속."
+ },
+ "cd683e2a9e1d": {
+  "en": "Tamed Sayna",
+  "t": "길들인 사이나"
+ },
+ "cea1577656a5": {
+  "en": "Once: blinding flash, creatures within 20 ft DC 13 Con or blinded 1 minute — including you, if you fail a DC 10 Con save",
+  "t": "1회: 눈부신 섬광, 20피트 안의 생물은 건강 DC 13에 실패하면 1분간 장님 — DC 10 건강 내성에 실패하면 당신도 포함"
+ },
+ "d02cb63f4b06": {
+  "en": "Brunto",
+  "t": "브룬토"
+ },
+ "d0354fe70e0a": {
+  "en": "Hallucinations (DM's fun)",
+  "t": "환각(DM의 즐거움)"
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**흡수:** I–II등급 젤은 추가 비용이 없다. **III등급** 젤이 작용하는 동안에는 긴 휴식으로 SP를 회복하지 않는다. **IV등급** 젤이 작용하는 동안에는 새벽마다 SP를 1 잃는다(0 SP라면 대신 탈진 1단계를 얻는다)."
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**고통:** III, IV등급 젤은 몸이 모양을 바꾸는 동안 아프다. 거친 등급: 2d6(III등급) 또는 4d6(IV등급)의 정신 피해를 받고 다음 턴이 끝날 때까지 중독된다. 고운 등급: 피해 없음."
+ },
+ "d40fc2232f3f": {
+  "en": "+1 to sight Perception",
+  "t": "시각 감지 +1"
+ },
+ "d4593456be97": {
+  "en": "5 pearls",
+  "t": "5 펄"
+ },
+ "d4a36e1f39bb": {
+  "en": "Ends all gel effects; heal 4d4",
+  "t": "모든 젤 효과를 끝낸다. 4d4 치유"
+ },
+ "d5c239c689c0": {
+  "en": "Bouncy: halve falling damage",
+  "t": "탱탱함: 낙하 피해 절반"
+ },
+ "d6ebb461546e": {
+  "en": "**Winga Flight**",
+  "t": "**윙가 플라이트**"
+ },
+ "d76e0e081cb5": {
+  "en": "Overload: DC 15 Con or incapacitated 1 minute",
+  "t": "과부하: 건강 DC 15에 실패하면 1분간 행동불능"
+ },
+ "d7df2eac546f": {
+  "en": "Flush: ends poisoned, but you're out of action for an hour",
+  "t": "배출: 중독이 끝나지만 한 시간 동안 아무것도 못 한다"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "**병** 하나(~200 g)에는 **4숟갈**이 들어 있다. **I등급은 1숟갈, II등급은 2숟갈, III등급은 3숟갈, IV등급은 4숟갈 전부**를 먹는다. 그러니 병 하나 = I등급 4회분, 또는 IV등급 1회분."
+ },
+ "da61db8cfc3a": {
+  "en": "**Water Breath**",
+  "t": "**워터 브레스**"
+ },
+ "dce52b6dccee": {
+  "en": "Advantage on checks to avoid getting lost",
+  "t": "길을 잃지 않기 위한 판정에 이점"
+ },
+ "dd83470bb194": {
+  "en": "Darkvision 60 ft",
+  "t": "암시야 60피트"
+ },
+ "ddebe944ea06": {
+  "en": "20-ft heavily obscured cloud; 1d6 thunder in 10 ft; goes off when infused (hurts the thrower if held)",
+  "t": "20피트의 짙은 연막 구름. 10피트 안에 1d6 천둥. 에너지를 넣는 순간 터진다(들고 있으면 던지는 사람이 다친다)"
+ },
+ "dec64fbe04ed": {
+  "en": "Nari stone stick (5 stones)",
+  "t": "나리석 스틱(돌 5개)"
+ },
+ "dfa6dca733ad": {
+  "en": "Target can't regain HP from magic for 1 min",
+  "t": "대상은 1분간 마법으로 HP를 회복할 수 없다"
+ },
+ "e13641309a43": {
+  "en": "Fost stone (loose)",
+  "t": "포스트석(낱개)"
+ },
+ "e5e04044d891": {
+  "en": "DC 15 Con or drop to 0 HP",
+  "t": "건강 DC 15에 실패하면 0 HP"
+ },
+ "e7e0fc2d5af5": {
+  "en": "Prices are per jar (coarse). Fine grade costs double.",
+  "t": "가격은 병당(거친 등급). 고운 등급은 두 배."
+ },
+ "e86f1f3e1e78": {
+  "en": "**Slime Skin**",
+  "t": "**슬라임 스킨**"
+ },
+ "e876d831fcbd": {
+  "en": "Truesight 30 ft for souls only; tormented thoughts",
+  "t": "영혼에 한해 진시야 30피트. 괴로운 생각"
+ },
+ "eb76d1e0cc76": {
+  "en": "**Monika Sight**",
+  "t": "**모니카 사이트**"
+ },
+ "eb91adeacae1": {
+  "en": "**Smooth Skin**",
+  "t": "**스무스 스킨**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1 아쿠아마린"
+ },
+ "ee0c3b062036": {
+  "en": "Target answers questions in a dream-like haze (DC 13 Wis or it talks)",
+  "t": "대상이 꿈결 같은 상태로 질문에 답한다(지혜 DC 13에 실패하면 말한다)"
+ },
+ "ee3d1e97779b": {
+  "en": "Ends Tier I gel effects; heal 1d4",
+  "t": "I등급 젤 효과를 끝낸다. 1d4 치유"
+ },
+ "f0e43fbf33e4": {
+  "en": "Big Winga (egg or adult)",
+  "t": "빅 윙가(알 또는 성체)"
+ },
+ "f140c1f2f283": {
+  "en": "Covered: disadv. on Perception (sight) and Dex checks",
+  "t": "온몸이 덮임: 감지(시각)와 민첩 판정에 불리점"
+ },
+ "f5597f5ff52d": {
+  "en": "Tier III",
+  "t": "III등급"
+ },
+ "f66361c79319": {
+  "en": "1+ aquamarine, if you can find one",
+  "t": "1 아쿠아마린 이상, 찾을 수만 있다면"
+ },
+ "f6739e0b4ab2": {
+  "en": "Tier II",
+  "t": "II등급"
+ },
+ "f772ffe3cc33": {
+  "en": "**Smooth Gut**",
+  "t": "**스무스 거트**"
+ },
+ "f7ff8a69205b": {
+  "en": "**Skin Melt** (II+ banned)",
+  "t": "**스킨 멜트**(II 이상 금지)"
+ },
+ "f995d36228c8": {
+  "en": "20-ft cloud for 1 minute; seen for miles. Misusing official colors is a crime",
+  "t": "1분간 20피트 구름. 몇 마일 밖에서도 보인다. 공식 색을 잘못 쓰는 것은 범죄"
+ },
+ "fb1bdc91f66d": {
+  "en": "**Cruro Skin**",
+  "t": "**크루로 스킨**"
+ },
+ "fd3df09721a7": {
+  "en": "Walk on water if Small/light",
+  "t": "소형이거나 가벼우면 물 위를 걸음"
+ },
+ "fffc5e7c180f": {
+  "en": "**Wozen Eyesight**",
+  "t": "**워젠 아이사이트**"
+ }
+}

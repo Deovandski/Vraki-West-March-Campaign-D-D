@@ -1,0 +1,70 @@
+{
+ "20bfe7cb2366": {
+  "en": "**Curious Cook.** During a short rest, cooks a meal that grants each eater 1d4+1 temporary HP.",
+  "t": "**好奇的厨师。** 短休时做一顿饭，每个吃的人获得1d4+1点临时生命值。"
+ },
+ "25e4ce1f93c4": {
+  "en": "**Heart Pulse (Recharge 6, or spend 1 SP).** 10-ft cone, 2d6 thunder, DC 11 Con save for half.",
+  "t": "**心脏脉冲（充能6，或花费1 SP）。** 10尺锥形，2d6雷鸣，DC 11体质豁免成功则减半。"
+ },
+ "26776897960f": {
+  "en": "**People:** \"Pure\" human with a Bagarisa-touched soul · **Class:** Soul-Touched (homebrew Ranger/Monk hybrid) · **Background:** Isekai Stranger · **Alignment:** Neutral Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 3 (+1 extra on each long rest: Deep Soul)",
+  "t": "**种族：** 灵魂被巴加里萨触碰过的“纯种”人类 · **职业：** 触魂者（自制的游侠/武僧混合职业） · **背景：** 异世界来客 · **阵营：** 中立善良 · **级别：** 珀尔\n**界面：** 无（不能使用西吉尔戒指） · **灵魂点数：** 3（每次长休额外+1：深邃灵魂）"
+ },
+ "395995bc9ea2": {
+  "en": "**Improvised Weapon.** +4 to hit, 1d8+2.",
+  "t": "**临时武器。** 命中+4，1d8+2。"
+ },
+ "4004100fd78f": {
+  "en": "Harry Sanbi — Level 3 Soul-Touched Wanderer",
+  "t": "哈利·桑比——3级触魂流浪者"
+ },
+ "45b24362989f": {
+  "en": "**Bagarisa Soul Battery.** Regains 1 extra Soul Point per long rest (stacks with Deep Soul).",
+  "t": "**巴加里萨灵魂电池。** 每次长休额外恢复1点灵魂点数（与深邃灵魂叠加）。"
+ },
+ "4ca4b8f2059a": {
+  "en": "**Claustrophobic.** In tight spaces, DC 10 Wis save or frightened for 1 round.",
+  "t": "**幽闭恐惧。** 在狭窄空间里，进行DC 10感知豁免，失败则恐慌1轮。"
+ },
+ "7eaf8a43b457": {
+  "en": "**Soul Push (1 SP).** Shove a creature 5 ft without a check.",
+  "t": "**灵魂推送（1 SP）。** 无需检定把一个生物推开5尺。"
+ },
+ "8012ba2eebc1": {
+  "en": "**AC** 13 · **HP** 24 · **Speed** 30 ft\n**STR** 12 · **DEX** 14 · **CON** 13 · **INT** 10 · **WIS** 11 · **CHA** 15",
+  "t": "**AC** 13 · **HP** 24 · **速度** 30尺\n**力量** 12 · **敏捷** 14 · **体质** 13 · **智力** 10 · **感知** 11 · **魅力** 15"
+ },
+ "8ac1f3297aeb": {
+  "en": "Soul-Energy Abilities (spend SP)",
+  "t": "灵魂能量能力（花费SP）"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特性与特质"
+ },
+ "a93ec4c46638": {
+  "en": "**Adaptable Heart.** Advantage on one death save per long rest.",
+  "t": "**适应之心。** 每次长休有一次死亡豁免具有优势。"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "动作"
+ },
+ "b40e82229cb7": {
+  "en": "**Soul Flicker (1 SP).** Bonus action: +10 ft movement this turn.",
+  "t": "**灵魂闪烁（1 SP）。** 附赠动作：本回合移动+10尺。"
+ },
+ "c0e568ead7b3": {
+  "en": "**Skills:** Persuasion +4, Insight +3, Survival +2, Perception +2\n**Equipment:** Traveler's clothes, cooking kit, simple blade, notebook of fragmented memories, badge, 20 pearls.\n**Hook:** Nobody believes where he says he's from. Sometimes he isn't sure either.",
+  "t": "**技能：** 游说+4、洞悉+3、求生+2、察觉+2\n**装备：** 旅行者服装、烹饪工具、简单的刀、写满零碎记忆的笔记本、身份牌、20枚珀尔。\n**剧情钩子：** 没人相信他说的来处。有时连他自己也不确定。"
+ },
+ "c655dbca8880": {
+  "en": "**Confused Memories.** Disadvantage on History checks about Vraki.",
+  "t": "**混乱的记忆。** 关于弗拉基的历史检定具有劣势。"
+ },
+ "cbff27fce4eb": {
+  "en": "**Unarmed Strike.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**徒手打击。** 命中+4，1d6+2钝击。"
+ }
+}

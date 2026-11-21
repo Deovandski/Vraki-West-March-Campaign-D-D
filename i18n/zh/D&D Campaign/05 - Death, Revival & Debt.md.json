@@ -1,0 +1,126 @@
+{
+ "02957b7454d1": {
+  "en": "Walking Hearts and soul death",
+  "t": "沃金哈特与灵魂之死"
+ },
+ "0b1cafe4a3f6": {
+  "en": "Dying",
+  "t": "濒死"
+ },
+ "1316fed2b7f5": {
+  "en": "Every quest contract has a **deadline** (see Quest Board). If the party isn't back at an embassy by then:",
+  "t": "每份委托合同都有一个**期限**（见委托板）。如果到期时队伍还没回到大使馆："
+ },
+ "1430f8382b3d": {
+  "en": "Keeping the body cold (ice spells, snow, an ice preserver) **doubles** the window. Burned, dissolved or eaten bodies can't be revived.",
+  "t": "让身体保持低温（冰系法术、雪、冰柜）能让时限**翻倍**。被烧毁、溶解或吃掉的身体无法复活。"
+ },
+ "25fa49832ed7": {
+  "en": "**Revival window = 3 days + 1 day per character level.**",
+  "t": "**复活时限 = 3天 + 每角色等级1天。**"
+ },
+ "2df671ce7d96": {
+  "en": "Fleeing your debt makes you a **wanted** criminal (bounty quests appear with your face on them).",
+  "t": "逃债会让你成为**通缉**犯（会出现印着你脸的悬赏委托）。"
+ },
+ "329d5a17dcf2": {
+  "en": "The revival window",
+  "t": "复活时限"
+ },
+ "343c8cbfd594": {
+  "en": "They now owe **Revival Debt** to Forway.",
+  "t": "他们现在欠福威一笔**复活债**。"
+ },
+ "4ece5231567c": {
+  "en": "The adventurer wakes with 1 HP and **one level of exhaustion**.",
+  "t": "冒险者醒来时有1 HP，以及**一级力竭**。"
+ },
+ "516bc27460d7": {
+  "en": "**Debt = 100 pearls × character level** (a level 3 adventurer owes 300 pearls; a level 10, 1,000).",
+  "t": "**债务 = 100珀尔 × 角色等级**（3级冒险者欠300珀尔；10级的欠1,000）。"
+ },
+ "57d0eb6ed989": {
+  "en": "Bodies not found in time: **Presumed Soul Dead**. Forway keeps the badge; belongings go to the character's top guild (or to charity after a year).",
+  "t": "没能及时找到的尸体：**推定灵魂已死**。福威保留身份牌；遗物归角色所属的首要公会（一年后捐给慈善）。"
+ },
+ "58d7ac5629bb": {
+  "en": "This is also the West March \"get home\" rule: a session that ends with the party in the wild means the deadline keeps running until the next session with those characters.",
+  "t": "这也是西境的“回家”规则：如果一次跑团结束时队伍还在野外，那么期限会一直计算，直到这些角色的下一次跑团。"
+ },
+ "621fa975c19f": {
+  "en": "Use normal 5e death saving throws. When you die, your soul stays tied to your body while the body lasts. The dead dream of their strongest memories.",
+  "t": "使用5e常规的死亡豁免检定。你死后，只要身体还在，你的灵魂就仍然系在身体上。死者会梦见自己最强烈的记忆。"
+ },
+ "624c727b5e79": {
+  "en": "Revival debt",
+  "t": "复活债"
+ },
+ "6896fdd71498": {
+  "en": "Living adventurers who are found get escorted home and owe the search party's fee: **1 amethyst per rank tier** (Pearl 1, Amethyst 2, Aquamarine 3, Sapphire 4) each.",
+  "t": "被找到的活着的冒险者会被护送回家，每人都要付搜救队的费用：**每个级别档位1阿米西斯特**（珀尔1，阿米西斯特2，阿夸马林3，萨菲尔4）。"
+ },
+ "69a87e374172": {
+  "en": "After the window closes, the soul dissolves: the character is **Soul Dead** — gone for good.",
+  "t": "时限一过，灵魂就会溶解：角色**灵魂已死**——永远消失。"
+ },
+ "7ffb73a274ac": {
+  "en": "Embassy revival",
+  "t": "大使馆复活"
+ },
+ "921330cd8f61": {
+  "en": "If they find bodies within the revival window, those adventurers are revived with debt — and the **quest credit and reward go to the search party**.",
+  "t": "如果他们在复活时限内找到尸体，这些冒险者会背着债被复活——而**委托的功劳和报酬都归搜救队**。"
+ },
+ "a2164ec7da9f": {
+  "en": "Death, Revival & Debt",
+  "t": "死亡、复活与债务"
+ },
+ "ade41b56747d": {
+  "en": "A character who gets a **Walking Heart** (see Dangerous Places) becomes undead and **can't be revived** by normal means. Forway law treats them as soul dead.",
+  "t": "得到**沃金哈特**的角色（见“危险之地”）会变成亡灵，**无法**用常规手段**复活**。福威法把他们视为灵魂已死。"
+ },
+ "b85efb022ea2": {
+  "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
+  "t": "很多冒险者——还有福伦特里的强盗——管这叫奴隶制。他们说得也不全错。"
+ },
+ "c06a23abd89b": {
+  "en": "**Die again while you still owe** and Forway **drafts you into the Forway Guard**: the character retires as an NPC guard (a great recurring NPC), unless the party pays the full remaining debt plus the new debt on the spot.",
+  "t": "**还欠着债就又死了**的话，福威会**把你征入福威卫队**：这个角色作为NPC卫兵退休（一个很棒的反复登场的NPC），除非队伍当场付清剩余债务和新债务。"
+ },
+ "c386e0c6af88": {
+  "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
+  "t": "大使馆会派出**搜救队**。掷1d6：就是他们到达最后已知位置所需的天数。"
+ },
+ "c57e0941ead3": {
+  "en": "A soul fully drained to nothing by a soul-eating creature (Sucker Lady, Walking Flesh) is gone, unless the DM offers a quest to get it back.",
+  "t": "被食魂生物（萨克莱迪、沃金·弗莱什）彻底吸干的灵魂就消失了，除非DM提供一个把它找回来的委托。"
+ },
+ "c6f4e2b98f1f": {
+  "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",
+  "t": "死后一分钟内：一罐**黑蜜复活罐**或*复生术*（博迪里斯托尔 + 斯托姆克里埃特的一对戒指，第III级）。\n之后，在时限内：把身体送到任意一座**大使馆**。（冰起来。说真的。）"
+ },
+ "c8c19b3cca9c": {
+  "en": "Quest deadlines and search parties",
+  "t": "委托期限与搜救队"
+ },
+ "cf75b0968dcf": {
+  "en": "In Vraki, death is usually a **financial** problem. That's the point.",
+  "t": "在弗拉基，死亡通常是个**经济**问题。这正是重点。"
+ },
+ "d55d4b2459a3": {
+  "en": "Field revival",
+  "t": "野外复活"
+ },
+ "d63ec3733ade": {
+  "en": "A body can be revived as long as its soul hasn't detached:",
+  "t": "只要灵魂还没脱离，身体就能被复活："
+ },
+ "e33d7aed698a": {
+  "en": "Any embassy revives an adventurer whose body arrives within the revival window. It always works — unless the adventurer has a Walking Heart, is Hash-mutated, or the DM has a very good story reason.",
+  "t": "只要冒险者的身体在复活时限内送达，任何一座大使馆都会复活他。一定会成功——除非这名冒险者有沃金哈特、发生了哈什变异，或者DM有非常好的剧情理由。"
+ },
+ "f3f30724e756": {
+  "en": "Until it's paid, **50% of every quest reward** goes to Forway. You can also pay it off with balls any time.",
+  "t": "在还清之前，**每份委托报酬的50%** 都归福威。你也可以随时用球还清。"
+ }
+}

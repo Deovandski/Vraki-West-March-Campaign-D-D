@@ -1,0 +1,434 @@
+{
+ "003674fa1bc3": {
+  "en": "**Finaies interface** — air-drawn elemental spells; nobody living in the south knows it.",
+  "t": "**피나이에스 인터페이스** — 허공에 그리는 원소 주문. 남쪽에 사는 사람 중 아는 이는 없다."
+ },
+ "0224e8cfb203": {
+  "en": "III",
+  "t": "III"
+ },
+ "0f796c865397": {
+  "en": "V",
+  "t": "V"
+ },
+ "112d2d3d8092": {
+  "en": "Body RESTORE (mass)",
+  "t": "보디 리스토어(집단)"
+ },
+ "146d6a98d21b": {
+  "en": "Steam/Dust/Ash CREATE",
+  "t": "스팀/더스트/애시 크리에이트"
+ },
+ "19b83a5f4da5": {
+  "en": "Tiers = spell levels",
+  "t": "등급 = 주문 레벨"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "가격"
+ },
+ "1abfc1fdfb47": {
+  "en": "Body RESTORE",
+  "t": "보디 리스토어"
+ },
+ "1dd0bba188f3": {
+  "en": "VII",
+  "t": "VII"
+ },
+ "1ebf1bdc648e": {
+  "en": "5e spell",
+  "t": "5판 주문"
+ },
+ "2153386a308b": {
+  "en": "VIII",
+  "t": "VIII"
+ },
+ "25cfbc1b065c": {
+  "en": "Other interfaces",
+  "t": "그 밖의 인터페이스"
+ },
+ "28d197df8bb1": {
+  "en": "*message*",
+  "t": "*전언*"
+ },
+ "28dc941a1d1d": {
+  "en": "A ring is set to one Tier when carved; a higher-Tier ring of the same spell costs more.",
+  "t": "반지는 새길 때 한 등급으로 고정된다. 같은 주문이라도 더 높은 등급의 반지는 더 비싸다."
+ },
+ "2902c8870ee2": {
+  "en": "*mending*",
+  "t": "*수선*"
+ },
+ "2c4812a1bc1c": {
+  "en": "3 aquamarines",
+  "t": "3 아쿠아마린"
+ },
+ "2cde69542999": {
+  "en": "Object INCREASE/DECREASE",
+  "t": "오브젝트 인크리스/디크리스"
+ },
+ "2d3384c7f8ae": {
+  "en": "**Banned:** blank rings (except for courtroom scientists and Aquamarine+ adventurers), and destructive Body rings outside guard/army use.",
+  "t": "**금지:** 아무것도 새기지 않은 반지(궁정 과학자와 아쿠아마린 이상 모험가 제외), 그리고 경비대·군대 용도가 아닌 파괴적인 보디 반지."
+ },
+ "2f0094f1a58d": {
+  "en": "*fog cloud*",
+  "t": "*안개 구름*"
+ },
+ "35abad070d06": {
+  "en": "**Spell attack bonus** = your proficiency bonus + your highest mental modifier (Int, Wis or Cha). **Save DC** = 8 + the same.",
+  "t": "**주문 명중 보너스** = 숙련 보너스 + 가장 높은 정신 능력 수정치(지능, 지혜, 매력). **내성 DC** = 8 + 같은 값."
+ },
+ "3a09af548f15": {
+  "en": "Ice CREATE (shard)",
+  "t": "아이스 크리에이트(파편)"
+ },
+ "3a5a61354294": {
+  "en": "*fire bolt*",
+  "t": "*화염살*"
+ },
+ "3d2996729e78": {
+  "en": "*lightning bolt*",
+  "t": "*번개 줄기*"
+ },
+ "3f62b2cb960a": {
+  "en": "Gravity ATTRACT (self)",
+  "t": "그래비티 어트랙트(자신)"
+ },
+ "40015e64b136": {
+  "en": "*fireball*",
+  "t": "*화염구*"
+ },
+ "40a73598aafb": {
+  "en": "Water CREATE / ATTRACT",
+  "t": "워터 크리에이트 / 어트랙트"
+ },
+ "4117cd44db38": {
+  "en": "To revive someone in the field you need **Body RESTORE** to fix the body (enough Tier to heal the damage), **Storm CREATE** to restart the heart, and something energy-dense like **black honey** to feed the healing. Mechanically: *revivify* (Tier III) within its normal limit, or the embassy's service. See [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md).",
+  "t": "현장에서 누군가를 되살리려면 몸을 고칠 **보디 리스토어**(상처를 치료할 만큼의 등급), 심장을 다시 뛰게 할 **스톰 크리에이트**, 그리고 치유의 연료가 될 **검은 꿀** 같은 에너지 밀도 높은 무언가가 필요하다. 규칙상으로는 일반 제한 안에서의 *소생*(III등급), 또는 대사관 서비스. [죽음, 부활, 빚](05%20-%20Death,%20Revival%20&%20Debt.md) 참고."
+ },
+ "42ea9981654a": {
+  "en": "Body RESTORE (Tier VI)",
+  "t": "보디 리스토어(VI등급)"
+ },
+ "43c84af91dd4": {
+  "en": "**Darfaries veins** sense soul energy (see Making an Adventurer).",
+  "t": "**다르파리에스 혈관**은 영혼 에너지를 감지한다(‘모험가 만들기’ 참고)."
+ },
+ "44a19e6a97a9": {
+  "en": "Ring (OBJECT + VERB)",
+  "t": "반지(오브젝트 + 버브)"
+ },
+ "44c1f47383f1": {
+  "en": "I",
+  "t": "I"
+ },
+ "44e7219cfe8e": {
+  "en": "Sapphire quests only",
+  "t": "사파이어 의뢰 전용"
+ },
+ "47a109fff355": {
+  "en": "Casting with spell slots (class casters)",
+  "t": "주문 슬롯으로 시전하기(클래스 시전자)"
+ },
+ "4b440302cbe6": {
+  "en": "Sigil rings (everyone with a Darfaries interface)",
+  "t": "시질 링(다르파리에스 인터페이스가 있는 모두)"
+ },
+ "4d3babe3e234": {
+  "en": "ENTANGLE (shared hearing)",
+  "t": "인탱글(청각 공유)"
+ },
+ "4d4610dbbece": {
+  "en": "IV",
+  "t": "IV"
+ },
+ "4daadca81641": {
+  "en": "**Maximum SP** = proficiency bonus + Constitution modifier (minimum 1). Your badge shows your current SP.",
+  "t": "**최대 SP** = 숙련 보너스 + 건강 수정치(최소 1). 신분패에 현재 SP가 표시된다."
+ },
+ "4e1a9aa734ed": {
+  "en": "Gravity DECREASE (self)",
+  "t": "그래비티 디크리스(자신)"
+ },
+ "503e552ec2e8": {
+  "en": "Fire CREATE (fan)",
+  "t": "파이어 크리에이트(부채꼴)"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30 펄"
+ },
+ "542ddb61f31b": {
+  "en": "Mud CREATE",
+  "t": "머드 크리에이트"
+ },
+ "56bd243fc156": {
+  "en": "**Eat something alive** (or freshly killed) that has a soul: regain 1 SP (once per day).",
+  "t": "영혼이 있는 **살아 있는 것**(또는 갓 잡은 것)**을 먹는다**: 1 SP를 회복한다(하루 한 번)."
+ },
+ "5770f35f943b": {
+  "en": "Water Gravity ATTRACT",
+  "t": "워터 그래비티 어트랙트"
+ },
+ "5b8cb352f94a": {
+  "en": "Fire CREATE (spark)",
+  "t": "파이어 크리에이트(불꽃)"
+ },
+ "5e0c8185e7bd": {
+  "en": "Body RESTORE + Storm CREATE (revival kit, two rings)",
+  "t": "보디 리스토어 + 스톰 크리에이트(부활 키트, 반지 두 개)"
+ },
+ "5fef4014f446": {
+  "en": "*levitate* / *spider climb*",
+  "t": "*공중부양* / *거미 등반*"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1 사파이어"
+ },
+ "686a29cec5ee": {
+  "en": "**Recovering SP:**",
+  "t": "**SP 회복:**"
+ },
+ "687dee7894ae": {
+  "en": "Shock CREATE (touch)",
+  "t": "쇼크 크리에이트(접촉)"
+ },
+ "6a5182000767": {
+  "en": "Soul Energy, Interfaces & Sigil Rings",
+  "t": "영혼 에너지, 인터페이스, 시질 링"
+ },
+ "6a623c2b702a": {
+  "en": "Unchanged. Your class magic is your soul energy flowing through your interface; even a \"pure\" human or a Cruro caster has learned to shape their soul directly. Describe your spells as interfaces — rings of white flame around your forearm, the \"eating\" gesture, the kick when you release.",
+  "t": "바뀌는 것 없음. 클래스 마법은 당신의 인터페이스를 흐르는 영혼 에너지다. ‘순수한’ 인간이나 크루로 시전자도 영혼을 직접 빚는 법을 익혔다. 주문은 인터페이스로 묘사하라 — 팔뚝을 감싼 하얀 불꽃 고리, ‘먹는’ 손짓, 놓을 때의 반동."
+ },
+ "6ba01baccd3d": {
+  "en": "**Buhraies interface** (logograms carved into the palm) can alter bodies and souls permanently. Only for NPCs, villains, or an epic campaign reward.",
+  "t": "**부라이에스 인터페이스**(손바닥에 새긴 표어 문자)는 몸과 영혼을 영구히 바꿀 수 있다. NPC, 악당, 또는 장대한 캠페인의 보상으로만."
+ },
+ "6e37e16b5e62": {
+  "en": "*create or destroy water*, *shape water*",
+  "t": "*물 생성 또는 파괴*, *물 조형*"
+ },
+ "700033fb76ff": {
+  "en": "*shocking grasp*",
+  "t": "*전격의 손아귀*"
+ },
+ "7346ff374941": {
+  "en": "**Fueling slots with stones or SP:** as part of casting a spell you know or have prepared, a caster may spend **nari stones and/or SP equal to the Tier** (table above) instead of expending a spell slot. You can only do this for a Tier you have spell slots for, and you can do it **as often as you have the stones** — stones are expensive, and that's the limit.",
+  "t": "**돌이나 SP로 슬롯 채우기:** 알고 있거나 준비한 주문을 시전할 때, 시전자는 주문 슬롯을 쓰는 대신 **등급과 같은 수의 나리석 그리고/또는 SP**(위 표)를 쓸 수 있다. 주문 슬롯이 있는 등급에만 할 수 있고, **돌이 있는 만큼 몇 번이든** 할 수 있다 — 돌은 비싸고, 그게 한계다."
+ },
+ "75bb02d2c64b": {
+  "en": "IX",
+  "t": "IX"
+ },
+ "768fdcfcdff8": {
+  "en": "*lesser restoration*",
+  "t": "*하급 회복*"
+ },
+ "7f08efd02e9d": {
+  "en": "You can wear up to **four** rings (two per hand). Swapping a ring takes an action.",
+  "t": "반지는 **네 개**까지(한 손에 두 개씩) 낄 수 있다. 반지를 바꾸는 데 행동이 든다."
+ },
+ "81d3be213c75": {
+  "en": "*feather fall* / *jump*",
+  "t": "*깃털 낙하* / *도약*"
+ },
+ "85a5ad234b1c": {
+  "en": "*regenerate*",
+  "t": "*재생*"
+ },
+ "89d2af6be829": {
+  "en": "Storm CREATE (heart jolt)",
+  "t": "스톰 크리에이트(심장 충격)"
+ },
+ "8bc514a994fe": {
+  "en": "Without a ring, you can draw the logograms on your palm (1 minute, needs ink or a blade). Make an Intelligence (Arcana) check, **DC 10 + 2 × Tier**. On a failure, the spell defaults to whatever's on your mind: the DM picks a weird result, or it **explodes** for 1d6 fire damage per Tier to you. Forbidden inside city and kingdom limits.",
+  "t": "반지가 없으면 손바닥에 표어 문자를 그릴 수 있다(1분, 잉크나 칼날이 필요하다). 지능(비전학) 판정을 한다. **DC 10 + 2 × 등급**. 실패하면 주문은 머릿속에 있는 것으로 대신 채워진다: DM이 이상한 결과를 고르거나, 주문이 **폭발**해 등급마다 1d6의 화염 피해를 당신에게 준다. 도시와 왕국 경계 안에서는 금지."
+ },
+ "8cd7920b835a": {
+  "en": "Tier",
+  "t": "등급"
+ },
+ "8ea74dfbb98a": {
+  "en": "*revivify*",
+  "t": "*소생*"
+ },
+ "8f4aab6a212e": {
+  "en": "*shatter*",
+  "t": "*분쇄*"
+ },
+ "912cfd420a9b": {
+  "en": "Magic in Vraki is **soul energy** pushed through an **interface**. These rules sit on top of normal 5e spellcasting: class casters keep their spell slots; everyone else gets access to magic through **sigil rings** and **nari stones**.",
+  "t": "브라키의 마법은 **인터페이스**를 통해 밀어낸 **영혼 에너지**다. 이 규칙은 5판의 일반 주문 시전 위에 얹힌다: 클래스 시전자는 주문 슬롯을 그대로 쓰고, 그 밖의 모든 사람은 **시질 링**과 **나리석**으로 마법을 쓴다."
+ },
+ "917d9104bc2a": {
+  "en": "*control water*",
+  "t": "*물 조종*"
+ },
+ "93b13e54c867": {
+  "en": "Gravity REPEL",
+  "t": "그래비티 리펠"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1 애머시스트"
+ },
+ "9855ea968dee": {
+  "en": "DMs: add any ring that fits \"OBJECT + VERB\". Element list: fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust, ash, gravity.",
+  "t": "DM에게: ‘오브젝트 + 버브’에 맞는 반지라면 무엇이든 추가해도 된다. 원소 목록: 불, 물, 얼음, 폭풍, 증기, 바람, 흙, 언 흙, 진흙, 용암, 전격, 먼지, 재, 중력."
+ },
+ "99dad3060470": {
+  "en": "*spare the dying* (and needed for revival)",
+  "t": "*빈사 안정*(부활에도 필요)"
+ },
+ "9ae7d8566d73": {
+  "en": "II",
+  "t": "II"
+ },
+ "9e542d9d3968": {
+  "en": "Drawn logograms (risky)",
+  "t": "손으로 그린 표어 문자(위험함)"
+ },
+ "9ee097faaabb": {
+  "en": "Storm CREATE (bolt)",
+  "t": "스톰 크리에이트(번개)"
+ },
+ "a391c0ca0d8b": {
+  "en": "**Expanding your soul:** once per level, a character who spends a downtime week training at a Soul Energy school (or with a mentor) increases their maximum SP by 1 (maximum +3 total).",
+  "t": "**영혼 넓히기:** 레벨마다 한 번, 영혼 에너지 학교에서(또는 스승에게) 휴식 기간 1주를 들여 훈련한 캐릭터는 최대 SP가 1 늘어난다(총 최대 +3)."
+ },
+ "a4ec948ca280": {
+  "en": "*burning hands*",
+  "t": "*불타는 손*"
+ },
+ "a794cb6ed8a3": {
+  "en": "*thunderwave* (force, not thunder)",
+  "t": "*천둥파도*(천둥이 아니라 역장)"
+ },
+ "a7aab77b1ef0": {
+  "en": "**Nari stones / SP needed**",
+  "t": "**필요한 나리석 / SP**"
+ },
+ "ab0aeb8031f1": {
+  "en": "Body RESTORE (Tier II)",
+  "t": "보디 리스토어(II등급)"
+ },
+ "aca4abec6d2a": {
+  "en": "**1 SP = 1 nari stone's worth of energy.**",
+  "t": "**1 SP = 나리석 1개 분량의 에너지.**"
+ },
+ "b21f27d65692": {
+  "en": "Sigil rings carry a spell's logograms (OBJECT + VERB). Anyone with the **Darfaries Interface** trait can cast a ring's spell:",
+  "t": "시질 링에는 주문의 표어 문자(오브젝트 + 버브)가 새겨져 있다. **다르파리에스 인터페이스** 특성이 있는 사람은 누구나 반지의 주문을 시전할 수 있다."
+ },
+ "b2f986b7d45b": {
+  "en": "*enlarge/reduce*",
+  "t": "*확대/축소*"
+ },
+ "b92193c54fea": {
+  "en": "**Action** (or the spell's casting time, if longer). Clench, \"eat\" the energy, release.",
+  "t": "**행동**(주문의 시전 시간이 더 길면 그 시간). 쥐고, 에너지를 ‘먹고’, 놓는다."
+ },
+ "bac60c488156": {
+  "en": "*cure wounds*",
+  "t": "*상처 치료*"
+ },
+ "c1e07714facc": {
+  "en": "**Cost:** spend nari stones and/or SP for the ring's Tier (table above). Cantrip rings cost 1 SP or 1 stone per cast.",
+  "t": "**비용:** 반지의 등급만큼 나리석 그리고/또는 SP를 쓴다(위 표). 소마법 반지는 시전 한 번에 1 SP 또는 돌 1개."
+ },
+ "c82a6424b090": {
+  "en": "Fire CREATE (ball)",
+  "t": "파이어 크리에이트(공)"
+ },
+ "ca02f396a56e": {
+  "en": "VI",
+  "t": "VI"
+ },
+ "cecbc944bd32": {
+  "en": "*light*",
+  "t": "*빛*"
+ },
+ "d4bdf5a82cc8": {
+  "en": "*ice knife*",
+  "t": "*얼음 단검*"
+ },
+ "d4fc414a5580": {
+  "en": "**Strong emotion:** when the DM awards Inspiration, or something truly moving, terrifying, triumphant or lustful happens to you, regain 1 SP (DM's call; max once per day).",
+  "t": "**강한 감정:** DM이 영감을 줄 때, 또는 정말 감동적이거나, 무섭거나, 의기양양하거나, 음욕이 이는 일이 일어날 때 1 SP를 회복한다(DM 판단. 하루 최대 한 번)."
+ },
+ "d5dc9be3a78e": {
+  "en": "0–I",
+  "t": "0–I"
+ },
+ "df5e1cb1497a": {
+  "en": "*grease*",
+  "t": "*기름칠*"
+ },
+ "e70d3277c070": {
+  "en": "Light CREATE (Emerenthy-glow)",
+  "t": "라이트 크리에이트(에메렌시 빛)"
+ },
+ "e930a7a04687": {
+  "en": "*healing word*",
+  "t": "*치유의 단어*"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1 아쿠아마린"
+ },
+ "ed68cb4d720a": {
+  "en": "Finish a long rest: regain **1 SP** (about a nari stone's worth a day, as in the lore).",
+  "t": "긴 휴식을 마친다: **1 SP**를 회복한다(설정처럼 하루에 나리석 하나 분량쯤)."
+ },
+ "edb9652f8c34": {
+  "en": "*ray of frost*",
+  "t": "*서리 광선*"
+ },
+ "f103987cea97": {
+  "en": "**Soul drain:** some monsters drain SP. If a drain would take you below 0 SP, you gain a level of exhaustion instead.",
+  "t": "**영혼 흡수:** SP를 빨아들이는 괴물도 있다. 흡수로 SP가 0 아래로 내려가게 되면, 대신 탈진 1단계를 얻는다."
+ },
+ "f2eb49b02f65": {
+  "en": "6 aquamarines (pair)",
+  "t": "6 아쿠아마린(한 쌍)"
+ },
+ "f47f2bbef7e0": {
+  "en": "Revival magic",
+  "t": "부활 마법"
+ },
+ "f82d80a07f40": {
+  "en": "A **Nari Worm egg** restores up to 4 SP.",
+  "t": "**나리 웜 알**은 SP를 최대 4 회복한다."
+ },
+ "f85aa0f090c3": {
+  "en": "World DESTROY",
+  "t": "월드 디스트로이"
+ },
+ "f995aeed9c73": {
+  "en": "2 amethysts",
+  "t": "2 애머시스트"
+ },
+ "f9dc3f4b20fa": {
+  "en": "Soul Points (SP)",
+  "t": "소울 포인트(SP)"
+ },
+ "fb5a7abc60b2": {
+  "en": "Ice CREATE (frost ball)",
+  "t": "아이스 크리에이트(서리 공)"
+ },
+ "fc9aca9a08ec": {
+  "en": "World RESTORE (un-rust)",
+  "t": "월드 리스토어(녹 제거)"
+ },
+ "feff6e7b97c7": {
+  "en": "A spell's **level** is its **Tier** (a 3rd-level spell is a Tier III spell). Cantrips are Tier 0. Energy doubles each tier:",
+  "t": "주문의 **레벨**이 곧 **등급**이다(3레벨 주문은 III등급 주문). 소마법은 0등급이다. 에너지는 등급마다 두 배가 된다."
+ },
+ "ffd83be3e310": {
+  "en": "Ring catalog (Soul Energy shops)",
+  "t": "반지 목록(영혼 에너지 상점)"
+ }
+}

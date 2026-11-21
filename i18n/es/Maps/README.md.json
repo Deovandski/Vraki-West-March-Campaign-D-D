@@ -1,0 +1,322 @@
+{
+ "0210c2d7b398": {
+  "en": "yellow",
+  "t": "amarillo"
+ },
+ "0290e9b5a8bb": {
+  "en": "The [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) has the full-resolution world map (with and without names), the metadata map (populations, altitudes, villages), a Sanbi city map, embassy art, and the global map of the western continent. The metadata map's kilometer labels are canon, but you don't need them at the table.",
+  "t": "El [repositorio de #HusbandOutWorld](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) tiene el mapa del mundo a resolución completa (con y sin nombres), el mapa de metadatos (poblaciones, altitudes, aldeas), un mapa de la ciudad de Sanbi, ilustraciones de la embajada y el mapa global del continente occidental. Las etiquetas en kilómetros del mapa de metadatos son canon, pero no las necesitas en la mesa."
+ },
+ "0776b1ecc9bf": {
+  "en": "Tastyleaf",
+  "t": "Tastyleaf"
+ },
+ "11577c2f2403": {
+  "en": "Wingarest",
+  "t": "Wingarest"
+ },
+ "14d1d26ca726": {
+  "en": "green, grey, white, then grey up the east coast",
+  "t": "verde, gris, blanco, luego gris subiendo por la costa este"
+ },
+ "1b137c5ecaae": {
+  "en": "Deltacross",
+  "t": "Deltacross"
+ },
+ "1ec59d42d7b9": {
+  "en": "Sundeath",
+  "t": "Sundeath"
+ },
+ "289507905090": {
+  "en": "Forway",
+  "t": "Forway"
+ },
+ "29aed0bbc0c3": {
+  "en": "light blue",
+  "t": "azul claro"
+ },
+ "2a8f515b1158": {
+  "en": "Buhraies Plains",
+  "t": "Llanuras de Buhraies"
+ },
+ "2acc73d59453": {
+  "en": "The table map for the West March: the world map with **circles drawn along the roads and sea lanes connecting places**. Each road has its own colour so you can follow it across the map.",
+  "t": "El mapa de mesa de la West March: el mapa del mundo con **círculos dibujados a lo largo de los caminos y rutas marítimas que conectan los lugares**. Cada camino tiene su propio color para que puedas seguirlo por el mapa."
+ },
+ "2b51b722702b": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)",
+  "t": "[![El mapa de viaje de la West March de Vraki: el mapa del mundo con círculos de colores a lo largo de los caminos y rutas marítimas entre los lugares](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)"
+ },
+ "2e4178e46288": {
+  "en": "orange",
+  "t": "naranja"
+ },
+ "2f3b5167d79a": {
+  "en": "grey, across the lake to the north edge",
+  "t": "gris, cruzando el lago hasta el borde norte"
+ },
+ "325ff50ba847": {
+  "en": "On the map",
+  "t": "En el mapa"
+ },
+ "3c5bbe37d12c": {
+  "en": "Endlessboil",
+  "t": "Endlessboil"
+ },
+ "3eef871173ce": {
+  "en": "green",
+  "t": "verde"
+ },
+ "4aa393c4643f": {
+  "en": "**Full size, for printing:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png) (8000 × 4000, 34 MB). It's a 2:1 map: print it 24 × 12 in, 36 × 18 in or bigger.",
+  "t": "**Tamaño completo, para imprimir:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png) (8000 × 4000, 34 MB). Es un mapa 2:1: imprímelo a 24 × 12 pulgadas, 36 × 18 o más grande."
+ },
+ "4b8f1731c75e": {
+  "en": "Maps",
+  "t": "Mapas"
+ },
+ "4d005acc69ee": {
+  "en": "Cruro",
+  "t": "Cruro"
+ },
+ "4d16271e833b": {
+  "en": "SweetLake",
+  "t": "SweetLake"
+ },
+ "4d82c9663dd3": {
+  "en": "grey, past Forway's lighthouse",
+  "t": "gris, pasando el faro de Forway"
+ },
+ "5396de0fb3a7": {
+  "en": "white, then grey",
+  "t": "blanco, luego gris"
+ },
+ "5475a939ba73": {
+  "en": "Blood",
+  "t": "Blood"
+ },
+ "5bd15f9645ff": {
+  "en": "Off the edge of the map",
+  "t": "Fuera del borde del mapa"
+ },
+ "5fd86e8c3566": {
+  "en": "Hifuna & the Far North",
+  "t": "Hifuna y el lejano norte"
+ },
+ "60cf22944d47": {
+  "en": "south-west, along the coast",
+  "t": "suroeste, por la costa"
+ },
+ "60f0853dfedc": {
+  "en": "Waterfall",
+  "t": "Waterfall"
+ },
+ "65d4ab386238": {
+  "en": "A white lane also branches south from the Sanbi–Endlessfog lane (where it meets the Triangle lane) and ends in open sea after 11 circles.",
+  "t": "Una ruta blanca también se separa hacia el sur de la ruta Sanbi–Endlessfog (donde se cruza con la ruta de Triangle) y termina en mar abierto tras 11 círculos."
+ },
+ "6637b6dc488e": {
+  "en": "World maps",
+  "t": "Mapas del mundo"
+ },
+ "67907200c248": {
+  "en": "Route lengths",
+  "t": "Longitudes de las rutas"
+ },
+ "6a0cd3e160c1": {
+  "en": "Sea & Islands",
+  "t": "Mar e islas"
+ },
+ "6aca866c257c": {
+  "en": "grey",
+  "t": "gris"
+ },
+ "6bdf0cf5986c": {
+  "en": "white",
+  "t": "blanco"
+ },
+ "700f74a121a9": {
+  "en": "Freeish",
+  "t": "Freeish"
+ },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "Fuhrair"
+ },
+ "755e2c251f07": {
+  "en": "Forway Plains & Roads",
+  "t": "Llanuras y caminos de Forway"
+ },
+ "75b7861847ca": {
+  "en": "**For screens:** [2400 px](web/west-march-map-2400.jpg) and [5000 px](web/west-march-map-5000.jpg) copies. The website has the map with zoom and pan.",
+  "t": "**Para pantallas:** copias de [2400 px](web/west-march-map-2400.jpg) y [5000 px](web/west-march-map-5000.jpg). La web tiene el mapa con zoom y desplazamiento."
+ },
+ "7728dc17a25b": {
+  "en": "Ganyrami",
+  "t": "Ganyrami"
+ },
+ "7d3b26f4e651": {
+  "en": "green, grey, then white",
+  "t": "verde, gris, luego blanco"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "Sanbi"
+ },
+ "89dcb7fbc781": {
+  "en": "Circles to the edge",
+  "t": "Círculos hasta el borde"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "Círculos"
+ },
+ "8ecfabb247b2": {
+  "en": "green, then grey",
+  "t": "verde, luego gris"
+ },
+ "8f7eaa47ff4e": {
+  "en": "Old Fuhrair",
+  "t": "Old Fuhrair"
+ },
+ "9101cd941d28": {
+  "en": "south",
+  "t": "sur"
+ },
+ "96a74ffac375": {
+  "en": "How to use it",
+  "t": "Cómo usarlo"
+ },
+ "96b26d6615f5": {
+  "en": "Gandew",
+  "t": "Gandew"
+ },
+ "96f4b2f66f2b": {
+  "en": "Tolerideme",
+  "t": "Tolerideme"
+ },
+ "9d508eab4816": {
+  "en": "light blue, to the north edge",
+  "t": "azul claro, hasta el borde norte"
+ },
+ "9db4f13ef375": {
+  "en": "Endlessfog",
+  "t": "Endlessfog"
+ },
+ "9e261a7d148e": {
+  "en": "How many circles each road or sea lane on the map takes. For a trip through several places, add up the legs (Forway → Sanbi → Cruro is 6 + 10 = 16 circles). The encounter table is a suggestion for which [Events & Encounters](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md) table to roll on; switch it when a trip crosses into other country.",
+  "t": "Cuántos círculos ocupa cada camino o ruta marítima del mapa. Para un viaje por varios lugares, suma los tramos (Forway → Sanbi → Cruro son 6 + 10 = 16 círculos). La tabla de encuentros es una sugerencia de qué tabla de [Eventos y encuentros](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md) tirar; cámbiala cuando el viaje entre en otra región."
+ },
+ "9fbaa09bcb9c": {
+  "en": "east, toward Newland",
+  "t": "este, hacia Newland"
+ },
+ "9fc7f48b1088": {
+  "en": "Full rules: [Travel by Circles](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md).",
+  "t": "Reglas completas: [Viajar por círculos](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)."
+ },
+ "a0e98cadf6bf": {
+  "en": "**Count the circles** between where the party is and where it's going. Count every circle on the way. A circle next to a town counts for every road that leaves from it, and where two roads share circles (like the two green circles just north of Sanbi), count them on both.",
+  "t": "**Cuenta los círculos** entre donde está el grupo y adonde va. Cuenta cada círculo del camino. Un círculo junto a un pueblo cuenta para cada camino que sale de él, y donde dos caminos comparten círculos (como los dos círculos verdes justo al norte de Sanbi), cuéntalos en los dos."
+ },
+ "a35ba9a0312e": {
+  "en": "**Keep a shared copy** and mark the circles your parties have traveled or explored. DMs can draw new circles as parties push into unknown land.",
+  "t": "**Guardad una copia compartida** y marcad los círculos que vuestros grupos han recorrido o explorado. Los DM pueden dibujar círculos nuevos cuando los grupos se adentren en tierras desconocidas."
+ },
+ "a522d847927c": {
+  "en": "Hifuna",
+  "t": "Hifuna"
+ },
+ "a7f53e96f0a7": {
+  "en": "Encounter table",
+  "t": "Tabla de encuentros"
+ },
+ "af8b4adcaa37": {
+  "en": "Desert",
+  "t": "Desierto"
+ },
+ "b6013f8a5440": {
+  "en": "Heading",
+  "t": "Rumbo"
+ },
+ "b828d5ecbb59": {
+  "en": "Sanbi Coast & Swamps",
+  "t": "Costa y pantanos de Sanbi"
+ },
+ "b84d62d2586b": {
+  "en": "The West March travel map",
+  "t": "El mapa de viaje de la West March"
+ },
+ "b850a37c5ce5": {
+  "en": "blue",
+  "t": "azul"
+ },
+ "b99b14ddd8ba": {
+  "en": "grey, along the south coast",
+  "t": "gris, por la costa sur"
+ },
+ "ba1c35e14ad0": {
+  "en": "green, then light blue",
+  "t": "verde, luego azul claro"
+ },
+ "bbeeed41a1f0": {
+  "en": "**Each circle is 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer. Forway to Sanbi is 6 circles: 6 days at Fast, 12 at Standard, 18 at Slow.",
+  "t": "**Cada círculo son 1, 2 o 3 días de viaje. El DM elige**, viaje a viaje, para hacer la travesía más corta o más larga. De Forway a Sanbi hay 6 círculos: 6 días a ritmo Rápido, 12 a Normal, 18 a Lento."
+ },
+ "bd487b0038b7": {
+  "en": "purple",
+  "t": "morado"
+ },
+ "bddaa0abb34e": {
+  "en": "Map © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "Mapa © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
+ "c173d239b293": {
+  "en": "yellow, then orange",
+  "t": "amarillo, luego naranja"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "Desde"
+ },
+ "c70adeb9a7f1": {
+  "en": "These lanes run off the map. The count is to the edge; the DM decides how far the rest is.",
+  "t": "Estas rutas salen del mapa. La cuenta llega hasta el borde; el DM decide cuánto falta."
+ },
+ "cba0eaef0185": {
+  "en": "red",
+  "t": "rojo"
+ },
+ "d0a6dcecf386": {
+  "en": "orange, then grey",
+  "t": "naranja, luego gris"
+ },
+ "da02cfd46fa7": {
+  "en": "Freeish Forests",
+  "t": "Bosques de Freeish"
+ },
+ "e5512f4a91e6": {
+  "en": "Flatland",
+  "t": "Flatland"
+ },
+ "e563cba00f30": {
+  "en": "Triangle",
+  "t": "Triangle"
+ },
+ "ec7334a81392": {
+  "en": "grey, down the east coast",
+  "t": "gris, bajando por la costa este"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "Hasta"
+ },
+ "f669e2224c59": {
+  "en": "west",
+  "t": "oeste"
+ },
+ "fcd11baaa769": {
+  "en": "Bahyum",
+  "t": "Bahyum"
+ }
+}

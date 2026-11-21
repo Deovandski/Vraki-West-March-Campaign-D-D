@@ -1,0 +1,434 @@
+{
+ "003674fa1bc3": {
+  "en": "**Finaies interface** — air-drawn elemental spells; nobody living in the south knows it.",
+  "t": "**菲奈斯界面**——在空中画出的元素法术；南方的活人没有一个会用。"
+ },
+ "0224e8cfb203": {
+  "en": "III",
+  "t": "III"
+ },
+ "0f796c865397": {
+  "en": "V",
+  "t": "V"
+ },
+ "112d2d3d8092": {
+  "en": "Body RESTORE (mass)",
+  "t": "博迪里斯托尔（群体）"
+ },
+ "146d6a98d21b": {
+  "en": "Steam/Dust/Ash CREATE",
+  "t": "斯蒂姆／达斯特／阿什克里埃特"
+ },
+ "19b83a5f4da5": {
+  "en": "Tiers = spell levels",
+  "t": "等级 = 法术环阶"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "价格"
+ },
+ "1abfc1fdfb47": {
+  "en": "Body RESTORE",
+  "t": "博迪里斯托尔"
+ },
+ "1dd0bba188f3": {
+  "en": "VII",
+  "t": "VII"
+ },
+ "1ebf1bdc648e": {
+  "en": "5e spell",
+  "t": "5e法术"
+ },
+ "2153386a308b": {
+  "en": "VIII",
+  "t": "VIII"
+ },
+ "25cfbc1b065c": {
+  "en": "Other interfaces",
+  "t": "其他界面"
+ },
+ "28d197df8bb1": {
+  "en": "*message*",
+  "t": "*传讯术*"
+ },
+ "28dc941a1d1d": {
+  "en": "A ring is set to one Tier when carved; a higher-Tier ring of the same spell costs more.",
+  "t": "戒指在雕刻时就被固定在某个等级；同一法术的更高等级戒指更贵。"
+ },
+ "2902c8870ee2": {
+  "en": "*mending*",
+  "t": "*修复术*"
+ },
+ "2c4812a1bc1c": {
+  "en": "3 aquamarines",
+  "t": "3阿夸马林"
+ },
+ "2cde69542999": {
+  "en": "Object INCREASE/DECREASE",
+  "t": "奥布杰克特因克里斯／迪克里斯"
+ },
+ "2d3384c7f8ae": {
+  "en": "**Banned:** blank rings (except for courtroom scientists and Aquamarine+ adventurers), and destructive Body rings outside guard/army use.",
+  "t": "**禁止：** 空白戒指（宫廷科学家和阿夸马林及以上的冒险者除外），以及卫兵和军队用途之外的破坏性博迪戒指。"
+ },
+ "2f0094f1a58d": {
+  "en": "*fog cloud*",
+  "t": "*云雾术*"
+ },
+ "35abad070d06": {
+  "en": "**Spell attack bonus** = your proficiency bonus + your highest mental modifier (Int, Wis or Cha). **Save DC** = 8 + the same.",
+  "t": "**法术攻击加值** = 你的熟练加值 + 你最高的精神属性调整值（智力、感知或魅力）。**豁免DC** = 8 + 同上。"
+ },
+ "3a09af548f15": {
+  "en": "Ice CREATE (shard)",
+  "t": "艾斯克里埃特（碎片）"
+ },
+ "3a5a61354294": {
+  "en": "*fire bolt*",
+  "t": "*火焰箭*"
+ },
+ "3d2996729e78": {
+  "en": "*lightning bolt*",
+  "t": "*闪电束*"
+ },
+ "3f62b2cb960a": {
+  "en": "Gravity ATTRACT (self)",
+  "t": "格拉维蒂阿特拉克特（自身）"
+ },
+ "40015e64b136": {
+  "en": "*fireball*",
+  "t": "*火球术*"
+ },
+ "40a73598aafb": {
+  "en": "Water CREATE / ATTRACT",
+  "t": "沃特克里埃特／阿特拉克特"
+ },
+ "4117cd44db38": {
+  "en": "To revive someone in the field you need **Body RESTORE** to fix the body (enough Tier to heal the damage), **Storm CREATE** to restart the heart, and something energy-dense like **black honey** to feed the healing. Mechanically: *revivify* (Tier III) within its normal limit, or the embassy's service. See [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md).",
+  "t": "要在野外复活某人，你需要用**博迪里斯托尔**修复身体（等级要足以治好伤势），用**斯托姆克里埃特**重启心脏，再加上**黑蜜**之类能量密集的东西来为治疗供能。规则上：在正常限制内使用*复生术*（第III级），或者大使馆的服务。见[死亡、复活与债务](05%20-%20Death,%20Revival%20&%20Debt.md)。"
+ },
+ "42ea9981654a": {
+  "en": "Body RESTORE (Tier VI)",
+  "t": "博迪里斯托尔（第VI级）"
+ },
+ "43c84af91dd4": {
+  "en": "**Darfaries veins** sense soul energy (see Making an Adventurer).",
+  "t": "**达尔法里斯血管**能感知灵魂能量（见“创建冒险者”）。"
+ },
+ "44a19e6a97a9": {
+  "en": "Ring (OBJECT + VERB)",
+  "t": "戒指（对象 + 动词）"
+ },
+ "44c1f47383f1": {
+  "en": "I",
+  "t": "I"
+ },
+ "44e7219cfe8e": {
+  "en": "Sapphire quests only",
+  "t": "仅限萨菲尔级委托"
+ },
+ "47a109fff355": {
+  "en": "Casting with spell slots (class casters)",
+  "t": "用法术位施法（职业施法者）"
+ },
+ "4b440302cbe6": {
+  "en": "Sigil rings (everyone with a Darfaries interface)",
+  "t": "西吉尔戒指（所有拥有达尔法里斯界面的人）"
+ },
+ "4d3babe3e234": {
+  "en": "ENTANGLE (shared hearing)",
+  "t": "因坦格尔（共享听觉）"
+ },
+ "4d4610dbbece": {
+  "en": "IV",
+  "t": "IV"
+ },
+ "4daadca81641": {
+  "en": "**Maximum SP** = proficiency bonus + Constitution modifier (minimum 1). Your badge shows your current SP.",
+  "t": "**SP上限** = 熟练加值 + 体质调整值（最少1）。你的身份牌会显示你当前的SP。"
+ },
+ "4e1a9aa734ed": {
+  "en": "Gravity DECREASE (self)",
+  "t": "格拉维蒂迪克里斯（自身）"
+ },
+ "503e552ec2e8": {
+  "en": "Fire CREATE (fan)",
+  "t": "法伊尔克里埃特（扇形）"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30珀尔"
+ },
+ "542ddb61f31b": {
+  "en": "Mud CREATE",
+  "t": "马德克里埃特"
+ },
+ "56bd243fc156": {
+  "en": "**Eat something alive** (or freshly killed) that has a soul: regain 1 SP (once per day).",
+  "t": "**吃下有灵魂的活物**（或刚杀死的）：恢复1 SP（每天一次）。"
+ },
+ "5770f35f943b": {
+  "en": "Water Gravity ATTRACT",
+  "t": "沃特格拉维蒂阿特拉克特"
+ },
+ "5b8cb352f94a": {
+  "en": "Fire CREATE (spark)",
+  "t": "法伊尔克里埃特（火花）"
+ },
+ "5e0c8185e7bd": {
+  "en": "Body RESTORE + Storm CREATE (revival kit, two rings)",
+  "t": "博迪里斯托尔 + 斯托姆克里埃特（复活套装，两枚戒指）"
+ },
+ "5fef4014f446": {
+  "en": "*levitate* / *spider climb*",
+  "t": "*浮空术*／*蛛行术*"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1萨菲尔"
+ },
+ "686a29cec5ee": {
+  "en": "**Recovering SP:**",
+  "t": "**恢复SP：**"
+ },
+ "687dee7894ae": {
+  "en": "Shock CREATE (touch)",
+  "t": "肖克克里埃特（触碰）"
+ },
+ "6a5182000767": {
+  "en": "Soul Energy, Interfaces & Sigil Rings",
+  "t": "灵魂能量、界面与西吉尔戒指"
+ },
+ "6a623c2b702a": {
+  "en": "Unchanged. Your class magic is your soul energy flowing through your interface; even a \"pure\" human or a Cruro caster has learned to shape their soul directly. Describe your spells as interfaces — rings of white flame around your forearm, the \"eating\" gesture, the kick when you release.",
+  "t": "不变。你的职业魔法就是流经你界面的灵魂能量；哪怕是“纯种”人类或克鲁罗施法者，也学会了直接塑造自己的灵魂。把你的法术描述成界面——前臂周围的白色火环、“吃”的手势、释放时的后坐力。"
+ },
+ "6ba01baccd3d": {
+  "en": "**Buhraies interface** (logograms carved into the palm) can alter bodies and souls permanently. Only for NPCs, villains, or an epic campaign reward.",
+  "t": "**布莱斯界面**（刻在掌心的语标文字）能永久改变身体和灵魂。只用于NPC、反派，或作为史诗战役的奖励。"
+ },
+ "6e37e16b5e62": {
+  "en": "*create or destroy water*, *shape water*",
+  "t": "*造水术／枯水术*、*塑水术*"
+ },
+ "700033fb76ff": {
+  "en": "*shocking grasp*",
+  "t": "*电爪*"
+ },
+ "7346ff374941": {
+  "en": "**Fueling slots with stones or SP:** as part of casting a spell you know or have prepared, a caster may spend **nari stones and/or SP equal to the Tier** (table above) instead of expending a spell slot. You can only do this for a Tier you have spell slots for, and you can do it **as often as you have the stones** — stones are expensive, and that's the limit.",
+  "t": "**用石头或SP供能：** 施放你已知或已准备的法术时，施法者可以花费**与等级相等的纳里石和／或SP**（见上表），而不是消耗一个法术位。只能在你拥有该级法术位的情况下这么做，而且**有多少石头就能做多少次**——石头很贵，这就是限制。"
+ },
+ "75bb02d2c64b": {
+  "en": "IX",
+  "t": "IX"
+ },
+ "768fdcfcdff8": {
+  "en": "*lesser restoration*",
+  "t": "*次级复原术*"
+ },
+ "7f08efd02e9d": {
+  "en": "You can wear up to **four** rings (two per hand). Swapping a ring takes an action.",
+  "t": "你最多可以戴**四枚**戒指（每只手两枚）。换一枚戒指需要一个动作。"
+ },
+ "81d3be213c75": {
+  "en": "*feather fall* / *jump*",
+  "t": "*羽落术*／*跳跃术*"
+ },
+ "85a5ad234b1c": {
+  "en": "*regenerate*",
+  "t": "*再生术*"
+ },
+ "89d2af6be829": {
+  "en": "Storm CREATE (heart jolt)",
+  "t": "斯托姆克里埃特（心脏电击）"
+ },
+ "8bc514a994fe": {
+  "en": "Without a ring, you can draw the logograms on your palm (1 minute, needs ink or a blade). Make an Intelligence (Arcana) check, **DC 10 + 2 × Tier**. On a failure, the spell defaults to whatever's on your mind: the DM picks a weird result, or it **explodes** for 1d6 fire damage per Tier to you. Forbidden inside city and kingdom limits.",
+  "t": "没有戒指的话，你可以把语标文字画在手掌上（1分钟，需要墨水或刀刃）。进行一次智力（奥秘）检定，**DC 10 + 2 × 等级**。失败的话，法术会变成你脑子里正在想的东西：DM选一个古怪的结果，或者它**爆炸**，每级对你造成1d6火焰伤害。在城市和王国境内被禁止。"
+ },
+ "8cd7920b835a": {
+  "en": "Tier",
+  "t": "等级"
+ },
+ "8ea74dfbb98a": {
+  "en": "*revivify*",
+  "t": "*复生术*"
+ },
+ "8f4aab6a212e": {
+  "en": "*shatter*",
+  "t": "*粉碎音波*"
+ },
+ "912cfd420a9b": {
+  "en": "Magic in Vraki is **soul energy** pushed through an **interface**. These rules sit on top of normal 5e spellcasting: class casters keep their spell slots; everyone else gets access to magic through **sigil rings** and **nari stones**.",
+  "t": "弗拉基的魔法就是通过**界面**推出去的**灵魂能量**。这些规则叠加在5e的常规施法之上：职业施法者保留他们的法术位；其他人则通过**西吉尔戒指**和**纳里石**使用魔法。"
+ },
+ "917d9104bc2a": {
+  "en": "*control water*",
+  "t": "*操控水体*"
+ },
+ "93b13e54c867": {
+  "en": "Gravity REPEL",
+  "t": "格拉维蒂里佩尔"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1阿米西斯特"
+ },
+ "9855ea968dee": {
+  "en": "DMs: add any ring that fits \"OBJECT + VERB\". Element list: fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust, ash, gravity.",
+  "t": "DM们：任何符合“对象 + 动词”的戒指都可以加进去。元素列表：火、水、冰、风暴、蒸汽、风、土、冻土、泥、熔岩、电击、尘、灰、重力。"
+ },
+ "99dad3060470": {
+  "en": "*spare the dying* (and needed for revival)",
+  "t": "*维生术*（复活时也需要）"
+ },
+ "9ae7d8566d73": {
+  "en": "II",
+  "t": "II"
+ },
+ "9e542d9d3968": {
+  "en": "Drawn logograms (risky)",
+  "t": "手绘语标文字（有风险）"
+ },
+ "9ee097faaabb": {
+  "en": "Storm CREATE (bolt)",
+  "t": "斯托姆克里埃特（闪电）"
+ },
+ "a391c0ca0d8b": {
+  "en": "**Expanding your soul:** once per level, a character who spends a downtime week training at a Soul Energy school (or with a mentor) increases their maximum SP by 1 (maximum +3 total).",
+  "t": "**扩充灵魂：** 每个等级一次，花一周休整时间在灵魂能量学校（或跟着导师）训练的角色，SP上限提高1（总计最多+3）。"
+ },
+ "a4ec948ca280": {
+  "en": "*burning hands*",
+  "t": "*燃烧之手*"
+ },
+ "a794cb6ed8a3": {
+  "en": "*thunderwave* (force, not thunder)",
+  "t": "*雷鸣波*（力场，而不是雷鸣）"
+ },
+ "a7aab77b1ef0": {
+  "en": "**Nari stones / SP needed**",
+  "t": "**所需纳里石／SP**"
+ },
+ "ab0aeb8031f1": {
+  "en": "Body RESTORE (Tier II)",
+  "t": "博迪里斯托尔（第II级）"
+ },
+ "aca4abec6d2a": {
+  "en": "**1 SP = 1 nari stone's worth of energy.**",
+  "t": "**1 SP = 1颗纳里石的能量。**"
+ },
+ "b21f27d65692": {
+  "en": "Sigil rings carry a spell's logograms (OBJECT + VERB). Anyone with the **Darfaries Interface** trait can cast a ring's spell:",
+  "t": "西吉尔戒指上刻着一个法术的语标文字（对象 + 动词）。任何拥有**达尔法里斯界面**特性的人都能施放戒指上的法术："
+ },
+ "b2f986b7d45b": {
+  "en": "*enlarge/reduce*",
+  "t": "*变巨／缩小术*"
+ },
+ "b92193c54fea": {
+  "en": "**Action** (or the spell's casting time, if longer). Clench, \"eat\" the energy, release.",
+  "t": "**动作**（如果法术的施法时间更长，则按施法时间）。握拳，“吃下”能量，释放。"
+ },
+ "bac60c488156": {
+  "en": "*cure wounds*",
+  "t": "*疗伤术*"
+ },
+ "c1e07714facc": {
+  "en": "**Cost:** spend nari stones and/or SP for the ring's Tier (table above). Cantrip rings cost 1 SP or 1 stone per cast.",
+  "t": "**消耗：** 按戒指的等级花费纳里石和／或SP（见上表）。戏法戒指每次施放消耗1 SP或1颗石头。"
+ },
+ "c82a6424b090": {
+  "en": "Fire CREATE (ball)",
+  "t": "法伊尔克里埃特（球）"
+ },
+ "ca02f396a56e": {
+  "en": "VI",
+  "t": "VI"
+ },
+ "cecbc944bd32": {
+  "en": "*light*",
+  "t": "*光亮术*"
+ },
+ "d4bdf5a82cc8": {
+  "en": "*ice knife*",
+  "t": "*冰刃*"
+ },
+ "d4fc414a5580": {
+  "en": "**Strong emotion:** when the DM awards Inspiration, or something truly moving, terrifying, triumphant or lustful happens to you, regain 1 SP (DM's call; max once per day).",
+  "t": "**强烈的情绪：** DM给予激励时，或者你遇到了真正令人感动、恐惧、胜利或情欲高涨的事，恢复1 SP（由DM判断；每天最多一次）。"
+ },
+ "d5dc9be3a78e": {
+  "en": "0–I",
+  "t": "0–I"
+ },
+ "df5e1cb1497a": {
+  "en": "*grease*",
+  "t": "*油腻术*"
+ },
+ "e70d3277c070": {
+  "en": "Light CREATE (Emerenthy-glow)",
+  "t": "莱特克里埃特（埃梅伦西之光）"
+ },
+ "e930a7a04687": {
+  "en": "*healing word*",
+  "t": "*治愈真言*"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1阿夸马林"
+ },
+ "ed68cb4d720a": {
+  "en": "Finish a long rest: regain **1 SP** (about a nari stone's worth a day, as in the lore).",
+  "t": "完成一次长休：恢复**1 SP**（大约每天一颗纳里石的量，和设定一致）。"
+ },
+ "edb9652f8c34": {
+  "en": "*ray of frost*",
+  "t": "*冷冻射线*"
+ },
+ "f103987cea97": {
+  "en": "**Soul drain:** some monsters drain SP. If a drain would take you below 0 SP, you gain a level of exhaustion instead.",
+  "t": "**灵魂汲取：** 有些怪物会汲取SP。如果汲取会让你的SP低于0，改为获得一级力竭。"
+ },
+ "f2eb49b02f65": {
+  "en": "6 aquamarines (pair)",
+  "t": "6阿夸马林（一对）"
+ },
+ "f47f2bbef7e0": {
+  "en": "Revival magic",
+  "t": "复活魔法"
+ },
+ "f82d80a07f40": {
+  "en": "A **Nari Worm egg** restores up to 4 SP.",
+  "t": "一颗**纳里沃姆蛋**能恢复最多4 SP。"
+ },
+ "f85aa0f090c3": {
+  "en": "World DESTROY",
+  "t": "沃尔德迪斯特罗伊"
+ },
+ "f995aeed9c73": {
+  "en": "2 amethysts",
+  "t": "2阿米西斯特"
+ },
+ "f9dc3f4b20fa": {
+  "en": "Soul Points (SP)",
+  "t": "灵魂点数（SP）"
+ },
+ "fb5a7abc60b2": {
+  "en": "Ice CREATE (frost ball)",
+  "t": "艾斯克里埃特（霜球）"
+ },
+ "fc9aca9a08ec": {
+  "en": "World RESTORE (un-rust)",
+  "t": "沃尔德里斯托尔（除锈）"
+ },
+ "feff6e7b97c7": {
+  "en": "A spell's **level** is its **Tier** (a 3rd-level spell is a Tier III spell). Cantrips are Tier 0. Energy doubles each tier:",
+  "t": "法术的**环阶**就是它的**等级**（3环法术就是第III级法术）。戏法是第0级。能量每升一级就翻倍："
+ },
+ "ffd83be3e310": {
+  "en": "Ring catalog (Soul Energy shops)",
+  "t": "戒指目录（灵魂能量商店）"
+ }
+}

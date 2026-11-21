@@ -1,0 +1,434 @@
+{
+ "003674fa1bc3": {
+  "en": "**Finaies interface** — air-drawn elemental spells; nobody living in the south knows it.",
+  "t": "La **interfaz finaies** — conjuros elementales dibujados en el aire; nadie vivo en el sur la conoce."
+ },
+ "0224e8cfb203": {
+  "en": "III",
+  "t": "III"
+ },
+ "0f796c865397": {
+  "en": "V",
+  "t": "V"
+ },
+ "112d2d3d8092": {
+  "en": "Body RESTORE (mass)",
+  "t": "Body RESTORE (en masa)"
+ },
+ "146d6a98d21b": {
+  "en": "Steam/Dust/Ash CREATE",
+  "t": "Steam/Dust/Ash CREATE"
+ },
+ "19b83a5f4da5": {
+  "en": "Tiers = spell levels",
+  "t": "Niveles = niveles de conjuro"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "Precio"
+ },
+ "1abfc1fdfb47": {
+  "en": "Body RESTORE",
+  "t": "Body RESTORE"
+ },
+ "1dd0bba188f3": {
+  "en": "VII",
+  "t": "VII"
+ },
+ "1ebf1bdc648e": {
+  "en": "5e spell",
+  "t": "Conjuro de 5e"
+ },
+ "2153386a308b": {
+  "en": "VIII",
+  "t": "VIII"
+ },
+ "25cfbc1b065c": {
+  "en": "Other interfaces",
+  "t": "Otras interfaces"
+ },
+ "28d197df8bb1": {
+  "en": "*message*",
+  "t": "*mensaje*"
+ },
+ "28dc941a1d1d": {
+  "en": "A ring is set to one Tier when carved; a higher-Tier ring of the same spell costs more.",
+  "t": "Un anillo queda fijado a un Nivel al tallarlo; un anillo de Nivel superior del mismo conjuro cuesta más."
+ },
+ "2902c8870ee2": {
+  "en": "*mending*",
+  "t": "*reparar*"
+ },
+ "2c4812a1bc1c": {
+  "en": "3 aquamarines",
+  "t": "3 aquamarines"
+ },
+ "2cde69542999": {
+  "en": "Object INCREASE/DECREASE",
+  "t": "Object INCREASE/DECREASE"
+ },
+ "2d3384c7f8ae": {
+  "en": "**Banned:** blank rings (except for courtroom scientists and Aquamarine+ adventurers), and destructive Body rings outside guard/army use.",
+  "t": "**Prohibidos:** los anillos en blanco (salvo para científicos de la corte y aventureros Aquamarine o superiores) y los anillos destructivos de Body fuera del uso de guardias y ejércitos."
+ },
+ "2f0094f1a58d": {
+  "en": "*fog cloud*",
+  "t": "*nube de niebla*"
+ },
+ "35abad070d06": {
+  "en": "**Spell attack bonus** = your proficiency bonus + your highest mental modifier (Int, Wis or Cha). **Save DC** = 8 + the same.",
+  "t": "**Bonificador de ataque de conjuro** = tu bonificador por competencia + tu mayor modificador mental (Int, Sab o Car). **DC de salvación** = 8 + lo mismo."
+ },
+ "3a09af548f15": {
+  "en": "Ice CREATE (shard)",
+  "t": "Ice CREATE (esquirla)"
+ },
+ "3a5a61354294": {
+  "en": "*fire bolt*",
+  "t": "*descarga de fuego*"
+ },
+ "3d2996729e78": {
+  "en": "*lightning bolt*",
+  "t": "*relámpago*"
+ },
+ "3f62b2cb960a": {
+  "en": "Gravity ATTRACT (self)",
+  "t": "Gravity ATTRACT (uno mismo)"
+ },
+ "40015e64b136": {
+  "en": "*fireball*",
+  "t": "*bola de fuego*"
+ },
+ "40a73598aafb": {
+  "en": "Water CREATE / ATTRACT",
+  "t": "Water CREATE / ATTRACT"
+ },
+ "4117cd44db38": {
+  "en": "To revive someone in the field you need **Body RESTORE** to fix the body (enough Tier to heal the damage), **Storm CREATE** to restart the heart, and something energy-dense like **black honey** to feed the healing. Mechanically: *revivify* (Tier III) within its normal limit, or the embassy's service. See [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md).",
+  "t": "Para reanimar a alguien sobre el terreno necesitas **Body RESTORE** para arreglar el cuerpo (de Nivel suficiente para curar el daño), **Storm CREATE** para reiniciar el corazón y algo denso en energía como **miel negra** para alimentar la curación. En términos de reglas: *revivir* (Nivel III) dentro de su límite normal, o el servicio de la embajada. Ver [Muerte, reanimación y deuda](05%20-%20Death,%20Revival%20&%20Debt.md)."
+ },
+ "42ea9981654a": {
+  "en": "Body RESTORE (Tier VI)",
+  "t": "Body RESTORE (Nivel VI)"
+ },
+ "43c84af91dd4": {
+  "en": "**Darfaries veins** sense soul energy (see Making an Adventurer).",
+  "t": "Las **venas darfaries** perciben la energía del alma (ver Crear un aventurero)."
+ },
+ "44a19e6a97a9": {
+  "en": "Ring (OBJECT + VERB)",
+  "t": "Anillo (OBJETO + VERBO)"
+ },
+ "44c1f47383f1": {
+  "en": "I",
+  "t": "I"
+ },
+ "44e7219cfe8e": {
+  "en": "Sapphire quests only",
+  "t": "Solo en misiones Sapphire"
+ },
+ "47a109fff355": {
+  "en": "Casting with spell slots (class casters)",
+  "t": "Lanzar con espacios de conjuro (lanzadores de clase)"
+ },
+ "4b440302cbe6": {
+  "en": "Sigil rings (everyone with a Darfaries interface)",
+  "t": "Anillos de sigilo (todo el que tenga interfaz darfaries)"
+ },
+ "4d3babe3e234": {
+  "en": "ENTANGLE (shared hearing)",
+  "t": "ENTANGLE (oído compartido)"
+ },
+ "4d4610dbbece": {
+  "en": "IV",
+  "t": "IV"
+ },
+ "4daadca81641": {
+  "en": "**Maximum SP** = proficiency bonus + Constitution modifier (minimum 1). Your badge shows your current SP.",
+  "t": "**SP máximos** = bonificador por competencia + modificador de Constitución (mínimo 1). Tu insignia muestra tus SP actuales."
+ },
+ "4e1a9aa734ed": {
+  "en": "Gravity DECREASE (self)",
+  "t": "Gravity DECREASE (uno mismo)"
+ },
+ "503e552ec2e8": {
+  "en": "Fire CREATE (fan)",
+  "t": "Fire CREATE (abanico)"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30 pearls"
+ },
+ "542ddb61f31b": {
+  "en": "Mud CREATE",
+  "t": "Mud CREATE"
+ },
+ "56bd243fc156": {
+  "en": "**Eat something alive** (or freshly killed) that has a soul: regain 1 SP (once per day).",
+  "t": "**Come algo vivo** (o recién matado) que tenga alma: recuperas 1 SP (una vez al día)."
+ },
+ "5770f35f943b": {
+  "en": "Water Gravity ATTRACT",
+  "t": "Water Gravity ATTRACT"
+ },
+ "5b8cb352f94a": {
+  "en": "Fire CREATE (spark)",
+  "t": "Fire CREATE (chispa)"
+ },
+ "5e0c8185e7bd": {
+  "en": "Body RESTORE + Storm CREATE (revival kit, two rings)",
+  "t": "Body RESTORE + Storm CREATE (kit de reanimación, dos anillos)"
+ },
+ "5fef4014f446": {
+  "en": "*levitate* / *spider climb*",
+  "t": "*levitar* / *trepar cual arácnido*"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1 sapphire"
+ },
+ "686a29cec5ee": {
+  "en": "**Recovering SP:**",
+  "t": "**Recuperar SP:**"
+ },
+ "687dee7894ae": {
+  "en": "Shock CREATE (touch)",
+  "t": "Shock CREATE (toque)"
+ },
+ "6a5182000767": {
+  "en": "Soul Energy, Interfaces & Sigil Rings",
+  "t": "Energía del alma, interfaces y anillos de sigilo"
+ },
+ "6a623c2b702a": {
+  "en": "Unchanged. Your class magic is your soul energy flowing through your interface; even a \"pure\" human or a Cruro caster has learned to shape their soul directly. Describe your spells as interfaces — rings of white flame around your forearm, the \"eating\" gesture, the kick when you release.",
+  "t": "Sin cambios. La magia de tu clase es tu energía del alma fluyendo por tu interfaz; incluso un humano «puro» o un lanzador cruro ha aprendido a moldear su alma directamente. Describe tus conjuros como interfaces — anillos de llama blanca alrededor del antebrazo, el gesto de «comer», el culatazo al soltarlos."
+ },
+ "6ba01baccd3d": {
+  "en": "**Buhraies interface** (logograms carved into the palm) can alter bodies and souls permanently. Only for NPCs, villains, or an epic campaign reward.",
+  "t": "La **interfaz buhraies** (logogramas tallados en la palma) puede alterar cuerpos y almas de forma permanente. Solo para PNJ, villanos o como recompensa de una campaña épica."
+ },
+ "6e37e16b5e62": {
+  "en": "*create or destroy water*, *shape water*",
+  "t": "*crear o destruir agua*, *moldear agua*"
+ },
+ "700033fb76ff": {
+  "en": "*shocking grasp*",
+  "t": "*agarre electrizante*"
+ },
+ "7346ff374941": {
+  "en": "**Fueling slots with stones or SP:** as part of casting a spell you know or have prepared, a caster may spend **nari stones and/or SP equal to the Tier** (table above) instead of expending a spell slot. You can only do this for a Tier you have spell slots for, and you can do it **as often as you have the stones** — stones are expensive, and that's the limit.",
+  "t": "**Alimentar espacios con piedras o SP:** como parte de lanzar un conjuro que conoces o tienes preparado, un lanzador puede gastar **piedras de nari y/o SP iguales al Nivel** (tabla de arriba) en lugar de gastar un espacio de conjuro. Solo puedes hacerlo para un Nivel del que tengas espacios de conjuro, y puedes hacerlo **tantas veces como piedras tengas** — las piedras son caras, y ese es el límite."
+ },
+ "75bb02d2c64b": {
+  "en": "IX",
+  "t": "IX"
+ },
+ "768fdcfcdff8": {
+  "en": "*lesser restoration*",
+  "t": "*restablecimiento menor*"
+ },
+ "7f08efd02e9d": {
+  "en": "You can wear up to **four** rings (two per hand). Swapping a ring takes an action.",
+  "t": "Puedes llevar hasta **cuatro** anillos (dos por mano). Cambiar un anillo cuesta una acción."
+ },
+ "81d3be213c75": {
+  "en": "*feather fall* / *jump*",
+  "t": "*caída de pluma* / *salto*"
+ },
+ "85a5ad234b1c": {
+  "en": "*regenerate*",
+  "t": "*regenerar*"
+ },
+ "89d2af6be829": {
+  "en": "Storm CREATE (heart jolt)",
+  "t": "Storm CREATE (descarga al corazón)"
+ },
+ "8bc514a994fe": {
+  "en": "Without a ring, you can draw the logograms on your palm (1 minute, needs ink or a blade). Make an Intelligence (Arcana) check, **DC 10 + 2 × Tier**. On a failure, the spell defaults to whatever's on your mind: the DM picks a weird result, or it **explodes** for 1d6 fire damage per Tier to you. Forbidden inside city and kingdom limits.",
+  "t": "Sin anillo, puedes dibujar los logogramas en la palma de la mano (1 minuto, hace falta tinta o una cuchilla). Haz una prueba de Inteligencia (Conocimiento Arcano), **DC 10 + 2 × Nivel**. Si fallas, el conjuro recurre a lo que tengas en la cabeza: el DM elige un resultado extraño, o **explota** y te hace 1d6 de daño de fuego por Nivel. Prohibido dentro de los límites de ciudades y reinos."
+ },
+ "8cd7920b835a": {
+  "en": "Tier",
+  "t": "Nivel"
+ },
+ "8ea74dfbb98a": {
+  "en": "*revivify*",
+  "t": "*revivir*"
+ },
+ "8f4aab6a212e": {
+  "en": "*shatter*",
+  "t": "*romper*"
+ },
+ "912cfd420a9b": {
+  "en": "Magic in Vraki is **soul energy** pushed through an **interface**. These rules sit on top of normal 5e spellcasting: class casters keep their spell slots; everyone else gets access to magic through **sigil rings** and **nari stones**.",
+  "t": "La magia en Vraki es **energía del alma** que pasa por una **interfaz**. Estas reglas se suman al lanzamiento de conjuros normal de 5e: los lanzadores de clase conservan sus espacios de conjuro; todos los demás acceden a la magia mediante **anillos de sigilo** y **piedras de nari**."
+ },
+ "917d9104bc2a": {
+  "en": "*control water*",
+  "t": "*controlar agua*"
+ },
+ "93b13e54c867": {
+  "en": "Gravity REPEL",
+  "t": "Gravity REPEL"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1 amethyst"
+ },
+ "9855ea968dee": {
+  "en": "DMs: add any ring that fits \"OBJECT + VERB\". Element list: fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust, ash, gravity.",
+  "t": "DMs: añadid cualquier anillo que encaje en «OBJETO + VERBO». Lista de elementos: fuego, agua, hielo, tormenta, vapor, viento, tierra, tierra helada, barro, lava, descarga, polvo, ceniza, gravedad."
+ },
+ "99dad3060470": {
+  "en": "*spare the dying* (and needed for revival)",
+  "t": "*piedad con los moribundos* (y necesario para la reanimación)"
+ },
+ "9ae7d8566d73": {
+  "en": "II",
+  "t": "II"
+ },
+ "9e542d9d3968": {
+  "en": "Drawn logograms (risky)",
+  "t": "Logogramas dibujados (arriesgado)"
+ },
+ "9ee097faaabb": {
+  "en": "Storm CREATE (bolt)",
+  "t": "Storm CREATE (rayo)"
+ },
+ "a391c0ca0d8b": {
+  "en": "**Expanding your soul:** once per level, a character who spends a downtime week training at a Soul Energy school (or with a mentor) increases their maximum SP by 1 (maximum +3 total).",
+  "t": "**Ampliar tu alma:** una vez por nivel, un personaje que pase una semana de tiempo libre entrenando en una escuela de energía del alma (o con un mentor) aumenta en 1 sus SP máximos (como mucho +3 en total)."
+ },
+ "a4ec948ca280": {
+  "en": "*burning hands*",
+  "t": "*manos ardientes*"
+ },
+ "a794cb6ed8a3": {
+  "en": "*thunderwave* (force, not thunder)",
+  "t": "*onda atronadora* (fuerza, no trueno)"
+ },
+ "a7aab77b1ef0": {
+  "en": "**Nari stones / SP needed**",
+  "t": "**Piedras de nari / SP necesarios**"
+ },
+ "ab0aeb8031f1": {
+  "en": "Body RESTORE (Tier II)",
+  "t": "Body RESTORE (Nivel II)"
+ },
+ "aca4abec6d2a": {
+  "en": "**1 SP = 1 nari stone's worth of energy.**",
+  "t": "**1 SP = la energía de 1 piedra de nari.**"
+ },
+ "b21f27d65692": {
+  "en": "Sigil rings carry a spell's logograms (OBJECT + VERB). Anyone with the **Darfaries Interface** trait can cast a ring's spell:",
+  "t": "Los anillos de sigilo llevan los logogramas de un conjuro (OBJETO + VERBO). Cualquiera con el rasgo **Interfaz darfaries** puede lanzar el conjuro de un anillo:"
+ },
+ "b2f986b7d45b": {
+  "en": "*enlarge/reduce*",
+  "t": "*agrandar/reducir*"
+ },
+ "b92193c54fea": {
+  "en": "**Action** (or the spell's casting time, if longer). Clench, \"eat\" the energy, release.",
+  "t": "**Acción** (o el tiempo de lanzamiento del conjuro, si es mayor). Aprieta el puño, «cómete» la energía, suéltala."
+ },
+ "bac60c488156": {
+  "en": "*cure wounds*",
+  "t": "*curar heridas*"
+ },
+ "c1e07714facc": {
+  "en": "**Cost:** spend nari stones and/or SP for the ring's Tier (table above). Cantrip rings cost 1 SP or 1 stone per cast.",
+  "t": "**Coste:** gasta piedras de nari y/o SP según el Nivel del anillo (tabla de arriba). Los anillos de truco cuestan 1 SP o 1 piedra por lanzamiento."
+ },
+ "c82a6424b090": {
+  "en": "Fire CREATE (ball)",
+  "t": "Fire CREATE (bola)"
+ },
+ "ca02f396a56e": {
+  "en": "VI",
+  "t": "VI"
+ },
+ "cecbc944bd32": {
+  "en": "*light*",
+  "t": "*luz*"
+ },
+ "d4bdf5a82cc8": {
+  "en": "*ice knife*",
+  "t": "*cuchillo de hielo*"
+ },
+ "d4fc414a5580": {
+  "en": "**Strong emotion:** when the DM awards Inspiration, or something truly moving, terrifying, triumphant or lustful happens to you, regain 1 SP (DM's call; max once per day).",
+  "t": "**Emoción fuerte:** cuando el DM concede Inspiración, o te pasa algo de verdad conmovedor, aterrador, triunfal o lujurioso, recuperas 1 SP (a criterio del DM; como mucho una vez al día)."
+ },
+ "d5dc9be3a78e": {
+  "en": "0–I",
+  "t": "0–I"
+ },
+ "df5e1cb1497a": {
+  "en": "*grease*",
+  "t": "*grasa*"
+ },
+ "e70d3277c070": {
+  "en": "Light CREATE (Emerenthy-glow)",
+  "t": "Light CREATE (brillo de Emerenthy)"
+ },
+ "e930a7a04687": {
+  "en": "*healing word*",
+  "t": "*palabra de curación*"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1 aquamarine"
+ },
+ "ed68cb4d720a": {
+  "en": "Finish a long rest: regain **1 SP** (about a nari stone's worth a day, as in the lore).",
+  "t": "Termina un descanso largo: recuperas **1 SP** (más o menos una piedra de nari al día, como en la ambientación)."
+ },
+ "edb9652f8c34": {
+  "en": "*ray of frost*",
+  "t": "*rayo de escarcha*"
+ },
+ "f103987cea97": {
+  "en": "**Soul drain:** some monsters drain SP. If a drain would take you below 0 SP, you gain a level of exhaustion instead.",
+  "t": "**Drenaje de alma:** algunos monstruos drenan SP. Si un drenaje te dejara por debajo de 0 SP, ganas un nivel de cansancio en su lugar."
+ },
+ "f2eb49b02f65": {
+  "en": "6 aquamarines (pair)",
+  "t": "6 aquamarines (la pareja)"
+ },
+ "f47f2bbef7e0": {
+  "en": "Revival magic",
+  "t": "Magia de reanimación"
+ },
+ "f82d80a07f40": {
+  "en": "A **Nari Worm egg** restores up to 4 SP.",
+  "t": "Un **huevo de Nari Worm** restaura hasta 4 SP."
+ },
+ "f85aa0f090c3": {
+  "en": "World DESTROY",
+  "t": "World DESTROY"
+ },
+ "f995aeed9c73": {
+  "en": "2 amethysts",
+  "t": "2 amethysts"
+ },
+ "f9dc3f4b20fa": {
+  "en": "Soul Points (SP)",
+  "t": "Soul Points (SP)"
+ },
+ "fb5a7abc60b2": {
+  "en": "Ice CREATE (frost ball)",
+  "t": "Ice CREATE (bola de escarcha)"
+ },
+ "fc9aca9a08ec": {
+  "en": "World RESTORE (un-rust)",
+  "t": "World RESTORE (desoxidar)"
+ },
+ "feff6e7b97c7": {
+  "en": "A spell's **level** is its **Tier** (a 3rd-level spell is a Tier III spell). Cantrips are Tier 0. Energy doubles each tier:",
+  "t": "El **nivel** de un conjuro es su **Nivel** de energía (un conjuro de nivel 3 es un conjuro de Nivel III). Los trucos son de Nivel 0. La energía se duplica en cada nivel:"
+ },
+ "ffd83be3e310": {
+  "en": "Ring catalog (Soul Energy shops)",
+  "t": "Catálogo de anillos (tiendas de energía del alma)"
+ }
+}

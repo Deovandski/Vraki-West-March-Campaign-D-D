@@ -1,0 +1,222 @@
+{
+ "0236415102a6": {
+  "en": "**Maul.** +6, 2d6+4 bludgeoning; on a hit, DC 13 Str save or knocked prone.",
+  "t": "**モール。** +6、2d6+4の殴打。命中したら、DC 13の【筋力】セーヴに失敗すると伏せ状態。"
+ },
+ "07a7b2e85dde": {
+  "en": "**Wood People bandits:** carry fost stones to herd and steer Wood People (DC 12 to steer one 30 ft).",
+  "t": "**ウッドピープルの盗賊：** フォストストーンを持ち歩き、ウッドピープルを追い立てて操る（1体を30フィート操るのにDC 12）。"
+ },
+ "0fee232fd478": {
+  "en": "Knows every quest, every deadline and everyone's debt. Bribable with gossip.",
+  "t": "あらゆる依頼、あらゆる期限、みんなの借金を知っている。噂話で買収できる。"
+ },
+ "1230de140aac": {
+  "en": "**Black Honey Pot (1/day).** When reduced to 0 HP, an adjacent guard can use an action to revive it at 1 HP. Steal the pot (leg pocket) to stop it.",
+  "t": "**黒い蜜の壺（1回/日）。** HPが0になったとき、隣の衛兵はアクションを使ってHP 1で蘇生させられる。止めたければ壺（脚のポケット）を盗め。"
+ },
+ "13511c528b67": {
+  "en": "AC 17 (shiny plate-ish armor) · HP 25 · speed 25 ft",
+  "t": "AC 17（ぴかぴかの板金鎧っぽいもの） · HP 25 · 移動速度25フィート"
+ },
+ "1951b7183d1e": {
+  "en": "**Nari Bomb (1/day).** Smoke (heavily obscured 20 ft) — then they either attack or leave.",
+  "t": "**ナリ爆弾（1回/日）。** 煙（20フィートの重度の隠蔽） — その後、攻撃するか立ち去る。"
+ },
+ "1c3ca56a75c4": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to all adjacent.",
+  "t": "**鎧の棘の炸裂（再チャージ6）。** 隣接する全員に2d6の刺突。"
+ },
+ "29a602afd8d2": {
+  "en": "**Hallucinogen Reflexes.** Advantage on initiative and Dex saves.",
+  "t": "**幻覚剤の反射神経。** イニシアチブと【敏捷力】セーヴに有利。"
+ },
+ "2d5263334e87": {
+  "en": "**Gore Charge.** Moves 20 ft straight and attacks: +7, 2d6+4 piercing; prone on a hit (DC 14 Str).",
+  "t": "**角の突進。** まっすぐ20フィート移動して攻撃：+7、2d6+4の刺突。命中すると伏せ状態（DC 14の【筋力】）。"
+ },
+ "320874f96ff8": {
+  "en": "Tolerideme Guard (CR 2) — use *Guard*, but…",
+  "t": "トレリデメの衛兵（CR 2） — *衛兵*を使う、ただし…"
+ },
+ "3b8e5cbbaa7c": {
+  "en": "Sigil rings for four spells; a satchel of three random nari gels; lab notes worth 1 aquamarine to the right buyer; terrible people skills.",
+  "t": "四つの呪文用のシジルリング。ランダムなナリジェル三つ入りの鞄。しかるべき買い手にはアクアマリン1個の価値がある研究ノート。人付き合いは最悪。"
+ },
+ "4459a6e3416b": {
+  "en": "Big Winga Guard (CR 4)",
+  "t": "ビッグウィンガの衛兵（CR 4）"
+ },
+ "44c38ac88b36": {
+  "en": "Guards, bandits and specialists. Built on 5e NPC blocks with Vraki gear. All carry an embassy badge unless noted.",
+  "t": "衛兵、盗賊、専門家。5版のNPCのデータにヴラキの装備を足したもの。特に記載がない限り、全員が大使館の身分証を持っている。"
+ },
+ "4588770cb746": {
+  "en": "**Alone, Silent.** Helmet locks the tusks; can't speak while wearing it. Advantage on saves vs. fear.",
+  "t": "**孤独、無言。** 兜が牙を固定するので、かぶっている間は話せない。恐怖に対するセーヴに有利。"
+ },
+ "4972b66312c3": {
+  "en": "Bandit (CR ⅛) / Bandit Captain (CR 2)",
+  "t": "山賊（CR ⅛）／山賊の頭目（CR 2）"
+ },
+ "4b07d1fecf6e": {
+  "en": "Mixed Human–Darfaries; red Walking Heart (undead).\nAC 16 · HP 170 · speed 40 ft",
+  "t": "人間とダルファリエスの混血。赤いウォーキングハート（アンデッド）。\nAC 16 · HP 170 · 移動速度40フィート"
+ },
+ "4eac88db08e6": {
+  "en": "The Stinger (CR 5) — Morika in Sweet Sting chitin",
+  "t": "スティンガー（CR 5） — スイートスティングのキチンをまとったモリカ"
+ },
+ "516f98d608f7": {
+  "en": "**Never Negotiates.** Immune to Persuasion attempts to bargain.",
+  "t": "**交渉しない。** 値切ろうとする〈説得〉の試みに完全耐性。"
+ },
+ "5e83d8d48ae1": {
+  "en": "**Gauntlet.** +4, 1d8+2 bludgeoning.",
+  "t": "**ガントレット。** +4、1d8+2の殴打。"
+ },
+ "619b1642dbab": {
+  "en": "Perfect cover identity (maid, florist, courtesan); Fake Skin gel; poisoned hairpin (Bleed Out I). \"We are here to please you.\"",
+  "t": "完璧な偽の身分（メイド、花屋、高級娼婦）。フェイク・スキンのジェル。毒を塗ったかんざし（ブリードアウトI）。「私たちはあなたを喜ばせるためにここにいます」。"
+ },
+ "64f49fb45008": {
+  "en": "A Forway guard in Big Winga gel: use **Big Winga** stats, but Intelligence 10, can understand Vraki, and patrols embassies.",
+  "t": "ビッグウィンガのジェルを使ったフォーウェイの衛兵：**ビッグウィンガ**のデータを使うが、【知力】10で、ヴラキ語を理解でき、大使館を巡回する。"
+ },
+ "76498dd7d77b": {
+  "en": "Soul Energy Scientist (CR 2) — use *Mage* (lower slots)",
+  "t": "魂のエネルギーの科学者（CR 2） — *メイジ*を使う（スロット少なめ）"
+ },
+ "7b4b60e9db04": {
+  "en": "AC 16 (gauntlets + padding) · HP 30 · speed 25 ft",
+  "t": "AC 16（ガントレット＋詰め物） · HP 30 · 移動速度25フィート"
+ },
+ "7dbaa9bf7dee": {
+  "en": "**Urban Legend.** Commoners who see it make a DC 12 Wis save or flee. Out of the armor he's mute, polite and anxious.",
+  "t": "**都市伝説。** これを見た平民はDC 12の【判断力】セーヴを行い、失敗すると逃げ出す。鎧を脱いだ彼は無口で、礼儀正しく、不安げだ。"
+ },
+ "7ea03821ca8d": {
+  "en": "Use the 5e blocks. Vraki flavors:",
+  "t": "5版のデータを使う。ヴラキらしい味付け："
+ },
+ "854970f19672": {
+  "en": "Sanbi Guard (CR 1) — use *Scout*",
+  "t": "サンビの衛兵（CR 1） — *斥候*を使う"
+ },
+ "857f701797c0": {
+  "en": "Embassy Clerk (CR 0) — use *Commoner*",
+  "t": "大使館の事務員（CR 0） — *平民*を使う"
+ },
+ "993606c5cd98": {
+  "en": "**Stinger Slash.** Two attacks, +7, 1d8+4 slashing.",
+  "t": "**毒針の斬撃。** 攻撃2回、+7、1d8+4の斬撃。"
+ },
+ "a0ad1b3e4e92": {
+  "en": "Kozaku Forway, Blue Wozens Boss (CR 9)",
+  "t": "コザク・フォーウェイ、ブルーウォゼンズの頭目（CR 9）"
+ },
+ "a487976a4b05": {
+  "en": "Gandew Guard (CR 3) — use *Thug* with chitin",
+  "t": "ガンデューの衛兵（CR 3） — キチン装備の*ごろつき*を使う"
+ },
+ "a670e63b8ac0": {
+  "en": "AC 18 (chitin) · HP 45",
+  "t": "AC 18（キチン） · HP 45"
+ },
+ "abb930ea22d2": {
+  "en": "**Undead.** No breathing, eating or sleep; immune to poison; can't be revived.",
+  "t": "**アンデッド。** 呼吸も食事も睡眠もしない。毒に完全耐性。蘇生できない。"
+ },
+ "b09a5c4aa8a6": {
+  "en": "**Nari Bomb Dash.** Throws smoke, then moves 30 ft without provoking.",
+  "t": "**ナリ爆弾で離脱。** 煙を投げ、機会攻撃を誘発せずに30フィート移動する。"
+ },
+ "b37a90d4886e": {
+  "en": "People Stat Blocks",
+  "t": "データ：人々"
+ },
+ "b409cf7e7748": {
+  "en": "**Red Heart Rage.** Multiattack: three punches, +9, 2d10+6 bludgeoning. On a crit, the target's head is… gone (DC 15 Con save to survive at 0 HP instead).",
+  "t": "**赤い心臓の怒り。** 複数回攻撃：パンチ3回、+9、2d10+6の殴打。クリティカルなら、目標の頭が…なくなる（代わりにDC 15の【耐久力】セーヴでHP 0のまま生き残る）。"
+ },
+ "b8aaef8dfd76": {
+  "en": "**Pack Tactics.** Advantage on attacks while an ally is within 5 ft of the target. Always in groups of 3+.",
+  "t": "**群れの戦術。** 目標から5フィート以内に味方がいる間、攻撃に有利を得る。いつも3人以上の集団で動く。"
+ },
+ "bbc7fcfa7538": {
+  "en": "Red Winga Agent (CR 2) — use *Spy*",
+  "t": "レッドウィンガの工作員（CR 2） — *密偵*を使う"
+ },
+ "c488677977f1": {
+  "en": "**Sleeve Sword.** +5, 1d6+3; can draw and attack as one action (surprise).",
+  "t": "**袖の剣。** +5、1d6+3。抜いて攻撃するのを1回のアクションで行える（不意打ち）。"
+ },
+ "c49f6bb5cf5c": {
+  "en": "Forway Captain (CR 5) — use *Veteran*",
+  "t": "フォーウェイの隊長（CR 5） — *古参兵*を使う"
+ },
+ "c5e3b3575eb6": {
+  "en": "**Superiority Complex.** If an enemy looked weak last turn (took the Dodge action, retreated, or failed a check), the guard has disadvantage on its next Wisdom (Insight) check and attack against that enemy.",
+  "t": "**優越感。** 前のターンに敵が弱そうに見えたら（回避アクションを取った、退いた、判定に失敗した）、衛兵はその敵に対する次の【判断力】〈看破〉判定と攻撃に不利を受ける。"
+ },
+ "c673532a4dbc": {
+  "en": "**Longbow.** +4, 1d8+2 piercing; arrows may carry a nari gel (Body Paralysis II or Sleep Inducer I).",
+  "t": "**ロングボウ。** +4、1d8+2の刺突。矢にナリジェル（ボディ・パラリシスIIかスリープ・インデューサーI）を仕込んでいることがある。"
+ },
+ "c958063e2e51": {
+  "en": "Freeish Guard (CR 1)",
+  "t": "フリーイッシュの衛兵（CR 1）"
+ },
+ "ccfd193c3603": {
+  "en": "**Unstoppable.** Advantage on Str checks and saves. Red flame bursts from his chest when angry.",
+  "t": "**止められない。** 【筋力】の判定とセーヴに有利。怒ると胸から赤い炎が噴き出す。"
+ },
+ "d3087640897e": {
+  "en": "**Blue Wozens:** blue Wozen badge; prefer robbery to killing (\"donation\"). ",
+  "t": "**ブルーウォゼンズ：** 青いウォゼンの身分証。殺しより強盗を好む（「寄付」）。 "
+ },
+ "d867cbc5f5f2": {
+  "en": "**Bagarisa Brothers:** use *Berserker*; secret tusk handshake.",
+  "t": "**バガリサ・ブラザーズ：** *バーサーカー*を使う。牙で交わす秘密の握手。"
+ },
+ "db454435d4b3": {
+  "en": "**Fallen Tree:** ex-adventurers — use *Veteran*/*Spy*; hate embassy staff.",
+  "t": "**フォールンツリー：** 元冒険者 — *古参兵*／*密偵*を使う。大使館の職員を嫌う。"
+ },
+ "dc3f4418293a": {
+  "en": "Forway Guard (CR 1) — use *Guard* + changes",
+  "t": "フォーウェイの衛兵（CR 1） — *衛兵*＋変更点"
+ },
+ "e090fef53559": {
+  "en": "**Beer Balls:** drunk; disadvantage on Wis saves; fight fiercely for beer.",
+  "t": "**ビアボールズ：** 酔っぱらい。【判断力】セーヴに不利。ビールのためなら猛然と戦う。"
+ },
+ "e1eec0c0e3a4": {
+  "en": "AC 14 (bone-wood) · HP 22",
+  "t": "AC 14（骨木） · HP 22"
+ },
+ "ef072a0e73ec": {
+  "en": "**Everything Is a Weapon.** Improvised weapons count as proficient (1d6).",
+  "t": "**何でも武器。** 即席武器にも習熟しているものとして扱う（1d6）。"
+ },
+ "ef28c44a61fa": {
+  "en": "**Elemental Ball (slow).** Takes a full turn to charge (it's obvious); next turn ranged 60 ft, +5, 3d8 cold/fire/lightning/thunder. Only cast in packs of 4+.",
+  "t": "**エレメンタル・ボール（遅い）。** 溜めるのに丸1ターンかかる（見ればわかる）。次のターンに射程60フィート、+5、3d8の冷気／火／電撃／雷鳴。4人以上の集団でしか撃たない。"
+ },
+ "f536fddbeee8": {
+  "en": "**Black Magina:** never kill; Sleep Inducer darts (+4, DC 13 Con or unconscious 1 minute).",
+  "t": "**ブラックマジナ：** 決して殺さない。スリープ・インデューサーの吹き矢（+4、DC 13の【耐久力】に失敗すると1分間気絶）。"
+ },
+ "f56ab8004c44": {
+  "en": "**Burnout.** If he uses Multiattack 3 turns in a row, he takes 2d10 necrotic each extra turn (his soul is burning). Someone must stop him — or let him burn out.",
+  "t": "**燃え尽き。** 3ターン続けて複数回攻撃を使うと、それ以降のターンごとに2d10の死霊ダメージを受ける（魂が燃えている）。誰かが止めなければならない — さもなくば燃え尽きさせろ。"
+ },
+ "fb89d6354a8c": {
+  "en": "Same armor as a soldier plus a **fancy cap**. Adds: **Entangle Ring** (all allies within 120 ft hear its orders), **Body RESTORE ring** (Tier II, 2/day), authority over embassy grounds.",
+  "t": "兵士と同じ鎧に**しゃれた帽子**。追加：**エンタングル・リング**（120フィート以内の味方全員に命令が聞こえる）、**ボディ・リストアのリング**（ティアII、2回/日）、大使館の敷地内での権限。"
+ },
+ "fd68f87feed2": {
+  "en": "**Crossbow.** +4, 1d8+2 piercing, range 80/320.",
+  "t": "**クロスボウ。** +4、1d8+2の刺突、射程80/320。"
+ }
+}

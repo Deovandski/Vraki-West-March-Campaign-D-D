@@ -1,0 +1,206 @@
+{
+ "16c2ba8e971a": {
+  "en": "Getting lost",
+  "t": "길을 잃음"
+ },
+ "195e8301ca04": {
+  "en": "**Food:** 1 ration per person per day (~2–5 pearls in town). Hunting/foraging for a shift: DC 12 Wisdom (Survival) feeds 1d4 people for a day (DC 15 in Slow-pace country).",
+  "t": "**식량:** 하루 1인 1식량(마을에서 ~2–5 펄). 한 시간대를 들여 사냥/채집: DC 12 지혜(생존) 판정에 성공하면 1d4명이 하루를 먹는다(느림 속도의 땅에서는 DC 15)."
+ },
+ "25066a3e5d92": {
+  "en": "Good roads, riding Eguas, traveling light, boats on open sea, or the DM wants to get to the action",
+  "t": "좋은 길, 에구아를 타고 감, 가볍게 여행함, 탁 트인 바다의 배, 또는 DM이 본론으로 빨리 가고 싶을 때"
+ },
+ "27da02ce5cf1": {
+  "en": "Follow the circles from where the party is to where it wants to go and count them. That count is the length of the trip. Count every circle on the way: a circle next to a town counts for every road that leaves from it, and circles shared by two roads count on both.",
+  "t": "일행이 있는 곳에서 가려는 곳까지 서클을 따라가며 센다. 그 수가 여행의 길이다. 가는 길의 서클은 모두 센다. 마을 옆의 서클은 그 마을에서 나가는 길마다 세고, 두 길이 함께 쓰는 서클은 양쪽 길에서 모두 센다."
+ },
+ "313717e5ae00": {
+  "en": "**Eguas:** no speed or load math. An Egua lets the party carry loot and gear (a pack Egua carries what a wagon would) and is a good reason for **Fast** pace on roads. It eats by grazing during Morning and Night; in deserts or Hifuna, bring Carbey (about 1 pearl a day). A wagon on bad terrain is a good reason for Slow.",
+  "t": "**에구아:** 속도나 짐 계산은 없다. 에구아가 있으면 일행이 전리품과 장비를 실을 수 있고(짐 나르는 에구아는 수레 한 대 분량을 나른다), 길에서 **빠름** 속도로 갈 좋은 이유가 된다. 오전과 밤에 풀을 뜯어 먹는다. 사막이나 히푸나에서는 카베이를 챙겨라(하루 약 1 펄). 험한 땅의 수레는 느림의 좋은 이유다."
+ },
+ "317cd7815399": {
+  "en": "12pm–6pm",
+  "t": "12시–18시"
+ },
+ "34b110686e5c": {
+  "en": "**Standard**",
+  "t": "**보통**"
+ },
+ "35fc7a0d2c1c": {
+  "en": "What happens",
+  "t": "무슨 일이 일어나나"
+ },
+ "430fead4b0dc": {
+  "en": "Decide who keeps watch (if anyone). The DM rolls for events.",
+  "t": "누가 보초를 설지 정한다(선다면). DM이 이벤트를 굴린다."
+ },
+ "479682595014": {
+  "en": "Quick reference",
+  "t": "빠른 참고"
+ },
+ "49f25a00b833": {
+  "en": "Normal travel: walking or a wagon on roads and trails, mixed terrain",
+  "t": "보통 여행: 길이나 오솔길을 걷거나 수레로 감, 섞인 지형"
+ },
+ "4ca775823b63": {
+  "en": "6am–12pm",
+  "t": "6시–12시"
+ },
+ "58fb35dccbbb": {
+  "en": "The party can push one step faster than the DM's knob (Slow → Standard, Standard → Fast) for a circle. Everyone makes a DC 12 Constitution save at the end of that circle or gains a level of exhaustion. Eguas pushed too hard get cranky (and kick).",
+  "t": "일행은 한 서클 동안 DM의 다이얼보다 한 단계 빨리 갈 수 있다(느림 → 보통, 보통 → 빠름). 그 서클이 끝날 때 모두 DC 12 건강 내성 굴림을 하고, 실패하면 탈진 1단계를 얻는다. 너무 무리시킨 에구아는 성질을 부린다(그리고 걷어찬다)."
+ },
+ "5cb33ec9f3d0": {
+  "en": "**Morning**",
+  "t": "**오전**"
+ },
+ "5d20f9f80cab": {
+  "en": "**Count the circles. Each circle is 1, 2 or 3 days — the DM chooses.** Roll events per shift (or per circle). Feed people and eguas. Get home before the quest deadline.",
+  "t": "**서클을 세라. 서클 하나는 1일, 2일, 3일 — DM이 고른다.** 시간대마다(또는 서클마다) 이벤트를 굴려라. 사람과 에구아를 먹여라. 의뢰 기한 전에 집에 돌아와라."
+ },
+ "5ef241d8588e": {
+  "en": "Time",
+  "t": "시각"
+ },
+ "6454736e2bcb": {
+  "en": "**Winga mail** flies much faster than people: about **one day for every three circles**.",
+  "t": "**윙가 우편**은 사람보다 훨씬 빨리 난다: 대략 **세 서클에 하루**."
+ },
+ "64d246f50000": {
+  "en": "Pace",
+  "t": "속도"
+ },
+ "65b5c88ed8ea": {
+  "en": "2. Set the pace knob",
+  "t": "2. 속도 조절 다이얼 맞추기"
+ },
+ "6e6497e68381": {
+  "en": "**Afternoon**",
+  "t": "**오후**"
+ },
+ "73b24b45ee6c": {
+  "en": "**Night**",
+  "t": "**밤**"
+ },
+ "7b937334d4d2": {
+  "en": "**Boats** along the coast or between islands are usually a good fit for **Fast**. Passage costs about 5 pearls per person per circle on a merchant boat.",
+  "t": "해안을 따라가거나 섬과 섬 사이를 오가는 **배**는 대개 **빠름**에 잘 맞는다. 상선 뱃삯은 서클당 1인 약 5 펄이다."
+ },
+ "7ccbb0cf31bb": {
+  "en": "Each shift, every character picks one thing: **travel**, **keep watch**, **rest**, **hunt/forage**, **scout** (with a companion like a Sayna, Winga or Sorefaries), **repair**, **prep** (nari gels, sigil rings, traps), or **socialize** (in town or with other caravans: barter, flirt, gamble, gossip, steal). Travel is assumed to happen during the day; the circle count already covers it.",
+  "t": "시간대마다 각 캐릭터는 한 가지를 고른다: **이동**, **보초**, **휴식**, **사냥/채집**, **정찰**(사이나, 윙가, 소레파리에스 같은 동료와 함께), **수리**, **준비**(나리 젤, 시질 링, 덫), 또는 **교류**(마을에서, 혹은 다른 대상과: 물물교환, 수작 걸기, 도박, 뒷말, 도둑질). 이동은 낮에 한다고 보고, 서클 수에 이미 들어가 있다."
+ },
+ "7e29a7491056": {
+  "en": "Each day has four **shifts**, kept from the Alpha campaign:",
+  "t": "하루에는 알파 캠페인에서 이어받은 네 개의 **시간대**가 있다."
+ },
+ "7e6ddea17dc2": {
+  "en": "Forget kilometers, Egua speeds and load math. The **travel map** (see [Maps](../Maps)) has **circles drawn along the routes connecting places**. Travel is counted in circles.",
+  "t": "킬로미터, 에구아 속도, 짐 무게 계산은 잊어라. **여행 지도**([지도](../Maps) 참고)에는 **장소와 장소를 잇는 길을 따라 서클이 그려져 있다**. 여행은 서클 수로 센다."
+ },
+ "7f572dc9e234": {
+  "en": "Shift",
+  "t": "시간대"
+ },
+ "85c45484eda0": {
+  "en": "Players choose actions. The DM rolls for events.",
+  "t": "플레이어가 행동을 고른다. DM이 이벤트를 굴린다."
+ },
+ "86f987d184bb": {
+  "en": "6pm–12am",
+  "t": "18시–24시"
+ },
+ "87abbc083d54": {
+  "en": "**Water:** only matters in the desert and on the plateau's dry stretches (see Dangerous Places).",
+  "t": "**물:** 사막과 고원의 메마른 구간에서만 문제가 된다(‘위험한 장소’ 참고)."
+ },
+ "9a9437371218": {
+  "en": "Supplies",
+  "t": "보급품"
+ },
+ "a2affa5c1784": {
+  "en": "**Graveyard**",
+  "t": "**심야**"
+ },
+ "a2ba28be6f28": {
+  "en": "Some lengths from the map: **Forway to Sanbi is 6 circles**, Forway to Flatland 7, Sanbi to Endlessfog 13 (by sea), Gandew to Sundeath 19 (across the desert). The [route lengths table](../Maps/README.md#route-lengths) has every road and sea lane. For a trip through several towns, add up the legs: Forway → Sanbi → Cruro is 6 + 10 = 16 circles.",
+  "t": "지도에 나온 길이 몇 가지: **포웨이에서 산비까지 6서클**, 포웨이에서 플랫랜드까지 7, 산비에서 엔들리스포그까지 13(바닷길), 간듀에서 선데스까지 19(사막 횡단). [경로 길이 표](../Maps/README.md#route-lengths)에 모든 길과 항로가 있다. 여러 마을을 거치는 여행이라면 구간을 더하면 된다: 포웨이 → 산비 → 크루로는 6 + 10 = 16서클."
+ },
+ "a49f632d76ed": {
+  "en": "Good fit when…",
+  "t": "이럴 때 잘 맞는다…"
+ },
+ "ae4c35ed5caa": {
+  "en": "3. Play out the days (or skip them)",
+  "t": "3. 하루하루를 플레이하기(또는 건너뛰기)"
+ },
+ "b26f56e2fa18": {
+  "en": "Players choose actions. The DM may roll for events.",
+  "t": "플레이어가 행동을 고른다. DM이 이벤트를 굴릴 수 있다."
+ },
+ "b2731f205f46": {
+  "en": "Event rolls are in [Events & Encounters](07%20-%20Events%20&%20Encounters.md). To keep long trips quick, the DM can roll **once per circle** instead of every shift — another knob.",
+  "t": "이벤트 굴림은 [이벤트와 조우](07%20-%20Events%20&%20Encounters.md)에 있다. 긴 여행을 빨리 진행하려면 DM은 시간대마다가 아니라 **서클마다 한 번** 굴려도 된다 — 이것도 다이얼이다."
+ },
+ "b2a519a7f929": {
+  "en": "Off-road forest, swamp, desert, mountains, the Buhraies Plains, heavy wagons or caravans, bad weather, Hifuna, or the DM wants the journey to *be* the adventure",
+  "t": "길 없는 숲, 늪, 사막, 산, 부라이에스 평원, 무거운 수레나 대상, 궂은 날씨, 히푸나, 또는 DM이 여정 자체를 모험으로 *만들고* 싶을 때"
+ },
+ "b35c6da82a74": {
+  "en": "**Fast**",
+  "t": "**빠름**"
+ },
+ "b5d0861141b8": {
+  "en": "The **Deltacross ferry** and the **Waterfall elevators** don't add time; they cost balls (see World Lore: Money).",
+  "t": "**델타크로스 나룻배**와 **워터폴 승강기**는 시간을 더하지 않는다. 대신 볼이 든다(World Lore: 돈 참고)."
+ },
+ "be2326901242": {
+  "en": "Travel by Circles",
+  "t": "서클로 여행하기"
+ },
+ "c4e5ccb9e986": {
+  "en": "Pushing it",
+  "t": "무리하기"
+ },
+ "c62c3d9454a5": {
+  "en": "12am–6am",
+  "t": "0시–6시"
+ },
+ "d0d49d2915d8": {
+  "en": "**Days = circles × the DM's pace (1, 2 or 3).** Forway to Sanbi, 6 circles: 6 days Fast, 12 Standard, 18 Slow.",
+  "t": "**일수 = 서클 수 × DM의 속도(1, 2, 3).** 포웨이에서 산비까지 6서클: 빠름이면 6일, 보통이면 12일, 느림이면 18일."
+ },
+ "d52adc720abc": {
+  "en": "Going somewhere with no circles drawn — off the routes, into unexplored land? The DM decides how many circles the trip is worth, or draws new ones on the shared map.",
+  "t": "서클이 그려지지 않은 곳으로 간다면 — 길을 벗어나 미지의 땅으로? 그 여행이 몇 서클인지는 DM이 정하거나, 공유 지도에 새 서클을 그린다."
+ },
+ "d5e802f2f64a": {
+  "en": "Days per circle",
+  "t": "서클당 일수"
+ },
+ "da5495effc27": {
+  "en": "Off the drawn routes, or at Slow pace in the wild, the navigator makes a DC 12 Wisdom (Survival) check per circle (DC 15 in fog, desert storms or Hifuna). On a failure, that circle takes **one extra day**. Maps (1 amethyst; 1 aquamarine for detailed ones) or a local guide grant advantage.",
+  "t": "그려진 길을 벗어났을 때, 또는 야생에서 느림 속도일 때, 길잡이는 서클마다 DC 12 지혜(생존) 판정을 한다(안개, 사막 폭풍, 히푸나에서는 DC 15). 실패하면 그 서클은 **하루가 더** 걸린다. 지도(1 애머시스트. 자세한 것은 1 아쿠아마린)나 현지 안내인이 있으면 이점을 얻는다."
+ },
+ "e7b27351360d": {
+  "en": "**Slow**",
+  "t": "**느림**"
+ },
+ "f4e589953c66": {
+  "en": "1. Count circles",
+  "t": "1. 서클 세기"
+ },
+ "f6a81fcdd924": {
+  "en": "Ferries, elevators, boats and mail",
+  "t": "나룻배, 승강기, 배, 우편"
+ },
+ "fb216e9e20ca": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer:",
+  "t": "**서클 하나는 여행 1일, 2일, 또는 3일이다. 어느 쪽으로 할지는 DM이** 여행마다 골라, 여정을 짧게도 길게도 만든다."
+ },
+ "ffe392d8b0a9": {
+  "en": "The knob is a **storytelling tool**, not physics. The DM can set it once for the whole trip or change it per leg when the terrain changes (Fast along a road, Slow once the party heads into the swamp).",
+  "t": "이 다이얼은 물리 법칙이 아니라 **이야기 도구**다. DM은 여행 전체에 한 번만 정해도 되고, 지형이 바뀔 때마다 구간별로 바꿔도 된다(길 위에서는 빠름, 일행이 늪에 들어가면 느림)."
+ }
+}

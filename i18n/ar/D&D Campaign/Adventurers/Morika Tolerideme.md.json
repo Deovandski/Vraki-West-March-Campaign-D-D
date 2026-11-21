@@ -1,0 +1,70 @@
+{
+ "04c03cca5d8d": {
+  "en": "**People:** Human · **Class:** Barbarian (Path of the Beast-lite) · **Background:** Unknown Wanderer · **Alignment:** Chaotic Neutral · **Rank:** Pearl (on paper)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**الشعب:** بشري · **الفئة:** بربري (طريق الوحش المبسّط) · **الخلفية:** هائم مجهول · **التوجه:** فوضوي محايد · **الرتبة:** بيرل (على الورق)\n**الواجهة:** دارفاريس · **نقاط الروح:** 5"
+ },
+ "2a6d0cfb4e1f": {
+  "en": "**Gore Charge (raging).** +5 to hit, 2d6+3 piercing.",
+  "t": "**اندفاعة النطح (في الغضب).** +5 للإصابة، 2d6+3 خارق."
+ },
+ "2eace524d94f": {
+  "en": "**AC** 15 (Stinger chitin armor) / 15 unarmored (10 + Dex + Con) · **HP** 36 · **Speed** 30 ft\n**STR** 16 · **DEX** 14 · **CON** 16 · **INT** 10 · **WIS** 12 · **CHA** 10",
+  "t": "**AC** 15 (درع كيتين ستينغر) / 15 بلا درع (10 + البراعة + البنية) · **HP** 36 · **السرعة** 30 قدمًا\n**القوة** 16 · **البراعة** 14 · **البنية** 16 · **الذكاء** 10 · **الحكمة** 12 · **الكاريزما** 10"
+ },
+ "4e861c45e27e": {
+  "en": "**Blood-Soaked Wanderer.** Advantage on Intimidation while covered in gore.",
+  "t": "**هائم غارق في الدم.** أفضلية على الترهيب ما دام ملطخًا بالدماء."
+ },
+ "56431754db05": {
+  "en": "**Dual Persona.** *Armor on:* bold, loud, reckless (The Stinger). *Armor off:* mute, meticulous, polite to the point of sounding robotic.",
+  "t": "**شخصية مزدوجة.** *بالدرع:* جريء، صاخب، متهور (ستينغر). *بلا درع:* أبكم، دقيق، مهذب إلى حدّ يبدو معه كالآلة."
+ },
+ "5a47ec5e5d46": {
+  "en": "**Unarmored Defense.** AC = 10 + Dex + Con when the armor is off.",
+  "t": "**الدفاع بلا درع.** AC = 10 + البراعة + البنية حين ينزع الدرع."
+ },
+ "905f708e5fcf": {
+  "en": "**Urban Legend.** Commoners have disadvantage to identify the Stinger as Morika.",
+  "t": "**أسطورة حضرية.** على العامّة عيب في التعرّف على أن ستينغر هو موريكا."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "السمات والخصال"
+ },
+ "ad8f49708d9a": {
+  "en": "**Reckless Attack, Danger Sense.**",
+  "t": "**الهجوم المتهور، استشعار الخطر.**"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "الأفعال"
+ },
+ "c3af44c4e708": {
+  "en": "Barbarian Features",
+  "t": "سمات البربري"
+ },
+ "cce5c08a4e6f": {
+  "en": "**Rage (3/day).** +2 damage; resistance to bludgeoning, piercing and slashing.",
+  "t": "**الغضب (3/يوم).** +2 ضرر؛ ومقاومة للراض والخارق والقاطع."
+ },
+ "ea1fd6abdd59": {
+  "en": "**Stinger Slash.** +5 to hit, 1d8+3 slashing.",
+  "t": "**ضربة الإبرة.** +5 للإصابة، 1d8+3 قاطع."
+ },
+ "eb5eefdd2d92": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to everything within 5 ft.",
+  "t": "**انفجار أشواك الدرع (إعادة شحن 6).** 2d6 خارق لكل شيء ضمن 5 أقدام."
+ },
+ "ec1c5df4e822": {
+  "en": "**Skills:** Athletics +5, Survival +3, Perception +3\n**Equipment:** Stinger chitin armor (modeled on a Sweet Sting), serrated blade, blood-stained cloak, journal, a jar of black honey, badge.\n**Hook:** Nobody knows the Stinger is Morika. Keep it that way.",
+  "t": "**المهارات:** الرياضة +5، النجاة +3، الإدراك +3\n**العتاد:** درع كيتين ستينغر (على مثال سويت ستينغ)، نصل مسنّن، عباءة ملطخة بالدم، يومية، جرة عسل أسود، بطاقة.\n**الخيط:** لا أحد يعرف أن ستينغر هو موريكا. أبقِ الأمر كذلك."
+ },
+ "f127ea27edb7": {
+  "en": "Morika Tolerideme — Level 3 Barbarian (\"The Stinger\")",
+  "t": "موريكا توليريديمي — بربري من المستوى 3 («ستينغر»)"
+ },
+ "f45a390d6c0f": {
+  "en": "**Too Thin for Tolerideme.** Toleridemians mock him; he avoids home.",
+  "t": "**نحيف جدًا على توليريديمي.** يسخر منه التوليريديميون؛ فيتجنب الوطن."
+ }
+}

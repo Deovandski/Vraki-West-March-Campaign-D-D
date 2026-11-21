@@ -1,0 +1,394 @@
+{
+ "031c66013fe7": {
+  "en": "**Bite.** Natural weapon: 1d6 + Strength piercing.",
+  "t": "**啃咬。** 天生武器：1d6 + 力量 穿刺伤害。"
+ },
+ "05381bfcc598": {
+  "en": "**Amethyst**",
+  "t": "**阿米西斯特**"
+ },
+ "0c686d3e2c25": {
+  "en": "**Childlike Mind.** Disadvantage on Intelligence (Investigation) and Wisdom (Insight) checks. Your emotions run loud: the DM may call for a Wisdom save to stay calm when things get scary or exciting.",
+  "t": "**孩童心智。** 智力（调查）和感知（洞悉）检定具有劣势。你的情绪很外露：事情变得可怕或令人兴奋时，DM可以要求你进行一次感知豁免检定来保持冷静。"
+ },
+ "0deae0d4ee50": {
+  "en": "Quest access",
+  "t": "可接委托"
+ },
+ "0eba1d8bb37d": {
+  "en": "Everyone starts with an embassy **badge** (Pearl corners). It shows your Soul Points to you alone.",
+  "t": "每个人一开始都有一块大使馆的**身份牌**（珀尔级的边角）。它只向你本人显示你的灵魂点数。"
+ },
+ "10603646ae85": {
+  "en": "Human (mixed blood) — the default",
+  "t": "人类（混血）——默认选项"
+ },
+ "1255b84d73e6": {
+  "en": "6. Starting debt (recommended)",
+  "t": "6. 起始债务（推荐）"
+ },
+ "127e12b2c400": {
+  "en": "Making an Adventurer",
+  "t": "创建冒险者"
+ },
+ "158dd47ad88f": {
+  "en": "Companions instead of pets",
+  "t": "是伙伴，不是宠物"
+ },
+ "1610b965f63b": {
+  "en": "Badge corners",
+  "t": "身份牌边角"
+ },
+ "18b9355e72b5": {
+  "en": "Most adventurers owe someone for their gear. Roll 1d6:\n1–2: no debt (lucky you) · 3–4: **1 amethyst** owed to your guild · 5: **2 amethysts** owed to a private lender (who's not nice) · 6: **1 aquamarine** owed to an investor guild like the Cliff-Jumpers (they take 30% of your quest pay until it's paid).",
+  "t": "大多数冒险者的装备钱都欠着某人。掷1d6：\n1–2：没有债务（运气真好）· 3–4：欠你的公会**1阿米西斯特** · 5：欠一个私人放贷人（不是什么好人）**2阿米西斯特** · 6：欠一个投资公会（比如克利夫贾珀）**1阿夸马林**（还清之前，他们会拿走你委托报酬的30%）。"
+ },
+ "18f1d59acc99": {
+  "en": "**Rogues:** guild agents, Red Winga runaways, Ganyrami squatters.",
+  "t": "**游荡者：** 公会特工、雷德温加的逃亡者、加尼拉米的占屋者。"
+ },
+ "1b989407b579": {
+  "en": "Every class works. Magic is reskinned as **soul energy science**:",
+  "t": "所有职业都能用。魔法被重新包装成**灵魂能量科学**："
+ },
+ "1c7fc258f07d": {
+  "en": "Almost every human has a little Darfaries or Wozefaries blood.",
+  "t": "几乎每个人类身上都流着一点达尔法里斯或沃泽法里斯的血。"
+ },
+ "1d44dac3a9bb": {
+  "en": "\"Pure\" human (rare)",
+  "t": "“纯种”人类（罕见）"
+ },
+ "1dedf12ebbc2": {
+  "en": "**Warlocks:** your patron is a **contract** — signed in blood with a Black Sapphire, Red Winga's Madam, a Finaies watching from the north, Bahyum Castle itself, or something worse.",
+  "t": "**邪术师：** 你的宗主是一份**契约**——用血签下的，对象是一名布莱克萨菲尔、雷德温加的老鸨、在北方注视着的菲奈斯、巴休姆城堡本身，或者更糟的东西。"
+ },
+ "218819577bda": {
+  "en": "Spell names are descriptive, not shouted. A fireball is an **Elemental Fire CREATE** at Tier III.",
+  "t": "法术名称是描述性的，不是喊出来的。火球术就是一个第III级的**埃莱门特尔·法伊尔·克里埃特**。"
+ },
+ "237813895fc4": {
+  "en": "**Darfaries Interface.**",
+  "t": "**达尔法里斯界面。**"
+ },
+ "275cb656a3ec": {
+  "en": "**Monks:** Gandew duelists, Tea-Drinkers brawlers.",
+  "t": "**武僧：** 甘杜的决斗者、蒂德林克斯的打手。"
+ },
+ "28f3904d7476": {
+  "en": "**Scaly Hide.** Without armor, your AC is 13 + your Dexterity modifier.",
+  "t": "**鳞皮。** 不穿护甲时，你的AC为13 + 你的敏捷调整值。"
+ },
+ "2d51c88dd6eb": {
+  "en": "1. Pick your people",
+  "t": "1. 选择你的种族"
+ },
+ "2df1de50ad75": {
+  "en": "**Darfaries Interface.** You can use sigil rings and drawn logograms (see Soul Energy rules).",
+  "t": "**达尔法里斯界面。** 你可以使用西吉尔戒指和手绘的语标文字（见灵魂能量规则）。"
+ },
+ "2e59c978609a": {
+  "en": "Wozefaries",
+  "t": "沃泽法里斯"
+ },
+ "32dbf3519281": {
+  "en": "**Clerics and paladins:** there are no gods. Make them **soul medics**, ancestor-revering duelists, oath-bound contract enforcers, or devotees of the sea, the Smart Ladies, the Tastyleaf tree or the Triangle. Their power is still soul energy.",
+  "t": "**牧师和圣武士：** 这里没有神。把他们做成**灵魂医师**、崇敬祖先的决斗者、受誓言约束的契约执行人，或者大海、聪慧女士、泰斯蒂利夫之树或三角的信徒。他们的力量依然是灵魂能量。"
+ },
+ "35d1c0c26295": {
+  "en": "No Darfaries or Wozefaries blood at all — maybe from a remote bloodline, or somewhere stranger.",
+  "t": "完全没有达尔法里斯或沃泽法里斯的血——也许来自偏远的血脉，或者某个更奇怪的地方。"
+ },
+ "389064e4087e": {
+  "en": "Small, slight cousins of the Darfaries; most grew up in Flatland after the Goodbye Cliff.",
+  "t": "达尔法里斯个头小、身材纤细的表亲；大多在再见崖之后于弗拉特兰长大。"
+ },
+ "3e91d889b2ec": {
+  "en": "Reaching the level isn't enough. You also need a **promotion**: complete a promotion quest set by the embassy, or get recognized at the **Adventurer Feast** (Paulin 100th). Aquamarine needs fundamental schooling or passing a test (DC 13 Intelligence check, or a scene). Sapphire needs Adventurer School — Forway pays, but it takes half a year of in-world time (and Forway now considers you *theirs*).",
+  "t": "光达到等级还不够。你还需要**晋级**：完成大使馆设定的晋级委托，或在**冒险者盛宴**（保林月第100天）上获得认可。阿夸马林级需要接受过基础教育或通过一次考试（DC 13的智力检定，或者一场戏）。萨菲尔级需要上冒险者学校——福威出钱，但要花掉游戏世界里半年的时间（而且从此福威会把你当成*他们的人*）。"
+ },
+ "3f7638d309ec": {
+  "en": "**Druids and rangers:** hunters of Blood, Freeish Soil-Group farmers, Endlessfog Brunto-friends. Wild Shape is \"soul shaping\" (or you're just really good with nari gels).",
+  "t": "**德鲁伊和游侠：** 布拉德的猎人、弗里伊什土之派的农夫、恩德莱斯福格的布伦托斯之友。荒野形态就是“灵魂塑形”（或者你只是特别会用纳里凝胶）。"
+ },
+ "424080a9a3ab": {
+  "en": "5. Money",
+  "t": "5. 钱"
+ },
+ "4a80f9ce1884": {
+  "en": "+ Aquamarine quests",
+  "t": "+ 阿夸马林级委托"
+ },
+ "4b326aebb926": {
+  "en": "Tiny, joyful, child-minded flyers. Best as companions, but a DM can allow one for a chaotic game.",
+  "t": "个头极小、快乐、心智像孩子的飞行者。最适合当伙伴，但在混乱风格的游戏里DM可以允许玩家扮演。"
+ },
+ "4d005acc69ee": {
+  "en": "Cruro",
+  "t": "克鲁罗"
+ },
+ "4d5ca83b1226": {
+  "en": "**Fade.** Once per long rest, as an action, you turn invisible for 1 minute or until you attack or cast a spell.",
+  "t": "**隐没。** 每次长休一次，以一个动作隐形1分钟，或直到你攻击或施放法术为止。"
+ },
+ "4e26c3f806b4": {
+  "en": "Use the normal D&D 5e character creation rules (2014 or 2024), with the changes below. Characters start at **level 1** as **Pearl** adventurers, unless the DM says otherwise. Pre-generated level 3 adventurers are in [Adventurers](Adventurers).",
+  "t": "使用D&D 5e的常规角色创建规则（2014版或2024版），并按下面的说明做修改。除非DM另有规定，角色以**珀尔**级冒险者的身份从**1级**开始。预先做好的3级冒险者在[冒险者](Adventurers)里。"
+ },
+ "50df7a6f2daf": {
+  "en": "1 **Amethyst** (50 pearls)",
+  "t": "1 **阿米西斯特**（50珀尔）"
+ },
+ "5243ee017081": {
+  "en": "**Size** Medium (2–2.5 m tall). **Speed** 30 ft.",
+  "t": "**体型** 中型（身高2–2.5米）。**速度** 30尺。"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "阿米西斯特"
+ },
+ "556fb74bffce": {
+  "en": "**Pearl**",
+  "t": "**珀尔**"
+ },
+ "5636e5a4d0a0": {
+  "en": "**Size** Small or Medium (your choice). **Speed** 30 ft.",
+  "t": "**体型** 小型或中型（任选）。**速度** 30尺。"
+ },
+ "56bfe1f78b57": {
+  "en": "Sorefaries (DM's permission)",
+  "t": "索雷法里斯（需DM许可）"
+ },
+ "5855aadd15f7": {
+  "en": "**Mute.** You can't speak. You understand Vraki and communicate by writing, drawing, gestures and grunts that other Cruros and Crocuses understand.",
+  "t": "**哑。** 你不能说话。你听得懂弗拉基语，通过书写、绘画、手势和其他克鲁罗与克罗卡斯能听懂的哼声交流。"
+ },
+ "5b3ad092a670": {
+  "en": "Levels",
+  "t": "等级"
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "珀尔"
+ },
+ "5ee4372b72cb": {
+  "en": "**Aquamarine**",
+  "t": "**阿夸马林**"
+ },
+ "605286a2edda": {
+  "en": "**Heritage hint** (optional, pick one): *Darfaries blood* — proficiency in Athletics; or *Wozefaries blood* — proficiency in Acrobatics.",
+  "t": "**血统提示**（可选，选一项）：*达尔法里斯血统*——熟练运动；或*沃泽法里斯血统*——熟练特技。"
+ },
+ "630bf606147c": {
+  "en": "3. Pick a background",
+  "t": "3. 选择背景"
+ },
+ "690985909566": {
+  "en": "**Friendly Face.** Proficiency in Persuasion or Insight.",
+  "t": "**友善面孔。** 熟练游说或洞悉。"
+ },
+ "6da6fcdbe94c": {
+  "en": "2. Pick a class",
+  "t": "2. 选择职业"
+ },
+ "6f4a28c9d642": {
+  "en": "Your name is **NAME PLACE GUILD** (e.g., *Tosa Blood Red-Fang*). No surname — your guild is your family. No guild? Just name and place.",
+  "t": "你的名字格式是**名字 地点 公会**（例如：*托萨·布拉德·雷德方*）。没有姓氏——公会就是你的家族。没有公会？那就只有名字和地点。"
+ },
+ "72241b2f45b5": {
+  "en": "4. Your badge, name and guild",
+  "t": "4. 你的身份牌、名字和公会"
+ },
+ "75af01fd2d70": {
+  "en": "**Wizards, sorcerers, bards, artificers:** soul energy scientists and performers casting through interfaces.",
+  "t": "**法师、术士、吟游诗人、奇械师：** 通过界面施法的灵魂能量科学家和表演者。"
+ },
+ "78e5bcec9332": {
+  "en": "**Neutralizing Saliva** (as above).",
+  "t": "**中和唾液**（同上）。"
+ },
+ "7c3b0cd16aaa": {
+  "en": "**Powerful Build.** You count as one size larger for carrying, pushing, dragging and lifting.",
+  "t": "**强健体格。** 在负重、推、拖和举起物品时，你视为大一级体型。"
+ },
+ "7ec88623c72e": {
+  "en": "1 **Sapphire** (5,000 pearls)",
+  "t": "1 **萨菲尔**（5,000珀尔）"
+ },
+ "80790f3d2aab": {
+  "en": "**Darfaries Veins.** You sense soul energy: you know when a spell is cast or a nari gel is used within 30 ft, and you can tell the weather coming in the next day (no check).",
+  "t": "**达尔法里斯血管。** 你能感知灵魂能量：30尺内有人施放法术或使用纳里凝胶时你会知道，还能知道第二天的天气（无需检定）。"
+ },
+ "81843314c8e8": {
+  "en": "Any 5e background works with a Vraki twist. Ideas: **Goodbye Cliff Survivor** (Wozefaries/Sorefaries raised in Flatland), **Guild Debtor**, **Blood Hunter**, **Sanbi Fisher**, **Toleridemian Brewer**, **Gandew Duelist**, **Freeish Villager** (Soil or Blood group), **Embassy Clerk**, **Runaway Courtesan**, **Contract Servant** (you sold your freedom and bought it back), **Ex-Bandit** (Beer Balls, Wood People…), **Half-Cruro Laborer**, **Soul Energy School Dropout**, **Lighthouse Keeper**.",
+  "t": "任何5e背景加上一点弗拉基特色都能用。点子：**再见崖幸存者**（在弗拉特兰长大的沃泽法里斯／索雷法里斯）、**公会欠债人**、**布拉德猎人**、**桑比渔夫**、**托勒里德梅酿酒人**、**甘杜决斗者**、**弗里伊什村民**（土之派或血之派）、**大使馆职员**、**出逃的交际花**、**契约仆役**（你卖掉了自由，又把它赎了回来）、**前强盗**（比尔博尔斯、伍德皮普尔……）、**哈夫·克鲁罗劳工**、**灵魂能量学校辍学生**、**灯塔看守人**。"
+ },
+ "83c21c16ab6f": {
+  "en": "**Glide.** When you fall, you can descend at 60 ft per round and move up to 2 ft horizontally for every 1 ft you descend; you take no falling damage while gliding. You can't gain altitude.",
+  "t": "**滑翔。** 坠落时，你可以每轮下降60尺，每下降1尺可水平移动最多2尺；滑翔期间不受坠落伤害。你无法升高。"
+ },
+ "869cfb5afd5d": {
+  "en": "**Darfaries Veins** (as above, 30 ft).",
+  "t": "**达尔法里斯血管**（同上，30尺）。"
+ },
+ "8904f8d1d44e": {
+  "en": "Saynas, Wingas, Bruntos, Sorefaries and the occasional Big Winga are classic adventurer companions. Use the stat blocks as beast companions/familiars where your class allows, or as hirelings.",
+  "t": "赛纳、温加、布伦托斯、索雷法里斯，偶尔还有大温加，都是冒险者的经典伙伴。在职业允许的情况下，把它们的数据块当作野兽伙伴／魔宠使用，或当作雇工。"
+ },
+ "8b82f852e2e7": {
+  "en": "**Sapphire**",
+  "t": "**萨菲尔**"
+ },
+ "8d3f443454d6": {
+  "en": "+ Sapphire and secret quests",
+  "t": "+ 萨菲尔级与秘密委托"
+ },
+ "906864b2600f": {
+  "en": "**Short Fuse.** When you're drunk (DM's call), you have disadvantage on saves to resist being goaded into a fight.",
+  "t": "**一点就着。** 你喝醉时（由DM判断），为抵抗被激怒而打架所做的豁免检定具有劣势。"
+ },
+ "980e3c6878bd": {
+  "en": "Darfaries",
+  "t": "达尔法里斯"
+ },
+ "9bbce6745cda": {
+  "en": "**Starting money:** take your class's starting equipment plus **2d4 × 10 pearls**.",
+  "t": "**起始资金：** 拿你职业的起始装备，再加上**2d4 × 10珀尔**。"
+ },
+ "9f7c8c8415b7": {
+  "en": "**Hold Breath.** 15 minutes.",
+  "t": "**屏息。** 15分钟。"
+ },
+ "a039ee591f53": {
+  "en": "**Neutralizing Saliva.** Once per long rest, as an action, lick a creature or object you touch to end one ongoing nari gel or spell effect of Tier/level 2 or lower on it.",
+  "t": "**中和唾液。** 每次长休一次，以一个动作舔一下你触碰的生物或物体，终止其身上一个持续中的、第2级／2环或更低的纳里凝胶或法术效果。"
+ },
+ "a75bd8087902": {
+  "en": "Use the 5e **Human**.",
+  "t": "使用5e的**人类**。"
+ },
+ "a7fa92321920": {
+  "en": "Anything cheaper than a pearl (a bread bowl, a spoon of Basi) is \"a few crumbs\" — round it off.",
+  "t": "比一珀尔还便宜的东西（一个面包碗、一勺巴西果泥）就是“几粒碎渣”——四舍五入掉。"
+ },
+ "aaafea041b1d": {
+  "en": "Pearl quests",
+  "t": "珀尔级委托"
+ },
+ "ad5a671c847e": {
+  "en": "Every character has **Soul Points (SP)** = **proficiency bonus + Constitution modifier** (minimum 1). See [Soul Energy, Interfaces & Sigil Rings](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md).",
+  "t": "每个角色都有**灵魂点数（SP）** = **熟练加值 + 体质调整值**（最少1）。见[灵魂能量、界面与西吉尔戒指](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)。"
+ },
+ "adcd6b2aef13": {
+  "en": "Tolerideme names have 4 or 6 letters; Gandew names sound Chinese/Japanese and your place must be High-, Mid- or Low-Gandew; Sanbi names are unique and changeable; Freeish and Sanbi names often sound Brazilian.",
+  "t": "托勒里德梅的名字有4或6个字母；甘杜的名字听起来像中文或日文，地点必须是高甘杜、中甘杜或低甘杜；桑比的名字独一无二，可以更改；弗里伊什和桑比的名字常听起来像巴西名。"
+ },
+ "b1495099a386": {
+  "en": "**Huge Soul.** Your maximum Soul Points increase by 2.",
+  "t": "**庞大灵魂。** 你的灵魂点数上限增加2。"
+ },
+ "b551a9795fe8": {
+  "en": "Giant tusked people; most come from Gandew.",
+  "t": "长着獠牙的巨人般的种族；大多来自甘杜。"
+ },
+ "b6c0b6cfa819": {
+  "en": "1 **Aquamarine** (500 pearls)",
+  "t": "1 **阿夸马林**（500珀尔）"
+ },
+ "b9ba164f3f18": {
+  "en": "**Itchy Back.** You feel soul energy being used within 30 ft as an itch (you know it's happening, not where).",
+  "t": "**背痒。** 30尺内有人使用灵魂能量时，你会感到一阵发痒（你知道这件事正在发生，但不知道在哪里）。"
+ },
+ "be9edf60a23e": {
+  "en": "Use the 5e **Human** (any version your table uses).",
+  "t": "使用5e的**人类**（你们桌上用的任何版本都行）。"
+ },
+ "bf25b878618a": {
+  "en": "**Cruro Interface.** You can't use sigil rings (no Darfaries blood), but your Fade and Itchy Back use soul energy.",
+  "t": "**克鲁罗界面。** 你不能使用西吉尔戒指（没有达尔法里斯的血），但你的“隐没”和“背痒”会用到灵魂能量。"
+ },
+ "c7b48369c89f": {
+  "en": "Prices in the PHB convert easily:",
+  "t": "《玩家手册》里的价格很容易换算："
+ },
+ "c943a541f533": {
+  "en": "8. Soul Points",
+  "t": "8. 灵魂点数"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "等级"
+ },
+ "ca57581358e7": {
+  "en": "**Sterile & Short-lived.** Flavor only: Sorefaries grow senile in their thirties.",
+  "t": "**不育且短寿。** 仅为背景设定：索雷法里斯三十多岁就会变得老糊涂。"
+ },
+ "cdd56a55cf48": {
+  "en": "7. Ranks and levels",
+  "t": "7. 级别与等级"
+ },
+ "d38a47f1e082": {
+  "en": "**Tusks.** Natural weapon: 1d6 + Strength piercing.",
+  "t": "**獠牙。** 天生武器：1d6 + 力量 穿刺伤害。"
+ },
+ "d81ba82fb77c": {
+  "en": "Ball",
+  "t": "球"
+ },
+ "deff37de3e6a": {
+  "en": "**Size** Small. **Speed** 25 ft, **fly** 30 ft (only in no armor or light armor).",
+  "t": "**体型** 小型。**速度** 25尺，**飞行** 30尺（仅在无甲或穿轻甲时）。"
+ },
+ "dfd10725202c": {
+  "en": "5e equivalent",
+  "t": "相当于5e中的"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "萨菲尔"
+ },
+ "e80624323479": {
+  "en": "**Deep Soul.** You regain **1 extra Soul Point** when you finish a long rest.",
+  "t": "**深邃灵魂。** 完成一次长休时，你**额外恢复1点灵魂点数**。"
+ },
+ "ebfc70324602": {
+  "en": "**Darfaries Veins** (as above). **Darfaries Interface.**",
+  "t": "**达尔法里斯血管**（同上）。**达尔法里斯界面。**"
+ },
+ "ec3e6bec17fa": {
+  "en": "1 **Pearl**",
+  "t": "1 **珀尔**"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "阿夸马林"
+ },
+ "f330256022e7": {
+  "en": "**No Interface.** You can't use sigil rings or logograms. (Class spellcasting still works — see Soul Energy rules for why.)",
+  "t": "**没有界面。** 你不能使用西吉尔戒指或语标文字。（职业施法依然有效——原因见灵魂能量规则。）"
+ },
+ "f4b689fbd2c0": {
+  "en": "**Soften the Fall.** Reaction when falling: take no damage from the first 30 ft of a fall.",
+  "t": "**缓冲坠落。** 坠落时作为反应：坠落的前30尺不受伤害。"
+ },
+ "f5406531baab": {
+  "en": "+ Amethyst quests",
+  "t": "+ 阿米西斯特级委托"
+ },
+ "f88437cd83db": {
+  "en": "Vraki has no elves, dwarves, halflings or gnomes. Use these instead. Unless noted, use the standard **human** chassis for size, speed and languages (Vraki is the common tongue), then apply the traits below.",
+  "t": "弗拉基没有精灵、矮人、半身人或侏儒。请改用下面这些。除非另有说明，体型、速度和语言使用标准的**人类**模板（弗拉基语是通用语），然后应用下面的特性。"
+ },
+ "f983967e2b59": {
+  "en": "10 Pearls",
+  "t": "10珀尔"
+ },
+ "fba5ea5b64b1": {
+  "en": "**Size** Medium. **Speed** 30 ft, **swim** 30 ft.",
+  "t": "**体型** 中型。**速度** 30尺，**游泳** 30尺。"
+ },
+ "fc089e4a5df4": {
+  "en": "Crocodile-folk from the Cruro swamps who joined (or escaped to) society. You're only a citizen if you belong to the Half-Cruro guild.",
+  "t": "来自克鲁罗沼泽、加入（或逃入）社会的鳄鱼族。只有加入哈夫·克鲁罗公会，你才算公民。"
+ }
+}

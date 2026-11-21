@@ -1,0 +1,166 @@
+{
+ "03de3cd85eea": {
+  "en": "**Body RESTORE** heals: Tier I bruises · II minor cuts · III deep cuts · IV broken bones · V many fractures and blood loss · VI lost limbs · VII lost head · VIII lost torso · IX near-instant regeneration (if you have the fat or black honey to burn). **Body DISASSEMBLE/DESTROY** causes bleeding, convulsions, explosions.",
+  "t": "**ボディ・リストア**は傷を治す：ティアI 打ち身 · II 浅い切り傷 · III 深い切り傷 · IV 骨折 · V 多数の骨折と失血 · VI 手足の欠損 · VII 頭の欠損 · VIII 胴体の欠損 · IX ほぼ瞬時の再生（燃やせる脂肪か黒い蜜があれば）。**ボディ・ディスアセンブル／デストロイ**は出血、けいれん、爆発を起こす。"
+ },
+ "13dd49d5034d": {
+  "en": "Made by the Buhraies to control the Darfaries as soldiers. Works for anyone with a drop of Darfaries/Wozefaries blood — nearly every human today.",
+  "t": "ブライエスがダルファリエスを兵士として操るために作った。ダルファリエスかウォゼファリエスの血が一滴でも入っていれば誰でも使える — 今の人間はほぼ全員そうだ。"
+ },
+ "14c1e1875566": {
+  "en": "Revival is routine: heal the body, restart the heart (a jolt of **storm** energy), feed it something energy-dense like **black honey**. Embassies sell it as a service.",
+  "t": "蘇生はありふれた作業だ。体を治し、心臓を再始動させ（**嵐**のエネルギーで一撃）、**黒い蜜**のようなエネルギーの濃いものを与える。大使館がサービスとして売っている。"
+ },
+ "1920b8108b65": {
+  "en": "Soul Energy (SE)",
+  "t": "魂のエネルギー（SE）"
+ },
+ "1db084c3e97b": {
+  "en": "**Miscasts:** missing or sloppy logograms make the spell fall back on whatever you're thinking. That can explode in your hand — or turn you into a chicken-like Fanchaki.",
+  "t": "**失敗：** 表語文字が欠けていたり雑だったりすると、呪文はあなたが考えていることで穴を埋めようとする。手の中で爆発することもあれば — ニワトリのようなファンチャキに変わってしまうこともある。"
+ },
+ "4962021bae4d": {
+  "en": "**World/Object VERB** changes density, attracts or repels, \"un-rusts\" things, or turns them to dust.",
+  "t": "**ワールド／オブジェクト＋ヴァーブ**は密度を変え、引き寄せたり退けたりし、物の「さびを落とし」、あるいは塵に変える。"
+ },
+ "4df3cbc0f57d": {
+  "en": "Soul, body, gene",
+  "t": "魂・体・遺伝子"
+ },
+ "52cb1b6c21ca": {
+  "en": "Draw a small logogram in the air with one hand while holding two fingers with the other; hold to charge (others can touch you to add energy); release by opening the fingers. Elements only. Fast, animal-like, aggressive.",
+  "t": "片手で空中に小さな表語文字を描き、もう片方の手で指を二本握る。握ったままで溜める（他の者が触れてエネルギーを足せる）。指を開いて放つ。元素のみ。速く、獣じみていて、攻撃的。"
+ },
+ "59b9f7176cca": {
+  "en": "Healing, reviving, lighting, refrigeration (ice spells keep meat fresh for trade), drying fish, industrial work in Tolerideme, entertainment (**Soul Energy Art** shows in Forway), sports (Homeegg flight), and the embassy badge system.",
+  "t": "治療、蘇生、照明、冷蔵（氷の呪文で交易用の肉を新鮮に保つ）、魚の乾燥、トレリデメの工業、娯楽（フォーウェイの**ソウルエナジー・アート**のショー）、スポーツ（ホームエッグの飛行）、そして大使館の身分証制度。"
+ },
+ "621631e94c2a": {
+  "en": "**Elemental CREATE** throws a ball of fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust or ash. **Gravity** spells pull and push; a Gravity CREATE makes a tiny black hole that evaporates instantly.",
+  "t": "**エレメンタル・クリエイト**は火、水、氷、嵐、蒸気、風、土、凍土、泥、溶岩、電撃、塵、灰の玉を放つ。**グラビティ**の呪文は引き寄せ、押しのける。グラビティ・クリエイトは小さなブラックホールを作るが、すぐに蒸発する。"
+ },
+ "650efd46a6d5": {
+  "en": "**Verbs:** INCREASE/DECREASE, REPEL/ATTRACT, RESTORE/DISASSEMBLE, CREATE/DESTROY, plus **ENTANGLE** (link sounds so a whole group hears the same thing — used for comms) and **TRANSMUTE** (turn one metal into its neighbor; not worth the cost), both reintroduced by the scientist Gabiro in 987 A.G.",
+  "t": "**ヴァーブ：** インクリース／ディクリース（増やす／減らす）、リペル／アトラクト（退ける／引き寄せる）、リストア／ディスアセンブル（元に戻す／分解する）、クリエイト／デストロイ（作る／壊す）、さらに**エンタングル**（音をつなげて集団全員に同じものを聞かせる — 通信に使う）と**トランスミュート**（ある金属を隣の金属に変える。割に合わない）。後の二つは987 A.G.に科学者ガビロが復活させた。"
+ },
+ "6bba3847d6f0": {
+  "en": "Interfaces",
+  "t": "インターフェース"
+ },
+ "84d7ed02031e": {
+  "en": "Logograms **carved into the palm** with a blade. Without them you're editing souls directly — the Buhraies' greatest power and their downfall. Can alter body and soul \"DNA\"; changes stick even through healing.",
+  "t": "刃物で**手のひらに刻んだ**表語文字。それがなければ魂を直接書き換えていることになる — ブライエス最大の力であり、彼らの破滅の原因だ。体と魂の「DNA」を変えられ、その変化は治療しても残る。"
+ },
+ "84f18aae9429": {
+  "en": "You can draw the logograms on your palm (slow, risky, and forbidden inside city limits) or wear **sigil rings** with them carved in (fast, safe; sold in Soul Energy shops; blank rings are banned except for courtroom scientists and Aquamarine+ adventurers).",
+  "t": "表語文字は手のひらに描くこともできるし（遅く危険で、市内では禁止）、表語文字を刻んだ**シジルリング**をはめることもできる（速く安全。魂のエネルギーの店で売っている。何も刻んでいない指輪は、宮廷科学者とアクアマリン以上の冒険者を除き禁止）。"
+ },
+ "8b6493801e36": {
+  "en": "There are no gods and no \"magic\" in Vraki — there is **Soul Energy**, and everybody calls it science. Scientists publish papers, peer-review each other brutally, and blow themselves up.",
+  "t": "ヴラキに神はおらず「魔法」もない — あるのは**魂のエネルギー**で、誰もがそれを科学と呼ぶ。科学者は論文を発表し、互いを容赦なく査読し、そして自爆する。"
+ },
+ "8c18dad97758": {
+  "en": "Strong emotions make long-lasting memories. When parents make a baby, both release a little soul energy and nearby particles form a new soul, so a newborn's temperament looks random.",
+  "t": "強い感情は長く残る記憶を作る。両親が赤ん坊を作るとき、二人とも少しずつ魂のエネルギーを放ち、近くの粒子が新しい魂を形作る。だから新生児の気質はでたらめに見える。"
+ },
+ "a34c4088549a": {
+  "en": "**Objects:** 26 approved simple objects plus rare approved compound ones. A new compound object is approved only if random passersby can cast it without a single miscast.",
+  "t": "**オブジェクト：** 承認済みの単純なオブジェクトが26種、それに珍しい承認済みの複合オブジェクトがいくつか。新しい複合オブジェクトが承認されるのは、通りすがりの人が一度も失敗せずに唱えられた場合だけだ。"
+ },
+ "a5d4d49970fb": {
+  "en": "Souls are toughest in early adulthood (revival is nearly guaranteed) and fragile in infants and the elderly.",
+  "t": "魂は成人したばかりの頃がいちばん丈夫で（蘇生はほぼ確実）、赤ん坊と老人ではもろい。"
+ },
+ "a7ac2e2e6605": {
+  "en": "Other uses of Soul Energy",
+  "t": "魂のエネルギーのその他の使い道"
+ },
+ "ac91e049c126": {
+  "en": "When the heart and brain stop, the soul stays tied to the body while the genetic material lasts. The dead dream in a loop of their strongest memories or desires.",
+  "t": "心臓と脳が止まっても、遺伝物質が残っているあいだは魂は体に結びついたままだ。死者はいちばん強い記憶や願いを繰り返し夢に見る。"
+ },
+ "b29a91912b7a": {
+  "en": "**Common spells:**",
+  "t": "**よく使われる呪文：**"
+ },
+ "b54bcd11081b": {
+  "en": "SE comes in **tiers** (I, II, III… X and up). Each tier needs double the energy of the one before it: **1 nari stone for Tier I, 2 for Tier II, 4 for Tier III, 8 for Tier IV…**",
+  "t": "SEには**ティア**がある（I、II、III…X以上）。各ティアには前のティアの倍のエネルギーが要る。**ティアIはナリストーン1個、ティアIIは2個、ティアIIIは4個、ティアIVは8個…**"
+ },
+ "bf7af2224bd6": {
+  "en": "The five rings hold **2, 8, 18, 32 and 50** tiers of energy. Nobody has officially cast at the fourth or fifth ring.",
+  "t": "五つの輪にはそれぞれ**2、8、18、32、50**ティア分のエネルギーが入る。公式には、四つ目や五つ目の輪で唱えた者はいない。"
+ },
+ "c27e2f58bb51": {
+  "en": "You can **expand** your soul's capacity with training, like exercise. The rich tend to have small souls — they just buy nari stones.",
+  "t": "運動と同じように、鍛えれば魂の容量を**広げる**ことができる。金持ちは魂が小さいことが多い — ナリストーンを買えば済むからだ。"
+ },
+ "c321d9232818": {
+  "en": "Walking Heart (banned)",
+  "t": "ウォーキングハート（禁止）"
+ },
+ "c401fbb82c9f": {
+  "en": "Recharged by **emotions** and **eating** (eating something alive absorbs some of its soul energy). On average you recover about **one nari stone's worth a day**.",
+  "t": "**感情**と**食事**で回復する（生きたものを食べると、その魂のエネルギーの一部を吸収する）。平均して**一日にナリストーン1個分**ほど回復する。"
+ },
+ "c448bb3b1c77": {
+  "en": "Buhraies interface (blood-born)",
+  "t": "ブライエスのインターフェース（血に生まれたもの）"
+ },
+ "c8606fb7f956": {
+  "en": "**Soul CREATE** — attempting to create a soul. Forbidden-level stuff. (Rumor says a famous Sanbi scientist died trying.)",
+  "t": "**ソウル・クリエイト** — 魂を作ろうとすること。禁忌級の代物。（サンビの有名な科学者がこれを試して死んだという噂がある。）"
+ },
+ "c893de59837f": {
+  "en": "As the body rots, the link fades. A soul with no link slowly dissolves: **Soul Death** (\"detachment\"). Bigger souls with stronger memories last longer.",
+  "t": "体が腐るにつれ、つながりは薄れていく。つながりを失った魂はゆっくりと溶けていく。これが**魂の死**（「離脱」）だ。記憶の強い大きな魂ほど長く持つ。"
+ },
+ "cb6495a2c116": {
+  "en": "Darfaries interface (what almost everyone uses)",
+  "t": "ダルファリエスのインターフェース（ほぼ全員が使うもの）"
+ },
+ "cc7d7b4029ee": {
+  "en": "Replace your heart with a Walking Heart stone and become **undead** — see Nari Gels, Bombs & Stones.",
+  "t": "心臓をウォーキングハートの石に取り替えると**アンデッド**になる — 「ナリジェル・爆弾・石」を参照。"
+ },
+ "d8f1a9b0aa9f": {
+  "en": "A spell is two **logograms**: an **OBJECT** (what it acts on) and a **VERB** (what it does).",
+  "t": "呪文は二つの**表語文字**でできている。**オブジェクト**（何に作用するか）と**ヴァーブ**（何をするか）だ。"
+ },
+ "dfc961e0ebcb": {
+  "en": "Death and revival",
+  "t": "死と蘇生"
+ },
+ "e0514eeee5d5": {
+  "en": "An **interface** turns soul energy into an effect. Many creatures have one built into their bodies (a Bagarisa's fire tusks, a Crocus's invisibility). People use these:",
+  "t": "**インターフェース**は魂のエネルギーを効果に変える。多くの生き物は体にそれが組み込まれている（バガリサの炎の牙、クロッカスの透明化）。人々が使うのは次のものだ。"
+ },
+ "e1958d538a66": {
+  "en": "**How to cast:** clench the hand with the logograms → five rings of white flame appear around your forearm → touch your middle and ring fingers to the palm and \"eat\" the energy (yours, a friend's, or a **nari stone stick**) → each \"bite\" pushes the spell to the next stable tier → open your hand to release it, or throw your arm for range. It kicks like a gun.",
+  "t": "**唱え方：** 表語文字のある手を握る → 前腕のまわりに白い炎の輪が五つ現れる → 中指と薬指を手のひらに当て、エネルギーを「食べる」（自分のもの、仲間のもの、あるいは**ナリストーン・スティック**のもの） → 一口ごとに呪文が次の安定したティアへ上がる → 手を開いて放つか、腕を振って遠くへ飛ばす。銃のように反動がある。"
+ },
+ "e452339450dc": {
+  "en": "Finaies interface (primordial)",
+  "t": "フィナイエスのインターフェース（原初のもの）"
+ },
+ "e6c36ad0eacd": {
+  "en": "Your **soul** is a cloud of virtual particles that holds your consciousness, your **memories** and your **Soul Energy**. Your **genes** are the soul's memories made physical; your **body** is built from those genes. (The author's analogy: soul = database, gene = class, body = object.)",
+  "t": "あなたの**魂**は、意識と**記憶**と**魂のエネルギー**を収めた仮想粒子の雲だ。**遺伝子**は魂の記憶が物質になったもので、**体**はその遺伝子から作られる。（作者のたとえ：魂 = データベース、遺伝子 = クラス、体 = オブジェクト。）"
+ },
+ "ea225874e93a": {
+  "en": "Soul Energy & Interfaces",
+  "t": "魂のエネルギーとインターフェース"
+ },
+ "eb1eb3d84c46": {
+  "en": "**Senses and flight:** Darfaries \"veins\" (nerves) let Darfaries, Wozefaries and Sorefaries sense soul energy and weather. A white flame runs along them; a black flame works like a jetpack (feet dangling, steering with the arms). Darfaries soften falls, Wozefaries glide, Sorefaries fly.",
+  "t": "**感覚と飛行：** ダルファリエスの「血管」（神経）のおかげで、ダルファリエス、ウォゼファリエス、ソレファリエスは魂のエネルギーと天気を感じ取れる。そこには白い炎が走り、黒い炎はジェットパックのように働く（足をぶら下げ、腕で舵を取る）。ダルファリエスは落下を和らげ、ウォゼファリエスは滑空し、ソレファリエスは飛ぶ。"
+ },
+ "eb955d883656": {
+  "en": "Your **badge** shows your current SE (only to you).",
+  "t": "あなたの**身分証**には現在のSEが表示される（あなたにだけ見える）。"
+ },
+ "fe0dd2eef3ca": {
+  "en": "**Lifespan** depends on how strong and dense the connections between flesh and soul are. Aging is those connections wearing out. Regrowing a lost limb lowers the density (shortens your life), so **reattach limbs before healing**.",
+  "t": "**寿命**は、肉体と魂のつながりがどれだけ強く密であるかで決まる。老化とはそのつながりがすり減っていくことだ。失った手足を再生させると密度が下がる（寿命が縮む）ので、**治す前に手足をくっつけること**。"
+ }
+}

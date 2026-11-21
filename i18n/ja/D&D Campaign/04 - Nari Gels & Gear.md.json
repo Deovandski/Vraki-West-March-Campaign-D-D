@@ -1,0 +1,870 @@
+{
+ "01cd70f3cd35": {
+  "en": "Thick coat: +1 AC, disadv. on stealth",
+  "t": "分厚い毛：ACに+1、隠密に不利"
+ },
+ "02ed88d532ca": {
+  "en": "Can't form new memories for the duration",
+  "t": "効果中は新しい記憶を作れない"
+ },
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "ナリジェルと装備"
+ },
+ "06261b5c960e": {
+  "en": "Flawless complexion (adv. on one Persuasion)",
+  "t": "完璧な肌（〈説得〉判定1回に有利）"
+ },
+ "076a428ce1ca": {
+  "en": "Signal smoke bomb (red/cyan/green/yellow)",
+  "t": "合図の煙幕弾（赤／シアン／緑／黄）"
+ },
+ "0db483b96ea9": {
+  "en": "Darkvision 120 ft; you see green as gray (DM describes everything as neon)",
+  "t": "暗視120フィート。緑が灰色に見える（DMはすべてをネオンのように描写する）"
+ },
+ "0e206b60f4c2": {
+  "en": "Resistance to psychic damage; speed −10 ft; disadv. on initiative",
+  "t": "精神ダメージへの抵抗。移動速度−10フィート。イニシアチブに不利"
+ },
+ "0f81ee943991": {
+  "en": "Restrained, can't speak (DC 13 Con ends at end of turn)",
+  "t": "拘束状態、話せない（ターンの終わりにDC 13の【耐久力】で終了）"
+ },
+ "0faac30f419b": {
+  "en": "As Skin Melt IV",
+  "t": "スキン・メルトIVと同じ"
+ },
+ "0faccb6d50e8": {
+  "en": "Darkvision 120 ft; disadv. on reading and close work",
+  "t": "暗視120フィート。読書と細かい作業に不利"
+ },
+ "10ae207e1611": {
+  "en": "Fly 30 ft (light or no armor; can't hold two-handed items or use somatic components while flying)",
+  "t": "飛行 30フィート（軽装鎧か鎧なし。飛行中は両手持ちの物を持てず、動作要素も使えない）"
+ },
+ "14f86d5be3a4": {
+  "en": "Jam into a Wood Person's crown (melee attack against AC 14, or while it's grappled) to **paralyze** it",
+  "t": "ウッドパーソンの冠に打ち込むと（AC 14に対する近接攻撃、または組みついているあいだ）**麻痺させる**"
+ },
+ "1541e5b3811b": {
+  "en": "Thrown into water: 3d6 thunder in 15 ft and a 20-ft geyser. Wrap in paper to delay 1 round",
+  "t": "水に投げ込むと：15フィート以内に3d6の雷鳴ダメージと、高さ20フィートの水柱。紙で包めば1ラウンド遅らせられる"
+ },
+ "155b086ce724": {
+  "en": "**Sigil rings**: see Soul Energy rules.",
+  "t": "**シジルリング**：魂のエネルギーのルールを参照。"
+ },
+ "19993e45d672": {
+  "en": "Walk on water (Large/Darfaries)",
+  "t": "水の上を歩ける（大型／ダルファリエス）"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "値段"
+ },
+ "1aa1e29b125c": {
+  "en": "Speed halved",
+  "t": "移動速度半減"
+ },
+ "1aa2f3272b9b": {
+  "en": "Companions",
+  "t": "仲間"
+ },
+ "1abd5d23a35e": {
+  "en": "Feed several stones in one action",
+  "t": "1回のアクションで複数の石をまとめて使える"
+ },
+ "1bfa6d34ab17": {
+  "en": "priceless / illegal to sell",
+  "t": "値段がつけられない／売るのは違法"
+ },
+ "1ca8da91ab11": {
+  "en": "**Sleep Inducer** (poison; II+ banned)",
+  "t": "**スリープ・インデューサー**（毒。II以上は禁止）"
+ },
+ "1cecbb6bc55c": {
+  "en": "**Fake Skin / Eye**",
+  "t": "**フェイク・スキン／アイ**"
+ },
+ "1cf395d2f928": {
+  "en": "Unconscious 1 hour (DC 13 Con)",
+  "t": "1時間気絶（【耐久力】DC 13）"
+ },
+ "1d5db4413684": {
+  "en": "Fost lamp",
+  "t": "フォストランプ"
+ },
+ "1da204a107a2": {
+  "en": "Porter for rough terrain",
+  "t": "険しい地形での荷運び"
+ },
+ "1dcc3f06fdf9": {
+  "en": "+2 initiative, can't be surprised, no sleep needed tonight",
+  "t": "イニシアチブに+2、不意を突かれない、今夜は眠らなくてよい"
+ },
+ "1decf382bac7": {
+  "en": "**Walking Dead**",
+  "t": "**ウォーキング・デッド**"
+ },
+ "1f62fb6dc94e": {
+  "en": "Item",
+  "t": "品物"
+ },
+ "1f67dc27d568": {
+  "en": "Detects invisible things and sand worms; goofy",
+  "t": "見えないものとサンドワームを見つける。おどけ者"
+ },
+ "204cb4b10525": {
+  "en": "Malformed gills: disadv. on Con checks, can't eat",
+  "t": "いびつなえら：【耐久力】判定に不利、食事ができない"
+ },
+ "20ef4273b8b7": {
+  "en": "**Wooly Skin**",
+  "t": "**ウーリー・スキン**"
+ },
+ "21307738f32b": {
+  "en": "Look like the target's part (cosmetic)",
+  "t": "対象の部位に似る（見た目だけ）"
+ },
+ "229182d4733b": {
+  "en": "Small horns (1d4 gore), deep voice, resistance to cold",
+  "t": "小さな角（突き1d4）、低い声、冷気への抵抗"
+ },
+ "26f38bb185ba": {
+  "en": "**Mind Enabler** (banned)",
+  "t": "**マインド・イネーブラー**（禁止）"
+ },
+ "277bc41bc456": {
+  "en": "Feathery hair (cosmetic)",
+  "t": "羽のような髪（見た目だけ）"
+ },
+ "279a3b452e52": {
+  "en": "**No Breath**",
+  "t": "**ノー・ブレス**"
+ },
+ "279b40cf72d7": {
+  "en": "Nari Worm egg",
+  "t": "ナリワームの卵"
+ },
+ "27ce44dc9538": {
+  "en": "Advantage on Survival checks to predict weather and hunting",
+  "t": "天気と狩りを予測する〈生存〉判定に有利"
+ },
+ "2a62276e67bc": {
+  "en": "Full wagon puller",
+  "t": "荷馬車を丸ごと引ける"
+ },
+ "2a6d387bfe03": {
+  "en": "Gel effects",
+  "t": "ジェルの効果"
+ },
+ "2c68086e13fb": {
+  "en": "Smoke bomb (intense)",
+  "t": "煙幕弾（強）"
+ },
+ "2c7f2cbc034d": {
+  "en": "**Time Quicken**",
+  "t": "**タイム・クイックン**"
+ },
+ "2cc9d0ebb4ae": {
+  "en": "Euphoric: immune to fear",
+  "t": "多幸感：恐怖に完全耐性"
+ },
+ "2eee9940b164": {
+  "en": "Flatland Companion Meetup fee (2 aquamarines)",
+  "t": "フラットランドのコンパニオン・ミートアップの参加料（2アクアマリン）"
+ },
+ "2f1764936597": {
+  "en": "Loyal flying companion",
+  "t": "忠実な空飛ぶ仲間"
+ },
+ "2f4fa96fd8bf": {
+  "en": "Courier; recognizes faces; Fauna stats",
+  "t": "伝書役。顔を覚える。動物のデータ"
+ },
+ "303a191a167f": {
+  "en": "Wounds won't close: 1d6 bleed each turn until healed",
+  "t": "傷がふさがらない：治療されるまで毎ターン1d6の出血"
+ },
+ "3066d2140b2d": {
+  "en": "Breathe in swamps and murky water; scaly; can't breathe air",
+  "t": "沼や濁った水の中で呼吸できる。うろこができる。空気は吸えない"
+ },
+ "320b59e8d691": {
+  "en": "Gels are **Tier III goods** for distance pricing; banned gels are black-market only (double or triple price and a Forway Law problem if caught).",
+  "t": "距離による値段計算では、ジェルは**ティアIIIの品物**として扱う。禁止ジェルは闇市場でしか手に入らない（2倍か3倍の値段で、捕まればフォーウェイ法の問題になる）。"
+ },
+ "321a9ad90dc4": {
+  "en": "Identical (agony: 4d6 psychic even for fine grade)",
+  "t": "瓜二つ（激痛：細かいものでも4d6の精神ダメージ）"
+ },
+ "326c4c3c2aaf": {
+  "en": "Faint sparkles (useless)",
+  "t": "かすかなきらめき（役に立たない）"
+ },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**重ねがけ：** 違うジェルならいくつか重ねがけできる（DMの判断）。同じジェルは重ねられない — 高いほうのティアを使う。"
+ },
+ "341a791c2849": {
+  "en": "Map (region / detailed)",
+  "t": "地図（地域／詳細）"
+ },
+ "359b29bbb115": {
+  "en": "Find the chosen scent within 1 mile (corpses, traps, living things); migraine (disadv. on Int checks)",
+  "t": "選んだにおいを1マイル以内で見つけられる（死体、罠、生き物）。偏頭痛（【知力】判定に不利）"
+ },
+ "363f8c57d8cc": {
+  "en": "5 amethysts",
+  "t": "5アメジスト"
+ },
+ "36a3073db5e5": {
+  "en": "Breathe water while swimming (not air)",
+  "t": "泳いでいるあいだは水で呼吸できる（空気は不可）"
+ },
+ "3713223a3a74": {
+  "en": "Squeeze through Small gaps",
+  "t": "小型のすき間を通り抜けられる"
+ },
+ "379b3d485a78": {
+  "en": "1 amethyst / 1 aquamarine",
+  "t": "1アメジスト／1アクアマリン"
+ },
+ "383e3f970f51": {
+  "en": "**Chitin** (Sand Worm): Gandew armor. Treat chitin plate as half plate with no disadvantage on Stealth; price ×1.5.",
+  "t": "**キチン**（サンドワーム製）：ガンデューの鎧。キチンの板金は、〈隠密〉に不利のないハーフ・プレートとして扱う。値段は1.5倍。"
+ },
+ "3c035c71646f": {
+  "en": "Groggy: disadv. on Wis checks",
+  "t": "ぼんやり：【判断力】判定に不利"
+ },
+ "3dcad2321ac1": {
+  "en": "Vomit, hair melts off: poisoned 1 hour",
+  "t": "嘔吐、髪が溶け落ちる：1時間毒状態"
+ },
+ "3e2c948f2eaa": {
+  "en": "Confused memories: disadv. on Int saves",
+  "t": "記憶の混乱：【知力】セーヴに不利"
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**食べる（粗いもの）：** アクション。効果はあなたの次のターンの終わりに始まる。持続は**1d4日**。"
+ },
+ "3f29b5521112": {
+  "en": "4d6 acid; disfigurement",
+  "t": "4d6の酸ダメージ。外見が損なわれる"
+ },
+ "3fd6330b142d": {
+  "en": "6 aquamarines",
+  "t": "6アクアマリン"
+ },
+ "420275751827": {
+  "en": "**Bleed Out** (poison)",
+  "t": "**ブリードアウト**（毒）"
+ },
+ "423874e0b2f0": {
+  "en": "Cold immunity in normal weather; overheat in hot places (disadv. on Con saves vs. heat)",
+  "t": "普通の天候では冷気に完全耐性。暑い場所では体がほてる（暑さに対する【耐久力】セーヴに不利）"
+ },
+ "4266f66e1be3": {
+  "en": "Death (DC 17 Con)",
+  "t": "死（【耐久力】DC 17）"
+ },
+ "4372c652f62d": {
+  "en": "Light 20 ft when wet with salt water; lasts a year. Sucker Ladies and many beasts avoid it",
+  "t": "海水でぬらすと20フィートを照らす。1年もつ。サッカー・レディや多くの魔獣はこれを避ける"
+ },
+ "4446426affd0": {
+  "en": "**Time Slower**",
+  "t": "**タイム・スロウワー**"
+ },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "卓上でのナリジェル"
+ },
+ "48edb2544e3a": {
+  "en": "Restores up to 4 SP and acts as a Tier III Nari Refresher. 1-in-6 chance it hatches in your bag",
+  "t": "最大4 SPを回復し、ティアIIIのナリ・リフレッシャーとして働く。6分の1の確率でかばんの中でかえる"
+ },
+ "4913580e8dc4": {
+  "en": "**Nari Refresher**",
+  "t": "**ナリ・リフレッシャー**"
+ },
+ "49968cd81c5a": {
+  "en": "Advantage on smell-based Perception",
+  "t": "嗅覚による〈知覚〉に有利"
+ },
+ "4a020091bee7": {
+  "en": "Coma 1d4 days (DC 15 Con)",
+  "t": "1d4日間の昏睡（【耐久力】DC 15）"
+ },
+ "4c05347d1141": {
+  "en": "See invisible creatures; you feel like you're dying (disadv. on Wis saves)",
+  "t": "不可視のクリーチャーが見える。死にかけているように感じる（【判断力】セーヴに不利）"
+ },
+ "4d2cbc953012": {
+  "en": "Natural AC 12 + Dex, small tail",
+  "t": "外皮AC 12＋【敏捷力】、小さな尻尾"
+ },
+ "4e1ba4250de1": {
+  "en": "20 pearls",
+  "t": "20パール"
+ },
+ "4e776c47742b": {
+  "en": "Bad trip: DC 13 Wis or confused 1 minute",
+  "t": "バッドトリップ：DC 13の【判断力】に失敗すると1分間混乱"
+ },
+ "4f08c9382bed": {
+  "en": "+1 AC and an extra bonus-action Dash each turn; anxious (disadv. on Insight)",
+  "t": "ACに+1、毎ターン追加のボーナス・アクションで疾走できる。不安になる（〈看破〉に不利）"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30パール"
+ },
+ "51c01287f5ae": {
+  "en": "Ends nausea",
+  "t": "吐き気を止める"
+ },
+ "537a68635e74": {
+  "en": "Close match: advantage on Deception to impersonate",
+  "t": "よく似る：なりすましの〈ペテン〉に有利"
+ },
+ "590fae2cf41e": {
+  "en": "See a chosen scent's trail within 300 ft",
+  "t": "選んだにおいの跡が300フィート以内まで見える"
+ },
+ "5accdc3492f6": {
+  "en": "Gear and materials",
+  "t": "装備と素材"
+ },
+ "5d8a468a52fd": {
+  "en": "Ends Tier ≤III; heal 3d4",
+  "t": "ティアIII以下を終わらせる。3d4回復"
+ },
+ "5e5cc65370d1": {
+  "en": "8d6 acid; death if reduced to 0",
+  "t": "8d6の酸ダメージ。0になれば死亡"
+ },
+ "5fed45345a35": {
+  "en": "Fully aquatic lungs; can't breathe air",
+  "t": "完全な水中用の肺。空気は吸えない"
+ },
+ "6213d3f8d772": {
+  "en": "Hold breath +1 minute",
+  "t": "息止め+1分"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1サファイア"
+ },
+ "631d0bc83f29": {
+  "en": "As *polymorph* into a Winga (Fauna stats)",
+  "t": "《ポリモーフ》と同じでウィンガになる（動物のデータ）"
+ },
+ "63b365e58e0f": {
+  "en": "See souls as a shimmer (detect living creatures in 30 ft)",
+  "t": "魂がゆらめきとして見える（30フィート以内の生き物を感知）"
+ },
+ "65283b7e6485": {
+  "en": "Water-reactive nari bomb",
+  "t": "水に反応するナリ爆弾"
+ },
+ "652ed7ab4428": {
+  "en": "Natural AC 14 + Dex",
+  "t": "外皮AC 14＋【敏捷力】"
+ },
+ "66c762d797d5": {
+  "en": "Hooves (+10 ft speed), tail, overheating",
+  "t": "ひづめ（移動速度+10フィート）、尻尾、体がほてる"
+ },
+ "67fd06f93056": {
+  "en": "Colored flames: 1d6 fire to creatures you grapple or touch",
+  "t": "色つきの炎：組みついたり触れたりしたクリーチャーに1d6の火ダメージ"
+ },
+ "6847b9e8c95c": {
+  "en": "As *haste*; at the end of each of your turns take 1d6 force damage",
+  "t": "《ヘイスト》と同じ。自分の各ターンの終わりに1d6の力場ダメージを受ける"
+ },
+ "693d31d4622d": {
+  "en": "Death (DC 15 Con)",
+  "t": "死（【耐久力】DC 15）"
+ },
+ "6bd90eaf3a6c": {
+  "en": "Speed halved, slurred speech, disadv. on Dex checks/saves",
+  "t": "移動速度半減、ろれつが回らない、【敏捷力】の判定とセーヴに不利"
+ },
+ "6e769670ac0a": {
+  "en": "Hear a mile away; without Time Slower, DC 15 Con or incapacitated",
+  "t": "1マイル先の音が聞こえる。タイム・スロウワーなしではDC 15の【耐久力】に失敗すると無力状態"
+ },
+ "6f5cfcd0a872": {
+  "en": "Poison: DC 15 Con save or heart stops (0 HP, dying)",
+  "t": "毒：DC 15の【耐久力】セーヴに失敗すると心臓が止まる（HP 0、瀕死）"
+ },
+ "7107e9ef6352": {
+  "en": "Tamed Winga",
+  "t": "手なずけたウィンガ"
+ },
+ "721d81354ff2": {
+  "en": "**Arm Light**",
+  "t": "**アーム・ライト**"
+ },
+ "726d99fe9103": {
+  "en": "1 SP of energy for interfaces. Comes in soul wood; stack into sticks",
+  "t": "インターフェース用の1 SP分のエネルギー。ソウルウッドにはまっていて、重ねてスティックにできる"
+ },
+ "7595824c0ba4": {
+  "en": "Nari stones, bombs and other consumables",
+  "t": "ナリストーン、爆弾、その他の消耗品"
+ },
+ "768dbc639623": {
+  "en": "Hooves: +10 ft speed on land",
+  "t": "ひづめ：陸上での移動速度+10フィート"
+ },
+ "7696398f9f70": {
+  "en": "Overload: blindsight 30 ft by smell, but poisoned near strong smells",
+  "t": "過負荷：嗅覚による擬似視覚30フィート。ただし強いにおいの近くでは毒状態"
+ },
+ "76e79a4ff4e5": {
+  "en": "**Winga-dust coating**: a weapon coated with Winga dust ignores resistance to slashing/piercing from nonmagical attacks for a year. 1 aquamarine.",
+  "t": "**ウィンガの粉のコーティング**：ウィンガの粉を塗った武器は、1年間、非魔法の攻撃による斬撃／刺突への抵抗を無視する。1アクアマリン。"
+ },
+ "77567bb3643e": {
+  "en": "**Water Walk**",
+  "t": "**ウォーター・ウォーク**"
+ },
+ "7931660fbde8": {
+  "en": "Overwhelming feelings: advantage on Charisma, disadv. on Wisdom",
+  "t": "圧倒的な感情：【魅力】に有利、【判断力】に不利"
+ },
+ "7a84aa0fd38f": {
+  "en": "2d6 bleed per turn, bleeding from eyes/ears",
+  "t": "毎ターン2d6の出血、目と耳から血が出る"
+ },
+ "7b3c162b3bdd": {
+  "en": "**Bone wood** (bone, iron, ground nari, greenbread core): as wood or metal; lasts longer. Freeish guards wear bone-wood armor (as hide/scale).",
+  "t": "**骨木**（骨、鉄、砕いたナリ、グリーンブレッドの芯）：木か金属として扱う。より長持ちする。フリーイッシュの衛兵は骨木の鎧を着る（ハイド／スケイル相当）。"
+ },
+ "7b58eccef4ad": {
+  "en": "Squeeze through 1-inch gaps; must hold breath",
+  "t": "1インチのすき間を通り抜けられる。息を止める必要がある"
+ },
+ "7c5af08694b6": {
+  "en": "Feather fall at will; −2 Str checks",
+  "t": "《フェザー・フォール》を自由に使える。【筋力】判定に−2"
+ },
+ "7d1a56b761ee": {
+  "en": "Identify any creature by smell within 30 ft; perfume = DC 12 Con or poisoned",
+  "t": "30フィート以内のどんなクリーチャーもにおいで識別できる。香水があるとDC 12の【耐久力】に失敗して毒状態"
+ },
+ "7d5d0bfddffd": {
+  "en": "Companion",
+  "t": "仲間"
+ },
+ "7e4c460ac454": {
+  "en": "Body structure matches",
+  "t": "体の構造が一致する"
+ },
+ "80cf249ba2d6": {
+  "en": "Gel",
+  "t": "ジェル"
+ },
+ "818e23c9b213": {
+  "en": "Burns: 2d6 fire",
+  "t": "やけど：2d6の火ダメージ"
+ },
+ "8220146365f2": {
+  "en": "Black honey (jar)",
+  "t": "黒い蜜（瓶）"
+ },
+ "835f5431c341": {
+  "en": "Neck gills: hold breath 6 minutes; mute",
+  "t": "首にえら：息を6分止められる。話せない"
+ },
+ "83dce580ecd5": {
+  "en": "Advantage on hearing Perception",
+  "t": "聴覚による〈知覚〉に有利"
+ },
+ "87c9fe369c04": {
+  "en": "Nari stone",
+  "t": "ナリストーン"
+ },
+ "883f855da487": {
+  "en": "Walk on water (Medium)",
+  "t": "水の上を歩ける（中型）"
+ },
+ "8a6cd49e8d37": {
+  "en": "Breathe underwater ~20 minutes; mute; can't breathe air",
+  "t": "水中で~20分呼吸できる。話せない。空気は吸えない"
+ },
+ "8a709fd6a4e2": {
+  "en": "**Body Paralysis** (poison)",
+  "t": "**ボディ・パラリシス**（毒）"
+ },
+ "8ae498b70077": {
+  "en": "Blindsight 10 ft by sound; loud noises: DC 13 Con or deafened 1 min",
+  "t": "音による擬似視覚10フィート。大きな音：DC 13の【耐久力】に失敗すると1分間聴覚喪失"
+ },
+ "8b9548956584": {
+  "en": "Paralyzed; DC 15 Con each turn or stop breathing",
+  "t": "麻痺状態。毎ターンDC 15の【耐久力】に失敗すると呼吸が止まる"
+ },
+ "8da4aeb09e9c": {
+  "en": "free (Endlessfog's House of Bruntos, if one bonds with you)",
+  "t": "無料（エンドレスフォグのブルントスの家で、一頭があなたと絆を結べば）"
+ },
+ "8da665aa9f77": {
+  "en": "Advantage on saves vs. ingested poison",
+  "t": "飲み込んだ毒へのセーヴに有利"
+ },
+ "8e31e0896449": {
+  "en": "Hear whispers through walls",
+  "t": "壁越しにささやき声が聞こえる"
+ },
+ "8fbb05286dc1": {
+  "en": "**Getting stuck:** use the same Tier III+ gel for more than 3 days in a row and make a DC 13 Constitution save each extra day; on a failure the change becomes **permanent** until a Nari Refresher of that tier and a long rest. Living permanently transformed for months corrupts the soul (DM's call: you may never come back).",
+  "t": "**抜けなくなる：** 同じティアIII以上のジェルを3日を超えて続けて使うと、超過した日ごとにDC 13の【耐久力】セーヴィング・スローを行う。失敗すると、そのティアのナリ・リフレッシャーを使って大休憩をとるまで、変化は**永続**になる。何か月も変身したままで暮らすと魂が蝕まれる（DMの判断：二度と元に戻れないかもしれない）。"
+ },
+ "91b8c9726e81": {
+  "en": "Laxative (cures a stomach ache, ruins a day)",
+  "t": "下剤（腹痛は治るが、一日がつぶれる）"
+ },
+ "923e85a7e02e": {
+  "en": "Lasting personality change (DM and player decide)",
+  "t": "長く続く人格の変化（DMとプレイヤーが決める）"
+ },
+ "93e521962edf": {
+  "en": "As *haste* plus advantage on Dex saves; take 2d6 force at end of each turn; when it ends, DC 15 Con save or drop to 0 HP (aneurysm)",
+  "t": "《ヘイスト》と同じうえ【敏捷力】セーヴに有利。各ターンの終わりに2d6の力場ダメージを受ける。効果が終わったら、DC 15の【耐久力】セーヴに失敗するとHPが0になる（動脈瘤）"
+ },
+ "942e0f9e874f": {
+  "en": "Fly 60 ft; you can't speak Vraki",
+  "t": "飛行 60フィート。ヴラキ語を話せない"
+ },
+ "955b3b84b060": {
+  "en": "Tier I",
+  "t": "ティアI"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1アメジスト"
+ },
+ "9836e1a5abfb": {
+  "en": "Breathe water freely, swim speed = speed (not air)",
+  "t": "水で自由に呼吸でき、水泳速度＝移動速度（空気は不可）"
+ },
+ "98888ac1b5b2": {
+  "en": "**Sore Mind**",
+  "t": "**ソア・マインド**"
+ },
+ "9c9199184152": {
+  "en": "Removes hair, scars, tattoos",
+  "t": "体毛、傷あと、入れ墨を消す"
+ },
+ "9f578f34f508": {
+  "en": "3 amethysts",
+  "t": "3アメジスト"
+ },
+ "a21485c6adb2": {
+  "en": "Young Egua",
+  "t": "若いエグア"
+ },
+ "a3e89ea7a049": {
+  "en": "**Wozen Smell**",
+  "t": "**ウォゼン・スメル**"
+ },
+ "a570b4373cfd": {
+  "en": "**Badge replacement**: 1 amethyst (plus questions).",
+  "t": "**身分証の再発行**：1アメジスト（それと質問攻め）。"
+ },
+ "a65d11b0cb95": {
+  "en": "Flying scout with a huge soul; a person, not a pet",
+  "t": "巨大な魂を持つ空の斥候。ペットではなく、一人の人間だ"
+ },
+ "ac0d6b06d922": {
+  "en": "Ends Tier ≤II; heal 2d4",
+  "t": "ティアII以下を終わらせる。2d4回復"
+ },
+ "adab8dadcb78": {
+  "en": "Notes",
+  "t": "メモ"
+ },
+ "ae72f1db57c8": {
+  "en": "Fed to someone who died within the last minute, with their body mostly intact: they return to 1 HP. Forway guards carry these in their leg pockets",
+  "t": "直前の1分以内に死に、体がほぼ無傷の者に食べさせる：HP 1で生き返る。フォーウェイの衛兵は脚のポケットにこれを入れている"
+ },
+ "b06bab289b6e": {
+  "en": "Sorefaries companion",
+  "t": "ソレファリエスの仲間"
+ },
+ "b071c63665ff": {
+  "en": "**Wood People vines**: as hempen rope but elastic (50 ft for 5 pearls in Tolerideme, 15 elsewhere).",
+  "t": "**ウッドピープルのつる**：麻のロープと同じだが伸び縮みする（トレリデメでは50フィートで5パール、ほかでは15）。"
+ },
+ "b1d38f00e126": {
+  "en": "You're a slime (DM provides ooze stats)",
+  "t": "スライムになる（DMが粘体のデータを用意する）"
+ },
+ "b27b4aac7927": {
+  "en": "Green leathery skin (cosmetic)",
+  "t": "緑の革のような肌（見た目だけ）"
+ },
+ "b346b6cd745c": {
+  "en": "Tier IV",
+  "t": "ティアIV"
+ },
+ "b3ea8d0b906a": {
+  "en": "Eat during a short rest: regain an extra 1d4 HP per Hit Die spent (once per rest). Mildly addictive",
+  "t": "小休憩中に食べる：消費したヒット・ダイス1つごとに追加で1d4 HP回復する（休憩ごとに1回）。軽い中毒性"
+ },
+ "b3eee2b5fd9e": {
+  "en": "**Sayna Hearing**",
+  "t": "**サイナ・ヒアリング**"
+ },
+ "b51600212f96": {
+  "en": "Numb: −2 to attack rolls",
+  "t": "しびれ：攻撃ロールに−2"
+ },
+ "b665bdfd60b8": {
+  "en": "Advantage on saves vs. fear; you can sleep anywhere; hungry",
+  "t": "恐怖へのセーヴに有利。どこでも眠れる。空腹になる"
+ },
+ "b6cc11829f01": {
+  "en": "Use PHB equipment and prices (1 gp = 10 pearls), with Vraki materials:",
+  "t": "『プレイヤーズ・ハンドブック』の装備と値段を使い（1 gp ＝ 10パール）、ヴラキの素材を当てはめる。"
+ },
+ "b729dc21bb94": {
+  "en": "Pack animal; light loads",
+  "t": "荷役動物。荷は軽め"
+ },
+ "b76af4cfe69d": {
+  "en": "Black honey revival pot",
+  "t": "黒い蜜の蘇生壺"
+ },
+ "b7cbdc7d1bc4": {
+  "en": "Bright light 20 ft",
+  "t": "20フィートの明るい光"
+ },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**早めに終わらせる：** 同じかそれ以上のティアの**ナリ・リフレッシャー**は、あなたにかかっているジェルの効果をすべて終わらせる。"
+ },
+ "bcdbe52f4e7e": {
+  "en": "Your veins glow (light 10 ft)",
+  "t": "血管が光る（10フィートの光）"
+ },
+ "bd88696efa1f": {
+  "en": "Natural AC 16 + Dex; you can't speak; you look like a Cruro",
+  "t": "外皮AC 16＋【敏捷力】。話せない。クルロそっくりになる"
+ },
+ "bdf9525fa9f4": {
+  "en": "Resistance to cold damage",
+  "t": "冷気ダメージへの抵抗"
+ },
+ "bee3832ddb2a": {
+  "en": "Woolly hair (cosmetic, very fashionable)",
+  "t": "羊毛のような髪（見た目だけ、大流行中）"
+ },
+ "bfdda802b945": {
+  "en": "Track a known scent (adv. on Survival to track)",
+  "t": "知っているにおいを追える（追跡の〈生存〉に有利）"
+ },
+ "c01ccec55696": {
+  "en": "Tamed Bagarisa",
+  "t": "手なずけたバガリサ"
+ },
+ "c3376fb508da": {
+  "en": "Rare; fire-tusked guard pig",
+  "t": "珍しい。炎の牙を持つ番豚"
+ },
+ "c7452be4b9c9": {
+  "en": "Lunar mapping (this year)",
+  "t": "月の地図（今年のもの）"
+ },
+ "c786f28f1bc7": {
+  "en": "Adult Egua",
+  "t": "成獣のエグア"
+ },
+ "c7eb9ffbeea8": {
+  "en": "15 pearls",
+  "t": "15パール"
+ },
+ "c8731830d000": {
+  "en": "Coma",
+  "t": "昏睡"
+ },
+ "ca38faeb8b69": {
+  "en": "**Winga Skin**",
+  "t": "**ウィンガ・スキン**"
+ },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**注射する（細かいもの、値段は2倍）：** 注射器を使うボーナス・アクション。効果はすぐに始まる。持続は**1日**。"
+ },
+ "cd683e2a9e1d": {
+  "en": "Tamed Sayna",
+  "t": "手なずけたサイナ"
+ },
+ "cea1577656a5": {
+  "en": "Once: blinding flash, creatures within 20 ft DC 13 Con or blinded 1 minute — including you, if you fail a DC 10 Con save",
+  "t": "1回のみ：目もくらむ閃光。20フィート以内のクリーチャーはDC 13の【耐久力】に失敗すると1分間盲目 — DC 10の【耐久力】セーヴに失敗すればあなた自身も"
+ },
+ "d02cb63f4b06": {
+  "en": "Brunto",
+  "t": "ブルント"
+ },
+ "d0354fe70e0a": {
+  "en": "Hallucinations (DM's fun)",
+  "t": "幻覚（DMのお楽しみ）"
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**吸収：** ティアI–IIのジェルには追加のコストはない。**ティアIII**のジェルが効いているあいだは、大休憩でSPを回復しない。**ティアIV**のジェルが効いているあいだは、毎朝1 SPを失う（0 SPなら、代わりに消耗レベルを1得る）。"
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**痛み：** ティアIIIとIVのジェルは体が作り変わるあいだ痛む。粗いもの：2d6（ティアIII）か4d6（ティアIV）の精神ダメージを受け、次のターンの終わりまで毒状態になる。細かいもの：ダメージなし。"
+ },
+ "d40fc2232f3f": {
+  "en": "+1 to sight Perception",
+  "t": "視覚による〈知覚〉に+1"
+ },
+ "d4593456be97": {
+  "en": "5 pearls",
+  "t": "5パール"
+ },
+ "d4a36e1f39bb": {
+  "en": "Ends all gel effects; heal 4d4",
+  "t": "すべてのジェル効果を終わらせる。4d4回復"
+ },
+ "d5c239c689c0": {
+  "en": "Bouncy: halve falling damage",
+  "t": "弾む体：落下ダメージ半減"
+ },
+ "d6ebb461546e": {
+  "en": "**Winga Flight**",
+  "t": "**ウィンガ・フライト**"
+ },
+ "d76e0e081cb5": {
+  "en": "Overload: DC 15 Con or incapacitated 1 minute",
+  "t": "過負荷：DC 15の【耐久力】に失敗すると1分間無力状態"
+ },
+ "d7df2eac546f": {
+  "en": "Flush: ends poisoned, but you're out of action for an hour",
+  "t": "排出：毒状態が終わるが、1時間は行動不能"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "**瓶**1つ（~200 g）には**4さじ**入っている。**ティアIなら1さじ、ティアIIなら2さじ、ティアIIIなら3さじ、ティアIVなら4さじ全部**を食べる。つまり瓶1つ ＝ ティアIの4回分、またはティアIVの1回分。"
+ },
+ "da61db8cfc3a": {
+  "en": "**Water Breath**",
+  "t": "**ウォーター・ブレス**"
+ },
+ "dce52b6dccee": {
+  "en": "Advantage on checks to avoid getting lost",
+  "t": "道に迷わないための判定に有利"
+ },
+ "dd83470bb194": {
+  "en": "Darkvision 60 ft",
+  "t": "暗視60フィート"
+ },
+ "ddebe944ea06": {
+  "en": "20-ft heavily obscured cloud; 1d6 thunder in 10 ft; goes off when infused (hurts the thrower if held)",
+  "t": "20フィートの濃い煙で、視界が完全にさえぎられる。10フィート以内に1d6の雷鳴ダメージ。込めた瞬間に破裂する（手に持っていれば投げる者も傷つく）"
+ },
+ "dec64fbe04ed": {
+  "en": "Nari stone stick (5 stones)",
+  "t": "ナリストーン・スティック（石5個）"
+ },
+ "dfa6dca733ad": {
+  "en": "Target can't regain HP from magic for 1 min",
+  "t": "対象は1分間、魔法でHPを回復できない"
+ },
+ "e13641309a43": {
+  "en": "Fost stone (loose)",
+  "t": "フォストストーン（ばら）"
+ },
+ "e5e04044d891": {
+  "en": "DC 15 Con or drop to 0 HP",
+  "t": "DC 15の【耐久力】に失敗するとHPが0になる"
+ },
+ "e7e0fc2d5af5": {
+  "en": "Prices are per jar (coarse). Fine grade costs double.",
+  "t": "値段は瓶1つ（粗いもの）あたり。細かいものは2倍。"
+ },
+ "e86f1f3e1e78": {
+  "en": "**Slime Skin**",
+  "t": "**スライム・スキン**"
+ },
+ "e876d831fcbd": {
+  "en": "Truesight 30 ft for souls only; tormented thoughts",
+  "t": "魂に限り30フィートの真実の目。苦しい考え"
+ },
+ "eb76d1e0cc76": {
+  "en": "**Monika Sight**",
+  "t": "**モニカ・サイト**"
+ },
+ "eb91adeacae1": {
+  "en": "**Smooth Skin**",
+  "t": "**スムーズ・スキン**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1アクアマリン"
+ },
+ "ee0c3b062036": {
+  "en": "Target answers questions in a dream-like haze (DC 13 Wis or it talks)",
+  "t": "対象は夢うつつの状態で質問に答える（DC 13の【判断力】に失敗すると話す）"
+ },
+ "ee3d1e97779b": {
+  "en": "Ends Tier I gel effects; heal 1d4",
+  "t": "ティアIのジェル効果を終わらせる。1d4回復"
+ },
+ "f0e43fbf33e4": {
+  "en": "Big Winga (egg or adult)",
+  "t": "ビッグウィンガ（卵か成獣）"
+ },
+ "f140c1f2f283": {
+  "en": "Covered: disadv. on Perception (sight) and Dex checks",
+  "t": "羽に覆われる：〈知覚〉（視覚）と【敏捷力】判定に不利"
+ },
+ "f5597f5ff52d": {
+  "en": "Tier III",
+  "t": "ティアIII"
+ },
+ "f66361c79319": {
+  "en": "1+ aquamarine, if you can find one",
+  "t": "1アクアマリン以上、見つかればの話"
+ },
+ "f6739e0b4ab2": {
+  "en": "Tier II",
+  "t": "ティアII"
+ },
+ "f772ffe3cc33": {
+  "en": "**Smooth Gut**",
+  "t": "**スムース・ガット**"
+ },
+ "f7ff8a69205b": {
+  "en": "**Skin Melt** (II+ banned)",
+  "t": "**スキン・メルト**（II以上は禁止）"
+ },
+ "f995d36228c8": {
+  "en": "20-ft cloud for 1 minute; seen for miles. Misusing official colors is a crime",
+  "t": "1分間、20フィートの煙。何マイルも先から見える。公式の色を悪用するのは犯罪"
+ },
+ "fb1bdc91f66d": {
+  "en": "**Cruro Skin**",
+  "t": "**クルロ・スキン**"
+ },
+ "fd3df09721a7": {
+  "en": "Walk on water if Small/light",
+  "t": "小型か軽い者なら水の上を歩ける"
+ },
+ "fffc5e7c180f": {
+  "en": "**Wozen Eyesight**",
+  "t": "**ウォゼン・アイサイト**"
+ }
+}

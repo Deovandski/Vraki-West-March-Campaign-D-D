@@ -1,0 +1,126 @@
+{
+ "02957b7454d1": {
+  "en": "Walking Hearts and soul death",
+  "t": "Walking Hearts y muerte del alma"
+ },
+ "0b1cafe4a3f6": {
+  "en": "Dying",
+  "t": "Morir"
+ },
+ "1316fed2b7f5": {
+  "en": "Every quest contract has a **deadline** (see Quest Board). If the party isn't back at an embassy by then:",
+  "t": "Todo contrato de misión tiene un **plazo** (ver el Tablón de misiones). Si el grupo no ha vuelto a una embajada para entonces:"
+ },
+ "1430f8382b3d": {
+  "en": "Keeping the body cold (ice spells, snow, an ice preserver) **doubles** the window. Burned, dissolved or eaten bodies can't be revived.",
+  "t": "Mantener el cuerpo frío (conjuros de hielo, nieve, un conservador de hielo) **duplica** la ventana. Los cuerpos quemados, disueltos o devorados no se pueden reanimar."
+ },
+ "25fa49832ed7": {
+  "en": "**Revival window = 3 days + 1 day per character level.**",
+  "t": "**Ventana de reanimación = 3 días + 1 día por nivel de personaje.**"
+ },
+ "2df671ce7d96": {
+  "en": "Fleeing your debt makes you a **wanted** criminal (bounty quests appear with your face on them).",
+  "t": "Huir de tu deuda te convierte en un criminal **buscado** (aparecen misiones de recompensa con tu cara)."
+ },
+ "329d5a17dcf2": {
+  "en": "The revival window",
+  "t": "La ventana de reanimación"
+ },
+ "343c8cbfd594": {
+  "en": "They now owe **Revival Debt** to Forway.",
+  "t": "Ahora tiene una **deuda de reanimación** con Forway."
+ },
+ "4ece5231567c": {
+  "en": "The adventurer wakes with 1 HP and **one level of exhaustion**.",
+  "t": "El aventurero despierta con 1 HP y **un nivel de cansancio**."
+ },
+ "516bc27460d7": {
+  "en": "**Debt = 100 pearls × character level** (a level 3 adventurer owes 300 pearls; a level 10, 1,000).",
+  "t": "**Deuda = 100 pearls × nivel del personaje** (un aventurero de nivel 3 debe 300 pearls; uno de nivel 10, 1.000)."
+ },
+ "57d0eb6ed989": {
+  "en": "Bodies not found in time: **Presumed Soul Dead**. Forway keeps the badge; belongings go to the character's top guild (or to charity after a year).",
+  "t": "Cuerpos no encontrados a tiempo: **presunta muerte del alma**. Forway se queda la insignia; las pertenencias van al gremio principal del personaje (o a caridad pasado un año)."
+ },
+ "58d7ac5629bb": {
+  "en": "This is also the West March \"get home\" rule: a session that ends with the party in the wild means the deadline keeps running until the next session with those characters.",
+  "t": "Esta es también la regla de West March de «volver a casa»: una sesión que termina con el grupo en tierras salvajes significa que el plazo sigue corriendo hasta la siguiente sesión con esos personajes."
+ },
+ "621fa975c19f": {
+  "en": "Use normal 5e death saving throws. When you die, your soul stays tied to your body while the body lasts. The dead dream of their strongest memories.",
+  "t": "Usa las tiradas de salvación contra la muerte normales de 5e. Cuando mueres, tu alma sigue atada a tu cuerpo mientras el cuerpo dure. Los muertos sueñan con sus recuerdos más fuertes."
+ },
+ "624c727b5e79": {
+  "en": "Revival debt",
+  "t": "Deuda de reanimación"
+ },
+ "6896fdd71498": {
+  "en": "Living adventurers who are found get escorted home and owe the search party's fee: **1 amethyst per rank tier** (Pearl 1, Amethyst 2, Aquamarine 3, Sapphire 4) each.",
+  "t": "A los aventureros vivos que encuentran los escoltan a casa, y cada uno debe la tarifa de la partida de búsqueda: **1 amethyst por escalón de rango** (Pearl 1, Amethyst 2, Aquamarine 3, Sapphire 4)."
+ },
+ "69a87e374172": {
+  "en": "After the window closes, the soul dissolves: the character is **Soul Dead** — gone for good.",
+  "t": "Cuando se cierra la ventana, el alma se disuelve: el personaje sufre **muerte del alma** — se va para siempre."
+ },
+ "7ffb73a274ac": {
+  "en": "Embassy revival",
+  "t": "Reanimación en la embajada"
+ },
+ "921330cd8f61": {
+  "en": "If they find bodies within the revival window, those adventurers are revived with debt — and the **quest credit and reward go to the search party**.",
+  "t": "Si encuentran cuerpos dentro de la ventana de reanimación, esos aventureros se reaniman con deuda — y **el mérito y la recompensa de la misión son para la partida de búsqueda**."
+ },
+ "a2164ec7da9f": {
+  "en": "Death, Revival & Debt",
+  "t": "Muerte, reanimación y deuda"
+ },
+ "ade41b56747d": {
+  "en": "A character who gets a **Walking Heart** (see Dangerous Places) becomes undead and **can't be revived** by normal means. Forway law treats them as soul dead.",
+  "t": "Un personaje que consigue un **Walking Heart** (ver Lugares peligrosos) se vuelve no muerto y **no se puede reanimar** por medios normales. La ley de Forway lo trata como muerto del alma."
+ },
+ "b85efb022ea2": {
+  "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
+  "t": "Muchos aventureros — y los bandidos de Fallen Tree — lo llaman esclavitud. No les falta del todo razón."
+ },
+ "c06a23abd89b": {
+  "en": "**Die again while you still owe** and Forway **drafts you into the Forway Guard**: the character retires as an NPC guard (a great recurring NPC), unless the party pays the full remaining debt plus the new debt on the spot.",
+  "t": "**Si vuelves a morir mientras aún debes**, Forway **te recluta en la Guardia de Forway**: el personaje se retira como guardia PNJ (un gran PNJ recurrente), salvo que el grupo pague en el acto toda la deuda pendiente más la nueva."
+ },
+ "c386e0c6af88": {
+  "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
+  "t": "La embajada envía una **partida de búsqueda**. Tira 1d6: son los días que tarda en llegar a la última ubicación conocida."
+ },
+ "c57e0941ead3": {
+  "en": "A soul fully drained to nothing by a soul-eating creature (Sucker Lady, Walking Flesh) is gone, unless the DM offers a quest to get it back.",
+  "t": "Un alma que una criatura devoradora de almas (Sucker Lady, Walking Flesh) ha drenado hasta dejarla en nada ha desaparecido, salvo que el DM ofrezca una misión para recuperarla."
+ },
+ "c6f4e2b98f1f": {
+  "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",
+  "t": "En el minuto siguiente a la muerte: un **bote de miel negra para reanimar** o *revivir* (la pareja de anillos Body RESTORE + Storm CREATE, Nivel III).\nMás tarde, dentro de la ventana: lleva el cuerpo a cualquier **embajada**. (Ponlo en hielo. En serio.)"
+ },
+ "c8c19b3cca9c": {
+  "en": "Quest deadlines and search parties",
+  "t": "Plazos de las misiones y partidas de búsqueda"
+ },
+ "cf75b0968dcf": {
+  "en": "In Vraki, death is usually a **financial** problem. That's the point.",
+  "t": "En Vraki, la muerte suele ser un problema **económico**. De eso se trata."
+ },
+ "d55d4b2459a3": {
+  "en": "Field revival",
+  "t": "Reanimación sobre el terreno"
+ },
+ "d63ec3733ade": {
+  "en": "A body can be revived as long as its soul hasn't detached:",
+  "t": "Un cuerpo se puede reanimar mientras su alma no se haya desprendido:"
+ },
+ "e33d7aed698a": {
+  "en": "Any embassy revives an adventurer whose body arrives within the revival window. It always works — unless the adventurer has a Walking Heart, is Hash-mutated, or the DM has a very good story reason.",
+  "t": "Cualquier embajada reanima a un aventurero cuyo cuerpo llegue dentro de la ventana de reanimación. Siempre funciona — salvo que el aventurero tenga un Walking Heart, esté mutado por Hash, o el DM tenga un motivo narrativo muy bueno."
+ },
+ "f3f30724e756": {
+  "en": "Until it's paid, **50% of every quest reward** goes to Forway. You can also pay it off with balls any time.",
+  "t": "Hasta que la pague, **el 50 % de cada recompensa de misión** va a Forway. También puedes saldarla con bolas cuando quieras."
+ }
+}

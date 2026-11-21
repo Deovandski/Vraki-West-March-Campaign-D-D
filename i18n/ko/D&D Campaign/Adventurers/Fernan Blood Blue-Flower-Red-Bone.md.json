@@ -1,0 +1,62 @@
+{
+ "0db1e1968fba": {
+  "en": "**Seeking Arrow (1/day, or 2 SP).** Automatically hits for 1d8+4.",
+  "t": "**추적 화살(1/일, 또는 2 SP).** 자동으로 명중해 1d8+4."
+ },
+ "31d4a65e1f13": {
+  "en": "**Archer's Pride.** +1 damage with bows.",
+  "t": "**궁수의 자부심.** 활 피해 +1."
+ },
+ "7f49b0e07f7c": {
+  "en": "**Shortsword.** +6 to hit, 1d6+4 slashing.",
+  "t": "**소검.** 명중 +6, 1d6+4 참격."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "특징과 특성"
+ },
+ "a8ba00cb4e90": {
+  "en": "**Canon note:** in the lore, Fernan is a famous Sapphire who \"died in Hifuna\". Play him as his **young self** in a flashback/one-shot, as a look-alike, or with your table's blessing to bend canon. The West March doesn't follow the novels, so it's your call.",
+  "t": "**원작 관련 메모:** 설정에서 페르난은 ‘히푸나에서 죽은’ 유명한 사파이어다. 회상이나 단편 시나리오에서 **젊은 시절의 그**로 플레이하거나, 닮은 사람으로 하거나, 테이블의 허락을 받아 원작을 비틀어라. 웨스트 마치는 소설을 따르지 않으니 당신이 정하면 된다."
+ },
+ "ac6e8077bfba": {
+  "en": "**People:** \"Pure\" human · **Class:** Fighter · **Background:** Sapphire Hero (young) · **Alignment:** Chaotic Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 4 (+1 extra on each long rest: Deep Soul)",
+  "t": "**종족:** ‘순수한’ 인간 · **클래스:** 파이터 · **배경:** 사파이어 영웅(젊은 시절) · **성향:** 혼돈 선 · **계급:** 펄\n**인터페이스:** 없음(시질 링을 쓸 수 없다) · **소울 포인트:** 4(긴 휴식마다 추가 +1: 깊은 영혼)"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "행동"
+ },
+ "b2f990388845": {
+  "en": "**Romantic Fool.** Disadvantage on Insight checks involving attractive Wozefaries with long hair.",
+  "t": "**낭만적인 바보.** 머리가 긴 매력적인 워제파리에스가 얽힌 통찰 판정에 불리점."
+ },
+ "bb91d72d923a": {
+  "en": "Fernan Blood Blue-Flower-Red-Bone — Level 3 Fighter (Arcane Archer-lite)",
+  "t": "페르난 블러드 블루-플라워-레드-본 — 3레벨 파이터(간이 비전 궁수)"
+ },
+ "cee7f64b59a3": {
+  "en": "**Burst Arrow (2/day, or 1 SP).** 1d6 force in a 5-ft radius on impact.",
+  "t": "**폭발 화살(2/일, 또는 1 SP).** 명중 시 반경 5피트에 1d6 역장."
+ },
+ "d85990cacf19": {
+  "en": "**Selfless Defender.** When an ally within 5 ft is hit, Fernan can use his reaction to impose disadvantage on the attack (1/day).",
+  "t": "**헌신적인 수호자.** 5피트 이내 아군이 공격에 맞으면, 페르난은 반응행동을 써서 그 공격에 불리점을 줄 수 있다(1/일)."
+ },
+ "d9b62b28d873": {
+  "en": "**Skills:** Athletics +4, Perception +3, Persuasion +5, Acrobatics +6\n**Equipment:** Masterwork bow (chitin and bone wood, Winga-beak blades for close quarters), quiver, jerky, travel cloak, a carved statue of Akemi, badge.",
+  "t": "**기술:** 운동 +4, 감지 +3, 설득 +5, 곡예 +6\n**장비:** 명품 활(키틴과 뼈나무, 근접전용 윙가 부리 칼날), 화살통, 육포, 여행용 망토, 아케미의 목각상, 신분패."
+ },
+ "efe9218cdc56": {
+  "en": "**Longbow.** +7 to hit, 1d8+5 piercing.",
+  "t": "**장궁.** 명중 +7, 1d8+5 관통."
+ },
+ "f7e160178e9a": {
+  "en": "**Born Hero.** Advantage on Persuasion checks with civilians.",
+  "t": "**타고난 영웅.** 민간인에 대한 설득 판정에 이점."
+ },
+ "ff1e39f790f0": {
+  "en": "**AC** 16 · **HP** 32 · **Speed** 30 ft\n**STR** 14 · **DEX** 18 · **CON** 14 · **INT** 11 · **WIS** 13 · **CHA** 16",
+  "t": "**AC** 16 · **HP** 32 · **이동속도** 30피트\n**근력** 14 · **민첩** 18 · **건강** 14 · **지능** 11 · **지혜** 13 · **매력** 16"
+ }
+}

@@ -1,0 +1,414 @@
+{
+ "0772d30d7679": {
+  "en": "**Walking Heart Smugglers** — Someone is selling Walking Hearts again. 4 sapphires.",
+  "t": "**沃金哈特走私者**——又有人在卖沃金哈特了。4萨菲尔。"
+ },
+ "08478901d839": {
+  "en": "3–5 amethysts",
+  "t": "3–5阿米西斯特"
+ },
+ "09c243c12be6": {
+  "en": "**The Queen Nari Worm** — Something is shaking the Nari Caverns. Protect the worms at all costs. 6 sapphires.\n9–20. *DM's choice — Sapphire quests are rarely written down.*",
+  "t": "**纳里沃姆女王**——有什么东西在撼动纳里洞窟。不惜一切代价保护那些虫子。6萨菲尔。\n9–20. *由DM决定——萨菲尔级委托很少写在纸上。*"
+ },
+ "0a2886bc7ff5": {
+  "en": "**Old Village Census** — Count the people in Old Village. They don't like counting. 1 amethyst.",
+  "t": "**老村人口普查**——数一数老村有多少人。他们不喜欢被数。1阿米西斯特。"
+ },
+ "0b41761439d2": {
+  "en": "**Teefyro Crater** — A Teefyro exploded near Tastyleaf and left something in the crater. 4 aquamarines.",
+  "t": "**蒂菲罗弹坑**——一只蒂菲罗在泰斯蒂利夫附近爆炸，在弹坑里留下了什么东西。4阿夸马林。"
+ },
+ "0e6b80be3e41": {
+  "en": "**Black Sapphire** — There's a rumor in the Palace. Forway says it's nothing. Someone paid you to look anyway. ? sapphires.",
+  "t": "**布莱克萨菲尔**——宫里有个传闻。福威说那没什么。还是有人花钱请你去查一查。？萨菲尔。"
+ },
+ "10ee5f105d84": {
+  "en": "Sample board (d20 per rank)",
+  "t": "示例委托板（每个级别d20）"
+ },
+ "10ee7e90266d": {
+  "en": "**Message Run** — Shout an embassy announcement in three villages that have no guards this week. 30 pearls.",
+  "t": "**跑腿传讯**——在三个本周没有卫兵的村子里大声宣读大使馆公告。30珀尔。"
+ },
+ "130a0f9f36df": {
+  "en": "**Wood Hammering Champion** — A tavern owner needs someone to beat the local champion and break his winning streak. 20 pearls + drinks.",
+  "t": "**敲木头冠军**——一位酒馆老板需要有人打败本地冠军，终结他的连胜。20珀尔 + 酒水。"
+ },
+ "13d5b246d22d": {
+  "en": "**Missing Person: the Tea-Drinkers' Recruit** — Borrow the badge, find him, bring him back. 5 amethysts.",
+  "t": "**寻人：蒂德林克斯的新人**——借来身份牌，找到他，把他带回来。5阿米西斯特。"
+ },
+ "140a08d03aac": {
+  "en": "**Culuim Pond** — Someone dumped weird stones in a pond near Freeish again; collect samples. 1 amethyst.",
+  "t": "**库卢伊姆池塘**——又有人往弗里伊什附近的池塘里扔了奇怪的石头；去采样。1阿米西斯特。"
+ },
+ "167f09d217bc": {
+  "en": "**Cargo: Nari Gels to Waterfall** — Fragile, expensive, and someone wants them. 6 amethysts.",
+  "t": "**货物：送往沃特福尔的纳里凝胶**——易碎、昂贵，而且有人想要。6阿米西斯特。"
+ },
+ "19f126e731b5": {
+  "en": "Quest types by rank",
+  "t": "各级别的委托类型"
+ },
+ "1d070e022003": {
+  "en": "**Sand Worm Season** — Escort chitin hunters out of Flatland (a Sayna is provided). 7 amethysts + chitin share.",
+  "t": "**桑德沃姆季节**——护送甲壳质猎人离开弗拉特兰（提供一只赛纳）。7阿米西斯特 + 甲壳质分成。"
+ },
+ "24e973a362ad": {
+  "en": "**Fuhraies Sighting** — Poachers say they saw a living Fuhraies. Get there first. 5 sapphires.",
+  "t": "**弗莱斯目击事件**——偷猎者说他们看到了一个活着的弗莱斯。抢先赶到那里。5萨菲尔。"
+ },
+ "261ed5caccd1": {
+  "en": "**Black Honey Run** — Escort honey from Sweetlake to Blood during the Drunken Sweet Sting Festival. 6 amethysts.",
+  "t": "**黑蜜运送**——在醉斯威特斯廷节期间，护送蜂蜜从斯威特莱克到布拉德。6阿米西斯特。"
+ },
+ "29f1a45c3df7": {
+  "en": "**Newland Survey** — Map a landing site. Watch out for giant sloths. 8 aquamarines.",
+  "t": "**纽兰勘测**——绘制一个登陆点的地图。小心巨型树懒。8阿夸马林。"
+ },
+ "2f8aaa2e6993": {
+  "en": "1–2 amethysts",
+  "t": "1–2阿米西斯特"
+ },
+ "3041ca399974": {
+  "en": "**Fallen Tree Lead** — A Fallen Tree spy is in the embassy lounge. Which adventurer is it? 5 aquamarines.",
+  "t": "**福伦特里线索**——大使馆休息室里有个福伦特里的间谍。是哪个冒险者？5阿夸马林。"
+ },
+ "318688c9313d": {
+  "en": "**Triangle Trouble** — Escort a Forway inspector through Triangle City without breaking the Triangle Way. 5 aquamarines.",
+  "t": "**特赖安格尔的麻烦**——护送一名福威检查员穿过特赖安格尔城，不能违反三角之道。5阿夸马林。"
+ },
+ "320a4bf5be97": {
+  "en": "**The Forest That Eats People** — Travelers keep vanishing overnight in a southern forest. 6 aquamarines.",
+  "t": "**吃人的森林**——南方一片森林里，旅人接二连三地一夜消失。6阿夸马林。"
+ },
+ "32759c5067f7": {
+  "en": "**Lighthouse Duty** — Cliffbay's keeper broke a leg; keep the fost stone wet for a week. Something keeps knocking on the door at night. 40 pearls.",
+  "t": "**灯塔值班**——克利夫贝的灯塔看守摔断了腿；让福斯特石保持湿润一周。每天夜里都有什么东西在敲门。40珀尔。"
+ },
+ "38e9a2f48365": {
+  "en": "Every embassy's Floor 1 has a **quest board**. Quests are contracts: sign with your blood, agree to the **deadline**, and the embassy will send a search party if you don't come back. The captain announces new quests every evening at **Monnalow**.",
+  "t": "每座大使馆的一楼都有一块**委托板**。委托就是合同：用你的血签名，同意**期限**，如果你没回来，大使馆会派出搜救队。队长每天傍晚在**蒙纳洛**时宣布新的委托。"
+ },
+ "3a2bca99734c": {
+  "en": "**Pussy Power Problem** — Pussy Power vigilantes beat a man half to death. He might have deserved it. Investigate. 3 aquamarines.",
+  "t": "**普西帕瓦问题**——普西帕瓦的义警把一个男人打得半死。他也许是活该。去调查。3阿夸马林。"
+ },
+ "3adaf1aecd21": {
+  "en": "**Road Crew Escort** — Watch road maintainers clearing the Long Bridge road; Wozens hunt there at night. 50 pearls.",
+  "t": "**护送修路队**——看着清理朗布里奇道路的工人；夜里有沃增在那儿狩猎。50珀尔。"
+ },
+ "3c95e59f4c3d": {
+  "en": "1–2 aquamarines",
+  "t": "1–2阿夸马林"
+ },
+ "421cfd7c957f": {
+  "en": "**Sweetlake Blood-Tribe** — The lunatic last member says he's found where his guild vanished to. 3 aquamarines.",
+  "t": "**斯威特莱克血之部族**——那个疯疯癫癫的最后一名成员说，他找到了公会消失的去处。3阿夸马林。"
+ },
+ "4358c3994478": {
+  "en": "**Bahyum: Mood Rising** — The Castle Mood hit 5. Thin the undead before it reaches 6. 4 aquamarines.",
+  "t": "**巴休姆：心情上升**——城堡心情到了5。在它升到6之前削减亡灵的数量。4阿夸马林。"
+ },
+ "4474716fd65a": {
+  "en": "Add loot: Bagarisa meat and hides, Wood People vines and wood, chitin, rare nari gel ingredients (Koalin parts are illegal!), bandit stashes (surrender them to Forway for investigation… or don't).",
+  "t": "再加上战利品：巴加里萨的肉和皮、伍德皮普尔的藤蔓和木材、甲壳质、稀有的纳里凝胶原料（科阿林的部位是违禁品！）、强盗的藏货（上交福威接受调查……或者不交）。"
+ },
+ "4a3239eb6639": {
+  "en": "**Lansha Herd** — A Lansha herd is trampling Cruro-border farms. 5 amethysts.",
+  "t": "**兰沙兽群**——一群兰沙正在践踏克鲁罗边界的农场。5阿米西斯特。"
+ },
+ "50150b6c8f89": {
+  "en": "**Hifuna Control** — Something Hash crawled down from Hifuna near Tastyleaf. 5 aquamarines.",
+  "t": "**管控希富纳**——泰斯蒂利夫附近有个哈什化的东西从希富纳爬了下来。5阿夸马林。"
+ },
+ "52cc2fa30ce6": {
+  "en": "Dangerous",
+  "t": "危险"
+ },
+ "542301db043f": {
+  "en": "**Personal Protection: A Pharaoh's Son** — Anpu (or Bata) visits Forway. They must not be insulted. 6 aquamarines.",
+  "t": "**人身保护：法老之子**——安普（或巴塔）访问福威。绝不能冒犯他。6阿夸马林。"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "阿米西斯特"
+ },
+ "588511f7d807": {
+  "en": "**Fost Stone Count** — Deliver a sack of small fost stones to a village and get them all back… somehow they always come back short. 2 pearls (seriously).",
+  "t": "**福斯特石点数**——把一袋小福斯特石送到一个村子，再全部拿回来……不知为何总是会少几块。2珀尔（真的）。"
+ },
+ "5ada3bd871c8": {
+  "en": "**Gyut Picking Guard** — Freeish farmers say something big eats pickers at dusk. 40 pearls.",
+  "t": "**守护久特采摘**——弗里伊什的农夫说，黄昏时有个大东西会吃掉采摘的人。40珀尔。"
+ },
+ "5c3db86dee54": {
+  "en": "**Soreno Scourge** — Clear the Sorenos out of a Forway grain silo before they chew through the season. 30 pearls + all the Soreno you can eat (please don't).",
+  "t": "**索雷诺之灾**——在索雷诺把这一季的粮食啃光之前，把它们赶出福威的粮仓。30珀尔 + 你能吃下的所有索雷诺（拜托别吃）。"
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "珀尔"
+ },
+ "62060836386e": {
+  "en": "**Hostel Haunting** — A Forway hostel's guests wake up with drained badges. (A Sucker Lady? A thief? Both?) 1 amethyst.",
+  "t": "**旅舍闹鬼**——福威一家旅舍的客人醒来时身份牌被吸干了。（萨克莱迪？小偷？两者都有？）1阿米西斯特。"
+ },
+ "6518d5a0d329": {
+  "en": "**Construction Assist** — Help build a Wood People wall around a new village (bring fost stones). 50 pearls.",
+  "t": "**建筑协助**——帮忙在一个新村子周围建一道伍德皮普尔墙（带上福斯特石）。50珀尔。"
+ },
+ "7127d58bfb75": {
+  "en": "10+ sapphires",
+  "t": "10萨菲尔以上"
+ },
+ "76f6798094b8": {
+  "en": "**Law Compliance: Flatland** — Investigate the ruling guilds of Flatland. Don't get caught. 4 sapphires.",
+  "t": "**守法检查：弗拉特兰**——调查统治弗拉特兰的公会。别被抓到。4萨菲尔。"
+ },
+ "7a79f00d69ab": {
+  "en": "Quest Board",
+  "t": "委托板"
+ },
+ "7c6051994e88": {
+  "en": "**Fanchaki Stampede** — A farm's Fanchakis bred out of control. 30 pearls + eggs.",
+  "t": "**凡查基狂奔**——一座农场的凡查基繁殖失控了。30珀尔 + 蛋。"
+ },
+ "7d3c7823adad": {
+  "en": "Routine",
+  "t": "日常"
+ },
+ "7dabb7688378": {
+  "en": "**The Stinger Sighting** — Find out who the gore-soaked \"Stinger\" is. Forway's curious, not hostile. 4 amethysts.",
+  "t": "**斯廷格目击事件**——查出那个浑身浴血的“斯廷格”是谁。福威只是好奇，并无敌意。4阿米西斯特。"
+ },
+ "828402e731b0": {
+  "en": "**Kidnapped Courtroom Apprentice** — Ransom note, no badge, a trail into Ganyrami. 7 aquamarines.",
+  "t": "**被绑架的宫廷学徒**——赎金信、没有身份牌、一条通往加尼拉米的踪迹。7阿夸马林。"
+ },
+ "82f30e86b10c": {
+  "en": "**Koalin Problem** — Farmers in the eastern grasslands are losing their minds. Do NOT harvest the brains. 8 amethysts.",
+  "t": "**科阿林问题**——东部草原的农夫们快疯了。绝对**不要**采集脑子。8阿米西斯特。"
+ },
+ "82f6c08644d7": {
+  "en": "**Red Winga Runaway** — A choker-wearing girl begs for protection. Red Winga has a contract. So does Forway. 4 aquamarines (or nothing, depending on whose side you take).",
+  "t": "**雷德温加的逃亡者**——一个戴着项圈的女孩乞求保护。雷德温加有合同。福威也有。4阿夸马林（或者一分没有，取决于你站哪边）。"
+ },
+ "84be65baf404": {
+  "en": "**Blue Wozens Den** — Find and raid the Blue Wozens' hidden den between Forway and Sanbi. 6 aquamarines.",
+  "t": "**布卢沃增斯巢穴**——找到并突袭布卢沃增斯藏在福威和桑比之间的巢穴。6阿夸马林。"
+ },
+ "85c565555c57": {
+  "en": "**Winga Wrangle** — A courier Winga escaped. Don't kill it (that's a crime). 1 amethyst.",
+  "t": "**抓温加**——一只信使温加跑了。别杀了它（那是犯罪）。1阿米西斯特。"
+ },
+ "87fe3c316550": {
+  "en": "**Bounty: The Bagarisa Brothers' Recruiter** — Bring him to the embassy alive. 1 aquamarine.",
+  "t": "**悬赏：巴加里萨兄弟的招募人**——把他活着带到大使馆。1阿夸马林。"
+ },
+ "8b15338336a8": {
+  "en": "4–8 aquamarines",
+  "t": "4–8阿夸马林"
+ },
+ "8fe025a79646": {
+  "en": "**Embassy cut:** posting a quest costs the poster 1 amethyst; that's not your problem.",
+  "t": "**大使馆抽成：** 发布委托要花发布者1阿米西斯特；那不是你的问题。"
+ },
+ "9289cc027422": {
+  "en": "**Lighthouse Silence** — Rich Island's lighthouse went dark; ships are wrecking. 8 amethysts.",
+  "t": "**沉默的灯塔**——里奇岛的灯塔熄灭了；船只纷纷触礁。8阿米西斯特。"
+ },
+ "9612e3645f73": {
+  "en": "**Bagarisa Ribs for the Wood People Picker** — Yosuke wants 3 fresh Bagarisas within 2 circles of Forway. 1 amethyst + a free dinner.",
+  "t": "**给伍德皮普尔采摘者的巴加里萨排骨**——洋介想要3头在福威2个圈以内猎到的新鲜巴加里萨。1阿米西斯特 + 一顿免费晚餐。"
+ },
+ "9a35f8965e36": {
+  "en": "**Smelly Killer Bagarisa** — A huge two-hearted Bagarisa with a blazing crest terrorizes Freeish hunters. 6 amethysts.",
+  "t": "**发臭的杀人巴加里萨**——一头冠子燃着火、有两颗心脏的巨型巴加里萨让弗里伊什的猎人们闻风丧胆。6阿米西斯特。"
+ },
+ "9a5b47656d13": {
+  "en": "**Archeologist Escort: Fuhrair** — Guard a historian climbing to the snow houses. 5 aquamarines.",
+  "t": "**护送考古学家：弗莱尔**——保护一位攀登去雪屋的历史学家。5阿夸马林。"
+ },
+ "9a63316724d4": {
+  "en": "**Pearl:** Soul Energy Assist, Fauna Hunting, Construction Assistance, Lighthouse Assistance, Area Surveillance (around cities), Message Spreader, Road Maintenance, Soreno pest control.",
+  "t": "**珀尔级：** 灵魂能量协助、捕猎动物、建筑协助、灯塔协助、区域巡视（城市周边）、传话、道路维护、清除索雷诺害虫。"
+ },
+ "9a7a2f37207b": {
+  "en": "**Aquamarine:** Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer (search parties), Archeologist Assistance, Bahyum control, Hifuna control, Black Magina shutdown.",
+  "t": "**阿夸马林级：** 剿灭强盗、人身保护、冒险者搜救（搜救队）、协助考古学家、管控巴休姆、管控希富纳、取缔布莱克玛吉纳。"
+ },
+ "9ebaa0d38046": {
+  "en": "**Herbs for a Healer** — Gather Girdol and Lehuj in the Freeish woods. 35 pearls.",
+  "t": "**给医者的草药**——在弗里伊什的树林里采集吉尔多和莱胡吉。35珀尔。"
+ },
+ "a025aa7bf334": {
+  "en": "**Winga Mail Thief** — Someone's shooting down courier Wingas on the Waterfall route. 7 amethysts.",
+  "t": "**温加邮件窃贼**——有人在沃特福尔航线上射落信使温加。7阿米西斯特。"
+ },
+ "a0b37b5846b2": {
+  "en": "**Village Checker: Tobame** — A Tolerideme vassal village stopped sending its booze shipments. 4 amethysts.",
+  "t": "**村庄检查员：托巴梅**——托勒里德梅的一个附庸村不再运送酒了。4阿米西斯特。"
+ },
+ "a17625c5d1a5": {
+  "en": "**Deadline:** the round trip in days at the DM's pace knob, **plus 50%**. (Example: Forway to Sanbi is 6 circles; at 2 days per circle that's 12 days each way, 24 days round trip, so the deadline is 36 days.)",
+  "t": "**期限：** 按DM速度旋钮计算的往返天数，**再加50%**。（例：福威到桑比是6个圈；每个圈2天的话，单程12天，往返24天，所以期限是36天。）"
+ },
+ "a2b22e420a26": {
+  "en": "1–3 aquamarines",
+  "t": "1–3阿夸马林"
+ },
+ "a4ff3af8d79f": {
+  "en": "**White Roundies Gone Missing** — The Freeish festival is coming and the Roundies didn't arrive. 5 amethysts.",
+  "t": "**怀特朗迪斯失踪了**——弗里伊什的节日快到了，可朗迪斯还没来。5阿米西斯特。"
+ },
+ "a6d6f3b04432": {
+  "en": "**Cruro Bag of Pearls** — Retrieve a bag of pearls from a Cruro tribe (bartering is legal with them). 5 amethysts.",
+  "t": "**克鲁罗的珀尔袋**——从一个克鲁罗部落那里取回一袋珀尔（和他们以物易物是合法的）。5阿米西斯特。"
+ },
+ "a6e1274f2e20": {
+  "en": "1–2 sapphires",
+  "t": "1–2萨菲尔"
+ },
+ "a7865b7a6450": {
+  "en": "**Amethyst:** Cargo Protection (the Alpha wagon escort! Bandits may offer you a cut to look the other way: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)), Beast Hunt, Bounty Hunting, Bandit Traps, Training Pearls, Area Surveillance (wild), Village Checker, Missing Person.",
+  "t": "**阿米西斯特级：** 货物护送（就是阿尔法版的货车护送！强盗可能会分你一份让你装没看见：[内应计划](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）、猎杀魔兽、赏金狩猎、强盗陷阱、训练珀尔、区域巡视（野外）、村庄检查员、寻人。"
+ },
+ "ac1bbc8eec8d": {
+  "en": "Big",
+  "t": "大活"
+ },
+ "b011d4e0f3c1": {
+  "en": "**Bandit Traps on the Delta** — Set traps on the trails around Deltacross where Beer Balls copycats rob travelers. 4 amethysts.",
+  "t": "**三角洲的强盗陷阱**——在德尔塔克罗斯周围的小路上设陷阱，那里有模仿比尔博尔斯的人在抢劫旅人。4阿米西斯特。"
+ },
+ "b157f3eef49e": {
+  "en": "**Failure:** fail a quest or miss the deadline without a good reason and you owe a penalty equal to **10% of the reward**. Lose a borrowed badge on a Missing Person quest and you owe **10× the reward**.",
+  "t": "**失败：** 没有正当理由却委托失败或错过期限，要付相当于**报酬10%** 的罚金。在寻人委托中弄丢借来的身份牌，要付**报酬的10倍**。"
+ },
+ "b2bef37b4135": {
+  "en": "**Sapphire:** Kingdom/Guild/Business Law Compliance (secret), Kingdom Alerts, Bahyum \"mood maxed\" sieges, deep Hifuna expeditions, anything Forway won't write down.",
+  "t": "**萨菲尔级：** 王国／公会／商业守法检查（机密）、王国警报、巴休姆“心情爆表”时的围攻、希富纳深处远征，以及福威不愿写下来的任何事。"
+ },
+ "b3f218d809f1": {
+  "en": "**Cinika Count** — Report swarm sizes on the plains for storm forecasting. 25 pearls.",
+  "t": "**西尼卡计数**——为预报暴风雨，报告平原上蝶群的大小。25珀尔。"
+ },
+ "b74df696834d": {
+  "en": "**Training Day** — Take three Pearls on their first wild hunt and bring them all back alive. 4 amethysts.",
+  "t": "**训练日**——带三个珀尔去他们的第一次野外狩猎，把他们都活着带回来。4阿米西斯特。"
+ },
+ "ba742ae45a3a": {
+  "en": "**Sweet Sting Scouting** — Map hive locations east of Sweetlake (costume provided, smells awful). 2 amethysts.",
+  "t": "**侦察斯威特斯廷**——绘制斯威特莱克以东蜂巢的位置（提供服装，臭得要命）。2阿米西斯特。"
+ },
+ "be7491c66988": {
+  "en": "**Wood People Control** — Herd or paralyze a Wood People grove that wandered onto a Tolerideme road. 5 amethysts + vines.",
+  "t": "**管控伍德皮普尔**——把一片走到托勒里德梅道路上的伍德皮普尔树林赶走或麻痹。5阿米西斯特 + 藤蔓。"
+ },
+ "c379cef16720": {
+  "en": "**Hifuna Deep** — Escort a Forway expedition to the far edge of Hifuna. Something is watching from the north. 10 sapphires.",
+  "t": "**希富纳深处**——护送一支福威远征队到希富纳的远端。北方有什么东西在注视着。10萨菲尔。"
+ },
+ "c453a3526b9c": {
+  "en": "**The Kozaku Question** — Confirm whether the Blue Wozens' boss still exists — and what he's become. 5 sapphires.",
+  "t": "**小作之谜**——确认布卢沃增斯的首领是否还存在——以及他变成了什么。5萨菲尔。"
+ },
+ "c63f32982efb": {
+  "en": "Typical rewards (per party)",
+  "t": "常见报酬（每支队伍）"
+ },
+ "c8faf4b87b34": {
+  "en": "**Reward:** paid on return with proof (a head, a heart stone, a signed receipt, the cargo delivered intact). Split as the party likes. Revival debt takes its 50% first.",
+  "t": "**报酬：** 带着证据回来时支付（一个头、一块心脏石、一张签字的收据、完好送达的货物）。队伍随意分配。有复活债的话，先扣掉50%。"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "等级"
+ },
+ "ccce7de9befb": {
+  "en": "**The Lost Pearl** — Find a missing Pearl adventurer last seen at Jack Wood. 1 amethyst.",
+  "t": "**失踪的珀尔**——找到一名最后出现在杰克伍德的失踪珀尔级冒险者。1阿米西斯特。"
+ },
+ "cdaf57cacb85": {
+  "en": "**Rank:** you can take quests at your rank or lower. A party may take a quest one rank higher if at least one member holds that rank.",
+  "t": "**级别：** 你可以接自己级别或更低级别的委托。如果至少有一名成员达到更高一级，队伍就可以接高一级的委托。"
+ },
+ "d094b59921f2": {
+  "en": "**Bridge Toll Trouble** — Someone's charging an illegal \"toll\" on a forest bridge. Report, don't punish (§2 Sub 3!). 40 pearls.",
+  "t": "**过桥费风波**——有人在森林里的一座桥上收取非法“过桥费”。上报，不要惩罚（§2第3款！）。40珀尔。"
+ },
+ "d26fbd06e0fa": {
+  "en": "**Sand Sea Raid** — The Sand Sea guild is \"capturing\" Wozefaries in the desert again. Prove it. 5 aquamarines.",
+  "t": "**沙海突袭**——沙海公会又在沙漠里“捕捉”沃泽法里斯了。拿出证据。5阿夸马林。"
+ },
+ "d50a38583194": {
+  "en": "2–5 amethysts",
+  "t": "2–5阿米西斯特"
+ },
+ "d62810f931ed": {
+  "en": "**Wagon to Sanbi** — Escort a merchant wagon from Forway to Sanbi. Blue Wozens \"tax\" this road. 5 amethysts.",
+  "t": "**去桑比的货车**——护送一辆商人的货车从福威到桑比。布卢沃增斯会在这条路上“收税”。5阿米西斯特。"
+ },
+ "d6ae25ae8ff2": {
+  "en": "**Search Party** — A Pearl party missed its deadline near Ganyrami. Bodies, alive or dead. 3 aquamarines.",
+  "t": "**搜救队**——一支珀尔队伍在加尼拉米附近错过了期限。人，不论死活。3阿夸马林。"
+ },
+ "d80bf5333290": {
+  "en": "**Black Magina Franchise** — Shut down this year's new Magina farm (they never kill — they put you to sleep). 4 aquamarines.",
+  "t": "**布莱克玛吉纳加盟点**——取缔今年新开的玛吉纳农场（他们从不杀人——只会让你睡着）。4阿夸马林。"
+ },
+ "d83c96568b4d": {
+  "en": "20–60 pearls",
+  "t": "20–60珀尔"
+ },
+ "dc4441201127": {
+  "en": "6–10 amethysts",
+  "t": "6–10阿米西斯特"
+ },
+ "dd67590636ac": {
+  "en": "**Embassy Errand** — Carry nari stone sticks to Deltacross (transport-free; theft = Forway's very unhappy). 1 amethyst.",
+  "t": "**大使馆差事**——把纳里石棒送到德尔塔克罗斯（免交通费；被偷 = 福威会非常非常不高兴）。1阿米西斯特。"
+ },
+ "e05439939503": {
+  "en": "**Fihi Fishing** — Lukewarm Lake's Fihi ate a fisher. Get the fisher's badge back. 6 amethysts.",
+  "t": "**钓菲希**——温水湖的菲希吃了一个渔夫。把渔夫的身份牌拿回来。6阿米西斯特。"
+ },
+ "e2c025692149": {
+  "en": "3–5 sapphires",
+  "t": "3–5萨菲尔"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "萨菲尔"
+ },
+ "e4fc92714186": {
+  "en": "Quest rules",
+  "t": "委托规则"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "阿夸马林"
+ },
+ "f20de1920224": {
+  "en": "**Old Fuhrair Debt Collection** — Collect a miner's debt in a town where everyone is armed. 5 amethysts.",
+  "t": "**老弗莱尔讨债**——在一个人人带武器的镇子上收一个矿工的债。5阿米西斯特。"
+ },
+ "f4ed3c816700": {
+  "en": "**Walking Flesh Loose** — A docile Walking Flesh wandered into a vassal village and the villagers named it. 3 aquamarines.",
+  "t": "**沃金·弗莱什走失**——一个温顺的沃金·弗莱什游荡进一个附庸村，村民还给它起了名字。3阿夸马林。"
+ },
+ "fb0da67bff8a": {
+  "en": "**Bahyum Siege** — The Castle Mood maxed out. Every adventurer is called. Kill the Flatheads leading the wave. 3 sapphires.",
+  "t": "**巴休姆围攻**——城堡心情爆表了。所有冒险者都被召集。干掉带领这波亡灵的弗拉特黑德。3萨菲尔。"
+ },
+ "fdc76f692443": {
+  "en": "**Nari Cache Recovery** — Recover a stolen nari stone cache before it's sold. 6 aquamarines.",
+  "t": "**追回纳里石藏货**——在被卖掉之前追回一批被盗的纳里石。6阿夸马林。"
+ },
+ "ffdbc3de6ef7": {
+  "en": "**Endlessboil Samples** — Scientists want water from the boiling lake. 4 aquamarines.",
+  "t": "**恩德莱斯博伊尔样本**——科学家们想要沸腾湖里的水。4阿夸马林。"
+ }
+}

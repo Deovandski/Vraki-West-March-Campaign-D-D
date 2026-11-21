@@ -9,6 +9,8 @@
   const store = VW.store;
   const app = VW.app;
   const dice = VW.dice;
+  const { __, N_ } = VW.i18n;
+  const nDays = (n) => __.n(n, "{n} day", "{n} days");
 
   /* ---------------- calendar ---------------- */
   const MONTHS = [["Asa", 85], ["Paulin", 110], ["Moacir", 85], ["Adrian", 85]];
@@ -21,27 +23,33 @@
     while (d < 1) { mi--; if (mi < 0) { mi = 3; y--; } d += MONTHS[mi][1]; }
     return { month: MONTHS[mi][0], day: d, year: y };
   }
-  const fmtDate = (d, year) => d.month + " " + ord(d.day) + (year ? ", " + d.year + " A.G." : "");
-  VW.calendar = { MONTHS, WEEKDAYS, addDays, fmtDate, ord };
+  // Months and weekdays are stored in English (save files work in every language) and shown by their glossary spelling.
+  const monthName = (m) => VW.i18n.term(m);
+  const dayName = (w) => VW.i18n.term(w);
+  const fmtDate = (d, year) => {
+    const day = VW.i18n.lang === "en" ? ord(d.day) : d.day;
+    return year ? __("{month} {day}, {year} A.G.", { month: monthName(d.month), day, year: d.year }) : __("{month} {day}", { month: monthName(d.month), day });
+  };
+  VW.calendar = { MONTHS, WEEKDAYS, addDays, fmtDate, ord, monthName, dayName };
 
   const SHIFTS = [
-    { id: "graveyard", name: "Graveyard", time: "12am–6am", always: true },
-    { id: "morning", name: "Morning", time: "6am–12pm" },
-    { id: "afternoon", name: "Afternoon", time: "12pm–6pm" },
-    { id: "night", name: "Night", time: "6pm–12am", always: true }
+    { id: "graveyard", name: __("Graveyard"), time: __("12am–6am"), always: true },
+    { id: "morning", name: __("Morning"), time: __("6am–12pm") },
+    { id: "afternoon", name: __("Afternoon"), time: __("12pm–6pm") },
+    { id: "night", name: __("Night"), time: __("6pm–12am"), always: true }
   ];
   const TYPES = [
-    ["", "Not rolled"], ["quiet", "Quiet"], ["omen", "Sign or omen"], ["encounter", "Encounter"],
-    ["insidejob", "Inside Job offer"], ["custom", "Your own event"]
+    ["", __("Not rolled")], ["quiet", __("Quiet")], ["omen", __("Sign or omen")], ["encounter", __("Encounter")],
+    ["insidejob", __("Inside Job offer")], ["custom", __("Your own event")]
   ];
   const typeName = (t) => (TYPES.find((x) => x[0] === t) || TYPES[0])[1];
-  const PACE = { 1: "Fast", 2: "Standard", 3: "Slow" };
+  const PACE = { 1: __("Fast"), 2: __("Standard"), 3: __("Slow") };
 
   /* ---------------- trip model ---------------- */
   function newTrip(data, name) {
     const c = store.state.campaign.date || { month: "Moacir", day: 1, year: 1042 };
     return {
-      id: uid("t"), name: name || "New trip", from: "Forway", to: "",
+      id: uid("t"), name: name || __("New trip"), from: "Forway", to: "",
       region: (data.regions[0] || {}).id || "", escort: false, valuable: false,
       rollDay: false, danger: false, mode: "shift",
       start: { month: c.month, day: c.day, year: c.year, weekday: "" },
@@ -80,7 +88,8 @@
     const out = [];
     VW.parse.spawnsFor(VW.parse.stripMd(text), data.creatures).forEach((sp) => {
       const n = Math.max(1, /d/.test(sp.count) ? dice.rollTotal(sp.count) : num(sp.count, 1));
-      const base = (sp.hash ? "Hash " : "") + (sp.label || sp.ref.name.split(" / ")[0]);
+      const who = sp.label ? VW.content.nameL(sp.label) : (sp.ref.label || sp.ref.name).split(" / ")[0];
+      const base = sp.hash ? __("Hash {name}", { name: who }) : who;
       for (let i = 0; i < n; i++) {
         const hp = (sp.ref.hp || 10) * (sp.hash ? 2 : 1);
         out.push({ id: uid("k"), name: base + (n > 1 ? " " + (i + 1) : ""), ref: sp.ref.id, ac: sp.ref.ac || 10, hp, max: hp, init: "", cond: "", hash: !!sp.hash });
@@ -92,20 +101,20 @@
   function entryEvent(data, regionId, entryIdx, type) {
     const r = regionById(data, regionId);
     const text = r.entries[entryIdx] || "";
-    const plain = VW.parse.stripMd(text);
-    const title = plain.split(/\s+—\s+|\s\(|;\s|:\s/)[0];
-    const ev = { type, region: r.id, entry: entryIdx, title: type === "omen" ? "Sign of: " + title : title, text: plain, notes: "", combatants: [], resolved: false, round: 1, turn: 0 };
+    const plain = VW.parse.stripMd((r.entriesL || r.entries)[entryIdx] || text);
+    const title = plain.split(/\s+—\s+|\s\(|\s?（|;\s|:\s|：|；/)[0];
+    const ev = { type, region: r.id, entry: entryIdx, title: type === "omen" ? __("Sign of: {what}", { what: title }) : title, text: plain, notes: "", combatants: [], resolved: false, round: 1, turn: 0 };
     if (type === "encounter") {
       if (/^roll twice/i.test(plain)) {
         const picks = [];
         while (picks.length < 2) { const i = dice.die(r.entries.length - 1) - 1; if (!picks.includes(i)) picks.push(i); }
-        const a = picks.map((i) => VW.parse.stripMd(r.entries[i]));
-        ev.title = "Two things at once";
-        ev.text = "Rolled twice: (1) " + a[0] + " (2) " + a[1];
+        const a = picks.map((i) => VW.parse.stripMd((r.entriesL || r.entries)[i]));
+        ev.title = __("Two things at once");
+        ev.text = __("Rolled twice: (1) {a} (2) {b}", { a: a[0], b: a[1] });
         ev.combatants = picks.flatMap((i) => makeCombatants(data, r.entries[i]));
       } else ev.combatants = makeCombatants(data, text);
     } else if (type === "omen") {
-      ev.text = "Something hints at this: " + plain + " (tracks, smoke, a rumor, a corpse).";
+      ev.text = __("Something hints at this: {what} (tracks, smoke, a rumor, a corpse).", { what: plain });
     }
     return ev;
   }
@@ -116,11 +125,11 @@
     const enc = t.danger ? 2 : 1;
     if (d6 <= enc) { const d12 = dice.die(12); const ev = entryEvent(data, regionId, d12 - 1, "encounter"); ev.roll = "d6 " + d6 + ", d12 " + d12; return ev; }
     if (d6 === enc + 1) { const d12 = dice.die(12); const ev = entryEvent(data, regionId, d12 - 1, "omen"); ev.roll = "d6 " + d6 + ", d12 " + d12; return ev; }
-    return { type: "quiet", title: "Quiet", text: "Nothing happens. Describe the scenery, or the food.", notes: "", combatants: [], roll: "d6 " + d6, resolved: false };
+    return { type: "quiet", title: __("Quiet"), text: __("Nothing happens. Describe the scenery, or the food."), notes: "", combatants: [], roll: "d6 " + d6, resolved: false };
   }
 
   function insideJobEvent(when) {
-    return { type: "insidejob", title: "The Inside Job offer", text: (when || "") + "A go-between offers the party a cut for helping the bandits rob the cargo they're guarding.", notes: "", combatants: [], resolved: false, ij: {} };
+    return { type: "insidejob", title: __("The Inside Job offer"), text: (when || "") + __("A go-between offers the party a cut for helping the bandits rob the cargo they're guarding."), notes: "", combatants: [], resolved: false, ij: {} };
   }
 
   function autofill(data, t) {
@@ -130,7 +139,7 @@
       t.departure = { d6, offer: d6 <= need };
       if (d6 <= need && t.circles[0]) {
         const k = keyOf(t.circles[0].id, 0, "morning");
-        t.events[k] = insideJobEvent("At departure, while the party preps. ");
+        t.events[k] = insideJobEvent(__("At departure, while the party preps.") + " ");
         t.events[k].roll = "departure d6 " + d6;
         filled++;
       }
@@ -161,7 +170,7 @@
   /* ---------------- rendering ---------------- */
   const regionOptions = (data, value, inheritLabel) =>
     (inheritLabel ? `<option value="">${esc(inheritLabel)}</option>` : "") +
-    data.regions.map((r) => `<option value="${r.id}"${r.id === value ? " selected" : ""}>${esc(r.name)}</option>`).join("");
+    data.regions.map((r) => `<option value="${r.id}"${r.id === value ? " selected" : ""}>${esc(r.label || r.name)}</option>`).join("");
 
   function dotClass(ev) {
     if (!ev || !ev.type) return "none";
@@ -173,9 +182,9 @@
     const s = store.state;
     if (!s.trips.length) {
       m.innerHTML = `<div class="page wide tool travel">
-        <h1>Travel planner</h1>
-        <p class="lede">Lay out a trip circle by circle, the way the <a href="#/t/map">travel map</a> draws it. Pick how many days each circle takes, roll the events the rules call for (or set them yourself), then run each shift: monsters, HP, initiative and notes.</p>
-        <div class="empty"><p>No trips yet.</p><button class="btn primary" data-action="trip-new">Plan a trip</button></div></div>`;
+        <h1>${__("Travel planner")}</h1>
+        <p class="lede">${__('Lay out a trip circle by circle, the way the <a href="#/t/map">travel map</a> draws it. Pick how many days each circle takes, roll the events the rules call for (or set them yourself), then run each shift: monsters, HP, initiative and notes.')}</p>
+        <div class="empty"><p>${__("No trips yet.")}</p><button class="btn primary" data-action="trip-new">${__("Plan a trip")}</button></div></div>`;
       return;
     }
     let t = trip();
@@ -193,75 +202,75 @@
 
     m.innerHTML = `<div class="page wide tool travel">
       <div class="tool-head">
-        <h1>Travel planner</h1>
+        <h1>${__("Travel planner")}</h1>
         <div class="trip-pick">
-          <label class="sr" for="trip-select">Trip</label>
-          <select id="trip-select" data-action="trip-pick">${s.trips.map((x) => `<option value="${x.id}"${x.id === t.id ? " selected" : ""}>${esc(x.name || "Untitled trip")}</option>`).join("")}</select>
-          <button class="btn" data-action="trip-new">New trip</button>
-          <button class="btn quiet" data-action="trip-delete">Delete trip</button>
+          <label class="sr" for="trip-select">${__("Trip")}</label>
+          <select id="trip-select" data-action="trip-pick">${s.trips.map((x) => `<option value="${x.id}"${x.id === t.id ? " selected" : ""}>${esc(x.name || __("Untitled trip"))}</option>`).join("")}</select>
+          <button class="btn" data-action="trip-new">${__("New trip")}</button>
+          <button class="btn quiet" data-action="trip-delete">${__("Delete trip")}</button>
         </div>
       </div>
 
       <details class="trip-setup" ${Object.keys(t.events).length ? "" : "open"}>
-        <summary>Trip settings</summary>
+        <summary>${__("Trip settings")}</summary>
         <div class="setup-grid">
-          <label class="f wide2"><span class="f-label">Trip name</span><input id="trip-name" data-bind="${tp(t)}.name" value="${esc(t.name)}" data-rerender></label>
-          <label class="f"><span class="f-label">From</span><input data-bind="${tp(t)}.from" value="${esc(t.from)}" list="map-places"></label>
-          <label class="f"><span class="f-label">To</span><input data-bind="${tp(t)}.to" value="${esc(t.to)}" list="map-places"></label>
-          <datalist id="map-places">${VW.routes.places(data).map((p) => `<option value="${esc(p)}">`).join("")}</datalist>
-          <div class="f wide2 map-count"><span class="f-label">Circles from the map</span>
-            <div><button class="btn" data-action="trip-from-map">Count circles from the map</button> <a class="btn quiet" href="#/t/map">Open the map</a></div>
-            <span class="f-hint">Sets the circles (and each one's encounter table) from the route between From and To.</span></div>
-          <label class="f wide2"><span class="f-label">Region (encounter table)</span><select data-bind="${tp(t)}.region" data-rerender>${regionOptions(data, t.region)}</select>
-            <span class="f-hint">Circles can override this below, for trips that cross regions.</span></label>
-          <div class="f"><span class="f-label">Circles on the map</span>
-            <div class="stepper"><button class="icon-btn" data-action="circles" data-d="-1" aria-label="One circle fewer">−</button>
+          <label class="f wide2"><span class="f-label">${__("Trip name")}</span><input id="trip-name" data-bind="${tp(t)}.name" value="${esc(t.name)}" data-rerender></label>
+          <label class="f"><span class="f-label">${__("From")}</span><input data-bind="${tp(t)}.from" value="${esc(t.from)}" list="map-places"></label>
+          <label class="f"><span class="f-label">${__("To")}</span><input data-bind="${tp(t)}.to" value="${esc(t.to)}" list="map-places"></label>
+          <datalist id="map-places">${VW.routes.places(data).map((p) => `<option value="${esc(p)}">${p !== VW.content.nameL(p) ? esc(VW.content.nameL(p)) : ""}</option>`).join("")}</datalist>
+          <div class="f wide2 map-count"><span class="f-label">${__("Circles from the map")}</span>
+            <div><button class="btn" data-action="trip-from-map">${__("Count circles from the map")}</button> <a class="btn quiet" href="#/t/map">${__("Open the map")}</a></div>
+            <span class="f-hint">${__("Sets the circles (and each one's encounter table) from the route between From and To.")}</span></div>
+          <label class="f wide2"><span class="f-label">${__("Region (encounter table)")}</span><select data-bind="${tp(t)}.region" data-rerender>${regionOptions(data, t.region)}</select>
+            <span class="f-hint">${__("Circles can override this below, for trips that cross regions.")}</span></label>
+          <div class="f"><span class="f-label">${__("Circles on the map")}</span>
+            <div class="stepper"><button class="icon-btn" data-action="circles" data-d="-1" aria-label="${__("One circle fewer")}">−</button>
               <output aria-live="polite">${t.circles.length}</output>
-              <button class="icon-btn" data-action="circles" data-d="1" aria-label="One more circle">+</button></div></div>
-          <div class="f"><span class="f-label">Days per circle, all circles</span>
-            <div class="seg" role="group" aria-label="Days per circle for every circle">${[1, 2, 3].map((p) => `<button data-action="pace-all" data-p="${p}" aria-pressed="${t.circles.every((c) => +c.pace === p)}">${p} <small>${PACE[p]}</small></button>`).join("")}</div></div>
-          <div class="f wide2"><span class="f-label">First day of the trip</span>
+              <button class="icon-btn" data-action="circles" data-d="1" aria-label="${__("One more circle")}">+</button></div></div>
+          <div class="f"><span class="f-label">${__("Days per circle, all circles")}</span>
+            <div class="seg" role="group" aria-label="${__("Days per circle for every circle")}">${[1, 2, 3].map((p) => `<button data-action="pace-all" data-p="${p}" aria-pressed="${t.circles.every((c) => +c.pace === p)}">${p} <small>${PACE[p]}</small></button>`).join("")}</div></div>
+          <div class="f wide2"><span class="f-label">${__("First day of the trip")}</span>
             <div class="date-row">
-              <select data-bind="${tp(t)}.start.month" data-rerender aria-label="Month">${MONTHS.map(([mo]) => `<option${t.start.month === mo ? " selected" : ""}>${mo}</option>`).join("")}</select>
-              <input type="number" min="1" max="110" data-bind="${tp(t)}.start.day" data-rerender value="${esc(t.start.day)}" aria-label="Day">
-              <input type="number" data-bind="${tp(t)}.start.year" data-rerender value="${esc(t.start.year)}" aria-label="Year"><span class="unit">A.G.</span>
-              <select data-bind="${tp(t)}.start.weekday" data-rerender aria-label="Weekday"><option value="">Weekday (optional)</option>${WEEKDAYS.map((w) => `<option${t.start.weekday === w ? " selected" : ""}>${w}</option>`).join("")}</select>
+              <select data-bind="${tp(t)}.start.month" data-rerender aria-label="${__("Month")}">${MONTHS.map(([mo]) => `<option value="${mo}"${t.start.month === mo ? " selected" : ""}>${esc(monthName(mo))}</option>`).join("")}</select>
+              <input type="number" min="1" max="110" data-bind="${tp(t)}.start.day" data-rerender value="${esc(t.start.day)}" aria-label="${__("Day")}">
+              <input type="number" data-bind="${tp(t)}.start.year" data-rerender value="${esc(t.start.year)}" aria-label="${__("Year")}"><span class="unit">A.G.</span>
+              <select data-bind="${tp(t)}.start.weekday" data-rerender aria-label="${__("Weekday")}"><option value="">${__("Weekday (optional)")}</option>${WEEKDAYS.map((w) => `<option value="${w}"${t.start.weekday === w ? " selected" : ""}>${esc(dayName(w))}</option>`).join("")}</select>
             </div></div>
-          <fieldset class="f wide2 checks"><legend class="f-label">How events are rolled</legend>
-            <label><input type="radio" name="mode" value="shift" data-bind="${tp(t)}.mode"${t.mode !== "circle" ? " checked" : ""} data-rerender> Every Graveyard and Night shift</label>
-            <label><input type="radio" name="mode" value="circle" data-bind="${tp(t)}.mode"${t.mode === "circle" ? " checked" : ""} data-rerender> Once per circle (faster for long trips)</label>
-            <label><input type="checkbox" data-bind="${tp(t)}.rollDay"${t.rollDay ? " checked" : ""}> Roll Morning and Afternoon too</label>
-            <label><input type="checkbox" data-bind="${tp(t)}.danger"${t.danger ? " checked" : ""}> Dangerous trip: encounters on 1–2 (slow country, night, loud or smelly party, valuable cargo)</label>
+          <fieldset class="f wide2 checks"><legend class="f-label">${__("How events are rolled")}</legend>
+            <label><input type="radio" name="mode" value="shift" data-bind="${tp(t)}.mode"${t.mode !== "circle" ? " checked" : ""} data-rerender> ${__("Every Graveyard and Night shift")}</label>
+            <label><input type="radio" name="mode" value="circle" data-bind="${tp(t)}.mode"${t.mode === "circle" ? " checked" : ""} data-rerender> ${__("Once per circle (faster for long trips)")}</label>
+            <label><input type="checkbox" data-bind="${tp(t)}.rollDay"${t.rollDay ? " checked" : ""}> ${__("Roll Morning and Afternoon too")}</label>
+            <label><input type="checkbox" data-bind="${tp(t)}.danger"${t.danger ? " checked" : ""}> ${__("Dangerous trip: encounters on 1–2 (slow country, night, loud or smelly party, valuable cargo)")}</label>
           </fieldset>
-          <fieldset class="f wide2 checks"><legend class="f-label">Cargo</legend>
-            <label><input type="checkbox" data-bind="${tp(t)}.escort"${t.escort ? " checked" : ""} data-rerender> This is a cargo escort (the Inside Job offer can happen)</label>
-            <label><input type="checkbox" data-bind="${tp(t)}.valuable"${t.valuable ? " checked" : ""}> Valuable cargo (offer at departure on 1–2)</label>
-            ${t.departure ? `<p class="muted">Departure roll: d6 ${t.departure.d6}, ${t.departure.offer ? "the offer comes before they leave." : "no offer at departure."} <button class="link" data-action="dep-clear">Roll again next fill</button></p>` : ""}
+          <fieldset class="f wide2 checks"><legend class="f-label">${__("Cargo")}</legend>
+            <label><input type="checkbox" data-bind="${tp(t)}.escort"${t.escort ? " checked" : ""} data-rerender> ${__("This is a cargo escort (the Inside Job offer can happen)")}</label>
+            <label><input type="checkbox" data-bind="${tp(t)}.valuable"${t.valuable ? " checked" : ""}> ${__("Valuable cargo (offer at departure on 1–2)")}</label>
+            ${t.departure ? `<p class="muted">${__("Departure roll: d6 {n}, {what}", { n: t.departure.d6, what: t.departure.offer ? __("the offer comes before they leave.") : __("no offer at departure.") })} <button class="link" data-action="dep-clear">${__("Roll again next fill")}</button></p>` : ""}
           </fieldset>
         </div>
       </details>
 
       <div class="trip-actions">
-        <button class="btn primary" data-action="autofill">Roll events for empty shifts</button>
-        <button class="btn" data-action="clear-events">Clear all events</button>
-        <a class="btn" href="#/t/trip-print">Print or save as PDF</a>
-        <p class="trip-sum">${total ? `<b>${VW.util.plural(total, "day")}</b> one way · ${fmtDate(t.start)} to ${fmtDate(end.date)} · deadline <b>${VW.util.plural(deadline, "day")}</b> if they come back the same way · <b>${round * partySize()}</b> rations for ${partySize()} people` : "Add a circle to start."}</p>
-        <p class="trip-sum muted">${VW.util.plural(counts.encounter, "encounter")}, ${VW.util.plural(counts.omen, "sign")}${counts.insidejob ? ", the Inside Job offer" : ""}${counts.custom ? ", " + counts.custom + " of your own" : ""}. ${counts.open} still to run.</p>
+        <button class="btn primary" data-action="autofill">${__("Roll events for empty shifts")}</button>
+        <button class="btn" data-action="clear-events">${__("Clear all events")}</button>
+        <a class="btn" href="#/t/trip-print">${__("Print or save as PDF")}</a>
+        <p class="trip-sum">${total ? __("<b>{days}</b> one way · {start} to {end} · deadline <b>{deadline}</b> if they come back the same way · <b>{rations}</b> rations for {people} people", { days: nDays(total), start: fmtDate(t.start), end: fmtDate(end.date), deadline: nDays(deadline), rations: round * partySize(), people: partySize() }) : __("Add a circle to start.")}</p>
+        <p class="trip-sum muted">${[__.n(counts.encounter, "{n} encounter", "{n} encounters"), __.n(counts.omen, "{n} sign", "{n} signs"), counts.insidejob ? __("the Inside Job offer") : "", counts.custom ? __("{n} of your own", { n: counts.custom }) : ""].filter(Boolean).join(__(", "))}. ${__("{n} still to run.", { n: counts.open })}</p>
       </div>
 
-      <ol class="route" aria-label="Circles on this trip">${t.circles.map((c, ci) => {
+      <ol class="route" aria-label="${__("Circles on this trip")}">${t.circles.map((c, ci) => {
         const evs = []; for (let d = 0; d < c.pace; d++) SHIFTS.forEach((sh) => evs.push(t.events[keyOf(c.id, d, sh.id)]));
         const startAbs = t.circles.slice(0, ci).reduce((a, x) => a + num(x.pace, 2), 0);
         return `<li><button class="circle ${c.id === selCircle.id ? "on" : ""}" data-action="pick-circle" data-cid="${c.id}" aria-pressed="${c.id === selCircle.id}"
-          aria-label="Circle ${ci + 1}, ${VW.util.plural(+c.pace, "day")}">
-          <span class="c-num">${ci + 1}</span><span class="c-days">${VW.util.plural(+c.pace, "day")}</span>
+          aria-label="${__("Circle {n}, {days}", { n: ci + 1, days: nDays(+c.pace) })}">
+          <span class="c-num">${ci + 1}</span><span class="c-days">${nDays(+c.pace)}</span>
           <span class="c-dots">${evs.map((e) => `<i class="${dotClass(e)}"></i>`).join("")}</span></button>
           <span class="c-date">${fmtDate(addDays(t.start, startAbs))}</span></li>`;
       }).join("")}</ol>
 
       ${selCircle ? renderCircle(data, t, selCircle) : ""}
       <div id="event-panel">${renderEvent(data, t)}</div>
-      <label class="f trip-notes"><span class="f-label">Trip notes</span><textarea rows="3" data-bind="${tp(t)}.notes">${esc(t.notes)}</textarea></label>
+      <label class="f trip-notes"><span class="f-label">${__("Trip notes")}</span><textarea rows="3" data-bind="${tp(t)}.notes">${esc(t.notes)}</textarea></label>
     </div>`;
   }
 
@@ -274,27 +283,28 @@
     let rows = "";
     for (let d = 0; d < c.pace; d++) {
       const { date, weekday } = dateFor(t, startAbs + d);
-      rows += `<div class="day"><div class="day-label"><b>Day ${startAbs + d + 1}</b><span>${fmtDate(date)}${weekday ? ", " + weekday : ""}</span></div>
+      rows += `<div class="day"><div class="day-label"><b>${__("Day {n}", { n: startAbs + d + 1 })}</b><span>${fmtDate(date)}${weekday ? __(", ") + esc(dayName(weekday)) : ""}</span></div>
         <div class="shifts">${SHIFTS.map((sh) => {
           const k = keyOf(c.id, d, sh.id);
           const ev = t.events[k];
           const on = t.sel === k;
-          const label = ev && ev.type ? (ev.type === "quiet" ? "Quiet" : ev.title || typeName(ev.type)) : (sh.always || t.rollDay ? "Not rolled" : "—");
+          const label = ev && ev.type ? (ev.type === "quiet" ? __("Quiet") : ev.title || typeName(ev.type)) : (sh.always || t.rollDay ? __("Not rolled") : "—");
           return `<button class="shift ${sh.id} ${ev && ev.type ? "has " + ev.type : "unset"} ${ev && ev.resolved ? "done" : ""} ${on ? "on" : ""}" data-action="pick-shift" data-key="${k}" aria-pressed="${on}">
             <span class="s-name">${sh.name}<small>${sh.time}</small></span>
-            <span class="s-ev">${esc(label)}</span>
-            ${ev && ev.combatants && ev.combatants.some((x) => !x.partyId) ? `<span class="s-count">${VW.util.plural(ev.combatants.filter((x) => !x.partyId).length, "foe")}</span>` : ""}
+            <span class="s-ev">${ev && ev.type === "omen" ? `<span class="s-tag">${__("Sign")} · </span>` : ev && ev.type === "custom" ? `<span class="s-tag">${__("Yours")} · </span>` : ""}${esc(label)}</span>
+            ${ev && ev.combatants && ev.combatants.some((x) => !x.partyId) ? `<span class="s-count">${__.n(ev.combatants.filter((x) => !x.partyId).length, "{n} foe", "{n} foes")}</span>` : ""}
           </button>`;
         }).join("")}</div></div>`;
     }
-    return `<section class="circle-detail" aria-label="Circle ${ci + 1}">
+    const rl = regionById(data, t.region);
+    return `<section class="circle-detail" aria-label="${__("Circle {n}", { n: ci + 1 })}">
       <div class="cd-head">
-        <h2>Circle ${ci + 1} <span class="muted">of ${t.circles.length}</span></h2>
-        <div class="seg small" role="group" aria-label="Days for this circle">${[1, 2, 3].map((p) => `<button data-action="pace" data-cid="${c.id}" data-p="${p}" aria-pressed="${+c.pace === p}">${VW.util.plural(p, "day")}</button>`).join("")}</div>
-        <label class="inline">Region <select data-bind="${tp(t)}.circles.${ci}.region" data-rerender>${regionOptions(data, c.region, "Same as trip (" + regionById(data, t.region).name + ")")}</select></label>
-        <input class="c-label" data-bind="${tp(t)}.circles.${ci}.label" value="${esc(c.label || "")}" placeholder="Label, like Long Bridge" aria-label="Label for this circle">
+        <h2>${__("Circle {n} <span class=\"muted\">of {total}</span>", { n: ci + 1, total: t.circles.length })}</h2>
+        <div class="seg small" role="group" aria-label="${__("Days for this circle")}">${[1, 2, 3].map((p) => `<button data-action="pace" data-cid="${c.id}" data-p="${p}" aria-pressed="${+c.pace === p}">${nDays(p)}</button>`).join("")}</div>
+        <label class="inline">${__("Region")} <select data-bind="${tp(t)}.circles.${ci}.region" data-rerender>${regionOptions(data, c.region, __("Same as trip ({region})", { region: rl.label || rl.name }))}</select></label>
+        <input class="c-label" data-bind="${tp(t)}.circles.${ci}.label" value="${esc(c.label || "")}" placeholder="${__("Label, like Long Bridge")}" aria-label="${__("Label for this circle")}">
       </div>
-      <p class="muted small">Encounters here use the ${esc(r.name)} table${r.places ? " (" + esc(r.places) + ")" : ""}.</p>
+      <p class="muted small">${r.places ? __("Encounters here use the {region} table ({places}).", { region: esc(r.label || r.name), places: esc(r.placesL || r.places) }) : __("Encounters here use the {region} table.", { region: esc(r.label || r.name) })}</p>
       ${rows}
     </section>`;
   }
@@ -319,31 +329,31 @@
     const has = !!t.events[k];
     return `<section class="event ${ev.type || "none"}" aria-labelledby="ev-h">
       <div class="ev-head">
-        <h2 id="ev-h">Day ${loc.abs + 1}, ${loc.shift.name} <span class="muted">${loc.shift.time} · ${fmtDate(date)}${weekday ? ", " + weekday : ""}</span></h2>
+        <h2 id="ev-h">${__("Day {n}, {shift}", { n: loc.abs + 1, shift: loc.shift.name })} <span class="muted">${loc.shift.time} · ${fmtDate(date)}${weekday ? __(", ") + esc(dayName(weekday)) : ""}</span></h2>
         <div class="ev-tools">
-          <button class="btn" data-action="ev-roll">Roll this shift</button>
-          ${has ? `<button class="btn quiet" data-action="ev-clear">Clear</button>` : ""}
+          <button class="btn" data-action="ev-roll">${__("Roll this shift")}</button>
+          ${has ? `<button class="btn quiet" data-action="ev-clear">${__("Clear")}</button>` : ""}
         </div>
       </div>
-      <div class="ev-type seg" role="radiogroup" aria-label="What happens">${TYPES.map(([v, n]) => `<button role="radio" data-action="ev-type" data-type="${v}" aria-checked="${(ev.type || "") === v}">${n}</button>`).join("")}</div>
+      <div class="ev-type seg" role="radiogroup" aria-label="${__("What happens")}">${TYPES.map(([v, n]) => `<button role="radio" data-action="ev-type" data-type="${v}" aria-checked="${(ev.type || "") === v}">${n}</button>`).join("")}</div>
       ${ev.type ? `
         ${ev.type === "encounter" || ev.type === "omen" ? `
           <div class="frow ev-pick">
-            <label class="f"><span class="f-label">Table</span><select data-action="ev-region" aria-label="Encounter table">${regionOptions(data, regionId)}</select></label>
-            <label class="f grow"><span class="f-label">Entry</span><select data-action="ev-entry" aria-label="Table entry">
-              <option value="">Pick an entry…</option>${r.entries.map((e, i) => `<option value="${i}"${ev.entry === i && ev.region === r.id ? " selected" : ""}>${i + 1}. ${esc(VW.parse.stripMd(e)).slice(0, 90)}</option>`).join("")}</select></label>
-            <button class="btn" data-action="ev-d12">Roll d12</button>
+            <label class="f"><span class="f-label">${__("Table")}</span><select data-action="ev-region" aria-label="${__("Encounter table")}">${regionOptions(data, regionId)}</select></label>
+            <label class="f grow"><span class="f-label">${__("Entry")}</span><select data-action="ev-entry" aria-label="${__("Table entry")}">
+              <option value="">${__("Pick an entry…")}</option>${(r.entriesL || r.entries).map((e, i) => `<option value="${i}"${ev.entry === i && ev.region === r.id ? " selected" : ""}>${i + 1}. ${esc(VW.parse.stripMd(e).slice(0, 90))}</option>`).join("")}</select></label>
+            <button class="btn" data-action="ev-d12">${__("Roll d12")}</button>
           </div>` : ""}
         <div class="frow">
-          <label class="f grow"><span class="f-label">Title</span><input data-bind="${base}.title" id="ev-title" value="${esc(ev.title || "")}" data-rerender></label>
-          <label class="f check"><input type="checkbox" data-bind="${base}.resolved" data-rerender${ev.resolved ? " checked" : ""}> Done</label>
+          <label class="f grow"><span class="f-label">${__("Title")}</span><input data-bind="${base}.title" id="ev-title" value="${esc(ev.title || "")}" data-rerender></label>
+          <label class="f check"><input type="checkbox" data-bind="${base}.resolved" data-rerender${ev.resolved ? " checked" : ""}> ${__("Done")}</label>
         </div>
-        <label class="f"><span class="f-label">What the party sees</span><textarea rows="2" data-bind="${base}.text">${esc(ev.text || "")}</textarea></label>
-        <label class="f"><span class="f-label">DM notes</span><textarea rows="2" data-bind="${base}.notes" placeholder="Who was on watch, what they did, loot, consequences…">${esc(ev.notes || "")}</textarea></label>
-        ${ev.roll ? `<p class="muted small">Rolled: ${esc(ev.roll)}</p>` : ""}
+        <label class="f"><span class="f-label">${__("What the party sees")}</span><textarea rows="2" data-bind="${base}.text">${esc(ev.text || "")}</textarea></label>
+        <label class="f"><span class="f-label">${__("DM notes")}</span><textarea rows="2" data-bind="${base}.notes" placeholder="${__("Who was on watch, what they did, loot, consequences…")}">${esc(ev.notes || "")}</textarea></label>
+        ${ev.roll ? `<p class="muted small">${__("Rolled: {roll}", { roll: esc(ev.roll) })}</p>` : ""}
         ${ev.type === "insidejob" ? renderInsideJob(data, ev, base) : ""}
         ${ev.type !== "quiet" ? renderCombat(data, t, ev, base) : ""}
-      ` : `<p class="muted">Nothing set for this shift. Roll it, or pick what happens above.</p>`}
+      ` : `<p class="muted">${__("Nothing set for this shift. Roll it, or pick what happens above.")}</p>`}
     </section>`;
   }
 
@@ -353,7 +363,7 @@
     if (c.partyId) {
       const p = party(c.partyId);
       if (!p) return null;
-      return { name: p.name || "Unnamed", ac: p.ac, hp: p.hp, max: p.maxHp, temp: p.tempHp, isParty: true, status: p.status };
+      return { name: p.name || __("Unnamed"), ac: p.ac, hp: p.hp, max: p.maxHp, temp: p.tempHp, isParty: true, status: p.status };
     }
     return { name: c.name, ac: c.ac, hp: c.hp, max: c.max, isParty: false };
   }
@@ -374,14 +384,14 @@
     const turn = clamp(num(ev.turn), 0, Math.max(0, list.length - 1));
     return `<div class="combat">
       <div class="combat-head">
-        <h3>Who's here</h3>
-        ${list.length ? `<span class="round">Round ${num(ev.round, 1)}</span>
-          <button class="btn small" data-action="cb-init">Roll initiative for monsters</button>
-          <button class="btn small primary" data-action="cb-next">Next turn</button>
-          <button class="btn small quiet" data-action="cb-reset">Reset round</button>` : ""}
+        <h3>${__("Who's here")}</h3>
+        ${list.length ? `<span class="round">${__("Round {n}", { n: num(ev.round, 1) })}</span>
+          <button class="btn small" data-action="cb-init">${__("Roll initiative for monsters")}</button>
+          <button class="btn small primary" data-action="cb-next">${__("Next turn")}</button>
+          <button class="btn small quiet" data-action="cb-reset">${__("Reset round")}</button>` : ""}
       </div>
       ${list.length ? `<div class="table-wrap"><table class="combat-table">
-        <thead><tr><th scope="col">Init</th><th scope="col">Name</th><th scope="col">AC</th><th scope="col">HP</th><th scope="col">Damage or heal</th><th scope="col">Conditions</th><th scope="col"><span class="sr">Remove</span></th></tr></thead>
+        <thead><tr><th scope="col">${__("Init")}</th><th scope="col">${__("Name")}</th><th scope="col">AC</th><th scope="col">HP</th><th scope="col">${__("Damage or heal")}</th><th scope="col">${__("Conditions")}</th><th scope="col"><span class="sr">${__("Remove")}</span></th></tr></thead>
         <tbody>${list.map(({ c, i }, pos) => {
           const v = combView(c);
           if (!v) return "";
@@ -390,41 +400,44 @@
           const cb = base + ".combatants." + i;
           const pb = c.partyId ? "party." + store.state.party.findIndex((p) => p.id === c.partyId) : null;
           return `<tr class="${pos === turn ? "turn" : ""} ${down ? "down" : ""} ${v.isParty ? "pc" : ""}">
-            <td><input type="number" class="init" data-bind="${cb}.init" value="${esc(c.init)}" data-rerender aria-label="Initiative for ${esc(v.name)}"></td>
-            <td class="nm">${v.isParty ? `<span class="pc-tag">Party</span> ${esc(v.name)}` :
-              `<input class="cname" data-bind="${cb}.name" value="${esc(c.name)}" aria-label="Name">
-               ${c.ref ? `<button class="link small" data-action="cb-show" data-id="${c.id}" aria-expanded="${ev.show === c.id}">stats</button>` : ""}`}</td>
+            <td><input type="number" class="init" data-bind="${cb}.init" value="${esc(c.init)}" data-rerender aria-label="${__("Initiative for {name}", { name: esc(v.name) })}"></td>
+            <td class="nm">${v.isParty ? `<span class="pc-tag">${__("Party")}</span> ${esc(v.name)}` :
+              `<input class="cname" data-bind="${cb}.name" value="${esc(c.name)}" aria-label="${__("Name")}">
+               ${c.ref ? `<button class="link small" data-action="cb-show" data-id="${c.id}" aria-expanded="${ev.show === c.id}">${__("stats")}</button>` : ""}`}</td>
             <td>${v.isParty ? esc(v.ac) : `<input type="number" class="ac" data-bind="${cb}.ac" value="${esc(c.ac)}" aria-label="AC">`}</td>
-            <td class="hp"><div class="hpcell"><span><b>${esc(v.hp)}</b> / ${v.isParty ? esc(v.max) : `<input type="number" class="max" data-bind="${cb}.max" value="${esc(c.max)}" data-rerender aria-label="Max HP">`}${v.temp ? ` <small>+${v.temp} temp</small>` : ""}</span>
+            <td class="hp"><div class="hpcell"><span><b>${esc(v.hp)}</b> / ${v.isParty ? esc(v.max) : `<input type="number" class="max" data-bind="${cb}.max" value="${esc(c.max)}" data-rerender aria-label="${__("Max HP")}">`}${v.temp ? ` <small>${__("+{n} temp", { n: v.temp })}</small>` : ""}</span>
               <span class="hpbar"><span style="width:${pct}%"></span></span></div></td>
-            <td class="dmg"><input type="number" min="0" id="amt-${c.id}" placeholder="0" aria-label="Amount for ${esc(v.name)}">
-              <button class="btn small blood" data-action="cb-dmg" data-i="${i}" data-amt="amt-${c.id}">Dmg</button><button class="btn small" data-action="cb-heal" data-i="${i}" data-amt="amt-${c.id}">Heal</button></td>
-            <td>${pb ? `<input data-bind="${pb}.conditions" value="${esc(party(c.partyId).conditions || "")}" aria-label="Conditions">` : `<input data-bind="${cb}.cond" value="${esc(c.cond || "")}" aria-label="Conditions">`}</td>
-            <td><button class="icon-btn small" data-action="cb-remove" data-i="${i}" aria-label="Remove ${esc(v.name)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></td>
+            <td class="dmg"><input type="number" min="0" id="amt-${c.id}" placeholder="0" aria-label="${__("Amount for {name}", { name: esc(v.name) })}">
+              <button class="btn small blood" data-action="cb-dmg" data-i="${i}" data-amt="amt-${c.id}">${__("Dmg")}</button><button class="btn small" data-action="cb-heal" data-i="${i}" data-amt="amt-${c.id}">${__("Heal")}</button></td>
+            <td>${pb ? `<input data-bind="${pb}.conditions" value="${esc(party(c.partyId).conditions || "")}" aria-label="${__("Conditions")}">` : `<input data-bind="${cb}.cond" value="${esc(c.cond || "")}" aria-label="${__("Conditions")}">`}</td>
+            <td><button class="icon-btn small" data-action="cb-remove" data-i="${i}" aria-label="${__("Remove {name}", { name: esc(v.name) })}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></td>
           </tr>`;
-        }).join("")}</tbody></table></div>` : `<p class="muted">No one yet. Add creatures from the stat blocks, a custom foe, or the party.</p>`}
+        }).join("")}</tbody></table></div>` : `<p class="muted">${__("No one yet. Add creatures from the stat blocks, a custom foe, or the party.")}</p>`}
       ${shown && data.byId[shown.ref] ? statBlock(data.byId[shown.ref], shown.hash) : ""}
       <div class="combat-add">
-        <label class="f"><span class="f-label">Add a creature</span>
-          <select id="cb-pick">${Object.entries(groups).map(([g, cs]) => `<optgroup label="${g === "Person" ? "People" : g === "Beast" ? "Beasts" : "Fauna"}">${cs.map((c) => `<option value="${c.id}">${esc(c.name)} (CR ${esc(c.cr)})</option>`).join("")}</optgroup>`).join("")}</select></label>
-        <label class="f n"><span class="f-label">How many</span><input type="number" id="cb-count" value="1" min="1" max="30"></label>
-        <label class="f check"><input type="checkbox" id="cb-hash"> Hash</label>
-        <button class="btn" data-action="cb-add">Add</button>
-        <button class="btn quiet" data-action="cb-custom">Add a custom foe</button>
-        ${free.length ? `<button class="btn quiet" data-action="cb-party">Add the party (${free.length})</button>` : store.state.party.length ? "" : `<a class="btn quiet" href="#/t/party">Set up the party</a>`}
+        <label class="f"><span class="f-label">${__("Add a creature")}</span>
+          <select id="cb-pick">${Object.entries(groups).map(([g, cs]) => `<optgroup label="${g === "Person" ? __("People") : g === "Beast" ? __("Beasts") : __("Fauna")}">${cs.map((c) => `<option value="${c.id}">${esc(c.label || c.name)} (CR ${esc(c.cr)})</option>`).join("")}</optgroup>`).join("")}</select></label>
+        <label class="f n"><span class="f-label">${__("How many")}</span><input type="number" id="cb-count" value="1" min="1" max="30"></label>
+        <label class="f check"><input type="checkbox" id="cb-hash"> ${__("Hash")}</label>
+        <button class="btn" data-action="cb-add">${__("Add")}</button>
+        <button class="btn quiet" data-action="cb-custom">${__("Add a custom foe")}</button>
+        ${free.length ? `<button class="btn quiet" data-action="cb-party">${__("Add the party ({n})", { n: free.length })}</button>` : store.state.party.length ? "" : `<a class="btn quiet" href="#/t/party">${__("Set up the party")}</a>`}
       </div>
     </div>`;
   }
 
+  const KIND = { Beast: __("Beast"), Fauna: __("Fauna"), Person: __("Person") };
+  const SOURCE = { Beast: __("Beasts"), Fauna: __("Fauna"), Person: __("People") };
   function statBlock(c, hash) {
-    return `<div class="statblock" aria-label="Stat block for ${esc(c.name)}">
-      <h4>${hash ? "Hash " : ""}${esc(c.name)} <span class="muted">CR ${esc(c.cr)}${hash ? " (+2-ish, Hash)" : ""} · ${esc(c.kind === "Person" ? "Person" : c.kind)}</span></h4>
-      <p><b>AC</b> ${esc(c.ac)}${c.acNote ? " (" + esc(c.acNote) + ")" : ""} · <b>HP</b> ${hash ? c.hp * 2 : esc(c.hp)}${c.speed ? " · " + esc(c.speed) : ""}${c.statsFrom ? ` · <span class="muted">AC and HP from the 5e ${esc(c.statsFrom)}</span>` : ""}</p>
-      ${c.region ? `<p class="muted">${esc(c.region)}</p>` : ""}
-      <ul>${c.traits.map((tr) => `<li>${tr.name ? `<b>${esc(tr.name)}.</b> ` : ""}${linkDiceText(tr.text)}</li>`).join("")}</ul>
-      ${hash ? "<p><b>Hash:</b> double HP, +2 to attack and damage, special abilities +1d6 damage and +2 save DCs, always hostile. Eating its meat gives 1 Exposure.</p>" : ""}
-      ${c.loot ? `<p><b>Loot:</b> ${esc(c.loot)}</p>` : ""}
-      <p class="small"><a href="${app.docHash(c.source, VW.parse.slug(c.name))}">Open in ${esc(c.source.split("/").pop().replace(".md", ""))}</a></p>
+    const nm = c.label || c.name;
+    return `<div class="statblock" aria-label="${__("Stat block for {name}", { name: esc(nm) })}">
+      <h4>${hash ? esc(__("Hash {name}", { name: nm })) : esc(nm)} <span class="muted">CR ${esc(c.cr)}${hash ? " " + __("(+2-ish, Hash)") : ""} · ${esc(KIND[c.kind] || c.kind)}</span></h4>
+      <p><b>AC</b> ${esc(c.ac)}${c.acNote ? " (" + esc(c.acNote) + ")" : ""} · <b>HP</b> ${hash ? c.hp * 2 : esc(c.hp)}${c.speed ? " · " + esc(c.speed) : ""}${c.statsFrom ? ` · <span class="muted">${__("AC and HP from the 5e {block}", { block: esc(c.statsFrom) })}</span>` : ""}</p>
+      ${c.regionL || c.region ? `<p class="muted">${esc(c.regionL || c.region)}</p>` : ""}
+      <ul>${(c.traitsL || c.traits).map((tr) => `<li>${tr.name ? `<b>${esc(tr.name)}.</b> ` : ""}${linkDiceText(tr.text)}</li>`).join("")}</ul>
+      ${hash ? `<p>${__("<b>Hash:</b> double HP, +2 to attack and damage, special abilities +1d6 damage and +2 save DCs, always hostile. Eating its meat gives 1 Exposure.")}</p>` : ""}
+      ${c.loot ? `<p>${__("<b>Loot:</b> {loot}", { loot: esc(c.lootL || c.loot) })}</p>` : ""}
+      <p class="small"><a href="${app.docHash(c.source, VW.parse.slug(c.name))}">${__("Open in {page}", { page: esc(SOURCE[c.kind] || c.source.split("/").pop().replace(".md", "")) })}</a></p>
     </div>`;
   }
   // Escapes text and turns dice notation into roll buttons.
@@ -447,28 +460,28 @@
   function renderInsideJob(data, ev, base) {
     const ij = ev.ij || {};
     const T = data.insideJob;
-    const show = (k, label) => ij[k] ? `<p><b>${label}:</b> ${esc(ij[k])}</p>` : "";
+    const show = (k, label) => ij[k] ? `<p><b>${label}</b> ${esc(ij[k])}</p>` : "";
     const heat = num(store.state.campaign.heat);
     return `<div class="ij">
-      <h3>Inside Job helper</h3>
-      <p class="muted small">Rolls from <a href="${app.docHash("D&D Campaign/10 - The Inside Job (Bandit Offer).md")}">The Inside Job</a>. The Deal roll stays secret: only you see this page.</p>
+      <h3>${__("Inside Job helper")}</h3>
+      <p class="muted small">${__('Rolls from <a href="{url}">The Inside Job</a>. The Deal roll stays secret: only you see this page.', { url: app.docHash("D&D Campaign/10 - The Inside Job (Bandit Offer).md") })}</p>
       <div class="ij-buttons">
-        <button class="btn small" data-action="ij" data-k="gobetween">Go-between (d8)</button>
-        <button class="btn small" data-action="ij" data-k="cut">Their cut (d6)</button>
-        <button class="btn small" data-action="ij" data-k="cargo">Cargo (d8)</button>
-        <label class="inline small">Quest rank <select id="ij-rank">${T.value.map((r) => `<option>${esc(VW.parse.stripMd(r[0]))}</option>`).join("")}</select></label>
-        <button class="btn small" data-action="ij" data-k="value">Cargo value</button>
-        <button class="btn small" data-action="ij" data-k="pay">Payment (d6)</button>
-        <label class="inline small">Deal modifier <input type="number" id="ij-mod" value="0" class="tiny"></label>
-        <button class="btn small blood" data-action="ij" data-k="deal">Deal roll (d10, secret)</button>
+        <button class="btn small" data-action="ij" data-k="gobetween">${__("Go-between (d8)")}</button>
+        <button class="btn small" data-action="ij" data-k="cut">${__("Their cut (d6)")}</button>
+        <button class="btn small" data-action="ij" data-k="cargo">${__("Cargo (d8)")}</button>
+        <label class="inline small">${__("Quest rank")} <select id="ij-rank">${T.value.map((r, i) => `<option value="${esc(VW.parse.stripMd(r[0]))}">${esc(VW.parse.stripMd(data.insideJobL.value[i][0]))}</option>`).join("")}</select></label>
+        <button class="btn small" data-action="ij" data-k="value">${__("Cargo value")}</button>
+        <button class="btn small" data-action="ij" data-k="pay">${__("Payment (d6)")}</button>
+        <label class="inline small">${__("Deal modifier")} <input type="number" id="ij-mod" value="0" class="tiny"></label>
+        <button class="btn small blood" data-action="ij" data-k="deal">${__("Deal roll (d10, secret)")}</button>
       </div>
-      ${show("gobetween", "Go-between")}${show("cut", "Cut")}${show("cargo", "Cargo")}${show("value", "Cargo value")}${show("pay", "Payment")}${show("deal", "What's really going on")}
+      ${show("gobetween", __("Go-between:"))}${show("cut", __("Cut:"))}${show("cargo", __("Cargo:"))}${show("value", __("Cargo value:"))}${show("pay", __("Payment:"))}${show("deal", __("What's really going on:"))}
       <div class="heat">
-        <span><b>Heat</b> ${heat}</span>
-        <button class="icon-btn small" data-action="heat" data-d="-1" aria-label="Lower Heat">−</button>
-        <button class="icon-btn small" data-action="heat" data-d="1" aria-label="Raise Heat">+</button>
-        <button class="btn small" data-action="patrol">Patrol roll (d6 &lt; Heat)</button>
-        <span class="muted">Talking their way out: DC ${10 + 2 * heat}</span>
+        <span><b>${__("Heat")}</b> ${heat}</span>
+        <button class="icon-btn small" data-action="heat" data-d="-1" aria-label="${__("Lower Heat")}">−</button>
+        <button class="icon-btn small" data-action="heat" data-d="1" aria-label="${__("Raise Heat")}">+</button>
+        <button class="btn small" data-action="patrol">${__("Patrol roll (d6 &lt; Heat)")}</button>
+        <span class="muted">${__("Talking their way out: DC {dc}", { dc: 10 + 2 * heat })}</span>
       </div>
       ${ij.patrol ? `<p>${esc(ij.patrol)}</p>` : ""}
     </div>`;
@@ -476,24 +489,27 @@
 
   function insideJobRoll(data, ev, k) {
     ev.ij = ev.ij || {};
-    const T = data.insideJob;
-    const row = (rows, n) => rows.find((r) => rangeHit(r[0], n));
+    const T = data.insideJob, TL = data.insideJobL;
+    // The row (rolled on the English table) shown from the translated one.
+    const row = (k, n) => { const i = T[k].findIndex((r) => rangeHit(r[0], n)); return i < 0 ? null : TL[k][i]; };
     const P = VW.parse.stripMd;
-    if (k === "gobetween") { const n = dice.die(8), r = row(T.goBetween, n); ev.ij.gobetween = `${n}. ${P(r ? r[1] : "")}${r && r[2] ? " (" + P(r[2]) + ")" : ""}`; }
-    if (k === "cut") { const n = dice.die(6); ev.ij.cut = `d6 ${n}: ${CUT[n - 1]}% of the cargo's value. Each successful DC 13 Persuasion adds 10% (max 60%).`; }
-    if (k === "cargo") { const n = dice.die(8), r = row(T.cargo, n); ev.ij.cargo = `${n}. ${P(r ? r[1] : "")}${r && r[2] ? " (" + P(r[2]) + ")" : ""}`; }
+    if (k === "gobetween") { const n = dice.die(8), r = row("goBetween", n); ev.ij.gobetween = `${n}. ${P(r ? r[1] : "")}${r && r[2] ? " (" + P(r[2]) + ")" : ""}`; }
+    if (k === "cut") { const n = dice.die(6); ev.ij.cut = __("d6 {n}: {pct}% of the cargo's value. Each successful DC 13 Persuasion adds 10% (max 60%).", { n, pct: CUT[n - 1] }); }
+    if (k === "cargo") { const n = dice.die(8), r = row("cargo", n); ev.ij.cargo = `${n}. ${P(r ? r[1] : "")}${r && r[2] ? " (" + P(r[2]) + ")" : ""}`; }
     if (k === "value") {
       const rank = (document.getElementById("ij-rank") || {}).value;
-      const r = T.value.find((x) => P(x[0]) === rank) || T.value[0];
+      const i = Math.max(0, T.value.findIndex((x) => P(x[0]) === rank));
+      const r = T.value[i], rl = TL.value[i];
       if (r) {
         const f = /(\d*d\d+)\s*×\s*(\d+)\s*(\w+)/.exec(P(r[2]));
-        if (f) { const roll = dice.rollTotal(f[1]); ev.ij.value = `${rank}: ${f[1]} = ${roll}, × ${f[2]} = ${roll * +f[2]} ${f[3]} (honest reward: ${P(r[1])})`; }
+        const unit = { pearls: "{n} pearls", amethysts: "{n} amethysts", aquamarines: "{n} aquamarines", sapphires: "{n} sapphires" }[f && f[3].toLowerCase()];
+        if (f) { const roll = dice.rollTotal(f[1]); ev.ij.value = __("{rank}: {dice} = {roll}, × {times} = {total} (honest reward: {reward})", { rank: P(rl[0]), dice: f[1], roll, times: f[2], total: unit ? __(unit, { n: roll * +f[2] }) : roll * +f[2] + " " + f[3], reward: P(rl[1]) }); }
       }
     }
-    if (k === "pay") { const n = dice.die(6); ev.ij.pay = `d6 ${n}: ` + (n <= 4 ? "paid in balls at the hideout or a drop point." : "paid in goods from the cargo, which the party has to fence."); }
+    if (k === "pay") { const n = dice.die(6); ev.ij.pay = `d6 ${n}: ` + (n <= 4 ? __("paid in balls at the hideout or a drop point.") : __("paid in goods from the cargo, which the party has to fence.")); }
     if (k === "deal") {
       const mod = num((document.getElementById("ij-mod") || {}).value);
-      const n = dice.die(10), tot = n + mod, r = row(T.deal, tot);
+      const n = dice.die(10), tot = n + mod, r = row("deal", tot);
       ev.ij.deal = `d10 ${n}${mod ? (mod > 0 ? " + " : " − ") + Math.abs(mod) + " = " + tot : ""}: ${P(r ? r[1] : "")}`;
     }
   }
@@ -512,7 +528,7 @@
     const data = await VW.content.data();
     const s = store.state;
     if (!s.trips.length) {
-      m.innerHTML = `<div class="page"><h1>Print a trip</h1><div class="empty"><p>No trips yet. Plan one first, then come back to print it.</p><a class="btn primary" href="#/t/travel">Go to the travel planner</a></div></div>`;
+      m.innerHTML = `<div class="page"><h1>${__("Print a trip")}</h1><div class="empty"><p>${__("No trips yet. Plan one first, then come back to print it.")}</p><a class="btn primary" href="#/t/travel">${__("Go to the travel planner")}</a></div></div>`;
       return;
     }
     let t = trip();
@@ -553,97 +569,97 @@
             if (!o.empty) return "";
             const rolls = sh.always || t.rollDay;
             return `<tr class="ps-blank"><th scope="row">${sh.name}<small>${sh.time}</small></th>
-              <td>${rolls ? `<span class="ps-boxes">☐ Quiet ☐ Sign ☐ Encounter ☐ Other</span><div class="ps-write"></div>` : `<span class="muted">No roll this shift</span>`}</td></tr>`;
+              <td>${rolls ? `<span class="ps-boxes">${__("☐ Quiet ☐ Sign ☐ Encounter ☐ Other")}</span><div class="ps-write"></div>` : `<span class="muted">${__("No roll this shift")}</span>`}</td></tr>`;
           }
           const foes = (ev.combatants || []).filter((x) => !x.partyId);
           return `<tr class="ps-ev ${ev.type}"><th scope="row">${sh.name}<small>${sh.time}</small></th><td>
-            <p class="ps-title"><span class="ps-type">${esc(typeName(ev.type))}</span> ${ev.type === "quiet" ? "" : esc(ev.title || "")}${ev.resolved ? ' <span class="muted">(done)</span>' : ""}</p>
+            <p class="ps-title"><span class="ps-type">${esc(typeName(ev.type))}</span> ${ev.type === "quiet" ? "" : esc(ev.title || "")}${ev.resolved ? ` <span class="muted">${__("(done)")}</span>` : ""}</p>
             ${ev.text && ev.type !== "quiet" ? `<p>${esc(ev.text)}</p>` : ""}
-            ${ev.notes ? `<p class="ps-notes"><b>Notes:</b> ${esc(ev.notes)}</p>` : ""}
-            ${ev.roll ? `<p class="muted small">Rolled: ${esc(ev.roll)}</p>` : ""}
+            ${ev.notes ? `<p class="ps-notes"><b>${__("Notes:")}</b> ${esc(ev.notes)}</p>` : ""}
+            ${ev.roll ? `<p class="muted small">${__("Rolled: {roll}", { roll: esc(ev.roll) })}</p>` : ""}
             ${ev.type === "insidejob" ? printInsideJob(ev) : ""}
-            ${foes.length ? `<table class="ps-foes"><thead><tr><th>Init</th><th>Creature</th><th>AC</th><th>HP</th><th>Damage taken</th><th>Conditions</th></tr></thead><tbody>
+            ${foes.length ? `<table class="ps-foes"><thead><tr><th>${__("Init")}</th><th>${__("Creature")}</th><th>AC</th><th>HP</th><th>${__("Damage taken")}</th><th>${__("Conditions")}</th></tr></thead><tbody>
               ${foes.map((f) => `<tr><td></td><td>${esc(f.name)}</td><td>${esc(f.ac)}</td><td>${esc(f.max)}</td><td></td><td>${esc(f.cond || "")}</td></tr>`).join("")}</tbody></table>` : ""}
             ${ev.type !== "quiet" ? `<div class="ps-write"></div>` : ""}
           </td></tr>`;
         }).join("");
         if (!rows) continue;
-        dayRows += `<section class="ps-day"><h3>Day ${startAbs + d + 1} <span>${fmtDate(date, true)}${weekday ? ", " + weekday : ""}</span></h3>
+        dayRows += `<section class="ps-day"><h3>${__("Day {n}", { n: startAbs + d + 1 })} <span>${fmtDate(date, true)}${weekday ? __(", ") + esc(dayName(weekday)) : ""}</span></h3>
           <table class="ps-shifts"><tbody>${rows}</tbody></table></section>`;
       }
-      body += `<section class="ps-circle"><h2>Circle ${ci + 1} of ${t.circles.length}${c.label ? ": " + esc(c.label) : ""}
-        <span>${VW.util.plural(+c.pace, "day")} (${PACE[c.pace]}) · ${esc(r.name)} table</span></h2>${dayRows || `<p class="muted">Nothing to print for this circle.</p>`}</section>`;
+      body += `<section class="ps-circle"><h2>${__("Circle {n} of {total}", { n: ci + 1, total: t.circles.length })}${c.label ? __(": ") + esc(c.label) : ""}
+        <span>${nDays(+c.pace)} (${PACE[c.pace]}) · ${__("{region} table", { region: esc(r.label || r.name) })}</span></h2>${dayRows || `<p class="muted">${__("Nothing to print for this circle.")}</p>`}</section>`;
     });
 
     m.innerHTML = `<div class="page wide tool trip-print">
       <div class="print-controls no-print">
         <div class="tool-head">
-          <h1>Print a trip</h1>
+          <h1>${__("Print a trip")}</h1>
           <div class="trip-pick">
-            <label class="sr" for="ps-trip">Trip</label>
-            <select id="ps-trip" data-action="trip-pick">${s.trips.map((x) => `<option value="${x.id}"${x.id === t.id ? " selected" : ""}>${esc(x.name || "Untitled trip")}</option>`).join("")}</select>
-            <a class="btn quiet" href="#/t/travel">Back to the planner</a>
+            <label class="sr" for="ps-trip">${__("Trip")}</label>
+            <select id="ps-trip" data-action="trip-pick">${s.trips.map((x) => `<option value="${x.id}"${x.id === t.id ? " selected" : ""}>${esc(x.name || __("Untitled trip"))}</option>`).join("")}</select>
+            <a class="btn quiet" href="#/t/travel">${__("Back to the planner")}</a>
           </div>
         </div>
-        <p class="lede">A paper copy of this trip, so you can run it without the site. Use your browser's print window to print it or choose <b>Save as PDF</b>.</p>
-        <fieldset class="checks print-opts"><legend class="f-label">Include</legend>
-          <label><input type="checkbox" data-bind="printOpts.empty" data-rerender${o.empty ? " checked" : ""}> Shifts with no event yet, with space to write what happens</label>
-          <label><input type="checkbox" data-bind="printOpts.party" data-rerender${o.party ? " checked" : ""}> The party${party.length ? ` (${party.length})` : " (none set up yet)"}</label>
-          <label><input type="checkbox" data-bind="printOpts.tables" data-rerender${o.tables ? " checked" : ""}> Encounter tables for the regions on this trip, to roll at the table</label>
-          <label><input type="checkbox" data-bind="printOpts.stats" data-rerender${o.stats ? " checked" : ""}> Stat blocks</label>
-          <label class="sub"><input type="checkbox" data-bind="printOpts.allStats" data-rerender${o.allStats ? " checked" : ""}${o.stats ? "" : " disabled"}> Also every creature those tables can bring, not just the fights already set</label>
+        <p class="lede">${__("A paper copy of this trip, so you can run it without the site. Use your browser's print window to print it or choose <b>Save as PDF</b>.")}</p>
+        <fieldset class="checks print-opts"><legend class="f-label">${__("Include")}</legend>
+          <label><input type="checkbox" data-bind="printOpts.empty" data-rerender${o.empty ? " checked" : ""}> ${__("Shifts with no event yet, with space to write what happens")}</label>
+          <label><input type="checkbox" data-bind="printOpts.party" data-rerender${o.party ? " checked" : ""}> ${party.length ? __("The party ({n})", { n: party.length }) : __("The party (none set up yet)")}</label>
+          <label><input type="checkbox" data-bind="printOpts.tables" data-rerender${o.tables ? " checked" : ""}> ${__("Encounter tables for the regions on this trip, to roll at the table")}</label>
+          <label><input type="checkbox" data-bind="printOpts.stats" data-rerender${o.stats ? " checked" : ""}> ${__("Stat blocks")}</label>
+          <label class="sub"><input type="checkbox" data-bind="printOpts.allStats" data-rerender${o.allStats ? " checked" : ""}${o.stats ? "" : " disabled"}> ${__("Also every creature those tables can bring, not just the fights already set")}</label>
         </fieldset>
-        <p><button class="btn primary" data-action="print">Print or save as PDF</button></p>
+        <p><button class="btn primary" data-action="print">${__("Print or save as PDF")}</button></p>
       </div>
 
-      <article class="print-sheet" aria-label="Printable trip sheet">
+      <article class="print-sheet" aria-label="${__("Printable trip sheet")}">
         <header class="ps-head">
-          <p class="ps-kicker">Vraki West March · Trip sheet</p>
-          <h1>${esc(t.name || "Untitled trip")}</h1>
-          <p class="ps-route">${esc(t.from || "?")} → ${esc(t.to || "?")}</p>
+          <p class="ps-kicker">${__("Vraki West March · Trip sheet")}</p>
+          <h1>${esc(t.name || __("Untitled trip"))}</h1>
+          <p class="ps-route">${esc(VW.content.nameL(t.from) || "?")} ${VW.i18n.arrow} ${esc(VW.content.nameL(t.to) || "?")}</p>
           <dl class="ps-facts">
-            <div><dt>Dates</dt><dd>${total ? fmtDate(t.start, true) + " to " + fmtDate(end.date, true) : "—"}${t.start.weekday ? " (starts on " + esc(t.start.weekday) + ")" : ""}</dd></div>
-            <div><dt>Length</dt><dd>${VW.util.plural(t.circles.length, "circle")}, ${VW.util.plural(total, "day")} one way</dd></div>
-            <div><dt>Deadline</dt><dd>${VW.util.plural(deadline, "day")} if they come back the same way</dd></div>
-            <div><dt>Rations</dt><dd>${round * partySize()} for ${partySize()} people, there and back</dd></div>
-            <div><dt>Region</dt><dd>${esc(regionById(data, t.region).name)}</dd></div>
-            <div><dt>Events</dt><dd>${t.mode === "circle" ? "One roll per circle" : "Every Graveyard and Night shift" + (t.rollDay ? ", plus Morning and Afternoon" : "")}</dd></div>
+            <div><dt>${__("Dates")}</dt><dd>${total ? __("{start} to {end}", { start: fmtDate(t.start, true), end: fmtDate(end.date, true) }) : "—"}${t.start.weekday ? " " + __("(starts on {day})", { day: esc(dayName(t.start.weekday)) }) : ""}</dd></div>
+            <div><dt>${__("Length")}</dt><dd>${__("{circles}, {days} one way", { circles: __.n(t.circles.length, "{n} circle", "{n} circles"), days: nDays(total) })}</dd></div>
+            <div><dt>${__("Deadline")}</dt><dd>${__("{days} if they come back the same way", { days: nDays(deadline) })}</dd></div>
+            <div><dt>${__("Rations")}</dt><dd>${__("{n} for {people} people, there and back", { n: round * partySize(), people: partySize() })}</dd></div>
+            <div><dt>${__("Region")}</dt><dd>${esc(regionById(data, t.region).label || regionById(data, t.region).name)}</dd></div>
+            <div><dt>${__("Events")}</dt><dd>${t.mode === "circle" ? __("One roll per circle") : t.rollDay ? __("Every Graveyard and Night shift, plus Morning and Afternoon") : __("Every Graveyard and Night shift")}</dd></div>
           </dl>
           <ul class="ps-flags">
-            ${flag(t.danger, "Dangerous trip: encounters on 1–2")}
-            ${flag(t.escort, "Cargo escort: the Inside Job offer can happen" + (t.valuable ? " (valuable cargo)" : ""))}
-            ${flag(t.departure, t.departure ? "Departure roll d6 " + t.departure.d6 + ": " + (t.departure.offer ? "the offer comes before they leave" : "no offer at departure") : "")}
+            ${flag(t.danger, __("Dangerous trip: encounters on 1–2"))}
+            ${flag(t.escort, t.valuable ? __("Cargo escort: the Inside Job offer can happen (valuable cargo)") : __("Cargo escort: the Inside Job offer can happen"))}
+            ${flag(t.departure, t.departure ? __("Departure roll d6 {n}: {what}", { n: t.departure.d6, what: t.departure.offer ? __("the offer comes before they leave") : __("no offer at departure") }) : "")}
           </ul>
-          <p class="ps-rule"><b>Event roll:</b> d6 per shift that rolls. ${t.danger ? "1–2" : "1"} = encounter (d12 on the region table), ${t.danger ? "3" : "2"} = a sign of one (d12), the rest = quiet.</p>
+          <p class="ps-rule">${__("<b>Event roll:</b> d6 per shift that rolls. {enc} = encounter (d12 on the region table), {sign} = a sign of one (d12), the rest = quiet.", { enc: t.danger ? "1–2" : "1", sign: t.danger ? "3" : "2" })}</p>
         </header>
 
-        ${o.party && party.length ? `<section class="ps-party"><h2>The party</h2>
-          <table><thead><tr><th>Name</th><th>Class</th><th>AC</th><th>HP</th><th>SP</th><th>HP now / notes</th></tr></thead><tbody>
-          ${party.map((p) => `<tr><td>${esc(p.name || "Unnamed")}</td><td>${esc([p.cls, p.level ? "lvl " + p.level : ""].filter(Boolean).join(" "))}</td><td>${esc(p.ac)}</td><td>${esc(p.maxHp)}</td><td>${esc(p.maxSp)}</td><td></td></tr>`).join("")}
+        ${o.party && party.length ? `<section class="ps-party"><h2>${__("The party")}</h2>
+          <table><thead><tr><th>${__("Name")}</th><th>${__("Class")}</th><th>AC</th><th>HP</th><th>SP</th><th>${__("HP now / notes")}</th></tr></thead><tbody>
+          ${party.map((p) => `<tr><td>${esc(p.name || __("Unnamed"))}</td><td>${esc([p.cls, p.level ? __("lvl {n}", { n: p.level }) : ""].filter(Boolean).join(" "))}</td><td>${esc(p.ac)}</td><td>${esc(p.maxHp)}</td><td>${esc(p.maxSp)}</td><td></td></tr>`).join("")}
           </tbody></table></section>` : ""}
 
         ${body}
 
-        ${t.notes ? `<section class="ps-tripnotes"><h2>Trip notes</h2><p>${esc(t.notes)}</p></section>` : ""}
+        ${t.notes ? `<section class="ps-tripnotes"><h2>${__("Trip notes")}</h2><p>${esc(t.notes)}</p></section>` : ""}
 
-        ${o.tables ? `<section class="ps-tables"><h2>Encounter tables (d12)</h2>
-          ${regionIds.map((rid) => { const r = regionById(data, rid); return `<div class="ps-table"><h3>${esc(r.name)}</h3>${r.places ? `<p class="muted small">${esc(r.places)}</p>` : ""}
-            <ol>${r.entries.map((e) => `<li>${esc(P(e))}</li>`).join("")}</ol></div>`; }).join("")}
+        ${o.tables ? `<section class="ps-tables"><h2>${__("Encounter tables (d12)")}</h2>
+          ${regionIds.map((rid) => { const r = regionById(data, rid); return `<div class="ps-table"><h3>${esc(r.label || r.name)}</h3>${r.places ? `<p class="muted small">${esc(r.placesL || r.places)}</p>` : ""}
+            <ol>${(r.entriesL || r.entries).map((e) => `<li>${esc(P(e))}</li>`).join("")}</ol></div>`; }).join("")}
         </section>` : ""}
 
-        ${o.stats && refs.length ? `<section class="ps-stats"><h2>Stat blocks</h2>${refs.map((id) => statBlock(data.byId[id], false)).join("")}</section>` : ""}
+        ${o.stats && refs.length ? `<section class="ps-stats"><h2>${__("Stat blocks")}</h2>${refs.map((id) => statBlock(data.byId[id], false)).join("")}</section>` : ""}
 
-        <p class="ps-foot muted small">Printed ${esc(new Date().toLocaleDateString())} from the Vraki West March travel planner.</p>
+        <p class="ps-foot muted small">${__("Printed {date} from the Vraki West March travel planner.", { date: esc(new Date().toLocaleDateString(VW.i18n.locale)) })}</p>
       </article>
     </div>`;
   }
 
   function printInsideJob(ev) {
     const ij = ev.ij || {};
-    const rows = [["gobetween", "Go-between"], ["cut", "Cut"], ["cargo", "Cargo"], ["value", "Cargo value"], ["pay", "Payment"], ["deal", "What's really going on"], ["patrol", "Patrol"]]
-      .filter(([k]) => ij[k]).map(([k, l]) => `<li><b>${l}:</b> ${esc(ij[k])}</li>`).join("");
+    const rows = [["gobetween", __("Go-between:")], ["cut", __("Cut:")], ["cargo", __("Cargo:")], ["value", __("Cargo value:")], ["pay", __("Payment:")], ["deal", __("What's really going on:")], ["patrol", __("Patrol:")]]
+      .filter(([k]) => ij[k]).map(([k, l]) => `<li><b>${l}</b> ${esc(ij[k])}</li>`).join("");
     const heat = num(store.state.campaign.heat);
-    return `<ul class="ps-ij">${rows}<li><b>Heat</b> ${heat} · talking their way out: DC ${10 + 2 * heat}</li></ul>`;
+    return `<ul class="ps-ij">${rows}<li>${__("<b>Heat</b> {n} · talking their way out: DC {dc}", { n: heat, dc: 10 + 2 * heat })}</li></ul>`;
   }
 
   /* ---------------- trips from the map ---------------- */
@@ -660,10 +676,10 @@
   // Starts a new trip along a route (used by the map page's "Plan this trip").
   function planRoute(data, res) {
     const s = store.state;
-    const nt = newTrip(data, res.from + " to " + res.to);
+    const nt = newTrip(data, __("{from} to {to}", { from: VW.content.nameL(res.from), to: VW.content.nameL(res.to) }));
     applyRoute(data, nt, res);
     s.trips.push(nt); s.currentTrip = nt.id; store.save();
-    VW.toast(VW.util.plural(res.circles, "circle") + " from " + res.from + " to " + res.to + ".");
+    VW.toast(__("{circles} from {from} to {to}.", { circles: __.n(res.circles, "{n} circle", "{n} circles"), from: VW.content.nameL(res.from), to: VW.content.nameL(res.to) }));
   }
 
   /* ---------------- actions ---------------- */
@@ -674,13 +690,13 @@
     const save = () => { store.save(); app.rerender(); };
     switch (a) {
       case "trip-new": {
-        const nt = newTrip(data, "Trip " + (s.trips.length + 1));
+        const nt = newTrip(data, __("Trip {n}", { n: s.trips.length + 1 }));
         s.trips.push(nt); s.currentTrip = nt.id; save();
         setTimeout(() => { const i = document.getElementById("trip-name"); if (i) { i.focus(); i.select(); } }, 50);
         return;
       }
       case "trip-delete":
-        if (!t || !confirm("Delete “" + (t.name || "this trip") + "” and all its events?")) return;
+        if (!t || !confirm(__("Delete “{name}” and all its events?", { name: t.name || __("this trip") }))) return;
         s.trips.splice(s.trips.indexOf(t), 1); s.currentTrip = s.trips[0] ? s.trips[0].id : null; save(); return;
     }
     if (!t) return;
@@ -688,10 +704,10 @@
     switch (a) {
       case "trip-from-map": {
         const res = VW.routes.find(data, t.from, t.to);
-        if (!res) { VW.toast(t.from && t.to ? "No route on the map joins " + t.from + " and " + t.to + ". Check the spelling, or set the circles yourself." : "Fill in From and To first.", "error"); return; }
-        if (Object.keys(t.events).length && !confirm("This replaces the circles and clears this trip's events. Go ahead?")) return;
+        if (!res) { VW.toast(t.from && t.to ? __("No route on the map joins {a} and {b}. Check the spelling, or set the circles yourself.", { a: t.from, b: t.to }) : __("Fill in From and To first."), "error"); return; }
+        if (Object.keys(t.events).length && !confirm(__("This replaces the circles and clears this trip's events. Go ahead?"))) return;
         applyRoute(data, t, res);
-        VW.toast(VW.util.plural(res.circles, "circle") + (res.legs.length > 1 ? " via " + res.legs.slice(0, -1).map((l) => l.to).join(", ") : "") + ".");
+        VW.toast(res.legs.length > 1 ? __("{circles} via {places}.", { circles: __.n(res.circles, "{n} circle", "{n} circles"), places: res.legs.slice(0, -1).map((l) => VW.content.nameL(l.to)).join(__(", ")) }) : __.n(res.circles, "{n} circle.", "{n} circles."));
         return save();
       }
       case "circles": {
@@ -699,7 +715,7 @@
         else if (t.circles.length > 1) {
           const gone = t.circles[t.circles.length - 1];
           const used = Object.keys(t.events).some((k) => k.startsWith(gone.id + ":") && t.events[k] && t.events[k].type);
-          if (used && !confirm("The last circle has events. Remove it anyway?")) return;
+          if (used && !confirm(__("The last circle has events. Remove it anyway?"))) return;
           t.circles.pop();
           Object.keys(t.events).forEach((k) => { if (k.startsWith(gone.id + ":")) delete t.events[k]; });
         }
@@ -709,14 +725,14 @@
       case "pace": { const c = t.circles.find((x) => x.id === el.dataset.cid); if (c) c.pace = +el.dataset.p; return save(); }
       case "pick-circle": t.sel = keyOf(el.dataset.cid, 0, "graveyard"); return save();
       case "pick-shift": t.sel = el.dataset.key; store.save(); app.rerender().then(() => { const p = document.getElementById("event-panel"); if (p && p.getBoundingClientRect().top > innerHeight - 80) p.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" }); }); return;
-      case "autofill": { const n = autofill(data, t); VW.toast(n ? "Rolled " + VW.util.plural(n, "shift") + "." : "Every shift that needs a roll already has one."); return save(); }
+      case "autofill": { const n = autofill(data, t); VW.toast(n ? __.n(n, "Rolled {n} shift.", "Rolled {n} shifts.") : __("Every shift that needs a roll already has one.")); return save(); }
       case "clear-events":
-        if (!Object.keys(t.events).length || !confirm("Clear every event on this trip, including fights and notes?")) return;
+        if (!Object.keys(t.events).length || !confirm(__("Clear every event on this trip, including fights and notes?"))) return;
         t.events = {}; t.departure = null; return save();
       case "dep-clear": t.departure = null; return save();
       case "ev-roll": {
         const loc = locate(t, t.sel);
-        if (ev && (ev.notes || (ev.combatants || []).length) && !confirm("Replace this shift's event? Its notes and fight go too.")) return;
+        if (ev && (ev.notes || (ev.combatants || []).length) && !confirm(__("Replace this shift's event? Its notes and fight go too."))) return;
         t.events[t.sel] = rollEvent(data, t, regionOf(t, loc.circle));
         return save();
       }
@@ -726,10 +742,10 @@
         if (!type) { delete t.events[t.sel]; return save(); }
         const cur = t.events[t.sel] || { notes: "", combatants: [], resolved: false };
         cur.type = type;
-        if (type === "quiet") { cur.title = "Quiet"; cur.text = cur.text || "Nothing happens. Describe the scenery, or the food."; }
+        if (type === "quiet") { cur.title = __("Quiet"); cur.text = cur.text || __("Nothing happens. Describe the scenery, or the food."); }
         if (type === "insidejob") Object.assign(cur, insideJobEvent(""), { notes: cur.notes, combatants: cur.combatants || [] });
-        if (type === "custom") { cur.title = cur.title && cur.title !== "Quiet" ? cur.title : ""; }
-        if ((type === "encounter" || type === "omen") && cur.entry == null) { cur.title = cur.title === "Quiet" ? "" : cur.title; }
+        if (type === "custom") { cur.title = cur.title && cur.title !== "Quiet" && cur.title !== __("Quiet") ? cur.title : ""; }
+        if ((type === "encounter" || type === "omen") && cur.entry == null) { cur.title = cur.title === "Quiet" || cur.title === __("Quiet") ? "" : cur.title; }
         cur.combatants = cur.combatants || [];
         t.events[t.sel] = cur;
         save();
@@ -771,11 +787,12 @@
         const existing = ev.combatants.filter((x) => x.ref === id).length;
         for (let i = 0; i < cnt; i++) {
           const hp = (cr.hp || 10) * (hash ? 2 : 1);
-          ev.combatants.push({ id: uid("k"), name: (hash ? "Hash " : "") + cr.name.split(" / ")[0] + (cnt > 1 || existing ? " " + (existing + i + 1) : ""), ref: id, ac: cr.ac || 10, hp, max: hp, init: "", cond: "", hash });
+          const nm = (cr.label || cr.name).split(" / ")[0];
+          ev.combatants.push({ id: uid("k"), name: (hash ? __("Hash {name}", { name: nm }) : nm) + (cnt > 1 || existing ? " " + (existing + i + 1) : ""), ref: id, ac: cr.ac || 10, hp, max: hp, init: "", cond: "", hash });
         }
         return save();
       }
-      case "cb-custom": ev.combatants.push({ id: uid("k"), name: "New foe", ref: "", ac: 12, hp: 10, max: 10, init: "", cond: "" }); return save();
+      case "cb-custom": ev.combatants.push({ id: uid("k"), name: __("New foe"), ref: "", ac: 12, hp: 10, max: 10, init: "", cond: "" }); return save();
       case "cb-party": {
         const inParty = new Set(ev.combatants.filter((c) => c.partyId).map((c) => c.partyId));
         s.party.filter((p) => !inParty.has(p.id) && p.status !== "away").forEach((p) => ev.combatants.push({ id: uid("k"), partyId: p.id, init: "" }));
@@ -786,7 +803,7 @@
       case "patrol": {
         const n = dice.die(6), h = num(s.campaign.heat);
         ev.ij = ev.ij || {};
-        ev.ij.patrol = `Patrol roll d6 ${n} against Heat ${h}: ` + (n < h ? "a patrol finds them." : "no patrol today.");
+        ev.ij.patrol = __("Patrol roll d6 {n} against Heat {h}: {what}", { n, h, what: n < h ? __("a patrol finds them.") : __("no patrol today.") });
         return save();
       }
     }
@@ -804,7 +821,7 @@
       const loc = locate(t, t.sel);
       const rid = ev.region || regionOf(t, loc.circle);
       const keep = ev.notes;
-      if ((ev.combatants || []).length && !confirm("Replace the creatures here with the ones from this entry?")) {
+      if ((ev.combatants || []).length && !confirm(__("Replace the creatures here with the ones from this entry?"))) {
         const fresh = entryEvent(data, rid, +el.value, ev.type === "omen" ? "omen" : "encounter");
         Object.assign(ev, { region: rid, entry: +el.value, title: fresh.title, text: fresh.text });
       } else {
@@ -814,9 +831,9 @@
     }
   }
 
-  app.register("travel", { title: "Travel planner", nav: "Travel planner", role: "dm", order: 1, render, onAction, onInput });
+  app.register("travel", { title: N_("Travel planner"), nav: N_("Travel planner"), role: "dm", order: 1, render, onAction, onInput });
   app.register("trip-print", {
-    title: "Print a trip", nav: null, role: "dm", render: renderPrint,
+    title: N_("Print a trip"), nav: null, role: "dm", render: renderPrint,
     onAction(a) { if (a === "print") window.print(); },
     onInput(el) { if (el.dataset.action === "trip-pick") { store.state.currentTrip = el.value; store.save(); app.rerender(); } }
   });

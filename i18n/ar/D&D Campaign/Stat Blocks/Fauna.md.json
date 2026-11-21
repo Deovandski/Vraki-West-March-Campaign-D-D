@@ -1,0 +1,338 @@
+{
+ "03f651e52ad8": {
+  "en": "Culuim",
+  "t": "كولويم"
+ },
+ "069243643113": {
+  "en": "Pack animal; hoof/leg hair for Water Walk",
+  "t": "حيوان حمل؛ وشعر الحافر والساق لجل ووتر ووك"
+ },
+ "0958099a49b1": {
+  "en": "Lungs and glands for gels",
+  "t": "رئات وغدد لصنع الجل"
+ },
+ "0a4720d6b6b4": {
+  "en": "**Legunia (CR 2)** — AC 12 · HP 20 · speed 60 ft\nHigh Jump: 30 ft vertical. Super Speed: Dash as a bonus action. Desert Sense: senses dangerous desert conditions within 1 mile (its hump shrinks).",
+  "t": "**ليغونيا (CR 2)** — AC 12 · HP 20 · السرعة 60 قدمًا\nالقفزة العالية: 30 قدمًا عموديًا. السرعة الفائقة: الاندفاع كفعل إضافي. حاسّة الصحراء: تستشعر أحوال الصحراء الخطرة ضمن ميل واحد (ينكمش سنامها)."
+ },
+ "0b57ac7af420": {
+  "en": "Sanbi–Tastyleaf swamps",
+  "t": "مستنقعات سانبي–تيستي ليف"
+ },
+ "0c111d8bdf54": {
+  "en": "Sanbi's whole economy",
+  "t": "اقتصاد سانبي كله"
+ },
+ "0ee4640ddadc": {
+  "en": "Lower plains",
+  "t": "السهول المنخفضة"
+ },
+ "12babf3aa1e2": {
+  "en": "**Yuyta (CR ½)** — AC 11 · HP 12\nHop Strike: +3, 1d4+1. Harvest Sense: detects crop quality within 100 ft. Wall Sight: whiskers sense objects through 1 ft of wall or dirt. Group Scatter: when one is damaged, all Yuytas within 20 ft move 10 ft away. Screams like a dying human.",
+  "t": "**يويتا (CR ½)** — AC 11 · HP 12\nضربة القفز: +3، 1d4+1. حاسّة المحصول: تكتشف جودة المحاصيل ضمن 100 قدم. الرؤية عبر الجدار: تستشعر الشوارب الأشياء عبر قدم واحدة من الجدار أو التراب. تفرّق الجماعة: حين تتضرر واحدة، تبتعد كل اليويتا ضمن 20 قدمًا مسافة 10 أقدام. وتصرخ كإنسان يحتضر."
+ },
+ "17450cb9b504": {
+  "en": "Barina",
+  "t": "بارينا"
+ },
+ "17a46e1b9f02": {
+  "en": "Oil, meat",
+  "t": "الزيت، اللحم"
+ },
+ "1f45bdead95e": {
+  "en": "Bagarisa",
+  "t": "باغاريسا"
+ },
+ "2aabd47d1d42": {
+  "en": "**Wooly (CR 1)** — AC 12 · HP 50\nReverberate Voice: DC 12 Con save or deafened. Light Burst: bright light 30 ft for 1 minute. Mountain Stance: advantage against being pushed. Its death scream carries for kilometers (attracts predators).",
+  "t": "**وولي (CR 1)** — AC 12 · HP 50\nالصوت المتردد: إنقاذ بنية DC 12 أو أصمّ. دفقة الضوء: ضوء ساطع 30 قدمًا لمدة دقيقة. وقفة الجبل: أفضلية ضد الدفع. وصرخة موته تُسمع على بعد كيلومترات (تجذب المفترسين)."
+ },
+ "2afe12c726e6": {
+  "en": "Creature",
+  "t": "المخلوق"
+ },
+ "2f3c0820e993": {
+  "en": "Lakes, Buhraies region",
+  "t": "البحيرات، إقليم بورايس"
+ },
+ "3246b1a14f34": {
+  "en": "**Culuim (CR 1)** — AC 12 · HP 10\nHeart Flip: switches Walking Heart modes (+2 to one ability, −2 to another, DM's choice). Blood Surge: +2 AC for 1 round. Contaminated Flesh: creatures that bite it make a DC 12 Con save or are poisoned.",
+  "t": "**كولويم (CR 1)** — AC 12 · HP 10\nقلب القلب: يبدّل أوضاع الووكينغ هارت لديه (+2 لقدرة، −2 لأخرى، باختيار مدير اللعبة). فورة الدم: +2 AC لجولة واحدة. لحم ملوّث: المخلوقات التي تعضّه ترمي إنقاذ بنية DC 12 أو تصبح مسمومة."
+ },
+ "33916d61ede4": {
+  "en": "Wozen",
+  "t": "ووزن"
+ },
+ "34b62f354316": {
+  "en": "Eggs, meat",
+  "t": "البيض، اللحم"
+ },
+ "37464c57712d": {
+  "en": "Gel ingredient (Body Paralysis)",
+  "t": "مكوّن جل (بودي باراليسيس)"
+ },
+ "377dac41a368": {
+  "en": "**Sanbi (CR 1)** — AC 12 · HP 25 · swim 50 ft\nSonic Pulse: DC 12 Con save or migraine (disadvantage on attacks for 1 minute). Fake Prey: sheds lip/tail decoys; attackers have disadvantage. Tail Stretch: extends its tail 10 ft to avoid melee. Landing one: DC 15 Strength (Athletics), or two successes out of three for a weaker fisher.",
+  "t": "**سانبي (CR 1)** — AC 12 · HP 25 · السباحة 50 قدمًا\nالنبضة الصوتية: إنقاذ بنية DC 12 أو صداع نصفي (عيب على الهجمات لمدة دقيقة). الفريسة الزائفة: يُسقط طُعومًا من شفته وذيله؛ وعلى المهاجمين عيب. مدّ الذيل: يمدّ ذيله 10 أقدام لتجنّب الالتحام. اصطياد واحد: قوة (الرياضة) DC 15، أو نجاحان من ثلاثة لصياد أضعف."
+ },
+ "3ac5020ad018": {
+  "en": "Monika",
+  "t": "مونيكا"
+ },
+ "3e5fab7dc2a8": {
+  "en": "Whiskers for gels; harvest omens",
+  "t": "الشوارب لصنع الجل؛ نُذُر المحصول"
+ },
+ "3ebee29f59e3": {
+  "en": "**Egua (CR 1)** — AC 13 · HP 60 · speed 40 ft\nWater Walk: walks on water. Dirt Repel: ignores difficult terrain from mud or sand. Leg Morph: bonus action, +10 ft speed or +2 AC. Intestine Ejection (Recharge 5–6): 10-ft fear aura for 1 round (DC 12 Wis). Kick: +5, 2d6+3 bludgeoning. Friendly; hurting one makes it violent.",
+  "t": "**إيغوا (CR 1)** — AC 13 · HP 60 · السرعة 40 قدمًا\nالمشي على الماء: تمشي على الماء. صدّ التراب: تتجاهل الأرض الوعرة من الطين أو الرمل. تحوير الساقين: فعل إضافي، +10 أقدام للسرعة أو +2 AC. قذف الأمعاء (إعادة شحن 5–6): هالة خوف 10 أقدام لجولة واحدة (حكمة DC 12). الرفسة: +5، 2d6+3 راض. ودودة؛ وإيذاؤها يجعلها عنيفة."
+ },
+ "3efd42e6b77a": {
+  "en": "The most-eaten meat; hide",
+  "t": "اللحم الأكثر أكلًا؛ الجلد"
+ },
+ "404444d79dfc": {
+  "en": "Soreno",
+  "t": "سورينو"
+ },
+ "4c14bcb5102c": {
+  "en": "Everywhere (pest)",
+  "t": "في كل مكان (آفة)"
+ },
+ "4c934310abd0": {
+  "en": "Ponds",
+  "t": "البرك"
+ },
+ "4e9adf407e18": {
+  "en": "**Monika (CR 0)** — AC 11 · HP 5 · fly 30 ft\nSoul Sense: detects soul energy sources. Scent Vision: sees smells. Corpse Finder: advantage on Perception to find corpses (prefers high-SE bodies — dead adventurers).",
+  "t": "**مونيكا (CR 0)** — AC 11 · HP 5 · الطيران 30 قدمًا\nحاسّة الروح: تكتشف مصادر طاقة الروح. رؤية الروائح: ترى الروائح. باحثة الجثث: أفضلية على الإدراك لإيجاد الجثث (تفضّل الأجساد العالية الـSE — المغامرين الموتى)."
+ },
+ "5413e8c52dea": {
+  "en": "Coastal and Freeish forests",
+  "t": "الغابات الساحلية وغابات فريئيش"
+ },
+ "542851db27ce": {
+  "en": "Crocus",
+  "t": "كروكوس"
+ },
+ "58bdca850469": {
+  "en": "Pelt; eyes and nose for gels",
+  "t": "الفراء؛ والعينان والأنف لصنع الجل"
+ },
+ "598dd6e8478c": {
+  "en": "**Cinika (CR 0)** — AC 11 · HP 5 · fly 30 ft\nParalyzing Dust: DC 10 Con save or paralyzed 1 round. Weather Sense: detects pressure, humidity and temperature changes. Swarm Instinct: advantage on attacks while adjacent to another Cinika. Favors licking Wozefaries and Sorefaries sweat.",
+  "t": "**سينيكا (CR 0)** — AC 11 · HP 5 · الطيران 30 قدمًا\nالغبار المشلّ: إنقاذ بنية DC 10 أو مشلول جولة واحدة. حاسّة الطقس: تكتشف تغيّر الضغط والرطوبة والحرارة. غريزة السرب: أفضلية على الهجمات ما دامت مجاورة لسينيكا أخرى. تحب لعق عرق الووزيفاريس والسوريفاريس."
+ },
+ "5b9458beab47": {
+  "en": "Sanbi region forests",
+  "t": "غابات إقليم سانبي"
+ },
+ "5c29abdd548d": {
+  "en": "Seas near deltas",
+  "t": "البحار قرب الدلتا"
+ },
+ "5c2cc9d06eb0": {
+  "en": "Everywhere (tamed), Forway plains (wild)",
+  "t": "في كل مكان (مستأنسة)، سهول فورواي (برّية)"
+ },
+ "5e82236c3c93": {
+  "en": "East sea",
+  "t": "البحر الشرقي"
+ },
+ "63abb27b59b1": {
+  "en": "Ptaina",
+  "t": "بتاينا"
+ },
+ "680da8beb462": {
+  "en": "Loot / use",
+  "t": "الغنيمة / الاستخدام"
+ },
+ "6a8dcffc282b": {
+  "en": "Deep southern forests",
+  "t": "الغابات الجنوبية العميقة"
+ },
+ "6b66b910e840": {
+  "en": "**Lansha (CR 3)** — AC 14 · HP 85\nGravity Down: DC 14 Str save or knocked prone. Oil Up: attackers have disadvantage for 1 round. Sour Gland Burst (Recharge 5–6): 2d10 acid in a 10-ft cone. Timid alone, territorial in herds.",
+  "t": "**لانشا (CR 3)** — AC 14 · HP 85\nغرافيتي داون: إنقاذ قوة DC 14 أو يسقط منبطحًا. التزيّت: على المهاجمين عيب لجولة واحدة. انفجار الغدة الحامضة (إعادة شحن 5–6): 2d10 حمض في مخروط 10 أقدام. خجولة وحدها، تدافع عن أرضها في القطعان."
+ },
+ "6ec6c99d0d18": {
+  "en": "Waterproof hide and webbing",
+  "t": "جلد وأغشية مقاومة للماء"
+ },
+ "70b58218c896": {
+  "en": "Lower regions",
+  "t": "المناطق المنخفضة"
+ },
+ "74f8aea1714b": {
+  "en": "**Bagarisa (CR 2)** — AC 14 · HP 40\n**Two Hearts:** the first time it drops to 0 HP it drops to 1 HP instead, unless the hit was a critical (you hit both hearts). Flaming Tusks: +5, 2d6+3 fire. Fireball Gust (Recharge 5–6): 3d10 fire in a 15-ft cone, DC 13 Dex half. Blood Heal: regains 5 HP when it deals fire damage. Musk: smells like shrimp brine; anyone who butchers one smells of it (Wozens track the smell).",
+  "t": "**باغاريسا (CR 2)** — AC 14 · HP 40\n**تو هارتس:** في أول مرة يهبط فيها إلى 0 HP يبقى بـ1 HP بدلًا من ذلك، ما لم تكن الضربة حرجة (أصبتَ القلبين). الأنياب المشتعلة: +5، 2d6+3 نار. عصفة كرة النار (إعادة شحن 5–6): 3d10 نار في مخروط 15 قدمًا، إنقاذ براعة DC 13 للنصف. شفاء الدم: يستعيد 5 HP حين يُحدث ضرر نار. المسك: رائحته كماء الروبيان المالح؛ ومن يذبح واحدًا يحمل رائحته (والووزن يتعقبون الرائحة)."
+ },
+ "768443a5a6ed": {
+  "en": "**Winga / Pink Winga (CR 1)** — AC 13 · HP 30 · fly 60 ft\nLife Sense: detects living creatures within 60 ft. Air Shield (Recharge 5–6): +2 AC for 1 round. Shriek: DC 12 Con save or deafened 1 round. Diamond Beak: +4, 1d6+2 piercing (ignores resistance). Pink Wingas have advantage on Stealth. Killing a Forway courier Winga is a crime.",
+  "t": "**وينغا / بينك وينغا (CR 1)** — AC 13 · HP 30 · الطيران 60 قدمًا\nحاسّة الحياة: تكتشف المخلوقات الحية ضمن 60 قدمًا. درع الهواء (إعادة شحن 5–6): +2 AC لجولة واحدة. الصرخة الحادة: إنقاذ بنية DC 12 أو أصمّ جولة واحدة. المنقار الماسي: +4، 1d6+2 خارق (يتجاهل المقاومة). ولطيور البينك وينغا أفضلية على التخفي. وقتل وينغا بريد تابعة لفورواي جريمة."
+ },
+ "78fd92a64010": {
+  "en": "**Fihi (CR 3)** — AC 14 · HP 55 · swim 40 ft\nElemental Absorb: reduces elemental damage by 1d6. Elemental Release (Recharge 5–6): 3d10 of the last element it absorbed (lightning if none) in a 15-ft cone. Shock Skin: melee attackers take 1d6 lightning. *Lake giants:* double HP; swallow a Medium creature on a crit.",
+  "t": "**فيهي (CR 3)** — AC 14 · HP 55 · السباحة 40 قدمًا\nامتصاص العناصر: ينقص الضرر العنصري بمقدار 1d6. إطلاق العناصر (إعادة شحن 5–6): 3d10 من آخر عنصر امتصه (برق إن لم يمتص شيئًا) في مخروط 15 قدمًا. الجلد الصاعق: المهاجمون عن قرب يتلقون 1d6 برق. *عمالقة البحيرة:* ضِعف HP؛ ويبتلعون مخلوقًا متوسط الحجم عند الضربة الحرجة."
+ },
+ "795f3a60ea66": {
+  "en": "Courier, sweet meat, Winga dust",
+  "t": "بريد، لحم حلو، غبار الوينغا"
+ },
+ "82f7a277fa11": {
+  "en": "Sayna",
+  "t": "ساينا"
+ },
+ "876a3abdbc14": {
+  "en": "Cruro lands",
+  "t": "أراضي الكرورو"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "سانبي"
+ },
+ "94999c5b1b38": {
+  "en": "Cinika",
+  "t": "سينيكا"
+ },
+ "969f9e69b408": {
+  "en": "Winga / Pink Winga",
+  "t": "وينغا / بينك وينغا"
+ },
+ "9799343e6d99": {
+  "en": "Oil, gills (gels); giant man-eaters in Lukewarm Lake",
+  "t": "الزيت، الخياشيم (جل)؛ وعمالقة آكلة للبشر في بحيرة لوكوورم"
+ },
+ "9d2007e89d3a": {
+  "en": "Street food, gels",
+  "t": "طعام الشارع، جل"
+ },
+ "9faf8b37b459": {
+  "en": "Egua",
+  "t": "إيغوا"
+ },
+ "9fb3fd83080d": {
+  "en": "Lamb-like meat, sour glands",
+  "t": "لحم يشبه لحم الحمل، غدد حامضة"
+ },
+ "a2b90decb4b9": {
+  "en": "Milk, wool, cheese",
+  "t": "الحليب، الصوف، الجبن"
+ },
+ "a73331b513d1": {
+  "en": "Lower plains (spring)",
+  "t": "السهول المنخفضة (الربيع)"
+ },
+ "abd19f1a5717": {
+  "en": "Gandew, high mountains (4–6 km)",
+  "t": "غانديو، الجبال العالية (4–6 كم)"
+ },
+ "af8b4adcaa37": {
+  "en": "Desert",
+  "t": "الصحراء"
+ },
+ "b091c566a1fa": {
+  "en": "**Ptaina (CR 2)** — AC 13 · HP 35 · swim 40 ft\nUltrasonic Burst (Recharge 5–6): 3d8 thunder underwater, 1d8 on land, 20-ft radius. Compass Distortion: creatures within 20 ft have disadvantage on Survival. Head Glow: creatures within 5 ft make a DC 12 Wis save or frightened 1 round.",
+  "t": "**بتاينا (CR 2)** — AC 13 · HP 35 · السباحة 40 قدمًا\nالانفجار فوق الصوتي (إعادة شحن 5–6): 3d8 رعد تحت الماء، و1d8 على اليابسة، نصف قطر 20 قدمًا. تشويش البوصلة: المخلوقات ضمن 20 قدمًا عليها عيب في النجاة. وهج الرأس: المخلوقات ضمن 5 أقدام ترمي إنقاذ حكمة DC 12 أو تصبح خائفة جولة واحدة."
+ },
+ "b308dd33053e": {
+  "en": "Trained message carriers",
+  "t": "حمّالو رسائل مدرَّبون"
+ },
+ "b33de0752c52": {
+  "en": "Region",
+  "t": "المنطقة"
+ },
+ "b49482c30ee3": {
+  "en": "Legunia",
+  "t": "ليغونيا"
+ },
+ "b7d71f1ff3f4": {
+  "en": "Fatupari",
+  "t": "فاتوباري"
+ },
+ "b7d82f2b3399": {
+  "en": "Ported from the original Alpha campaign's `Fauna Stats.md`, with regions, a few fixes, and loot. Fill in ability scores from a similar 5e beast when needed.",
+  "t": "منقولة من `Fauna Stats.md` في حملة ألفا الأصلية، مع الأقاليم وبعض التصحيحات والغنائم. إن احتجت قيم القدرات، فخذها من وحش مشابه في 5e."
+ },
+ "b8fa43c3582f": {
+  "en": "Hide, eggs",
+  "t": "الجلد، البيض"
+ },
+ "be64e774f412": {
+  "en": "Freeish ponds",
+  "t": "برك فريئيش"
+ },
+ "c0ed01470ecf": {
+  "en": "**Barina (CR 2)** — AC 13 · HP 18 · swim 30 ft\nToxic Tail Burst (Recharge 5–6): 2d8 poison in a 10-ft radius. Cloak: invisible while submerged. Gas Diffusal: 15-ft poison cloud for 1 round. Back Spikes: creatures that grapple it take 1d4 piercing.",
+  "t": "**بارينا (CR 2)** — AC 13 · HP 18 · السباحة 30 قدمًا\nانفجار الذيل السام (إعادة شحن 5–6): 2d8 سم في نصف قطر 10 أقدام. التمويه: غير مرئية ما دامت مغمورة. انتشار الغاز: سحابة سامة 15 قدمًا لجولة واحدة. أشواك الظهر: المخلوقات التي تمسكها تتلقى 1d4 خارق."
+ },
+ "c3b52ee2defc": {
+  "en": "**Wozen (CR 2)** — AC 14 · HP 40 · speed 40 ft\nSuper Smell: advantage on tracking. Sound Bounce: makes no sound while moving. Light Bounce: +2 Stealth in dim light. Super Jump: 20-ft leaps. Jaw Clench: +5, 2d6+3 piercing, grappled (escape DC 13). Nocturnal; loves Bagarisa — and humans.",
+  "t": "**ووزن (CR 2)** — AC 14 · HP 40 · السرعة 40 قدمًا\nالشمّ الفائق: أفضلية على التعقّب. ارتداد الصوت: لا يُصدر صوتًا وهو يتحرك. ارتداد الضوء: +2 على التخفي في الضوء الخافت. القفزة الفائقة: قفزات 20 قدمًا. إطباق الفك: +5، 2d6+3 خارق، ممسوك (الإفلات DC 13). ليلي؛ يحب الباغاريسا — والبشر."
+ },
+ "c6038d931572": {
+  "en": "Fauna Stat Blocks",
+  "t": "بطاقات الإحصاءات: الحيوانات"
+ },
+ "d1007dfcc10d": {
+  "en": "Fihi",
+  "t": "فيهي"
+ },
+ "d503cbdf73eb": {
+  "en": "**Fatupari (CR 2)** — AC 13 · HP 40\nLaunch: moves 40 ft in a line; its next attack deals +1d6. Air Buoyancy: hovers for 1 round. Webbing Shield: while its pink webbing is intact, resistance to spell damage (attack the webbing, AC 13, 10 HP, to tear it). Bite: +5, 1d8+3, grappled.",
+  "t": "**فاتوباري (CR 2)** — AC 13 · HP 40\nالانطلاق: يتحرك 40 قدمًا في خط؛ وهجومه التالي يُحدث +1d6. الطفو في الهواء: يحوم جولة واحدة. درع الأغشية: ما دامت أغشيته الوردية سليمة، يقاوم ضرر التعاويذ (هاجم الأغشية، AC 13، 10 HP، لتمزيقها). العضّة: +5، 1d8+3، ممسوك."
+ },
+ "d9a99e857561": {
+  "en": "**Sayna (CR 1)** — AC 13 · HP 28\nDistant Hearing: hears up to 1 mile. Cloak Detection: detects invisible creatures and burrowing Sand Worms within 20 ft. Blood Shield (self-defense): gains 5 temporary HP when hit. Goofy: needs training to use skills on command. \"Pohw-pohhhww!\"",
+  "t": "**ساينا (CR 1)** — AC 13 · HP 28\nالسمع البعيد: تسمع حتى ميل واحد. كشف التمويه: تكتشف المخلوقات غير المرئية والساند وورم الحافرة ضمن 20 قدمًا. درع الدم (دفاع عن النفس): تكسب 5 نقاط حياة مؤقتة حين تُصاب. خرقاء: تحتاج تدريبًا لتستخدم مهاراتها عند الأمر. «بوه-بوووه!»"
+ },
+ "e1c413b69494": {
+  "en": "Fat (delicacy), eggs",
+  "t": "الشحم (طعام فاخر)، البيض"
+ },
+ "e2445ed3450b": {
+  "en": "**Fanchaki (CR 1)** — AC 12 · HP 20\nRapid Breed: once per day, 1d4 chicks appear (no actions). Peck Flurry: two attacks, +4, 1d4+2. Panic Dash: when frightened, moves 40 ft without provoking. Fake Body: the first attack against it each round has disadvantage.",
+  "t": "**فانتشاكي (CR 1)** — AC 12 · HP 20\nالتكاثر السريع: مرة في اليوم، تظهر 1d4 فراخ (بلا أفعال). وابل النقر: هجومان، +4، 1d4+2. اندفاعة الذعر: حين تكون خائفة، تتحرك 40 قدمًا دون أن تستثير هجمات. الجسد الزائف: أول هجوم ضدها في كل جولة عليه عيب."
+ },
+ "e2b1f159112a": {
+  "en": "Lansha",
+  "t": "لانشا"
+ },
+ "e608896a9021": {
+  "en": "Wooly",
+  "t": "وولي"
+ },
+ "ecbc80ebbf2f": {
+  "en": "Fanchaki",
+  "t": "فانتشاكي"
+ },
+ "ef5e4a257734": {
+  "en": "Lower plains, Buhraies Plains, Wingarest",
+  "t": "السهول المنخفضة، سهول بورايس، وينغاريست"
+ },
+ "f20e50e0ec7d": {
+  "en": "**Crocus (CR 2)** — AC 14 · HP 45 · swim 30 ft\nSpike Burst (Recharge 5–6): 2d6 piercing in a 10-ft radius. Harden Skin: +2 AC for 1 round. Light Bend: invisible while motionless (can stay still for hours). Bite: +5, 2d6+3 piercing, grappled.",
+  "t": "**كروكوس (CR 2)** — AC 14 · HP 45 · السباحة 30 قدمًا\nانفجار الأشواك (إعادة شحن 5–6): 2d6 خارق في نصف قطر 10 أقدام. تصليب الجلد: +2 AC لجولة واحدة. ثني الضوء: غير مرئي ما دام ساكنًا (يستطيع البقاء ساكنًا ساعات). العضّة: +5، 2d6+3 خارق، ممسوك."
+ },
+ "f3561faab8af": {
+  "en": "Freeish, Blood, Forway plains (night)",
+  "t": "فريئيش، بلاد، سهول فورواي (ليلًا)"
+ },
+ "f85f95f9ad7d": {
+  "en": "Companion; sacred in Sundeath",
+  "t": "رفيقة؛ مقدّسة في صنديث"
+ },
+ "f8a4085c3a36": {
+  "en": "**Soreno (CR 1)** — AC 12 · HP 18\nMimicry: imitates sounds perfectly. Blink Dash: bonus action, move 5 ft without provoking. Cloak: advantage on Stealth (heat and sight). Pest Swarm: advantage on attacks while adjacent to another Soreno. Long-Distance Squeak: a trained one relays a message up to 1 mile.",
+  "t": "**سورينو (CR 1)** — AC 12 · HP 18\nالمحاكاة: يقلّد الأصوات تقليدًا تامًا. الوثبة الخاطفة: فعل إضافي، يتحرك 5 أقدام دون أن يستثير هجمات. التمويه: أفضلية على التخفي (الحرارة والبصر). سرب الآفة: أفضلية على الهجمات ما دام مجاورًا لسورينو آخر. الصرير البعيد: السورينو المدرَّب ينقل رسالة حتى ميل واحد."
+ },
+ "fb9f25b63568": {
+  "en": "Yuyta",
+  "t": "يويتا"
+ },
+ "fbe616b162ce": {
+  "en": "Monika Sight gel",
+  "t": "جل مونيكا سايت"
+ }
+}

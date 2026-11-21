@@ -1,0 +1,226 @@
+{
+ "0384b5035d96": {
+  "en": "Pace knob, daily shifts, watches, food, getting lost",
+  "t": "速度旋钮、每日时段、守夜、食物、迷路"
+ },
+ "0580282bff4d": {
+  "en": "[Travel by Circles](01%20-%20Travel%20by%20Circles.md)",
+  "t": "[按圈旅行](01%20-%20Travel%20by%20Circles.md)"
+ },
+ "06174dc8d93f": {
+  "en": "The original one-shot, updated for circle travel",
+  "t": "原版单次冒险，已按圈旅行更新"
+ },
+ "09e9cf74d4fb": {
+  "en": "[Alpha One-Shot: Wagon Escort](Alpha%20One-Shot%20-%20Wagon%20Escort.md)",
+  "t": "[阿尔法单次冒险：货车护送](Alpha%20One-Shot%20-%20Wagon%20Escort.md)"
+ },
+ "110ec66be1d2": {
+  "en": "What's inside",
+  "t": "内容"
+ },
+ "20dbadb44b5d": {
+  "en": "Event rolls per shift, regional encounter tables",
+  "t": "每个时段的事件掷骰、各地区的遭遇表"
+ },
+ "22c41f087f9d": {
+  "en": "Fauna and beast stat blocks gained regions, a few fixes (\"Monica\" → Monika), and new entries (Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies, Hash template), plus guards and bandits.",
+  "t": "动物和魔兽的数据卡加上了地区，做了几处修正（“Monica”→莫妮卡），并新增了条目（变形者、特朗克皮普尔、纳里沃姆、弗林加、布伦托斯、怀特朗迪斯、哈什模板），还有卫兵和强盗。"
+ },
+ "243b22d2db0d": {
+  "en": "The pitch for players",
+  "t": "给玩家的一句话介绍"
+ },
+ "33781944b6d4": {
+  "en": "The campaign **takes place in the world of the light novels but doesn't follow their story**. Canon characters are NPCs and rumors at most. By default it's the **1040s A.G.** — the DM decides the exact year and who's alive.",
+  "t": "这个战役**发生在轻小说的世界里，但不沿用小说的故事**。原作角色最多只是NPC和传闻。默认时间是**1040年代A.G.**——具体年份和谁还活着由DM决定。"
+ },
+ "352ec54aed90": {
+  "en": "Quest rules, rewards, deadlines, sample quests by rank",
+  "t": "委托规则、报酬、期限、各级别的示例委托"
+ },
+ "3926f4b6ad32": {
+  "en": "Beasts, fauna, people (guards, bandits)",
+  "t": "魔兽、动物、人物（卫兵、强盗）"
+ },
+ "3a372342ece1": {
+  "en": "[Factions & Reputation](09%20-%20Factions%20&%20Reputation.md)",
+  "t": "[派系与声望](09%20-%20Factions%20&%20Reputation.md)"
+ },
+ "45f90c1109d3": {
+  "en": "Combat uses normal **initiative** (the Alpha text said turns go by AC).",
+  "t": "战斗使用常规的**先攻**（阿尔法原文说行动顺序按AC决定）。"
+ },
+ "46f8b5ebc00a": {
+  "en": "You're a badge-carrying **Pearl adventurer** working out of a Forway **embassy**. Grab a quest off the board, sign the contract in blood, gather whoever's free tonight, and head out into a world full of walking killer trees, moody undead castles, bandits, bureaucracy and food. Climb from **Pearl to Sapphire**. Try not to die — and if you do, hope someone drags your body back before your soul dissolves, because Forway *will* revive you... and take half your pay until the debt is paid.",
+  "t": "你是一名持有身份牌的**珀尔级冒险者**，在福威的**大使馆**接活。从委托板上揭下一张委托，用血签下合同，叫上今晚有空的人，出发去一个满是会走路的杀人树、喜怒无常的亡灵城堡、强盗、官僚和美食的世界。从**珀尔**一路升到**萨菲尔**。尽量别死——要是死了，就祈祷有人在你的灵魂溶解前把你的尸体拖回来，因为福威*一定*会复活你……然后拿走你一半的报酬，直到你还清债务。"
+ },
+ "4c2e994f56ec": {
+  "en": "How a West March runs",
+  "t": "西境如何运作"
+ },
+ "4df7a2e30816": {
+  "en": "Files",
+  "t": "文件"
+ },
+ "5aec0323882b": {
+  "en": "**One shared world.** Whatever a party kills, maps, angers or befriends stays that way for everyone. Keep a shared **session log** and mark traveled and explored circles on a shared copy of the **travel map**.",
+  "t": "**一个共享的世界。** 一支队伍杀掉的、画进地图的、惹恼的或结交的，对所有人来说都会保持那样。记一份共享的**跑团日志**，并在共享的**旅行地图**副本上标出走过和探索过的圈。"
+ },
+ "5e443f1e5a75": {
+  "en": "Pre-gens cleaned up: **Hiromi** is now a Darfaries brawler (matching the lore), and his old interrogator kit moved to a new pre-gen, **Takeo**. Every sheet lists its people, interface and Soul Points.",
+  "t": "整理了预制角色：**弘美**现在是一名达尔法里斯格斗家（与设定一致），他原来的审讯工具包挪给了新的预制角色**武雄**。每张角色卡都列出了种族、界面和灵魂点数。"
+ },
+ "62a5f798d571": {
+  "en": "Vraki West March — DM Guide",
+  "t": "弗拉基西境——DM指南"
+ },
+ "69a25b5f9d3b": {
+  "en": "A **West Marches** style D&D 5e campaign set in the world of #HusbandOutWorld. It grew out of the original Alpha wagon-escort one-shot (now kept here as the [Alpha One-Shot](Alpha%20One-Shot%20-%20Wagon%20Escort.md)), expanded into an open table.",
+  "t": "一个以#HusbandOutWorld世界为背景的**西境**（West Marches）式D&D 5e战役。它源自最初的阿尔法货车护送单次冒险（现保存在这里，即[阿尔法单次冒险](Alpha%20One-Shot%20-%20Wagon%20Escort.md)），后来扩展成了一张开放的游戏桌。"
+ },
+ "69febbdba6cc": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md)",
+  "t": "[事件与遭遇](07%20-%20Events%20&%20Encounters.md)"
+ },
+ "6d75e12ab6ce": {
+  "en": "[DM Secrets](DM%20Secrets.md)",
+  "t": "[DM秘密](DM%20Secrets.md)"
+ },
+ "70479df111d7": {
+  "en": "Reputation track and what factions want",
+  "t": "声望记录和各派系想要什么"
+ },
+ "76b0d5ff20bd": {
+  "en": "[Quest Board](06%20-%20Quest%20Board.md)",
+  "t": "[委托板](06%20-%20Quest%20Board.md)"
+ },
+ "78916cae64ba": {
+  "en": "Soul Points, nari stones, sigil rings, casting, miscasts",
+  "t": "灵魂点数、纳里石、西吉尔戒指、施法、施法失误"
+ },
+ "7ad96484b6f8": {
+  "en": "Travel uses **circles and a pace knob** instead of distances, Egua speeds and load math.",
+  "t": "旅行使用**圈和速度旋钮**，而不是距离、埃瓜速度和负重计算。"
+ },
+ "8801751c0222": {
+  "en": "Random escort event: bandits offer a cut to help rob the wagon; Deal roll, Heat, patrols, debrief and punishment",
+  "t": "护送中的随机事件：强盗提出分成，让队伍帮忙抢劫货车；交易检定、热度、巡逻、汇报和惩罚"
+ },
+ "8b69dc373c04": {
+  "en": "The wagon escort is now **one quest type** (Cargo Protection) among many; the four daily **shifts** are kept.",
+  "t": "货车护送现在是众多**委托类型之一**（货物护送）；保留了每天的四个**时段**。"
+ },
+ "8ea9379ca099": {
+  "en": "Bahyum's Castle Mood, Hifuna exposure, desert, caverns, swamps",
+  "t": "巴休姆的城堡心情、希富纳暴露、沙漠、洞窟、沼泽"
+ },
+ "916411d820c2": {
+  "en": "No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) has circles drawn along the routes connecting places. **Count the circles to the destination. Each circle represents 1, 2 or 3 days — the DM chooses** (Fast, Standard, Slow) to make the journey shorter or longer. Forway to Sanbi is 6 circles, so 6, 12 or 18 days. Every route's length is in the [Maps](../Maps) table, and the website's travel planner counts them for you. Details in [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "不用公里，不用埃瓜速度，不用负重百分比。[旅行地图](../Maps)上沿着连接各地的路线画着圈。**数一数到目的地有几个圈。每个圈代表1、2或3天——由DM选择**（快速、标准、慢速），让旅程变短或变长。福威到桑比是6个圈，所以是6、12或18天。每条路线的长度都在[地图](../Maps)的表格里，网站上的旅行计划也会帮你数。详见[按圈旅行](01%20-%20Travel%20by%20Circles.md)。"
+ },
+ "9536be9abe2f": {
+  "en": "Pre-generated level 3 adventurers",
+  "t": "预先做好的3级冒险者"
+ },
+ "99f71fd1e62e": {
+  "en": "Added rules for soul energy, sigil rings, nari gels, revival debt, ranks, quests, events, factions and dangerous places.",
+  "t": "新增了灵魂能量、西吉尔戒指、纳里凝胶、复活债、级别、委托、事件、派系和危险之地的规则。"
+ },
+ "9f24b4a15ad7": {
+  "en": "[Stat Blocks](Stat%20Blocks)",
+  "t": "[数据卡](Stat%20Blocks)"
+ },
+ "a1a1dd91c6bf": {
+  "en": "[Soul Energy, Interfaces & Sigil Rings](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)",
+  "t": "[灵魂能量、界面与西吉尔戒指](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)"
+ },
+ "a34c7942af55": {
+  "en": "**Players drive.** Before a session, the players pick a **quest** from the board (or a rumor, a ruin, a spot on the map they want to explore) and tell the DM. The DM preps that.",
+  "t": "**玩家主导。** 跑团前，玩家从委托板上挑一个**委托**（或者一条传闻、一处遗迹、地图上他们想探索的某个地方），然后告诉DM。DM就准备那个。"
+ },
+ "a5cedcb9f15a": {
+  "en": "[Handouts](../Handouts)",
+  "t": "[道具](../Handouts)"
+ },
+ "aa7cfe4138eb": {
+  "en": "**Start and end at an embassy.** Every session starts at an embassy city (the hub is **Forway**) and should end with the party back at any embassy, or at least in a safe town. If they're still out in the wild when the session ends, the **quest deadline** keeps ticking (see [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)).",
+  "t": "**从大使馆出发，在大使馆结束。** 每次跑团都从一座有大使馆的城市开始（据点是**福威**），并且最好以队伍回到任意一座大使馆，或至少回到一个安全的城镇结束。如果跑团结束时他们还在野外，**委托期限**就会继续计算（见[死亡、复活与债务](05%20-%20Death,%20Revival%20&%20Debt.md)）。"
+ },
+ "b04c10cf8c50": {
+  "en": "[Dangerous Places](08%20-%20Dangerous%20Places.md)",
+  "t": "[危险之地](08%20-%20Dangerous%20Places.md)"
+ },
+ "b453f5e0c2fb": {
+  "en": "The big simplification: travel by circles",
+  "t": "最大的简化：按圈旅行"
+ },
+ "b9f21f338f90": {
+  "en": "Whatever makes the game more fun — do it. Turn the circle knob, ignore a rule, invent a village. If you have a proposal, send a PR. If you run a game, tell us — we love pics!",
+  "t": "只要能让游戏更好玩——就去做。转动圈数旋钮，无视某条规则，编一个村子出来。如果你有提议，就发个PR。如果你带了一场跑团，告诉我们——我们超爱看照片！"
+ },
+ "bbfb401f87c2": {
+  "en": "Printable props and forms: quest board, contracts, badges, wanted posters, expedition reports",
+  "t": "可打印的道具和表格：委托板、合同、身份牌、通缉令、探险报告"
+ },
+ "c130393d4cc1": {
+  "en": "Gels as consumables, bombs, black honey, equipment and prices",
+  "t": "作为消耗品的凝胶、炸弹、黑蜜、装备和价格"
+ },
+ "c13eb9d63982": {
+  "en": "**Open table.** There's a pool of players, not a fixed party. Anyone can propose a session; whoever signs up that day is the party (3–6 is ideal).",
+  "t": "**开放的游戏桌。** 这里有一群玩家，而不是固定的队伍。任何人都可以提议开一次跑团；当天报名的人就是这次的队伍（3–6人最理想）。"
+ },
+ "c9994e173436": {
+  "en": "**Rewards come from the world**: quest pay, loot, bounties, promotions, guild connections, gossip worth money.",
+  "t": "**奖励来自世界**：委托报酬、战利品、赏金、晋级、公会人脉、值钱的八卦。"
+ },
+ "d212f917b48f": {
+  "en": "For DMs",
+  "t": "给DM们"
+ },
+ "d42b176763a1": {
+  "en": "Changes from the original Alpha campaign",
+  "t": "相对原版阿尔法战役的改动"
+ },
+ "dab20dbd2b99": {
+  "en": "Spoilers and hidden truths. **Players, stay out.**",
+  "t": "剧透和隐藏的真相。**玩家请勿入内。**"
+ },
+ "db66b7db2fe2": {
+  "en": "[Adventurers](Adventurers)",
+  "t": "[冒险者](Adventurers)"
+ },
+ "dd623f4fc593": {
+  "en": "[Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)",
+  "t": "[死亡、复活与债务](05%20-%20Death,%20Revival%20&%20Debt.md)"
+ },
+ "e1a61ee313d9": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)",
+  "t": "[内应计划](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)"
+ },
+ "e5702a42d098": {
+  "en": "File",
+  "t": "文件"
+ },
+ "e9ff88f5350c": {
+  "en": "**Time is real-ish.** Track the in-world date. Two parties can't be in two places at the same in-world time; if timelines collide, the DM sorts it out generously.",
+  "t": "**时间大致真实。** 记录游戏内的日期。两支队伍不能在同一游戏时间出现在两个地方；如果时间线撞车，DM会宽厚地处理。"
+ },
+ "eca9b63aadf9": {
+  "en": "Peoples, classes, backgrounds, ranks, money, starting debt",
+  "t": "种族、职业、背景、级别、钱、起始债务"
+ },
+ "f7a2635afc51": {
+  "en": "[Nari Gels & Gear](04%20-%20Nari%20Gels%20&%20Gear.md)",
+  "t": "[纳里凝胶与装备](04%20-%20Nari%20Gels%20&%20Gear.md)"
+ },
+ "fdc611e0f315": {
+  "en": "[Making an Adventurer](02%20-%20Making%20an%20Adventurer.md)",
+  "t": "[创建冒险者](02%20-%20Making%20an%20Adventurer.md)"
+ },
+ "fe54b5ff24ef": {
+  "en": "Revival window, embassy revival, revival debt, search parties",
+  "t": "复活时限、大使馆复活、复活债、搜救队"
+ }
+}

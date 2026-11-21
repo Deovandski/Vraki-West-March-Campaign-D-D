@@ -1,0 +1,70 @@
+{
+ "20bfe7cb2366": {
+  "en": "**Curious Cook.** During a short rest, cooks a meal that grants each eater 1d4+1 temporary HP.",
+  "t": "**호기심 많은 요리사.** 짧은 휴식 동안 요리를 해서, 먹은 사람마다 임시 히트 포인트 1d4+1을 준다."
+ },
+ "25e4ce1f93c4": {
+  "en": "**Heart Pulse (Recharge 6, or spend 1 SP).** 10-ft cone, 2d6 thunder, DC 11 Con save for half.",
+  "t": "**심장 박동(재충전 6, 또는 SP 1 소모).** 10피트 원뿔, 2d6 천둥, DC 11 건강 내성 성공 시 절반."
+ },
+ "26776897960f": {
+  "en": "**People:** \"Pure\" human with a Bagarisa-touched soul · **Class:** Soul-Touched (homebrew Ranger/Monk hybrid) · **Background:** Isekai Stranger · **Alignment:** Neutral Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 3 (+1 extra on each long rest: Deep Soul)",
+  "t": "**종족:** 바가리사에 닿은 영혼을 지닌 ‘순수한’ 인간 · **클래스:** 영혼에 닿은 자(하우스룰 레인저/몽크 혼합) · **배경:** 이세계 이방인 · **성향:** 중립 선 · **계급:** 펄\n**인터페이스:** 없음(시질 링을 쓸 수 없다) · **소울 포인트:** 3(긴 휴식마다 추가 +1: 깊은 영혼)"
+ },
+ "395995bc9ea2": {
+  "en": "**Improvised Weapon.** +4 to hit, 1d8+2.",
+  "t": "**즉석 무기.** 명중 +4, 1d8+2."
+ },
+ "4004100fd78f": {
+  "en": "Harry Sanbi — Level 3 Soul-Touched Wanderer",
+  "t": "해리 산비 — 3레벨 영혼에 닿은 방랑자"
+ },
+ "45b24362989f": {
+  "en": "**Bagarisa Soul Battery.** Regains 1 extra Soul Point per long rest (stacks with Deep Soul).",
+  "t": "**바가리사 영혼 배터리.** 긴 휴식마다 소울 포인트를 1 더 회복한다(깊은 영혼과 중첩)."
+ },
+ "4ca4b8f2059a": {
+  "en": "**Claustrophobic.** In tight spaces, DC 10 Wis save or frightened for 1 round.",
+  "t": "**폐소공포증.** 좁은 곳에서는 DC 10 지혜 내성에 실패하면 1라운드 동안 공포 상태."
+ },
+ "7eaf8a43b457": {
+  "en": "**Soul Push (1 SP).** Shove a creature 5 ft without a check.",
+  "t": "**영혼 밀치기(1 SP).** 판정 없이 크리처 하나를 5피트 밀어낸다."
+ },
+ "8012ba2eebc1": {
+  "en": "**AC** 13 · **HP** 24 · **Speed** 30 ft\n**STR** 12 · **DEX** 14 · **CON** 13 · **INT** 10 · **WIS** 11 · **CHA** 15",
+  "t": "**AC** 13 · **HP** 24 · **이동속도** 30피트\n**근력** 12 · **민첩** 14 · **건강** 13 · **지능** 10 · **지혜** 11 · **매력** 15"
+ },
+ "8ac1f3297aeb": {
+  "en": "Soul-Energy Abilities (spend SP)",
+  "t": "영혼 에너지 능력(SP 소모)"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "특징과 특성"
+ },
+ "a93ec4c46638": {
+  "en": "**Adaptable Heart.** Advantage on one death save per long rest.",
+  "t": "**적응하는 심장.** 긴 휴식마다 한 번, 죽음 내성 굴림에 이점."
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "행동"
+ },
+ "b40e82229cb7": {
+  "en": "**Soul Flicker (1 SP).** Bonus action: +10 ft movement this turn.",
+  "t": "**영혼 깜빡임(1 SP).** 추가 행동: 이번 턴 이동 +10피트."
+ },
+ "c0e568ead7b3": {
+  "en": "**Skills:** Persuasion +4, Insight +3, Survival +2, Perception +2\n**Equipment:** Traveler's clothes, cooking kit, simple blade, notebook of fragmented memories, badge, 20 pearls.\n**Hook:** Nobody believes where he says he's from. Sometimes he isn't sure either.",
+  "t": "**기술:** 설득 +4, 통찰 +3, 생존 +2, 감지 +2\n**장비:** 여행자 옷, 요리 도구, 간단한 칼, 조각난 기억을 적은 수첩, 신분패, 펄 20닢.\n**떡밥:** 그가 어디서 왔다고 하든 아무도 믿지 않는다. 가끔은 본인도 확신하지 못한다."
+ },
+ "c655dbca8880": {
+  "en": "**Confused Memories.** Disadvantage on History checks about Vraki.",
+  "t": "**뒤죽박죽 기억.** 브라키에 관한 역사 판정에 불리점."
+ },
+ "cbff27fce4eb": {
+  "en": "**Unarmed Strike.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**맨손 공격.** 명중 +4, 1d6+2 타격."
+ }
+}

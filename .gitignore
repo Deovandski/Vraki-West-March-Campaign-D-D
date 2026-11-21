@@ -27,3 +27,13 @@ scratch/
 # Handout build tooling (Handouts/source/render.js)
 node_modules/
 package-lock.json
+
+# Written by tools/i18n.js build and Handouts/source/render.js --all (the Pages workflow makes fresh ones on every deploy)
+/site/i18n/
+/i18n/.cache/
+/Handouts/zh/
+/Handouts/ja/
+/Handouts/pt/
+/Handouts/es/
+/Handouts/ar/
+/Handouts/ko/

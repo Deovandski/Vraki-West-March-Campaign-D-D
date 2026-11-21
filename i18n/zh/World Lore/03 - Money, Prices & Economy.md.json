@@ -1,0 +1,246 @@
+{
+ "00e9da937f88": {
+  "en": "Taxes",
+  "t": "税收"
+ },
+ "041b46bb9c49": {
+  "en": "base unit",
+  "t": "基本单位"
+ },
+ "05381bfcc598": {
+  "en": "**Amethyst**",
+  "t": "**阿米西斯特**"
+ },
+ "0ab8f6cf3b6a": {
+  "en": "Personal \"Picker\" (everyone carries their own): 5 / 10 / 17 / 25 / 1 amethyst / 1 aquamarine",
+  "t": "个人“皮克”（人人随身带自己的）：5 / 10 / 17 / 25 / 1阿米西斯特 / 1阿夸马林"
+ },
+ "0b59c6fd6695": {
+  "en": "Seal stamp: wood 10, bone wood 20, chitin 40, iron 85, steel 2 amethysts, gold 4 aquamarines · Seal wax 20–40/bottle",
+  "t": "印章：木10，骨木20，甲壳40，铁85，钢2阿米西斯特，金4阿夸马林 · 封蜡 每瓶20–40"
+ },
+ "0b97ec47f618": {
+  "en": "**Tableware** (wood → bone wood → chitin → iron → steel → gold)",
+  "t": "**餐具**（木 → 骨木 → 甲壳 → 铁 → 钢 → 金）"
+ },
+ "0e4d25b84010": {
+  "en": "10 amethysts = 500 pearls",
+  "t": "10阿米西斯特 = 500珀尔"
+ },
+ "143bf5af4f46": {
+  "en": "**Sanbi region** (Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog): Sanbi fish, fish meal, fish oil, salt.",
+  "t": "**桑比地区**（桑比、沃特福尔、特赖安格尔、泰斯蒂利夫、恩德莱斯福格）：桑比鱼、鱼粉、鱼油、盐。"
+ },
+ "14968d11efb7": {
+  "en": "Money, Prices & Economy",
+  "t": "金钱、物价与经济"
+ },
+ "15c7724b14c8": {
+  "en": "Ice preserver (fridge): 1 amethyst (wood/clay) or 1 aquamarine (iron)",
+  "t": "冰鲜柜（冰箱）：1阿米西斯特（木或陶）或1阿夸马林（铁）"
+ },
+ "1f80948eae1e": {
+  "en": "**Tier IV (nobility):** custom gear, master-crafted household items, top hides, banned nari gels.",
+  "t": "**第IV级（贵族）：** 定制装备、大师手工家居用品、顶级皮革、违禁纳里凝胶。"
+ },
+ "1f84a86b63f2": {
+  "en": "Deltacross ferry: 15 per wagon, 2 per person · Waterfall elevator: 20 per person (double for Darfaries and the very fat, Sorefaries ride free), 1 per 3 kg cargo",
+  "t": "德尔塔克罗斯渡船：每辆马车15，每人2 · 沃特福尔升降机：每人20（达尔法里斯和特别胖的人加倍，索雷法里斯免费），货物每3公斤1"
+ },
+ "202e6ad33591": {
+  "en": "Ink: black 5, yellow 11, red 11, white (Cruro coral) 10, pink (Wood People sap) 15, blue (lapis) 28",
+  "t": "墨水：黑5，黄11，红11，白（克鲁罗珊瑚）10，粉（伍德皮普尔树汁）15，蓝（青金石）28"
+ },
+ "249069b6442a": {
+  "en": "Custom/good gear, a young tamed Egua, a tamed Big Winga, guarded travel, fancy hotels, fundamental school, some people's life savings",
+  "t": "定制或优质装备、一匹驯服的幼年埃瓜、一只驯服的大温加、有护卫的旅行、高档旅馆、基础学校、有些人一辈子的积蓄"
+ },
+ "287e7fee3a4f": {
+  "en": "Introduced by the Prosperity Treaty (Section 3). **Bartering between treaty citizens is illegal**; haggling is fine if the seller agrees (Toleridemians never agree). Coins are marble-sized gemstone **balls** (~2 cm) wrapped in golden metal filigree that protects the stone and stops counterfeits. Each kingdom mints under embassy oversight; Gandew mints Sapphires and Aquamarines, Flatland mines Amethysts.",
+  "t": "由繁荣条约（第3条）引入。**条约公民之间以物易物是违法的**；如果卖家同意，讨价还价没问题（托勒里德梅人从不同意）。硬币是弹珠大小（约2厘米）的宝石**球**，外面裹着金色金属花丝，既保护宝石又防止伪造。各王国在大使馆监督下铸造；甘杜铸造萨菲尔和阿夸马林，弗拉特兰开采阿米西斯特。"
+ },
+ "2a9913e65d85": {
+  "en": "Trade regions",
+  "t": "贸易地区"
+ },
+ "2ab0c0b9d4c5": {
+  "en": "50 pearls",
+  "t": "50珀尔"
+ },
+ "3fcd6c660fee": {
+  "en": "Winga mail to any embassy: **1 pearl** (postcard size, max weight of 4 pearl balls)",
+  "t": "温加邮件寄往任何大使馆：**1珀尔**（明信片大小，最重相当于4颗珀尔球）"
+ },
+ "41defc8c87ed": {
+  "en": "**Writing**",
+  "t": "**文具**"
+ },
+ "444008bcfcc9": {
+  "en": "Beer mug: 15 / 20 / 28 / 35 / 3 amethysts / 5 aquamarines",
+  "t": "啤酒杯：15 / 20 / 28 / 35 / 3阿米西斯特 / 5阿夸马林"
+ },
+ "48f286b4e8d5": {
+  "en": "**What a day looks like:** a Gyut berry picker earns about **1 pearl per kg** (30–60 minutes of work). A newcomer working a 12-hour day might spend 5 pearls on dinner and cheap beer, 5 on a hostel bed, and save 2. **Carbey** grass sets the base value of a pearl.",
+  "t": "**一天是什么样子：** 采久特浆果的人大约**每公斤赚1珀尔**（30–60分钟的活）。一个新来的人干12小时，可能花5珀尔吃晚饭喝便宜啤酒，5珀尔睡旅舍床位，存下2珀尔。**卡贝**草决定了珀尔的基本价值。"
+ },
+ "49fa995e836d": {
+  "en": "An adult tamed Egua, property, founding a guild, lifelong contracts, specialized school",
+  "t": "一匹驯服的成年埃瓜、房产、创立公会、终身合同、专科学校"
+ },
+ "4c94f74f53b2": {
+  "en": "Balls (the common currency)",
+  "t": "球（通用货币）"
+ },
+ "4d02a923994f": {
+  "en": "A nari stone, household goods, average gear, decent lodging with breakfast, maps, most nari gels, sigil rings, a tamed Winga, a badge",
+  "t": "一颗纳里石、日用品、普通装备、含早餐的像样住宿、地图、大多数纳里凝胶、西吉尔戒指、一只驯服的温加、一块身份牌"
+ },
+ "4dd2195cd8ac": {
+  "en": "Wine mug: 13 / 16 / 23 / 29 / 2 amethysts / 3 aquamarines",
+  "t": "葡萄酒杯：13 / 16 / 23 / 29 / 2阿米西斯特 / 3阿夸马林"
+ },
+ "556fb74bffce": {
+  "en": "**Pearl**",
+  "t": "**珀尔**"
+ },
+ "56cb42ef984c": {
+  "en": "What it buys",
+  "t": "能买什么"
+ },
+ "58600edcbf0b": {
+  "en": "**Tolerideme region** (Tolerideme, Waterfall, Tastyleaf, Wingarest): Domar Carbey, Wood People goods, Wingas, booze.",
+  "t": "**托勒里德梅地区**（托勒里德梅、沃特福尔、泰斯蒂利夫、温加雷斯特）：多马尔卡贝、伍德皮普尔货品、温加、酒。"
+ },
+ "59436f85e4e6": {
+  "en": "Tibou soap ~5 · Bagarisa-fur toothbrush ~12 · Toothpaste ~9 · Water pull-gate handle ~20",
+  "t": "蒂布肥皂 约5 · 巴加里萨毛牙刷 约12 · 牙膏 约9 · 水闸拉手 约20"
+ },
+ "5ec91c2ba6f6": {
+  "en": "**Gandew region** (Gandew, Flatland, Sundeath): minerals, Wooly products, chitin.",
+  "t": "**甘杜地区**（甘杜、弗拉特兰、桑德斯）：矿物、伍利制品、甲壳。"
+ },
+ "5ee4372b72cb": {
+  "en": "**Aquamarine**",
+  "t": "**阿夸马林**"
+ },
+ "652b9e4037a1": {
+  "en": "News/quest postings: 1 pearl (general), 1 amethyst (local warning/quest), 1 aquamarine (kingdom alert), 1 sapphire (emergency)",
+  "t": "发布新闻/委托：1珀尔（普通），1阿米西斯特（地方警告/委托），1阿夸马林（王国警报），1萨菲尔（紧急）"
+ },
+ "6a17f305cd94": {
+  "en": "**Food highlights** — see Daily Life for each city's signature dishes and prices.",
+  "t": "**美食亮点**——各城市的招牌菜和价格见“日常生活”。"
+ },
+ "6e207365c61b": {
+  "en": "**Tier III (expensive):** gold, titanium, good gear, nari gels, jerky, small/quality furs, live animals, rare parts.",
+  "t": "**第III级（昂贵）：** 金、钛、优质装备、纳里凝胶、肉干、小张或优质毛皮、活体动物、稀有部件。"
+ },
+ "6e40807439ce": {
+  "en": "**Tier II (common):** nari stones, gems, black honey, sigil rings, low-quality gear, inks, processed meat, large furs.",
+  "t": "**第II级（普通）：** 纳里石、宝石、黑蜜、西吉尔戒指、低质量装备、墨水、加工肉、大张毛皮。"
+ },
+ "75c245c618bc": {
+  "en": "Embassy badge: **1 amethyst**",
+  "t": "大使馆身份牌：**1阿米西斯特**"
+ },
+ "837a2e3714d6": {
+  "en": "**Tier I (cheap):** natural resources, fresh kills (kept with ice spells), paper.",
+  "t": "**第I级（便宜）：** 自然资源、新鲜猎物（用冰法术保存）、纸。"
+ },
+ "867f568377cc": {
+  "en": "Forway cities pay 20% of their wealth, villages 15%, kingdoms 10%. A city or village whose debt to Forway reaches 50% of its estimated output gets a Forway battalion and new leaders.",
+  "t": "福威的城市缴纳财富的20%，村庄15%，王国10%。欠福威的债达到预估产出50%的城市或村庄，会被派来一个福威营和新的领导人。"
+ },
+ "870bda049229": {
+  "en": "**Living**",
+  "t": "**生活**"
+ },
+ "8b82f852e2e7": {
+  "en": "**Sapphire**",
+  "t": "**萨菲尔**"
+ },
+ "9302c36ed2c4": {
+  "en": "Pearls are harvested by Cruros in Sanbi's swamps; the gems are mined ~1 km deep in the mountains between Flatland and Blood.",
+  "t": "珀尔由克鲁罗在桑比的沼泽里采集；宝石则在弗拉特兰与布拉德之间的山里、约1公里深的地下开采。"
+ },
+ "93ef08cd9d2f": {
+  "en": "Lunar mapping: 20",
+  "t": "月相图：20"
+ },
+ "942f15116991": {
+  "en": "Hostel bed: ~5 · Cheap meal + beer: ~5 · Bread bowl (eat it, then give it to the poor): 0–2",
+  "t": "旅舍床位：约5 · 便宜饭菜+啤酒：约5 · 面包碗（吃完后送给穷人）：0–2"
+ },
+ "9be133ff5aa9": {
+  "en": "The treaty bans mass production of goods unless a region holds a **comparative advantage** granted by Forway (renewed every 5 years, with price ceilings and quotas). Forway sits in every region.",
+  "t": "条约禁止大规模生产货物，除非某地区拥有福威授予的**比较优势**（每5年续期一次，附有价格上限和配额）。福威在每个地区都有据点。"
+ },
+ "9e9f34a821c9": {
+  "en": "Nari bombs: 10–30 per ~100 g · Nari gels: 25–750 per ~200 g (see Nari Gels)",
+  "t": "纳里炸弹：每约100克10–30 · 纳里凝胶：每约200克25–750（见纳里凝胶）"
+ },
+ "a4ee28f018d4": {
+  "en": "The farther goods travel, the more they cost. Goods are grouped by how much distance raises their price:",
+  "t": "货物运得越远，价格越贵。货物按距离让价格上涨多少来分组："
+ },
+ "ae29a4aea1aa": {
+  "en": "Guild registration: **1 sapphire**",
+  "t": "公会登记：**1萨菲尔**"
+ },
+ "b1b64468cfcc": {
+  "en": "Any embassy banks for you. Withdrawals and deposits take a few days while the embassy confirms with Forway. Loans are available (rates differ for individuals and guilds). Embassy **storage** delivers to any other embassy — slow, but the safest place to keep your stuff.",
+  "t": "任何大使馆都能为你办理银行业务。取款和存款要几天时间，因为大使馆要向福威确认。可以贷款（个人和公会的利率不同）。大使馆的**储物处**可以把东西送到其他任何大使馆——很慢，但这是存放东西最安全的地方。"
+ },
+ "bc2a30d07242": {
+  "en": "Worth",
+  "t": "价值"
+ },
+ "c16544d2d14b": {
+  "en": "Food and beer, a hostel bed, a wagon ride, used clothes, paper and ink, cheap gear, weak nari gels",
+  "t": "食物和啤酒、旅舍床位、搭一趟马车、旧衣服、纸和墨水、廉价装备、效果弱的纳里凝胶"
+ },
+ "c20e7dd4b491": {
+  "en": "Banking",
+  "t": "银行"
+ },
+ "cad643bab0a2": {
+  "en": "Fundamental school: ~1 aquamarine · Specialized school (4 years, Forway): 5 sapphires",
+  "t": "基础学校：约1阿夸马林 · 专科学校（4年，福威）：5萨菲尔"
+ },
+ "d0d92880152e": {
+  "en": "**Services**",
+  "t": "**服务**"
+ },
+ "d81ba82fb77c": {
+  "en": "Ball",
+  "t": "球"
+ },
+ "db35edd34860": {
+  "en": "Price list (approximate, in pearls unless noted)",
+  "t": "价目表（约数，除非另注，单位为珀尔）"
+ },
+ "de4fec2febae": {
+  "en": "10 aquamarines = 5,000 pearls",
+  "t": "10阿夸马林 = 5,000珀尔"
+ },
+ "e012527b3542": {
+  "en": "Paper (10 sheets) ~1 · Wood People paper ~2 · Winga quill ~2 · Charcoal stick 0–2 / ~7 / refined ~30 · Journal (50 pages) ~35",
+  "t": "纸（10张）约1 · 伍德皮普尔纸 约2 · 温加羽毛笔 约2 · 炭笔 0–2 / 约7 / 精制 约30 · 日记本（50页）约35"
+ },
+ "e636d6e584c3": {
+  "en": "**Freeish region** (Freeish, Blood, Sweetlake, Deltacross, Triangle, Sundeath): flora and fauna.",
+  "t": "**弗里伊什地区**（弗里伊什、布拉德、斯威特莱克、德尔塔克罗斯、特赖安格尔、桑德斯）：动植物。"
+ },
+ "f0124f44434c": {
+  "en": "Sanbi kingdom post: 1 pearl flat",
+  "t": "桑比王国邮政：一律1珀尔"
+ },
+ "f66d6e6ccbf6": {
+  "en": "Fost lamp (glows for ~a year in salt water): ~20",
+  "t": "福斯特灯（在盐水中可亮约一年）：约20"
+ },
+ "f75c2441d72b": {
+  "en": "Distance cost tiers",
+  "t": "距离成本等级"
+ }
+}

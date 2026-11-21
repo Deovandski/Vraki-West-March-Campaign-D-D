@@ -1,0 +1,62 @@
+{
+ "09227714f03f": {
+  "en": "**People:** Human · **Class:** Sorcerer (Soul-Energy origin) · **Background:** Investor-Guild Adventurer (Cliff-Jumpers) · **Alignment:** Chaotic Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**종족:** 인간 · **클래스:** 소서러(영혼 에너지 기원) · **배경:** 투자 길드 모험가(클리프 점퍼스) · **성향:** 혼돈 중립 · **계급:** 펄\n**인터페이스:** 다르파리에스 · **소울 포인트:** 3"
+ },
+ "17b8a8419a92": {
+  "en": "**Drunk Caster.** While drunk: spell damage +1, spell save DC −1.",
+  "t": "**술 취한 시전자.** 취해 있는 동안: 주문 피해 +1, 주문 내성 DC −1."
+ },
+ "2933cf3cfe64": {
+  "en": "**Soul Slap.** +5 to hit, 1d4+2 psychic.",
+  "t": "**영혼 따귀.** 명중 +5, 1d4+2 정신."
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "주문시전"
+ },
+ "4c5cf5b43ee6": {
+  "en": "**Soul Overdraw.** Once per day, convert 1 HP into 1 sorcery point (or 1 SP).",
+  "t": "**영혼 당겨 쓰기.** 하루 한 번, HP 1을 소서리 포인트 1(또는 SP 1)로 바꾼다."
+ },
+ "5cde0cc0a365": {
+  "en": "**Skills:** Arcana +3, Intimidation +5, Acrobatics +4\n**Equipment:** White-caster uniform, flask, sigil rings, spell focus crystal, badge.\n**Hook:** Never knew her father. (DM: see DM Secrets.)",
+  "t": "**기술:** 비전학 +3, 위협 +5, 곡예 +4\n**장비:** 백색 시전자 제복, 휴대용 술병, 시질 링, 주문 집중 수정, 신분패.\n**떡밥:** 아버지를 모른다. (DM: DM의 비밀 참고.)"
+ },
+ "5ebfc416baf6": {
+  "en": "**Personal-Space Aggressor.** Advantage on Intimidation face-to-face.",
+  "t": "**개인 공간 침략자.** 얼굴을 맞댄 위협에 이점."
+ },
+ "6c38f8ce3494": {
+  "en": "**AC** 13 · **HP** 20 · **Speed** 30 ft\n**STR** 10 · **DEX** 14 · **CON** 12 · **INT** 12 · **WIS** 11 · **CHA** 17",
+  "t": "**AC** 13 · **HP** 20 · **이동속도** 30피트\n**근력** 10 · **민첩** 14 · **건강** 12 · **지능** 12 · **지혜** 11 · **매력** 17"
+ },
+ "89b434dd64a1": {
+  "en": "Kaiana Forway Cliff-Jumper — Level 3 Sorcerer (Soul-Caster)",
+  "t": "카이아나 포웨이 클리프 점퍼 — 3레벨 소서러(영혼 시전자)"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "특징과 특성"
+ },
+ "a6816af76883": {
+  "en": "**Spell Save DC** 13 · **Spell Attack** +5 · **Slots** 4 (1st), 2 (2nd)\n*Magic Missile, Shield, Thunderwave, Charm Person, Scorching Ray, Detect Thoughts*\n(Described as Darfaries interface spells: \"Fire CREATE\", \"Gravity REPEL\", etc.)",
+  "t": "**주문 내성 DC** 13 · **주문 공격** +5 · **슬롯** 4(1레벨), 2(2레벨)\n*마법 화살, 방패, 천둥파도, 인간 매혹, 작열 광선, 생각 탐지*\n(다르파리에스 인터페이스 주문으로 묘사한다: ‘파이어 크리에이트’, ‘그래비티 리펠’ 등.)"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "행동"
+ },
+ "b62414631cc0": {
+  "en": "**Cliff-Jumper Debt.** Her guild takes 30% of her quest pay.",
+  "t": "**클리프 점퍼스 빚.** 그녀의 길드가 의뢰 보수의 30%를 가져간다."
+ },
+ "c2b878ae3ed0": {
+  "en": "**Quick-Witted White Caster.** +2 to initiative. \"QWWC\" is sewn on her uniform. Everyone calls her \"AWC with Double D\" instead.",
+  "t": "**재치 있는 백색 시전자.** 우선권 +2. 제복에 ‘QWWC’라고 수놓여 있다. 그런데 다들 대신 ‘AWC with Double D’라고 부른다."
+ },
+ "f6d59ac6c2ab": {
+  "en": "**White-Caster Burst (Recharge 6).** 2d6 radiant in a 10-ft radius.",
+  "t": "**백색 시전자 폭발(재충전 6).** 반경 10피트에 2d6 광휘."
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "098df78db072": {
+  "en": "**Dagger.** +5 to hit, 1d4+3 piercing.",
+  "t": "**الخنجر.** +5 للإصابة، 1d4+3 خارق."
+ },
+ "0bf6c19ae325": {
+  "en": "**Shortbow.** +5 to hit, 1d6+3 piercing.",
+  "t": "**القوس القصير.** +5 للإصابة، 1d6+3 خارق."
+ },
+ "1125477d7a09": {
+  "en": "Takeo Forway Tea-Drinkers — Level 3 Rogue (Inquisitive)",
+  "t": "تاكيو فورواي تي درينكرز — محتال من المستوى 3 (المستقصي)"
+ },
+ "119f0a1c469e": {
+  "en": "**People:** Human (looks Darfaries — tall, big tusks — but has no Darfaries veins) · **Class:** Rogue · **Background:** Guild Muscle (Tea-Drinkers) · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 4",
+  "t": "**الشعب:** بشري (يبدو دارفاريس — طويل، بأنياب كبيرة — لكن بلا عروق دارفاريس) · **الفئة:** محتال · **الخلفية:** عضلات النقابة (تي درينكرز) · **التوجه:** منضبط محايد · **الرتبة:** بيرل\n**الواجهة:** دارفاريس · **نقاط الروح:** 4"
+ },
+ "24a0c5096373": {
+  "en": "**Dark Side.** Lie to him and the politeness ends. When his Insight catches someone's lie, he has advantage on attacks and Intimidation checks against that creature until the end of the scene. Once he starts questioning someone, stopping takes a DC 12 Wisdom save.",
+  "t": "**الجانب المظلم.** اكذب عليه وينتهي التهذيب. حين تكشف بصيرته كذبة أحد، تكون له أفضلية على الهجمات واختبارات الترهيب ضد ذلك المخلوق حتى نهاية المشهد. وما إن يبدأ استجواب أحد، فالتوقف يحتاج إنقاذ حكمة DC 12."
+ },
+ "306a93d6bd63": {
+  "en": "**Skills:** Stealth +5, Investigation +5, Insight +5, Intimidation +4\n**Equipment:** Steel finger-clipping pliers, dark cloak, boots, a Steen stick to chew, a letter from his father Francisco, badge.\n**Hook:** Hates lies and hates being suspected. Has a very personal definition of justice.",
+  "t": "**المهارات:** التخفي +5، التحقيق +5، البصيرة +5، الترهيب +4\n**العتاد:** كمّاشة فولاذية لقصّ الأصابع، عباءة داكنة، حذاء طويل، عود ستين للمضغ، رسالة من أبيه فرانسيسكو، بطاقة.\n**الخيط:** يكره الكذب ويكره أن يُشتبه فيه. ولديه تعريف شخصي جدًا للعدالة."
+ },
+ "34fbbfd8002d": {
+  "en": "**Insightful Fighting.** Bonus action: Insight vs. the target's Deception to get Sneak Attack without advantage.",
+  "t": "**القتال البصير.** فعل إضافي: البصيرة مقابل خداع الهدف لينال الهجوم الخفي دون أفضلية."
+ },
+ "6a5ad0d63585": {
+  "en": "**Not Quite Darfaries.** Immune to being charmed for 1 round (1/day). Doesn't like being asked about his veins.",
+  "t": "**ليس دارفاريس تمامًا.** محصّن ضد حالة المسحور لجولة واحدة (1/يوم). ولا يحب أن يُسأل عن عروقه."
+ },
+ "6c865c4df135": {
+  "en": "Rogue Features",
+  "t": "سمات المحتال"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "السمات والخصال"
+ },
+ "aa332f45694d": {
+  "en": "**New pre-gen:** this sheet carries the interrogator traits that the Alpha campaign had put on Hiromi.",
+  "t": "**شخصية جاهزة جديدة:** هذه الورقة تحمل خصال المستجوِب التي وضعتها حملة ألفا على هيرومي."
+ },
+ "abd56a0f4324": {
+  "en": "**Interrogator's Edge.** Proficiency with torture tools (his finger-clipping pliers); +2 to Intimidation.",
+  "t": "**حدّ المستجوِب.** إتقان أدوات التعذيب (كمّاشته لقصّ الأصابع)؛ و+2 على الترهيب."
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "الأفعال"
+ },
+ "b25d10ec1aa2": {
+  "en": "**Sneak Attack (2d6).**",
+  "t": "**الهجوم الخفي (2d6).**"
+ },
+ "c5738e07a531": {
+  "en": "**Curt.** Few words, a flat voice, and polite only up to a point. Disadvantage on Persuasion checks that need warmth or small talk; advantage on Intimidation when he goes quiet and just stares.",
+  "t": "**مقتضب.** قليل الكلام، صوته رتيب، ومهذب إلى حدّ ما فقط. عيب على اختبارات الإقناع التي تحتاج دفئًا أو أحاديث جانبية؛ وأفضلية على الترهيب حين يصمت ويحدّق فقط."
+ },
+ "dc4533abc8ab": {
+  "en": "**Hifuna Yabuca Habit.** Once per long rest he can eat a Hifuna fruit for +2 Strength for 1 hour. He also gains 1 Exposure (see Dangerous Places).",
+  "t": "**عادة يابوكا هيفونا.** مرة في كل استراحة طويلة، يستطيع أكل ثمرة من هيفونا ليكسب +2 للقوة لمدة ساعة. ويكسب أيضًا 1 تعرّض (انظر الأماكن الخطرة)."
+ },
+ "e445e97f209c": {
+  "en": "**AC** 14 · **HP** 27 · **Speed** 30 ft\n**STR** 14 · **DEX** 16 · **CON** 14 · **INT** 12 · **WIS** 13 · **CHA** 10",
+  "t": "**AC** 14 · **HP** 27 · **السرعة** 30 قدمًا\n**القوة** 14 · **البراعة** 16 · **البنية** 14 · **الذكاء** 12 · **الحكمة** 13 · **الكاريزما** 10"
+ },
+ "e9c8c9750663": {
+  "en": "**Conflict Avoidant.** If allies argue, DC 10 Wis save or he leaves the scene for 1 round (\"We finished the quest. We celebrated. We all spoke our minds. Now we say our goodbyes.\").",
+  "t": "**يتجنب الخلافات.** إن تجادل الحلفاء، إنقاذ حكمة DC 10 أو يغادر المشهد جولة واحدة («أنهينا المهمة. واحتفلنا. وقال كلٌّ منا ما في نفسه. والآن نودّع بعضنا.»)."
+ },
+ "ee50b734c002": {
+  "en": "**Clip & Question (Recharge 6).** A grappled or restrained creature makes a DC 12 Wis save or is frightened for 1 round and answers one question truthfully.",
+  "t": "**القصّ والسؤال (إعادة شحن 6).** مخلوق ممسوك أو مقيّد يرمي إنقاذ حكمة DC 12 أو يصبح خائفًا لجولة واحدة ويجيب عن سؤال واحد بصدق."
+ },
+ "fe5c6761cdeb": {
+  "en": "**Cunning Action.** Dash, Disengage or Hide as a bonus action.",
+  "t": "**الفعل الماكر.** الاندفاع أو الانسحاب أو الاختباء كفعل إضافي."
+ }
+}

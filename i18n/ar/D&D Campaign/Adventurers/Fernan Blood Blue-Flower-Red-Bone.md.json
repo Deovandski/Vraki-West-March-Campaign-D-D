@@ -1,0 +1,62 @@
+{
+ "0db1e1968fba": {
+  "en": "**Seeking Arrow (1/day, or 2 SP).** Automatically hits for 1d8+4.",
+  "t": "**السهم الباحث (1/يوم، أو 2 SP).** يصيب تلقائيًا بـ1d8+4."
+ },
+ "31d4a65e1f13": {
+  "en": "**Archer's Pride.** +1 damage with bows.",
+  "t": "**كبرياء الرامي.** +1 ضرر بالأقواس."
+ },
+ "7f49b0e07f7c": {
+  "en": "**Shortsword.** +6 to hit, 1d6+4 slashing.",
+  "t": "**السيف القصير.** +6 للإصابة، 1d6+4 قاطع."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "السمات والخصال"
+ },
+ "a8ba00cb4e90": {
+  "en": "**Canon note:** in the lore, Fernan is a famous Sapphire who \"died in Hifuna\". Play him as his **young self** in a flashback/one-shot, as a look-alike, or with your table's blessing to bend canon. The West March doesn't follow the novels, so it's your call.",
+  "t": "**ملاحظة عن الأصل:** في الحكاية، فيرنان سافاير مشهور «مات في هيفونا». العبه في **شبابه** في استرجاع للماضي أو مغامرة قصيرة، أو شبيهًا له، أو بمباركة طاولتك لثني الأصل. ويست مارش لا تتبع الروايات، فالقرار لك."
+ },
+ "ac6e8077bfba": {
+  "en": "**People:** \"Pure\" human · **Class:** Fighter · **Background:** Sapphire Hero (young) · **Alignment:** Chaotic Good · **Rank:** Pearl\n**Interface:** none (can't use sigil rings) · **Soul Points:** 4 (+1 extra on each long rest: Deep Soul)",
+  "t": "**الشعب:** بشري «نقي» · **الفئة:** مقاتل · **الخلفية:** بطل سافاير (شاب) · **التوجه:** فوضوي خيّر · **الرتبة:** بيرل\n**الواجهة:** لا شيء (لا يستطيع استخدام خواتم سيجيل) · **نقاط الروح:** 4 (+1 إضافية في كل استراحة طويلة: روح عميقة)"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "الأفعال"
+ },
+ "b2f990388845": {
+  "en": "**Romantic Fool.** Disadvantage on Insight checks involving attractive Wozefaries with long hair.",
+  "t": "**أحمق رومانسي.** عيب على اختبارات البصيرة التي تخص ووزيفاريس جذابات طويلات الشعر."
+ },
+ "bb91d72d923a": {
+  "en": "Fernan Blood Blue-Flower-Red-Bone — Level 3 Fighter (Arcane Archer-lite)",
+  "t": "فيرنان بلاد بلو-فلاور-ريد-بون — مقاتل من المستوى 3 (رامي الغوامض المبسّط)"
+ },
+ "cee7f64b59a3": {
+  "en": "**Burst Arrow (2/day, or 1 SP).** 1d6 force in a 5-ft radius on impact.",
+  "t": "**السهم المتفجر (2/يوم، أو 1 SP).** 1d6 قوة في نصف قطر 5 أقدام عند الإصابة."
+ },
+ "d85990cacf19": {
+  "en": "**Selfless Defender.** When an ally within 5 ft is hit, Fernan can use his reaction to impose disadvantage on the attack (1/day).",
+  "t": "**مدافع إيثاري.** حين يُصاب حليف ضمن 5 أقدام، يستطيع فيرنان استخدام رد فعله لفرض عيب على الهجوم (1/يوم)."
+ },
+ "d9b62b28d873": {
+  "en": "**Skills:** Athletics +4, Perception +3, Persuasion +5, Acrobatics +6\n**Equipment:** Masterwork bow (chitin and bone wood, Winga-beak blades for close quarters), quiver, jerky, travel cloak, a carved statue of Akemi, badge.",
+  "t": "**المهارات:** الرياضة +4، الإدراك +3، الإقناع +5، الألعاب البهلوانية +6\n**العتاد:** قوس متقن الصنع (كيتين وخشب عظمي، ونصال من منقار الوينغا للالتحام)، جعبة، لحم مجفف، عباءة سفر، تمثال منحوت لأكيمي، بطاقة."
+ },
+ "efe9218cdc56": {
+  "en": "**Longbow.** +7 to hit, 1d8+5 piercing.",
+  "t": "**القوس الطويل.** +7 للإصابة، 1d8+5 خارق."
+ },
+ "f7e160178e9a": {
+  "en": "**Born Hero.** Advantage on Persuasion checks with civilians.",
+  "t": "**بطل بالفطرة.** أفضلية على اختبارات الإقناع مع المدنيين."
+ },
+ "ff1e39f790f0": {
+  "en": "**AC** 16 · **HP** 32 · **Speed** 30 ft\n**STR** 14 · **DEX** 18 · **CON** 14 · **INT** 11 · **WIS** 13 · **CHA** 16",
+  "t": "**AC** 16 · **HP** 32 · **السرعة** 30 قدمًا\n**القوة** 14 · **البراعة** 18 · **البنية** 14 · **الذكاء** 11 · **الحكمة** 13 · **الكاريزما** 16"
+ }
+}

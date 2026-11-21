@@ -28,8 +28,22 @@ Pages load from the internet when there is a connection; with no answer in 4 sec
 ## Saving
 Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.
 
+## Languages
+The site comes in English and six translations: 中文 (Simplified Chinese), 日本語 (Japanese), Português (Brazil), Español (Spain), العربية (Arabic) and 한국어 (Korean). They are AI translations of the English, written ahead of time and kept in the repo; nothing is translated on the fly, and English stays the original.
+- **Picking one:** open **Settings (⚙)** in the top bar. It lists every language in its own script with how much of it is done, has the light/dark switch, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.
+- **The banner:** every translated page starts with "AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm" in that language, and a one-click switch back to English.
+- **What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.
+- **Arabic** reads right to left: the whole layout flips, while dice, numbers and the map don't. Chinese, Japanese, Korean and Arabic use system fonts made for their scripts.
+- **Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.
+- **Save files** don't depend on the language: one saved in Japanese loads in English and the other way round.
+- **Not translated yet:** when the English changes, the new or changed text shows in English until the next translation batch. The site never waits for a translation.
+
+How the translations are stored and updated: [i18n/README.md](../i18n/README.md).
+
 ## Publishing
 The workflow in `.github/workflows/pages.yml` publishes the site on every push to `main`: it refreshes `site/snapshot.js`, gathers the site and the Markdown it reads, and deploys them to GitHub Pages. You can also run it by hand from the Actions tab (**Website → Run workflow**).
+
+On the way it writes the translations the site loads (`node tools/i18n.js build`, into `site/i18n/`) and renders the handouts in each language (`Handouts/<lang>/`). If the handouts can't be rendered, the site still deploys with the English ones. The step summary of each run, and of the **Translations** workflow on every pull request, says how much of each language is translated; neither ever fails because of a missing translation.
 
 It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.
 
@@ -64,12 +78,18 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 | Change a rule, a stat block or an encounter table | Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it. |
 | Change a route's length, or add a route | Edit the **Route lengths** table in `Maps/README.md` (From, To, Circles, On the map, Encounter table). The travel map page and the travel planner read it directly. |
 | Add a new page | Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap. |
+| Change English text | Just change it. The translations show the old text's translation until the English is translated again; new or changed text shows in English until then. See [i18n/README.md](../i18n/README.md). |
+| Add text to the site's own code | Wrap it: `__("Roll anything")`, `__.n(n, "{n} day", "{n} days")`, or `data-i18n` on an element in `index.html`. `node tools/i18n.js todo` then lists it for translating. |
 | Refresh the offline copy | The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`. |
 
 ## Files
 - `index.html` — the page itself
 - `site/css/site.css` — the look
 - `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)
+- `site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)
+- `site/js/lang-picker.js` and `site/css/lang-picker.css` — the language list in Settings (a reusable component)
+- `site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)
+- `site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.
 - `site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline
 - `site/build-llms.js` — writes `llms.txt`, `llms-full.txt` and `sitemap.xml` for AI tools and search engines (run by the publishing workflow)
 - `sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)

@@ -1,0 +1,222 @@
+{
+ "0236415102a6": {
+  "en": "**Maul.** +6, 2d6+4 bludgeoning; on a hit, DC 13 Str save or knocked prone.",
+  "t": "**巨锤。** +6，2d6+4钝击；命中时，目标进行DC 13力量豁免，失败则倒地。"
+ },
+ "07a7b2e85dde": {
+  "en": "**Wood People bandits:** carry fost stones to herd and steer Wood People (DC 12 to steer one 30 ft).",
+  "t": "**伍德皮普尔强盗：** 带着福斯特石驱赶和操控伍德皮普尔（DC 12可让一个移动30尺）。"
+ },
+ "0fee232fd478": {
+  "en": "Knows every quest, every deadline and everyone's debt. Bribable with gossip.",
+  "t": "知道每一个委托、每一个期限和每个人的债务。用八卦就能收买。"
+ },
+ "1230de140aac": {
+  "en": "**Black Honey Pot (1/day).** When reduced to 0 HP, an adjacent guard can use an action to revive it at 1 HP. Steal the pot (leg pocket) to stop it.",
+  "t": "**黑蜜罐（1/日）。** 当生命值降到0时，相邻的卫兵可以用一个动作让它以1点HP复活。偷走罐子（在腿上的口袋里）就能阻止。"
+ },
+ "13511c528b67": {
+  "en": "AC 17 (shiny plate-ish armor) · HP 25 · speed 25 ft",
+  "t": "AC 17（闪亮的板甲式护甲）· HP 25 · 速度25尺"
+ },
+ "1951b7183d1e": {
+  "en": "**Nari Bomb (1/day).** Smoke (heavily obscured 20 ft) — then they either attack or leave.",
+  "t": "**纳里炸弹（1/日）。** 烟雾（20尺重度遮蔽）——然后他们要么攻击，要么离开。"
+ },
+ "1c3ca56a75c4": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to all adjacent.",
+  "t": "**甲刺爆发（充能6）。** 对所有相邻者造成2d6穿刺。"
+ },
+ "29a602afd8d2": {
+  "en": "**Hallucinogen Reflexes.** Advantage on initiative and Dex saves.",
+  "t": "**致幻剂反射。** 先攻和敏捷豁免具有优势。"
+ },
+ "2d5263334e87": {
+  "en": "**Gore Charge.** Moves 20 ft straight and attacks: +7, 2d6+4 piercing; prone on a hit (DC 14 Str).",
+  "t": "**角冲。** 直线移动20尺并攻击：+7，2d6+4穿刺；命中则倒地（DC 14力量）。"
+ },
+ "320874f96ff8": {
+  "en": "Tolerideme Guard (CR 2) — use *Guard*, but…",
+  "t": "托勒里德梅卫兵（CR 2）——使用*守卫*，不过……"
+ },
+ "3b8e5cbbaa7c": {
+  "en": "Sigil rings for four spells; a satchel of three random nari gels; lab notes worth 1 aquamarine to the right buyer; terrible people skills.",
+  "t": "可施放四种法术的西吉尔戒指；装着三份随机纳里凝胶的挎包；对合适的买家来说值1颗阿夸马林的实验笔记；糟糕透顶的人际交往能力。"
+ },
+ "4459a6e3416b": {
+  "en": "Big Winga Guard (CR 4)",
+  "t": "大温加卫兵（CR 4）"
+ },
+ "44c38ac88b36": {
+  "en": "Guards, bandits and specialists. Built on 5e NPC blocks with Vraki gear. All carry an embassy badge unless noted.",
+  "t": "卫兵、强盗和专家。以5e的NPC数据为基础，加上弗拉基的装备。除非另有说明，所有人都带着大使馆身份牌。"
+ },
+ "4588770cb746": {
+  "en": "**Alone, Silent.** Helmet locks the tusks; can't speak while wearing it. Advantage on saves vs. fear.",
+  "t": "**孤独，沉默。** 头盔锁住了獠牙；戴着时无法说话。对抗恐惧的豁免具有优势。"
+ },
+ "4972b66312c3": {
+  "en": "Bandit (CR ⅛) / Bandit Captain (CR 2)",
+  "t": "强盗（CR ⅛）/强盗头目（CR 2）"
+ },
+ "4b07d1fecf6e": {
+  "en": "Mixed Human–Darfaries; red Walking Heart (undead).\nAC 16 · HP 170 · speed 40 ft",
+  "t": "人类和达尔法里斯混血；红色沃金哈特（亡灵）。\nAC 16 · HP 170 · 速度40尺"
+ },
+ "4eac88db08e6": {
+  "en": "The Stinger (CR 5) — Morika in Sweet Sting chitin",
+  "t": "斯廷格（CR 5）——穿着斯威特斯廷甲壳的莫里卡"
+ },
+ "516f98d608f7": {
+  "en": "**Never Negotiates.** Immune to Persuasion attempts to bargain.",
+  "t": "**绝不谈判。** 对讨价还价的游说尝试免疫。"
+ },
+ "5e83d8d48ae1": {
+  "en": "**Gauntlet.** +4, 1d8+2 bludgeoning.",
+  "t": "**护手。** +4，1d8+2钝击。"
+ },
+ "619b1642dbab": {
+  "en": "Perfect cover identity (maid, florist, courtesan); Fake Skin gel; poisoned hairpin (Bleed Out I). \"We are here to please you.\"",
+  "t": "完美的伪装身份（女仆、花店店员、交际花）；费克斯金凝胶；淬毒发簪（布利德奥特I）。“我们在这里是为了让你满意。”"
+ },
+ "64f49fb45008": {
+  "en": "A Forway guard in Big Winga gel: use **Big Winga** stats, but Intelligence 10, can understand Vraki, and patrols embassies.",
+  "t": "使用大温加凝胶的福威卫兵：使用**大温加**的数据，但智力为10，能听懂弗拉基语，并在大使馆巡逻。"
+ },
+ "76498dd7d77b": {
+  "en": "Soul Energy Scientist (CR 2) — use *Mage* (lower slots)",
+  "t": "灵魂能量科学家（CR 2）——使用*法师*（法术位较少）"
+ },
+ "7b4b60e9db04": {
+  "en": "AC 16 (gauntlets + padding) · HP 30 · speed 25 ft",
+  "t": "AC 16（护手＋衬垫）· HP 30 · 速度25尺"
+ },
+ "7dbaa9bf7dee": {
+  "en": "**Urban Legend.** Commoners who see it make a DC 12 Wis save or flee. Out of the armor he's mute, polite and anxious.",
+  "t": "**都市传说。** 看到它的平民进行DC 12感知豁免，失败则逃跑。脱下盔甲后，他不说话、有礼貌、很焦虑。"
+ },
+ "7ea03821ca8d": {
+  "en": "Use the 5e blocks. Vraki flavors:",
+  "t": "使用5e的数据。弗拉基风味："
+ },
+ "854970f19672": {
+  "en": "Sanbi Guard (CR 1) — use *Scout*",
+  "t": "桑比卫兵（CR 1）——使用*斥候*"
+ },
+ "857f701797c0": {
+  "en": "Embassy Clerk (CR 0) — use *Commoner*",
+  "t": "大使馆书记员（CR 0）——使用*平民*"
+ },
+ "993606c5cd98": {
+  "en": "**Stinger Slash.** Two attacks, +7, 1d8+4 slashing.",
+  "t": "**毒刺斩击。** 两次攻击，+7，1d8+4挥砍。"
+ },
+ "a0ad1b3e4e92": {
+  "en": "Kozaku Forway, Blue Wozens Boss (CR 9)",
+  "t": "小作·福威，布卢沃增斯首领（CR 9）"
+ },
+ "a487976a4b05": {
+  "en": "Gandew Guard (CR 3) — use *Thug* with chitin",
+  "t": "甘杜卫兵（CR 3）——使用带甲壳的*暴徒*"
+ },
+ "a670e63b8ac0": {
+  "en": "AC 18 (chitin) · HP 45",
+  "t": "AC 18（甲壳）· HP 45"
+ },
+ "abb930ea22d2": {
+  "en": "**Undead.** No breathing, eating or sleep; immune to poison; can't be revived.",
+  "t": "**亡灵。** 不呼吸、不进食、不睡觉；对毒素免疫；无法被复活。"
+ },
+ "b09a5c4aa8a6": {
+  "en": "**Nari Bomb Dash.** Throws smoke, then moves 30 ft without provoking.",
+  "t": "**纳里炸弹脱身。** 扔出烟雾，然后移动30尺且不引发借机攻击。"
+ },
+ "b37a90d4886e": {
+  "en": "People Stat Blocks",
+  "t": "数据卡：人物"
+ },
+ "b409cf7e7748": {
+  "en": "**Red Heart Rage.** Multiattack: three punches, +9, 2d10+6 bludgeoning. On a crit, the target's head is… gone (DC 15 Con save to survive at 0 HP instead).",
+  "t": "**红心狂怒。** 多重攻击：三拳，+9，2d10+6钝击。重击时，目标的脑袋……没了（改为进行DC 15体质豁免，成功则以0 HP存活）。"
+ },
+ "b8aaef8dfd76": {
+  "en": "**Pack Tactics.** Advantage on attacks while an ally is within 5 ft of the target. Always in groups of 3+.",
+  "t": "**集群战术。** 只要有盟友在目标5尺内，攻击就具有优势。总是3人以上一起行动。"
+ },
+ "bbc7fcfa7538": {
+  "en": "Red Winga Agent (CR 2) — use *Spy*",
+  "t": "雷德温加特工（CR 2）——使用*间谍*"
+ },
+ "c488677977f1": {
+  "en": "**Sleeve Sword.** +5, 1d6+3; can draw and attack as one action (surprise).",
+  "t": "**袖剑。** +5，1d6+3；可以把拔剑和攻击作为同一个动作完成（突袭）。"
+ },
+ "c49f6bb5cf5c": {
+  "en": "Forway Captain (CR 5) — use *Veteran*",
+  "t": "福威队长（CR 5）——使用*老兵*"
+ },
+ "c5e3b3575eb6": {
+  "en": "**Superiority Complex.** If an enemy looked weak last turn (took the Dodge action, retreated, or failed a check), the guard has disadvantage on its next Wisdom (Insight) check and attack against that enemy.",
+  "t": "**优越感。** 如果某个敌人上一回合看起来很弱（采取了闪避动作、撤退或检定失败），卫兵对该敌人的下一次感知（洞悉）检定和攻击具有劣势。"
+ },
+ "c673532a4dbc": {
+  "en": "**Longbow.** +4, 1d8+2 piercing; arrows may carry a nari gel (Body Paralysis II or Sleep Inducer I).",
+  "t": "**长弓。** +4，1d8+2穿刺；箭上可能带着纳里凝胶（博迪帕拉利西斯II或斯利普因杜瑟I）。"
+ },
+ "c958063e2e51": {
+  "en": "Freeish Guard (CR 1)",
+  "t": "弗里伊什卫兵（CR 1）"
+ },
+ "ccfd193c3603": {
+  "en": "**Unstoppable.** Advantage on Str checks and saves. Red flame bursts from his chest when angry.",
+  "t": "**势不可挡。** 力量检定和豁免具有优势。发怒时，红色火焰会从他胸口喷出。"
+ },
+ "d3087640897e": {
+  "en": "**Blue Wozens:** blue Wozen badge; prefer robbery to killing (\"donation\"). ",
+  "t": "**布卢沃增斯：** 蓝色沃增身份牌；比起杀人更喜欢抢劫（“捐款”）。 "
+ },
+ "d867cbc5f5f2": {
+  "en": "**Bagarisa Brothers:** use *Berserker*; secret tusk handshake.",
+  "t": "**巴加里萨兄弟：** 使用*狂战士*；用獠牙进行的秘密握手。"
+ },
+ "db454435d4b3": {
+  "en": "**Fallen Tree:** ex-adventurers — use *Veteran*/*Spy*; hate embassy staff.",
+  "t": "**福伦特里：** 前冒险者——使用*老兵*/*间谍*；憎恨大使馆的工作人员。"
+ },
+ "dc3f4418293a": {
+  "en": "Forway Guard (CR 1) — use *Guard* + changes",
+  "t": "福威卫兵（CR 1）——使用*守卫*＋改动"
+ },
+ "e090fef53559": {
+  "en": "**Beer Balls:** drunk; disadvantage on Wis saves; fight fiercely for beer.",
+  "t": "**比尔博尔斯：** 醉醺醺的；感知豁免具有劣势；为了啤酒会拼命战斗。"
+ },
+ "e1eec0c0e3a4": {
+  "en": "AC 14 (bone-wood) · HP 22",
+  "t": "AC 14（骨木）· HP 22"
+ },
+ "ef072a0e73ec": {
+  "en": "**Everything Is a Weapon.** Improvised weapons count as proficient (1d6).",
+  "t": "**什么都是武器。** 临时武器视为熟练武器（1d6）。"
+ },
+ "ef28c44a61fa": {
+  "en": "**Elemental Ball (slow).** Takes a full turn to charge (it's obvious); next turn ranged 60 ft, +5, 3d8 cold/fire/lightning/thunder. Only cast in packs of 4+.",
+  "t": "**元素球（缓慢）。** 需要整整一个回合蓄力（很明显）；下一回合远程60尺，+5，3d8寒冷/火焰/闪电/雷鸣。只在4人以上成群时施放。"
+ },
+ "f536fddbeee8": {
+  "en": "**Black Magina:** never kill; Sleep Inducer darts (+4, DC 13 Con or unconscious 1 minute).",
+  "t": "**布莱克玛吉纳：** 从不杀人；斯利普因杜瑟吹箭（+4，DC 13体质豁免，失败则昏迷1分钟）。"
+ },
+ "f56ab8004c44": {
+  "en": "**Burnout.** If he uses Multiattack 3 turns in a row, he takes 2d10 necrotic each extra turn (his soul is burning). Someone must stop him — or let him burn out.",
+  "t": "**燃尽。** 如果他连续3个回合使用多重攻击，之后每多一个回合就受到2d10黯蚀伤害（他的灵魂在燃烧）。必须有人阻止他——或者让他自己燃尽。"
+ },
+ "fb89d6354a8c": {
+  "en": "Same armor as a soldier plus a **fancy cap**. Adds: **Entangle Ring** (all allies within 120 ft hear its orders), **Body RESTORE ring** (Tier II, 2/day), authority over embassy grounds.",
+  "t": "和士兵一样的护甲，外加一顶**花哨的帽子**。增加：**因坦格尔戒指**（120尺内所有盟友都能听到它的命令）、**博迪里斯托尔戒指**（第II级，2/日）、在大使馆范围内的权力。"
+ },
+ "fd68f87feed2": {
+  "en": "**Crossbow.** +4, 1d8+2 piercing, range 80/320.",
+  "t": "**弩。** +4，1d8+2穿刺，射程80/320。"
+ }
+}

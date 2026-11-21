@@ -1,0 +1,78 @@
+{
+ "108c02d3ae08": {
+  "en": "**Improved Critical.** Crits on 19–20.",
+  "t": "**향상된 치명타.** 19–20에 치명타."
+ },
+ "37a880c1b1e8": {
+  "en": "**Storyteller.** Every story stars Hiromi. Advantage on Performance checks to tell a tale in a tavern; disadvantage on Stealth when he's talking (he's always talking).",
+  "t": "**이야기꾼.** 모든 이야기의 주인공은 히로미다. 선술집에서 이야기를 들려주는 공연 판정에 이점. 말하는 동안에는 은신에 불리점(그는 언제나 말하고 있다)."
+ },
+ "3d4153400378": {
+  "en": "**Second Wind.** Bonus action: regain 1d10+3 HP (1/short rest).",
+  "t": "**재기의 바람.** 추가 행동: HP 1d10+3 회복(짧은 휴식마다 1회)."
+ },
+ "4139492966c2": {
+  "en": "**Tusks.** +5 to hit, 1d6+3 piercing.",
+  "t": "**엄니.** 명중 +5, 1d6+3 관통."
+ },
+ "430d4a3e1739": {
+  "en": "**Action Surge.** One extra action (1/short rest).",
+  "t": "**행동 연쇄.** 추가 행동 1회(짧은 휴식마다 1회)."
+ },
+ "735f488f53ec": {
+  "en": "**Flies Off the Handle.** If someone insults something he holds dear (Yacamim, Gandew, booze), DC 12 Wis save or he picks a fight.",
+  "t": "**욱하는 성질.** 누군가 그가 아끼는 것(야카밍, 간듀, 술)을 모욕하면, DC 12 지혜 내성에 실패할 경우 싸움을 건다."
+ },
+ "754970f1d473": {
+  "en": "**AC** 16 (chitin scale) · **HP** 31 · **Speed** 30 ft\n**STR** 17 · **DEX** 12 · **CON** 16 · **INT** 10 · **WIS** 11 · **CHA** 14",
+  "t": "**AC** 16(키틴 비늘 갑옷) · **HP** 31 · **이동속도** 30피트\n**근력** 17 · **민첩** 12 · **건강** 16 · **지능** 10 · **지혜** 11 · **매력** 14"
+ },
+ "7d514fe0e6d4": {
+  "en": "**Gandew Duelist.** Knows the Duel Rights by heart; advantage on checks to start, referee or end a Gandew-style duel.",
+  "t": "**간듀 결투가.** 결투권을 줄줄 외운다. 간듀식 결투를 시작하고, 심판하고, 끝내는 판정에 이점."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "특징과 특성"
+ },
+ "aa79d07c4c28": {
+  "en": "**People:** Darfaries · **Class:** Fighter (Champion) · **Background:** Royal Runaway (First Prince of Gandew) · **Alignment:** Chaotic Good · **Rank:** Pearl (he never bothered to get promoted)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**종족:** 다르파리에스 · **클래스:** 파이터(투사) · **배경:** 왕실 가출인(간듀의 제1왕자) · **성향:** 혼돈 선 · **계급:** 펄(승급할 생각이 아예 없었다)\n**인터페이스:** 다르파리에스 · **소울 포인트:** 5"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "행동"
+ },
+ "bda26062d511": {
+  "en": "**Change from the original Alpha sheet:** it made Hiromi a human interrogator rogue — those traits actually belong to Takeo (see *Takeo Forway Tea-Drinkers*). This sheet matches the lore: a 232 cm Darfaries prince who'd rather drink and wander.",
+  "t": "**원래 알파 시트에서 바뀐 점:** 예전 시트는 히로미를 인간 심문관 로그로 만들었다 — 그 특성은 사실 다케오의 것이다(*다케오 포웨이 티 드링커스* 참고). 이 시트는 설정에 맞췄다: 술 마시고 떠도는 걸 더 좋아하는 키 232 cm의 다르파리에스 왕자."
+ },
+ "bdae4d2fd0cf": {
+  "en": "Fighter Features",
+  "t": "파이터 특징"
+ },
+ "c828aacb0ce2": {
+  "en": "**Belly Shake Shove.** Shove a creature 10 ft instead of 5 (Mountain Greeting gone wrong).",
+  "t": "**배치기 밀기.** 크리처를 5피트가 아니라 10피트 밀어낸다(산의 인사가 잘못된 것)."
+ },
+ "cf078d270fbf": {
+  "en": "**Skills:** Athletics +5, Intimidation +4, Performance +4, Survival +2\n**Equipment:** Maul (his mother forged it), chitin scale armor, a quaich bowl, three bottles of something strong, picture book of the sea, badge (High-Gandew).\n**Hook:** Engaged to a Sanbi princess he beat in a bar brawl. Neither of them wants the crown.",
+  "t": "**기술:** 운동 +5, 위협 +4, 공연 +4, 생존 +2\n**장비:** 대형 망치(어머니가 벼렸다), 키틴 비늘 갑옷, 퀘이크 잔, 독한 무언가가 든 병 세 개, 바다 그림책, 신분패(하이 간듀).\n**떡밥:** 술집 싸움에서 이긴 산비 공주와 약혼했다. 둘 다 왕관은 원하지 않는다."
+ },
+ "d962e3e67d18": {
+  "en": "**Darfaries.** Powerful Build, Tusks (1d6+3 piercing), Darfaries Veins (senses spells and weather within 30 ft), Soften the Fall (30 ft), Neutralizing Saliva (1/long rest).",
+  "t": "**다르파리에스.** 강인한 체격, 엄니(1d6+3 관통), 다르파리에스 혈관(30피트 이내의 주문과 날씨를 감지), 낙하 완화(30피트), 중화 침(긴 휴식마다 1회)."
+ },
+ "f32d6944e118": {
+  "en": "**Round's on Me.** Spend 10 pearls in a tavern: advantage on Charisma checks there for the evening.",
+  "t": "**이번 잔은 내가 쏜다.** 선술집에서 펄 10닢을 쓴다: 그날 저녁 그곳에서의 매력 판정에 이점."
+ },
+ "f3ce270dd1da": {
+  "en": "**Maul.** +5 to hit, 2d6+3 bludgeoning.",
+  "t": "**대형 망치.** 명중 +5, 2d6+3 타격."
+ },
+ "f60d12af7cf5": {
+  "en": "Hiromi High-Gandew Tough-Hammer — Level 3 Fighter (Gandew Brawler)",
+  "t": "히로미 하이 간듀 터프 해머 — 3레벨 파이터(간듀 싸움꾼)"
+ }
+}

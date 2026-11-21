@@ -1,0 +1,78 @@
+{
+ "108c02d3ae08": {
+  "en": "**Improved Critical.** Crits on 19–20.",
+  "t": "**Crítico Aprimorado.** Crítico com 19–20."
+ },
+ "37a880c1b1e8": {
+  "en": "**Storyteller.** Every story stars Hiromi. Advantage on Performance checks to tell a tale in a tavern; disadvantage on Stealth when he's talking (he's always talking).",
+  "t": "**Contador de Histórias.** Toda história é estrelada por Hiromi. Vantagem em testes de Atuação para contar uma história numa taverna; desvantagem em Furtividade quando ele está falando (ele está sempre falando)."
+ },
+ "3d4153400378": {
+  "en": "**Second Wind.** Bonus action: regain 1d10+3 HP (1/short rest).",
+  "t": "**Retomar o Fôlego.** Ação bônus: recupera 1d10+3 HP (1/descanso curto)."
+ },
+ "4139492966c2": {
+  "en": "**Tusks.** +5 to hit, 1d6+3 piercing.",
+  "t": "**Presas.** +5 para acertar, 1d6+3 perfurante."
+ },
+ "430d4a3e1739": {
+  "en": "**Action Surge.** One extra action (1/short rest).",
+  "t": "**Surto de Ação.** Uma ação extra (1/descanso curto)."
+ },
+ "735f488f53ec": {
+  "en": "**Flies Off the Handle.** If someone insults something he holds dear (Yacamim, Gandew, booze), DC 12 Wis save or he picks a fight.",
+  "t": "**Pavio Curto.** Se alguém insulta algo que ele preza (Yacamim, Gandew, bebida), teste de resistência de Sab DC 12 ou ele arranja briga."
+ },
+ "754970f1d473": {
+  "en": "**AC** 16 (chitin scale) · **HP** 31 · **Speed** 30 ft\n**STR** 17 · **DEX** 12 · **CON** 16 · **INT** 10 · **WIS** 11 · **CHA** 14",
+  "t": "**AC** 16 (escamas de quitina) · **HP** 31 · **Deslocamento** 30 pés\n**FOR** 17 · **DES** 12 · **CON** 16 · **INT** 10 · **SAB** 11 · **CAR** 14"
+ },
+ "7d514fe0e6d4": {
+  "en": "**Gandew Duelist.** Knows the Duel Rights by heart; advantage on checks to start, referee or end a Gandew-style duel.",
+  "t": "**Duelista de Gandew.** Sabe os direitos de duelo de cor; vantagem em testes para começar, arbitrar ou encerrar um duelo no estilo de Gandew."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "Características e traços"
+ },
+ "aa79d07c4c28": {
+  "en": "**People:** Darfaries · **Class:** Fighter (Champion) · **Background:** Royal Runaway (First Prince of Gandew) · **Alignment:** Chaotic Good · **Rank:** Pearl (he never bothered to get promoted)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**Povo:** Darfaries · **Classe:** guerreiro (Campeão) · **Antecedente:** Fugitivo real (primeiro príncipe de Gandew) · **Tendência:** Caótico e Bom · **Patente:** Pearl (nunca se deu ao trabalho de ser promovido)\n**Interface:** Darfaries · **Soul Points:** 5"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "Ações"
+ },
+ "bda26062d511": {
+  "en": "**Change from the original Alpha sheet:** it made Hiromi a human interrogator rogue — those traits actually belong to Takeo (see *Takeo Forway Tea-Drinkers*). This sheet matches the lore: a 232 cm Darfaries prince who'd rather drink and wander.",
+  "t": "**Mudança em relação à ficha Alpha original:** ela fazia de Hiromi um ladino interrogador humano — esses traços na verdade são do Takeo (veja *Takeo Forway Tea-Drinkers*). Esta ficha bate com a ambientação: um príncipe darfaries de 232 cm que prefere beber e andar por aí."
+ },
+ "bdae4d2fd0cf": {
+  "en": "Fighter Features",
+  "t": "Características de guerreiro"
+ },
+ "c828aacb0ce2": {
+  "en": "**Belly Shake Shove.** Shove a creature 10 ft instead of 5 (Mountain Greeting gone wrong).",
+  "t": "**Empurrão de Barriga.** Empurra uma criatura 10 pés em vez de 5 (uma Saudação da Montanha que deu errado)."
+ },
+ "cf078d270fbf": {
+  "en": "**Skills:** Athletics +5, Intimidation +4, Performance +4, Survival +2\n**Equipment:** Maul (his mother forged it), chitin scale armor, a quaich bowl, three bottles of something strong, picture book of the sea, badge (High-Gandew).\n**Hook:** Engaged to a Sanbi princess he beat in a bar brawl. Neither of them wants the crown.",
+  "t": "**Perícias:** Atletismo +5, Intimidação +4, Atuação +4, Sobrevivência +2\n**Equipamento:** malho (a mãe dele o forjou), armadura de escamas de quitina, uma tigela quaich, três garrafas de algo forte, livro ilustrado do mar, distintivo (High-Gandew).\n**Gancho:** Noivo de uma princesa de Sanbi que ele venceu numa briga de bar. Nenhum dos dois quer a coroa."
+ },
+ "d962e3e67d18": {
+  "en": "**Darfaries.** Powerful Build, Tusks (1d6+3 piercing), Darfaries Veins (senses spells and weather within 30 ft), Soften the Fall (30 ft), Neutralizing Saliva (1/long rest).",
+  "t": "**Darfaries.** Constituição poderosa, presas (1d6+3 perfurante), veias darfaries (sente magias e o tempo a até 30 pés), amortecer a queda (30 pés), saliva neutralizante (1/descanso longo)."
+ },
+ "f32d6944e118": {
+  "en": "**Round's on Me.** Spend 10 pearls in a tavern: advantage on Charisma checks there for the evening.",
+  "t": "**Esta Rodada é Minha.** Gaste 10 pearls numa taverna: vantagem em testes de Carisma ali durante a noite."
+ },
+ "f3ce270dd1da": {
+  "en": "**Maul.** +5 to hit, 2d6+3 bludgeoning.",
+  "t": "**Malho.** +5 para acertar, 2d6+3 concussão."
+ },
+ "f60d12af7cf5": {
+  "en": "Hiromi High-Gandew Tough-Hammer — Level 3 Fighter (Gandew Brawler)",
+  "t": "Hiromi High-Gandew Tough-Hammer — Guerreiro de nível 3 (brigão de Gandew)"
+ }
+}

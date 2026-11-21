@@ -1,0 +1,106 @@
+{
+ "08c81f4312d7": {
+  "en": "**Flinga** — huge pteranodon-like birds that fly high and never land, with unpredictable paths. Stunning screams and air gusts; untamable, unhatchable. Campfire tales tell of a child-sized wooden rider on one. Seeing them in **winter** is an omen.",
+  "t": "**فلينغا** — طيور ضخمة تشبه البتيرانودون، تطير عاليًا ولا تهبط أبدًا، بمسارات لا يمكن التنبؤ بها. صرخات تصعق وهبّات هواء؛ لا تُروَّض ولا يفقس بيضها. تحكي قصص السمر عن راكب خشبي بحجم طفل على ظهر أحدها. ورؤيتها في **الشتاء** نذير."
+ },
+ "17390f9a49f9": {
+  "en": "**Bruntos** — chimp-like creatures on Endlessfog, protected there. Tool users, no fire, great porters over rough ground. Humans are \"Naked Bruntos\".",
+  "t": "**برونتوس** — مخلوقات تشبه الشمبانزي في إندلس فوغ، محمية هناك. تستخدم الأدوات، ولا تستخدم النار، وحمّالة ممتازة على الأرض الوعرة. والبشر هم «برونتوس العراة»."
+ },
+ "1a7b95d34fd6": {
+  "en": "Adventurers butcher kills in the field to save on hauling. Bring back a head (or the Walking Heart stone and skull) to prove an extermination.",
+  "t": "يقطّع المغامرون صيدهم في الميدان توفيرًا للحمل. أحضِر رأسًا (أو حجر ووكينغ هارت والجمجمة) لتثبت الإبادة."
+ },
+ "22fabbdd57cb": {
+  "en": "**Hash {creature}** — any fauna, beast or person that lived too long in **Hifuna**: bigger, patchy hair, lopsided body parts, half as smart, far more aggressive, usually sterile, stronger versions of its old abilities. Its meat is irradiated — it smells rotten and metallic, tastes like sulfur and singed hair, and turns odd colors. *Use it as a template on any creature.*",
+  "t": "**هاش {creature}** — أي حيوان أو وحش أو شخص عاش طويلًا في **هيفونا**: أكبر، شعره متقطع، أعضاؤه غير متناظرة، ذكاؤه نصف ما كان، أكثر عدوانية بكثير، عقيم عادةً، وقدراته القديمة أقوى. لحمه مشعّ — رائحته عفنة ومعدنية، وطعمه كالكبريت والشعر المحروق، ويتلوّن بألوان غريبة. *استخدمه قالبًا على أي مخلوق.*"
+ },
+ "239c7830c1b2": {
+  "en": "**White Roundies** — intelligent seal-like mammals from Whiteland that visit northern shores every winter. Play fetch, rub their bellies (they purr through neck tentacles), and trade them good food for what they find on the sea floor — gold or a half-eaten fish.",
+  "t": "**وايت راونديز** — ثدييات ذكية تشبه الفقمة من وايتلاند تزور الشواطئ الشمالية كل شتاء. العب معها لعبة الإحضار، وافرك بطونها (تخرخر عبر مجسّات أعناقها)، وبادلها طعامًا جيدًا بما تجده في قاع البحر — ذهبًا أو سمكة نصف مأكولة."
+ },
+ "358319bcaaf2": {
+  "en": "**Wood People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Wood%20People.png)) — walking Yabuca trees the Buhraies engineered as soldiers, food and lumber. They're everywhere on the Buhraies Plains, sense the world through vibration, bleed pink sap, and lash out with vines that punch holes in flesh. Drawn to **fost stones** — and a fost stone jammed into the crown **paralyzes** them, which is how villages build living walls. Their red wood, rubbery vines, sap and head-sized fruit are valuable.",
+  "t": "**وود بيبول** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Wood%20People.png)) — أشجار يابوكا تمشي، صمّمها البورايس جنودًا وطعامًا وخشبًا. موجودون في كل مكان على سهول بورايس، يستشعرون العالم بالاهتزاز، وينزفون نسغًا ورديًا، ويضربون بكروم تثقب اللحم. تجذبهم **أحجار فوست** — وحجر فوست مدسوس في التاج **يشلّهم**، وهكذا تبني القرى أسوارًا حية. خشبهم الأحمر وكرومهم المطاطية ونسغهم وثمارهم التي بحجم الرأس كلها ثمينة."
+ },
+ "37e3f558a619": {
+  "en": "**Monica Swarm** — swarms of blue-glowing butterflies that flee bad weather (a blue wall on the horizon means a storm) and strip a corpse in hours.",
+  "t": "**سرب مونيكا** — أسراب فراشات تتوهج بالأزرق تهرب من الطقس السيئ (جدار أزرق في الأفق يعني عاصفة) وتجرّد الجثة في ساعات."
+ },
+ "41529acd06f3": {
+  "en": "**Teefyro** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Teefyro.png)) — a mindless Hifuna chimera shaped and smelling something like a Bagarisa. It fires its teeth by exploding its gums, casts random spells from its mixed flesh, and sometimes detonates entirely, leaving a crater.",
+  "t": "**تيفيرو** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Teefyro.png)) — كائن هجين من هيفونا بلا عقل، شكله ورائحته تشبه الباغاريسا نوعًا ما. يطلق أسنانه بتفجير لثته، ويلقي تعاويذ عشوائية من لحمه المختلط، وأحيانًا ينفجر كله تاركًا حفرة."
+ },
+ "471807b56bea": {
+  "en": "**Sweet Sting** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sweet%20Sting.png)) — giant bees west of Blood, centered on **Sweetlake**. Females have no stinger but shoot poison from black-flamed pincers at near-sonic speed (\"sure as a spitting Sweet Sting\"); small males sting (agony plus an overwhelming sweet taste). They make **black honey**. Wear a Sweet Sting costume to walk among them.",
+  "t": "**سويت ستينغ** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sweet%20Sting.png)) — نحل عملاق غرب بلاد، مركزه **سويت ليك**. الإناث بلا إبرة لكنها تطلق السم من كلّابات بلهب أسود بسرعة تقارب سرعة الصوت («مؤكد كبصقة سويت ستينغ»)؛ والذكور الصغار يلسعون (عذاب مع طعم حلو طاغٍ). يصنعون **العسل الأسود**. البس زيّ سويت ستينغ لتمشي بينهم."
+ },
+ "52bd9ac2c2d2": {
+  "en": "**Walking Skin** (\"Walking Bones\") — slower, dumber, swarming undead; many were people the castle \"collected\" during its rampages. Some scientists think the castle breeds them.",
+  "t": "**ووكينغ سكين** («العظام الماشية») — موتى أحياء أبطأ وأغبى يهاجمون أسرابًا؛ كان كثير منهم أناسًا «جمعتهم» القلعة في نوبات هياجها. يظن بعض العلماء أن القلعة تربّيهم."
+ },
+ "53723a86d445": {
+  "en": "**Koalin** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Koalin.png)) — a capybara-like cousin of the Soreno in the eastern grasslands. Males' heads and silky beards beam mental waves: first dread, then urges to kill yourself, then crippling pain. \"There's no winning against a Koalin.\" Almost untamable — but a Koalin raised from a baby is loyal for life. Its brain, eyes and beard make the banned Mind Enabler gel; carrying them gets you questioned.",
+  "t": "**كوالين** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Koalin.png)) — قريب للسورينو يشبه الكابيبارا في المراعي الشرقية. تبثّ رؤوس الذكور ولحاها الحريرية موجات ذهنية: الرهبة أولًا، ثم رغبة في قتل نفسك، ثم ألم يشلّك. «لا سبيل للفوز على كوالين.» يكاد يستحيل ترويضه — لكن الكوالين الذي يُربّى منذ صغره وفيّ مدى الحياة. دماغه وعيناه ولحيته تصنع جل مايند إينيبلر المحظور؛ وحملها يعرّضك للاستجواب."
+ },
+ "591977eaa156": {
+  "en": "**Sucker Lady** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sucker%20Lady.png)) — another shapeshifter offshoot (folklore: it ate a sex worker). It picks a target, stalks them for days, pins them at night and sucks their soul out through their fingers. Drive it off with a fost lamp — or something else finger-shaped.",
+  "t": "**ساكر ليدي** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sucker%20Lady.png)) — فرع آخر من المتحوّلين (الفولكلور: أكلت عاملة جنس). تختار هدفًا، وتلاحقه أيامًا، وتثبّته ليلًا وتمتص روحه من أصابعه. اطردها بمصباح فوست — أو بشيء آخر على شكل إصبع."
+ },
+ "6602dee104ce": {
+  "en": "**Shapeshifter** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Shapeshifter.png)) — living rock-jelly colonies west of Blood, made by an ancient race. They mimic creatures (voices too), merge to share memories, then split. Are they smart or just good mimics? Tavern gossip tells of one that \"recreationally\" approaches lonely male adventurers. Cut-off jelly blobs sell well.",
+  "t": "**المتحوّل** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Shapeshifter.png)) — مستعمرات حية من هلام صخري غرب بلاد، صنعها عرق قديم. تحاكي المخلوقات (والأصوات أيضًا)، وتندمج لتتشارك الذكريات، ثم تنقسم. هل هي ذكية أم مجرد مقلّدة بارعة؟ تحكي ثرثرات الحانات عن واحد يقترب «للتسلية» من المغامرين الذكور الوحيدين. وكتل الهلام المقطوعة تُباع جيدًا."
+ },
+ "678ef9982a78": {
+  "en": "Defensive",
+  "t": "دفاعية"
+ },
+ "8bc7ec1dea56": {
+  "en": "**Hifuna People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Hifuna%20Wood%20People.png)) — Wood People mutated by Hifuna. They pulp everything nearby (each other included) and squat on it to absorb it. Sonic booms, razor vines, launched spikes, and branches they rip off and throw to explode. Sapphire-level danger. Their fruit sells on the black market.",
+  "t": "**هيفونا بيبول** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Hifuna%20Wood%20People.png)) — وود بيبول حوّرتهم هيفونا. يهرسون كل ما حولهم (بما في ذلك بعضهم بعضًا) ويجثمون عليه ليمتصّوه. انفجارات صوتية، وكروم كالشفرات، وأشواك مقذوفة، وأغصان يقتلعونها ويرمونها فتنفجر. خطر من مستوى السافاير. تُباع ثمارهم في السوق السوداء."
+ },
+ "8c4d38b077d8": {
+  "en": "Beasts",
+  "t": "الوحوش"
+ },
+ "a538c17ae1ea": {
+  "en": "**Crazed Muckman** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Crazed%20Muckman.png)) — shapeshifter offshoots around Blood and Freeish with extra limbs or triple torsos. Folklore says a shapeshifter ate a bandit. Usually peaceful unless you look like food or muck with them.",
+  "t": "**كريزد ماكمان** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Crazed%20Muckman.png)) — فروع من المتحوّلين حول بلاد وفريئيش بأطراف زائدة أو بثلاثة جذوع. يقول الفولكلور إن متحوّلًا أكل قاطع طريق. مسالمون عادةً ما لم تبدُ كطعام أو تعبث معهم."
+ },
+ "b48d1745a985": {
+  "en": "**Sand Worm** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sand%20Worms.png)) — desert ambushers around Gandew, relatives of the Nari Worms. They bury themselves or cloak in plain sight, harden their bodies, spray acid, and grow bigger. The main source of **chitin**; the meat is gamey poor-man's jerky. **Saynas** can sense them, which lets adventurers turn the hunt around.",
+  "t": "**ساند وورم** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sand%20Worms.png)) — كامنون في الصحراء حول غانديو، أقارب ديدان الناري. يدفنون أنفسهم أو يتخفّون على مرأى العين، ويصلّبون أجسادهم، ويرشّون الحمض، ويكبرون. المصدر الرئيسي لـ**الكيتين**؛ ولحمه زفر، لحم مجفف للفقراء. تستطيع **الساينا** استشعارهم، مما يتيح للمغامرين قلب الصيد."
+ },
+ "b5f1d26c0700": {
+  "en": "Somewhat intelligent or very dangerous creatures. Game stats are in `D&D Campaign/Stat Blocks/Beasts.md`. Art links go to the main #HusbandOutWorld repo.",
+  "t": "مخلوقات ذكية نوعًا ما أو شديدة الخطر. إحصاءات اللعب في `D&D Campaign/Stat Blocks/Beasts.md`. روابط الرسوم تؤدي إلى مستودع #HusbandOutWorld الرئيسي."
+ },
+ "c51e6700af02": {
+  "en": "Aggressive",
+  "t": "عدوانية"
+ },
+ "cb00661ec4fe": {
+  "en": "**Trunk People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Trunk%20People.png)) — four-armed living tree branches (technically parasites) in the south-west forests. Monkey-smart, deaf, recognize faces, talk in colored light. Their arms burn with adjustable colored flames and blinding flashes. Freeish uses them as street lights and guards; some perform in shows. Enough angry ones can burn a town down.",
+  "t": "**ترانك بيبول** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Trunk%20People.png)) — أغصان أشجار حية بأربع أذرع (طفيليات من الناحية العلمية) في غابات الجنوب الغربي. أذكياء كالقرود، صمّ، يتعرفون على الوجوه، ويتكلمون بضوء ملوّن. تشتعل أذرعهم بلهب ملوّن قابل للضبط وومضات تُعمي. تستخدمهم فريئيش مصابيح شوارع وحراسًا؛ وبعضهم يقدّم عروضًا. وعدد كافٍ منهم غاضبًا يستطيع إحراق بلدة."
+ },
+ "cf9e18691e3c": {
+  "en": "Amicable",
+  "t": "ودودة"
+ },
+ "d1173fa12520": {
+  "en": "**Nari Worm** — huge, friendly, stone-eating worms under Blood whose shed shells make nari stones. **Harming them or their eggs can get you exiled to Hifuna.** An egg restores a lot of soul energy and works like Nari Refresher (and may randomly hatch).",
+  "t": "**ناري وورم** — ديدان ضخمة ودودة تأكل الحجر تحت بلاد، وقشورها المنسلخة تصنع أحجار ناري. **إيذاؤها أو إيذاء بيضها قد يؤدي إلى نفيك إلى هيفونا.** والبيضة تستعيد قدرًا كبيرًا من طاقة الروح وتعمل كناري ريفريشر (وقد تفقس عشوائيًا)."
+ },
+ "d83a60c00aa1": {
+  "en": "**Walking Flesh** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flesh.png)) — undead of any species, leftovers of Walking Heart experiments in **Bahyum**. They share a hive mind, regenerate slowly, don't rot, decompose what they touch, and steal soul energy. Away from the castle some rampage, some idle, a few are docile.",
+  "t": "**ووكينغ فليش** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flesh.png)) — موتى أحياء من أي نوع، بقايا تجارب ووكينغ هارت في **باهيوم**. يتشاركون عقلًا جماعيًا، ويتجددون ببطء، ولا يتعفنون، ويحلّلون ما يلمسونه، ويسرقون طاقة الروح. بعيدًا عن القلعة يهيج بعضهم، ويتسكع بعضهم، وقلّة منهم وديعة."
+ },
+ "dd39dae79705": {
+  "en": "**Big Winga** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Big%20Winga.png)) — giant intelligent Wingas made by the Buhraies; scientists brawl over whether they're a race. Hunted almost to extinction for their meat and feathers. Families who stole eggs now get rich selling Big Winga gel. A tamed one (~1 aquamarine, if you can find one) is a long-lived companion. They make light, sense life, and raise air shields. The \"Big Wingas\" at embassies are guards wearing gel.",
+  "t": "**بيغ وينغا** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Big%20Winga.png)) — وينغا عملاقة ذكية صنعها البورايس؛ ويتعارك العلماء حول ما إذا كانت عرقًا. صيدت حتى كادت تنقرض من أجل لحمها وريشها. والعائلات التي سرقت البيض تغتني الآن ببيع جل بيغ وينغا. والمروّض منها (~1 أكوامارين، إن وجدت واحدًا) رفيق طويل العمر. تصنع الضوء، وتستشعر الحياة، وترفع دروعًا هوائية. و«البيغ وينغا» في السفارات حراس يستخدمون الجل."
+ },
+ "e2213204ea50": {
+  "en": "**Walking Flathead** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flathead.png)) — the leaders, maybe the physical will, of Bahyum Castle. Lion-smart, see soul energy, nearly impossible to kill, and they lay worms in living flesh. \"If you see one, you're fucked.\" Sell one corpse and you live like a king for a year.",
+  "t": "**ووكينغ فلاتهيد** ([رسم](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flathead.png)) — قادة قلعة باهيوم، وربما إرادتها المتجسدة. أذكياء كالأسد، يرون طاقة الروح، يكاد قتلهم يستحيل، ويضعون ديدانًا في اللحم الحي. «إن رأيت واحدًا فقد انتهى أمرك.» بِع جثة واحدة وعش كالملك سنةً كاملة."
+ }
+}

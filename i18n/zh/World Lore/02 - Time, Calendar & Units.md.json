@@ -1,0 +1,266 @@
+{
+ "04bdd83cd0e9": {
+  "en": "**Paulin** — the annual Prosperity Treaty meeting of all kings at the Forway Palace.",
+  "t": "**保林月**——所有国王在福威宫举行的年度繁荣条约会议。"
+ },
+ "064d380e2f35": {
+  "en": "Time, Calendar & Units",
+  "t": "时间、历法与单位"
+ },
+ "07b49e81251c": {
+  "en": "**Forrday** (Forway) — rest day; embassies are closed to the public",
+  "t": "**福日**（福威）——休息日；大使馆不对公众开放"
+ },
+ "09348f7a8b80": {
+  "en": "Adrian (Winter)",
+  "t": "阿德里安（冬）"
+ },
+ "09a1125ffaf3": {
+  "en": "At the table, the campaign uses four simple **shifts** per day instead (see the D&D Campaign rules): **Graveyard, Morning, Afternoon, Night**.",
+  "t": "在跑团时，战役改用每天四个简单的**时段**（见D&D战役规则）：**深夜、上午、下午、夜晚**。"
+ },
+ "0f38e20ab52b": {
+  "en": "−15 °C",
+  "t": "−15 °C"
+ },
+ "0fcb2aa76d0b": {
+  "en": "−20 °C",
+  "t": "−20 °C"
+ },
+ "12a50b821cd4": {
+  "en": "Days",
+  "t": "天数"
+ },
+ "1715cd1b8dfe": {
+  "en": "20 °C",
+  "t": "20 °C"
+ },
+ "1cd4c0781c65": {
+  "en": "+2 km",
+  "t": "+2 km"
+ },
+ "29b54f407050": {
+  "en": "−10 °C",
+  "t": "−10 °C"
+ },
+ "2a463de5f630": {
+  "en": "The sun behaves like ours. The moon is like ours too, but the night sky has a **green tint**. Focus moonlight onto a small point and living things glow in it.",
+  "t": "太阳和我们的一样。月亮也一样，但夜空带着一层**绿色**。把月光聚焦到一个小点上，生物会在其中发光。"
+ },
+ "2be94f37330b": {
+  "en": "Fall",
+  "t": "秋"
+ },
+ "3144503d236f": {
+  "en": "**Months** (named after the treaty's founders):",
+  "t": "**月份**（以条约创始人命名）："
+ },
+ "3471b992dd7b": {
+  "en": "**Age** is simply the number of years you've been alive as of the current year. Birthdays don't matter.",
+  "t": "**年龄**就是到当年为止你活了多少年。生日无关紧要。"
+ },
+ "36b6287e800c": {
+  "en": "**Freeday** (Freeish) — first working day",
+  "t": "**弗里日**（弗里伊什）——第一个工作日"
+ },
+ "3e273c2e2389": {
+  "en": "The Vraki Calendar",
+  "t": "弗拉基历法"
+ },
+ "40143edfdcee": {
+  "en": "Dates are written like **Paulin 14th, 1039 A.G.**",
+  "t": "日期写作 **1039 A.G. 保林14日**。"
+ },
+ "4145ccd977f3": {
+  "en": "**1 year** = 365 days = 73 weeks = 4 months.",
+  "t": "**1年** = 365天 = 73周 = 4个月。"
+ },
+ "44b8d63b7cd7": {
+  "en": "**Sannday** (Sanbi)",
+  "t": "**桑日**（桑比）"
+ },
+ "4ab2e3e40608": {
+  "en": "**Paulin 100th** — the **Adventurer Feast**: promotions and recognitions.",
+  "t": "**保林100日**——**冒险者盛宴**：晋升与表彰。"
+ },
+ "4ad2ea48f3ca": {
+  "en": "Summer",
+  "t": "夏"
+ },
+ "4d3c4fa23d71": {
+  "en": "Season",
+  "t": "季节"
+ },
+ "4f7caed6f54a": {
+  "en": "15 °C",
+  "t": "15 °C"
+ },
+ "57b28bae0cd4": {
+  "en": "Sky",
+  "t": "天空"
+ },
+ "5984da210be2": {
+  "en": "**Tollday** (Tolerideme)",
+  "t": "**托尔日**（托勒里德梅）"
+ },
+ "5b69cae163e4": {
+  "en": "Weeks",
+  "t": "周数"
+ },
+ "5b878d94ddd4": {
+  "en": "Notable dates",
+  "t": "重要日期"
+ },
+ "5e729959722b": {
+  "en": "Winter",
+  "t": "冬"
+ },
+ "6569eecf68ce": {
+  "en": "Language",
+  "t": "语言"
+ },
+ "6c09cbab5a7a": {
+  "en": "Asa (Spring)",
+  "t": "阿萨（春）"
+ },
+ "6cd9c4368f4c": {
+  "en": "**Week** = 5 days, named after the kingdoms in the order they joined the rebellion:",
+  "t": "**一周** = 5天，按各王国加入起义的顺序命名："
+ },
+ "6eb4c13d1108": {
+  "en": "Paulin (Summer)",
+  "t": "保林（夏）"
+ },
+ "6eee018a61dd": {
+  "en": "**Gannday** (Gandew)",
+  "t": "**甘日**（甘杜）"
+ },
+ "7c140ef6cd3c": {
+  "en": "Climate (averages)",
+  "t": "气候（平均值）"
+ },
+ "83d00289df21": {
+  "en": "**Paulin**",
+  "t": "**保林**"
+ },
+ "8520ef195a71": {
+  "en": "25 °C",
+  "t": "25 °C"
+ },
+ "8867d8078e4d": {
+  "en": "Punctuality is cultural: Sanbians are rarely on time; Toleridemians are on time to the second.",
+  "t": "守时与否是文化问题：桑比人很少准时；托勒里德梅人准时到秒。"
+ },
+ "8a9e46844af6": {
+  "en": "Temperature drops with altitude. Sea level near the coast:",
+  "t": "气温随海拔降低。海岸附近的海平面："
+ },
+ "8b59434a8941": {
+  "en": "**Asa**",
+  "t": "**阿萨**"
+ },
+ "9094b684ebef": {
+  "en": "5 °C",
+  "t": "5 °C"
+ },
+ "94379ebc48e4": {
+  "en": "**Adrian**",
+  "t": "**阿德里安**"
+ },
+ "9c322408f16c": {
+  "en": "+6 km",
+  "t": "+6 km"
+ },
+ "9f917132be11": {
+  "en": "0 °C",
+  "t": "0 °C"
+ },
+ "a3ef7ad1ee45": {
+  "en": "10 °C",
+  "t": "10 °C"
+ },
+ "ac12ae47002b": {
+  "en": "At the table, **you never need distances**: travel is counted in circles on the travel map (see the D&D Campaign rules).",
+  "t": "跑团时**你永远不需要距离**：旅行按旅行地图上的圈来算（见D&D战役规则）。"
+ },
+ "ac4f3e5769e4": {
+  "en": "−5 °C",
+  "t": "−5 °C"
+ },
+ "adeaf5462f40": {
+  "en": "30 °C",
+  "t": "30 °C"
+ },
+ "af5f161cdb93": {
+  "en": "**Asa 1st** — Forway sells the yearly lunar mapping for hunters and farmers (20 pearls).",
+  "t": "**阿萨1日**——福威向猎人和农民出售全年的月相图（20珀尔）。"
+ },
+ "bbd5e550928b": {
+  "en": "Coasts are humid (75–90%); humidity drops about 10% for every 2 km up. The Buhraies Plains sit ~2 km up; Gandew's mountain tops out at ~6 km; the Fuhrair peaks reach ~9 km.",
+  "t": "海岸潮湿（75–90%）；每升高2公里，湿度下降约10%。布莱斯平原海拔约2公里；甘杜的大山最高约6公里；弗莱尔群峰可达约9公里。"
+ },
+ "bc0cfd110d7a": {
+  "en": "Units (Vraki UOM)",
+  "t": "单位（弗拉基计量制）"
+ },
+ "be8a97f840cc": {
+  "en": "Adopted with the Prosperity Treaty and designed by the courtroom scientist **Adrian**. Years are counted from the **Fall of Ganyrami**: **A.G.** (After Ganyrami) and **B.G.** (Before Ganyrami).",
+  "t": "随繁荣条约一同采用，由宫廷科学家**阿德里安**设计。年份从**加尼拉米陷落**算起：**A.G.**（加尼拉米之后）和**B.G.**（加尼拉米之前）。"
+ },
+ "c19437f82f94": {
+  "en": "Everyone speaks **Vraki**, the common tongue inherited from the ancient Finaies. In practice it's English with its own alphabet (\"Vraki font\"). Names of minerals are English words, a leftover from a human mineralogist the Buhraies once summoned. **Old Vraki** is like Old English — hard to read.",
+  "t": "人人都说**弗拉基语**，这是从古代菲奈斯继承来的通用语。实际上就是用自己字母（“弗拉基字体”）书写的英语。矿物的名称都是英语单词，是布莱斯曾经召唤来的一位人类矿物学家留下的。**古弗拉基语**就像古英语——很难读懂。"
+ },
+ "c3198edc747c": {
+  "en": "Sea level",
+  "t": "海平面"
+ },
+ "c7b3068a04e2": {
+  "en": "**Day:** Sunnalow, Sunnahigh, Sunnilow, Sunnihigh, Sunnolow, Sunnohigh, Sunnulow, Sunnuhigh",
+  "t": "**白天：** 苏纳洛、苏纳海、苏尼洛、苏尼海、苏诺洛、苏诺海、苏努洛、苏努海"
+ },
+ "cd981e18d065": {
+  "en": "+4 km",
+  "t": "+4 km"
+ },
+ "d1b5b9114b00": {
+  "en": "Spring",
+  "t": "春"
+ },
+ "e2e129e83cb6": {
+  "en": "**Moacir**",
+  "t": "**莫阿西尔**"
+ },
+ "e3d95e017a11": {
+  "en": "Month",
+  "t": "月"
+ },
+ "e3ff9e4e3add": {
+  "en": "Adrian standardized every unit of measure from the most accurate ones in use (the hunters of Blood had the best). In practice they are **metric**: kilograms, liters, kilometers, degrees Celsius. Gandew still uses its own units alongside them (duelists stand 10 **Adi** apart).",
+  "t": "阿德里安以当时最精确的计量单位为基础统一了所有单位（布拉德的猎人用的最好）。实际上就是**公制**：千克、升、千米、摄氏度。甘杜至今仍同时使用自己的单位（决斗者相隔10**阿迪**站立）。"
+ },
+ "e59a2c3ba250": {
+  "en": "Moacir (Fall)",
+  "t": "莫阿西尔（秋）"
+ },
+ "e76a288cd95f": {
+  "en": "+8 km",
+  "t": "+8 km"
+ },
+ "eea6868cca44": {
+  "en": "Smaller units (quarter, small and tiny timehunks) are measured with a sand-clock **Time Counter**. Embassy captains shout the daily news at **Monnalow** (early evening).",
+  "t": "更小的单位（四分之一、小、微小timehunk）用沙漏式的**泰姆康特**测量。大使馆的队长们会在**蒙纳洛**（傍晚）高声宣读当天的新闻。"
+ },
+ "ef10082d27a1": {
+  "en": "The day is read on a sundial-like **Time Keeper**. Sunrise is 6 o'clock; sundown is 12 o'clock on the dial. Each **timehunk** is about 3 hours, split into a *low* and *high* half (named after the ratio of nari crystals in the keeper):",
+  "t": "一天的时间在类似日晷的**泰姆基珀**上读取。日出是6点，日落是表盘上的12点。每个**timehunk**约3小时，分为*低*、*高*两半（得名于仪器中纳里晶体的比例）："
+ },
+ "f1d659548752": {
+  "en": "**Night:** Monnalow, Monnahigh, Monnilow, Monnihigh, Monnolow, Monnohigh, Monnulow, Monnuhigh",
+  "t": "**夜晚：** 蒙纳洛、蒙纳海、蒙尼洛、蒙尼海、蒙诺洛、蒙诺海、蒙努洛、蒙努海"
+ },
+ "f3b3bc60f3f7": {
+  "en": "Time of day (\"timehunks\")",
+  "t": "一天中的时间（“timehunk”）"
+ }
+}

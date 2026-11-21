@@ -108,6 +108,16 @@
     return snapshotPromise;
   }
 
+  // The page in the chosen language (English where a piece isn't translated yet).
+  async function getDocL(path) {
+    const md = await getDoc(path);
+    if (VW.i18n.lang === "en" || keptEnglish(path)) return md;
+    await VW.i18n.loadDocs();
+    return VW.i18n.translateMd(md);
+  }
+  // The license stays in English: it's the legal text (tools/i18n.js skips it too).
+  const keptEnglish = (path) => path === "LICENSE.md";
+
   async function getDoc(path) {
     if (cache[path] != null) return cache[path];
     let text = null;
@@ -132,6 +142,7 @@
     if (dataPromise) return dataPromise;
     const P = VW.parse;
     dataPromise = (async () => {
+      await VW.i18n.loadDocs();
       const get = (p) => getDoc(p).catch(() => "");
       const [beasts, fauna, people, events, quests, factions, inside, maps] = await Promise.all([
         get(D + "Stat Blocks/Beasts.md"), get(D + "Stat Blocks/Fauna.md"), get(D + "Stat Blocks/People.md"),
@@ -146,10 +157,10 @@
       const adventurers = (await Promise.all(advPaths.map((p) => get(p).then((md) => md && P.parseAdventurer(md, p))))).filter(Boolean);
       const ijTables = P.parseTables(inside);
       const pick = (re) => (ijTables.find((t) => re.test(t.heading)) || { rows: [] }).rows;
-      return {
+      return localize({
         creatures,
         byId: Object.fromEntries(creatures.map((c) => [c.id, c])),
-        regions: enc.regions, rumors: enc.rumors, eventRoll: enc.eventRoll,
+        regions: enc.regions, rumors: enc.rumors, rumorLines: enc.rumorLines, eventRoll: enc.eventRoll,
         quests: P.parseQuests(quests),
         factions: P.parseFactions(factions),
         adventurers,
@@ -158,13 +169,86 @@
           goBetween: pick(/go-between/i), cargo: pick(/in the wagon/i),
           value: pick(/^Cargo value/i), deal: pick(/Deal roll/i), heat: pick(/^Heat/i)
         }
-      };
+      });
     })();
     return dataPromise;
   }
 
+  /* ---------------- the tools' data in the chosen language ---------------- */
+  // The tools read the English Markdown (so rules, names and save files stay the same in every language)
+  // and show the translated pieces: each item gets a `label` (and translated text fields) beside its English.
+  function localize(d) {
+    const I = VW.i18n, P = VW.parse;
+    const en = I.lang === "en";
+    const tx = (raw) => (raw == null ? raw : en ? raw : I.tx(raw));
+    const plain = (raw) => P.stripMd(tx(raw) || "");
+    const name = (s) => (en ? s : nameL(s));
+    const head = (h) => { const m = /^(.+?)\s*[(（]([^)）]*)[)）]\s*$/.exec(h); return m ? [m[1].trim(), m[2].trim()] : [h.trim(), ""]; };
+    d.regions.forEach((r) => {
+      const [label, places] = en ? [r.name, r.places] : head(plain(r.head));
+      r.label = label; r.placesL = places; r.entriesL = r.entries.map((e) => tx(e));
+    });
+    d.rumorsL = en ? d.rumors : (() => { const r = P.splitRumors(d.rumorLines.map((l) => tx(l)).join(" ")); return r.length >= d.rumors.length ? r : d.rumors; })();
+    Object.values(d.quests).forEach((list) => list.forEach((q) => {
+      if (!q || q.titleL != null) return;
+      if (en) { q.titleL = q.title; q.textL = q.text; return; }
+      const t = tx(q.raw), m = /^\*\*(.+?)\*\*\s*[—–-]+\s*(.*)$/.exec(t);
+      if (m) { q.titleL = m[1]; q.textL = P.stripMd(m[2]); } else { q.titleL = ""; q.textL = P.stripMd(t); }
+    }));
+    // A stat block's translated heading gives its name and where it lives: "Koalin (CR 1) — eastern grasslands".
+    const fromHead = (c) => {
+      if (en || !c.head || tx(c.head) === c.head) return null;
+      const parts = plain(c.head).split(/\s*[/／]\s*/);
+      const h = c.headPart != null && parts.length > 1 ? parts[c.headPart] || "" : plain(c.head);
+      const m = /^(.+?)\s*[(（][^)）]*[)）]\s*(?:[—–]+\s*(.*))?$/.exec(h.trim());
+      return m ? [m[1].trim(), (m[2] || "").trim()] : null;
+    };
+    // An adventurer's "**People:** … · **Class:** …" paragraph, translated: the same field by position.
+    const field = (a, label) => {
+      if (en || !a.fieldsRaw) return null;
+      const e = a.fieldsRaw.trim().split(/ · |\n/), t = (tx(a.fieldsRaw.trim()) || "").split(/ · |\n/);
+      const i = e.findIndex((x) => x.startsWith("**" + label + ":**"));
+      return i >= 0 && t.length === e.length && t[i] !== e[i] ? P.stripMd(t[i].replace(/^\*\*[^*]+\*\*\s*/, "")).trim() : null;
+    };
+    d.creatures.forEach((c) => {
+      const h = fromHead(c);
+      c.label = (h && h[0]) || name(c.name);
+      c.regionL = en ? c.region : (c.kind === "Fauna" ? plain(c.region) : (h && h[1] && c.region) ? h[1] : nameL(c.region));
+      c.lootL = en || !c.loot ? c.loot : c.kind === "Fauna" ? plain(c.loot) : P.stripMd(tx(c.lootRaw).replace(/^\*[^*]+\*[:：]?\s*/, ""));
+      if (en) { c.traitsL = c.traits; return; }
+      if (c.kind === "Fauna" && c.raw) {
+        const t = tx(c.raw);
+        c.traitsL = t !== c.raw ? [{ name: "", text: P.stripMd(t.split("\n").slice(1).join(" ")) }] : c.traits;
+      } else c.traitsL = c.traits.map((tr) => (tr.raw ? (tx(tr.raw) !== tr.raw ? P.traitOf(tx(tr.raw)) : tr) : tr));
+    });
+    d.adventurers.forEach((a) => { a.label = name(a.name); a.clsL = en ? a.cls : field(a, "Class") || nameL(a.cls); a.peopleL = en ? a.people : field(a, "People") || nameL(a.people); });
+    d.factionsL = Object.fromEntries(d.factions.map((f) => [f, en ? f : plain(f)]));
+    d.map.routes.forEach((r) => { r.fromL = name(r.from); r.toL = name(r.to); r.lookL = en ? r.look : plain(r.look); r.regionL = en ? r.region : plain(r.region); });
+    d.map.edges.forEach((e) => { e.fromL = name(e.from); e.headingL = en ? e.heading : plain(e.heading); });
+    const ij = d.insideJob;
+    d.insideJobL = Object.fromEntries(Object.entries(ij).map(([k, rows]) => [k, rows.map((r) => r.map((c) => (en ? c : tx(c))))]));
+    return d;
+  }
+
+  // A name in the chosen language: the glossary's spelling, or word by word ("Harry Sanbi").
+  function nameL(s) {
+    const I = VW.i18n;
+    if (!s || I.lang === "en") return s;
+    const whole = I.term(s);
+    if (whole !== s) return whole;
+    const tx = I.tx(s);
+    if (tx !== s) return VW.parse.stripMd(tx);
+    const parts = s.split(/(\s+|-)/);
+    const mapped = parts.map((w) => (/^\s+$|^-$/.test(w) ? w : I.term(w)));
+    if (mapped.every((w, i) => w !== parts[i] || /^\s+$|^-$/.test(w))) {
+      const sep = (I.pack && I.pack.meta && I.pack.meta.name_sep) || " ";
+      return mapped.filter((w) => !/^\s+$|^-$/.test(w)).join(sep);
+    }
+    return s;
+  }
+
   VW.content = {
-    groups, docs, folders, getDoc, data,
+    groups, docs, folders, getDoc, getDocL, keptEnglish, data, nameL,
     get usingSnapshot() { return usingSnapshot; },
     allPaths: () => Object.keys(docs)
   };

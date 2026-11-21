@@ -1,0 +1,12 @@
+{
+ "_about": "Strings the site writes itself for this language. \"banner\" is the AI-translation notice on every page (the author asked for: AI-Translated to <language> from Original works by Deovandski and Mitsukiven/Feiourm). Same wording as HusbandOutWorld's content/i18n/ar/meta.json.",
+ "english": "English",
+ "name": "العربية",
+ "english_name": "Arabic",
+ "html_lang": "ar",
+ "dir": "rtl",
+ "locale": "ar",
+ "units": "metric",
+ "name_sep": " ",
+ "banner": "تُرجمت هذه الصفحة إلى العربية بالذكاء الاصطناعي عن العمل الأصلي لـ Deovandski وMitsukiven/Feiourm. يمكنك تغيير اللغة من الإعدادات (⚙) أعلى اليسار."
+}

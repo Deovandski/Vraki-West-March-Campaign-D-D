@@ -1,0 +1,222 @@
+{
+ "0236415102a6": {
+  "en": "**Maul.** +6, 2d6+4 bludgeoning; on a hit, DC 13 Str save or knocked prone.",
+  "t": "**المطرقة الثقيلة.** +6، 2d6+4 راض؛ عند الإصابة، رمية إنقاذ قوة DC 13 أو يسقط منبطحًا."
+ },
+ "07a7b2e85dde": {
+  "en": "**Wood People bandits:** carry fost stones to herd and steer Wood People (DC 12 to steer one 30 ft).",
+  "t": "**قطّاع طرق الوود بيبول:** يحملون أحجار فوست لسَوق الوود بيبول وتوجيههم (DC 12 لتوجيه واحد 30 قدمًا)."
+ },
+ "0fee232fd478": {
+  "en": "Knows every quest, every deadline and everyone's debt. Bribable with gossip.",
+  "t": "يعرف كل مهمة وكل موعد ودَين كل أحد. يُرشى بالثرثرة."
+ },
+ "1230de140aac": {
+  "en": "**Black Honey Pot (1/day).** When reduced to 0 HP, an adjacent guard can use an action to revive it at 1 HP. Steal the pot (leg pocket) to stop it.",
+  "t": "**جرة العسل الأسود (1/يوم).** حين يهبط إلى 0 HP، يمكن لحارس مجاور أن يستخدم فعلًا لإحيائه بـ1 HP. اسرق الجرة (جيب الساق) لمنع ذلك."
+ },
+ "13511c528b67": {
+  "en": "AC 17 (shiny plate-ish armor) · HP 25 · speed 25 ft",
+  "t": "AC 17 (درع لامع شبه صفائحي) · HP 25 · السرعة 25 قدمًا"
+ },
+ "1951b7183d1e": {
+  "en": "**Nari Bomb (1/day).** Smoke (heavily obscured 20 ft) — then they either attack or leave.",
+  "t": "**قنبلة ناري (1/يوم).** دخان (محجوب بشدة 20 قدمًا) — ثم إما يهاجمون أو يرحلون."
+ },
+ "1c3ca56a75c4": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to all adjacent.",
+  "t": "**انفجار أشواك الدرع (إعادة شحن 6).** 2d6 خارق لكل المجاورين."
+ },
+ "29a602afd8d2": {
+  "en": "**Hallucinogen Reflexes.** Advantage on initiative and Dex saves.",
+  "t": "**ردود أفعال مهلوِسة.** أفضلية على المبادرة ورميات إنقاذ البراعة."
+ },
+ "2d5263334e87": {
+  "en": "**Gore Charge.** Moves 20 ft straight and attacks: +7, 2d6+4 piercing; prone on a hit (DC 14 Str).",
+  "t": "**اندفاعة النطح.** يتحرك 20 قدمًا في خط مستقيم ويهاجم: +7، 2d6+4 خارق؛ منبطح عند الإصابة (قوة DC 14)."
+ },
+ "320874f96ff8": {
+  "en": "Tolerideme Guard (CR 2) — use *Guard*, but…",
+  "t": "حارس توليريديمي (CR 2) — استخدم *حارس*، لكن…"
+ },
+ "3b8e5cbbaa7c": {
+  "en": "Sigil rings for four spells; a satchel of three random nari gels; lab notes worth 1 aquamarine to the right buyer; terrible people skills.",
+  "t": "خواتم سيجيل لأربع تعاويذ؛ وحقيبة فيها ثلاثة أنواع عشوائية من جل ناري؛ وملاحظات مختبر تساوي أكوامارين واحدة عند المشتري المناسب؛ ومهارات اجتماعية فظيعة."
+ },
+ "4459a6e3416b": {
+  "en": "Big Winga Guard (CR 4)",
+  "t": "حارس بيغ وينغا (CR 4)"
+ },
+ "44c38ac88b36": {
+  "en": "Guards, bandits and specialists. Built on 5e NPC blocks with Vraki gear. All carry an embassy badge unless noted.",
+  "t": "حراس وقطّاع طرق ومختصون. مبنية على بطاقات الشخصيات غير اللاعبة في 5e مع عتاد فراكي. وكلهم يحملون بطاقة سفارة ما لم يُذكر غير ذلك."
+ },
+ "4588770cb746": {
+  "en": "**Alone, Silent.** Helmet locks the tusks; can't speak while wearing it. Advantage on saves vs. fear.",
+  "t": "**وحيد، صامت.** الخوذة تقفل الأنياب؛ لا يستطيع الكلام وهو يلبسها. أفضلية على رميات الإنقاذ ضد الخوف."
+ },
+ "4972b66312c3": {
+  "en": "Bandit (CR ⅛) / Bandit Captain (CR 2)",
+  "t": "قاطع طريق (CR ⅛) / زعيم قطّاع طرق (CR 2)"
+ },
+ "4b07d1fecf6e": {
+  "en": "Mixed Human–Darfaries; red Walking Heart (undead).\nAC 16 · HP 170 · speed 40 ft",
+  "t": "مختلط بين البشر والدارفاريس؛ ووكينغ هارت أحمر (ميت حي).\nAC 16 · HP 170 · السرعة 40 قدمًا"
+ },
+ "4eac88db08e6": {
+  "en": "The Stinger (CR 5) — Morika in Sweet Sting chitin",
+  "t": "ستينغر (CR 5) — موريكا في كيتين سويت ستينغ"
+ },
+ "516f98d608f7": {
+  "en": "**Never Negotiates.** Immune to Persuasion attempts to bargain.",
+  "t": "**لا يفاوض أبدًا.** محصّن ضد محاولات الإقناع للمساومة."
+ },
+ "5e83d8d48ae1": {
+  "en": "**Gauntlet.** +4, 1d8+2 bludgeoning.",
+  "t": "**القفاز المعدني.** +4، 1d8+2 راض."
+ },
+ "619b1642dbab": {
+  "en": "Perfect cover identity (maid, florist, courtesan); Fake Skin gel; poisoned hairpin (Bleed Out I). \"We are here to please you.\"",
+  "t": "هوية تغطية مثالية (خادمة، بائعة زهور، محظية)؛ جل فيك سكين؛ دبوس شعر مسموم (بليد آوت I). «نحن هنا لإرضائك.»"
+ },
+ "64f49fb45008": {
+  "en": "A Forway guard in Big Winga gel: use **Big Winga** stats, but Intelligence 10, can understand Vraki, and patrols embassies.",
+  "t": "حارس من فورواي في جل بيغ وينغا: استخدم إحصاءات **بيغ وينغا**، لكن بذكاء 10، ويفهم لغة فراكي، ويحرس السفارات."
+ },
+ "76498dd7d77b": {
+  "en": "Soul Energy Scientist (CR 2) — use *Mage* (lower slots)",
+  "t": "عالم طاقة الروح (CR 2) — استخدم *ساحر* (خانات أقل)"
+ },
+ "7b4b60e9db04": {
+  "en": "AC 16 (gauntlets + padding) · HP 30 · speed 25 ft",
+  "t": "AC 16 (قفازات معدنية + حشوة) · HP 30 · السرعة 25 قدمًا"
+ },
+ "7dbaa9bf7dee": {
+  "en": "**Urban Legend.** Commoners who see it make a DC 12 Wis save or flee. Out of the armor he's mute, polite and anxious.",
+  "t": "**أسطورة حضرية.** العامّة الذين يرونه يرمون إنقاذ حكمة DC 12 أو يفرّون. وخارج الدرع هو أبكم ومهذب وقلِق."
+ },
+ "7ea03821ca8d": {
+  "en": "Use the 5e blocks. Vraki flavors:",
+  "t": "استخدم بطاقات 5e. نكهات فراكي:"
+ },
+ "854970f19672": {
+  "en": "Sanbi Guard (CR 1) — use *Scout*",
+  "t": "حارس سانبي (CR 1) — استخدم *كشّاف*"
+ },
+ "857f701797c0": {
+  "en": "Embassy Clerk (CR 0) — use *Commoner*",
+  "t": "كاتب السفارة (CR 0) — استخدم *عامّي*"
+ },
+ "993606c5cd98": {
+  "en": "**Stinger Slash.** Two attacks, +7, 1d8+4 slashing.",
+  "t": "**ضربة الإبرة.** هجومان، +7، 1d8+4 قاطع."
+ },
+ "a0ad1b3e4e92": {
+  "en": "Kozaku Forway, Blue Wozens Boss (CR 9)",
+  "t": "كوزاكو فورواي، زعيم البلو ووزنز (CR 9)"
+ },
+ "a487976a4b05": {
+  "en": "Gandew Guard (CR 3) — use *Thug* with chitin",
+  "t": "حارس غانديو (CR 3) — استخدم *بلطجي* مع الكيتين"
+ },
+ "a670e63b8ac0": {
+  "en": "AC 18 (chitin) · HP 45",
+  "t": "AC 18 (كيتين) · HP 45"
+ },
+ "abb930ea22d2": {
+  "en": "**Undead.** No breathing, eating or sleep; immune to poison; can't be revived.",
+  "t": "**ميت حي.** لا يتنفس ولا يأكل ولا ينام؛ محصّن ضد السم؛ لا يمكن إحياؤه."
+ },
+ "b09a5c4aa8a6": {
+  "en": "**Nari Bomb Dash.** Throws smoke, then moves 30 ft without provoking.",
+  "t": "**فرار بقنبلة ناري.** يرمي دخانًا ثم يتحرك 30 قدمًا دون أن يستثير هجمات."
+ },
+ "b37a90d4886e": {
+  "en": "People Stat Blocks",
+  "t": "بطاقات الإحصاءات: الناس"
+ },
+ "b409cf7e7748": {
+  "en": "**Red Heart Rage.** Multiattack: three punches, +9, 2d10+6 bludgeoning. On a crit, the target's head is… gone (DC 15 Con save to survive at 0 HP instead).",
+  "t": "**غضب القلب الأحمر.** هجوم متعدد: ثلاث لكمات، +9، 2d10+6 راض. وعند الضربة الحرجة، رأس الهدف… يختفي (رمية إنقاذ بنية DC 15 للنجاة بـ0 HP بدلًا من ذلك)."
+ },
+ "b8aaef8dfd76": {
+  "en": "**Pack Tactics.** Advantage on attacks while an ally is within 5 ft of the target. Always in groups of 3+.",
+  "t": "**تكتيكات القطيع.** أفضلية على الهجمات ما دام حليف على بعد 5 أقدام من الهدف. دائمًا في مجموعات من 3+."
+ },
+ "bbc7fcfa7538": {
+  "en": "Red Winga Agent (CR 2) — use *Spy*",
+  "t": "عميل ريد وينغا (CR 2) — استخدم *جاسوس*"
+ },
+ "c488677977f1": {
+  "en": "**Sleeve Sword.** +5, 1d6+3; can draw and attack as one action (surprise).",
+  "t": "**سيف الكمّ.** +5، 1d6+3؛ يستطيع السحب والهجوم بفعل واحد (مفاجأة)."
+ },
+ "c49f6bb5cf5c": {
+  "en": "Forway Captain (CR 5) — use *Veteran*",
+  "t": "قائد فورواي (CR 5) — استخدم *محارب مخضرم*"
+ },
+ "c5e3b3575eb6": {
+  "en": "**Superiority Complex.** If an enemy looked weak last turn (took the Dodge action, retreated, or failed a check), the guard has disadvantage on its next Wisdom (Insight) check and attack against that enemy.",
+  "t": "**عقدة التفوق.** إن بدا عدو ضعيفًا في الدور السابق (اتخذ فعل المراوغة، أو تراجع، أو فشل في اختبار)، يكون على الحارس عيب في اختبار الحكمة (البصيرة) وفي الهجوم التاليين ضد ذلك العدو."
+ },
+ "c673532a4dbc": {
+  "en": "**Longbow.** +4, 1d8+2 piercing; arrows may carry a nari gel (Body Paralysis II or Sleep Inducer I).",
+  "t": "**القوس الطويل.** +4، 1d8+2 خارق؛ وقد تحمل السهام جل ناري (بودي باراليسيس II أو سليب إندوسر I)."
+ },
+ "c958063e2e51": {
+  "en": "Freeish Guard (CR 1)",
+  "t": "حارس فريئيش (CR 1)"
+ },
+ "ccfd193c3603": {
+  "en": "**Unstoppable.** Advantage on Str checks and saves. Red flame bursts from his chest when angry.",
+  "t": "**لا يُوقف.** أفضلية على اختبارات القوة ورميات إنقاذها. ويتفجر لهب أحمر من صدره حين يغضب."
+ },
+ "d3087640897e": {
+  "en": "**Blue Wozens:** blue Wozen badge; prefer robbery to killing (\"donation\"). ",
+  "t": "**البلو ووزنز:** بطاقة ووزن زرقاء؛ يفضّلون السرقة على القتل («تبرّع»). "
+ },
+ "d867cbc5f5f2": {
+  "en": "**Bagarisa Brothers:** use *Berserker*; secret tusk handshake.",
+  "t": "**الأخوان باغاريسا:** استخدم *هائج*؛ مصافحة سرية بالأنياب."
+ },
+ "db454435d4b3": {
+  "en": "**Fallen Tree:** ex-adventurers — use *Veteran*/*Spy*; hate embassy staff.",
+  "t": "**الفولن تري:** مغامرون سابقون — استخدم *محارب مخضرم*/*جاسوس*؛ يكرهون موظفي السفارة."
+ },
+ "dc3f4418293a": {
+  "en": "Forway Guard (CR 1) — use *Guard* + changes",
+  "t": "حارس فورواي (CR 1) — استخدم *حارس* + تعديلات"
+ },
+ "e090fef53559": {
+  "en": "**Beer Balls:** drunk; disadvantage on Wis saves; fight fiercely for beer.",
+  "t": "**البير بولز:** سكارى؛ عيب على رميات إنقاذ الحكمة؛ يقاتلون بشراسة من أجل الجعة."
+ },
+ "e1eec0c0e3a4": {
+  "en": "AC 14 (bone-wood) · HP 22",
+  "t": "AC 14 (عظم-خشب) · HP 22"
+ },
+ "ef072a0e73ec": {
+  "en": "**Everything Is a Weapon.** Improvised weapons count as proficient (1d6).",
+  "t": "**كل شيء سلاح.** تُحسب الأسلحة المرتجلة أسلحةً متقنة (1d6)."
+ },
+ "ef28c44a61fa": {
+  "en": "**Elemental Ball (slow).** Takes a full turn to charge (it's obvious); next turn ranged 60 ft, +5, 3d8 cold/fire/lightning/thunder. Only cast in packs of 4+.",
+  "t": "**الكرة العنصرية (بطيئة).** تحتاج دورًا كاملًا للشحن (وهذا واضح)؛ وفي الدور التالي هجوم بعيد 60 قدمًا، +5، 3d8 برد/نار/برق/رعد. لا يطلقونها إلا في مجموعات من 4+."
+ },
+ "f536fddbeee8": {
+  "en": "**Black Magina:** never kill; Sleep Inducer darts (+4, DC 13 Con or unconscious 1 minute).",
+  "t": "**البلاك ماجينا:** لا يقتلون أبدًا؛ سهام نفخ من سليب إندوسر (+4، بنية DC 13 أو فاقد الوعي دقيقة واحدة)."
+ },
+ "f56ab8004c44": {
+  "en": "**Burnout.** If he uses Multiattack 3 turns in a row, he takes 2d10 necrotic each extra turn (his soul is burning). Someone must stop him — or let him burn out.",
+  "t": "**الاحتراق.** إن استخدم الهجوم المتعدد 3 أدوار متتالية، يتلقى 2d10 نخري في كل دور إضافي (روحه تحترق). يجب أن يوقفه أحد — أو يتركه يحترق حتى النهاية."
+ },
+ "fb89d6354a8c": {
+  "en": "Same armor as a soldier plus a **fancy cap**. Adds: **Entangle Ring** (all allies within 120 ft hear its orders), **Body RESTORE ring** (Tier II, 2/day), authority over embassy grounds.",
+  "t": "نفس درع الجندي مع **قبعة أنيقة**. يضيف: **خاتم إنتانغل** (كل الحلفاء ضمن 120 قدمًا يسمعون أوامره)، و**خاتم بودي ريستور** (المستوى II، 2/يوم)، وسلطة على أرض السفارة."
+ },
+ "fd68f87feed2": {
+  "en": "**Crossbow.** +4, 1d8+2 piercing, range 80/320.",
+  "t": "**القوس والنشاب.** +4، 1d8+2 خارق، المدى 80/320."
+ }
+}

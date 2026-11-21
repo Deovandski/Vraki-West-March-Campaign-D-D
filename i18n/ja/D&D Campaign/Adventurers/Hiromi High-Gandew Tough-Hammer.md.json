@@ -1,0 +1,78 @@
+{
+ "108c02d3ae08": {
+  "en": "**Improved Critical.** Crits on 19–20.",
+  "t": "**クリティカル強化。** 19–20でクリティカル。"
+ },
+ "37a880c1b1e8": {
+  "en": "**Storyteller.** Every story stars Hiromi. Advantage on Performance checks to tell a tale in a tavern; disadvantage on Stealth when he's talking (he's always talking).",
+  "t": "**語り部。** どの話でも主役はヒロミだ。酒場で物語を語る〈芸能〉判定に有利。しゃべっている間は〈隠密〉に不利（いつもしゃべっている）。"
+ },
+ "3d4153400378": {
+  "en": "**Second Wind.** Bonus action: regain 1d10+3 HP (1/short rest).",
+  "t": "**底力。** ボーナス・アクション：HPを1d10+3回復する（小休憩ごとに1回）。"
+ },
+ "4139492966c2": {
+  "en": "**Tusks.** +5 to hit, 1d6+3 piercing.",
+  "t": "**牙。** 命中+5、1d6+3の刺突。"
+ },
+ "430d4a3e1739": {
+  "en": "**Action Surge.** One extra action (1/short rest).",
+  "t": "**アクション・サージ。** 追加のアクション1回（小休憩ごとに1回）。"
+ },
+ "735f488f53ec": {
+  "en": "**Flies Off the Handle.** If someone insults something he holds dear (Yacamim, Gandew, booze), DC 12 Wis save or he picks a fight.",
+  "t": "**すぐにかっとなる。** 大切にしているもの（ヤカミン、ガンデュー、酒）を侮辱されたら、DC 12の【判断力】セーヴに失敗すると喧嘩を始める。"
+ },
+ "754970f1d473": {
+  "en": "**AC** 16 (chitin scale) · **HP** 31 · **Speed** 30 ft\n**STR** 17 · **DEX** 12 · **CON** 16 · **INT** 10 · **WIS** 11 · **CHA** 14",
+  "t": "**AC** 16（キチンの鱗鎧） · **HP** 31 · **移動速度** 30フィート\n**【筋】** 17 · **【敏】** 12 · **【耐】** 16 · **【知】** 10 · **【判】** 11 · **【魅】** 14"
+ },
+ "7d514fe0e6d4": {
+  "en": "**Gandew Duelist.** Knows the Duel Rights by heart; advantage on checks to start, referee or end a Gandew-style duel.",
+  "t": "**ガンデューの決闘者。** 決闘の権利を暗記している。ガンデュー式の決闘を始める、裁く、終わらせる判定に有利。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特徴と特性"
+ },
+ "aa79d07c4c28": {
+  "en": "**People:** Darfaries · **Class:** Fighter (Champion) · **Background:** Royal Runaway (First Prince of Gandew) · **Alignment:** Chaotic Good · **Rank:** Pearl (he never bothered to get promoted)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**種族：** ダルファリエス · **クラス：** ファイター（チャンピオン） · **背景：** 王家からの家出人（ガンデューの第一王子） · **属性：** 混沌にして善 · **階級：** パール（昇格する気がまったくなかった）\n**インターフェース：** ダルファリエス · **ソウルポイント：** 5"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "アクション"
+ },
+ "bda26062d511": {
+  "en": "**Change from the original Alpha sheet:** it made Hiromi a human interrogator rogue — those traits actually belong to Takeo (see *Takeo Forway Tea-Drinkers*). This sheet matches the lore: a 232 cm Darfaries prince who'd rather drink and wander.",
+  "t": "**元のアルファ版シートからの変更：** 以前はヒロミを人間の尋問役ローグにしていたが、それらの特徴は実はタケオのものだ（*タケオ・フォーウェイ・ティー・ドリンカーズ*を参照）。このシートは設定に合わせてある：飲んで放浪するほうが好きな、身長232 cmのダルファリエスの王子だ。"
+ },
+ "bdae4d2fd0cf": {
+  "en": "Fighter Features",
+  "t": "ファイターの特徴"
+ },
+ "c828aacb0ce2": {
+  "en": "**Belly Shake Shove.** Shove a creature 10 ft instead of 5 (Mountain Greeting gone wrong).",
+  "t": "**腹ゆすり押し。** クリーチャーを5フィートではなく10フィート押しやる（山の挨拶の失敗版）。"
+ },
+ "cf078d270fbf": {
+  "en": "**Skills:** Athletics +5, Intimidation +4, Performance +4, Survival +2\n**Equipment:** Maul (his mother forged it), chitin scale armor, a quaich bowl, three bottles of something strong, picture book of the sea, badge (High-Gandew).\n**Hook:** Engaged to a Sanbi princess he beat in a bar brawl. Neither of them wants the crown.",
+  "t": "**技能：** 〈運動〉+5、〈威圧〉+4、〈芸能〉+4、〈生存〉+2\n**装備：** モール（母が鍛えた）、キチンの鱗鎧、クェイクの杯、強い何かが入った瓶3本、海の絵本、身分証（ハイ・ガンデュー）。\n**フック：** 酒場の喧嘩で打ち負かしたサンビの王女と婚約している。二人とも王冠はいらない。"
+ },
+ "d962e3e67d18": {
+  "en": "**Darfaries.** Powerful Build, Tusks (1d6+3 piercing), Darfaries Veins (senses spells and weather within 30 ft), Soften the Fall (30 ft), Neutralizing Saliva (1/long rest).",
+  "t": "**ダルファリエス。** 頑強な体格、牙（1d6+3の刺突）、ダルファリエスの血管（30フィート以内の呪文と天気を感じ取る）、落下の緩和（30フィート）、中和の唾液（大休憩ごとに1回）。"
+ },
+ "f32d6944e118": {
+  "en": "**Round's on Me.** Spend 10 pearls in a tavern: advantage on Charisma checks there for the evening.",
+  "t": "**今日は俺のおごりだ。** 酒場でパールを10枚使う：その晩、そこでの【魅力】判定に有利。"
+ },
+ "f3ce270dd1da": {
+  "en": "**Maul.** +5 to hit, 2d6+3 bludgeoning.",
+  "t": "**モール。** 命中+5、2d6+3の殴打。"
+ },
+ "f60d12af7cf5": {
+  "en": "Hiromi High-Gandew Tough-Hammer — Level 3 Fighter (Gandew Brawler)",
+  "t": "ヒロミ・ハイ・ガンデュー・タフ・ハンマー — レベル3のファイター（ガンデューの喧嘩屋）"
+ }
+}

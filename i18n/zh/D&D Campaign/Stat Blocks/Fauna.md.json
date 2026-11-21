@@ -1,0 +1,338 @@
+{
+ "03f651e52ad8": {
+  "en": "Culuim",
+  "t": "库卢伊姆"
+ },
+ "069243643113": {
+  "en": "Pack animal; hoof/leg hair for Water Walk",
+  "t": "驮兽；蹄毛和腿毛用来做沃特沃克"
+ },
+ "0958099a49b1": {
+  "en": "Lungs and glands for gels",
+  "t": "用来做凝胶的肺和腺体"
+ },
+ "0a4720d6b6b4": {
+  "en": "**Legunia (CR 2)** — AC 12 · HP 20 · speed 60 ft\nHigh Jump: 30 ft vertical. Super Speed: Dash as a bonus action. Desert Sense: senses dangerous desert conditions within 1 mile (its hump shrinks).",
+  "t": "**莱古尼亚（CR 2）**——AC 12 · HP 20 · 速度60尺\n高跳：垂直跳30尺。超级速度：以附赠动作疾走。沙漠感知：能察觉1英里内危险的沙漠状况（它的驼峰会缩小）。"
+ },
+ "0b57ac7af420": {
+  "en": "Sanbi–Tastyleaf swamps",
+  "t": "桑比到泰斯蒂利夫之间的沼泽"
+ },
+ "0c111d8bdf54": {
+  "en": "Sanbi's whole economy",
+  "t": "桑比的全部经济"
+ },
+ "0ee4640ddadc": {
+  "en": "Lower plains",
+  "t": "低地平原"
+ },
+ "12babf3aa1e2": {
+  "en": "**Yuyta (CR ½)** — AC 11 · HP 12\nHop Strike: +3, 1d4+1. Harvest Sense: detects crop quality within 100 ft. Wall Sight: whiskers sense objects through 1 ft of wall or dirt. Group Scatter: when one is damaged, all Yuytas within 20 ft move 10 ft away. Screams like a dying human.",
+  "t": "**尤伊塔（CR ½）**——AC 11 · HP 12\n跳击：+3，1d4+1。丰收感知：察觉100尺内作物的品质。透墙视觉：胡须能感知1尺厚的墙或泥土后面的物体。四散：一只受到伤害时，20尺内所有尤伊塔都后退10尺。叫起来像垂死的人。"
+ },
+ "17450cb9b504": {
+  "en": "Barina",
+  "t": "巴里纳"
+ },
+ "17a46e1b9f02": {
+  "en": "Oil, meat",
+  "t": "油、肉"
+ },
+ "1f45bdead95e": {
+  "en": "Bagarisa",
+  "t": "巴加里萨"
+ },
+ "2aabd47d1d42": {
+  "en": "**Wooly (CR 1)** — AC 12 · HP 50\nReverberate Voice: DC 12 Con save or deafened. Light Burst: bright light 30 ft for 1 minute. Mountain Stance: advantage against being pushed. Its death scream carries for kilometers (attracts predators).",
+  "t": "**伍利（CR 1）**——AC 12 · HP 50\n回响之声：DC 12体质豁免，失败则耳聋。光爆：30尺明亮光照，持续1分钟。山岳架势：对抗被推动时具有优势。它临死的尖叫能传出好几公里（会引来掠食者）。"
+ },
+ "2afe12c726e6": {
+  "en": "Creature",
+  "t": "生物"
+ },
+ "2f3c0820e993": {
+  "en": "Lakes, Buhraies region",
+  "t": "湖泊、布莱斯地区"
+ },
+ "3246b1a14f34": {
+  "en": "**Culuim (CR 1)** — AC 12 · HP 10\nHeart Flip: switches Walking Heart modes (+2 to one ability, −2 to another, DM's choice). Blood Surge: +2 AC for 1 round. Contaminated Flesh: creatures that bite it make a DC 12 Con save or are poisoned.",
+  "t": "**库卢伊姆（CR 1）**——AC 12 · HP 10\n心脏翻转：切换沃金哈特的模式（一项属性+2，另一项−2，由DM选择）。血涌：1轮内AC +2。受污染的肉：咬它的生物进行DC 12体质豁免，失败则中毒。"
+ },
+ "33916d61ede4": {
+  "en": "Wozen",
+  "t": "沃增"
+ },
+ "34b62f354316": {
+  "en": "Eggs, meat",
+  "t": "蛋、肉"
+ },
+ "37464c57712d": {
+  "en": "Gel ingredient (Body Paralysis)",
+  "t": "凝胶原料（博迪帕拉利西斯）"
+ },
+ "377dac41a368": {
+  "en": "**Sanbi (CR 1)** — AC 12 · HP 25 · swim 50 ft\nSonic Pulse: DC 12 Con save or migraine (disadvantage on attacks for 1 minute). Fake Prey: sheds lip/tail decoys; attackers have disadvantage. Tail Stretch: extends its tail 10 ft to avoid melee. Landing one: DC 15 Strength (Athletics), or two successes out of three for a weaker fisher.",
+  "t": "**桑比（CR 1）**——AC 12 · HP 25 · 游泳50尺\n声波脉冲：DC 12体质豁免，失败则偏头痛（1分钟内攻击具有劣势）。假猎物：甩出嘴唇和尾巴诱饵；攻击者具有劣势。伸尾：把尾巴伸长10尺来躲避近战。钓上一条：DC 15力量（运动），比较弱的渔夫则要三次里成功两次。"
+ },
+ "3ac5020ad018": {
+  "en": "Monika",
+  "t": "莫妮卡"
+ },
+ "3e5fab7dc2a8": {
+  "en": "Whiskers for gels; harvest omens",
+  "t": "胡须用来做凝胶；丰收的预兆"
+ },
+ "3ebee29f59e3": {
+  "en": "**Egua (CR 1)** — AC 13 · HP 60 · speed 40 ft\nWater Walk: walks on water. Dirt Repel: ignores difficult terrain from mud or sand. Leg Morph: bonus action, +10 ft speed or +2 AC. Intestine Ejection (Recharge 5–6): 10-ft fear aura for 1 round (DC 12 Wis). Kick: +5, 2d6+3 bludgeoning. Friendly; hurting one makes it violent.",
+  "t": "**埃瓜（CR 1）**——AC 13 · HP 60 · 速度40尺\n水上行走：能在水上行走。驱土：无视泥地或沙地造成的困难地形。腿部变形：附赠动作，速度+10尺或AC +2。喷射肠子（充能5–6）：1轮内产生10尺恐惧光环（DC 12感知）。踢：+5，2d6+3钝击。性情友善；伤害它会让它变得狂暴。"
+ },
+ "3efd42e6b77a": {
+  "en": "The most-eaten meat; hide",
+  "t": "最常吃的肉；皮"
+ },
+ "404444d79dfc": {
+  "en": "Soreno",
+  "t": "索雷诺"
+ },
+ "4c14bcb5102c": {
+  "en": "Everywhere (pest)",
+  "t": "到处都有（害兽）"
+ },
+ "4c934310abd0": {
+  "en": "Ponds",
+  "t": "池塘"
+ },
+ "4e9adf407e18": {
+  "en": "**Monika (CR 0)** — AC 11 · HP 5 · fly 30 ft\nSoul Sense: detects soul energy sources. Scent Vision: sees smells. Corpse Finder: advantage on Perception to find corpses (prefers high-SE bodies — dead adventurers).",
+  "t": "**莫妮卡（CR 0）**——AC 11 · HP 5 · 飞行30尺\n灵魂感知：察觉灵魂能量的来源。气味视觉：能看见气味。寻尸者：寻找尸体的察觉检定具有优势（偏爱SE高的尸体——死去的冒险者）。"
+ },
+ "5413e8c52dea": {
+  "en": "Coastal and Freeish forests",
+  "t": "沿海和弗里伊什的森林"
+ },
+ "542851db27ce": {
+  "en": "Crocus",
+  "t": "克罗卡斯"
+ },
+ "58bdca850469": {
+  "en": "Pelt; eyes and nose for gels",
+  "t": "毛皮；眼睛和鼻子用来做凝胶"
+ },
+ "598dd6e8478c": {
+  "en": "**Cinika (CR 0)** — AC 11 · HP 5 · fly 30 ft\nParalyzing Dust: DC 10 Con save or paralyzed 1 round. Weather Sense: detects pressure, humidity and temperature changes. Swarm Instinct: advantage on attacks while adjacent to another Cinika. Favors licking Wozefaries and Sorefaries sweat.",
+  "t": "**西尼卡（CR 0）**——AC 11 · HP 5 · 飞行30尺\n麻痹粉尘：DC 10体质豁免，失败则麻痹1轮。天气感知：能察觉气压、湿度和温度的变化。集群本能：与另一只西尼卡相邻时，攻击具有优势。喜欢舔沃泽法里斯和索雷法里斯的汗。"
+ },
+ "5b9458beab47": {
+  "en": "Sanbi region forests",
+  "t": "桑比地区的森林"
+ },
+ "5c29abdd548d": {
+  "en": "Seas near deltas",
+  "t": "三角洲附近的海域"
+ },
+ "5c2cc9d06eb0": {
+  "en": "Everywhere (tamed), Forway plains (wild)",
+  "t": "到处都有（驯养）、福威平原（野生）"
+ },
+ "5e82236c3c93": {
+  "en": "East sea",
+  "t": "东海"
+ },
+ "63abb27b59b1": {
+  "en": "Ptaina",
+  "t": "普泰纳"
+ },
+ "680da8beb462": {
+  "en": "Loot / use",
+  "t": "战利品/用途"
+ },
+ "6a8dcffc282b": {
+  "en": "Deep southern forests",
+  "t": "南方深处的森林"
+ },
+ "6b66b910e840": {
+  "en": "**Lansha (CR 3)** — AC 14 · HP 85\nGravity Down: DC 14 Str save or knocked prone. Oil Up: attackers have disadvantage for 1 round. Sour Gland Burst (Recharge 5–6): 2d10 acid in a 10-ft cone. Timid alone, territorial in herds.",
+  "t": "**兰沙（CR 3）**——AC 14 · HP 85\n格拉维蒂当：DC 14力量豁免，失败则倒地。涂油：攻击者在1轮内具有劣势。酸腺爆裂（充能5–6）：10尺锥形内2d10强酸。单独时胆小，成群时有领地意识。"
+ },
+ "6ec6c99d0d18": {
+  "en": "Waterproof hide and webbing",
+  "t": "防水的皮和蹼"
+ },
+ "70b58218c896": {
+  "en": "Lower regions",
+  "t": "低地地区"
+ },
+ "74f8aea1714b": {
+  "en": "**Bagarisa (CR 2)** — AC 14 · HP 40\n**Two Hearts:** the first time it drops to 0 HP it drops to 1 HP instead, unless the hit was a critical (you hit both hearts). Flaming Tusks: +5, 2d6+3 fire. Fireball Gust (Recharge 5–6): 3d10 fire in a 15-ft cone, DC 13 Dex half. Blood Heal: regains 5 HP when it deals fire damage. Musk: smells like shrimp brine; anyone who butchers one smells of it (Wozens track the smell).",
+  "t": "**巴加里萨（CR 2）**——AC 14 · HP 40\n**图哈茨：** 第一次HP降到0时，除非那一击是重击（两颗心脏都被击中了），否则改为降到1 HP。烈焰獠牙：+5，2d6+3火焰。火球疾风（充能5–6）：15尺锥形内3d10火焰，DC 13敏捷豁免成功则减半。血愈：造成火焰伤害时恢复5点HP。麝香：闻起来像虾的卤水；宰杀过它的人身上都会有这个味道（沃增会循着气味追踪）。"
+ },
+ "768443a5a6ed": {
+  "en": "**Winga / Pink Winga (CR 1)** — AC 13 · HP 30 · fly 60 ft\nLife Sense: detects living creatures within 60 ft. Air Shield (Recharge 5–6): +2 AC for 1 round. Shriek: DC 12 Con save or deafened 1 round. Diamond Beak: +4, 1d6+2 piercing (ignores resistance). Pink Wingas have advantage on Stealth. Killing a Forway courier Winga is a crime.",
+  "t": "**温加/粉温加（CR 1）**——AC 13 · HP 30 · 飞行60尺\n生命感知：察觉60尺内的活物。空气护盾（充能5–6）：1轮内AC +2。尖啸：DC 12体质豁免，失败则耳聋1轮。钻石喙：+4，1d6+2穿刺（无视抗性）。粉温加的隐匿具有优势。杀死福威的信使温加是犯罪。"
+ },
+ "78fd92a64010": {
+  "en": "**Fihi (CR 3)** — AC 14 · HP 55 · swim 40 ft\nElemental Absorb: reduces elemental damage by 1d6. Elemental Release (Recharge 5–6): 3d10 of the last element it absorbed (lightning if none) in a 15-ft cone. Shock Skin: melee attackers take 1d6 lightning. *Lake giants:* double HP; swallow a Medium creature on a crit.",
+  "t": "**菲希（CR 3）**——AC 14 · HP 55 · 游泳40尺\n元素吸收：元素伤害减少1d6。元素释放（充能5–6）：在15尺锥形内造成3d10它最后吸收的元素伤害（没有则为闪电）。电击皮肤：近战攻击者受到1d6闪电伤害。*湖中巨型个体：*HP翻倍；重击时吞下一个中型生物。"
+ },
+ "795f3a60ea66": {
+  "en": "Courier, sweet meat, Winga dust",
+  "t": "信使、甜肉、温加粉"
+ },
+ "82f7a277fa11": {
+  "en": "Sayna",
+  "t": "赛纳"
+ },
+ "876a3abdbc14": {
+  "en": "Cruro lands",
+  "t": "克鲁罗之地"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "桑比"
+ },
+ "94999c5b1b38": {
+  "en": "Cinika",
+  "t": "西尼卡"
+ },
+ "969f9e69b408": {
+  "en": "Winga / Pink Winga",
+  "t": "温加/粉温加"
+ },
+ "9799343e6d99": {
+  "en": "Oil, gills (gels); giant man-eaters in Lukewarm Lake",
+  "t": "油、鳃（凝胶）；卢克沃姆湖里有吃人的巨型个体"
+ },
+ "9d2007e89d3a": {
+  "en": "Street food, gels",
+  "t": "街头小吃、凝胶"
+ },
+ "9faf8b37b459": {
+  "en": "Egua",
+  "t": "埃瓜"
+ },
+ "9fb3fd83080d": {
+  "en": "Lamb-like meat, sour glands",
+  "t": "像羊羔一样的肉、酸腺"
+ },
+ "a2b90decb4b9": {
+  "en": "Milk, wool, cheese",
+  "t": "奶、羊毛、奶酪"
+ },
+ "a73331b513d1": {
+  "en": "Lower plains (spring)",
+  "t": "低地平原（春季）"
+ },
+ "abd19f1a5717": {
+  "en": "Gandew, high mountains (4–6 km)",
+  "t": "甘杜、高山（4–6公里）"
+ },
+ "af8b4adcaa37": {
+  "en": "Desert",
+  "t": "沙漠"
+ },
+ "b091c566a1fa": {
+  "en": "**Ptaina (CR 2)** — AC 13 · HP 35 · swim 40 ft\nUltrasonic Burst (Recharge 5–6): 3d8 thunder underwater, 1d8 on land, 20-ft radius. Compass Distortion: creatures within 20 ft have disadvantage on Survival. Head Glow: creatures within 5 ft make a DC 12 Wis save or frightened 1 round.",
+  "t": "**普泰纳（CR 2）**——AC 13 · HP 35 · 游泳40尺\n超声波爆发（充能5–6）：20尺半径，水下3d8雷鸣，陆地1d8。罗盘失灵：20尺内的生物求生检定具有劣势。头部发光：5尺内的生物进行DC 12感知豁免，失败则恐慌1轮。"
+ },
+ "b308dd33053e": {
+  "en": "Trained message carriers",
+  "t": "训练有素的信使"
+ },
+ "b33de0752c52": {
+  "en": "Region",
+  "t": "地区"
+ },
+ "b49482c30ee3": {
+  "en": "Legunia",
+  "t": "莱古尼亚"
+ },
+ "b7d71f1ff3f4": {
+  "en": "Fatupari",
+  "t": "法图帕里"
+ },
+ "b7d82f2b3399": {
+  "en": "Ported from the original Alpha campaign's `Fauna Stats.md`, with regions, a few fixes, and loot. Fill in ability scores from a similar 5e beast when needed.",
+  "t": "移植自原版阿尔法战役的`Fauna Stats.md`，加上了地区、几处修正和战利品。需要属性值时，从相似的5e野兽那里借用。"
+ },
+ "b8fa43c3582f": {
+  "en": "Hide, eggs",
+  "t": "皮、蛋"
+ },
+ "be64e774f412": {
+  "en": "Freeish ponds",
+  "t": "弗里伊什的池塘"
+ },
+ "c0ed01470ecf": {
+  "en": "**Barina (CR 2)** — AC 13 · HP 18 · swim 30 ft\nToxic Tail Burst (Recharge 5–6): 2d8 poison in a 10-ft radius. Cloak: invisible while submerged. Gas Diffusal: 15-ft poison cloud for 1 round. Back Spikes: creatures that grapple it take 1d4 piercing.",
+  "t": "**巴里纳（CR 2）**——AC 13 · HP 18 · 游泳30尺\n毒尾爆发（充能5–6）：10尺半径内2d8毒素。隐蔽：潜在水下时隐形。气体扩散：1轮内形成15尺毒云。背刺：擒抱它的生物受到1d4穿刺。"
+ },
+ "c3b52ee2defc": {
+  "en": "**Wozen (CR 2)** — AC 14 · HP 40 · speed 40 ft\nSuper Smell: advantage on tracking. Sound Bounce: makes no sound while moving. Light Bounce: +2 Stealth in dim light. Super Jump: 20-ft leaps. Jaw Clench: +5, 2d6+3 piercing, grappled (escape DC 13). Nocturnal; loves Bagarisa — and humans.",
+  "t": "**沃增（CR 2）**——AC 14 · HP 40 · 速度40尺\n超级嗅觉：追踪具有优势。声音反弹：移动时不发出声音。光线反弹：在微光中隐匿+2。超级跳跃：一跃20尺。咬紧下颚：+5，2d6+3穿刺，受擒（挣脱DC 13）。夜行性；爱吃巴加里萨——还有人类。"
+ },
+ "c6038d931572": {
+  "en": "Fauna Stat Blocks",
+  "t": "数据卡：动物"
+ },
+ "d1007dfcc10d": {
+  "en": "Fihi",
+  "t": "菲希"
+ },
+ "d503cbdf73eb": {
+  "en": "**Fatupari (CR 2)** — AC 13 · HP 40\nLaunch: moves 40 ft in a line; its next attack deals +1d6. Air Buoyancy: hovers for 1 round. Webbing Shield: while its pink webbing is intact, resistance to spell damage (attack the webbing, AC 13, 10 HP, to tear it). Bite: +5, 1d8+3, grappled.",
+  "t": "**法图帕里（CR 2）**——AC 13 · HP 40\n弹射：直线移动40尺；它的下一次攻击伤害+1d6。空中浮力：悬停1轮。蹼盾：只要粉色的蹼完好，就对法术伤害具有抗性（要撕破蹼就攻击它，AC 13，10 HP）。啮咬：+5，1d8+3，受擒。"
+ },
+ "d9a99e857561": {
+  "en": "**Sayna (CR 1)** — AC 13 · HP 28\nDistant Hearing: hears up to 1 mile. Cloak Detection: detects invisible creatures and burrowing Sand Worms within 20 ft. Blood Shield (self-defense): gains 5 temporary HP when hit. Goofy: needs training to use skills on command. \"Pohw-pohhhww!\"",
+  "t": "**赛纳（CR 1）**——AC 13 · HP 28\n远距听觉：能听到1英里远。识破隐蔽：察觉20尺内隐形的生物和正在掘穴的桑德沃姆。血盾（自卫）：被命中时获得5点临时生命值。傻乎乎：需要训练才能听命使用技能。“泡——泡呜呜！”"
+ },
+ "e1c413b69494": {
+  "en": "Fat (delicacy), eggs",
+  "t": "脂肪（美味）、蛋"
+ },
+ "e2445ed3450b": {
+  "en": "**Fanchaki (CR 1)** — AC 12 · HP 20\nRapid Breed: once per day, 1d4 chicks appear (no actions). Peck Flurry: two attacks, +4, 1d4+2. Panic Dash: when frightened, moves 40 ft without provoking. Fake Body: the first attack against it each round has disadvantage.",
+  "t": "**凡查基（CR 1）**——AC 12 · HP 20\n快速繁殖：每天一次，出现1d4只雏鸟（不能行动）。啄击连打：两次攻击，+4，1d4+2。惊慌逃窜：恐慌时，移动40尺且不引发借机攻击。假身：每轮第一次对它的攻击具有劣势。"
+ },
+ "e2b1f159112a": {
+  "en": "Lansha",
+  "t": "兰沙"
+ },
+ "e608896a9021": {
+  "en": "Wooly",
+  "t": "伍利"
+ },
+ "ecbc80ebbf2f": {
+  "en": "Fanchaki",
+  "t": "凡查基"
+ },
+ "ef5e4a257734": {
+  "en": "Lower plains, Buhraies Plains, Wingarest",
+  "t": "低地平原、布莱斯平原、温加雷斯特"
+ },
+ "f20e50e0ec7d": {
+  "en": "**Crocus (CR 2)** — AC 14 · HP 45 · swim 30 ft\nSpike Burst (Recharge 5–6): 2d6 piercing in a 10-ft radius. Harden Skin: +2 AC for 1 round. Light Bend: invisible while motionless (can stay still for hours). Bite: +5, 2d6+3 piercing, grappled.",
+  "t": "**克罗卡斯（CR 2）**——AC 14 · HP 45 · 游泳30尺\n尖刺爆发（充能5–6）：10尺半径内2d6穿刺。硬化皮肤：1轮内AC +2。弯曲光线：静止不动时隐形（可以一动不动好几个小时）。啮咬：+5，2d6+3穿刺，受擒。"
+ },
+ "f3561faab8af": {
+  "en": "Freeish, Blood, Forway plains (night)",
+  "t": "弗里伊什、布拉德、福威平原（夜间）"
+ },
+ "f85f95f9ad7d": {
+  "en": "Companion; sacred in Sundeath",
+  "t": "伙伴；在桑德斯是神圣的"
+ },
+ "f8a4085c3a36": {
+  "en": "**Soreno (CR 1)** — AC 12 · HP 18\nMimicry: imitates sounds perfectly. Blink Dash: bonus action, move 5 ft without provoking. Cloak: advantage on Stealth (heat and sight). Pest Swarm: advantage on attacks while adjacent to another Soreno. Long-Distance Squeak: a trained one relays a message up to 1 mile.",
+  "t": "**索雷诺（CR 1）**——AC 12 · HP 18\n模仿：能完美模仿声音。闪身：附赠动作，移动5尺且不引发借机攻击。隐蔽：隐匿具有优势（热量和视觉）。害兽之群：与另一只索雷诺相邻时，攻击具有优势。远距离吱叫：训练过的索雷诺能把消息传到1英里外。"
+ },
+ "fb9f25b63568": {
+  "en": "Yuyta",
+  "t": "尤伊塔"
+ },
+ "fbe616b162ce": {
+  "en": "Monika Sight gel",
+  "t": "莫妮卡赛特凝胶"
+ }
+}

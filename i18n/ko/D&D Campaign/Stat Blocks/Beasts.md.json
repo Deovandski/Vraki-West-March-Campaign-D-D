@@ -1,0 +1,462 @@
+{
+ "06fbfa3a380b": {
+  "en": "**Vine Strike (Fast Strike).** Reach 15 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**덩굴 채찍(빠른 일격).** 간격 15피트, 명중 +6, 2d8+4 관통."
+ },
+ "09e9ea708992": {
+  "en": "**Stunning Scream (Recharge 5–6).** 60-ft cone, DC 15 Con save or stunned 1 round.",
+  "t": "**충격의 비명(재충전 5–6).** 60피트 원뿔, DC 15 건강 내성에 실패하면 1라운드 동안 충격 상태."
+ },
+ "0a2bd15fec9b": {
+  "en": "Beast Stat Blocks",
+  "t": "능력치: 마수"
+ },
+ "0a7b4490877b": {
+  "en": "**Aerial Strike.** +7 to hit, 2d8+4 slashing.",
+  "t": "**공중 일격.** 명중 +7, 2d8+4 참격."
+ },
+ "0f60415f1f2a": {
+  "en": "*Loot:* red wood, rubbery vines, pink sap, a head-sized Wood People Yabuca.",
+  "t": "*전리품:* 붉은 목재, 고무 같은 덩굴, 분홍 수액, 머리만 한 우드 피플 야부카."
+ },
+ "0f8e90325da2": {
+  "en": "**Pincher Copy.** Reaction: a spectral pincer duplicate gives +2 AC for 1 round.",
+  "t": "**집게 분신.** 반응행동: 유령 같은 집게 분신이 1라운드 동안 AC +2를 준다."
+ },
+ "15391761242c": {
+  "en": "**Flathead Slam.** +8 to hit, 2d10+5 bludgeoning.",
+  "t": "**납작머리 내려치기.** 명중 +8, 2d10+5 타격."
+ },
+ "1634036a1168": {
+  "en": "**Acid Spray (Recharge 5–6).** 15-ft cone, 4d10 acid, DC 14 Dex half.",
+  "t": "**산 분사(재충전 5–6).** 15피트 원뿔, 4d10 산성, DC 14 민첩 내성 성공 시 절반."
+ },
+ "1c77143cc852": {
+  "en": "**Climb Away.** When damaged, it flies straight up out of reach.",
+  "t": "**위로 달아나기.** 피해를 받으면 손이 닿지 않는 곳까지 곧장 위로 날아오른다."
+ },
+ "1dba9c925290": {
+  "en": "**Blinding Flash (Recharge 5–6).** 20-ft radius, DC 12 Con save or blinded 1 round.",
+  "t": "**눈부신 섬광(재충전 5–6).** 반경 20피트, DC 12 건강 내성에 실패하면 1라운드 동안 장님."
+ },
+ "1e4fe1962386": {
+  "en": "**Slow Regeneration.** 3 HP per round unless it took radiant damage.",
+  "t": "**느린 재생.** 광휘 피해를 받지 않았다면 라운드마다 HP 3."
+ },
+ "1ed94bfcad62": {
+  "en": "**Pin & Feed.** A grappled target takes 2d10 necrotic each round and loses 1 SP.",
+  "t": "**누르고 빨아먹기.** 붙잡힌 목표는 라운드마다 2d10 사령 피해를 받고 SP 1을 잃는다."
+ },
+ "1f4f1e6dafaf": {
+  "en": "**Four Flame Arms.** Two attacks, +4 to hit, 1d6 fire.",
+  "t": "**불꽃 팔 넷.** 공격 2회, 명중 +4, 1d6 화염."
+ },
+ "20f50f45be37": {
+  "en": "Apply to any creature that lived in Hifuna: **+2 CR-ish**. Double HP; +2 to attack and damage rolls; Intelligence halved; always hostile; usually sterile. Its special abilities are stronger (+1d6 damage, +2 save DCs). Meat is irradiated (eating it = 1 Exposure). Proof of kill: the head.",
+  "t": "히푸나에서 살았던 크리처라면 무엇에든 적용한다: **CR 약 +2**. HP 2배. 명중 굴림과 피해 굴림에 +2. 지능 절반. 언제나 적대적. 대개 번식하지 못한다. 특수 능력이 강해진다(피해 +1d6, 내성 DC +2). 고기는 방사능을 띤다(먹으면 노출 1). 사냥 증거: 머리."
+ },
+ "250dd710b6a0": {
+  "en": "**Deaf, Talks in Light.** Can't hear; communicates with colors.",
+  "t": "**귀가 들리지 않고, 빛으로 말한다.** 듣지 못한다. 색깔로 의사를 전한다."
+ },
+ "25b08fa94f54": {
+  "en": "**Rooted Defense.** +2 AC if it hasn't moved this turn.",
+  "t": "**뿌리박은 방어.** 이번 턴에 움직이지 않았다면 AC +2."
+ },
+ "25cab629a30e": {
+  "en": "**Mutate (Recharge 5–6).** Gains one: +2 AC · +2d6 damage · +20 ft speed · resistance to a random type.",
+  "t": "**돌연변이(재충전 5–6).** 다음 중 하나를 얻는다: AC +2 · 피해 +2d6 · 이동속도 +20피트 · 무작위 종류 하나에 저항."
+ },
+ "25d9d6242068": {
+  "en": "**Purr.** Creatures that pet one gain 1 temporary HP (once per day).",
+  "t": "**그르렁.** 쓰다듬은 크리처는 임시 히트 포인트 1을 얻는다(하루 한 번)."
+ },
+ "2972de0e4fde": {
+  "en": "**Worm Brood.** On a critical hit, the target is infested: DC 15 Con save each long rest or lose 1 max HP until a Tier II Body RESTORE.",
+  "t": "**구더기 둥지.** 치명타로 목표에게 기생한다: 긴 휴식마다 DC 15 건강 내성을 하고, 실패하면 II등급 보디 리스토어를 받을 때까지 최대 HP를 1 잃는다."
+ },
+ "299ee1b33aae": {
+  "en": "**Engulf.** +5 to hit, 2d6+3 bludgeoning and grappled; 2d6 acid each turn while grappled.",
+  "t": "**삼키기.** 명중 +5, 2d6+3 타격과 붙잡힘. 붙잡힌 동안 턴마다 2d6 산성."
+ },
+ "2a1b0345201e": {
+  "en": "**Harden Shell / Acid Gut.** If attacked: +2 AC, and 4d10 acid in a 20-ft line (DC 16 Dex half).",
+  "t": "**단단한 껍질 / 산성 배.** 공격받으면: AC +2, 그리고 20피트 직선에 4d10 산성(DC 16 민첩 내성 성공 시 절반)."
+ },
+ "2a8a4c9e9f48": {
+  "en": "Sand Worm (CR 5) — Desert",
+  "t": "샌드 웜(CR 5) — 사막"
+ },
+ "360b6cd2627d": {
+  "en": "AC 14 · HP 80 · speed 20 ft",
+  "t": "AC 14 · HP 80 · 이동속도 20피트"
+ },
+ "36c4981670c3": {
+  "en": "Big Winga (CR 4) — Wingarest, rare",
+  "t": "빅 윙가(CR 4) — 윙가레스트, 드물다"
+ },
+ "3e3ecb74bcad": {
+  "en": "Untamable. Its eggs never hatch for humans.",
+  "t": "길들일 수 없다. 그 알은 인간 곁에서는 절대 부화하지 않는다."
+ },
+ "3fadddfd1e98": {
+  "en": "**Spike Launch.** Ranged 60 ft, +7 to hit, 2d8 piercing.",
+  "t": "**가시 발사.** 원거리 60피트, 명중 +7, 2d8 관통."
+ },
+ "40a6e8cd1dc7": {
+  "en": "**Storm Warning.** A blue wall of them means a storm within the day.",
+  "t": "**폭풍 경보.** 파란 벽처럼 몰려오면 그날 안에 폭풍이 온다는 뜻이다."
+ },
+ "4544553d9954": {
+  "en": "**Harden Body.** Bonus action: +2 AC until its next turn.",
+  "t": "**몸 굳히기.** 추가 행동: 다음 자기 턴까지 AC +2."
+ },
+ "454acfe4161f": {
+  "en": "**Fist.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**주먹.** 명중 +4, 1d6+2 타격."
+ },
+ "465e3a4d55a3": {
+  "en": "**Bite.** +7 to hit, 3d8+4 piercing.",
+  "t": "**물기.** 명중 +7, 3d8+4 관통."
+ },
+ "482a82ebb85e": {
+  "en": "**Random Mutation (Recharge 5–6).** Gains one for 1 minute: +2 AC · +2d6 damage · +20 ft speed · resistance to a random damage type.",
+  "t": "**무작위 돌연변이(재충전 5–6).** 1분 동안 다음 중 하나를 얻는다: AC +2 · 피해 +2d6 · 이동속도 +20피트 · 무작위 피해 종류 하나에 저항."
+ },
+ "495a490602e8": {
+  "en": "**Hypnosis (Recharge 6).** One creature within 60 ft: DC 12 Wis save or incapacitated for 1 round.",
+  "t": "**최면(재충전 6).** 60피트 이내 크리처 하나: DC 12 지혜 내성에 실패하면 1라운드 동안 행동불능."
+ },
+ "4a5208a95062": {
+  "en": "**Bigger Looking.** Illusion: appears Large.",
+  "t": "**커 보이기.** 환영: 대형으로 보인다."
+ },
+ "4d33bd53066f": {
+  "en": "**Mind Crush (if cornered).** DC 13 Wis save or 3d6 psychic; weak-minded NPCs may flee or worse.",
+  "t": "**정신 분쇄(궁지에 몰리면).** DC 13 지혜 내성에 실패하면 3d6 정신. 마음이 약한 NPC는 달아나거나, 더 나쁜 일을 겪는다."
+ },
+ "57c4a973fb92": {
+  "en": "**Exploding Branches (1/day).** Thrown 60 ft: 4d8 fire in a 10-ft radius, DC 15 Dex half.",
+  "t": "**폭발하는 가지(1/일).** 60피트 던진다: 반경 10피트에 4d8 화염, DC 15 민첩 내성 성공 시 절반."
+ },
+ "5c354f34e13b": {
+  "en": "**Mimic.** Assumes the form and voice of a Medium or smaller creature it has touched (DC 15 Insight to spot something off).",
+  "t": "**흉내.** 만진 적 있는 중형 이하 크리처의 모습과 목소리를 취한다(뭔가 이상하다는 걸 알아채려면 통찰 DC 15)."
+ },
+ "6021235d3a4d": {
+  "en": "Sucker Lady (CR 3) — forests near towns, Hifuna",
+  "t": "서커 레이디(CR 3) — 마을 근처 숲, 히푸나"
+ },
+ "60e1df60d7ac": {
+  "en": "**Mindless Rampage.** Must attack the nearest creature.",
+  "t": "**생각 없는 난동.** 가장 가까운 크리처를 공격해야 한다."
+ },
+ "67193f1a6f2e": {
+  "en": "*Loot:* chitin (worth 2 aquamarines from an adult), gamey meat.",
+  "t": "*전리품:* 키틴(성체라면 아쿠아마린 2개 값), 누린내 나는 고기."
+ },
+ "6779901668f8": {
+  "en": "**Pincher Shot.** Ranged 60 ft, +6 to hit, 3d6+3 piercing (black flame on the pincers is the tell).",
+  "t": "**집게 사격.** 원거리 60피트, 명중 +6, 3d6+3 관통(집게에 검은 불꽃이 붙으면 전조다)."
+ },
+ "67bb4d6f7ca0": {
+  "en": "**Dread Aura.** Creatures that start their turn within 30 ft: DC 12 Wis save or frightened until the start of their next turn.",
+  "t": "**공포의 기운.** 30피트 이내에서 턴을 시작한 크리처: DC 12 지혜 내성에 실패하면 다음 자기 턴이 시작될 때까지 공포 상태."
+ },
+ "68e344ccb081": {
+  "en": "**Decompose Touch.** +6 to hit, 2d8+4 necrotic.",
+  "t": "**부패의 손길.** 명중 +6, 2d8+4 사령."
+ },
+ "6990671b958e": {
+  "en": "**Air Shield.** Reaction: +3 AC against one ranged attack.",
+  "t": "**공기 방패.** 반응행동: 원거리 공격 하나에 대해 AC +3."
+ },
+ "6a8fdd02c3d7": {
+  "en": "**Unkillable.** When reduced to 0 HP, DC 15 Con save to drop to 1 HP instead (not if the damage was radiant).",
+  "t": "**죽지 않는다.** HP가 0이 되면 DC 15 건강 내성에 성공할 경우 대신 HP 1이 된다(피해가 광휘였다면 불가)."
+ },
+ "6e075c2c9691": {
+  "en": "White Roundies (CR 1) — Whiteland, winter shores",
+  "t": "화이트 라운디스(CR 1) — 화이트랜드, 겨울 해안"
+ },
+ "6e81d378659b": {
+  "en": "**Soul Drain Grapple.** +6 to hit, 1d8+4 bludgeoning, grappled (escape DC 14).",
+  "t": "**영혼 흡수 붙잡기.** 명중 +6, 1d8+4 타격, 붙잡힘(탈출 DC 14)."
+ },
+ "6e8f0bff2879": {
+  "en": "**Sky Hunter.** Advantage on sight Perception; senses living creatures within 120 ft.",
+  "t": "**하늘의 사냥꾼.** 시각에 의한 감지에 이점. 120피트 이내의 살아 있는 크리처를 감지한다."
+ },
+ "722ff6cf758f": {
+  "en": "**Sonic Boom (Recharge 5–6).** 30-ft cone, 3d10 thunder, DC 15 Con half.",
+  "t": "**음속 폭음(재충전 5–6).** 30피트 원뿔, 3d10 천둥, DC 15 건강 내성 성공 시 절반."
+ },
+ "7259177436b6": {
+  "en": "**Trade.** Give it good food: d6 → 1–2 half-eaten fish, 3–4 shiny junk, 5 a pearl, 6 a gold nugget (1 amethyst).",
+  "t": "**물물교환.** 좋은 음식을 주면: d6 → 1–2 먹다 만 물고기, 3–4 반짝이는 잡동사니, 5 펄 한 닢, 6 금덩이(애머시스트 1개)."
+ },
+ "733e31d0eea8": {
+  "en": "Teefyro (CR 4) — Hifuna, near Tastyleaf",
+  "t": "티피로(CR 4) — 히푸나, 테이스티리프 근처"
+ },
+ "75bc37723843": {
+  "en": "**Fost Fear.** Won't approach a lit fost lamp (DC 14 Wis save to try). Distractible by \"something finger-shaped\".",
+  "t": "**포스트 공포증.** 불 켜진 포스트 램프에는 다가가지 않는다(시도하려면 DC 14 지혜 내성). ‘손가락 모양의 무언가’로 주의를 돌릴 수 있다."
+ },
+ "7a71057ea560": {
+  "en": "AC 12 · HP 70 · amorphous",
+  "t": "AC 12 · HP 70 · 무정형"
+ },
+ "7efc593bbe9c": {
+  "en": "Not aggressive unless provoked or hungry.",
+  "t": "도발당하거나 배고프지 않으면 공격적이지 않다."
+ },
+ "7f7aa2983a19": {
+  "en": "AC 14 · HP 55 · fly 40 ft",
+  "t": "AC 14 · HP 55 · 비행 40피트"
+ },
+ "837377295439": {
+  "en": "**Unstable Form.** When hit by a critical hit, splits into two smaller Muckmen (15 HP each).",
+  "t": "**불안정한 형태.** 치명타를 맞으면 작은 머크맨 둘(각 HP 15)로 갈라진다."
+ },
+ "8f3ed2abadb4": {
+  "en": "**Slow Regeneration.** Regains 5 HP per round unless it took fire or radiant damage.",
+  "t": "**느린 재생.** 화염이나 광휘 피해를 받지 않았다면 라운드마다 HP 5를 회복한다."
+ },
+ "8ff1df9b6292": {
+  "en": "Hash (template) — any CR, Hifuna",
+  "t": "해시(템플릿) — CR 무관, 히푸나"
+ },
+ "91b6185202f3": {
+  "en": "**Decompose Strike.** +5 to hit, 1d8+3 necrotic.",
+  "t": "**부패의 일격.** 명중 +5, 1d8+3 사령."
+ },
+ "941f559e188b": {
+  "en": "**Fost Weakness.** A fost stone jammed into its crown (attack vs AC 14, or automatic while it's grappled or prone) **paralyzes** it until removed. It's drawn to fost stones within 60 ft.",
+  "t": "**포스트 약점.** 수관에 포스트석을 박아 넣으면(AC 14 상대 공격, 또는 붙잡힘이나 넘어짐 상태인 동안 자동) 빼낼 때까지 **마비**된다. 60피트 이내의 포스트석에 끌린다."
+ },
+ "96359fe95833": {
+  "en": "**Teeth Launch.** Ranged 30 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**이빨 발사.** 원거리 30피트, 명중 +6, 2d8+4 관통."
+ },
+ "98793b061a74": {
+  "en": "Sweet Sting (CR 2) — Sweetlake, west of Blood",
+  "t": "스위트 스팅(CR 2) — 스위트레이크, 블러드 서쪽"
+ },
+ "9a123bcaf689": {
+  "en": "**Growth Burst.** Bonus action: +10 ft reach until its next turn.",
+  "t": "**성장 폭발.** 추가 행동: 다음 자기 턴까지 간격 +10피트."
+ },
+ "9c1f2119cce3": {
+  "en": "**Sound Blast (Recharge 6).** 15-ft radius, DC 12 Con save or deafened 1 minute (used to stun fish).",
+  "t": "**음파 폭발(재충전 6).** 반경 15피트, DC 12 건강 내성에 실패하면 1분 동안 귀먹음(물고기를 기절시킬 때 쓴다)."
+ },
+ "9c80b22353cf": {
+  "en": "**Mindless Swarm.** Advantage on attacks while an ally is adjacent to the target.",
+  "t": "**생각 없는 떼.** 목표에 아군이 인접해 있는 동안 공격에 이점."
+ },
+ "9e9150f387ad": {
+  "en": "Bruntos (CR ½) — Endlessfog, Freeish (feral)",
+  "t": "브룬토스(CR ½) — 엔들리스포그, 프리이시(야생화)"
+ },
+ "9f5090239573": {
+  "en": "**Poison Spit (Recharge 5–6).** One target within 60 ft automatically takes 4d10 poison. \"Sure as a spitting Sweet Sting.\"",
+  "t": "**독 뱉기(재충전 5–6).** 60피트 이내 목표 하나가 자동으로 4d10 독 피해를 받는다. ‘스위트 스팅이 침 뱉듯 확실하다.’"
+ },
+ "9faa89227804": {
+  "en": "*Loot:* claws (weapon material), tongue (Walking Dead gel). A whole corpse sells for **5 sapphires**.",
+  "t": "*전리품:* 발톱(무기 재료), 혀(워킹 데드 젤). 시체 한 구를 통째로 팔면 **사파이어 5개**."
+ },
+ "a4da0fdd1b6a": {
+  "en": "**Gust Stream.** 60-ft line, DC 15 Str save or pushed 30 ft and knocked prone.",
+  "t": "**돌풍 줄기.** 60피트 직선, DC 15 근력 내성에 실패하면 30피트 밀려나고 넘어진다."
+ },
+ "a8320040ac37": {
+  "en": "**Enlarge (1/day).** Doubles size: reach +5 ft, damage +1d6.",
+  "t": "**거대화(1/일).** 크기가 두 배가 된다: 간격 +5피트, 피해 +1d6."
+ },
+ "a86fb529a5c8": {
+  "en": "Koalin (CR 1) — eastern grasslands",
+  "t": "코알린(CR 1) — 동쪽 초원"
+ },
+ "a8762cbb2e02": {
+  "en": "Hifuna People (CR 6) — Hifuna",
+  "t": "히푸나 피플(CR 6) — 히푸나"
+ },
+ "ab1a46b7fbb5": {
+  "en": "**Soul Leaves.** Senses soul energy within 60 ft. Fost stone paralysis works, but the attack is against AC 16.",
+  "t": "**영혼의 잎.** 60피트 이내의 영혼 에너지를 감지한다. 포스트석 마비는 통하지만, 공격은 AC 16을 상대로 한다."
+ },
+ "abf235e4ad57": {
+  "en": "**Slam.** +6 to hit, 2d8+4 bludgeoning.",
+  "t": "**내려치기.** 명중 +6, 2d8+4 타격."
+ },
+ "ac2773b58cc3": {
+  "en": "Walking Flathead (CR 7) — Bahyum",
+  "t": "워킹 플랫헤드(CR 7) — 바혐"
+ },
+ "af4bd7508c8c": {
+  "en": "**Soul Sight.** Sees invisible and soul-based creatures within 120 ft.",
+  "t": "**영혼의 눈.** 120피트 이내의 투명한 크리처와 영혼이 본체인 크리처를 본다."
+ },
+ "b02d7cd9b2e3": {
+  "en": "*Loot:* meat (tastes like pork), hide. Brain, eyes and mustache are **illegal** to carry.",
+  "t": "*전리품:* 고기(돼지고기 맛), 가죽. 뇌, 눈, 수염을 지니고 다니는 것은 **불법**이다."
+ },
+ "b6e10ecc40fc": {
+  "en": "**Razor Edges.** Crits deal +2d6 slashing.",
+  "t": "**면도날 가장자리.** 치명타 시 +2d6 참격."
+ },
+ "b740e3c6582b": {
+  "en": "**Costume Blind.** Ignores creatures in a convincing Sweet Sting costume.",
+  "t": "**탈 앞에서는 장님.** 그럴듯한 스위트 스팅 탈을 쓴 크리처는 무시한다."
+ },
+ "c00d5d4d7675": {
+  "en": "Crazed Muckman (CR 3) — Blood, Freeish",
+  "t": "크레이즈드 머크맨(CR 3) — 블러드, 프리이시"
+ },
+ "c07e1ebb77de": {
+  "en": "Nari Worm (CR 8, but peaceful) — Nari Caverns",
+  "t": "나리 웜(CR 8, 하지만 온순하다) — 나리 동굴"
+ },
+ "c1e745c10316": {
+  "en": "**Hive Mind.** Can't be surprised while another Walking undead is within 60 ft.",
+  "t": "**군체 정신.** 60피트 이내에 다른 워킹 언데드가 있는 동안 기습당하지 않는다."
+ },
+ "c59acd2ea88e": {
+  "en": "**Burrow Cloak.** Invisible while underground; Saynas detect it.",
+  "t": "**땅속 은신.** 땅속에 있는 동안 투명. 사이나는 감지한다."
+ },
+ "c5b86c94cacf": {
+  "en": "Ported from the original Alpha campaign's `Beasts Stats.md`, with regions added and new entries. Light-weight blocks: fill in ability scores from a similar 5e monster of the same CR when you need them. \"Soul Energy\" damage reduces the target's **Soul Points** (SP); below 0 SP a creature gains exhaustion instead.",
+  "t": "원래 알파 캠페인의 `Beasts Stats.md`에서 옮겨 오면서 지역과 새 항목을 더했다. 가벼운 능력치라서, 능력치 점수가 필요하면 같은 CR의 비슷한 5판 몬스터에서 가져오면 된다. ‘영혼 에너지’ 피해는 목표의 **소울 포인트**(SP)를 줄인다. SP가 0 아래로 떨어진 크리처는 대신 탈진을 얻는다."
+ },
+ "c7c4f83ee762": {
+  "en": "AC 12 · HP 19 · climb 30 ft",
+  "t": "AC 12 · HP 19 · 등반 30피트"
+ },
+ "c857f9631995": {
+  "en": "Shapeshifter (CR 4) — west of Blood",
+  "t": "변신자(CR 4) — 블러드 서쪽"
+ },
+ "c87cda76da9a": {
+  "en": "In Freeish they're street lights and guards; groups of 6+ can set a village on fire.",
+  "t": "프리이시에서는 가로등과 경비병 노릇을 한다. 6체 이상 무리는 마을 하나에 불을 지를 수 있다."
+ },
+ "c99f5618e292": {
+  "en": "AC 15 · HP 110 · fly 120 ft",
+  "t": "AC 15 · HP 110 · 비행 120피트"
+ },
+ "cd81979086b6": {
+  "en": "**Friendly.** Never attacks first. Harming one is a Hifuna-exile crime.",
+  "t": "**우호적.** 절대 먼저 공격하지 않는다. 해치면 히푸나 추방에 해당하는 범죄다."
+ },
+ "ceeea05e4432": {
+  "en": "**Soul-Enhanced Screech (Recharge 5–6).** 3d10 thunder in 30 ft, DC 15 Con half.",
+  "t": "**영혼으로 강화한 비명(재충전 5–6).** 30피트에 3d10 천둥, DC 15 건강 내성 성공 시 절반."
+ },
+ "cf472acf8428": {
+  "en": "**Stalker.** Picks one target and follows them for 1d3 nights (DC 15 Perception to notice). Advantage on attacks against isolated targets.",
+  "t": "**스토커.** 목표 하나를 골라 1d3밤 동안 따라다닌다(알아채려면 감지 DC 15). 고립된 목표에 대한 공격에 이점."
+ },
+ "d052a97726e6": {
+  "en": "**Soul Theft.** On a hit, the target loses 1 SP.",
+  "t": "**영혼 도둑질.** 명중하면 목표는 SP 1을 잃는다."
+ },
+ "d38df4e96638": {
+  "en": "Wood People (CR 3) — Buhraies Plains, Tolerideme",
+  "t": "우드 피플(CR 3) — 부라이에스 평원, 톨레리데메"
+ },
+ "daefd400836b": {
+  "en": "**Fast Strike.** Reach 15 ft, +7 to hit, 2d6+4 slashing; two attacks.",
+  "t": "**빠른 일격.** 간격 15피트, 명중 +7, 2d6+4 참격. 공격 2회."
+ },
+ "dc7a11d1cf79": {
+  "en": "**Split.** When it drops below half HP, it can split into two (each with half the remaining HP).",
+  "t": "**분열.** HP가 절반 아래로 떨어지면 둘로 갈라질 수 있다(각각 남은 HP의 절반)."
+ },
+ "dcb9bfea4f73": {
+  "en": "Monica Swarm (CR 2) — lower plains",
+  "t": "모니카 떼(CR 2) — 낮은 평원"
+ },
+ "dece39dee12c": {
+  "en": "**Slow Regeneration.** 10 HP per round unless it took radiant damage.",
+  "t": "**느린 재생.** 광휘 피해를 받지 않았다면 라운드마다 HP 10."
+ },
+ "e099acf627b5": {
+  "en": "Walking Skin (CR 3) — Bahyum, Buhraies Plains",
+  "t": "워킹 스킨(CR 3) — 바혐, 부라이에스 평원"
+ },
+ "e146d763ee3b": {
+  "en": "Protected on Endlessfog: harming one there makes the locals violent.",
+  "t": "엔들리스포그에서는 보호받는다: 거기서 하나라도 해치면 주민들이 난폭해진다."
+ },
+ "e19d8807a9cc": {
+  "en": "**Dive Bomb.** If it flies 20 ft straight toward the target, +2d6 damage.",
+  "t": "**급강하 폭격.** 목표를 향해 일직선으로 20피트 날면 피해 +2d6."
+ },
+ "e29aa7a5bd89": {
+  "en": "**Soul Drain (Recharge 6).** One creature within 5 ft: DC 14 Con save or lose 1d4 SP.",
+  "t": "**영혼 흡수(재충전 6).** 5피트 이내 크리처 하나: DC 14 건강 내성에 실패하면 SP 1d4를 잃는다."
+ },
+ "e45250d99d08": {
+  "en": "Trunk People (CR 1) — Freeish forests, Woodland",
+  "t": "트렁크 피플(CR 1) — 프리이시 숲, 우드랜드"
+ },
+ "e4e0010ccde4": {
+  "en": "**Halted Decomposition.** Immune to poison and disease.",
+  "t": "**멈춘 부패.** 독과 질병에 면역."
+ },
+ "e53eeec252bb": {
+  "en": "AC 12 · HP 30 · swim 50 ft",
+  "t": "AC 12 · HP 30 · 수영 50피트"
+ },
+ "e66d39f47a58": {
+  "en": "AC 12 · HP 30 · swarm, fly 30 ft",
+  "t": "AC 12 · HP 30 · 떼, 비행 30피트"
+ },
+ "e73cb5fbd9ef": {
+  "en": "AC 15 · HP 95 · fly 80 ft",
+  "t": "AC 15 · HP 95 · 비행 80피트"
+ },
+ "e75f81fcdeab": {
+  "en": "**Body Explosion.** When reduced to 0 HP, explodes: 4d6 fire in 15 ft, DC 13 Dex half. Leaves a crater.",
+  "t": "**몸 폭발.** HP가 0이 되면 폭발한다: 15피트 안에 4d6 화염, DC 13 민첩 내성 성공 시 절반. 구덩이가 남는다."
+ },
+ "ea0e2fe7d5c0": {
+  "en": "AC 13 · HP 22 · Small",
+  "t": "AC 13 · HP 22 · 소형"
+ },
+ "eee17dea3c40": {
+  "en": "**Porter.** Carries as much as a mule over rough terrain without slowing the party.",
+  "t": "**짐꾼.** 험한 지형에서도 일행을 늦추지 않고 노새만큼 짐을 나른다."
+ },
+ "ef816228507d": {
+  "en": "**Strip Flesh.** Swarm attack: 2d6 piercing to creatures in its space; a corpse is stripped in hours.",
+  "t": "**살 발라내기.** 떼 공격: 자기 공간에 있는 크리처에게 2d6 관통. 시체 하나는 몇 시간 만에 뼈만 남는다."
+ },
+ "f37b8ccc226f": {
+  "en": "*Loot:* jelly blob in a jar (1 aquamarine to scientists).",
+  "t": "*전리품:* 병에 담긴 젤리 덩어리(과학자에게 아쿠아마린 1개)."
+ },
+ "f3f4304cba13": {
+  "en": "AC 14 · HP 110 · burrow 30 ft",
+  "t": "AC 14 · HP 110 · 굴착 30피트"
+ },
+ "fc948a18033d": {
+  "en": "Flinga (CR 6) — the skies",
+  "t": "플링가(CR 6) — 하늘"
+ },
+ "fcec3010541f": {
+  "en": "Walking Flesh (CR 4) — Bahyum, Buhraies Plains",
+  "t": "워킹 플레시(CR 4) — 바혐, 부라이에스 평원"
+ },
+ "fd81cb413c78": {
+  "en": "**Quake.** Each round it's angry, the cavern quakes (DC 13 Dex or 2d6 bludgeoning, prone).",
+  "t": "**지진.** 화가 나 있는 라운드마다 동굴이 흔들린다(DC 13 민첩에 실패하면 2d6 타격, 넘어짐)."
+ },
+ "fe699492048e": {
+  "en": "AC 18 · HP 200 · burrow 40 ft",
+  "t": "AC 18 · HP 200 · 굴착 40피트"
+ }
+}

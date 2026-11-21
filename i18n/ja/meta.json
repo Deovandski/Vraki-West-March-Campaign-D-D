@@ -1,0 +1,12 @@
+{
+ "_about": "Strings the site writes itself for this language. \"banner\" is the AI-translation notice on every page (the author asked for: AI-Translated to <language> from Original works by Deovandski and Mitsukiven/Feiourm). Same wording as HusbandOutWorld's content/i18n/ja/meta.json.",
+ "english": "English",
+ "name": "日本語",
+ "english_name": "Japanese",
+ "html_lang": "ja",
+ "dir": "ltr",
+ "locale": "ja-JP",
+ "units": "metric",
+ "name_sep": "・",
+ "banner": "Deovandski と Mitsukiven/Feiourm による原作から、AI が日本語に翻訳しました。言語は右上の設定（⚙）で変更できます。"
+}

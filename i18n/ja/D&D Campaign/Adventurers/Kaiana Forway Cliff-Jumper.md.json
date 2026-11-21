@@ -1,0 +1,62 @@
+{
+ "09227714f03f": {
+  "en": "**People:** Human · **Class:** Sorcerer (Soul-Energy origin) · **Background:** Investor-Guild Adventurer (Cliff-Jumpers) · **Alignment:** Chaotic Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**種族：** 人間 · **クラス：** ソーサラー（魂のエネルギーの起源） · **背景：** 投資ギルドの冒険者（クリフ・ジャンパーズ） · **属性：** 混沌にして中立 · **階級：** パール\n**インターフェース：** ダルファリエス · **ソウルポイント：** 3"
+ },
+ "17b8a8419a92": {
+  "en": "**Drunk Caster.** While drunk: spell damage +1, spell save DC −1.",
+  "t": "**酔いどれ術者。** 酔っている間：呪文のダメージ+1、呪文セーヴDC −1。"
+ },
+ "2933cf3cfe64": {
+  "en": "**Soul Slap.** +5 to hit, 1d4+2 psychic.",
+  "t": "**魂の平手打ち。** 命中+5、1d4+2の精神。"
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "呪文発動"
+ },
+ "4c5cf5b43ee6": {
+  "en": "**Soul Overdraw.** Once per day, convert 1 HP into 1 sorcery point (or 1 SP).",
+  "t": "**魂の前借り。** 1日1回、HP 1をソーサリー・ポイント1（またはSP 1）に変える。"
+ },
+ "5cde0cc0a365": {
+  "en": "**Skills:** Arcana +3, Intimidation +5, Acrobatics +4\n**Equipment:** White-caster uniform, flask, sigil rings, spell focus crystal, badge.\n**Hook:** Never knew her father. (DM: see DM Secrets.)",
+  "t": "**技能：** 〈魔法学〉+3、〈威圧〉+5、〈軽業〉+4\n**装備：** 白の術者の制服、スキットル、シジルリング、呪文の焦点の水晶、身分証。\n**フック：** 父親を知らない。（DMへ：DMの秘密を参照）"
+ },
+ "5ebfc416baf6": {
+  "en": "**Personal-Space Aggressor.** Advantage on Intimidation face-to-face.",
+  "t": "**パーソナルスペースの侵略者。** 面と向かっての〈威圧〉に有利。"
+ },
+ "6c38f8ce3494": {
+  "en": "**AC** 13 · **HP** 20 · **Speed** 30 ft\n**STR** 10 · **DEX** 14 · **CON** 12 · **INT** 12 · **WIS** 11 · **CHA** 17",
+  "t": "**AC** 13 · **HP** 20 · **移動速度** 30フィート\n**【筋】** 10 · **【敏】** 14 · **【耐】** 12 · **【知】** 12 · **【判】** 11 · **【魅】** 17"
+ },
+ "89b434dd64a1": {
+  "en": "Kaiana Forway Cliff-Jumper — Level 3 Sorcerer (Soul-Caster)",
+  "t": "カイアナ・フォーウェイ・クリフ・ジャンパー — レベル3のソーサラー（魂の術者）"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特徴と特性"
+ },
+ "a6816af76883": {
+  "en": "**Spell Save DC** 13 · **Spell Attack** +5 · **Slots** 4 (1st), 2 (2nd)\n*Magic Missile, Shield, Thunderwave, Charm Person, Scorching Ray, Detect Thoughts*\n(Described as Darfaries interface spells: \"Fire CREATE\", \"Gravity REPEL\", etc.)",
+  "t": "**呪文セーヴDC** 13 · **呪文攻撃** +5 · **スロット** 4（1レベル）、2（2レベル）\n*《マジック・ミサイル》、《シールド》、《サンダーウェイヴ》、《チャーム・パーソン》、《スコーチング・レイ》、《ディテクト・ソーツ》*\n（ダルファリエスのインターフェースの呪文として描写する：「ファイア・クリエイト」、「グラビティ・リペル」など）"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "アクション"
+ },
+ "b62414631cc0": {
+  "en": "**Cliff-Jumper Debt.** Her guild takes 30% of her quest pay.",
+  "t": "**クリフ・ジャンパーズへの借金。** 彼女のギルドが依頼の報酬の30%を取る。"
+ },
+ "c2b878ae3ed0": {
+  "en": "**Quick-Witted White Caster.** +2 to initiative. \"QWWC\" is sewn on her uniform. Everyone calls her \"AWC with Double D\" instead.",
+  "t": "**機転の利く白の術者。** イニシアチブ+2。制服には「QWWC」と縫い付けてある。なのにみんなは代わりに「AWC with Double D」と呼ぶ。"
+ },
+ "f6d59ac6c2ab": {
+  "en": "**White-Caster Burst (Recharge 6).** 2d6 radiant in a 10-ft radius.",
+  "t": "**白の術者の炸裂（再チャージ6）。** 半径10フィートに2d6の光輝。"
+ }
+}

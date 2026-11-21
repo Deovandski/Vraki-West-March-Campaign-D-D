@@ -1,0 +1,194 @@
+{
+ "015151de15c4": {
+  "en": "[Stat Blocks](Stat%20Blocks) — beasts, fauna and people",
+  "t": "[능력치](Stat%20Blocks) — 마수, 동물, 사람"
+ },
+ "0ccd4252c532": {
+  "en": "*A bandit go-between offers a cut for helping rob the wagon ([The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)).",
+  "t": "*산적의 중개인이 수레를 터는 걸 도우면 몫을 주겠다고 제안한다([내부자 작업](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))."
+ },
+ "1eaa3917adfe": {
+  "en": "No need to calculate distances, Egua speeds or loads. The [travel map](../Maps) has **circles drawn along the routes connecting places**.",
+  "t": "거리, 에구아 속도, 짐을 계산할 필요가 없다. [여행 지도](../Maps)에는 **장소를 잇는 길을 따라 서클이 그려져 있다**."
+ },
+ "1ffc59fb0037": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make the trip shorter or longer:",
+  "t": "**서클 하나는 여행 1일, 2일, 3일을 나타낸다 — DM이 고른다**. 그렇게 여정을 짧게도 길게도 만든다:"
+ },
+ "2152f752587d": {
+  "en": "**Stay for rest** — repair, hunt for good dinner, barter, flirt, steal, etc.  ",
+  "t": "**쉬어 간다** — 수리하기, 맛있는 저녁거리 사냥, 흥정, 작업 걸기, 도둑질 등.  "
+ },
+ "21888858ff16": {
+  "en": "Additional Files",
+  "t": "추가 파일"
+ },
+ "22362e946f58": {
+  "en": "**Travel** — keep the wagon moving, use companions (if they have them) to check for danger, let the Eguas graze, etc.",
+  "t": "**이동한다** — 수레를 계속 움직이고, (있다면) 동료를 시켜 위험을 살피고, 에구아에게 풀을 뜯게 하는 등."
+ },
+ "234db54f6d14": {
+  "en": "Players can create their own characters, or use an existing adventurer. See [Adventurers](Adventurers) for pre-made characters, or [Making an Adventurer](02%20-%20Making%20an%20Adventurer.md).",
+  "t": "플레이어는 직접 캐릭터를 만들어도 되고, 이미 있는 모험가를 써도 된다. 사전 제작 캐릭터는 [모험가](Adventurers)를, 만드는 법은 [모험가 만들기](02%20-%20Making%20an%20Adventurer.md)를 보라."
+ },
+ "2a9c70c6d9c9": {
+  "en": "DM rolls dice for events.",
+  "t": "DM이 이벤트 주사위를 굴린다."
+ },
+ "33505ee7dd32": {
+  "en": "*Ambush from bandits",
+  "t": "*산적의 매복"
+ },
+ "3b169b78cd9c": {
+  "en": "Player Decisions",
+  "t": "플레이어가 정하는 것"
+ },
+ "3f0b9095c717": {
+  "en": "**Graveyard (12am–6am)**",
+  "t": "**심야(오전 0시–6시)**"
+ },
+ "3fbb65e6d6fb": {
+  "en": "**Morning (6am–12pm)**",
+  "t": "**오전(오전 6시–정오)**"
+ },
+ "40392d89eb5b": {
+  "en": "DM rolls dice for events (or not).",
+  "t": "DM이 이벤트 주사위를 굴린다(안 굴려도 된다)."
+ },
+ "426ccbd88842": {
+  "en": "DM Decisions",
+  "t": "DM이 정하는 것"
+ },
+ "446d9967935a": {
+  "en": "Players decide their actions.",
+  "t": "플레이어가 행동을 정한다."
+ },
+ "44c345a288ba": {
+  "en": "Alpha One-Shot: Wagon Escort",
+  "t": "알파 단편 시나리오: 수레 호위"
+ },
+ "4b4f7f54253a": {
+  "en": "The original metadata map with kilometers lives in the [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) for the lore-curious. Full travel rules: [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "킬로미터가 적힌 원래의 메타데이터 지도는 설정이 궁금한 사람을 위해 [#HusbandOutWorld 저장소](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map)에 있다. 전체 여행 규칙: [서클로 여행하기](01%20-%20Travel%20by%20Circles.md)."
+ },
+ "4fe6ce4319ee": {
+  "en": "The original #HusbandOutWorld Alpha campaign, kept here for quick games. For the full open-table campaign, see the [DM Guide](README.md); this one-shot works as a single **Cargo Protection** quest in the West March too.",
+  "t": "원래의 #HusbandOutWorld 알파 캠페인으로, 가볍게 즐길 수 있도록 여기 남겨 두었다. 누구나 참여하는 정식 캠페인은 [DM 안내서](README.md)를 보라. 이 단편 시나리오는 웨스트 마치 안에서 **화물 호위** 의뢰 하나로도 쓸 수 있다."
+ },
+ "5eb0ce43f1ce": {
+  "en": "**1 day (Fast)** — good roads, light loads, or the DM wants to get to the action.",
+  "t": "**1일(빠름)** — 좋은 길, 가벼운 짐, 또는 DM이 빨리 본론으로 가고 싶을 때."
+ },
+ "5ffcd8fda6be": {
+  "en": "**Count the circles** from point A to point B along the map. A wagon from Forway to Sanbi crosses 6 circles; the [route lengths table](../Maps/README.md#route-lengths) has the rest.",
+  "t": "지도에서 A 지점부터 B 지점까지 **서클을 세라**. 포웨이에서 산비로 가는 수레는 서클 6개를 지난다. 나머지는 [경로 길이 표](../Maps/README.md#route-lengths)에 있다."
+ },
+ "67317ae44e7c": {
+  "en": "Players decide who stays awake, if anyone.",
+  "t": "누가 깨어 있을지(아무도 없을 수도 있다) 플레이어가 정한다."
+ },
+ "67fe1db765a4": {
+  "en": "**Days × 4 shifts** = how many time chunks you play. Roll events per shift, or once per circle to speed things up. Assuming ~5 minutes of playtime per shift, each day of travel is ~20 minutes of play.",
+  "t": "**일수 × 시간대 4개** = 플레이하는 시간대의 수. 이벤트는 시간대마다 굴리거나, 빨리 진행하려면 서클마다 한 번 굴린다. 시간대 하나에 플레이 시간 약 5분을 잡으면, 여행 하루는 약 20분이다."
+ },
+ "6d5075c781f9": {
+  "en": "**Afternoon (12pm–6pm)**",
+  "t": "**오후(정오–오후 6시)**"
+ },
+ "7112ad71e850": {
+  "en": "**Roles** — who stays awake, who actively protects, who rests.",
+  "t": "**역할** — 누가 깨어 있고, 누가 적극적으로 지키고, 누가 쉬는지."
+ },
+ "738d2099d47b": {
+  "en": "Each day is split into chunks:",
+  "t": "하루는 몇 개의 시간대로 나뉜다:"
+ },
+ "85825c501db3": {
+  "en": "For each time chunk, players decide:",
+  "t": "시간대마다 플레이어는 다음을 정한다:"
+ },
+ "877b733a9812": {
+  "en": "Punishment (if caught by guards or reported by one of the people in the wagon or someone else.)",
+  "t": "처벌(경비병에게 잡히거나, 수레에 탄 누군가나 다른 사람이 신고한 경우)."
+ },
+ "89d7288616c2": {
+  "en": "Whatever makes the game more fun — do it.  \nIf you have a proposal for tweaking numbers, send us a PR modifying only the D&D campaign files!",
+  "t": "게임을 더 재밌게 만든다면 — 해라.  \n숫자 조정을 제안하고 싶다면, D&D 캠페인 파일만 고친 PR을 보내 달라!"
+ },
+ "8eb1c5f6ae7f": {
+  "en": "[Adventurers](Adventurers) — nine pre-made level 3 adventurers",
+  "t": "[모험가](Adventurers) — 사전 제작된 3레벨 모험가 9명"
+ },
+ "9543e663f5ef": {
+  "en": "**Night (6pm–12am)**",
+  "t": "**밤(오후 6시–오전 0시)**"
+ },
+ "9dd9e1fa6888": {
+  "en": "Campaign Duration: travel by circles",
+  "t": "캠페인 길이: 서클로 여행하기"
+ },
+ "a1a1e1305505": {
+  "en": "*Nothing.",
+  "t": "*아무 일도 없음."
+ },
+ "a37d475b4c17": {
+  "en": "**3 days (Slow)** — heavy wagon, off-road, swamp, desert, mountains, bad weather, or the DM wants the journey to *be* the adventure.",
+  "t": "**3일(느림)** — 무거운 수레, 길 없는 곳, 늪, 사막, 산, 궂은 날씨, 또는 DM이 여정 자체를 모험으로 *만들고* 싶을 때."
+ },
+ "a3cb49416a78": {
+  "en": "Daily Structure",
+  "t": "하루의 구성"
+ },
+ "ace517d536f1": {
+  "en": "**Combat** — roll initiative as usual.",
+  "t": "**전투** — 평소처럼 우선권을 굴린다."
+ },
+ "bcc630834b56": {
+  "en": "*Find corpses (adventurers, other wagon, etc.)",
+  "t": "*시체 발견(모험가, 다른 수레 등)"
+ },
+ "bdb345622188": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md) — event rolls and regional encounter tables",
+  "t": "[이벤트와 조우](07%20-%20Events%20&%20Encounters.md) — 이벤트 굴림과 지역별 조우 표"
+ },
+ "ca82d9e7c13d": {
+  "en": "*Broken wagon.",
+  "t": "*수레 고장."
+ },
+ "d212f917b48f": {
+  "en": "For DMs",
+  "t": "DM에게"
+ },
+ "d2d0b9f36830": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — the bandits' offer: help rob the wagon, gamble on the payout",
+  "t": "[내부자 작업](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — 산적의 제안: 수레 터는 걸 돕고, 몫에 걸어 본다"
+ },
+ "d9e8acc981bc": {
+  "en": "If in town or staying with other wagons, social actions become available. Prep Nari gels, etc.",
+  "t": "마을에 있거나 다른 수레들과 함께 야영 중이면 사교 행동을 할 수 있다. 나리 젤 준비 등."
+ },
+ "da591a7e9f3b": {
+  "en": "Rewards.  ",
+  "t": "보상.  "
+ },
+ "dc0b7234930e": {
+  "en": "**Eguas** graze during the Morning and Night and eat ~20 kg of grass, hay or Carbey a day — but there's no speed or load math. Pushing them harder is a good reason for the DM to pick a faster pace (with Con saves for everyone and cranky Eguas); bad terrain is a good reason for a slower one.",
+  "t": "**에구아**는 오전과 밤에 풀을 뜯고 하루에 풀, 건초, 카베이를 약 20kg 먹는다 — 하지만 속도나 짐 계산은 없다. 무리하게 몰아붙이는 건 DM이 더 빠른 속도를 고를 좋은 이유다(모두 건강 내성 굴림, 그리고 짜증 난 에구아). 험한 지형은 더 느린 속도를 고를 좋은 이유다."
+ },
+ "f27b8b733337": {
+  "en": "The campaign involves **2–6 players** working as adventurers protecting a wagon from one place to another. More of a one‑shot type of campaign.",
+  "t": "이 캠페인에서는 **2–6명의 플레이어**가 모험가가 되어 수레를 한 곳에서 다른 곳까지 지킨다. 단편에 가까운 캠페인이다."
+ },
+ "f59374ff2724": {
+  "en": "**2 days (Standard)** — a normal wagon on roads and trails.",
+  "t": "**2일(보통)** — 큰길과 오솔길을 가는 평범한 수레."
+ },
+ "f6733a9b0481": {
+  "en": "Events, enemies for event types, etc. Possible events:",
+  "t": "이벤트, 이벤트 종류별 적 등. 가능한 이벤트:"
+ },
+ "fdf10baf2f74": {
+  "en": "*Ambush from Fauna or beast. Bagarisa swarm, etc",
+  "t": "*동물이나 마수의 매복. 바가리사 떼 등"
+ }
+}

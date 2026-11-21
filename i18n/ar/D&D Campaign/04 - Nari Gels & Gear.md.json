@@ -1,0 +1,870 @@
+{
+ "01cd70f3cd35": {
+  "en": "Thick coat: +1 AC, disadv. on stealth",
+  "t": "فرو كثيف: +1 لفئة الدرع AC، عيب في التخفي"
+ },
+ "02ed88d532ca": {
+  "en": "Can't form new memories for the duration",
+  "t": "لا يستطيع تكوين ذكريات جديدة طوال المدة"
+ },
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "جل ناري والعتاد"
+ },
+ "06261b5c960e": {
+  "en": "Flawless complexion (adv. on one Persuasion)",
+  "t": "بشرة لا عيب فيها (أفضلية في اختبار إقناع واحد)"
+ },
+ "076a428ce1ca": {
+  "en": "Signal smoke bomb (red/cyan/green/yellow)",
+  "t": "قنبلة دخان للإشارة (أحمر/سماوي/أخضر/أصفر)"
+ },
+ "0db483b96ea9": {
+  "en": "Darkvision 120 ft; you see green as gray (DM describes everything as neon)",
+  "t": "رؤية في الظلام 120 قدمًا؛ ترى الأخضر رماديًا (ويصف مدير اللعبة كل شيء كالنيون)"
+ },
+ "0e206b60f4c2": {
+  "en": "Resistance to psychic damage; speed −10 ft; disadv. on initiative",
+  "t": "مقاومة للضرر النفسي؛ السرعة −10 أقدام؛ عيب في المبادرة"
+ },
+ "0f81ee943991": {
+  "en": "Restrained, can't speak (DC 13 Con ends at end of turn)",
+  "t": "مقيد، لا يستطيع الكلام (بنية DC 13 تُنهيه في نهاية الدور)"
+ },
+ "0faac30f419b": {
+  "en": "As Skin Melt IV",
+  "t": "مثل سكين ميلت IV"
+ },
+ "0faccb6d50e8": {
+  "en": "Darkvision 120 ft; disadv. on reading and close work",
+  "t": "رؤية في الظلام 120 قدمًا؛ عيب في القراءة والعمل الدقيق"
+ },
+ "10ae207e1611": {
+  "en": "Fly 30 ft (light or no armor; can't hold two-handed items or use somatic components while flying)",
+  "t": "طيران 30 قدمًا (بدرع خفيف أو بلا درع؛ لا تستطيع حمل أشياء بيدين ولا استخدام المكونات الجسدية أثناء الطيران)"
+ },
+ "14f86d5be3a4": {
+  "en": "Jam into a Wood Person's crown (melee attack against AC 14, or while it's grappled) to **paralyze** it",
+  "t": "اغرسه في تاج أحد الوود بيبول (هجوم التحامي ضد AC 14، أو أثناء الإمساك به) لـ**تشلّه**"
+ },
+ "1541e5b3811b": {
+  "en": "Thrown into water: 3d6 thunder in 15 ft and a 20-ft geyser. Wrap in paper to delay 1 round",
+  "t": "إن رُميت في الماء: 3d6 رعد ضمن 15 قدمًا ونافورة بارتفاع 20 قدمًا. لفّها بورقة لتأخيرها جولة"
+ },
+ "155b086ce724": {
+  "en": "**Sigil rings**: see Soul Energy rules.",
+  "t": "**خواتم سيجيل**: انظر قواعد طاقة الروح."
+ },
+ "19993e45d672": {
+  "en": "Walk on water (Large/Darfaries)",
+  "t": "المشي على الماء (كبير/دارفاريس)"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "السعر"
+ },
+ "1aa1e29b125c": {
+  "en": "Speed halved",
+  "t": "السرعة إلى النصف"
+ },
+ "1aa2f3272b9b": {
+  "en": "Companions",
+  "t": "الرفاق"
+ },
+ "1abd5d23a35e": {
+  "en": "Feed several stones in one action",
+  "t": "تغذّي عدة أحجار بفعل واحد"
+ },
+ "1bfa6d34ab17": {
+  "en": "priceless / illegal to sell",
+  "t": "لا تُقدّر بثمن / بيعها غير قانوني"
+ },
+ "1ca8da91ab11": {
+  "en": "**Sleep Inducer** (poison; II+ banned)",
+  "t": "**سليب إندوسر** (سم؛ محظور من II فما فوق)"
+ },
+ "1cecbb6bc55c": {
+  "en": "**Fake Skin / Eye**",
+  "t": "**فيك سكين / آي**"
+ },
+ "1cf395d2f928": {
+  "en": "Unconscious 1 hour (DC 13 Con)",
+  "t": "فاقد الوعي ساعة (بنية DC 13)"
+ },
+ "1d5db4413684": {
+  "en": "Fost lamp",
+  "t": "مصباح فوست"
+ },
+ "1da204a107a2": {
+  "en": "Porter for rough terrain",
+  "t": "حمّال للأرض الوعرة"
+ },
+ "1dcc3f06fdf9": {
+  "en": "+2 initiative, can't be surprised, no sleep needed tonight",
+  "t": "+2 للمبادرة، لا يمكن مباغتتك، لا تحتاج إلى النوم الليلة"
+ },
+ "1decf382bac7": {
+  "en": "**Walking Dead**",
+  "t": "**ووكينغ ديد**"
+ },
+ "1f62fb6dc94e": {
+  "en": "Item",
+  "t": "الغرض"
+ },
+ "1f67dc27d568": {
+  "en": "Detects invisible things and sand worms; goofy",
+  "t": "تكشف الأشياء الخفية والساند وورم؛ مهرّجة"
+ },
+ "204cb4b10525": {
+  "en": "Malformed gills: disadv. on Con checks, can't eat",
+  "t": "خياشيم مشوهة: عيب في اختبارات البنية، لا تستطيع الأكل"
+ },
+ "20ef4273b8b7": {
+  "en": "**Wooly Skin**",
+  "t": "**وولي سكين**"
+ },
+ "21307738f32b": {
+  "en": "Look like the target's part (cosmetic)",
+  "t": "تشبه جزء الهدف (تجميلي)"
+ },
+ "229182d4733b": {
+  "en": "Small horns (1d4 gore), deep voice, resistance to cold",
+  "t": "قرنان صغيران (نطحة 1d4)، صوت عميق، مقاومة للبرد"
+ },
+ "26f38bb185ba": {
+  "en": "**Mind Enabler** (banned)",
+  "t": "**مايند إينيبلر** (محظور)"
+ },
+ "277bc41bc456": {
+  "en": "Feathery hair (cosmetic)",
+  "t": "شعر كالريش (تجميلي)"
+ },
+ "279a3b452e52": {
+  "en": "**No Breath**",
+  "t": "**نو بريث**"
+ },
+ "279b40cf72d7": {
+  "en": "Nari Worm egg",
+  "t": "بيضة ناري وورم"
+ },
+ "27ce44dc9538": {
+  "en": "Advantage on Survival checks to predict weather and hunting",
+  "t": "أفضلية في اختبارات النجاة للتنبؤ بالطقس والصيد"
+ },
+ "2a62276e67bc": {
+  "en": "Full wagon puller",
+  "t": "يجرّ عربة كاملة"
+ },
+ "2a6d387bfe03": {
+  "en": "Gel effects",
+  "t": "تأثيرات الجل"
+ },
+ "2c68086e13fb": {
+  "en": "Smoke bomb (intense)",
+  "t": "قنبلة دخان (شديدة)"
+ },
+ "2c7f2cbc034d": {
+  "en": "**Time Quicken**",
+  "t": "**تايم كويكن**"
+ },
+ "2cc9d0ebb4ae": {
+  "en": "Euphoric: immune to fear",
+  "t": "نشوة: منيع من الخوف"
+ },
+ "2eee9940b164": {
+  "en": "Flatland Companion Meetup fee (2 aquamarines)",
+  "t": "رسم لقاء الرفاق في فلاتلاند (2 أكوامارين)"
+ },
+ "2f1764936597": {
+  "en": "Loyal flying companion",
+  "t": "رفيق طائر وفيّ"
+ },
+ "2f4fa96fd8bf": {
+  "en": "Courier; recognizes faces; Fauna stats",
+  "t": "ساعٍ؛ يتعرف على الوجوه؛ إحصاءات الحيوانات"
+ },
+ "303a191a167f": {
+  "en": "Wounds won't close: 1d6 bleed each turn until healed",
+  "t": "الجروح لا تلتئم: نزيف 1d6 كل دور حتى العلاج"
+ },
+ "3066d2140b2d": {
+  "en": "Breathe in swamps and murky water; scaly; can't breathe air",
+  "t": "تتنفس في المستنقعات والماء العكر؛ حرشفي؛ لا تستطيع تنفس الهواء"
+ },
+ "320b59e8d691": {
+  "en": "Gels are **Tier III goods** for distance pricing; banned gels are black-market only (double or triple price and a Forway Law problem if caught).",
+  "t": "في التسعير بحسب المسافة، الجل **سلع من المستوى III**؛ والجل المحظور لا يُباع إلا في السوق السوداء (بضعف السعر أو ثلاثة أضعافه، ومشكلة مع قانون فورواي إن قُبض عليك)."
+ },
+ "321a9ad90dc4": {
+  "en": "Identical (agony: 4d6 psychic even for fine grade)",
+  "t": "مطابق (عذاب: 4d6 نفسي حتى في الدرجة الناعمة)"
+ },
+ "326c4c3c2aaf": {
+  "en": "Faint sparkles (useless)",
+  "t": "شرارات باهتة (بلا فائدة)"
+ },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**التراكم:** قد تتراكم بضعة أنواع مختلفة من الجل (بتقدير مدير اللعبة)؛ والجل نفسه لا يتراكم مع نفسه — استخدم المستوى الأعلى."
+ },
+ "341a791c2849": {
+  "en": "Map (region / detailed)",
+  "t": "خريطة (إقليمية / مفصّلة)"
+ },
+ "359b29bbb115": {
+  "en": "Find the chosen scent within 1 mile (corpses, traps, living things); migraine (disadv. on Int checks)",
+  "t": "تجد الرائحة المختارة ضمن ميل واحد (جثث، فخاخ، كائنات حية)؛ صداع نصفي (عيب في اختبارات الذكاء)"
+ },
+ "363f8c57d8cc": {
+  "en": "5 amethysts",
+  "t": "5 أميثيست"
+ },
+ "36a3073db5e5": {
+  "en": "Breathe water while swimming (not air)",
+  "t": "تتنفس الماء أثناء السباحة (لا الهواء)"
+ },
+ "3713223a3a74": {
+  "en": "Squeeze through Small gaps",
+  "t": "تنضغط عبر فجوات بحجم صغير"
+ },
+ "379b3d485a78": {
+  "en": "1 amethyst / 1 aquamarine",
+  "t": "1 أميثيست / 1 أكوامارين"
+ },
+ "383e3f970f51": {
+  "en": "**Chitin** (Sand Worm): Gandew armor. Treat chitin plate as half plate with no disadvantage on Stealth; price ×1.5.",
+  "t": "**الكيتين** (من الساند وورم): دروع غانديو. عامل صفائح الكيتين كنصف درع صفائحي بلا عيب في التخفي؛ والسعر ×1.5."
+ },
+ "3c035c71646f": {
+  "en": "Groggy: disadv. on Wis checks",
+  "t": "ترنّح: عيب في اختبارات الحكمة"
+ },
+ "3dcad2321ac1": {
+  "en": "Vomit, hair melts off: poisoned 1 hour",
+  "t": "قيء، يذوب الشعر: مسموم ساعة"
+ },
+ "3e2c948f2eaa": {
+  "en": "Confused memories: disadv. on Int saves",
+  "t": "ذكريات مشوشة: عيب في رميات إنقاذ الذكاء"
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**الأكل (درجة خشنة):** فعل. تبدأ التأثيرات في نهاية دورك التالي. وتدوم **1d4 أيام**."
+ },
+ "3f29b5521112": {
+  "en": "4d6 acid; disfigurement",
+  "t": "4d6 حمض؛ تشوّه"
+ },
+ "3fd6330b142d": {
+  "en": "6 aquamarines",
+  "t": "6 أكوامارين"
+ },
+ "420275751827": {
+  "en": "**Bleed Out** (poison)",
+  "t": "**بليد آوت** (سم)"
+ },
+ "423874e0b2f0": {
+  "en": "Cold immunity in normal weather; overheat in hot places (disadv. on Con saves vs. heat)",
+  "t": "مناعة من البرد في الطقس العادي؛ ترتفع حرارتك في الأماكن الحارة (عيب في رميات إنقاذ البنية ضد الحر)"
+ },
+ "4266f66e1be3": {
+  "en": "Death (DC 17 Con)",
+  "t": "الموت (بنية DC 17)"
+ },
+ "4372c652f62d": {
+  "en": "Light 20 ft when wet with salt water; lasts a year. Sucker Ladies and many beasts avoid it",
+  "t": "ضوء 20 قدمًا حين يُبلَّل بالماء المالح؛ يدوم سنة. وتتجنبه الساكر ليدي ووحوش كثيرة"
+ },
+ "4446426affd0": {
+  "en": "**Time Slower**",
+  "t": "**تايم سلوَر**"
+ },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "جل ناري على الطاولة"
+ },
+ "48edb2544e3a": {
+  "en": "Restores up to 4 SP and acts as a Tier III Nari Refresher. 1-in-6 chance it hatches in your bag",
+  "t": "تستعيد حتى 4 SP وتعمل كناري ريفريشر من المستوى III. واحتمال 1 من 6 أن تفقس في حقيبتك"
+ },
+ "4913580e8dc4": {
+  "en": "**Nari Refresher**",
+  "t": "**ناري ريفريشر**"
+ },
+ "49968cd81c5a": {
+  "en": "Advantage on smell-based Perception",
+  "t": "أفضلية في الإدراك القائم على الشم"
+ },
+ "4a020091bee7": {
+  "en": "Coma 1d4 days (DC 15 Con)",
+  "t": "غيبوبة 1d4 أيام (بنية DC 15)"
+ },
+ "4c05347d1141": {
+  "en": "See invisible creatures; you feel like you're dying (disadv. on Wis saves)",
+  "t": "ترى المخلوقات الخفية؛ تشعر كأنك تموت (عيب في رميات إنقاذ الحكمة)"
+ },
+ "4d2cbc953012": {
+  "en": "Natural AC 12 + Dex, small tail",
+  "t": "AC 12 طبيعية + البراعة، ذيل صغير"
+ },
+ "4e1ba4250de1": {
+  "en": "20 pearls",
+  "t": "20 بيرل"
+ },
+ "4e776c47742b": {
+  "en": "Bad trip: DC 13 Wis or confused 1 minute",
+  "t": "رحلة سيئة: حكمة DC 13 وإلا مرتبك لدقيقة"
+ },
+ "4f08c9382bed": {
+  "en": "+1 AC and an extra bonus-action Dash each turn; anxious (disadv. on Insight)",
+  "t": "+1 لفئة الدرع AC وفعل إضافي إضافي للاندفاع في كل دور؛ قلِق (عيب في البصيرة)"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30 بيرل"
+ },
+ "51c01287f5ae": {
+  "en": "Ends nausea",
+  "t": "يُنهي الغثيان"
+ },
+ "537a68635e74": {
+  "en": "Close match: advantage on Deception to impersonate",
+  "t": "شبه قريب: أفضلية في الخداع لانتحال الشخصية"
+ },
+ "590fae2cf41e": {
+  "en": "See a chosen scent's trail within 300 ft",
+  "t": "ترى أثر رائحة مختارة ضمن 300 قدم"
+ },
+ "5accdc3492f6": {
+  "en": "Gear and materials",
+  "t": "العتاد والمواد"
+ },
+ "5d8a468a52fd": {
+  "en": "Ends Tier ≤III; heal 3d4",
+  "t": "يُنهي المستوى ≤III؛ يشفي 3d4"
+ },
+ "5e5cc65370d1": {
+  "en": "8d6 acid; death if reduced to 0",
+  "t": "8d6 حمض؛ الموت إن هبط إلى 0"
+ },
+ "5fed45345a35": {
+  "en": "Fully aquatic lungs; can't breathe air",
+  "t": "رئتان مائيتان بالكامل؛ لا تستطيع تنفس الهواء"
+ },
+ "6213d3f8d772": {
+  "en": "Hold breath +1 minute",
+  "t": "حبس النفس +1 دقيقة"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1 سافاير"
+ },
+ "631d0bc83f29": {
+  "en": "As *polymorph* into a Winga (Fauna stats)",
+  "t": "مثل *التحويل* إلى وينغا (إحصاءات الحيوانات)"
+ },
+ "63b365e58e0f": {
+  "en": "See souls as a shimmer (detect living creatures in 30 ft)",
+  "t": "ترى الأرواح كوميض (تكشف الكائنات الحية ضمن 30 قدمًا)"
+ },
+ "65283b7e6485": {
+  "en": "Water-reactive nari bomb",
+  "t": "قنبلة ناري تتفاعل مع الماء"
+ },
+ "652ed7ab4428": {
+  "en": "Natural AC 14 + Dex",
+  "t": "AC 14 طبيعية + البراعة"
+ },
+ "66c762d797d5": {
+  "en": "Hooves (+10 ft speed), tail, overheating",
+  "t": "حوافر (+10 أقدام للسرعة)، ذيل، ارتفاع الحرارة"
+ },
+ "67fd06f93056": {
+  "en": "Colored flames: 1d6 fire to creatures you grapple or touch",
+  "t": "لهب ملوّن: 1d6 نار للمخلوقات التي تمسكها أو تلمسها"
+ },
+ "6847b9e8c95c": {
+  "en": "As *haste*; at the end of each of your turns take 1d6 force damage",
+  "t": "مثل *التسريع*؛ في نهاية كل دور من أدوارك تتلقى 1d6 من ضرر القوة"
+ },
+ "693d31d4622d": {
+  "en": "Death (DC 15 Con)",
+  "t": "الموت (بنية DC 15)"
+ },
+ "6bd90eaf3a6c": {
+  "en": "Speed halved, slurred speech, disadv. on Dex checks/saves",
+  "t": "السرعة إلى النصف، كلام متلعثم، عيب في اختبارات البراعة ورمياتها"
+ },
+ "6e769670ac0a": {
+  "en": "Hear a mile away; without Time Slower, DC 15 Con or incapacitated",
+  "t": "تسمع على بعد ميل؛ ومن دون تايم سلوَر، بنية DC 15 وإلا عاجز"
+ },
+ "6f5cfcd0a872": {
+  "en": "Poison: DC 15 Con save or heart stops (0 HP, dying)",
+  "t": "سم: رمية إنقاذ بنية DC 15 وإلا يتوقف القلب (0 HP، محتضر)"
+ },
+ "7107e9ef6352": {
+  "en": "Tamed Winga",
+  "t": "وينغا مروّض"
+ },
+ "721d81354ff2": {
+  "en": "**Arm Light**",
+  "t": "**آرم لايت**"
+ },
+ "726d99fe9103": {
+  "en": "1 SP of energy for interfaces. Comes in soul wood; stack into sticks",
+  "t": "1 SP من الطاقة للواجهات. يأتي في خشب الروح؛ ويُرصّ في عصيّ"
+ },
+ "7595824c0ba4": {
+  "en": "Nari stones, bombs and other consumables",
+  "t": "أحجار ناري وقنابل ومستهلكات أخرى"
+ },
+ "768dbc639623": {
+  "en": "Hooves: +10 ft speed on land",
+  "t": "حوافر: +10 أقدام للسرعة على اليابسة"
+ },
+ "7696398f9f70": {
+  "en": "Overload: blindsight 30 ft by smell, but poisoned near strong smells",
+  "t": "حمل زائد: رؤية عمياء 30 قدمًا بالشم، لكنك مسموم قرب الروائح القوية"
+ },
+ "76e79a4ff4e5": {
+  "en": "**Winga-dust coating**: a weapon coated with Winga dust ignores resistance to slashing/piercing from nonmagical attacks for a year. 1 aquamarine.",
+  "t": "**طلاء غبار الوينغا**: السلاح المطلي بغبار الوينغا يتجاهل مقاومة الضرر القاطع/الخارق من الهجمات غير السحرية لمدة سنة. 1 أكوامارين."
+ },
+ "77567bb3643e": {
+  "en": "**Water Walk**",
+  "t": "**ووتر ووك**"
+ },
+ "7931660fbde8": {
+  "en": "Overwhelming feelings: advantage on Charisma, disadv. on Wisdom",
+  "t": "مشاعر طاغية: أفضلية في الكاريزما، عيب في الحكمة"
+ },
+ "7a84aa0fd38f": {
+  "en": "2d6 bleed per turn, bleeding from eyes/ears",
+  "t": "نزيف 2d6 كل دور، نزيف من العينين/الأذنين"
+ },
+ "7b3c162b3bdd": {
+  "en": "**Bone wood** (bone, iron, ground nari, greenbread core): as wood or metal; lasts longer. Freeish guards wear bone-wood armor (as hide/scale).",
+  "t": "**خشب العظم** (عظم، حديد، ناري مطحون، لبّ الغرينبريد): كالخشب أو المعدن؛ يدوم أطول. ويلبس حراس فريئيش دروعًا من خشب العظم (كالجلد السميك/الحراشف)."
+ },
+ "7b58eccef4ad": {
+  "en": "Squeeze through 1-inch gaps; must hold breath",
+  "t": "تنضغط عبر فجوات بعرض بوصة؛ ويجب أن تحبس نفسك"
+ },
+ "7c5af08694b6": {
+  "en": "Feather fall at will; −2 Str checks",
+  "t": "*السقوط كالريشة* متى شئت؛ −2 في اختبارات القوة"
+ },
+ "7d1a56b761ee": {
+  "en": "Identify any creature by smell within 30 ft; perfume = DC 12 Con or poisoned",
+  "t": "تعرّف أي مخلوق برائحته ضمن 30 قدمًا؛ العطر = بنية DC 12 وإلا مسموم"
+ },
+ "7d5d0bfddffd": {
+  "en": "Companion",
+  "t": "الرفيق"
+ },
+ "7e4c460ac454": {
+  "en": "Body structure matches",
+  "t": "بنية الجسد متطابقة"
+ },
+ "80cf249ba2d6": {
+  "en": "Gel",
+  "t": "الجل"
+ },
+ "818e23c9b213": {
+  "en": "Burns: 2d6 fire",
+  "t": "حروق: 2d6 نار"
+ },
+ "8220146365f2": {
+  "en": "Black honey (jar)",
+  "t": "عسل أسود (جرّة)"
+ },
+ "835f5431c341": {
+  "en": "Neck gills: hold breath 6 minutes; mute",
+  "t": "خياشيم في العنق: تحبس النفس 6 دقائق؛ أبكم"
+ },
+ "83dce580ecd5": {
+  "en": "Advantage on hearing Perception",
+  "t": "أفضلية في الإدراك بالسمع"
+ },
+ "87c9fe369c04": {
+  "en": "Nari stone",
+  "t": "حجر ناري"
+ },
+ "883f855da487": {
+  "en": "Walk on water (Medium)",
+  "t": "المشي على الماء (متوسط)"
+ },
+ "8a6cd49e8d37": {
+  "en": "Breathe underwater ~20 minutes; mute; can't breathe air",
+  "t": "تتنفس تحت الماء ~20 دقيقة؛ أبكم؛ لا تستطيع تنفس الهواء"
+ },
+ "8a709fd6a4e2": {
+  "en": "**Body Paralysis** (poison)",
+  "t": "**بودي باراليسيس** (سم)"
+ },
+ "8ae498b70077": {
+  "en": "Blindsight 10 ft by sound; loud noises: DC 13 Con or deafened 1 min",
+  "t": "رؤية عمياء 10 أقدام بالصوت؛ الضجيج العالي: بنية DC 13 وإلا أصمّ لدقيقة"
+ },
+ "8b9548956584": {
+  "en": "Paralyzed; DC 15 Con each turn or stop breathing",
+  "t": "مشلول؛ بنية DC 15 كل دور وإلا يتوقف عن التنفس"
+ },
+ "8da4aeb09e9c": {
+  "en": "free (Endlessfog's House of Bruntos, if one bonds with you)",
+  "t": "مجانًا (في بيت البرونتوس في إندلس فوغ، إن ارتبط بك أحدهم)"
+ },
+ "8da665aa9f77": {
+  "en": "Advantage on saves vs. ingested poison",
+  "t": "أفضلية في رميات الإنقاذ ضد السموم المبتلعة"
+ },
+ "8e31e0896449": {
+  "en": "Hear whispers through walls",
+  "t": "تسمع الهمسات عبر الجدران"
+ },
+ "8fbb05286dc1": {
+  "en": "**Getting stuck:** use the same Tier III+ gel for more than 3 days in a row and make a DC 13 Constitution save each extra day; on a failure the change becomes **permanent** until a Nari Refresher of that tier and a long rest. Living permanently transformed for months corrupts the soul (DM's call: you may never come back).",
+  "t": "**العلوق:** استخدم الجل نفسه من المستوى III أو أعلى أكثر من 3 أيام متتالية وأجرِ رمية إنقاذ بنية DC 13 عن كل يوم إضافي؛ وعند الفشل يصبح التغيير **دائمًا** حتى تستخدم ناري ريفريشر من ذلك المستوى وتأخذ استراحة طويلة. والعيش متحوّلًا بشكل دائم لأشهر يفسد الروح (بتقدير مدير اللعبة: قد لا تعود أبدًا)."
+ },
+ "91b8c9726e81": {
+  "en": "Laxative (cures a stomach ache, ruins a day)",
+  "t": "ملين (يشفي ألم المعدة، ويفسد يومًا)"
+ },
+ "923e85a7e02e": {
+  "en": "Lasting personality change (DM and player decide)",
+  "t": "تغيّر دائم في الشخصية (يقرره مدير اللعبة واللاعب)"
+ },
+ "93e521962edf": {
+  "en": "As *haste* plus advantage on Dex saves; take 2d6 force at end of each turn; when it ends, DC 15 Con save or drop to 0 HP (aneurysm)",
+  "t": "مثل *التسريع* مع أفضلية في رميات إنقاذ البراعة؛ تتلقى 2d6 من القوة في نهاية كل دور؛ وحين ينتهي، رمية إنقاذ بنية DC 15 وإلا تسقط إلى 0 HP (تمدد الأوعية)"
+ },
+ "942e0f9e874f": {
+  "en": "Fly 60 ft; you can't speak Vraki",
+  "t": "طيران 60 قدمًا؛ لا تستطيع التكلم بالفراكية"
+ },
+ "955b3b84b060": {
+  "en": "Tier I",
+  "t": "المستوى I"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1 أميثيست"
+ },
+ "9836e1a5abfb": {
+  "en": "Breathe water freely, swim speed = speed (not air)",
+  "t": "تتنفس الماء بحرية، سرعة السباحة = السرعة (لا الهواء)"
+ },
+ "98888ac1b5b2": {
+  "en": "**Sore Mind**",
+  "t": "**سور مايند**"
+ },
+ "9c9199184152": {
+  "en": "Removes hair, scars, tattoos",
+  "t": "يزيل الشعر والندوب والوشوم"
+ },
+ "9f578f34f508": {
+  "en": "3 amethysts",
+  "t": "3 أميثيست"
+ },
+ "a21485c6adb2": {
+  "en": "Young Egua",
+  "t": "إيغوا صغير"
+ },
+ "a3e89ea7a049": {
+  "en": "**Wozen Smell**",
+  "t": "**ووزن سميل**"
+ },
+ "a570b4373cfd": {
+  "en": "**Badge replacement**: 1 amethyst (plus questions).",
+  "t": "**بدل فاقد للبطاقة**: 1 أميثيست (مع أسئلة)."
+ },
+ "a65d11b0cb95": {
+  "en": "Flying scout with a huge soul; a person, not a pet",
+  "t": "كشّاف طائر بروح هائلة؛ شخص، لا حيوان أليف"
+ },
+ "ac0d6b06d922": {
+  "en": "Ends Tier ≤II; heal 2d4",
+  "t": "يُنهي المستوى ≤II؛ يشفي 2d4"
+ },
+ "adab8dadcb78": {
+  "en": "Notes",
+  "t": "ملاحظات"
+ },
+ "ae72f1db57c8": {
+  "en": "Fed to someone who died within the last minute, with their body mostly intact: they return to 1 HP. Forway guards carry these in their leg pockets",
+  "t": "يُطعَم لمن مات خلال الدقيقة الماضية وجسده سليم في معظمه: يعود بـ1 HP. ويحمل حراس فورواي هذه في جيوب سيقانهم"
+ },
+ "b06bab289b6e": {
+  "en": "Sorefaries companion",
+  "t": "رفيق من السوريفاريس"
+ },
+ "b071c63665ff": {
+  "en": "**Wood People vines**: as hempen rope but elastic (50 ft for 5 pearls in Tolerideme, 15 elsewhere).",
+  "t": "**كروم الوود بيبول**: كحبل القنب لكنها مرنة (50 قدمًا بـ5 بيرل في توليريديمي، و15 في غيرها)."
+ },
+ "b1d38f00e126": {
+  "en": "You're a slime (DM provides ooze stats)",
+  "t": "أنت هلام (يقدّم مدير اللعبة إحصاءات الوحل)"
+ },
+ "b27b4aac7927": {
+  "en": "Green leathery skin (cosmetic)",
+  "t": "جلد أخضر جلدي (تجميلي)"
+ },
+ "b346b6cd745c": {
+  "en": "Tier IV",
+  "t": "المستوى IV"
+ },
+ "b3ea8d0b906a": {
+  "en": "Eat during a short rest: regain an extra 1d4 HP per Hit Die spent (once per rest). Mildly addictive",
+  "t": "كُله أثناء استراحة قصيرة: استعد 1d4 HP إضافية لكل نرد حياة تنفقه (مرة في كل استراحة). يسبب إدمانًا خفيفًا"
+ },
+ "b3eee2b5fd9e": {
+  "en": "**Sayna Hearing**",
+  "t": "**ساينا هيرينغ**"
+ },
+ "b51600212f96": {
+  "en": "Numb: −2 to attack rolls",
+  "t": "خدر: −2 لرميات الهجوم"
+ },
+ "b665bdfd60b8": {
+  "en": "Advantage on saves vs. fear; you can sleep anywhere; hungry",
+  "t": "أفضلية في رميات الإنقاذ ضد الخوف؛ تستطيع النوم في أي مكان؛ جوع"
+ },
+ "b6cc11829f01": {
+  "en": "Use PHB equipment and prices (1 gp = 10 pearls), with Vraki materials:",
+  "t": "استخدم معدات كتاب اللاعب (PHB) وأسعاره (1 gp = 10 بيرل)، مع مواد فراكي:"
+ },
+ "b729dc21bb94": {
+  "en": "Pack animal; light loads",
+  "t": "دابة حمل؛ أحمال خفيفة"
+ },
+ "b76af4cfe69d": {
+  "en": "Black honey revival pot",
+  "t": "إناء العسل الأسود للإحياء"
+ },
+ "b7cbdc7d1bc4": {
+  "en": "Bright light 20 ft",
+  "t": "ضوء ساطع 20 قدمًا"
+ },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**الإنهاء المبكر:** **ناري ريفريشر** من مستوى مساوٍ أو أعلى يُنهي كل تأثيرات الجل عليك."
+ },
+ "bcdbe52f4e7e": {
+  "en": "Your veins glow (light 10 ft)",
+  "t": "تتوهج عروقك (ضوء 10 أقدام)"
+ },
+ "bd88696efa1f": {
+  "en": "Natural AC 16 + Dex; you can't speak; you look like a Cruro",
+  "t": "AC 16 طبيعية + البراعة؛ لا تستطيع الكلام؛ تبدو ككرورو"
+ },
+ "bdf9525fa9f4": {
+  "en": "Resistance to cold damage",
+  "t": "مقاومة لضرر البرد"
+ },
+ "bee3832ddb2a": {
+  "en": "Woolly hair (cosmetic, very fashionable)",
+  "t": "شعر صوفي (تجميلي، رائج جدًا)"
+ },
+ "bfdda802b945": {
+  "en": "Track a known scent (adv. on Survival to track)",
+  "t": "تتبّع رائحة معروفة (أفضلية في النجاة للتعقب)"
+ },
+ "c01ccec55696": {
+  "en": "Tamed Bagarisa",
+  "t": "باغاريسا مروّض"
+ },
+ "c3376fb508da": {
+  "en": "Rare; fire-tusked guard pig",
+  "t": "نادر؛ خنزير حراسة بأنياب نارية"
+ },
+ "c7452be4b9c9": {
+  "en": "Lunar mapping (this year)",
+  "t": "خرائط القمر (لهذا العام)"
+ },
+ "c786f28f1bc7": {
+  "en": "Adult Egua",
+  "t": "إيغوا بالغ"
+ },
+ "c7eb9ffbeea8": {
+  "en": "15 pearls",
+  "t": "15 بيرل"
+ },
+ "c8731830d000": {
+  "en": "Coma",
+  "t": "غيبوبة"
+ },
+ "ca38faeb8b69": {
+  "en": "**Winga Skin**",
+  "t": "**وينغا سكين**"
+ },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**الحقن (درجة ناعمة، بضعف السعر):** فعل إضافي بحقنة. تبدأ التأثيرات فورًا. وتدوم **يومًا واحدًا**."
+ },
+ "cd683e2a9e1d": {
+  "en": "Tamed Sayna",
+  "t": "ساينا مروّضة"
+ },
+ "cea1577656a5": {
+  "en": "Once: blinding flash, creatures within 20 ft DC 13 Con or blinded 1 minute — including you, if you fail a DC 10 Con save",
+  "t": "مرة واحدة: ومضة تُعمي، المخلوقات ضمن 20 قدمًا بنية DC 13 وإلا عمياء لدقيقة — وأنت منهم إن فشلت في رمية إنقاذ بنية DC 10"
+ },
+ "d02cb63f4b06": {
+  "en": "Brunto",
+  "t": "برونتو"
+ },
+ "d0354fe70e0a": {
+  "en": "Hallucinations (DM's fun)",
+  "t": "هلوسات (متعة مدير اللعبة)"
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**الاستنزاف:** جل المستويين I–II لا يكلّف شيئًا إضافيًا. وما دام جل من **المستوى III** فعّالًا لا تستعيد SP في الاستراحات الطويلة. وما دام جل من **المستوى IV** فعّالًا تخسر 1 SP عند كل فجر (عند 0 SP، اكتسب بدلًا من ذلك مستوى من الإنهاك)."
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**الألم:** جل المستويين III وIV يؤلم بينما يتشكل جسدك من جديد. الدرجة الخشنة: تتلقى 2d6 (المستوى III) أو 4d6 (المستوى IV) من الضرر النفسي وتكون مسمومًا حتى نهاية دورك التالي. الدرجة الناعمة: بلا ضرر."
+ },
+ "d40fc2232f3f": {
+  "en": "+1 to sight Perception",
+  "t": "+1 للإدراك بالبصر"
+ },
+ "d4593456be97": {
+  "en": "5 pearls",
+  "t": "5 بيرل"
+ },
+ "d4a36e1f39bb": {
+  "en": "Ends all gel effects; heal 4d4",
+  "t": "يُنهي كل تأثيرات الجل؛ يشفي 4d4"
+ },
+ "d5c239c689c0": {
+  "en": "Bouncy: halve falling damage",
+  "t": "مطاطي: نصف ضرر السقوط"
+ },
+ "d6ebb461546e": {
+  "en": "**Winga Flight**",
+  "t": "**وينغا فلايت**"
+ },
+ "d76e0e081cb5": {
+  "en": "Overload: DC 15 Con or incapacitated 1 minute",
+  "t": "حمل زائد: بنية DC 15 وإلا عاجز لدقيقة"
+ },
+ "d7df2eac546f": {
+  "en": "Flush: ends poisoned, but you're out of action for an hour",
+  "t": "تطهير: يُنهي حالة التسمم، لكنك خارج اللعب لساعة"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "**الجرّة** (~200 غ) تحوي **4 ملاعق**. كُل **ملعقة للمستوى I، واثنتين للمستوى II، وثلاثًا للمستوى III، والأربع كلها للمستوى IV**. إذن الجرّة الواحدة = أربع جرعات من المستوى I، أو جرعة واحدة من المستوى IV."
+ },
+ "da61db8cfc3a": {
+  "en": "**Water Breath**",
+  "t": "**ووتر بريث**"
+ },
+ "dce52b6dccee": {
+  "en": "Advantage on checks to avoid getting lost",
+  "t": "أفضلية في الاختبارات لتجنّب الضياع"
+ },
+ "dd83470bb194": {
+  "en": "Darkvision 60 ft",
+  "t": "رؤية في الظلام 60 قدمًا"
+ },
+ "ddebe944ea06": {
+  "en": "20-ft heavily obscured cloud; 1d6 thunder in 10 ft; goes off when infused (hurts the thrower if held)",
+  "t": "سحابة 20 قدمًا شديدة الحجب؛ 1d6 رعد ضمن 10 أقدام؛ تنفجر حين تُشحن (تؤذي الرامي إن كانت في يده)"
+ },
+ "dec64fbe04ed": {
+  "en": "Nari stone stick (5 stones)",
+  "t": "عصا أحجار ناري (5 أحجار)"
+ },
+ "dfa6dca733ad": {
+  "en": "Target can't regain HP from magic for 1 min",
+  "t": "لا يستطيع الهدف استعادة HP بالسحر لدقيقة"
+ },
+ "e13641309a43": {
+  "en": "Fost stone (loose)",
+  "t": "حجر فوست (مفرد)"
+ },
+ "e5e04044d891": {
+  "en": "DC 15 Con or drop to 0 HP",
+  "t": "بنية DC 15 وإلا تسقط إلى 0 HP"
+ },
+ "e7e0fc2d5af5": {
+  "en": "Prices are per jar (coarse). Fine grade costs double.",
+  "t": "الأسعار لكل جرّة (خشن). والدرجة الناعمة بضعف السعر."
+ },
+ "e86f1f3e1e78": {
+  "en": "**Slime Skin**",
+  "t": "**سلايم سكين**"
+ },
+ "e876d831fcbd": {
+  "en": "Truesight 30 ft for souls only; tormented thoughts",
+  "t": "رؤية حقيقية 30 قدمًا للأرواح فقط؛ أفكار معذَّبة"
+ },
+ "eb76d1e0cc76": {
+  "en": "**Monika Sight**",
+  "t": "**مونيكا سايت**"
+ },
+ "eb91adeacae1": {
+  "en": "**Smooth Skin**",
+  "t": "**سموث سكين**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1 أكوامارين"
+ },
+ "ee0c3b062036": {
+  "en": "Target answers questions in a dream-like haze (DC 13 Wis or it talks)",
+  "t": "يجيب الهدف عن الأسئلة في غشاوة كالحلم (حكمة DC 13 وإلا يتكلم)"
+ },
+ "ee3d1e97779b": {
+  "en": "Ends Tier I gel effects; heal 1d4",
+  "t": "يُنهي تأثيرات جل المستوى I؛ يشفي 1d4"
+ },
+ "f0e43fbf33e4": {
+  "en": "Big Winga (egg or adult)",
+  "t": "بيغ وينغا (بيضة أو بالغ)"
+ },
+ "f140c1f2f283": {
+  "en": "Covered: disadv. on Perception (sight) and Dex checks",
+  "t": "مكسو بالكامل: عيب في الإدراك (البصر) واختبارات البراعة"
+ },
+ "f5597f5ff52d": {
+  "en": "Tier III",
+  "t": "المستوى III"
+ },
+ "f66361c79319": {
+  "en": "1+ aquamarine, if you can find one",
+  "t": "1+ أكوامارين، إن وجدت واحدًا"
+ },
+ "f6739e0b4ab2": {
+  "en": "Tier II",
+  "t": "المستوى II"
+ },
+ "f772ffe3cc33": {
+  "en": "**Smooth Gut**",
+  "t": "**سموث غات**"
+ },
+ "f7ff8a69205b": {
+  "en": "**Skin Melt** (II+ banned)",
+  "t": "**سكين ميلت** (محظور من II فما فوق)"
+ },
+ "f995d36228c8": {
+  "en": "20-ft cloud for 1 minute; seen for miles. Misusing official colors is a crime",
+  "t": "سحابة 20 قدمًا لدقيقة؛ تُرى من أميال. وإساءة استخدام الألوان الرسمية جريمة"
+ },
+ "fb1bdc91f66d": {
+  "en": "**Cruro Skin**",
+  "t": "**كرورو سكين**"
+ },
+ "fd3df09721a7": {
+  "en": "Walk on water if Small/light",
+  "t": "المشي على الماء إن كنت صغيرًا/خفيفًا"
+ },
+ "fffc5e7c180f": {
+  "en": "**Wozen Eyesight**",
+  "t": "**ووزن آيسايت**"
+ }
+}

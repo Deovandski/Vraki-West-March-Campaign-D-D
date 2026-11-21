@@ -1,0 +1,66 @@
+{
+ "0799799a2389": {
+  "en": "**Hunter's Instinct.** Advantage on Survival checks to track.",
+  "t": "**غريزة الصيادة.** أفضلية على اختبارات النجاة للتعقّب."
+ },
+ "0d4be79289dd": {
+  "en": "**Spell Save DC** 13 · **Slots** 3 (1st level)\n*Hunter's Mark, Absorb Elements, Goodberry*",
+  "t": "**DC إنقاذ التعاويذ** 13 · **الخانات** 3 (المستوى الأول)\n*علامة الصياد، امتصاص العناصر، التوت الطيب*"
+ },
+ "2970532bc9ce": {
+  "en": "**Skills:** Stealth +6, Survival +5, Perception +5, Investigation +4, Acrobatics +5\n**Equipment:** Bow, 20 arrows, traps, camouflage cloth, pink blanket, fruit snacks, a Time Quicken jar (for staying awake), badge.\n**Hook:** Her Sapphire father vanished. Everyone says Hifuna. She doesn't buy it.",
+  "t": "**المهارات:** التخفي +6، النجاة +5، الإدراك +5، التحقيق +4، الألعاب البهلوانية +5\n**العتاد:** قوس، 20 سهمًا، فخاخ، قماش تمويه، بطانية وردية، وجبات فاكهة خفيفة، جرة تايم كويكن (للبقاء مستيقظة)، بطاقة.\n**الخيط:** اختفى أبوها، وكان من رتبة سافاير. الجميع يقول هيفونا. هي لا تصدّق ذلك."
+ },
+ "377a44bb780f": {
+  "en": "**People:** Human (strong Wozefaries blood) · **Class:** Ranger · **Background:** Guild Debtor · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**الشعب:** بشرية (دم ووزيفاريس قوي) · **الفئة:** جوّالة · **الخلفية:** مدينة للنقابة · **التوجه:** منضبط محايد · **الرتبة:** بيرل\n**الواجهة:** دارفاريس · **نقاط الروح:** 3"
+ },
+ "506d37f39fd0": {
+  "en": "**Wozefaries Blood.** Proficiency in Acrobatics; resistance to cold damage.",
+  "t": "**دم الووزيفاريس.** إتقان الألعاب البهلوانية؛ ومقاومة ضرر البرد."
+ },
+ "55182f9ffc65": {
+  "en": "**Shortsword.** +5 to hit, 1d6+3 slashing.",
+  "t": "**السيف القصير.** +5 للإصابة، 1d6+3 قاطع."
+ },
+ "5759bf904467": {
+  "en": "**Snare Trap (Recharge 6).** DC 12 Dex save or restrained.",
+  "t": "**فخ الأنشوطة (إعادة شحن 6).** إنقاذ براعة DC 12 أو مقيّد."
+ },
+ "6319c481caca": {
+  "en": "**Narcolepsy.** When rolling initiative, roll a d6. On a 1, Magi starts the fight asleep until an ally uses an action to wake her (or she takes damage).",
+  "t": "**التغفيق.** عند رمي المبادرة، ارمِ d6. إن ظهر 1، تبدأ ماغي القتال نائمة حتى يستخدم حليف فعلًا لإيقاظها (أو تتلقى ضررًا)."
+ },
+ "66383d9492a8": {
+  "en": "**AC** 14 · **HP** 26 · **Speed** 30 ft\n**STR** 10 · **DEX** 16 · **CON** 12 · **INT** 14 · **WIS** 15 · **CHA** 11",
+  "t": "**AC** 14 · **HP** 26 · **السرعة** 30 قدمًا\n**القوة** 10 · **البراعة** 16 · **البنية** 12 · **الذكاء** 14 · **الحكمة** 15 · **الكاريزما** 11"
+ },
+ "734fd96cf087": {
+  "en": "**Longbow.** +6 to hit, 1d8+3 piercing.",
+  "t": "**القوس الطويل.** +6 للإصابة، 1d8+3 خارق."
+ },
+ "76f4f0dcb060": {
+  "en": "Spellcasting (Ranger)",
+  "t": "إلقاء التعاويذ (جوّالة)"
+ },
+ "a238253474af": {
+  "en": "**Guild Debt.** Her family guild owes money; half her personal loot goes home to Blood.",
+  "t": "**دين النقابة.** نقابة عائلتها مدينة بالمال؛ ونصف غنيمتها الشخصية يذهب إلى البيت في بلاد."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "السمات والخصال"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "الأفعال"
+ },
+ "c13be0b59acd": {
+  "en": "Magi Blood Blue-Flower-Red-Bone — Level 3 Ranger",
+  "t": "ماغي بلاد بلو-فلاور-ريد-بون — جوّالة من المستوى 3"
+ },
+ "d67e3f84e77f": {
+  "en": "**Distrustful.** Disadvantage on Persuasion checks with strangers.",
+  "t": "**قليلة الثقة.** عيب على اختبارات الإقناع مع الغرباء."
+ }
+}

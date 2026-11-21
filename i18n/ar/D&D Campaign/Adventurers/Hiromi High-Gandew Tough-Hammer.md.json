@@ -1,0 +1,78 @@
+{
+ "108c02d3ae08": {
+  "en": "**Improved Critical.** Crits on 19–20.",
+  "t": "**الضربة الحرجة المحسّنة.** ضربة حرجة عند 19–20."
+ },
+ "37a880c1b1e8": {
+  "en": "**Storyteller.** Every story stars Hiromi. Advantage on Performance checks to tell a tale in a tavern; disadvantage on Stealth when he's talking (he's always talking).",
+  "t": "**الراوي.** هيرومي بطل كل قصة. أفضلية على اختبارات الأداء لرواية حكاية في حانة؛ وعيب على التخفي حين يتكلم (وهو يتكلم دائمًا)."
+ },
+ "3d4153400378": {
+  "en": "**Second Wind.** Bonus action: regain 1d10+3 HP (1/short rest).",
+  "t": "**النَّفَس الثاني.** فعل إضافي: يستعيد 1d10+3 HP (1/استراحة قصيرة)."
+ },
+ "4139492966c2": {
+  "en": "**Tusks.** +5 to hit, 1d6+3 piercing.",
+  "t": "**الأنياب.** +5 للإصابة، 1d6+3 خارق."
+ },
+ "430d4a3e1739": {
+  "en": "**Action Surge.** One extra action (1/short rest).",
+  "t": "**اندفاعة الفعل.** فعل إضافي واحد (1/استراحة قصيرة)."
+ },
+ "735f488f53ec": {
+  "en": "**Flies Off the Handle.** If someone insults something he holds dear (Yacamim, Gandew, booze), DC 12 Wis save or he picks a fight.",
+  "t": "**سريع الغضب.** إن أهان أحدٌ شيئًا عزيزًا عليه (ياكاميم، غانديو، الخمر)، إنقاذ حكمة DC 12 أو يفتعل شجارًا."
+ },
+ "754970f1d473": {
+  "en": "**AC** 16 (chitin scale) · **HP** 31 · **Speed** 30 ft\n**STR** 17 · **DEX** 12 · **CON** 16 · **INT** 10 · **WIS** 11 · **CHA** 14",
+  "t": "**AC** 16 (حراشف الكيتين) · **HP** 31 · **السرعة** 30 قدمًا\n**القوة** 17 · **البراعة** 12 · **البنية** 16 · **الذكاء** 10 · **الحكمة** 11 · **الكاريزما** 14"
+ },
+ "7d514fe0e6d4": {
+  "en": "**Gandew Duelist.** Knows the Duel Rights by heart; advantage on checks to start, referee or end a Gandew-style duel.",
+  "t": "**مبارز غانديو.** يحفظ حقوق المبارزة عن ظهر قلب؛ أفضلية على الاختبارات لبدء مبارزة على طريقة غانديو أو التحكيم فيها أو إنهائها."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "السمات والخصال"
+ },
+ "aa79d07c4c28": {
+  "en": "**People:** Darfaries · **Class:** Fighter (Champion) · **Background:** Royal Runaway (First Prince of Gandew) · **Alignment:** Chaotic Good · **Rank:** Pearl (he never bothered to get promoted)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**الشعب:** دارفاريس · **الفئة:** مقاتل (البطل) · **الخلفية:** هارب ملكي (الأمير الأول لغانديو) · **التوجه:** فوضوي خيّر · **الرتبة:** بيرل (لم يكلّف نفسه عناء الترقية قط)\n**الواجهة:** دارفاريس · **نقاط الروح:** 5"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "الأفعال"
+ },
+ "bda26062d511": {
+  "en": "**Change from the original Alpha sheet:** it made Hiromi a human interrogator rogue — those traits actually belong to Takeo (see *Takeo Forway Tea-Drinkers*). This sheet matches the lore: a 232 cm Darfaries prince who'd rather drink and wander.",
+  "t": "**التغيير عن ورقة ألفا الأصلية:** كانت تجعل هيرومي محتالًا مستجوِبًا بشريًا — وتلك الخصال في الحقيقة لتاكيو (انظر *تاكيو فورواي تي درينكرز*). وهذه الورقة توافق الحكاية: أمير دارفاريس طوله 232 سم يفضّل الشرب والتجوال."
+ },
+ "bdae4d2fd0cf": {
+  "en": "Fighter Features",
+  "t": "سمات المقاتل"
+ },
+ "c828aacb0ce2": {
+  "en": "**Belly Shake Shove.** Shove a creature 10 ft instead of 5 (Mountain Greeting gone wrong).",
+  "t": "**دفعة هزّ البطن.** يدفع مخلوقًا 10 أقدام بدلًا من 5 (تحية جبل انتهت بشكل سيئ)."
+ },
+ "cf078d270fbf": {
+  "en": "**Skills:** Athletics +5, Intimidation +4, Performance +4, Survival +2\n**Equipment:** Maul (his mother forged it), chitin scale armor, a quaich bowl, three bottles of something strong, picture book of the sea, badge (High-Gandew).\n**Hook:** Engaged to a Sanbi princess he beat in a bar brawl. Neither of them wants the crown.",
+  "t": "**المهارات:** الرياضة +5، الترهيب +4، الأداء +4، النجاة +2\n**العتاد:** مطرقة ثقيلة (صنعتها أمه)، درع حراشف الكيتين، وعاء كويك، ثلاث زجاجات من شيء قوي، كتاب مصوّر عن البحر، بطاقة (هاي غانديو).\n**الخيط:** مخطوب لأميرة من سانبي هزمها في شجار حانة. ولا أحد منهما يريد التاج."
+ },
+ "d962e3e67d18": {
+  "en": "**Darfaries.** Powerful Build, Tusks (1d6+3 piercing), Darfaries Veins (senses spells and weather within 30 ft), Soften the Fall (30 ft), Neutralizing Saliva (1/long rest).",
+  "t": "**دارفاريس.** بنية قوية، وأنياب (1d6+3 خارق)، وعروق الدارفاريس (يستشعر التعاويذ والطقس ضمن 30 قدمًا)، وتخفيف السقوط (30 قدمًا)، ولعاب معادِل (1/استراحة طويلة)."
+ },
+ "f32d6944e118": {
+  "en": "**Round's on Me.** Spend 10 pearls in a tavern: advantage on Charisma checks there for the evening.",
+  "t": "**الجولة على حسابي.** أنفق 10 بيرل في حانة: أفضلية على اختبارات الكاريزما هناك طوال السهرة."
+ },
+ "f3ce270dd1da": {
+  "en": "**Maul.** +5 to hit, 2d6+3 bludgeoning.",
+  "t": "**المطرقة الثقيلة.** +5 للإصابة، 2d6+3 راض."
+ },
+ "f60d12af7cf5": {
+  "en": "Hiromi High-Gandew Tough-Hammer — Level 3 Fighter (Gandew Brawler)",
+  "t": "هيرومي هاي غانديو تف هامر — مقاتل من المستوى 3 (مشاجر غانديو)"
+ }
+}

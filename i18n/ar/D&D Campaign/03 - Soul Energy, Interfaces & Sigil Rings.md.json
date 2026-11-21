@@ -1,0 +1,434 @@
+{
+ "003674fa1bc3": {
+  "en": "**Finaies interface** — air-drawn elemental spells; nobody living in the south knows it.",
+  "t": "**واجهة الفينايس** — تعاويذ عنصرية تُرسم في الهواء؛ ولا يعرفها أحد من الأحياء في الجنوب."
+ },
+ "0224e8cfb203": {
+  "en": "III",
+  "t": "III"
+ },
+ "0f796c865397": {
+  "en": "V",
+  "t": "V"
+ },
+ "112d2d3d8092": {
+  "en": "Body RESTORE (mass)",
+  "t": "بودي ريستور (جماعي)"
+ },
+ "146d6a98d21b": {
+  "en": "Steam/Dust/Ash CREATE",
+  "t": "ستيم/داست/آش كرييت"
+ },
+ "19b83a5f4da5": {
+  "en": "Tiers = spell levels",
+  "t": "المستويات = مستويات التعاويذ"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "السعر"
+ },
+ "1abfc1fdfb47": {
+  "en": "Body RESTORE",
+  "t": "بودي ريستور"
+ },
+ "1dd0bba188f3": {
+  "en": "VII",
+  "t": "VII"
+ },
+ "1ebf1bdc648e": {
+  "en": "5e spell",
+  "t": "تعويذة 5e"
+ },
+ "2153386a308b": {
+  "en": "VIII",
+  "t": "VIII"
+ },
+ "25cfbc1b065c": {
+  "en": "Other interfaces",
+  "t": "واجهات أخرى"
+ },
+ "28d197df8bb1": {
+  "en": "*message*",
+  "t": "*رسالة*"
+ },
+ "28dc941a1d1d": {
+  "en": "A ring is set to one Tier when carved; a higher-Tier ring of the same spell costs more.",
+  "t": "يُثبَّت الخاتم على مستوى واحد حين يُحفر؛ والخاتم الأعلى مستوى للتعويذة نفسها أغلى."
+ },
+ "2902c8870ee2": {
+  "en": "*mending*",
+  "t": "*إصلاح*"
+ },
+ "2c4812a1bc1c": {
+  "en": "3 aquamarines",
+  "t": "3 أكوامارين"
+ },
+ "2cde69542999": {
+  "en": "Object INCREASE/DECREASE",
+  "t": "أوبجكت إنكريس/ديكريس"
+ },
+ "2d3384c7f8ae": {
+  "en": "**Banned:** blank rings (except for courtroom scientists and Aquamarine+ adventurers), and destructive Body rings outside guard/army use.",
+  "t": "**محظور:** الخواتم الفارغة (إلا لعلماء البلاط والمغامرين من رتبة أكوامارين فما فوق)، وخواتم بودي التدميرية خارج استخدام الحراس والجيش."
+ },
+ "2f0094f1a58d": {
+  "en": "*fog cloud*",
+  "t": "*سحابة الضباب*"
+ },
+ "35abad070d06": {
+  "en": "**Spell attack bonus** = your proficiency bonus + your highest mental modifier (Int, Wis or Cha). **Save DC** = 8 + the same.",
+  "t": "**مكافأة هجوم التعويذة** = مكافأة إتقانك + أعلى معدِّل ذهني لديك (الذكاء أو الحكمة أو الكاريزما). **DC الإنقاذ** = 8 + القيمة نفسها."
+ },
+ "3a09af548f15": {
+  "en": "Ice CREATE (shard)",
+  "t": "آيس كرييت (شظية)"
+ },
+ "3a5a61354294": {
+  "en": "*fire bolt*",
+  "t": "*سهم ناري*"
+ },
+ "3d2996729e78": {
+  "en": "*lightning bolt*",
+  "t": "*صاعقة البرق*"
+ },
+ "3f62b2cb960a": {
+  "en": "Gravity ATTRACT (self)",
+  "t": "غرافيتي أتراكت (الذات)"
+ },
+ "40015e64b136": {
+  "en": "*fireball*",
+  "t": "*كرة النار*"
+ },
+ "40a73598aafb": {
+  "en": "Water CREATE / ATTRACT",
+  "t": "ووتر كرييت / أتراكت"
+ },
+ "4117cd44db38": {
+  "en": "To revive someone in the field you need **Body RESTORE** to fix the body (enough Tier to heal the damage), **Storm CREATE** to restart the heart, and something energy-dense like **black honey** to feed the healing. Mechanically: *revivify* (Tier III) within its normal limit, or the embassy's service. See [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md).",
+  "t": "لإحياء أحد في الميدان تحتاج إلى **بودي ريستور** لإصلاح الجسد (بمستوى يكفي لشفاء الضرر)، و**ستورم كرييت** لإعادة تشغيل القلب، وشيء كثيف الطاقة مثل **العسل الأسود** لتغذية الشفاء. ومن حيث القواعد: *الإحياء* (المستوى III) ضمن حده المعتاد، أو خدمة السفارة. انظر [الموت والإحياء والدين](05%20-%20Death,%20Revival%20&%20Debt.md)."
+ },
+ "42ea9981654a": {
+  "en": "Body RESTORE (Tier VI)",
+  "t": "بودي ريستور (المستوى VI)"
+ },
+ "43c84af91dd4": {
+  "en": "**Darfaries veins** sense soul energy (see Making an Adventurer).",
+  "t": "**عروق الدارفاريس** تستشعر طاقة الروح (انظر صنع مغامر)."
+ },
+ "44a19e6a97a9": {
+  "en": "Ring (OBJECT + VERB)",
+  "t": "الخاتم (مفعول به + فعل)"
+ },
+ "44c1f47383f1": {
+  "en": "I",
+  "t": "I"
+ },
+ "44e7219cfe8e": {
+  "en": "Sapphire quests only",
+  "t": "لمهام السافاير فقط"
+ },
+ "47a109fff355": {
+  "en": "Casting with spell slots (class casters)",
+  "t": "الإلقاء بخانات التعاويذ (ملقو الفئات)"
+ },
+ "4b440302cbe6": {
+  "en": "Sigil rings (everyone with a Darfaries interface)",
+  "t": "خواتم سيجيل (كل من لديه واجهة الدارفاريس)"
+ },
+ "4d3babe3e234": {
+  "en": "ENTANGLE (shared hearing)",
+  "t": "إنتانغل (سمع مشترك)"
+ },
+ "4d4610dbbece": {
+  "en": "IV",
+  "t": "IV"
+ },
+ "4daadca81641": {
+  "en": "**Maximum SP** = proficiency bonus + Constitution modifier (minimum 1). Your badge shows your current SP.",
+  "t": "**الحد الأقصى من SP** = مكافأة الإتقان + معدِّل البنية (الحد الأدنى 1). وبطاقتك تعرض SP الحالية."
+ },
+ "4e1a9aa734ed": {
+  "en": "Gravity DECREASE (self)",
+  "t": "غرافيتي ديكريس (الذات)"
+ },
+ "503e552ec2e8": {
+  "en": "Fire CREATE (fan)",
+  "t": "فاير كرييت (مروحة)"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30 بيرل"
+ },
+ "542ddb61f31b": {
+  "en": "Mud CREATE",
+  "t": "ماد كرييت"
+ },
+ "56bd243fc156": {
+  "en": "**Eat something alive** (or freshly killed) that has a soul: regain 1 SP (once per day).",
+  "t": "**كُل شيئًا حيًا** (أو مذبوحًا للتو) له روح: استعد 1 SP (مرة في اليوم)."
+ },
+ "5770f35f943b": {
+  "en": "Water Gravity ATTRACT",
+  "t": "ووتر غرافيتي أتراكت"
+ },
+ "5b8cb352f94a": {
+  "en": "Fire CREATE (spark)",
+  "t": "فاير كرييت (شرارة)"
+ },
+ "5e0c8185e7bd": {
+  "en": "Body RESTORE + Storm CREATE (revival kit, two rings)",
+  "t": "بودي ريستور + ستورم كرييت (عدة الإحياء، خاتمان)"
+ },
+ "5fef4014f446": {
+  "en": "*levitate* / *spider climb*",
+  "t": "*التحليق* / *تسلق العنكبوت*"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1 سافاير"
+ },
+ "686a29cec5ee": {
+  "en": "**Recovering SP:**",
+  "t": "**استعادة SP:**"
+ },
+ "687dee7894ae": {
+  "en": "Shock CREATE (touch)",
+  "t": "شوك كرييت (لمسة)"
+ },
+ "6a5182000767": {
+  "en": "Soul Energy, Interfaces & Sigil Rings",
+  "t": "طاقة الروح والواجهات وخواتم سيجيل"
+ },
+ "6a623c2b702a": {
+  "en": "Unchanged. Your class magic is your soul energy flowing through your interface; even a \"pure\" human or a Cruro caster has learned to shape their soul directly. Describe your spells as interfaces — rings of white flame around your forearm, the \"eating\" gesture, the kick when you release.",
+  "t": "بلا تغيير. سحر فئتك هو طاقة روحك تتدفق عبر واجهتك؛ حتى الإنسان «النقي» أو ملقي التعاويذ من الكرورو تعلّم أن يشكّل روحه مباشرة. صِف تعاويذك كواجهات — حلقات لهب أبيض حول ساعدك، وإيماءة «الأكل»، والارتداد حين تُطلقها."
+ },
+ "6ba01baccd3d": {
+  "en": "**Buhraies interface** (logograms carved into the palm) can alter bodies and souls permanently. Only for NPCs, villains, or an epic campaign reward.",
+  "t": "**واجهة البورايس** (رموز محفورة في الراحة) يمكنها تغيير الأجساد والأرواح بشكل دائم. للشخصيات غير اللاعبة والأشرار فقط، أو مكافأةً لحملة ملحمية."
+ },
+ "6e37e16b5e62": {
+  "en": "*create or destroy water*, *shape water*",
+  "t": "*خلق الماء أو إتلافه*، *تشكيل الماء*"
+ },
+ "700033fb76ff": {
+  "en": "*shocking grasp*",
+  "t": "*قبضة صاعقة*"
+ },
+ "7346ff374941": {
+  "en": "**Fueling slots with stones or SP:** as part of casting a spell you know or have prepared, a caster may spend **nari stones and/or SP equal to the Tier** (table above) instead of expending a spell slot. You can only do this for a Tier you have spell slots for, and you can do it **as often as you have the stones** — stones are expensive, and that's the limit.",
+  "t": "**تغذية الخانات بالأحجار أو SP:** كجزء من إلقاء تعويذة تعرفها أو أعددتها، يمكن لملقي التعاويذ أن ينفق **أحجار ناري و/أو SP بقدر المستوى** (الجدول أعلاه) بدل استهلاك خانة تعويذة. لا يمكنك ذلك إلا لمستوى لديك خانات تعويذة له، ويمكنك فعله **بقدر ما لديك من أحجار** — والأحجار غالية، وهذا هو الحد."
+ },
+ "75bb02d2c64b": {
+  "en": "IX",
+  "t": "IX"
+ },
+ "768fdcfcdff8": {
+  "en": "*lesser restoration*",
+  "t": "*الاستعادة الصغرى*"
+ },
+ "7f08efd02e9d": {
+  "en": "You can wear up to **four** rings (two per hand). Swapping a ring takes an action.",
+  "t": "يمكنك لبس **أربعة** خواتم كحد أقصى (اثنان في كل يد). وتبديل خاتم يستغرق فعلًا."
+ },
+ "81d3be213c75": {
+  "en": "*feather fall* / *jump*",
+  "t": "*السقوط كالريشة* / *القفز*"
+ },
+ "85a5ad234b1c": {
+  "en": "*regenerate*",
+  "t": "*التجدد*"
+ },
+ "89d2af6be829": {
+  "en": "Storm CREATE (heart jolt)",
+  "t": "ستورم كرييت (صدمة للقلب)"
+ },
+ "8bc514a994fe": {
+  "en": "Without a ring, you can draw the logograms on your palm (1 minute, needs ink or a blade). Make an Intelligence (Arcana) check, **DC 10 + 2 × Tier**. On a failure, the spell defaults to whatever's on your mind: the DM picks a weird result, or it **explodes** for 1d6 fire damage per Tier to you. Forbidden inside city and kingdom limits.",
+  "t": "من دون خاتم، يمكنك رسم الرمزين على راحة يدك (دقيقة واحدة، وتحتاج حبرًا أو نصلًا). أجرِ اختبار ذكاء (الغوامض)، **DC 10 + 2 × المستوى**. وعند الفشل، تعود التعويذة إلى أي شيء يدور في ذهنك: يختار مدير اللعبة نتيجة غريبة، أو **تنفجر** وتسبب لك 1d6 من ضرر النار لكل مستوى. محظورة داخل حدود المدن والممالك."
+ },
+ "8cd7920b835a": {
+  "en": "Tier",
+  "t": "المستوى"
+ },
+ "8ea74dfbb98a": {
+  "en": "*revivify*",
+  "t": "*الإحياء*"
+ },
+ "8f4aab6a212e": {
+  "en": "*shatter*",
+  "t": "*التحطيم*"
+ },
+ "912cfd420a9b": {
+  "en": "Magic in Vraki is **soul energy** pushed through an **interface**. These rules sit on top of normal 5e spellcasting: class casters keep their spell slots; everyone else gets access to magic through **sigil rings** and **nari stones**.",
+  "t": "السحر في فراكي هو **طاقة روح** تُدفع عبر **واجهة**. هذه القواعد تُضاف فوق إلقاء التعاويذ العادي في 5e: يحتفظ ملقو التعاويذ من الفئات بخانات تعاويذهم؛ ويصل الجميع إلى السحر عبر **خواتم سيجيل** و**أحجار ناري**."
+ },
+ "917d9104bc2a": {
+  "en": "*control water*",
+  "t": "*التحكم في الماء*"
+ },
+ "93b13e54c867": {
+  "en": "Gravity REPEL",
+  "t": "غرافيتي ريبل"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1 أميثيست"
+ },
+ "9855ea968dee": {
+  "en": "DMs: add any ring that fits \"OBJECT + VERB\". Element list: fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust, ash, gravity.",
+  "t": "لمديري اللعبة: أضيفوا أي خاتم يناسب «مفعول به + فعل». قائمة العناصر: النار، الماء، الجليد، العاصفة، البخار، الريح، التراب، التراب المتجمد، الطين، الحمم، الصعق، الغبار، الرماد، الجاذبية."
+ },
+ "99dad3060470": {
+  "en": "*spare the dying* (and needed for revival)",
+  "t": "*إنقاذ المحتضر* (ولازمة للإحياء)"
+ },
+ "9ae7d8566d73": {
+  "en": "II",
+  "t": "II"
+ },
+ "9e542d9d3968": {
+  "en": "Drawn logograms (risky)",
+  "t": "الرموز الكتابية المرسومة (خطرة)"
+ },
+ "9ee097faaabb": {
+  "en": "Storm CREATE (bolt)",
+  "t": "ستورم كرييت (صاعقة)"
+ },
+ "a391c0ca0d8b": {
+  "en": "**Expanding your soul:** once per level, a character who spends a downtime week training at a Soul Energy school (or with a mentor) increases their maximum SP by 1 (maximum +3 total).",
+  "t": "**توسيع روحك:** مرة في كل مستوى، الشخصية التي تقضي أسبوعًا من وقت الفراغ تتدرب في مدرسة لطاقة الروح (أو مع معلم) يزيد حدها الأقصى من SP بمقدار 1 (+3 كحد أقصى إجمالًا)."
+ },
+ "a4ec948ca280": {
+  "en": "*burning hands*",
+  "t": "*الأيدي المحترقة*"
+ },
+ "a794cb6ed8a3": {
+  "en": "*thunderwave* (force, not thunder)",
+  "t": "*موجة الرعد* (قوة، لا رعد)"
+ },
+ "a7aab77b1ef0": {
+  "en": "**Nari stones / SP needed**",
+  "t": "**أحجار ناري / SP المطلوبة**"
+ },
+ "ab0aeb8031f1": {
+  "en": "Body RESTORE (Tier II)",
+  "t": "بودي ريستور (المستوى II)"
+ },
+ "aca4abec6d2a": {
+  "en": "**1 SP = 1 nari stone's worth of energy.**",
+  "t": "**1 SP = طاقة حجر ناري واحد.**"
+ },
+ "b21f27d65692": {
+  "en": "Sigil rings carry a spell's logograms (OBJECT + VERB). Anyone with the **Darfaries Interface** trait can cast a ring's spell:",
+  "t": "تحمل خواتم سيجيل الرمزين الكتابيين لتعويذة (مفعول به + فعل). ويمكن لكل من لديه سمة **واجهة الدارفاريس** إلقاء تعويذة الخاتم:"
+ },
+ "b2f986b7d45b": {
+  "en": "*enlarge/reduce*",
+  "t": "*تكبير/تصغير*"
+ },
+ "b92193c54fea": {
+  "en": "**Action** (or the spell's casting time, if longer). Clench, \"eat\" the energy, release.",
+  "t": "**فعل** (أو زمن إلقاء التعويذة إن كان أطول). اقبض، و«كُل» الطاقة، وأطلق."
+ },
+ "bac60c488156": {
+  "en": "*cure wounds*",
+  "t": "*علاج الجروح*"
+ },
+ "c1e07714facc": {
+  "en": "**Cost:** spend nari stones and/or SP for the ring's Tier (table above). Cantrip rings cost 1 SP or 1 stone per cast.",
+  "t": "**التكلفة:** أنفق أحجار ناري و/أو SP بحسب مستوى الخاتم (الجدول أعلاه). وخواتم التعاويذ البسيطة تكلّف 1 SP أو حجرًا واحدًا لكل إلقاء."
+ },
+ "c82a6424b090": {
+  "en": "Fire CREATE (ball)",
+  "t": "فاير كرييت (كرة)"
+ },
+ "ca02f396a56e": {
+  "en": "VI",
+  "t": "VI"
+ },
+ "cecbc944bd32": {
+  "en": "*light*",
+  "t": "*ضوء*"
+ },
+ "d4bdf5a82cc8": {
+  "en": "*ice knife*",
+  "t": "*سكين الجليد*"
+ },
+ "d4fc414a5580": {
+  "en": "**Strong emotion:** when the DM awards Inspiration, or something truly moving, terrifying, triumphant or lustful happens to you, regain 1 SP (DM's call; max once per day).",
+  "t": "**شعور قوي:** حين يمنح مدير اللعبة الإلهام، أو يحدث لك شيء مؤثر أو مرعب أو منتصر أو شهواني حقًا، استعد 1 SP (بتقدير مدير اللعبة؛ مرة في اليوم كحد أقصى)."
+ },
+ "d5dc9be3a78e": {
+  "en": "0–I",
+  "t": "0–I"
+ },
+ "df5e1cb1497a": {
+  "en": "*grease*",
+  "t": "*الشحم*"
+ },
+ "e70d3277c070": {
+  "en": "Light CREATE (Emerenthy-glow)",
+  "t": "لايت كرييت (توهج الإيميرينثي)"
+ },
+ "e930a7a04687": {
+  "en": "*healing word*",
+  "t": "*كلمة الشفاء*"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1 أكوامارين"
+ },
+ "ed68cb4d720a": {
+  "en": "Finish a long rest: regain **1 SP** (about a nari stone's worth a day, as in the lore).",
+  "t": "أنهِ استراحة طويلة: استعد **1 SP** (نحو حجر ناري في اليوم، كما في الحكاية)."
+ },
+ "edb9652f8c34": {
+  "en": "*ray of frost*",
+  "t": "*شعاع الصقيع*"
+ },
+ "f103987cea97": {
+  "en": "**Soul drain:** some monsters drain SP. If a drain would take you below 0 SP, you gain a level of exhaustion instead.",
+  "t": "**استنزاف الروح:** بعض الوحوش تستنزف SP. إن كان الاستنزاف سيُنزلك تحت 0 SP، فاكتسب بدلًا من ذلك مستوى من الإنهاك."
+ },
+ "f2eb49b02f65": {
+  "en": "6 aquamarines (pair)",
+  "t": "6 أكوامارين (الزوج)"
+ },
+ "f47f2bbef7e0": {
+  "en": "Revival magic",
+  "t": "سحر الإحياء"
+ },
+ "f82d80a07f40": {
+  "en": "A **Nari Worm egg** restores up to 4 SP.",
+  "t": "**بيضة ناري وورم** تستعيد حتى 4 SP."
+ },
+ "f85aa0f090c3": {
+  "en": "World DESTROY",
+  "t": "وورلد ديستروي"
+ },
+ "f995aeed9c73": {
+  "en": "2 amethysts",
+  "t": "2 أميثيست"
+ },
+ "f9dc3f4b20fa": {
+  "en": "Soul Points (SP)",
+  "t": "نقاط الروح (SP)"
+ },
+ "fb5a7abc60b2": {
+  "en": "Ice CREATE (frost ball)",
+  "t": "آيس كرييت (كرة صقيع)"
+ },
+ "fc9aca9a08ec": {
+  "en": "World RESTORE (un-rust)",
+  "t": "وورلد ريستور (إزالة الصدأ)"
+ },
+ "feff6e7b97c7": {
+  "en": "A spell's **level** is its **Tier** (a 3rd-level spell is a Tier III spell). Cantrips are Tier 0. Energy doubles each tier:",
+  "t": "**مستوى** التعويذة هو **مستواها من الطاقة** (تعويذة المستوى الثالث هي تعويذة من المستوى III). والتعاويذ البسيطة من المستوى 0. وتتضاعف الطاقة مع كل مستوى:"
+ },
+ "ffd83be3e310": {
+  "en": "Ring catalog (Soul Energy shops)",
+  "t": "قائمة الخواتم (متاجر طاقة الروح)"
+ }
+}

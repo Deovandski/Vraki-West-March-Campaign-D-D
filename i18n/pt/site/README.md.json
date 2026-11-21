@@ -1,0 +1,326 @@
+{
+ "019d6459a784": {
+  "en": "**`llms.txt`** ([format](https://llmstxt.org/)): a short summary of the campaign, then every page grouped as in the side menu (Start here, Player rules, Adventurers, World lore, Maps & handouts), each linked to its raw `.md` file with a one-line description. The DM pages come last, in their own **DM only (spoilers)** sections.",
+  "t": "**`llms.txt`** ([formato](https://llmstxt.org/)): um resumo curto da campanha e depois todas as páginas agrupadas como no menu lateral (Start here, Player rules, Adventurers, World lore, Maps & handouts), cada uma com link para o arquivo `.md` bruto e uma descrição de uma linha. As páginas do Mestre ficam no fim, em seções próprias **DM only (spoilers)**."
+ },
+ "01babe2dbeea": {
+  "en": "`site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)",
+  "t": "`site/js/` — `parse.js` (transforma o Markdown em dados), `core.js` (dados e salvamento), `content.js` (lista de páginas e carregamento), `app.js` (menus, páginas, busca, bandeja de dados), `tools.js` (calculadoras, cartões de aventureiros, materiais), `travel.js` (planejador de viagens), `dm.js` (grupo, campanha, bestiário, tabelas aleatórias), `start.js` (Jogador 101 e Mestre 101), `map.js` (página do mapa de viagem e distâncias das rotas), `map-viewer.js` (o visualizador do mapa com zoom e arraste, um componente reutilizável com seu próprio `site/css/map-viewer.css`)"
+ },
+ "038933819340": {
+  "en": "Publishing",
+  "t": "Publicação"
+ },
+ "092def80d401": {
+  "en": "`site/js/pwa.js` — registers the service worker and runs the install button, the iPhone hint, the offline status and the \"save for offline\" buttons (a reusable component)",
+  "t": "`site/js/pwa.js` — registra o service worker e controla o botão de instalar, a dica do iPhone, o status offline e os botões de «salvar para uso offline» (um componente reutilizável)"
+ },
+ "0b31c4c1a5e8": {
+  "en": "**`sitemap.xml`**: the home page, the two files above and every page, for search engines.",
+  "t": "**`sitemap.xml`**: a página inicial, os dois arquivos acima e todas as páginas, para os buscadores."
+ },
+ "0bc07fbce4b8": {
+  "en": "Then open http://localhost:8000. (If you do open `index.html` directly, the site falls back to the copy of the pages bundled in `site/snapshot.js`, which may be older.)",
+  "t": "Depois abra http://localhost:8000. (Se você abrir o `index.html` direto, o site usa a cópia das páginas embutida em `site/snapshot.js`, que pode estar mais antiga.)"
+ },
+ "0c44c8518ab6": {
+  "en": "On the way it writes the translations the site loads (`node tools/i18n.js build`, into `site/i18n/`) and renders the handouts in each language (`Handouts/<lang>/`). If the handouts can't be rendered, the site still deploys with the English ones. The step summary of each run, and of the **Translations** workflow on every pull request, says how much of each language is translated; neither ever fails because of a missing translation.",
+  "t": "No caminho, ele escreve as traduções que o site carrega (`node tools/i18n.js build`, em `site/i18n/`) e gera os materiais em cada idioma (`Handouts/<lang>/`). Se os materiais não puderem ser gerados, o site é publicado assim mesmo, com os materiais em inglês. O resumo de cada execução, e o do workflow **Translations** em cada pull request, diz quanto de cada idioma está traduzido; nenhum dos dois falha por falta de uma tradução."
+ },
+ "0ccbc3d63f1c": {
+  "en": "The website",
+  "t": "O site"
+ },
+ "20ff53c34759": {
+  "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
+  "t": "O repositório também é um site no GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
+ },
+ "2265ecd0ca4b": {
+  "en": "**Travel map:** the West March map with zoom and pan (drag, pinch, Ctrl + scroll, keyboard, full screen), a \"how far is it?\" finder that adds up the circles between any two places, and the table of every route. In DM mode, **Plan this trip** opens it in the travel planner.",
+  "t": "**Mapa de viagem:** o mapa da West March com zoom e arraste (arrastar, pinçar, Ctrl + rolagem, teclado, tela cheia), um localizador «qual é a distância?» que soma os círculos entre quaisquer dois lugares, e a tabela de todas as rotas. No modo Mestre, **Planejar esta viagem** abre a rota no planejador de viagens."
+ },
+ "239d23dc7c58": {
+  "en": "**Campaign.** The in-world date, Bahyum's Castle Mood (with the daily roll), the Inside Job Heat, faction reputation and a session log.",
+  "t": "**Campanha.** A data no mundo, o Humor do Castelo de Bahyum (com a rolagem diária), a Suspeita do Trabalho Interno, a reputação com as facções e um diário de sessões."
+ },
+ "2bb1456e6486": {
+  "en": "The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`.",
+  "t": "O workflow de publicação faz isso a cada push. Para atualizar também a cópia no repositório, rode `node site/build-snapshot.js`."
+ },
+ "2cfb6fdc3ce6": {
+  "en": "**Player 101 and DM 101:** pick Player or DM on the start page and a short step-by-step guide shows what you need to do to get ready, with links to the pages and tools for each step. Progress saves, so coming back opens the next step.",
+  "t": "**Jogador 101 e Mestre 101:** escolha Jogador ou Mestre na página inicial e um guia curto, passo a passo, mostra o que você precisa fazer para se preparar, com links para as páginas e ferramentas de cada passo. O progresso fica salvo, então ao voltar abre o próximo passo."
+ },
+ "348caab604d6": {
+  "en": "**Arabic** reads right to left: the whole layout flips, while dice, numbers and the map don't. Chinese, Japanese, Korean and Arabic use system fonts made for their scripts.",
+  "t": "O **árabe** se lê da direita para a esquerda: o layout inteiro se espelha, mas os dados, os números e o mapa não. Chinês, japonês, coreano e árabe usam fontes do sistema feitas para as suas escritas."
+ },
+ "35d8f2015fdd": {
+  "en": "Change a rule, a stat block or an encounter table",
+  "t": "Mudar uma regra, uma ficha de estatísticas ou uma tabela de encontros"
+ },
+ "399bff32f249": {
+  "en": "The site is one page that JavaScript fills in, and its pages live after a `#` in the address. Most AI tools and many crawlers don't run JavaScript and ignore everything after the `#`, so to them the site looks empty. These files point them to the Markdown instead:",
+  "t": "O site é uma página só, preenchida por JavaScript, e as páginas dele ficam depois de um `#` no endereço. A maioria das ferramentas de IA e muitos rastreadores não rodam JavaScript e ignoram tudo depois do `#`, então para eles o site parece vazio. Estes arquivos apontam para o Markdown:"
+ },
+ "3e5798257d73": {
+  "en": "Languages",
+  "t": "Idiomas"
+ },
+ "420eb681b96b": {
+  "en": "**Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).",
+  "t": "**Bestiário** e **tabelas aleatórias** (missões, encontros, boatos, ofertas do Trabalho Interno)."
+ },
+ "450b1f8a5f8e": {
+  "en": "How the translations are stored and updated: [i18n/README.md](../i18n/README.md).",
+  "t": "Como as traduções são guardadas e atualizadas: [i18n/README.md](../i18n/README.md)."
+ },
+ "46d8b7ac84b1": {
+  "en": "Add text to the site's own code",
+  "t": "Acrescentar texto ao código do próprio site"
+ },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js` e `site/css/units.css` — pés ou metros: converte as distâncias da página e cuida da opção Distâncias nas Configurações (um componente reutilizável)"
+ },
+ "49624bfb046c": {
+  "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
+  "t": "Ele lê os mesmos arquivos Markdown que você vê no repositório, então não há nada para sincronizar à mão: edite uma regra, faça push e o site mostra a mudança."
+ },
+ "49893d838b29": {
+  "en": "Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it.",
+  "t": "Edite o arquivo `.md`. O site e as ferramentas leem direto dele. Mantenha o formato atual (por exemplo `## Name (CR 3) — Region` e `AC 14 · HP 80` nas fichas, listas numeradas sob cada região em Events & Encounters) para as ferramentas conseguirem ler."
+ },
+ "4b80f36e000f": {
+  "en": "Do this",
+  "t": "Faça isto"
+ },
+ "4df7a2e30816": {
+  "en": "Files",
+  "t": "Arquivos"
+ },
+ "530e0f040f7f": {
+  "en": "`site/css/site.css` — the look",
+  "t": "`site/css/site.css` — o visual"
+ },
+ "5c22d60a29f2": {
+  "en": "**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.",
+  "t": "**O que funciona offline:** o site inteiro e suas ferramentas, todas as páginas de regras e ambientação (até as que você não abriu) e o mapa de viagem no zoom normal. As imagens que você já viu também ficam salvas. Para salvar mais com antecedência, use **Salvar os materiais para uso offline** na página de materiais (cerca de 4 MB) e **Salvar o mapa nítido** na página do mapa de viagem (2 MB). O mapa de impressão de 34 MB e o PDF dos materiais não são salvos."
+ },
+ "5e3b5e9dc9fa": {
+  "en": "Running it on your computer",
+  "t": "Rodando no seu computador"
+ },
+ "5f7b617d599b": {
+  "en": "`index.html` — the page itself",
+  "t": "`index.html` — a página em si"
+ },
+ "60757df821f3": {
+  "en": "**Not translated yet:** when the English changes, the new or changed text shows in English until the next translation batch. The site never waits for a translation.",
+  "t": "**Ainda sem tradução:** quando o inglês muda, o texto novo ou alterado aparece em inglês até a próxima leva de tradução. O site nunca espera por uma tradução."
+ },
+ "63d7d38a3435": {
+  "en": "**Search** across all the rules and lore. Player mode leaves DM pages out of the results.",
+  "t": "**Busca** em todas as regras e na ambientação. O modo jogador deixa as páginas do Mestre de fora dos resultados."
+ },
+ "64a1fdc64f69": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0 (third-party files keep their own licenses, listed above).",
+  "t": "© Deovandski Skibinski Junior. Licenciado sob CC‑BY‑NC‑SA‑4.0 (os arquivos de terceiros mantêm suas próprias licenças, listadas acima)."
+ },
+ "6b67c47fa27a": {
+  "en": "Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.",
+  "t": "As páginas carregam da internet quando há conexão; sem resposta em 4 segundos, usa-se a cópia salva. Cada publicação salva uma cópia nova e descarta a antiga."
+ },
+ "6c782fa08e4a": {
+  "en": "**What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.",
+  "t": "**O que muda:** os menus, os botões e as ferramentas, todas as páginas de regras e ambientação, os nomes das criaturas nas ferramentas e os materiais (as imagens e o PDF). Números, dados e AC, HP, DC, CR e SP ficam como estão, e as linhas na escrita vraki dos materiais continuam em vraki. A licença fica em inglês, porque o inglês é o texto legal."
+ },
+ "72836e16b6b5": {
+  "en": "Editing",
+  "t": "Editando"
+ },
+ "7440e10a297f": {
+  "en": "Just change it. The translations show the old text's translation until the English is translated again; new or changed text shows in English until then. See [i18n/README.md](../i18n/README.md).",
+  "t": "É só mudar. As traduções mostram a tradução do texto antigo até o inglês ser traduzido de novo; texto novo ou alterado aparece em inglês até lá. Veja [i18n/README.md](../i18n/README.md)."
+ },
+ "76c4ac4a2da2": {
+  "en": "Browsers block a page opened straight from a file from loading other files, so start a tiny local server in the repo folder:",
+  "t": "Os navegadores impedem que uma página aberta direto de um arquivo carregue outros arquivos, então inicie um pequeno servidor local na pasta do repositório:"
+ },
+ "77cc837e57df": {
+  "en": "Wrap it: `__(\"Roll anything\")`, `__.n(n, \"{n} day\", \"{n} days\")`, or `data-i18n` on an element in `index.html`. `node tools/i18n.js todo` then lists it for translating.",
+  "t": "Envolva o texto: `__(\"Roll anything\")`, `__.n(n, \"{n} day\", \"{n} days\")`, ou `data-i18n` num elemento do `index.html`. Depois o `node tools/i18n.js todo` o lista para tradução."
+ },
+ "77d9ed85823d": {
+  "en": "`sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)",
+  "t": "`sw.js` — o service worker que salva o site para uso offline (na raiz do repositório para cobrir o site inteiro)"
+ },
+ "7ab1f14adfb4": {
+  "en": "**Try it on your computer:** run `node site/build-llms.js` in the repo folder (it writes the three files there; git ignores them), start the local server below, and open http://localhost:8000/llms.txt. To see what a reader without JavaScript gets, turn JavaScript off for the page (in Chrome: DevTools → ⋮ → Run command → \"Disable JavaScript\") and reload. The script also lists any `.md` file that isn't in `site/js/content.js`.",
+  "t": "**Teste no seu computador:** rode `node site/build-llms.js` na pasta do repositório (ele escreve os três arquivos ali; o git os ignora), inicie o servidor local abaixo e abra http://localhost:8000/llms.txt. Para ver o que um leitor sem JavaScript recebe, desligue o JavaScript na página (no Chrome: DevTools → ⋮ → Run command → «Disable JavaScript») e recarregue. O script também lista qualquer arquivo `.md` que não esteja em `site/js/content.js`."
+ },
+ "7b23d280e4fd": {
+  "en": "The workflow in `.github/workflows/pages.yml` publishes the site on every push to `main`: it refreshes `site/snapshot.js`, gathers the site and the Markdown it reads, and deploys them to GitHub Pages. You can also run it by hand from the Actions tab (**Website → Run workflow**).",
+  "t": "O workflow em `.github/workflows/pages.yml` publica o site a cada push para `main`: atualiza `site/snapshot.js`, junta o site e o Markdown que ele lê e publica tudo no GitHub Pages. Você também pode rodá-lo à mão pela aba Actions (**Website → Run workflow**)."
+ },
+ "7c22248ab66f": {
+  "en": "**Player mode:** the rules, the world lore, the pre-made adventurers, the handout gallery, calculators (balls and change, travel time and quest deadlines, revival window and debt, splitting quest pay, Soul Points and tiers) and a tracker for your own adventurers.",
+  "t": "**Modo jogador:** as regras, a ambientação do mundo, os aventureiros pré-gerados, a galeria de materiais, calculadoras (bolas e troco, tempo de viagem e prazos de missão, janela e dívida de reanimação, divisão do pagamento das missões, Soul Points e níveis) e um acompanhamento dos seus próprios aventureiros."
+ },
+ "7cff1b5a568b": {
+  "en": "**Once, by hand:** submit `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml` in [Bing Webmaster Tools](https://www.bing.com/webmasters) and [Google Search Console](https://search.google.com/search-console). A project site can't name its sitemap in a `robots.txt`, because that file only counts at the top of `deovandski.github.io`.",
+  "t": "**Uma vez, à mão:** envie `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml` no [Bing Webmaster Tools](https://www.bing.com/webmasters) e no [Google Search Console](https://search.google.com/search-console). Um site de projeto não pode indicar seu sitemap num `robots.txt`, porque esse arquivo só vale na raiz de `deovandski.github.io`."
+ },
+ "80cb266b2c6d": {
+  "en": "The site's code and text are AI-assisted; see the [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "O código e o texto do site têm ajuda de IA; veja a [declaração sobre IA](../AI-DISCLOSURE.md)."
+ },
+ "88f7fb74a3ca": {
+  "en": "`site/build-llms.js` — writes `llms.txt`, `llms-full.txt` and `sitemap.xml` for AI tools and search engines (run by the publishing workflow)",
+  "t": "`site/build-llms.js` — escreve `llms.txt`, `llms-full.txt` e `sitemap.xml` para ferramentas de IA e buscadores (rodado pelo workflow de publicação)"
+ },
+ "8a3683207893": {
+  "en": "One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**",
+  "t": "Configuração única do repositório no GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**"
+ },
+ "8cc49969c97f": {
+  "en": "Saving",
+  "t": "Salvando"
+ },
+ "8cfe9158658d": {
+  "en": "`site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), the Markdown renderer (MIT License, see `LICENSE-marked.md`)",
+  "t": "`site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), o renderizador de Markdown (licença MIT, veja `LICENSE-marked.md`)"
+ },
+ "91b7c491add1": {
+  "en": "The page also links them for readers that never get past the HTML: `<link rel=\"alternate\">` tags in `index.html`, a short list of links that shows when JavaScript is off, and a footer on every page.",
+  "t": "A página também os linka para leitores que nunca passam do HTML: tags `<link rel=\"alternate\">` no `index.html`, uma lista curta de links que aparece quando o JavaScript está desligado, e um rodapé em todas as páginas."
+ },
+ "9384751d45ac": {
+  "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
+  "t": "**Bandeja de dados** em todas as páginas, e toda rolagem escrita nas regras (como 2d6+3) é um botão."
+ },
+ "93c390989051": {
+  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
+  "t": "**Android e Chrome/Edge:** use o botão de instalar do navegador, ou **Instalar como aplicativo** no menu de salvar (barra de cima). Mantenha o ícone do aplicativo pressionado para atalhos para o mapa de viagem, o planejador de viagens e os materiais."
+ },
+ "95b4c590c974": {
+  "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
+  "t": "`site/js/i18n.js` — as traduções: divide as páginas em pedaços, acha a tradução de cada pedaço e escolhe o idioma (funciona no navegador e no Node)"
+ },
+ "a0d1b0c29279": {
+  "en": "`site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.",
+  "t": "`site/i18n/` — o que o `node tools/i18n.js build` escreve para o site carregar: `languages.js`, `<lang>.js` (o texto do próprio site e os nomes) e `<lang>.docs.js` (páginas e materiais). Gerado, não fica no repositório."
+ },
+ "acb3bd3d3067": {
+  "en": "The site installs like an app on a phone, tablet or computer, and once installed (or after one visit in the browser) it works with **no signal**: handy at the table.",
+  "t": "O site se instala como um aplicativo no celular, tablet ou computador, e depois de instalado (ou depois de uma visita no navegador) funciona **sem sinal**: uma mão na roda na mesa."
+ },
+ "acb6baf6327c": {
+  "en": "You want to…",
+  "t": "Você quer…"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**Distâncias:** as regras são escritas em pés e milhas, como em D&D. O inglês mostra assim; as traduções mostram em metros e quilômetros (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, a conversão de costume em D&D), em todas as páginas, nas ferramentas e nos materiais traduzidos. **Configurações → Distâncias** troca entre os dois em qualquer idioma, e a escolha fica salva. Alturas e altitudes que a ambientação já dá em metros e quilômetros (as unidades do próprio mundo) ficam como estão."
+ },
+ "b70a8ac2bc53": {
+  "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",
+  "t": "**Grupo.** HP, HP temporários, Soul Points, exaustão, condições, dívida de reanimação e controle de morte, compartilhados com as lutas do planejador de viagens."
+ },
+ "b738bde86d8e": {
+  "en": "`site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.",
+  "t": "`site/fonts/` — TeX Gyre Schola e TeX Gyre Heros Cn, sem modificações (GUST Font License, veja `GUST-FONT-LICENSE.txt`). A fonte Vraki e a arte vêm da pasta `Handouts/source/assets`."
+ },
+ "be1ab3934370": {
+  "en": "**The banner:** every translated page starts with \"AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm\" in that language, and a one-click switch back to English.",
+  "t": "**O aviso:** toda página traduzida começa com «Traduzido por IA para o (idioma) a partir da obra original de Deovandski e Mitsukiven/Feiourm» nesse idioma, e um botão para voltar ao inglês com um clique."
+ },
+ "bf5e2b39295b": {
+  "en": "Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap.",
+  "t": "Acrescente o arquivo `.md` e depois uma linha para ele na lista no topo de `site/js/content.js`, para ele aparecer nos menus, na busca, no `llms.txt` e no sitemap."
+ },
+ "c0ff188c3eaa": {
+  "en": "**`llms-full.txt`**: every page in one file, in the same order, with links made absolute.",
+  "t": "**`llms-full.txt`**: todas as páginas num só arquivo, na mesma ordem, com os links absolutos."
+ },
+ "c1f154a148c3": {
+  "en": "Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.",
+  "t": "Tudo o que você digita é salvo no navegador conforme você usa (armazenamento local). Use o botão de salvar na barra de cima para **baixar um arquivo de salvamento (.json)** e **carregá-lo** em outro aparelho ou navegador, ou para ter um backup. Nada é enviado para lugar nenhum: não há servidor, nem conta, nem cookies, nem análise de uso."
+ },
+ "c795334a2b9e": {
+  "en": "Refresh the offline copy",
+  "t": "Atualizar a cópia offline"
+ },
+ "c98977f81652": {
+  "en": "**iPhone and iPad:** in Safari, tap Share, then **Add to Home Screen**.",
+  "t": "**iPhone e iPad:** no Safari, toque em Compartilhar e depois em **Adicionar à Tela de Início**."
+ },
+ "d5a0fd62cc4a": {
+  "en": "**DM mode:** everything players see, plus the DM pages and:",
+  "t": "**Modo Mestre:** tudo o que os jogadores veem, mais as páginas do Mestre e:"
+ },
+ "d71daec5a7cc": {
+  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.",
+  "t": "Ele também marca o `sw.js` com o commit, para que cada publicação renove a cópia que as pessoas salvaram para uso offline."
+ },
+ "d89a0a9bfcbe": {
+  "en": "`site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts",
+  "t": "`site/manifest.webmanifest` e `site/icons/` — o nome, as cores, os ícones (feitos a partir do emblema de Forway) e os atalhos do aplicativo"
+ },
+ "de3caeb1cd83": {
+  "en": "Add a new page",
+  "t": "Acrescentar uma página nova"
+ },
+ "e02dd0b09522": {
+  "en": "`site/build-llms.js` writes all three from the page list in `site/js/content.js`, so a page added to the menus is added here too. The publishing workflow runs it on every deploy; the files aren't kept in the repo. To leave the DM pages out, set `INCLUDE_DM` to `false` at the top of the script.",
+  "t": "`site/build-llms.js` escreve os três a partir da lista de páginas em `site/js/content.js`, então uma página acrescentada aos menus entra aqui também. O workflow de publicação o roda a cada publicação; os arquivos não ficam no repositório. Para deixar de fora as páginas do Mestre, ponha `INCLUDE_DM` como `false` no topo do script."
+ },
+ "e194197fc0bc": {
+  "en": "`site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline",
+  "t": "`site/snapshot.js` — a cópia offline embutida (gerada); o aplicativo instalado a usa para ler todas as páginas offline"
+ },
+ "e27b617aa841": {
+  "en": "**Save files** don't depend on the language: one saved in Japanese loads in English and the other way round.",
+  "t": "Os **arquivos de salvamento** não dependem do idioma: um salvo em japonês carrega em inglês, e vice-versa."
+ },
+ "e56cfa5d7cde": {
+  "en": "The site comes in English and six translations: 中文 (Simplified Chinese), 日本語 (Japanese), Português (Brazil), Español (Spain), العربية (Arabic) and 한국어 (Korean). They are AI translations of the English, written ahead of time and kept in the repo; nothing is translated on the fly, and English stays the original.",
+  "t": "O site está em inglês e em seis traduções: 中文 (chinês simplificado), 日本語 (japonês), Português (Brasil), Español (Espanha), العربية (árabe) e 한국어 (coreano). São traduções do inglês feitas por IA, escritas com antecedência e guardadas no repositório; nada é traduzido na hora, e o inglês continua sendo o original."
+ },
+ "e7448bd25755": {
+  "en": "**Picking one:** open **Settings (⚙)** in the top bar. It lists every language in its own script with how much of it is done, has the light/dark switch, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
+  "t": "**Escolhendo um:** abra **Configurações (⚙)** na barra de cima. Ali aparecem todos os idiomas na própria escrita, com quanto de cada um está pronto, o botão de claro/escuro e um link para a [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) para pedir outro idioma. Na primeira visita, o site escolhe sozinho o idioma do seu navegador, desde que essa tradução esteja pelo menos 90% pronta. Um link pode forçar um com `?lang=ja`."
+ },
+ "e887f66aadda": {
+  "en": "What's on it",
+  "t": "O que tem nele"
+ },
+ "e8b4838c1cec": {
+  "en": "**Travel planner.** Type From and To and **Count circles from the map** sets the circles (and each one's encounter table) from the route lengths, or set how many circles the trip covers and how many days each circle takes (1, 2 or 3). Every day has its Graveyard, Morning, Afternoon and Night shifts. Roll the events the rules call for, or set each shift yourself: quiet, a sign, an encounter from the region tables, the Inside Job offer, or your own event. Open a shift to run it: creatures from the stat blocks, HP, initiative, conditions and notes, with the party in the same fight. **Print or save as PDF** turns a trip into a paper sheet for running it without the site: every day and shift, fights with blank HP space, the party, the encounter tables for its regions and the stat blocks.",
+  "t": "**Planejador de viagens.** Digite De e Para e **Contar os círculos pelo mapa** define os círculos (e a tabela de encontros de cada um) a partir das distâncias das rotas, ou defina quantos círculos a viagem cobre e quantos dias cada círculo leva (1, 2 ou 3). Todo dia tem seus turnos de Madrugada, Manhã, Tarde e Noite. Role os eventos que as regras pedem, ou defina cada turno você mesmo: tranquilo, um sinal, um encontro das tabelas da região, a oferta do Trabalho Interno ou um evento seu. Abra um turno para conduzi-lo: criaturas das fichas de estatísticas, HP, iniciativa, condições e anotações, com o grupo na mesma luta. **Imprimir ou salvar como PDF** transforma uma viagem numa folha de papel para conduzi-la sem o site: cada dia e turno, lutas com espaço em branco para os HP, o grupo, as tabelas de encontros das regiões e as fichas de estatísticas."
+ },
+ "e906b4f39955": {
+  "en": "Change English text",
+  "t": "Mudar texto em inglês"
+ },
+ "eb8e9f5f308b": {
+  "en": "Install it as an app (works offline)",
+  "t": "Instale como aplicativo (funciona offline)"
+ },
+ "ebbc70e90594": {
+  "en": "Change a route's length, or add a route",
+  "t": "Mudar a distância de uma rota, ou acrescentar uma rota"
+ },
+ "ee0d90b0fb86": {
+  "en": "Edit the **Route lengths** table in `Maps/README.md` (From, To, Circles, On the map, Encounter table). The travel map page and the travel planner read it directly.",
+  "t": "Edite a tabela **Route lengths** em `Maps/README.md` (From, To, Circles, On the map, Encounter table). A página do mapa de viagem e o planejador de viagens leem direto dela."
+ },
+ "fe7c0b8f9905": {
+  "en": "`site/js/lang-picker.js` and `site/css/lang-picker.css` — the language list in Settings (a reusable component)",
+  "t": "`site/js/lang-picker.js` e `site/css/lang-picker.css` — a lista de idiomas das Configurações (um componente reutilizável)"
+ },
+ "febe621a1e51": {
+  "en": "For AI tools and search engines",
+  "t": "Para ferramentas de IA e buscadores"
+ }
+}

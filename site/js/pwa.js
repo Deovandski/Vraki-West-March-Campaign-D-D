@@ -9,6 +9,8 @@
    Script tag options:
      data-sw     the service worker file, relative to the page (default "sw.js")
      data-scope  what it controls (default "./"). The worker must sit at or above the scope.
+     data-text   optional JSON with its words in another language: {"offline", "ready", "saving", "saved",
+                 "partial"} ("partial" uses {saved} and {total}); any left out stay in English
 
    Page elements it runs (anywhere, any number of them, including ones added later):
      [data-pwa-install]  hidden until the browser offers installing (Chrome, Edge, Android); clicking it
@@ -38,9 +40,19 @@
   const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
   const all = (sel) => document.querySelectorAll(sel);
 
+  // Its words, in English unless the page gives others: data-text='{"offline", "ready", "saving", "saved",
+  // "partial" (with {saved} and {total})}' on this script tag, read each time so the page can set it later.
+  function words() {
+    let t = {};
+    try { t = me && me.dataset.text ? JSON.parse(me.dataset.text) : {}; } catch (e) { t = {}; }
+    return Object.assign({
+      offline: "You're offline. Showing what's saved on this device.", ready: "Ready to use offline on this device.",
+      saving: "Saving…", saved: "Saved for offline use", partial: "Saved {saved} of {total}. Try again online for the rest."
+    }, t);
+  }
   function statusText() {
-    if (!navigator.onLine) return "You're offline. Showing what's saved on this device.";
-    if (ready) return "Ready to use offline on this device.";
+    if (!navigator.onLine) return words().offline;
+    if (ready) return words().ready;
     return "";
   }
   function refresh() {
@@ -81,9 +93,9 @@
       const label = sv.textContent;
       sv.disabled = true;
       sv.setAttribute("aria-busy", "true");
-      sv.textContent = "Saving…";
+      sv.textContent = words().saving;
       save(urls).then((r) => {
-        sv.textContent = r.failed ? `Saved ${r.saved} of ${urls.length}. Try again online for the rest.` : (sv.dataset.pwaSaved || "Saved for offline use");
+        sv.textContent = r.failed ? words().partial.replace("{saved}", r.saved).replace("{total}", urls.length) : (sv.dataset.pwaSaved || words().saved);
         sv.disabled = !r.failed;
       }).catch(() => { sv.textContent = label; sv.disabled = false; })
         .finally(() => sv.removeAttribute("aria-busy"));

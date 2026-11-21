@@ -1,0 +1,338 @@
+{
+ "03f651e52ad8": {
+  "en": "Culuim",
+  "t": "Culuim"
+ },
+ "069243643113": {
+  "en": "Pack animal; hoof/leg hair for Water Walk",
+  "t": "Animal de carga; pelo de pezuña y pata para Water Walk"
+ },
+ "0958099a49b1": {
+  "en": "Lungs and glands for gels",
+  "t": "Pulmones y glándulas para geles"
+ },
+ "0a4720d6b6b4": {
+  "en": "**Legunia (CR 2)** — AC 12 · HP 20 · speed 60 ft\nHigh Jump: 30 ft vertical. Super Speed: Dash as a bonus action. Desert Sense: senses dangerous desert conditions within 1 mile (its hump shrinks).",
+  "t": "**Legunia (CR 2)** — AC 12 · HP 20 · velocidad 60 pies\nSalto alto: 30 pies en vertical. Supervelocidad: Correr como acción adicional. Sentido del desierto: percibe condiciones peligrosas del desierto a 1 milla o menos (se le encoge la joroba)."
+ },
+ "0b57ac7af420": {
+  "en": "Sanbi–Tastyleaf swamps",
+  "t": "Pantanos entre Sanbi y Tastyleaf"
+ },
+ "0c111d8bdf54": {
+  "en": "Sanbi's whole economy",
+  "t": "Toda la economía de Sanbi"
+ },
+ "0ee4640ddadc": {
+  "en": "Lower plains",
+  "t": "Llanuras bajas"
+ },
+ "12babf3aa1e2": {
+  "en": "**Yuyta (CR ½)** — AC 11 · HP 12\nHop Strike: +3, 1d4+1. Harvest Sense: detects crop quality within 100 ft. Wall Sight: whiskers sense objects through 1 ft of wall or dirt. Group Scatter: when one is damaged, all Yuytas within 20 ft move 10 ft away. Screams like a dying human.",
+  "t": "**Yuyta (CR ½)** — AC 11 · HP 12\nGolpe saltarín: +3, 1d4+1. Sentido de la cosecha: detecta la calidad de los cultivos a 100 pies o menos. Vista a través de muros: sus bigotes perciben objetos a través de 1 pie de muro o tierra. Dispersión del grupo: cuando una recibe daño, todas las Yuytas a 20 pies o menos se apartan 10 pies. Grita como un humano moribundo."
+ },
+ "17450cb9b504": {
+  "en": "Barina",
+  "t": "Barina"
+ },
+ "17a46e1b9f02": {
+  "en": "Oil, meat",
+  "t": "Aceite, carne"
+ },
+ "1f45bdead95e": {
+  "en": "Bagarisa",
+  "t": "Bagarisa"
+ },
+ "2aabd47d1d42": {
+  "en": "**Wooly (CR 1)** — AC 12 · HP 50\nReverberate Voice: DC 12 Con save or deafened. Light Burst: bright light 30 ft for 1 minute. Mountain Stance: advantage against being pushed. Its death scream carries for kilometers (attracts predators).",
+  "t": "**Wooly (CR 1)** — AC 12 · HP 50\nVoz reverberante: salvación de Con DC 12 o ensordecido. Estallido de luz: luz brillante de 30 pies durante 1 minuto. Postura de montaña: ventaja contra los empujones. Su grito de muerte se oye a kilómetros (atrae a los depredadores)."
+ },
+ "2afe12c726e6": {
+  "en": "Creature",
+  "t": "Criatura"
+ },
+ "2f3c0820e993": {
+  "en": "Lakes, Buhraies region",
+  "t": "Lagos, región de Buhraies"
+ },
+ "3246b1a14f34": {
+  "en": "**Culuim (CR 1)** — AC 12 · HP 10\nHeart Flip: switches Walking Heart modes (+2 to one ability, −2 to another, DM's choice). Blood Surge: +2 AC for 1 round. Contaminated Flesh: creatures that bite it make a DC 12 Con save or are poisoned.",
+  "t": "**Culuim (CR 1)** — AC 12 · HP 10\nGiro de corazón: cambia los modos de su Walking Heart (+2 a una característica, −2 a otra, a elección del DM). Oleada de sangre: +2 AC durante 1 asalto. Carne contaminada: las criaturas que lo muerden hacen una salvación de Con DC 12 o quedan envenenadas."
+ },
+ "33916d61ede4": {
+  "en": "Wozen",
+  "t": "Wozen"
+ },
+ "34b62f354316": {
+  "en": "Eggs, meat",
+  "t": "Huevos, carne"
+ },
+ "37464c57712d": {
+  "en": "Gel ingredient (Body Paralysis)",
+  "t": "Ingrediente de gel (Body Paralysis)"
+ },
+ "377dac41a368": {
+  "en": "**Sanbi (CR 1)** — AC 12 · HP 25 · swim 50 ft\nSonic Pulse: DC 12 Con save or migraine (disadvantage on attacks for 1 minute). Fake Prey: sheds lip/tail decoys; attackers have disadvantage. Tail Stretch: extends its tail 10 ft to avoid melee. Landing one: DC 15 Strength (Athletics), or two successes out of three for a weaker fisher.",
+  "t": "**Sanbi (CR 1)** — AC 12 · HP 25 · nadar 50 pies\nPulso sónico: salvación de Con DC 12 o migraña (desventaja en los ataques durante 1 minuto). Presa falsa: suelta señuelos de labio y cola; los atacantes tienen desventaja. Estirar la cola: extiende la cola 10 pies para evitar el cuerpo a cuerpo. Pescar uno: Fuerza (Atletismo) DC 15, o dos éxitos de tres para un pescador más débil."
+ },
+ "3ac5020ad018": {
+  "en": "Monika",
+  "t": "Monika"
+ },
+ "3e5fab7dc2a8": {
+  "en": "Whiskers for gels; harvest omens",
+  "t": "Bigotes para geles; presagios de cosecha"
+ },
+ "3ebee29f59e3": {
+  "en": "**Egua (CR 1)** — AC 13 · HP 60 · speed 40 ft\nWater Walk: walks on water. Dirt Repel: ignores difficult terrain from mud or sand. Leg Morph: bonus action, +10 ft speed or +2 AC. Intestine Ejection (Recharge 5–6): 10-ft fear aura for 1 round (DC 12 Wis). Kick: +5, 2d6+3 bludgeoning. Friendly; hurting one makes it violent.",
+  "t": "**Egua (CR 1)** — AC 13 · HP 60 · velocidad 40 pies\nCaminar sobre el agua: camina sobre el agua. Repeler la tierra: ignora el terreno difícil de barro o arena. Transformar las patas: acción adicional, +10 pies de velocidad o +2 AC. Expulsión intestinal (Recarga 5–6): aura de miedo de 10 pies durante 1 asalto (Sab DC 12). Coz: +5, 2d6+3 contundente. Amistosa; si le haces daño, se vuelve violenta."
+ },
+ "3efd42e6b77a": {
+  "en": "The most-eaten meat; hide",
+  "t": "La carne más consumida; piel"
+ },
+ "404444d79dfc": {
+  "en": "Soreno",
+  "t": "Soreno"
+ },
+ "4c14bcb5102c": {
+  "en": "Everywhere (pest)",
+  "t": "En todas partes (plaga)"
+ },
+ "4c934310abd0": {
+  "en": "Ponds",
+  "t": "Estanques"
+ },
+ "4e9adf407e18": {
+  "en": "**Monika (CR 0)** — AC 11 · HP 5 · fly 30 ft\nSoul Sense: detects soul energy sources. Scent Vision: sees smells. Corpse Finder: advantage on Perception to find corpses (prefers high-SE bodies — dead adventurers).",
+  "t": "**Monika (CR 0)** — AC 11 · HP 5 · volar 30 pies\nSentido del alma: detecta fuentes de energía del alma. Visión olfativa: ve los olores. Buscadora de cadáveres: ventaja en Percepción para encontrar cadáveres (prefiere cuerpos con mucha SE: aventureros muertos)."
+ },
+ "5413e8c52dea": {
+  "en": "Coastal and Freeish forests",
+  "t": "Bosques costeros y de Freeish"
+ },
+ "542851db27ce": {
+  "en": "Crocus",
+  "t": "Crocus"
+ },
+ "58bdca850469": {
+  "en": "Pelt; eyes and nose for gels",
+  "t": "Pelaje; ojos y nariz para geles"
+ },
+ "598dd6e8478c": {
+  "en": "**Cinika (CR 0)** — AC 11 · HP 5 · fly 30 ft\nParalyzing Dust: DC 10 Con save or paralyzed 1 round. Weather Sense: detects pressure, humidity and temperature changes. Swarm Instinct: advantage on attacks while adjacent to another Cinika. Favors licking Wozefaries and Sorefaries sweat.",
+  "t": "**Cinika (CR 0)** — AC 11 · HP 5 · volar 30 pies\nPolvo paralizante: salvación de Con DC 10 o paralizado 1 asalto. Sentido del tiempo: detecta cambios de presión, humedad y temperatura. Instinto de enjambre: ventaja en los ataques mientras esté adyacente a otra Cinika. Le encanta lamer el sudor de wozefaries y sorefaries."
+ },
+ "5b9458beab47": {
+  "en": "Sanbi region forests",
+  "t": "Bosques de la región de Sanbi"
+ },
+ "5c29abdd548d": {
+  "en": "Seas near deltas",
+  "t": "Mares cerca de los deltas"
+ },
+ "5c2cc9d06eb0": {
+  "en": "Everywhere (tamed), Forway plains (wild)",
+  "t": "En todas partes (domesticada), llanuras de Forway (salvaje)"
+ },
+ "5e82236c3c93": {
+  "en": "East sea",
+  "t": "Mar del este"
+ },
+ "63abb27b59b1": {
+  "en": "Ptaina",
+  "t": "Ptaina"
+ },
+ "680da8beb462": {
+  "en": "Loot / use",
+  "t": "Botín / uso"
+ },
+ "6a8dcffc282b": {
+  "en": "Deep southern forests",
+  "t": "Bosques del sur profundo"
+ },
+ "6b66b910e840": {
+  "en": "**Lansha (CR 3)** — AC 14 · HP 85\nGravity Down: DC 14 Str save or knocked prone. Oil Up: attackers have disadvantage for 1 round. Sour Gland Burst (Recharge 5–6): 2d10 acid in a 10-ft cone. Timid alone, territorial in herds.",
+  "t": "**Lansha (CR 3)** — AC 14 · HP 85\nGravity Down: salvación de Fue DC 14 o queda derribado. Aceitarse: los atacantes tienen desventaja durante 1 asalto. Estallido de glándula agria (Recarga 5–6): 2d10 ácido en un cono de 10 pies. Tímida sola, territorial en manada."
+ },
+ "6ec6c99d0d18": {
+  "en": "Waterproof hide and webbing",
+  "t": "Piel y membranas impermeables"
+ },
+ "70b58218c896": {
+  "en": "Lower regions",
+  "t": "Regiones bajas"
+ },
+ "74f8aea1714b": {
+  "en": "**Bagarisa (CR 2)** — AC 14 · HP 40\n**Two Hearts:** the first time it drops to 0 HP it drops to 1 HP instead, unless the hit was a critical (you hit both hearts). Flaming Tusks: +5, 2d6+3 fire. Fireball Gust (Recharge 5–6): 3d10 fire in a 15-ft cone, DC 13 Dex half. Blood Heal: regains 5 HP when it deals fire damage. Musk: smells like shrimp brine; anyone who butchers one smells of it (Wozens track the smell).",
+  "t": "**Bagarisa (CR 2)** — AC 14 · HP 40\n**Two Hearts:** la primera vez que cae a 0 HP, se queda a 1 HP en su lugar, salvo que el golpe fuera un crítico (le diste a los dos corazones). Colmillos llameantes: +5, 2d6+3 fuego. Ráfaga de bola de fuego (Recarga 5–6): 3d10 fuego en un cono de 15 pies, salvación de Des DC 13 para la mitad. Curación de sangre: recupera 5 HP cuando hace daño de fuego. Almizcle: huele a salmuera de gambas; quien despieza uno huele así (los Wozens siguen el olor)."
+ },
+ "768443a5a6ed": {
+  "en": "**Winga / Pink Winga (CR 1)** — AC 13 · HP 30 · fly 60 ft\nLife Sense: detects living creatures within 60 ft. Air Shield (Recharge 5–6): +2 AC for 1 round. Shriek: DC 12 Con save or deafened 1 round. Diamond Beak: +4, 1d6+2 piercing (ignores resistance). Pink Wingas have advantage on Stealth. Killing a Forway courier Winga is a crime.",
+  "t": "**Winga / Pink Winga (CR 1)** — AC 13 · HP 30 · volar 60 pies\nSentido de la vida: detecta criaturas vivas a 60 pies o menos. Escudo de aire (Recarga 5–6): +2 AC durante 1 asalto. Chillido: salvación de Con DC 12 o ensordecido 1 asalto. Pico de diamante: +4, 1d6+2 perforante (ignora la resistencia). Las Pink Wingas tienen ventaja en Sigilo. Matar a una Winga mensajera de Forway es un delito."
+ },
+ "78fd92a64010": {
+  "en": "**Fihi (CR 3)** — AC 14 · HP 55 · swim 40 ft\nElemental Absorb: reduces elemental damage by 1d6. Elemental Release (Recharge 5–6): 3d10 of the last element it absorbed (lightning if none) in a 15-ft cone. Shock Skin: melee attackers take 1d6 lightning. *Lake giants:* double HP; swallow a Medium creature on a crit.",
+  "t": "**Fihi (CR 3)** — AC 14 · HP 55 · nadar 40 pies\nAbsorción elemental: reduce el daño elemental en 1d6. Liberación elemental (Recarga 5–6): 3d10 del último elemento que absorbió (relámpago si no hay ninguno) en un cono de 15 pies. Piel eléctrica: los atacantes cuerpo a cuerpo reciben 1d6 relámpago. *Gigantes del lago:* HP doble; se tragan a una criatura Mediana con un crítico."
+ },
+ "795f3a60ea66": {
+  "en": "Courier, sweet meat, Winga dust",
+  "t": "Mensajero, carne dulce, polvo de Winga"
+ },
+ "82f7a277fa11": {
+  "en": "Sayna",
+  "t": "Sayna"
+ },
+ "876a3abdbc14": {
+  "en": "Cruro lands",
+  "t": "Tierras cruro"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "Sanbi"
+ },
+ "94999c5b1b38": {
+  "en": "Cinika",
+  "t": "Cinika"
+ },
+ "969f9e69b408": {
+  "en": "Winga / Pink Winga",
+  "t": "Winga / Pink Winga"
+ },
+ "9799343e6d99": {
+  "en": "Oil, gills (gels); giant man-eaters in Lukewarm Lake",
+  "t": "Aceite, branquias (geles); gigantes devoradores de hombres en el lago Lukewarm"
+ },
+ "9d2007e89d3a": {
+  "en": "Street food, gels",
+  "t": "Comida callejera, geles"
+ },
+ "9faf8b37b459": {
+  "en": "Egua",
+  "t": "Egua"
+ },
+ "9fb3fd83080d": {
+  "en": "Lamb-like meat, sour glands",
+  "t": "Carne parecida a la de cordero, glándulas agrias"
+ },
+ "a2b90decb4b9": {
+  "en": "Milk, wool, cheese",
+  "t": "Leche, lana, queso"
+ },
+ "a73331b513d1": {
+  "en": "Lower plains (spring)",
+  "t": "Llanuras bajas (primavera)"
+ },
+ "abd19f1a5717": {
+  "en": "Gandew, high mountains (4–6 km)",
+  "t": "Gandew, altas montañas (4–6 km)"
+ },
+ "af8b4adcaa37": {
+  "en": "Desert",
+  "t": "Desierto"
+ },
+ "b091c566a1fa": {
+  "en": "**Ptaina (CR 2)** — AC 13 · HP 35 · swim 40 ft\nUltrasonic Burst (Recharge 5–6): 3d8 thunder underwater, 1d8 on land, 20-ft radius. Compass Distortion: creatures within 20 ft have disadvantage on Survival. Head Glow: creatures within 5 ft make a DC 12 Wis save or frightened 1 round.",
+  "t": "**Ptaina (CR 2)** — AC 13 · HP 35 · nadar 40 pies\nEstallido ultrasónico (Recarga 5–6): 3d8 trueno bajo el agua, 1d8 en tierra, radio de 20 pies. Distorsión de brújula: las criaturas a 20 pies o menos tienen desventaja en Supervivencia. Brillo de la cabeza: las criaturas a 5 pies o menos hacen una salvación de Sab DC 12 o quedan asustadas 1 asalto."
+ },
+ "b308dd33053e": {
+  "en": "Trained message carriers",
+  "t": "Mensajeros adiestrados"
+ },
+ "b33de0752c52": {
+  "en": "Region",
+  "t": "Región"
+ },
+ "b49482c30ee3": {
+  "en": "Legunia",
+  "t": "Legunia"
+ },
+ "b7d71f1ff3f4": {
+  "en": "Fatupari",
+  "t": "Fatupari"
+ },
+ "b7d82f2b3399": {
+  "en": "Ported from the original Alpha campaign's `Fauna Stats.md`, with regions, a few fixes, and loot. Fill in ability scores from a similar 5e beast when needed.",
+  "t": "Traídos del `Fauna Stats.md` de la campaña Alpha original, con regiones, algunas correcciones y botín. Si necesitas las puntuaciones de característica, cógelas de una bestia de 5e parecida."
+ },
+ "b8fa43c3582f": {
+  "en": "Hide, eggs",
+  "t": "Piel, huevos"
+ },
+ "be64e774f412": {
+  "en": "Freeish ponds",
+  "t": "Estanques de Freeish"
+ },
+ "c0ed01470ecf": {
+  "en": "**Barina (CR 2)** — AC 13 · HP 18 · swim 30 ft\nToxic Tail Burst (Recharge 5–6): 2d8 poison in a 10-ft radius. Cloak: invisible while submerged. Gas Diffusal: 15-ft poison cloud for 1 round. Back Spikes: creatures that grapple it take 1d4 piercing.",
+  "t": "**Barina (CR 2)** — AC 13 · HP 18 · nadar 30 pies\nEstallido de cola tóxica (Recarga 5–6): 2d8 veneno en un radio de 10 pies. Camuflaje: invisible mientras está sumergida. Difusión de gas: nube venenosa de 15 pies durante 1 asalto. Púas dorsales: las criaturas que la agarran reciben 1d4 perforante."
+ },
+ "c3b52ee2defc": {
+  "en": "**Wozen (CR 2)** — AC 14 · HP 40 · speed 40 ft\nSuper Smell: advantage on tracking. Sound Bounce: makes no sound while moving. Light Bounce: +2 Stealth in dim light. Super Jump: 20-ft leaps. Jaw Clench: +5, 2d6+3 piercing, grappled (escape DC 13). Nocturnal; loves Bagarisa — and humans.",
+  "t": "**Wozen (CR 2)** — AC 14 · HP 40 · velocidad 40 pies\nSuperolfato: ventaja para rastrear. Rebote del sonido: no hace ruido al moverse. Rebote de la luz: +2 a Sigilo con luz tenue. Supersalto: saltos de 20 pies. Cierre de mandíbula: +5, 2d6+3 perforante, agarrado (escapar DC 13). Nocturno; le encantan los Bagarisa — y los humanos."
+ },
+ "c6038d931572": {
+  "en": "Fauna Stat Blocks",
+  "t": "Bloques de estadísticas: fauna"
+ },
+ "d1007dfcc10d": {
+  "en": "Fihi",
+  "t": "Fihi"
+ },
+ "d503cbdf73eb": {
+  "en": "**Fatupari (CR 2)** — AC 13 · HP 40\nLaunch: moves 40 ft in a line; its next attack deals +1d6. Air Buoyancy: hovers for 1 round. Webbing Shield: while its pink webbing is intact, resistance to spell damage (attack the webbing, AC 13, 10 HP, to tear it). Bite: +5, 1d8+3, grappled.",
+  "t": "**Fatupari (CR 2)** — AC 13 · HP 40\nLanzarse: se mueve 40 pies en línea; su siguiente ataque hace +1d6. Flotar en el aire: se queda suspendido 1 asalto. Escudo de membrana: mientras su membrana rosa esté intacta, resistencia al daño de conjuros (ataca la membrana, AC 13, 10 HP, para romperla). Mordisco: +5, 1d8+3, agarrado."
+ },
+ "d9a99e857561": {
+  "en": "**Sayna (CR 1)** — AC 13 · HP 28\nDistant Hearing: hears up to 1 mile. Cloak Detection: detects invisible creatures and burrowing Sand Worms within 20 ft. Blood Shield (self-defense): gains 5 temporary HP when hit. Goofy: needs training to use skills on command. \"Pohw-pohhhww!\"",
+  "t": "**Sayna (CR 1)** — AC 13 · HP 28\nOído lejano: oye hasta 1 milla. Detectar camuflaje: detecta criaturas invisibles y Sand Worms excavando a 20 pies o menos. Escudo de sangre (defensa propia): gana 5 HP temporales cuando la golpean. Atolondrada: necesita adiestramiento para usar habilidades cuando se le ordena. «¡Pohw-pohhhww!»"
+ },
+ "e1c413b69494": {
+  "en": "Fat (delicacy), eggs",
+  "t": "Grasa (manjar), huevos"
+ },
+ "e2445ed3450b": {
+  "en": "**Fanchaki (CR 1)** — AC 12 · HP 20\nRapid Breed: once per day, 1d4 chicks appear (no actions). Peck Flurry: two attacks, +4, 1d4+2. Panic Dash: when frightened, moves 40 ft without provoking. Fake Body: the first attack against it each round has disadvantage.",
+  "t": "**Fanchaki (CR 1)** — AC 12 · HP 20\nCría rápida: una vez al día aparecen 1d4 polluelos (sin acciones). Ráfaga de picotazos: dos ataques, +4, 1d4+2. Huida de pánico: cuando está asustada, se mueve 40 pies sin provocar ataques. Cuerpo falso: el primer ataque contra ella en cada asalto tiene desventaja."
+ },
+ "e2b1f159112a": {
+  "en": "Lansha",
+  "t": "Lansha"
+ },
+ "e608896a9021": {
+  "en": "Wooly",
+  "t": "Wooly"
+ },
+ "ecbc80ebbf2f": {
+  "en": "Fanchaki",
+  "t": "Fanchaki"
+ },
+ "ef5e4a257734": {
+  "en": "Lower plains, Buhraies Plains, Wingarest",
+  "t": "Llanuras bajas, Buhraies Plains, Wingarest"
+ },
+ "f20e50e0ec7d": {
+  "en": "**Crocus (CR 2)** — AC 14 · HP 45 · swim 30 ft\nSpike Burst (Recharge 5–6): 2d6 piercing in a 10-ft radius. Harden Skin: +2 AC for 1 round. Light Bend: invisible while motionless (can stay still for hours). Bite: +5, 2d6+3 piercing, grappled.",
+  "t": "**Crocus (CR 2)** — AC 14 · HP 45 · nadar 30 pies\nEstallido de púas (Recarga 5–6): 2d6 perforante en un radio de 10 pies. Piel endurecida: +2 AC durante 1 asalto. Curvar la luz: invisible mientras está inmóvil (puede quedarse quieto horas). Mordisco: +5, 2d6+3 perforante, agarrado."
+ },
+ "f3561faab8af": {
+  "en": "Freeish, Blood, Forway plains (night)",
+  "t": "Freeish, Blood, llanuras de Forway (de noche)"
+ },
+ "f85f95f9ad7d": {
+  "en": "Companion; sacred in Sundeath",
+  "t": "Compañera; sagrada en Sundeath"
+ },
+ "f8a4085c3a36": {
+  "en": "**Soreno (CR 1)** — AC 12 · HP 18\nMimicry: imitates sounds perfectly. Blink Dash: bonus action, move 5 ft without provoking. Cloak: advantage on Stealth (heat and sight). Pest Swarm: advantage on attacks while adjacent to another Soreno. Long-Distance Squeak: a trained one relays a message up to 1 mile.",
+  "t": "**Soreno (CR 1)** — AC 12 · HP 18\nMimetismo: imita sonidos a la perfección. Salto relámpago: acción adicional, se mueve 5 pies sin provocar ataques. Camuflaje: ventaja en Sigilo (calor y vista). Enjambre de plaga: ventaja en los ataques mientras esté adyacente a otro Soreno. Chillido a larga distancia: uno adiestrado transmite un mensaje hasta 1 milla."
+ },
+ "fb9f25b63568": {
+  "en": "Yuyta",
+  "t": "Yuyta"
+ },
+ "fbe616b162ce": {
+  "en": "Monika Sight gel",
+  "t": "Gel de Monika Sight"
+ }
+}

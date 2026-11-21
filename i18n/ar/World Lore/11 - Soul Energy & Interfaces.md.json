@@ -1,0 +1,166 @@
+{
+ "03de3cd85eea": {
+  "en": "**Body RESTORE** heals: Tier I bruises · II minor cuts · III deep cuts · IV broken bones · V many fractures and blood loss · VI lost limbs · VII lost head · VIII lost torso · IX near-instant regeneration (if you have the fat or black honey to burn). **Body DISASSEMBLE/DESTROY** causes bleeding, convulsions, explosions.",
+  "t": "**بودي ريستور** تشفي: المستوى I الكدمات · II الجروح الطفيفة · III الجروح العميقة · IV العظام المكسورة · V الكسور الكثيرة وفقدان الدم · VI الأطراف المفقودة · VII الرأس المفقود · VIII الجذع المفقود · IX تجدد شبه فوري (إن كان لديك دهون أو عسل أسود لتحرقه). و**بودي ديسأسمبل/ديستروي** تسبب النزيف والتشنجات والانفجارات."
+ },
+ "13dd49d5034d": {
+  "en": "Made by the Buhraies to control the Darfaries as soldiers. Works for anyone with a drop of Darfaries/Wozefaries blood — nearly every human today.",
+  "t": "صنعها البورايس للسيطرة على الدارفاريس جنودًا. تعمل لدى كل من في عروقه قطرة من دم الدارفاريس أو الووزيفاريس — أي كل البشر تقريبًا اليوم."
+ },
+ "14c1e1875566": {
+  "en": "Revival is routine: heal the body, restart the heart (a jolt of **storm** energy), feed it something energy-dense like **black honey**. Embassies sell it as a service.",
+  "t": "الإحياء أمر روتيني: عالج الجسد، وأعِد تشغيل القلب (صدمة من طاقة **العاصفة**)، وأطعمه شيئًا كثيف الطاقة مثل **العسل الأسود**. وتبيعه السفارات خدمةً."
+ },
+ "1920b8108b65": {
+  "en": "Soul Energy (SE)",
+  "t": "طاقة الروح (SE)"
+ },
+ "1db084c3e97b": {
+  "en": "**Miscasts:** missing or sloppy logograms make the spell fall back on whatever you're thinking. That can explode in your hand — or turn you into a chicken-like Fanchaki.",
+  "t": "**الإلقاء الخاطئ:** إن نقص رمز أو رُسم بإهمال، تعود التعويذة إلى أي شيء تفكر فيه. وقد تنفجر في يدك — أو تحوّلك إلى فانتشاكي يشبه الدجاجة."
+ },
+ "4962021bae4d": {
+  "en": "**World/Object VERB** changes density, attracts or repels, \"un-rusts\" things, or turns them to dust.",
+  "t": "**وورلد/أوبجكت + فعل** تغيّر الكثافة، أو تجذب أو تصدّ، أو «تزيل الصدأ» عن الأشياء، أو تحوّلها إلى غبار."
+ },
+ "4df3cbc0f57d": {
+  "en": "Soul, body, gene",
+  "t": "الروح والجسد والجين"
+ },
+ "52cb1b6c21ca": {
+  "en": "Draw a small logogram in the air with one hand while holding two fingers with the other; hold to charge (others can touch you to add energy); release by opening the fingers. Elements only. Fast, animal-like, aggressive.",
+  "t": "ارسم رمزًا صغيرًا في الهواء بيد بينما تمسك إصبعين باليد الأخرى؛ استمر في الإمساك لتشحن (يستطيع الآخرون لمسك لإضافة طاقة)؛ وأطلقها بفتح الإصبعين. عناصر فقط. سريعة، حيوانية، عدوانية."
+ },
+ "59b9f7176cca": {
+  "en": "Healing, reviving, lighting, refrigeration (ice spells keep meat fresh for trade), drying fish, industrial work in Tolerideme, entertainment (**Soul Energy Art** shows in Forway), sports (Homeegg flight), and the embassy badge system.",
+  "t": "العلاج، والإحياء، والإنارة، والتبريد (تعاويذ الجليد تحفظ اللحم طازجًا للتجارة)، وتجفيف السمك، والعمل الصناعي في توليريديمي، والترفيه (عروض **سول إنرجي آرت** في فورواي)، والرياضة (طيران هوم إغ)، ونظام بطاقات السفارات."
+ },
+ "621631e94c2a": {
+  "en": "**Elemental CREATE** throws a ball of fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust or ash. **Gravity** spells pull and push; a Gravity CREATE makes a tiny black hole that evaporates instantly.",
+  "t": "**إليمنتال كرييت** تقذف كرة من النار أو الماء أو الجليد أو العاصفة أو البخار أو الريح أو التراب أو التراب المتجمد أو الطين أو الحمم أو الصعق أو الغبار أو الرماد. وتعويذات **غرافيتي** تجذب وتدفع؛ وغرافيتي كرييت تصنع ثقبًا أسود صغيرًا يتبخر في الحال."
+ },
+ "650efd46a6d5": {
+  "en": "**Verbs:** INCREASE/DECREASE, REPEL/ATTRACT, RESTORE/DISASSEMBLE, CREATE/DESTROY, plus **ENTANGLE** (link sounds so a whole group hears the same thing — used for comms) and **TRANSMUTE** (turn one metal into its neighbor; not worth the cost), both reintroduced by the scientist Gabiro in 987 A.G.",
+  "t": "**الأفعال:** إنكريس/ديكريس (زيادة/إنقاص)، ريبل/أتراكت (صدّ/جذب)، ريستور/ديسأسمبل (استعادة/تفكيك)، كرييت/ديستروي (خلق/تدمير)، إضافةً إلى **إنتانغل** (ربط الأصوات ليسمع فريق كامل الشيء نفسه — يُستخدم للاتصال) و**ترانسميوت** (تحويل معدن إلى جاره؛ لا يستحق التكلفة)، وقد أعاد كليهما العالِم غابيرو في 987 A.G."
+ },
+ "6bba3847d6f0": {
+  "en": "Interfaces",
+  "t": "الواجهات"
+ },
+ "84d7ed02031e": {
+  "en": "Logograms **carved into the palm** with a blade. Without them you're editing souls directly — the Buhraies' greatest power and their downfall. Can alter body and soul \"DNA\"; changes stick even through healing.",
+  "t": "رموز **محفورة في الراحة** بنصل. ومن دونها فأنت تعدّل الأرواح مباشرة — أعظم قوى البورايس وسبب سقوطهم. يمكنها تغيير «الحمض النووي» للجسد والروح؛ وتبقى التغييرات حتى بعد العلاج."
+ },
+ "84f18aae9429": {
+  "en": "You can draw the logograms on your palm (slow, risky, and forbidden inside city limits) or wear **sigil rings** with them carved in (fast, safe; sold in Soul Energy shops; blank rings are banned except for courtroom scientists and Aquamarine+ adventurers).",
+  "t": "يمكنك رسم الرمزين على راحة يدك (بطيء، وخطِر، وممنوع داخل حدود المدن) أو لبس **خواتم سيجيل** محفور عليها الرمزان (سريع، وآمن؛ تُباع في متاجر طاقة الروح؛ والخواتم الفارغة محظورة إلا على علماء البلاط والمغامرين من رتبة أكوامارين فما فوق)."
+ },
+ "8b6493801e36": {
+  "en": "There are no gods and no \"magic\" in Vraki — there is **Soul Energy**, and everybody calls it science. Scientists publish papers, peer-review each other brutally, and blow themselves up.",
+  "t": "لا آلهة ولا «سحر» في فراكي — هناك **طاقة الروح**، والجميع يسمّيها علمًا. ينشر العلماء الأبحاث، ويراجع بعضهم أعمال بعض بقسوة، ويفجّرون أنفسهم."
+ },
+ "8c18dad97758": {
+  "en": "Strong emotions make long-lasting memories. When parents make a baby, both release a little soul energy and nearby particles form a new soul, so a newborn's temperament looks random.",
+  "t": "المشاعر القوية تصنع ذكريات طويلة الأمد. حين ينجب الوالدان طفلًا، يطلق كلاهما قليلًا من طاقة الروح فتكوّن الجسيمات القريبة روحًا جديدة، ولذلك يبدو طبع المولود عشوائيًا."
+ },
+ "a34c4088549a": {
+  "en": "**Objects:** 26 approved simple objects plus rare approved compound ones. A new compound object is approved only if random passersby can cast it without a single miscast.",
+  "t": "**المفاعيل:** 26 مفعولًا بسيطًا معتمدًا، إضافة إلى مفاعيل مركبة نادرة معتمدة. ولا يُعتمد مفعول مركب جديد إلا إذا استطاع مارّة عشوائيون إلقاءه دون خطأ واحد."
+ },
+ "a5d4d49970fb": {
+  "en": "Souls are toughest in early adulthood (revival is nearly guaranteed) and fragile in infants and the elderly.",
+  "t": "الأرواح في أقوى حالاتها في مطلع البلوغ (الإحياء مضمون تقريبًا)، وهشّة عند الرضّع والمسنّين."
+ },
+ "a7ac2e2e6605": {
+  "en": "Other uses of Soul Energy",
+  "t": "استخدامات أخرى لطاقة الروح"
+ },
+ "ac91e049c126": {
+  "en": "When the heart and brain stop, the soul stays tied to the body while the genetic material lasts. The dead dream in a loop of their strongest memories or desires.",
+  "t": "حين يتوقف القلب والدماغ، تبقى الروح مربوطة بالجسد ما دامت المادة الوراثية باقية. ويحلم الموتى في حلقة متكررة بأقوى ذكرياتهم أو رغباتهم."
+ },
+ "b29a91912b7a": {
+  "en": "**Common spells:**",
+  "t": "**تعويذات شائعة:**"
+ },
+ "b54bcd11081b": {
+  "en": "SE comes in **tiers** (I, II, III… X and up). Each tier needs double the energy of the one before it: **1 nari stone for Tier I, 2 for Tier II, 4 for Tier III, 8 for Tier IV…**",
+  "t": "تأتي طاقة الروح في **مستويات** (I، II، III… X وما فوق). كل مستوى يحتاج ضعف طاقة المستوى الذي قبله: **حجر ناري واحد للمستوى I، و2 للمستوى II، و4 للمستوى III، و8 للمستوى IV…**"
+ },
+ "bf7af2224bd6": {
+  "en": "The five rings hold **2, 8, 18, 32 and 50** tiers of energy. Nobody has officially cast at the fourth or fifth ring.",
+  "t": "تحمل الحلقات الخمس **2 و8 و18 و32 و50** مستوى من الطاقة. ولم يُلقِ أحد رسميًا تعويذة على الحلقة الرابعة أو الخامسة."
+ },
+ "c27e2f58bb51": {
+  "en": "You can **expand** your soul's capacity with training, like exercise. The rich tend to have small souls — they just buy nari stones.",
+  "t": "يمكنك **توسيع** سعة روحك بالتدريب، كالتمارين الرياضية. والأغنياء غالبًا أرواحهم صغيرة — فهم يشترون أحجار ناري فحسب."
+ },
+ "c321d9232818": {
+  "en": "Walking Heart (banned)",
+  "t": "ووكينغ هارت (محظور)"
+ },
+ "c401fbb82c9f": {
+  "en": "Recharged by **emotions** and **eating** (eating something alive absorbs some of its soul energy). On average you recover about **one nari stone's worth a day**.",
+  "t": "تُشحن بـ**المشاعر** و**الأكل** (أكل شيء حي يمتص بعض طاقة روحه). وفي المتوسط تستعيد ما يعادل **حجر ناري واحدًا في اليوم**."
+ },
+ "c448bb3b1c77": {
+  "en": "Buhraies interface (blood-born)",
+  "t": "واجهة البورايس (المولودة من الدم)"
+ },
+ "c8606fb7f956": {
+  "en": "**Soul CREATE** — attempting to create a soul. Forbidden-level stuff. (Rumor says a famous Sanbi scientist died trying.)",
+  "t": "**سول كرييت** — محاولة خلق روح. أمر من المستوى المحظور. (تقول الشائعات إن عالمًا شهيرًا من سانبي مات وهو يحاول.)"
+ },
+ "c893de59837f": {
+  "en": "As the body rots, the link fades. A soul with no link slowly dissolves: **Soul Death** (\"detachment\"). Bigger souls with stronger memories last longer.",
+  "t": "كلما تعفّن الجسد خفت الرابط. والروح التي بلا رابط تذوب ببطء: **موت الروح** («الانفصال»). والأرواح الأكبر ذات الذكريات الأقوى تصمد أطول."
+ },
+ "cb6495a2c116": {
+  "en": "Darfaries interface (what almost everyone uses)",
+  "t": "واجهة الدارفاريس (التي يستخدمها الجميع تقريبًا)"
+ },
+ "cc7d7b4029ee": {
+  "en": "Replace your heart with a Walking Heart stone and become **undead** — see Nari Gels, Bombs & Stones.",
+  "t": "استبدل قلبك بحجر ووكينغ هارت فتصبح من **الموتى الأحياء** — انظر جل وقنابل وأحجار ناري."
+ },
+ "d8f1a9b0aa9f": {
+  "en": "A spell is two **logograms**: an **OBJECT** (what it acts on) and a **VERB** (what it does).",
+  "t": "التعويذة **رمزان كتابيان**: **مفعول به** (ما تؤثر فيه) و**فعل** (ما تفعله)."
+ },
+ "dfc961e0ebcb": {
+  "en": "Death and revival",
+  "t": "الموت والإحياء"
+ },
+ "e0514eeee5d5": {
+  "en": "An **interface** turns soul energy into an effect. Many creatures have one built into their bodies (a Bagarisa's fire tusks, a Crocus's invisibility). People use these:",
+  "t": "**الواجهة** تحوّل طاقة الروح إلى تأثير. كثير من المخلوقات لها واجهة مدمجة في أجسادها (أنياب الباغاريسا النارية، واختفاء الكروكوس). أما الناس فيستخدمون هذه:"
+ },
+ "e1958d538a66": {
+  "en": "**How to cast:** clench the hand with the logograms → five rings of white flame appear around your forearm → touch your middle and ring fingers to the palm and \"eat\" the energy (yours, a friend's, or a **nari stone stick**) → each \"bite\" pushes the spell to the next stable tier → open your hand to release it, or throw your arm for range. It kicks like a gun.",
+  "t": "**طريقة الإلقاء:** اقبض اليد التي عليها الرمزان ← تظهر خمس حلقات من لهب أبيض حول ساعدك ← المس الراحة بالإصبعين الأوسط والبنصر و«كُل» الطاقة (طاقتك، أو طاقة صديق، أو طاقة **عصا أحجار ناري**) ← كل «قضمة» تدفع التعويذة إلى المستوى المستقر التالي ← افتح يدك لإطلاقها، أو ارمِ ذراعك لتبلغ مدى أبعد. ولها ارتداد كارتداد السلاح الناري."
+ },
+ "e452339450dc": {
+  "en": "Finaies interface (primordial)",
+  "t": "واجهة الفينايس (البدائية)"
+ },
+ "e6c36ad0eacd": {
+  "en": "Your **soul** is a cloud of virtual particles that holds your consciousness, your **memories** and your **Soul Energy**. Your **genes** are the soul's memories made physical; your **body** is built from those genes. (The author's analogy: soul = database, gene = class, body = object.)",
+  "t": "**روحك** سحابة من الجسيمات الافتراضية تحمل وعيك و**ذكرياتك** و**طاقة روحك**. و**جيناتك** هي ذكريات الروح وقد صارت مادة؛ و**جسدك** مبنيّ من تلك الجينات. (تشبيه المؤلف: الروح = قاعدة بيانات، الجين = صنف، الجسد = كائن.)"
+ },
+ "ea225874e93a": {
+  "en": "Soul Energy & Interfaces",
+  "t": "طاقة الروح والواجهات"
+ },
+ "eb1eb3d84c46": {
+  "en": "**Senses and flight:** Darfaries \"veins\" (nerves) let Darfaries, Wozefaries and Sorefaries sense soul energy and weather. A white flame runs along them; a black flame works like a jetpack (feet dangling, steering with the arms). Darfaries soften falls, Wozefaries glide, Sorefaries fly.",
+  "t": "**الحواس والطيران:** «عروق» الدارفاريس (أعصابهم) تتيح للدارفاريس والووزيفاريس والسوريفاريس استشعار طاقة الروح والطقس. يسري فيها لهب أبيض؛ أما اللهب الأسود فيعمل كحقيبة نفاثة (القدمان متدليتان، والتوجيه بالذراعين). الدارفاريس يخففون السقوط، والووزيفاريس ينزلقون في الهواء، والسوريفاريس يطيرون."
+ },
+ "eb955d883656": {
+  "en": "Your **badge** shows your current SE (only to you).",
+  "t": "**بطاقتك** تعرض طاقة روحك الحالية (لك وحدك)."
+ },
+ "fe0dd2eef3ca": {
+  "en": "**Lifespan** depends on how strong and dense the connections between flesh and soul are. Aging is those connections wearing out. Regrowing a lost limb lowers the density (shortens your life), so **reattach limbs before healing**.",
+  "t": "يتوقف **العمر** على مدى قوة الروابط بين اللحم والروح وكثافتها. والشيخوخة هي اهتراء تلك الروابط. إعادة إنماء طرف مفقود تُنقص الكثافة (وتقصّر عمرك)، لذا **أعِد تثبيت الأطراف قبل العلاج**."
+ }
+}

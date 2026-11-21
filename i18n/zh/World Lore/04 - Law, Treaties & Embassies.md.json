@@ -1,0 +1,254 @@
+{
+ "05fb042e9293": {
+  "en": "**Local Warning** (1 amethyst): the quest board; announced at Monnalow. All quests are posted here.",
+  "t": "**地方警告**（1阿米西斯特）：委托板；在蒙纳洛宣读。所有委托都贴在这里。"
+ },
+ "0b5d5461839c": {
+  "en": "**Essential goods** (added 705 A.G.) are managed and subsidized by Forway.",
+  "t": "**必需品**（705 A.G.增补）由福威管理并补贴。"
+ },
+ "0e2f4800730b": {
+  "en": "**Production:** no mass production without a granted comparative advantage.",
+  "t": "**生产：** 未获授予比较优势者，不得大规模生产。"
+ },
+ "0eecbe2cdd14": {
+  "en": "**Free movement** between kingdoms and cities. **Adventuring is a Forway job**, organized through embassies as a decentralized army. *Sub-section 3:* adventurers may **not** punish anyone unless a Forway guard or kingdom representative authorizes it.",
+  "t": "王国与城市之间**自由通行**。**冒险是福威的工作**，通过大使馆组织成一支分散的军队。*第3款：* 冒险者**不得**惩罚任何人，除非得到福威卫兵或王国代表的授权。"
+ },
+ "10d783a373eb": {
+  "en": "Every evening at **Monnalow**, the local captain shouts the Forway news in the public square. Weekly printouts (*Forway News*, *Forway and You*) come out on Forrday/Freeday — mostly read in Forway and Tolerideme.",
+  "t": "每天傍晚**蒙纳洛**时，当地队长会在广场上高声宣读福威的新闻。每周的印刷品（《福威新闻》《福威与你》）在福日或弗里日出版——主要在福威和托勒里德梅有人读。"
+ },
+ "13936f87d08c": {
+  "en": "**Sundeath:** **guilty until proven innocent**; public trials and executions.",
+  "t": "**桑德斯：** **未经证实无罪前，推定有罪**；公开审判和处决。"
+ },
+ "19211b6ca5fe": {
+  "en": "**Contracts** are binding when both sides get roughly equal value, and when both **blood signatures** are present and verifiable by badge. **Slavery is banned, but selling your own freedom by contract for comparable value is legal.** Courts decide abuse. Forcibly breaking a contract is a crime — even for Forway or a king. Adventurers are exempt from contract balance during a Forway emergency.",
+  "t": "当双方得到大致相等的价值，且双方的**血签**都在场并可通过身份牌验证时，**合同**才具有约束力。**奴隶制被禁止，但以合同出卖自己的自由、换取相当的价值是合法的。** 是否滥用由法院裁定。强行撕毁合同是犯罪——福威或国王也不例外。在福威的紧急状态下，冒险者不受合同对等原则的约束。"
+ },
+ "2256adf66063": {
+  "en": "**Grand:** conspiracy against Forway or the treaty.",
+  "t": "**大罪：** 针对福威或条约的阴谋。"
+ },
+ "25e56b3a424b": {
+  "en": "A witness **checks** each duelist by smelling them and tasting the vein junction at the base of the fingers. Any mind- or body-altering effect must be declared. Fleeing or postponing = loss, punishable by death.",
+  "t": "一名证人会**检查**每位决斗者：闻他们的气味，并舔尝手指根部的血管交汇处。任何改变精神或身体的效果都必须申报。逃跑或推迟 = 判负，可处死刑。"
+ },
+ "32d88e32b640": {
+  "en": "**Blood:** major criminals become prey for the hunters.",
+  "t": "**布拉德：** 重罪犯会成为猎人的猎物。"
+ },
+ "3531d59ae97d": {
+  "en": "Every contract must list its **nullification clauses on the back**.",
+  "t": "每份合同都必须**在背面列出作废条款**。"
+ },
+ "37c7359608c8": {
+  "en": "**Annual gathering** of kings and city representatives every Paulin at the Forway Palace.",
+  "t": "每年保林月在福威宫举行国王和城市代表的**年度集会**。"
+ },
+ "3cb5c745542a": {
+  "en": "**Black wood badges** mark officials and kingdom representatives.",
+  "t": "**黑木身份牌**代表官员和王国代表。"
+ },
+ "40c17d605f4a": {
+  "en": "Contracts",
+  "t": "合同"
+ },
+ "4d2ea3ece121": {
+  "en": "**Crime** = proven physical, economic or mental harm to a citizen without consent. **Innocent until proven guilty.**",
+  "t": "**犯罪** = 未经同意，对公民造成已证实的身体、经济或精神伤害。**未经证实有罪前，推定无罪。**"
+ },
+ "50e77c7f1c85": {
+  "en": "Judged by embassy leaders, village elders, or Forway guard captains. Detention up to **6 weeks** with preliminary proof or flight risk. **Exile to Hifuna** needs four authorities to agree.",
+  "t": "由大使馆领导、村中长老或福威卫队队长审判。有初步证据或有潜逃风险时，可拘留最多**6周**。**流放希富纳**需要四方权威同意。"
+ },
+ "51d06b30dead": {
+  "en": "Official ID and proof of citizenship. **One badge per soul.** Made of greenish **soul wood**; four corner balls (pearl for citizens, or your adventurer rank's gem). Front: name, city, guild. A thermometer-like gauge shows your current **Soul Energy**, visible only to you (your blood and ground nari are sealed inside). Back: the Forway logo. Smells of burnt wood when new.",
+  "t": "官方身份证明和公民身份的凭证。**一个灵魂一块身份牌。** 用略带绿色的**灵魂木**制成；四角各有一颗球（公民是珀尔，冒险者是其等级的宝石）。正面：名字、城市、公会。一个像温度计的刻度显示你当前的**灵魂能量**，只有你自己看得见（你的血和磨碎的纳里封在里面）。背面：福威的标志。新做的身份牌有一股烧焦木头的味道。"
+ },
+ "575140d6f53e": {
+  "en": "**Flatland:** major criminals thrown into the Skin Peeler geyser.",
+  "t": "**弗拉特兰：** 重罪犯被扔进斯金皮勒间歇泉。"
+ },
+ "5bb5b04fa16c": {
+  "en": "Last one breathing wins and **must revive the loser**, who must honor the terms or be executed (the body goes to the winner).",
+  "t": "最后还在喘气的人获胜，并且**必须让输家复活**；输家必须履行条件，否则处决（尸体归胜者）。"
+ },
+ "606b103c1ce7": {
+  "en": "**Services:** badges, Winga courier, banking, loans, revival, guild registration, contracts, storage, quests, news.",
+  "t": "**服务：** 身份牌、温加快递、银行、贷款、复活、公会登记、合同、储物、委托、新闻。"
+ },
+ "60d761091e4e": {
+  "en": "**Consent** = written contract, or a verbal declaration in front of several witnesses.",
+  "t": "**同意** = 书面合同，或在数名证人面前的口头声明。"
+ },
+ "7154426fa689": {
+  "en": "Blood samples are flown to Forway's **central soul repository**, so a badge can't be duplicated and a mangled corpse can still be identified.",
+  "t": "血样会空运到福威的**中央灵魂库**，所以身份牌无法复制，血肉模糊的尸体也能辨认身份。"
+ },
+ "72ca19940638": {
+  "en": "**Emergency** (1 sapphire): invasion-level. Never used. Requires housing, feeding and arming 100 adventurers within 3 days.",
+  "t": "**紧急**（1萨菲尔）：入侵级别。从未用过。要求在3天内为100名冒险者提供住处、食物和武器。"
+ },
+ "760cd861ca65": {
+  "en": "The Prosperity Treaty (680 A.G.)",
+  "t": "繁荣条约（680 A.G.）"
+ },
+ "7f3039c816a0": {
+  "en": "Important contracts are signed at an embassy with an official witness. Kingdoms run their own contract offices too.",
+  "t": "重要的合同在大使馆由官方见证人在场签署。各王国也有自己的合同办事处。"
+ },
+ "8cd73d6c84fa": {
+  "en": "**Trade** only in balls (no barter); the Vraki calendar and units are standard.",
+  "t": "**交易**只能用球（禁止以物易物）；弗拉基历法和单位为标准。"
+ },
+ "8eb10f6c2916": {
+  "en": "Applies in every Forway territory; kings may override it inside their kingdoms.",
+  "t": "适用于所有福威领土；国王可以在自己的王国内推翻它。"
+ },
+ "92b46dc8ed8b": {
+  "en": "Anyone can pay to post:",
+  "t": "任何人都可以付费发布："
+ },
+ "a2831a44a51b": {
+  "en": "Cost: **1 amethyst**. Plenty of poor folk never get one — and without one you can't use embassy services.",
+  "t": "费用：**1阿米西斯特**。很多穷人一辈子都没办过——而没有身份牌就不能使用大使馆的服务。"
+ },
+ "a4183f85c0fa": {
+  "en": "**Captains** (always Aquamarine or Sapphire Forway officers) rule the embassy grounds — and the whole city if it's Forway-managed. Captains and generals wear the same armor as soldiers, marked only by a fancy cap.",
+  "t": "**队长**（一律是阿夸马林或萨菲尔级的福威军官）掌管大使馆的地界——如果城市由福威管理，就掌管整座城市。队长和将军穿着与士兵相同的盔甲，只靠一顶华丽的帽子来区分。"
+ },
+ "a516c6ef657c": {
+  "en": "**Minor:** restorable within 5 years of contract servitude.",
+  "t": "**轻罪：** 可在5年以内的合同劳役中偿还。"
+ },
+ "a8041b8e1c7f": {
+  "en": "Signal smoke (Forway-official colors)",
+  "t": "信号烟（福威官方颜色）"
+ },
+ "a96d08f41e2e": {
+  "en": "Law, Treaties & Embassies",
+  "t": "法律、条约与大使馆"
+ },
+ "af275cd2736b": {
+  "en": "**Gandew:** everything is settled by **duel**.",
+  "t": "**甘杜：** 一切都靠**决斗**解决。"
+ },
+ "af55a6d59306": {
+  "en": "**King-Fest:** only natural-born Darfaries; the king is healed between bouts; to take the throne you must rip out both of the dead king's tusks.",
+  "t": "**王者祭：** 只限天生的达尔法里斯；国王在两场之间会接受治疗；要夺取王位，必须拔下死去国王的两根獠牙。"
+ },
+ "b433dd6d212b": {
+  "en": "**Tastyleaf:** major criminals must go fight beasts; survive and you're absolved.",
+  "t": "**泰斯蒂利夫：** 重罪犯必须去和魔兽战斗；活下来就算赦免。"
+ },
+ "b82d5efdfe9f": {
+  "en": "Held in the Low, Medium or High Pit with **at least ten witnesses**. Both duelists state why they fight and what they win or lose. In **marriage duels**, the woman attacks first; win = lifelong bond.",
+  "t": "在低坑、中坑或高坑中进行，**至少要有十名证人**。双方都要说明为何而战、赢了得到什么、输了失去什么。**婚姻决斗**中由女方先攻；赢了 = 终身结合。"
+ },
+ "b9f39bc35fb9": {
+  "en": "**Territory:** Forway owns all land outside the kingdoms and decides what counts as a city or village. Forway cities host an embassy and follow Forway Law. Taxes: cities 20%, villages 15%, kingdoms 10%. Embassies may call adventurers in emergencies and, with permission, kingdom guards.",
+  "t": "**领土：** 王国以外的所有土地都归福威所有，什么算城市或村庄由福威决定。福威的城市设有大使馆并遵守福威法。税收：城市20%，村庄15%，王国10%。紧急时大使馆可以召集冒险者，经许可还可以调动王国卫兵。"
+ },
+ "bb1da969f521": {
+  "en": "**Red** = help · **Cyan** = conquered/complete · **Green** = safe/go ahead · **Yellow** = retreat. Misuse is punished. Bandits fake them to set traps.",
+  "t": "**红** = 求救 · **青** = 已攻克/已完成 · **绿** = 安全/前进 · **黄** = 撤退。滥用会受罚。强盗会伪造信号设下陷阱。"
+ },
+ "c2a95b39cb9e": {
+  "en": "Written by **Freeish Paulin**'s rebellion and three courtroom scientists — **Asa the Powerful** (Gandew), **Adrian from North Tolerideme** (Tolerideme) and **Bijura Moacir** (Sanbi) — after they overthrew their own kings to end the Greed Period. Based on Sanbi law.",
+  "t": "由**弗里伊什·保林**的起义军和三位宫廷科学家——**阿萨·帕瓦富尔**（甘杜）、**北托勒里德梅的阿德里安**（托勒里德梅）和**比茹拉·莫阿西尔**（桑比）——在推翻各自的国王、结束贪婪时代之后起草。以桑比法律为基础。"
+ },
+ "c642076079c7": {
+  "en": "**Floor 1:** adventurer lounge and quest boards · **3–4:** administration · **5:** open roof, mail · **6:** Winga roost.",
+  "t": "**1楼：** 冒险者休息厅和委托板 · **3–4楼：** 行政 · **5楼：** 开放屋顶、邮件 · **6楼：** 温加栖所。"
+ },
+ "c76164ba5f89": {
+  "en": "Everyone born after 671 A.G. is registered as **NAME PLACE GUILD** — e.g., *Magi Blood Blue-Flower-Red-Bone*. There are no surnames: **guilds are families**. If your guild is \"CITY-GUILD\" and you live in that city, the city is dropped (*Itagiba Sanbi Royal*). No guild? Just name and place. Sanbians can change their names whenever they like.",
+  "t": "671 A.G.以后出生的人都按**名字 地点 公会**登记——例如*玛姬·布拉德·布卢-弗劳尔-雷德-博恩*。没有姓氏：**公会就是家族**。如果你的公会是“城市-公会”且你住在那座城市，就省略城市名（*伊塔吉巴·桑比·罗亚尔*）。没有公会？那就只有名字和地点。桑比人想改名随时都能改。"
+ },
+ "cb0f07098623": {
+  "en": "Some legal oddities: the deadly Panita mushroom is legal because Forway uses it for punishment; harming a Nari Worm or its eggs can get you exiled to Hifuna; killing a Forway courier Winga is serious.",
+  "t": "一些法律怪事：致命的帕妮塔蘑菇是合法的，因为福威用它来行刑；伤害纳里虫或它的卵可能被流放到希富纳；杀死福威的信使温加是重罪。"
+ },
+ "d2900572b7fa": {
+  "en": "Forway Law",
+  "t": "福威法"
+ },
+ "d2e073c18a32": {
+  "en": "**Major:** permanent, irreplaceable, or worth more than 5 years.",
+  "t": "**重罪：** 永久性的、无法替代的，或价值超过5年的。"
+ },
+ "d95472a2a19d": {
+  "en": "Names",
+  "t": "名字"
+ },
+ "dbbc975e257c": {
+  "en": "Duelists start 10 Adi apart. The **attacker** moves and strikes with physical weapons only; the **defender** must stand still, take the hit, and may counter without moving. Roles swap every turn. No healing.",
+  "t": "决斗者相隔10阿迪开始。**攻击方**移动，只用物理武器出击；**防守方**必须站着不动挨打，可以不移动地反击。每回合角色互换。不得治疗。"
+ },
+ "df14fd20c152": {
+  "en": "**Treason** against the treaty or Forway: up to exile to **Hifuna**.",
+  "t": "背叛条约或福威的**叛国罪**：最重可流放到**希富纳**。"
+ },
+ "e3e3ef461a2b": {
+  "en": "Every kingdom and major city has a **seven-story embassy**: dark stone, accents in the four kingdoms' colors (**red, orange, blue, green**), nari-glass, a black fence and a moat. Embassy grounds are **Forway soil** even inside a kingdom. They're patrolled by **Big Wingas** (guards transformed with nari gel), and ordinary Wingas fly the mail.",
+  "t": "每个王国和主要城市都有一座**七层大使馆**：深色石材，饰有四王国的颜色（**红、橙、蓝、绿**），纳里玻璃，黑色围栏和护城河。大使馆的地界即使位于王国内部，也是**福威的领土**。由**大温加**（用纳里凝胶变身的卫兵）巡逻，普通温加负责送信。"
+ },
+ "e5ddc99aeb49": {
+  "en": "**General** (1 pearl): general board + weekly printout. Turned into a marketplace for odd items.",
+  "t": "**普通**（1珀尔）：普通告示板 + 每周印刷品。已经变成了一个卖奇怪玩意儿的市场。"
+ },
+ "e6ef331b09db": {
+  "en": "In Forway City itself: if you can pay for your crime, you walk; if not, prison.",
+  "t": "在福威城本地：付得起罪责的钱就能走人；付不起就坐牢。"
+ },
+ "e731d388e284": {
+  "en": "**Kingdom Alert** (1 aquamarine): shouted across the kingdom's cities and villages to gather every adventurer.",
+  "t": "**王国警报**（1阿夸马林）：在王国的各个城市和村庄高声传达，召集所有冒险者。"
+ },
+ "e735641cd60a": {
+  "en": "**Sanbi:** minor crimes → replace what you took; major → thrown into the sea (survive and you're absolved).",
+  "t": "**桑比：** 轻罪 → 赔偿你拿走的东西；重罪 → 被扔进海里（活下来就算赦免）。"
+ },
+ "e7f8ccc214ff": {
+  "en": "Embassies",
+  "t": "大使馆"
+ },
+ "e9a0e81f79b5": {
+  "en": "Local flavors",
+  "t": "地方特色"
+ },
+ "ea8ca2f765fc": {
+  "en": "**Ganyrami:** nobody reports anything; you sort it out yourself.",
+  "t": "**加尼拉米：** 没人会报案；你自己解决。"
+ },
+ "f24af8ab3837": {
+  "en": "Signed in **blood**, mixed with nari. To verify, press the signer's badge to the signature: the thumb spot lights up if it matches.",
+  "t": "用混了纳里的**血**签署。验证时，把签署人的身份牌按在签名上：如果吻合，拇指印的位置会发光。"
+ },
+ "f33ecf3ee200": {
+  "en": "**Tolerideme:** punished by **starvation** (longer for worse crimes).",
+  "t": "**托勒里德梅：** 用**挨饿**来惩罚（罪越重饿得越久）。"
+ },
+ "f87dc93e39f1": {
+  "en": "**Punishment matches the harm**, including sentimental value. Bodily harm can be repaid with equal bodily harm or compensation.",
+  "t": "**惩罚与伤害相当**，包括情感价值。身体伤害可以用同等的身体伤害或赔偿来偿还。"
+ },
+ "f8eed9b2d341": {
+  "en": "Gandew Duel Rights (~375 A.G.)",
+  "t": "甘杜决斗权（约375 A.G.）"
+ },
+ "fb845002c7c0": {
+  "en": "Badges",
+  "t": "身份牌"
+ },
+ "fc1316564e13": {
+  "en": "**Citizenship** is proven by a badge from an embassy. Freeish (built on old Ganyrami land) is an equal kingdom.",
+  "t": "**公民身份**由大使馆发放的身份牌证明。弗里伊什（建在古加尼拉米的土地上）是平等的王国。"
+ },
+ "fdfb91839d1a": {
+  "en": "News",
+  "t": "新闻"
+ }
+}

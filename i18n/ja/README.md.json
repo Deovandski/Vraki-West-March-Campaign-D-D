@@ -1,0 +1,290 @@
+{
+ "0112f36bf6be": {
+  "en": "[Handouts](Handouts)",
+  "t": "[配布物](Handouts)"
+ },
+ "0190b78901dd": {
+  "en": "The website: Player and DM sections, dice, calculators, the travel planner and trackers",
+  "t": "ウェブサイト：プレイヤーとDMのセクション、ダイス、計算ツール、旅のプランナーと記録"
+ },
+ "04c92d39e690": {
+  "en": "An open table! Instead of one fixed party, a pool of players schedule their own sessions, form whatever party shows up that day, and head out from a shared home base into a dangerous, persistent world. Whatever one party discovers, maps, kills, or pisses off stays that way for everyone else.",
+  "t": "開かれた卓だ！ 決まった一行の代わりに、プレイヤーの集まりが自分たちでセッションの日程を決め、その日に来た顔ぶれで一行を組み、共有の拠点から危険で持続する世界へ出ていく。ある一行が見つけたもの、地図にしたもの、倒したもの、怒らせたものは、ほかの全員にとってもそのままだ。"
+ },
+ "05697a41f6ff": {
+  "en": "LanguagePicker",
+  "t": "LanguagePicker"
+ },
+ "0716d7f32e4c": {
+  "en": "Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nDMs: start with the [DM Guide](D&D%20Campaign/README.md).",
+  "t": "プレイヤーは：[世界のあらまし](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md)と[冒険者の作り方](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md)を読もう。\nDMは：[DMガイド](D&D%20Campaign/README.md)から始めよう。"
+ },
+ "08aa70078857": {
+  "en": "[units.js](site/js/units.js), [units.css](site/css/units.css)",
+  "t": "[units.js](site/js/units.js), [units.css](site/css/units.css)"
+ },
+ "0c5d399fed82": {
+  "en": "**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.",
+  "t": "**ヴラキ**はこの世界の共通語であり、その書き文字であり、このキャンペーンの名前だ。始まりは小説より前：2017年、Deovandskiは英語を反転させ、ずらし、組み替えて、新しい言語のように読めるようにする小さなWindowsアプリを作った。そのプロジェクトが#HusbandOutWorldの文字体系になり、ここの配布物で使っているVrakiフォントになった。ブラウザで変換ツールを試し、フォントをダウンロードし、始まりの話を **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)** で読もう。"
+ },
+ "0cdd6742a8e5": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](Maps/web/west-march-map-2400.jpg)](Maps)",
+  "t": "[![ヴラキ・ウェストマーチの旅の地図：場所と場所を結ぶ道と航路に沿って色つきのサークルが描かれた世界地図](Maps/web/west-march-map-2400.jpg)](Maps)"
+ },
+ "110ec66be1d2": {
+  "en": "What's inside",
+  "t": "内容"
+ },
+ "1149c0b97c1a": {
+  "en": "What is this?",
+  "t": "これは何？"
+ },
+ "1edf385a3514": {
+  "en": "The campaign takes place **in the world** of the light novels, but it is **not tied to their story**. The famous characters exist and might show up as NPCs or rumors, but the West March has its own adventures, set by default in the 1040s A.G.",
+  "t": "キャンペーンはライトノベルの**世界が舞台**だが、**その物語には縛られない**。有名なキャラクターは存在し、NPCや噂として登場するかもしれないが、ウェストマーチには独自の冒険があり、標準では1040年代A.G.が舞台だ。"
+ },
+ "20ea0ece43c0": {
+  "en": "What is Vraki?",
+  "t": "ヴラキとは？"
+ },
+ "224f2cccc328": {
+  "en": "Printable props: quest board, wanted posters, Forway News, blood contract, badge cards, Winga mail, Castle Mood sign, revival debt certificate, shop price list, expedition reports and a player reference card",
+  "t": "印刷できる小道具：依頼掲示板、手配書、フォーウェイ・ニュース、血の契約書、身分証カード、ウィンガ便、城の機嫌の札、蘇生の借金の証書、店の価格表、遠征報告書、プレイヤー用の早見表"
+ },
+ "25c0110d6a16": {
+  "en": "Where do I start?",
+  "t": "どこから始めればいい？"
+ },
+ "2ccd08691e12": {
+  "en": "© Deovandski Skibinski Junior. *A Husband Out of This World* and *#HusbandOutWorld* are trademarks of Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the Vraki typeface and third-party files (see [LICENSE.md](LICENSE.md) for copyright, trademarks and fonts).",
+  "t": "© Deovandski Skibinski Junior。*A Husband Out of This World*と*#HusbandOutWorld*はDeovandski Skibinski Juniorの商標です。VrakiフォントとサードパーティーのファイルをのぞきCC‑BY‑NC‑SA‑4.0のもとで提供（著作権、商標、フォントについては[LICENSE.md](LICENSE.md)を参照）。"
+ },
+ "2e9aa1ffc00c": {
+  "en": "PWA helper",
+  "t": "PWAヘルパー"
+ },
+ "2fd368d85007": {
+  "en": "Are you a publisher?",
+  "t": "出版社の方？"
+ },
+ "303285f1c903": {
+  "en": "Reusable components",
+  "t": "再利用できるコンポーネント"
+ },
+ "3049af2c766e": {
+  "en": "Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).",
+  "t": "シリーズについての収益化された動画、配信、SNSの投稿は歓迎で、元データから作った配信や3Dプリントも歓迎だ：クレジットを入れてくれればいい。それ以外の商用利用は事前に承認が必要。[Permissions beyond the license](LICENSE.md#permissions-beyond-the-license)を参照。"
+ },
+ "399292953438": {
+  "en": "[D&D Campaign](D&D%20Campaign)",
+  "t": "[D&Dキャンペーン](D&D%20Campaign)"
+ },
+ "3c46db3d64a0": {
+  "en": "Travel without math",
+  "t": "計算いらずの旅"
+ },
+ "3e5affaa407b": {
+  "en": "The world, its lore, characters and the Vraki font are human-made by Deovandski Skibinski Junior, and all the art is by the series' illustrators, Mitsukiven and Feiourm; there are no AI-generated images. Much of the West March writing (the World Lore summary, most rules, new stat blocks and the handouts) and the website were made with an AI assistant from that material. The [AI Disclosure](AI-DISCLOSURE.md) lists exactly what came from where, file by file.",
+  "t": "世界、その設定、キャラクター、Vrakiフォントは、Deovandski Skibinski Juniorによる人の手の作品で、絵はすべてシリーズのイラストレーター、MitsukivenとFeiourmによるもの。AIが生成した画像はない。ウェストマーチの文章の多く（世界設定のまとめ、ほとんどのルール、新しいデータ、配布物）とウェブサイトは、その素材をもとにAIアシスタントと作った。[AIの使用についての説明](AI-DISCLOSURE.md)に、何がどこから来たのかをファイルごとに正確に載せている。"
+ },
+ "3f23f466c801": {
+  "en": "What is a West Marches campaign?",
+  "t": "ウェストマーチ形式のキャンペーンとは？"
+ },
+ "41211c3fa4c4": {
+  "en": "DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, the bandits' \"Inside Job\" offer, dangerous places, factions, stat blocks, pre-gens, DM secrets",
+  "t": "DMガイド、サークルで旅する、キャラクター作成、魂のエネルギーのルール、ナリジェル、蘇生の借金、依頼掲示板、遭遇、盗賊の「内部の手引き」の持ちかけ、危険な場所、派閥、データ、作成済みキャラクター、DMの秘密"
+ },
+ "4df7a2e30816": {
+  "en": "Files",
+  "t": "ファイル"
+ },
+ "51f0f55d762f": {
+  "en": "What it is",
+  "t": "何か"
+ },
+ "553e1288d5d7": {
+  "en": "Vraki West March Campaign D&D",
+  "t": "ヴラキ・ウェストマーチ D&Dキャンペーン"
+ },
+ "5595e0b4daa9": {
+  "en": "Go for it! If you host a game, let us know! Love to see pics!",
+  "t": "どうぞ！ ゲームを開いたら教えてほしい！ 写真は大歓迎！"
+ },
+ "5c155fa3d212": {
+  "en": "SPOILER WARNING!",
+  "t": "ネタバレ注意！"
+ },
+ "5c692fa7cfb4": {
+  "en": "The whole site (save menu, handouts, travel map)",
+  "t": "サイト全体（保存メニュー、配布物、旅の地図）"
+ },
+ "5d0f2d28ff65": {
+  "en": "MapViewer",
+  "t": "MapViewer"
+ },
+ "61d63b63c205": {
+  "en": "No distances, no Egua speeds, no load percentages. The [travel map](Maps) has circles drawn along the roads and sea lanes connecting places; **each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make a journey shorter or longer. Forway to Sanbi is 6 circles (6, 12 or 18 days), Forway to Flatland 7, Sanbi to Endlessfog 13 by sea, and Gandew to Sundeath 19 across the desert. The [Maps page](Maps#route-lengths) lists every route.",
+  "t": "距離もエグアの速さも積載率もなし。[旅の地図](Maps)には、場所と場所を結ぶ道と航路に沿ってサークルが描かれている。**1サークルは旅の1日、2日、または3日を表し — どれにするかはDMが選び**、旅を短くも長くもする。フォーウェイからサンビまでは6サークル（6日、12日、18日）、フォーウェイからフラットランドまでは7、サンビからエンドレスフォグまでは海路で13、ガンデューからサンデスまでは砂漠越えで19。[地図のページ](Maps#route-lengths)にすべてのルートが載っている。"
+ },
+ "6243e12dcf21": {
+  "en": "Used on",
+  "t": "使われている場所"
+ },
+ "65130f580db8": {
+  "en": "Are you an artist, illustrator, etc?",
+  "t": "アーティストやイラストレーターの方？"
+ },
+ "6a00c4549f0b": {
+  "en": "This repo is a West Marches style D&D 5e campaign set in the world of the #HusbandOutWorld series. The World Lore summary and the DM files reveal secrets of the world, including some from unreleased story notes.",
+  "t": "このリポジトリは、#HusbandOutWorldシリーズの世界を舞台にした、ウェストマーチ形式のD&D第5版キャンペーンだ。世界設定のまとめとDM用のファイルには、未発表の物語メモからのものも含め、世界の秘密が書かれている。"
+ },
+ "6b683f423188": {
+  "en": "Create an issue or feel free to send a PR!",
+  "t": "issueを作るか、気軽にPRを送ってほしい！"
+ },
+ "71df4c634c8d": {
+  "en": "A list of languages to choose from, each written in its own language and script (with `lang` and `dir` set), plus how complete each translation is. Arrow keys move between them. Saves the choice and reloads, or hands it to your own code through a `langpick` event. Set up from data attributes; no libraries. Written after the language menu in HusbandOutWorld's settings.",
+  "t": "選べる言語の一覧。それぞれがその言語自身の言葉と文字で書かれ（`lang`と`dir`付き）、各翻訳がどこまでできているかも表示する。矢印キーで移動できる。選んだ言語を保存して再読み込みするか、`langpick`イベントで自分のコードに渡す。データ属性で設定する。ライブラリ不要。HusbandOutWorldの設定にある言語メニューをもとに作った。"
+ },
+ "7253091964c0": {
+  "en": "The Four Kingdoms were practically built for it: Forway's embassies already run a quest board, a ranking system from Pearl to Sapphire, revival services (for a fee, of course), and a decentralized army of adventurers deep in debt. Pick up a quest, sign the contract in blood, and try not to come back as Walking Flesh.",
+  "t": "四王国はほとんどそのためにできているようなものだ：フォーウェイの大使館にはすでに依頼掲示板があり、パールからサファイアまでの階級制度があり、蘇生サービス（もちろん有料）があり、借金まみれの冒険者という分散した軍隊がいる。依頼を取り、血で契約書に署名し、ウォーキング・フレッシュになって帰ってこないようにしよう。"
+ },
+ "763a23d69043": {
+  "en": "Units",
+  "t": "Units"
+ },
+ "773391089b63": {
+  "en": "Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a \"how far is it?\" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).",
+  "t": "**[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)** で、すべてを読み、卓で使うツールを使える。プレイヤー用とDM用のセクション、ルールと設定の検索、ダイストレイ、計算ツール、拡大できる旅の地図と「どのくらい遠い？」ルート検索、サークルを数えて旅をサークルごと・時間帯ごとに並べてくれる旅のプランナー（イベント、戦闘、HP付き）、パーティーとキャンペーンの記録、ダウンロードして読み込み直せるセーブファイルがある。スマホにアプリとしてインストールでき、卓ではオフラインでも動く。[ウェブサイトのしくみ](site/README.md)。"
+ },
+ "77920fb913b0": {
+  "en": "[Maps](Maps)",
+  "t": "[地図](Maps)"
+ },
+ "7dec5ba6230f": {
+  "en": "PhotoViewer",
+  "t": "PhotoViewer"
+ },
+ "80b07d3b198f": {
+  "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
+  "t": "完結した、これだけで遊べるキャンペーン：世界設定のまとめ、誰でも参加できる卓でウェストマーチを回すためのルール、旅の地図、依頼、遭遇、データ、作成済みの冒険者。遊ぶのに#HusbandOutWorldの本体リポジトリのものは何もいらない。"
+ },
+ "950f7ced1047": {
+  "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
+  "t": "上のバーの設定（⚙）、すべてのページとツール、翻訳版の配布資料"
+ },
+ "9570499669fd": {
+  "en": "Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!",
+  "t": "ご自由に見ていってほしい。質問があれば知らせてほしい。コラボやクロスポストも歓迎だ！"
+ },
+ "973414ba2732": {
+  "en": "Makes a site an installable app that works offline: registers the service worker and runs an \"Install as an app\" button, the iPhone \"Add to Home Screen\" hint, an offline status line and \"save these files for offline\" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski).",
+  "t": "サイトを、オフラインでも動くインストール可能なアプリにする：サービスワーカーを登録し、「アプリとしてインストール」ボタン、iPhoneの「ホーム画面に追加」の案内、オフライン状態の表示、「これらのファイルをオフライン用に保存」ボタンを動かす。データ属性で設定する。[sw.js](sw.js)のようなサービスワーカーと組み合わせて使う（Deovandski/Deovandskiから流用）。"
+ },
+ "a0ae90bcaaa5": {
+  "en": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)",
+  "t": "[pwa.js](site/js/pwa.js)、[sw.js](sw.js)、[manifest](site/manifest.webmanifest)"
+ },
+ "a2529d5bbddf": {
+  "en": "[lang-picker.js](site/js/lang-picker.js), [lang-picker.css](site/css/lang-picker.css)",
+  "t": "[lang-picker.js](site/js/lang-picker.js)、[lang-picker.css](site/css/lang-picker.css)"
+ },
+ "a2e834c3246b": {
+  "en": "Are you a D&D DM and want to run this campaign?",
+  "t": "D&DのDMで、このキャンペーンを回してみたい？"
+ },
+ "aabdd3471942": {
+  "en": "Settings (⚙) in the top bar",
+  "t": "上のバーの設定（⚙）"
+ },
+ "ac1b79b79ee4": {
+  "en": "The West March travel map (circles along the roads and sea lanes), how many circles every route takes, and links to the world maps",
+  "t": "ウェストマーチの旅の地図（道と航路に沿ったサークル）、各ルートのサークルの数、世界地図へのリンク"
+ },
+ "aff8b55f5ee0": {
+  "en": "Folder",
+  "t": "フォルダー"
+ },
+ "b27442511a10": {
+  "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
+  "t": "距離をフィートとマイル、またはメートルとキロメートルで表示する（`30 ft` → `9 m`、`1 mile` → `1.5 km`、D&Dのメートル法の換算）。英語、スペイン語、ポルトガル語、日本語、中国語、韓国語、アラビア語の文章に対応し、切り替え用のピッカーも付く。ページの一部と、あとから追加された内容も変換し、元に戻すと元の文章が戻る。データ属性で設定し、ライブラリは使わない。"
+ },
+ "bbfcf52145f8": {
+  "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",
+  "t": "[map-viewer.js](site/js/map-viewer.js)、[map-viewer.css](site/css/map-viewer.css)"
+ },
+ "beab13b7fe02": {
+  "en": "The whole site",
+  "t": "サイト全体"
+ },
+ "bf6840167bfd": {
+  "en": "Travel map page, the Maps page",
+  "t": "旅の地図のページ、地図のページ"
+ },
+ "c1cde754c253": {
+  "en": "Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals",
+  "t": "世界のまとめ：暦、お金、法律、種族、王国、都市、派閥、魂のエネルギー、ナリジェル、魔獣、歴史、有名人、食べ物と祭り"
+ },
+ "cc5640254b75": {
+  "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",
+  "t": "一枚の大きな絵のための拡大・移動ビューア：ドラッグ、ピンチ、Ctrl＋スクロール、キーボード、全画面、そして拡大すると読み込まれる鮮明な版。データ属性で設定する。ライブラリ不要。"
+ },
+ "d181774a8c61": {
+  "en": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), the `<dialog id=\"photo-viewer\">` in [index.html](index.html)",
+  "t": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), [index.html](index.html) の `<dialog id=\"photo-viewer\">`"
+ },
+ "d7cd62355106": {
+  "en": "The site also comes in 中文, 日本語, Português, Español, العربية and 한국어: pick one under Settings (⚙) in the top bar. These are AI translations of the English, made ahead of time; English stays the original. [How the translations work](i18n/README.md).",
+  "t": "サイトは中文、日本語、Português、Español、العربية、한국어でも読める：上のバーの設定（⚙）から選ぼう。これは英語をAIで前もって翻訳したもので、原文はあくまで英語だ。[翻訳のしくみ](i18n/README.md)。"
+ },
+ "e0c47275e609": {
+  "en": "[site](site)",
+  "t": "[site](site)"
+ },
+ "e254d556a300": {
+  "en": "Every picture opens bigger when pressed (handouts, the reference card, pictures in pages), with its caption and its date when there is one; ‹ › between pictures. Keeps working as pages are drawn. Ported from Deovandski/Deovandski by way of HusbandOutWorld.",
+  "t": "どの画像も押すと大きく開く（配布物、早見表、ページ内の画像）。キャプションと、わかる場合は日付も表示し、‹ › で画像を切り替えられる。ページが描き直されても動き続ける。Deovandski/Deovandski から HusbandOutWorld を経て移植。"
+ },
+ "e31a355d960b": {
+  "en": "Spot something wrong, or want to make a change?",
+  "t": "間違いを見つけた？ 何か変えたい？"
+ },
+ "e8443b75865e": {
+  "en": "Component",
+  "t": "コンポーネント"
+ },
+ "ee3d2570ab0b": {
+  "en": "Use it as a website",
+  "t": "ウェブサイトとして使う"
+ },
+ "f138884c20e3": {
+  "en": "[World Lore](World%20Lore)",
+  "t": "[世界設定](World%20Lore)"
+ },
+ "f173e4db6d27": {
+  "en": "Read the light novel and explore the lore at **[HusbandOutWorld.com](https://www.husbandoutworld.com)**. It starts with fewer spoilers, and a Behind The Scenes switch adds the author's full notes.",
+  "t": "ライトノベルを読み、設定を探検するなら **[HusbandOutWorld.com](https://www.husbandoutworld.com)** へ。最初はネタバレ少なめで、Behind The Scenesのスイッチを入れると作者のメモがすべて加わる。"
+ },
+ "f34742d2cac0": {
+  "en": "Want to learn more about the series?",
+  "t": "シリーズについてもっと知りたい？"
+ },
+ "f45e889dd1bb": {
+  "en": "Pieces of the website built to be reused here or in other projects (see [CLAUDE.md](CLAUDE.md)):",
+  "t": "ここやほかのプロジェクトで再利用できるように作ったウェブサイトの部品（[CLAUDE.md](CLAUDE.md)を参照）："
+ },
+ "f4ac64dae85a": {
+  "en": "What's AI-assisted here?",
+  "t": "AIの手が入っているのはどこ？"
+ },
+ "f8b3f111065d": {
+  "en": "Want to reach out to the author? We’re open to a copyright/trademark transfer for an Omnibus vol or other publishing ideas, including a new version through a ghostwriter. Reach out on [LinkedIn](https://www.linkedin.com/in/deovandski/) or email [Deovandski@outlook.com](mailto:Deovandski@outlook.com) for more info!",
+  "t": "作者に連絡したい？ 合本版などの出版企画、ゴーストライターによる新しい版も含め、著作権・商標の譲渡に前向きだ。詳しくは[LinkedIn](https://www.linkedin.com/in/deovandski/)か、メール[Deovandski@outlook.com](mailto:Deovandski@outlook.com)で連絡してほしい！"
+ },
+ "fea886aea96d": {
+  "en": "The originals (the novels, the full raw World Lore, every illustration, the spreadsheets and fonts) live in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy).",
+  "t": "原本（小説、編集前の世界設定のすべて、全イラスト、表計算シート、フォント）は本体リポジトリの[Legacyフォルダー](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy)にある。"
+ }
+}

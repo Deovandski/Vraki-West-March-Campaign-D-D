@@ -1,0 +1,226 @@
+{
+ "0384b5035d96": {
+  "en": "Pace knob, daily shifts, watches, food, getting lost",
+  "t": "ペースのつまみ、1日の時間帯、見張り、食料、道に迷う"
+ },
+ "0580282bff4d": {
+  "en": "[Travel by Circles](01%20-%20Travel%20by%20Circles.md)",
+  "t": "[サークルで旅する](01%20-%20Travel%20by%20Circles.md)"
+ },
+ "06174dc8d93f": {
+  "en": "The original one-shot, updated for circle travel",
+  "t": "サークルでの旅に合わせて更新した、元の単発シナリオ"
+ },
+ "09e9cf74d4fb": {
+  "en": "[Alpha One-Shot: Wagon Escort](Alpha%20One-Shot%20-%20Wagon%20Escort.md)",
+  "t": "[アルファ版の単発シナリオ：荷馬車の護衛](Alpha%20One-Shot%20-%20Wagon%20Escort.md)"
+ },
+ "110ec66be1d2": {
+  "en": "What's inside",
+  "t": "内容"
+ },
+ "20dbadb44b5d": {
+  "en": "Event rolls per shift, regional encounter tables",
+  "t": "時間帯ごとのイベント・ロール、地域別の遭遇表"
+ },
+ "22c41f087f9d": {
+  "en": "Fauna and beast stat blocks gained regions, a few fixes (\"Monica\" → Monika), and new entries (Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies, Hash template), plus guards and bandits.",
+  "t": "動物と魔獣のデータには地域が加わり、いくつか修正し（「Monica」→ モニカ）、新しい項目（シェイプシフター、トランクピープル、ナリワーム、フリンガ、ブルントス、ホワイトラウンディーズ、ハッシュのテンプレート）と、衛兵と盗賊も追加した。"
+ },
+ "243b22d2db0d": {
+  "en": "The pitch for players",
+  "t": "プレイヤーへの売り文句"
+ },
+ "33781944b6d4": {
+  "en": "The campaign **takes place in the world of the light novels but doesn't follow their story**. Canon characters are NPCs and rumors at most. By default it's the **1040s A.G.** — the DM decides the exact year and who's alive.",
+  "t": "このキャンペーンは**ライトノベルの世界が舞台だが、その物語はなぞらない**。原作のキャラクターは、せいぜいNPCか噂として登場するだけだ。標準の時代は**1040年代A.G.** — 正確な年と誰が生きているかはDMが決める。"
+ },
+ "352ec54aed90": {
+  "en": "Quest rules, rewards, deadlines, sample quests by rank",
+  "t": "依頼のルール、報酬、期限、階級別の依頼の例"
+ },
+ "3926f4b6ad32": {
+  "en": "Beasts, fauna, people (guards, bandits)",
+  "t": "魔獣、動物、人々（衛兵、盗賊）"
+ },
+ "3a372342ece1": {
+  "en": "[Factions & Reputation](09%20-%20Factions%20&%20Reputation.md)",
+  "t": "[派閥と評判](09%20-%20Factions%20&%20Reputation.md)"
+ },
+ "45f90c1109d3": {
+  "en": "Combat uses normal **initiative** (the Alpha text said turns go by AC).",
+  "t": "戦闘は通常の**イニシアチブ**を使う（アルファ版の本文では、手番はACの順だった）。"
+ },
+ "46f8b5ebc00a": {
+  "en": "You're a badge-carrying **Pearl adventurer** working out of a Forway **embassy**. Grab a quest off the board, sign the contract in blood, gather whoever's free tonight, and head out into a world full of walking killer trees, moody undead castles, bandits, bureaucracy and food. Climb from **Pearl to Sapphire**. Try not to die — and if you do, hope someone drags your body back before your soul dissolves, because Forway *will* revive you... and take half your pay until the debt is paid.",
+  "t": "あなたは身分証を持つ**パールの冒険者**で、フォーウェイの**大使館**を拠点に働いている。掲示板から依頼を取り、血で契約書に署名し、今夜空いている仲間を集めて、歩く殺人樹、気分屋のアンデッドの城、盗賊、お役所仕事、そして食べ物であふれた世界へ出ていこう。**パールからサファイア**へと昇りつめろ。死なないように — もし死んだら、魂が溶けてなくなる前に誰かが体を引きずって帰ってくれることを祈ろう。フォーウェイは*必ず*あなたを蘇生させる…そして借金を返し終えるまで、報酬の半分を持っていく。"
+ },
+ "4c2e994f56ec": {
+  "en": "How a West March runs",
+  "t": "ウェストマーチの進め方"
+ },
+ "4df7a2e30816": {
+  "en": "Files",
+  "t": "ファイル"
+ },
+ "5aec0323882b": {
+  "en": "**One shared world.** Whatever a party kills, maps, angers or befriends stays that way for everyone. Keep a shared **session log** and mark traveled and explored circles on a shared copy of the **travel map**.",
+  "t": "**一つの共有された世界。** ある一行が倒したもの、地図にしたもの、怒らせたもの、仲良くなったものは、皆にとってそのままだ。共有の**セッション記録**をつけ、共有の**旅の地図**の写しに、通ったサークルと探検したサークルを記しておこう。"
+ },
+ "5e443f1e5a75": {
+  "en": "Pre-gens cleaned up: **Hiromi** is now a Darfaries brawler (matching the lore), and his old interrogator kit moved to a new pre-gen, **Takeo**. Every sheet lists its people, interface and Soul Points.",
+  "t": "作成済みキャラクターを整理した：**ヒロミ**は（設定に合わせて）ダルファリエスの喧嘩屋になり、以前の尋問道具一式は新しい作成済みキャラクター**タケオ**に移した。どのシートにも種族、インターフェース、ソウルポイントが載っている。"
+ },
+ "62a5f798d571": {
+  "en": "Vraki West March — DM Guide",
+  "t": "ヴラキ・ウェストマーチ — DMガイド"
+ },
+ "69a25b5f9d3b": {
+  "en": "A **West Marches** style D&D 5e campaign set in the world of #HusbandOutWorld. It grew out of the original Alpha wagon-escort one-shot (now kept here as the [Alpha One-Shot](Alpha%20One-Shot%20-%20Wagon%20Escort.md)), expanded into an open table.",
+  "t": "#HusbandOutWorldの世界を舞台にした、**ウェストマーチ**形式のD&D第5版キャンペーン。もとはアルファ版の荷馬車護衛の単発シナリオ（ここに[アルファ版の単発シナリオ](Alpha%20One-Shot%20-%20Wagon%20Escort.md)として残してある）から生まれ、誰でも参加できる卓へと広がった。"
+ },
+ "69febbdba6cc": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md)",
+  "t": "[イベントと遭遇](07%20-%20Events%20&%20Encounters.md)"
+ },
+ "6d75e12ab6ce": {
+  "en": "[DM Secrets](DM%20Secrets.md)",
+  "t": "[DMの秘密](DM%20Secrets.md)"
+ },
+ "70479df111d7": {
+  "en": "Reputation track and what factions want",
+  "t": "評判の記録と、派閥が望むもの"
+ },
+ "76b0d5ff20bd": {
+  "en": "[Quest Board](06%20-%20Quest%20Board.md)",
+  "t": "[依頼掲示板](06%20-%20Quest%20Board.md)"
+ },
+ "78916cae64ba": {
+  "en": "Soul Points, nari stones, sigil rings, casting, miscasts",
+  "t": "ソウルポイント、ナリストーン、シジルリング、唱え方、失敗"
+ },
+ "7ad96484b6f8": {
+  "en": "Travel uses **circles and a pace knob** instead of distances, Egua speeds and load math.",
+  "t": "旅は、距離、エグアの速さ、積載の計算ではなく、**サークルとペースのつまみ**を使う。"
+ },
+ "8801751c0222": {
+  "en": "Random escort event: bandits offer a cut to help rob the wagon; Deal roll, Heat, patrols, debrief and punishment",
+  "t": "護衛中のランダム・イベント：荷馬車を襲う手助けをすれば分け前をやると盗賊が持ちかける。取引ロール、警戒度、巡回、報告、刑罰"
+ },
+ "8b69dc373c04": {
+  "en": "The wagon escort is now **one quest type** (Cargo Protection) among many; the four daily **shifts** are kept.",
+  "t": "荷馬車の護衛は今では数ある中の**依頼の一種**（積み荷の護衛）になった。1日の四つの**時間帯**はそのまま残した。"
+ },
+ "8ea9379ca099": {
+  "en": "Bahyum's Castle Mood, Hifuna exposure, desert, caverns, swamps",
+  "t": "バヒュム城の機嫌、ヒフナでの被曝、砂漠、洞窟、沼地"
+ },
+ "916411d820c2": {
+  "en": "No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) has circles drawn along the routes connecting places. **Count the circles to the destination. Each circle represents 1, 2 or 3 days — the DM chooses** (Fast, Standard, Slow) to make the journey shorter or longer. Forway to Sanbi is 6 circles, so 6, 12 or 18 days. Every route's length is in the [Maps](../Maps) table, and the website's travel planner counts them for you. Details in [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "キロメートルも、エグアの速さも、積載率もなし。[旅の地図](../Maps)には、場所と場所を結ぶルートに沿ってサークルが描かれている。**目的地までのサークルを数える。1サークルは1日、2日、または3日を表し — どれにするかはDMが選ぶ**（速い、普通、遅い）ことで、旅を短くも長くもできる。フォーウェイからサンビまでは6サークルなので、6日、12日、18日のいずれか。すべてのルートの長さは[地図](../Maps)の表にあり、サイトの旅のプランナーが数えてくれる。詳しくは[サークルで旅する](01%20-%20Travel%20by%20Circles.md)を参照。"
+ },
+ "9536be9abe2f": {
+  "en": "Pre-generated level 3 adventurers",
+  "t": "作成済みのレベル3の冒険者"
+ },
+ "99f71fd1e62e": {
+  "en": "Added rules for soul energy, sigil rings, nari gels, revival debt, ranks, quests, events, factions and dangerous places.",
+  "t": "魂のエネルギー、シジルリング、ナリジェル、蘇生の借金、階級、依頼、イベント、派閥、危険な場所のルールを追加した。"
+ },
+ "9f24b4a15ad7": {
+  "en": "[Stat Blocks](Stat%20Blocks)",
+  "t": "[データ](Stat%20Blocks)"
+ },
+ "a1a1dd91c6bf": {
+  "en": "[Soul Energy, Interfaces & Sigil Rings](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)",
+  "t": "[魂のエネルギー、インターフェース、シジルリング](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)"
+ },
+ "a34c7942af55": {
+  "en": "**Players drive.** Before a session, the players pick a **quest** from the board (or a rumor, a ruin, a spot on the map they want to explore) and tell the DM. The DM preps that.",
+  "t": "**プレイヤーが舵を取る。** セッションの前に、プレイヤーは掲示板から**依頼**を選び（あるいは探検したい噂、遺跡、地図上の地点を選び）、DMに伝える。DMはそれを準備する。"
+ },
+ "a5cedcb9f15a": {
+  "en": "[Handouts](../Handouts)",
+  "t": "[配布物](../Handouts)"
+ },
+ "aa7cfe4138eb": {
+  "en": "**Start and end at an embassy.** Every session starts at an embassy city (the hub is **Forway**) and should end with the party back at any embassy, or at least in a safe town. If they're still out in the wild when the session ends, the **quest deadline** keeps ticking (see [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)).",
+  "t": "**大使館で始まり、大使館で終わる。** どのセッションも大使館のある都市（拠点は**フォーウェイ**）から始まり、一行がどこかの大使館か、少なくとも安全な町に戻って終わるのが望ましい。セッションの終わりにまだ荒野にいたら、**依頼の期限**は進み続ける（[死、蘇生、借金](05%20-%20Death,%20Revival%20&%20Debt.md)を参照）。"
+ },
+ "b04c10cf8c50": {
+  "en": "[Dangerous Places](08%20-%20Dangerous%20Places.md)",
+  "t": "[危険な場所](08%20-%20Dangerous%20Places.md)"
+ },
+ "b453f5e0c2fb": {
+  "en": "The big simplification: travel by circles",
+  "t": "大きな簡略化：サークルで旅する"
+ },
+ "b9f21f338f90": {
+  "en": "Whatever makes the game more fun — do it. Turn the circle knob, ignore a rule, invent a village. If you have a proposal, send a PR. If you run a game, tell us — we love pics!",
+  "t": "ゲームが楽しくなるなら — やってしまおう。サークルのつまみを回し、ルールを無視し、村をでっちあげよう。提案があればPRを送ってほしい。ゲームを遊んだら教えてほしい — 写真は大歓迎だ！"
+ },
+ "bbfb401f87c2": {
+  "en": "Printable props and forms: quest board, contracts, badges, wanted posters, expedition reports",
+  "t": "印刷できる小道具と書式：依頼掲示板、契約書、身分証、手配書、遠征報告書"
+ },
+ "c130393d4cc1": {
+  "en": "Gels as consumables, bombs, black honey, equipment and prices",
+  "t": "消耗品としてのジェル、爆弾、黒い蜜、装備と値段"
+ },
+ "c13eb9d63982": {
+  "en": "**Open table.** There's a pool of players, not a fixed party. Anyone can propose a session; whoever signs up that day is the party (3–6 is ideal).",
+  "t": "**開かれた卓。** 決まった一行ではなく、プレイヤーの集まりがある。誰でもセッションを提案でき、その日に参加を申し込んだ人がその回の一行になる（3–6人が理想）。"
+ },
+ "c9994e173436": {
+  "en": "**Rewards come from the world**: quest pay, loot, bounties, promotions, guild connections, gossip worth money.",
+  "t": "**報酬は世界から得られる**：依頼の報酬、戦利品、賞金、昇格、ギルドとのつながり、金になる噂話。"
+ },
+ "d212f917b48f": {
+  "en": "For DMs",
+  "t": "DMの皆さんへ"
+ },
+ "d42b176763a1": {
+  "en": "Changes from the original Alpha campaign",
+  "t": "元のアルファ版キャンペーンからの変更点"
+ },
+ "dab20dbd2b99": {
+  "en": "Spoilers and hidden truths. **Players, stay out.**",
+  "t": "ネタバレと隠された真実。**プレイヤーは見ないこと。**"
+ },
+ "db66b7db2fe2": {
+  "en": "[Adventurers](Adventurers)",
+  "t": "[冒険者](Adventurers)"
+ },
+ "dd623f4fc593": {
+  "en": "[Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)",
+  "t": "[死、蘇生、借金](05%20-%20Death,%20Revival%20&%20Debt.md)"
+ },
+ "e1a61ee313d9": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)",
+  "t": "[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)"
+ },
+ "e5702a42d098": {
+  "en": "File",
+  "t": "ファイル"
+ },
+ "e9ff88f5350c": {
+  "en": "**Time is real-ish.** Track the in-world date. Two parties can't be in two places at the same in-world time; if timelines collide, the DM sorts it out generously.",
+  "t": "**時間はほぼ現実どおり。** 作中の日付を記録する。二つの一行が作中の同じ時刻に二つの場所にいることはできない。時系列がぶつかったら、DMが寛大に調整する。"
+ },
+ "eca9b63aadf9": {
+  "en": "Peoples, classes, backgrounds, ranks, money, starting debt",
+  "t": "種族、クラス、背景、階級、お金、初期の借金"
+ },
+ "f7a2635afc51": {
+  "en": "[Nari Gels & Gear](04%20-%20Nari%20Gels%20&%20Gear.md)",
+  "t": "[ナリジェルと装備](04%20-%20Nari%20Gels%20&%20Gear.md)"
+ },
+ "fdc611e0f315": {
+  "en": "[Making an Adventurer](02%20-%20Making%20an%20Adventurer.md)",
+  "t": "[冒険者の作り方](02%20-%20Making%20an%20Adventurer.md)"
+ },
+ "fe54b5ff24ef": {
+  "en": "Revival window, embassy revival, revival debt, search parties",
+  "t": "蘇生の猶予、大使館での蘇生、蘇生の借金、捜索隊"
+ }
+}

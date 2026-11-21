@@ -1,0 +1,326 @@
+{
+ "019d6459a784": {
+  "en": "**`llms.txt`** ([format](https://llmstxt.org/)): a short summary of the campaign, then every page grouped as in the side menu (Start here, Player rules, Adventurers, World lore, Maps & handouts), each linked to its raw `.md` file with a one-line description. The DM pages come last, in their own **DM only (spoilers)** sections.",
+  "t": "**`llms.txt`**([형식](https://llmstxt.org/)): 캠페인의 짧은 요약, 그다음 사이드 메뉴처럼 묶은 모든 페이지(Start here, Player rules, Adventurers, World lore, Maps & handouts). 각각 원본 `.md` 파일 링크와 한 줄 설명이 붙어 있다. DM 페이지는 맨 끝, 별도의 **DM only (spoilers)** 섹션에 있다."
+ },
+ "01babe2dbeea": {
+  "en": "`site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)",
+  "t": "`site/js/` — `parse.js`(Markdown을 데이터로 읽음), `core.js`(주사위와 저장), `content.js`(페이지 목록과 불러오기), `app.js`(메뉴, 페이지, 검색, 주사위 쟁반), `tools.js`(계산기, 모험가 카드, 배포물), `travel.js`(여행 계획), `dm.js`(파티, 캠페인, 몬스터 도감, 무작위 표), `start.js`(플레이어 입문과 DM 입문), `map.js`(여행 지도 페이지와 경로 길이), `map-viewer.js`(확대·이동 지도 뷰어, 자체 `site/css/map-viewer.css`를 가진 재사용 컴포넌트)"
+ },
+ "038933819340": {
+  "en": "Publishing",
+  "t": "배포"
+ },
+ "092def80d401": {
+  "en": "`site/js/pwa.js` — registers the service worker and runs the install button, the iPhone hint, the offline status and the \"save for offline\" buttons (a reusable component)",
+  "t": "`site/js/pwa.js` — 서비스 워커를 등록하고 설치 버튼, 아이폰 안내, 오프라인 상태, ‘오프라인용으로 저장’ 버튼을 돌린다(재사용 컴포넌트)"
+ },
+ "0b31c4c1a5e8": {
+  "en": "**`sitemap.xml`**: the home page, the two files above and every page, for search engines.",
+  "t": "**`sitemap.xml`**: 검색 엔진을 위한 첫 페이지, 위의 두 파일, 그리고 모든 페이지."
+ },
+ "0bc07fbce4b8": {
+  "en": "Then open http://localhost:8000. (If you do open `index.html` directly, the site falls back to the copy of the pages bundled in `site/snapshot.js`, which may be older.)",
+  "t": "그다음 http://localhost:8000 을 연다. (`index.html`을 바로 열면, 사이트는 `site/snapshot.js`에 묶인 페이지 사본을 쓰는데, 그건 더 오래된 것일 수 있다.)"
+ },
+ "0c44c8518ab6": {
+  "en": "On the way it writes the translations the site loads (`node tools/i18n.js build`, into `site/i18n/`) and renders the handouts in each language (`Handouts/<lang>/`). If the handouts can't be rendered, the site still deploys with the English ones. The step summary of each run, and of the **Translations** workflow on every pull request, says how much of each language is translated; neither ever fails because of a missing translation.",
+  "t": "그 과정에서 사이트가 불러올 번역을 써내고(`node tools/i18n.js build`, `site/i18n/`으로), 언어마다 배포물을 렌더링한다(`Handouts/<lang>/`). 배포물을 렌더링하지 못해도 사이트는 영어 배포물로 배포된다. 각 실행의 단계 요약과, 풀 리퀘스트마다 도는 **Translations** 워크플로의 요약에 언어별 번역 정도가 나온다. 둘 다 번역이 빠졌다고 실패하지는 않는다."
+ },
+ "0ccbc3d63f1c": {
+  "en": "The website",
+  "t": "웹사이트"
+ },
+ "20ff53c34759": {
+  "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
+  "t": "이 저장소는 GitHub Pages의 웹사이트이기도 하다: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
+ },
+ "2265ecd0ca4b": {
+  "en": "**Travel map:** the West March map with zoom and pan (drag, pinch, Ctrl + scroll, keyboard, full screen), a \"how far is it?\" finder that adds up the circles between any two places, and the table of every route. In DM mode, **Plan this trip** opens it in the travel planner.",
+  "t": "**여행 지도:** 확대·이동되는 웨스트 마치 지도(드래그, 핀치, Ctrl + 스크롤, 키보드, 전체 화면), 아무 두 곳 사이의 서클을 더해 주는 ‘얼마나 먼가요?’ 찾기, 그리고 모든 경로의 표. DM 모드에서는 **이 여행을 여행 계획에서 짜기**로 그 경로를 여행 계획에서 연다."
+ },
+ "239d23dc7c58": {
+  "en": "**Campaign.** The in-world date, Bahyum's Castle Mood (with the daily roll), the Inside Job Heat, faction reputation and a session log.",
+  "t": "**캠페인.** 세계 속 날짜, 바혐 성의 기분(매일 굴림 포함), 내부자 작업의 경계도, 파벌 평판, 세션 기록."
+ },
+ "2bb1456e6486": {
+  "en": "The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`.",
+  "t": "배포 워크플로가 push할 때마다 한다. 저장소 안의 사본도 새로 고치려면 `node site/build-snapshot.js`를 실행한다."
+ },
+ "2cfb6fdc3ce6": {
+  "en": "**Player 101 and DM 101:** pick Player or DM on the start page and a short step-by-step guide shows what you need to do to get ready, with links to the pages and tools for each step. Progress saves, so coming back opens the next step.",
+  "t": "**플레이어 입문과 DM 입문:** 시작 페이지에서 플레이어나 DM을 고르면, 준비하려면 무엇을 해야 하는지 짧은 단계별 안내가 나오고, 단계마다 관련 페이지와 도구 링크가 있다. 진행 상황이 저장되므로 다시 오면 다음 단계가 열린다."
+ },
+ "348caab604d6": {
+  "en": "**Arabic** reads right to left: the whole layout flips, while dice, numbers and the map don't. Chinese, Japanese, Korean and Arabic use system fonts made for their scripts.",
+  "t": "**아랍어**는 오른쪽에서 왼쪽으로 읽는다: 레이아웃 전체가 뒤집히지만, 주사위, 숫자, 지도는 그대로다. 중국어, 일본어, 한국어, 아랍어는 각 문자에 맞게 만든 시스템 글꼴을 쓴다."
+ },
+ "35d8f2015fdd": {
+  "en": "Change a rule, a stat block or an encounter table",
+  "t": "규칙, 능력치, 조우 표 바꾸기"
+ },
+ "399bff32f249": {
+  "en": "The site is one page that JavaScript fills in, and its pages live after a `#` in the address. Most AI tools and many crawlers don't run JavaScript and ignore everything after the `#`, so to them the site looks empty. These files point them to the Markdown instead:",
+  "t": "사이트는 자바스크립트가 채우는 한 장짜리 페이지이고, 각 페이지는 주소의 `#` 뒤에 있다. 대부분의 AI 도구와 많은 크롤러는 자바스크립트를 실행하지 않고 `#` 뒤를 모두 무시하므로, 그들에게 사이트는 비어 보인다. 다음 파일들이 대신 Markdown을 가리킨다:"
+ },
+ "3e5798257d73": {
+  "en": "Languages",
+  "t": "언어"
+ },
+ "420eb681b96b": {
+  "en": "**Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).",
+  "t": "**몬스터 도감**과 **무작위 표**(의뢰, 조우, 소문, 내부자 작업 제안)."
+ },
+ "450b1f8a5f8e": {
+  "en": "How the translations are stored and updated: [i18n/README.md](../i18n/README.md).",
+  "t": "번역을 저장하고 갱신하는 방법: [i18n/README.md](../i18n/README.md)."
+ },
+ "46d8b7ac84b1": {
+  "en": "Add text to the site's own code",
+  "t": "사이트 코드에 글 추가하기"
+ },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js`와 `site/css/units.css` — 피트냐 미터냐: 페이지의 거리를 변환하고 설정의 '거리' 선택을 맡는다(재사용 가능한 컴포넌트)"
+ },
+ "49624bfb046c": {
+  "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
+  "t": "저장소에서 보이는 것과 같은 Markdown 파일을 읽으므로, 손으로 맞춰 둘 게 없다: 규칙을 고치고 push하면 사이트에 변경이 나타난다."
+ },
+ "49893d838b29": {
+  "en": "Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it.",
+  "t": "`.md` 파일을 고친다. 사이트와 도구가 그것을 바로 읽는다. 도구가 읽을 수 있도록 기존 형식을 지켜라(예를 들어 능력치의 `## Name (CR 3) — Region`과 `AC 14 · HP 80`, Events & Encounters의 지역마다 붙은 번호 목록)."
+ },
+ "4b80f36e000f": {
+  "en": "Do this",
+  "t": "이렇게 한다"
+ },
+ "4df7a2e30816": {
+  "en": "Files",
+  "t": "파일"
+ },
+ "530e0f040f7f": {
+  "en": "`site/css/site.css` — the look",
+  "t": "`site/css/site.css` — 겉모습"
+ },
+ "5c22d60a29f2": {
+  "en": "**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.",
+  "t": "**오프라인에서 되는 것:** 사이트 전체와 그 도구, 모든 규칙과 설정 페이지(열어 보지 않은 것까지), 그리고 보통 배율의 여행 지도. 본 적 있는 그림도 저장된 채 남는다. 미리 더 저장하려면 배포물 페이지의 **배포물을 오프라인용으로 저장**(약 4 MB)과 여행 지도 페이지의 **선명한 지도 저장**(2 MB)을 쓴다. 34 MB 인쇄용 지도와 배포물 PDF는 저장되지 않는다."
+ },
+ "5e3b5e9dc9fa": {
+  "en": "Running it on your computer",
+  "t": "내 컴퓨터에서 돌리기"
+ },
+ "5f7b617d599b": {
+  "en": "`index.html` — the page itself",
+  "t": "`index.html` — 페이지 자체"
+ },
+ "60757df821f3": {
+  "en": "**Not translated yet:** when the English changes, the new or changed text shows in English until the next translation batch. The site never waits for a translation.",
+  "t": "**아직 번역되지 않은 것:** 영어가 바뀌면, 새로 생기거나 바뀐 글은 다음 번역 묶음 때까지 영어로 보인다. 사이트는 번역을 기다리지 않는다."
+ },
+ "63d7d38a3435": {
+  "en": "**Search** across all the rules and lore. Player mode leaves DM pages out of the results.",
+  "t": "모든 규칙과 설정을 **검색**한다. 플레이어 모드에서는 DM 페이지가 결과에서 빠진다."
+ },
+ "64a1fdc64f69": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0 (third-party files keep their own licenses, listed above).",
+  "t": "© Deovandski Skibinski Junior. CC‑BY‑NC‑SA‑4.0으로 배포된다(제3자 파일은 위에 적은 각자의 라이선스를 따른다)."
+ },
+ "6b67c47fa27a": {
+  "en": "Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.",
+  "t": "연결되어 있으면 페이지를 인터넷에서 불러오고, 4초 안에 응답이 없으면 저장된 사본을 쓴다. 배포할 때마다 새 사본을 저장하고 옛것은 버린다."
+ },
+ "6c782fa08e4a": {
+  "en": "**What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.",
+  "t": "**바뀌는 것:** 메뉴, 버튼, 도구, 모든 규칙과 설정 페이지, 도구 속 크리처 이름, 그리고 배포물(그림과 PDF). 숫자, 주사위, AC, HP, DC, CR, SP는 그대로이고, 배포물의 브라키 문자 줄도 브라키 그대로다. 라이선스는 영어로 둔다. 영어가 법적 문서이기 때문이다."
+ },
+ "72836e16b6b5": {
+  "en": "Editing",
+  "t": "편집"
+ },
+ "7440e10a297f": {
+  "en": "Just change it. The translations show the old text's translation until the English is translated again; new or changed text shows in English until then. See [i18n/README.md](../i18n/README.md).",
+  "t": "그냥 바꾸면 된다. 영어가 다시 번역될 때까지 번역판에는 옛 글의 번역이 나오고, 새로 생기거나 바뀐 글은 그때까지 영어로 보인다. [i18n/README.md](../i18n/README.md) 참고."
+ },
+ "76c4ac4a2da2": {
+  "en": "Browsers block a page opened straight from a file from loading other files, so start a tiny local server in the repo folder:",
+  "t": "브라우저는 파일에서 바로 연 페이지가 다른 파일을 불러오지 못하게 막으므로, 저장소 폴더에서 작은 로컬 서버를 켠다:"
+ },
+ "77cc837e57df": {
+  "en": "Wrap it: `__(\"Roll anything\")`, `__.n(n, \"{n} day\", \"{n} days\")`, or `data-i18n` on an element in `index.html`. `node tools/i18n.js todo` then lists it for translating.",
+  "t": "감싼다: `__(\"Roll anything\")`, `__.n(n, \"{n} day\", \"{n} days\")`, 또는 `index.html`의 요소에 `data-i18n`. 그러면 `node tools/i18n.js todo`가 번역할 목록에 넣는다."
+ },
+ "77d9ed85823d": {
+  "en": "`sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)",
+  "t": "`sw.js` — 사이트를 오프라인용으로 저장하는 서비스 워커(사이트 전체를 다루도록 저장소 맨 위에 있다)"
+ },
+ "7ab1f14adfb4": {
+  "en": "**Try it on your computer:** run `node site/build-llms.js` in the repo folder (it writes the three files there; git ignores them), start the local server below, and open http://localhost:8000/llms.txt. To see what a reader without JavaScript gets, turn JavaScript off for the page (in Chrome: DevTools → ⋮ → Run command → \"Disable JavaScript\") and reload. The script also lists any `.md` file that isn't in `site/js/content.js`.",
+  "t": "**내 컴퓨터에서 해 보기:** 저장소 폴더에서 `node site/build-llms.js`를 실행하고(세 파일을 거기에 써낸다. git은 무시한다), 아래 로컬 서버를 켠 뒤 http://localhost:8000/llms.txt 를 연다. 자바스크립트 없는 읽기 도구가 무엇을 받는지 보려면, 그 페이지에서 자바스크립트를 끄고(Chrome: DevTools → ⋮ → Run command → ‘Disable JavaScript’) 새로 고친다. 스크립트는 `site/js/content.js`에 없는 `.md` 파일도 모두 알려 준다."
+ },
+ "7b23d280e4fd": {
+  "en": "The workflow in `.github/workflows/pages.yml` publishes the site on every push to `main`: it refreshes `site/snapshot.js`, gathers the site and the Markdown it reads, and deploys them to GitHub Pages. You can also run it by hand from the Actions tab (**Website → Run workflow**).",
+  "t": "`.github/workflows/pages.yml`의 워크플로가 `main`에 push할 때마다 사이트를 배포한다: `site/snapshot.js`를 새로 고치고, 사이트와 그것이 읽는 Markdown을 모아 GitHub Pages에 올린다. Actions 탭에서 손으로 실행할 수도 있다(**Website → Run workflow**)."
+ },
+ "7c22248ab66f": {
+  "en": "**Player mode:** the rules, the world lore, the pre-made adventurers, the handout gallery, calculators (balls and change, travel time and quest deadlines, revival window and debt, splitting quest pay, Soul Points and tiers) and a tracker for your own adventurers.",
+  "t": "**플레이어 모드:** 규칙, 세계 설정, 사전 제작 모험가, 배포물 갤러리, 계산기(볼과 거스름돈, 여행 시간과 의뢰 기한, 부활 기한과 빚, 의뢰 보수 나누기, 소울 포인트와 등급), 그리고 내 모험가 기록."
+ },
+ "7cff1b5a568b": {
+  "en": "**Once, by hand:** submit `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml` in [Bing Webmaster Tools](https://www.bing.com/webmasters) and [Google Search Console](https://search.google.com/search-console). A project site can't name its sitemap in a `robots.txt`, because that file only counts at the top of `deovandski.github.io`.",
+  "t": "**한 번, 손으로:** [Bing Webmaster Tools](https://www.bing.com/webmasters)와 [Google Search Console](https://search.google.com/search-console)에 `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml`을 제출한다. 프로젝트 사이트는 `robots.txt`에 사이트맵을 적을 수 없다. 그 파일은 `deovandski.github.io` 맨 위에 있을 때만 효력이 있기 때문이다."
+ },
+ "80cb266b2c6d": {
+  "en": "The site's code and text are AI-assisted; see the [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "사이트의 코드와 글에는 AI의 도움이 들어갔다. [AI 사용 안내](../AI-DISCLOSURE.md)를 보라."
+ },
+ "88f7fb74a3ca": {
+  "en": "`site/build-llms.js` — writes `llms.txt`, `llms-full.txt` and `sitemap.xml` for AI tools and search engines (run by the publishing workflow)",
+  "t": "`site/build-llms.js` — AI 도구와 검색 엔진을 위해 `llms.txt`, `llms-full.txt`, `sitemap.xml`을 써낸다(배포 워크플로가 실행)"
+ },
+ "8a3683207893": {
+  "en": "One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**",
+  "t": "GitHub 저장소에서 한 번만 하는 설정: **Settings → Pages → Build and deployment → Source: GitHub Actions.**"
+ },
+ "8cc49969c97f": {
+  "en": "Saving",
+  "t": "저장"
+ },
+ "8cfe9158658d": {
+  "en": "`site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), the Markdown renderer (MIT License, see `LICENSE-marked.md`)",
+  "t": "`site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), Markdown 렌더러(MIT 라이선스, `LICENSE-marked.md` 참고)"
+ },
+ "91b7c491add1": {
+  "en": "The page also links them for readers that never get past the HTML: `<link rel=\"alternate\">` tags in `index.html`, a short list of links that shows when JavaScript is off, and a footer on every page.",
+  "t": "HTML 너머로 가지 못하는 읽기 도구를 위해 페이지에서도 링크한다: `index.html`의 `<link rel=\"alternate\">` 태그, 자바스크립트가 꺼져 있을 때 보이는 짧은 링크 목록, 그리고 모든 페이지의 바닥글."
+ },
+ "9384751d45ac": {
+  "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
+  "t": "모든 페이지에 **주사위 쟁반**이 있고, 규칙에 적힌 모든 굴림(2d6+3 같은)은 버튼이다."
+ },
+ "93c390989051": {
+  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
+  "t": "**안드로이드와 Chrome/Edge:** 브라우저의 설치 버튼이나, 저장 메뉴(위쪽 막대)의 **앱으로 설치**를 쓴다. 앱 아이콘을 길게 누르면 여행 지도, 여행 계획, 배포물로 가는 바로가기가 나온다."
+ },
+ "95b4c590c974": {
+  "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
+  "t": "`site/js/i18n.js` — 번역: 페이지를 조각으로 나누고, 조각마다 번역을 찾고, 언어를 고른다(브라우저와 Node에서 모두 작동)"
+ },
+ "a0d1b0c29279": {
+  "en": "`site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.",
+  "t": "`site/i18n/` — 사이트가 불러오도록 `node tools/i18n.js build`가 써내는 것: `languages.js`, `<lang>.js`(사이트 자체의 글과 이름), `<lang>.docs.js`(페이지와 배포물). 생성물이며 저장소에 두지 않는다."
+ },
+ "acb3bd3d3067": {
+  "en": "The site installs like an app on a phone, tablet or computer, and once installed (or after one visit in the browser) it works with **no signal**: handy at the table.",
+  "t": "사이트는 휴대폰, 태블릿, 컴퓨터에 앱처럼 설치되며, 설치하고 나면(또는 브라우저로 한 번 방문하고 나면) **신호가 없어도** 돌아간다: 테이블에서 편하다."
+ },
+ "acb6baf6327c": {
+  "en": "You want to…",
+  "t": "하고 싶은 일"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**거리:** 규칙은 D&D처럼 피트와 마일로 쓰여 있다. 영어는 그대로 보여 주고, 번역판은 미터와 킬로미터로 보여 준다(`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, D&D에서 흔히 쓰는 환산). 모든 페이지와 도구, 번역된 배포 자료에 적용된다. **설정 → 거리**에서 어느 언어로든 둘 사이를 바꿀 수 있고, 고른 것은 기억된다. 설정에서 이미 미터와 킬로미터로 나와 있는 높이와 고도(이 세계의 단위)는 그대로다."
+ },
+ "b70a8ac2bc53": {
+  "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",
+  "t": "**파티.** HP, 임시 HP, 소울 포인트, 탈진, 상태, 부활 빚과 죽음 기록. 여행 계획의 전투와 공유된다."
+ },
+ "b738bde86d8e": {
+  "en": "`site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.",
+  "t": "`site/fonts/` — TeX Gyre Schola와 TeX Gyre Heros Cn, 수정하지 않음(GUST Font License, `GUST-FONT-LICENSE.txt` 참고). Vraki 글꼴과 그림은 `Handouts/source/assets` 폴더에서 가져온다."
+ },
+ "be1ab3934370": {
+  "en": "**The banner:** every translated page starts with \"AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm\" in that language, and a one-click switch back to English.",
+  "t": "**안내 문구:** 번역된 모든 페이지는 그 언어로 ‘Deovandski와 Mitsukiven/Feiourm의 원작을 AI가 (언어)로 번역했습니다’로 시작하며, 한 번 눌러 영어로 돌아갈 수 있다."
+ },
+ "bf5e2b39295b": {
+  "en": "Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap.",
+  "t": "`.md` 파일을 추가한 뒤, `site/js/content.js` 맨 위의 목록에 그 줄을 넣는다. 그러면 메뉴, 검색, `llms.txt`, 사이트맵에 나온다."
+ },
+ "c0ff188c3eaa": {
+  "en": "**`llms-full.txt`**: every page in one file, in the same order, with links made absolute.",
+  "t": "**`llms-full.txt`**: 모든 페이지를 같은 순서로 한 파일에 담고, 링크를 절대 경로로 바꾼 것."
+ },
+ "c1f154a148c3": {
+  "en": "Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.",
+  "t": "입력한 모든 것은 그때그때 브라우저에 저장된다(로컬 저장소). 위쪽 막대의 저장 버튼으로 **저장 파일(.json)을 내려받아** 다른 기기나 브라우저에서 **불러오거나**, 백업으로 둘 수 있다. 어디로도 아무것도 보내지 않는다: 서버도, 계정도, 쿠키도, 분석도 없다."
+ },
+ "c795334a2b9e": {
+  "en": "Refresh the offline copy",
+  "t": "오프라인 사본 새로 고치기"
+ },
+ "c98977f81652": {
+  "en": "**iPhone and iPad:** in Safari, tap Share, then **Add to Home Screen**.",
+  "t": "**아이폰과 아이패드:** Safari에서 공유를 누른 뒤 **홈 화면에 추가**."
+ },
+ "d5a0fd62cc4a": {
+  "en": "**DM mode:** everything players see, plus the DM pages and:",
+  "t": "**DM 모드:** 플레이어가 보는 모든 것에 더해 DM 페이지와 다음 것들:"
+ },
+ "d71daec5a7cc": {
+  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.",
+  "t": "또 `sw.js`에 커밋을 새겨, 배포할 때마다 사람들이 오프라인용으로 저장한 사본이 새로워지게 한다."
+ },
+ "d89a0a9bfcbe": {
+  "en": "`site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts",
+  "t": "`site/manifest.webmanifest`와 `site/icons/` — 앱의 이름, 색, 아이콘(포웨이 문장으로 만듦), 바로가기"
+ },
+ "de3caeb1cd83": {
+  "en": "Add a new page",
+  "t": "새 페이지 추가하기"
+ },
+ "e02dd0b09522": {
+  "en": "`site/build-llms.js` writes all three from the page list in `site/js/content.js`, so a page added to the menus is added here too. The publishing workflow runs it on every deploy; the files aren't kept in the repo. To leave the DM pages out, set `INCLUDE_DM` to `false` at the top of the script.",
+  "t": "`site/build-llms.js`가 `site/js/content.js`의 페이지 목록으로 셋 다 써내므로, 메뉴에 추가한 페이지는 여기에도 추가된다. 배포 워크플로가 배포할 때마다 실행하며, 파일은 저장소에 두지 않는다. DM 페이지를 빼려면 스크립트 맨 위의 `INCLUDE_DM`을 `false`로 한다."
+ },
+ "e194197fc0bc": {
+  "en": "`site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline",
+  "t": "`site/snapshot.js` — 함께 묶인 오프라인 사본(생성물). 설치한 앱은 이것으로 모든 페이지를 오프라인에서 읽는다"
+ },
+ "e27b617aa841": {
+  "en": "**Save files** don't depend on the language: one saved in Japanese loads in English and the other way round.",
+  "t": "**저장 파일**은 언어와 상관없다: 일본어로 저장한 것을 영어에서 불러올 수 있고, 반대도 된다."
+ },
+ "e56cfa5d7cde": {
+  "en": "The site comes in English and six translations: 中文 (Simplified Chinese), 日本語 (Japanese), Português (Brazil), Español (Spain), العربية (Arabic) and 한국어 (Korean). They are AI translations of the English, written ahead of time and kept in the repo; nothing is translated on the fly, and English stays the original.",
+  "t": "사이트는 영어와 여섯 가지 번역으로 볼 수 있다: 中文(중국어 간체), 日本語(일본어), Português(브라질), Español(스페인), العربية(아랍어), 한국어. 영어를 AI로 번역한 것으로, 미리 써서 저장소에 넣어 두었다. 즉석에서 번역되는 것은 없으며, 원본은 여전히 영어다."
+ },
+ "e7448bd25755": {
+  "en": "**Picking one:** open **Settings (⚙)** in the top bar. It lists every language in its own script with how much of it is done, has the light/dark switch, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
+  "t": "**고르는 법:** 위쪽 막대의 **설정(⚙)** 을 연다. 모든 언어가 저마다의 문자로, 얼마나 됐는지와 함께 나오고, 라이트/다크 전환과 다른 언어를 요청할 수 있는 [이슈 #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) 링크도 있다. 처음 방문하면, 그 번역이 90% 이상 됐을 경우 사이트가 브라우저 언어를 알아서 고른다. 링크에 `?lang=ja`를 붙이면 언어를 지정할 수 있다."
+ },
+ "e887f66aadda": {
+  "en": "What's on it",
+  "t": "무엇이 있나"
+ },
+ "e8b4838c1cec": {
+  "en": "**Travel planner.** Type From and To and **Count circles from the map** sets the circles (and each one's encounter table) from the route lengths, or set how many circles the trip covers and how many days each circle takes (1, 2 or 3). Every day has its Graveyard, Morning, Afternoon and Night shifts. Roll the events the rules call for, or set each shift yourself: quiet, a sign, an encounter from the region tables, the Inside Job offer, or your own event. Open a shift to run it: creatures from the stat blocks, HP, initiative, conditions and notes, with the party in the same fight. **Print or save as PDF** turns a trip into a paper sheet for running it without the site: every day and shift, fights with blank HP space, the party, the encounter tables for its regions and the stat blocks.",
+  "t": "**여행 계획.** 출발지와 목적지를 입력하고 **지도에서 서클 세기**를 누르면 경로 길이에 따라 서클(과 서클마다의 조우 표)이 정해진다. 또는 여행이 서클 몇 개인지, 서클 하나가 며칠(1, 2, 3)인지 직접 정해도 된다. 하루마다 심야, 오전, 오후, 밤 시간대가 있다. 규칙이 정한 이벤트를 굴리거나, 시간대마다 직접 정한다: 조용함, 징조, 지역 표의 조우, 내부자 작업 제안, 또는 직접 만든 이벤트. 시간대를 열면 그 자리에서 진행할 수 있다: 능력치에서 가져온 크리처, HP, 우선권, 상태와 메모, 그리고 같은 전투에 든 파티. **인쇄 또는 PDF로 저장**하면 여행을 사이트 없이 진행할 수 있는 종이 한 장이 된다: 모든 날과 시간대, HP 빈칸이 있는 전투, 파티, 그 지역의 조우 표, 능력치."
+ },
+ "e906b4f39955": {
+  "en": "Change English text",
+  "t": "영어 글 바꾸기"
+ },
+ "eb8e9f5f308b": {
+  "en": "Install it as an app (works offline)",
+  "t": "앱으로 설치하기(오프라인에서 작동)"
+ },
+ "ebbc70e90594": {
+  "en": "Change a route's length, or add a route",
+  "t": "경로 길이를 바꾸거나 경로 추가하기"
+ },
+ "ee0d90b0fb86": {
+  "en": "Edit the **Route lengths** table in `Maps/README.md` (From, To, Circles, On the map, Encounter table). The travel map page and the travel planner read it directly.",
+  "t": "`Maps/README.md`의 **Route lengths** 표(From, To, Circles, On the map, Encounter table)를 고친다. 여행 지도 페이지와 여행 계획이 그것을 바로 읽는다."
+ },
+ "fe7c0b8f9905": {
+  "en": "`site/js/lang-picker.js` and `site/css/lang-picker.css` — the language list in Settings (a reusable component)",
+  "t": "`site/js/lang-picker.js`와 `site/css/lang-picker.css` — 설정의 언어 목록(재사용 컴포넌트)"
+ },
+ "febe621a1e51": {
+  "en": "For AI tools and search engines",
+  "t": "AI 도구와 검색 엔진을 위해"
+ }
+}

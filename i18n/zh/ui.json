@@ -1,0 +1,3042 @@
+{
+ "001a6abb6886": {
+  "en": "0 (cantrip ring)",
+  "t": "0（戏法戒指）"
+ },
+ "005af12d9be9": {
+  "en": "{page} is for the DM",
+  "t": "{page}仅供DM使用"
+ },
+ "0060f0f82a9c": {
+  "en": "Cargo escort: the Inside Job offer can happen (valuable cargo)",
+  "t": "货物护送：可能出现内应计划的提议（贵重货物）"
+ },
+ "0065a6466fef": {
+  "en": "Encounter tables for the regions on this trip, to roll at the table",
+  "t": "本次旅程所经地区的遭遇表，供跑团时掷骰"
+ },
+ "00730cca877a": {
+  "en": "Long rest for everyone",
+  "t": "全员长休"
+ },
+ "00c6ba91ea2f": {
+  "en": "What the party sees",
+  "t": "队伍看到的"
+ },
+ "02a8fbdc764c": {
+  "en": "Remove this adventurer?",
+  "t": "移除这位冒险者？"
+ },
+ "02b2b1da3462": {
+  "en": "Roll",
+  "t": "掷骰"
+ },
+ "04d3c6003174": {
+  "en": "paid in balls at the hideout or a drop point.",
+  "t": "在藏身处或交接点用球支付。"
+ },
+ "04e682629500": {
+  "en": "What happened",
+  "t": "发生了什么"
+ },
+ "050974bda1fc": {
+  "en": "Day",
+  "t": "日"
+ },
+ "053059a5aee7": {
+  "en": "Steps",
+  "t": "步骤"
+ },
+ "0541a6f1e6d4": {
+  "en": "Roll again next fill",
+  "t": "下次填充时重掷"
+ },
+ "0555927440b0": {
+  "en": "Ready to use offline on this device.",
+  "t": "已可在本设备上离线使用。"
+ },
+ "05618125c31a": {
+  "en": "Roll anything",
+  "t": "随便掷"
+ },
+ "05b877243cde": {
+  "en": "{region} table",
+  "t": "{region}表"
+ },
+ "05c614d34699": {
+  "en": "Conditions",
+  "t": "状态"
+ },
+ "05e1a9a214ec": {
+  "en": "Party",
+  "t": "队伍"
+ },
+ "060488367c30": {
+  "en": "Deal roll (d10, secret)",
+  "t": "交易检定（d10，秘密）"
+ },
+ "06b2a8a95fca": {
+  "en": "Paid with the fewest balls: <b>{list}</b>.",
+  "t": "用最少的球支付：<b>{list}</b>。"
+ },
+ "07711f40f1e5": {
+  "en": "The map at normal zoom is already saved when the site is installed.",
+  "t": "安装本站时，普通缩放的地图已经保存好了。"
+ },
+ "080aa8fee573": {
+  "en": "Valuable cargo (offer at departure on 1–2)",
+  "t": "贵重货物（出发时掷出1–2即有提议）"
+ },
+ "08600f7c7ba5": {
+  "en": "{from} to {to}",
+  "t": "{from}到{to}"
+ },
+ "08914b4b45ed": {
+  "en": "Learn what's different from normal 5e",
+  "t": "了解与普通5e的不同"
+ },
+ "0894c05a1f05": {
+  "en": "On the <b>Campaign</b> page: name it, set the in-world date, and start the Castle Mood, Heat and faction reputation.",
+  "t": "在<b>战役</b>页面：起个名字，设定世界内日期，开始记录城堡心情、热度和派系声望。"
+ },
+ "08d6a22c2bcb": {
+  "en": "{n} on this trip · average level {avg} · {owe} owe revival debt",
+  "t": "本次旅程 {n} 人 · 平均等级 {avg} · {owe} 人背着复活债"
+ },
+ "08e16b55d175": {
+  "en": "Name Place Guild",
+  "t": "名字 地点 公会"
+ },
+ "0937206b6552": {
+  "en": "☐ Quiet ☐ Sign ☐ Encounter ☐ Other",
+  "t": "☐ 安静 ☐ 迹象 ☐ 遭遇 ☐ 其他"
+ },
+ "095b75098b91": {
+  "en": "It sets the pitch and the six rules of an open table: a pool of players, players drive, start and end at an embassy, one shared world, real-ish time, rewards from the world.",
+  "t": "它定下基调和开放式跑团的六条规则：一群玩家、由玩家推动、在大使馆开始和结束、一个共享世界、大致真实的时间、来自世界本身的奖励。"
+ },
+ "09706811f2aa": {
+  "en": "Saving…",
+  "t": "正在保存…"
+ },
+ "099b65fac375": {
+  "en": "Kaiana",
+  "t": "凯阿娜"
+ },
+ "0a681e5d9fd3": {
+  "en": "Start the guide over",
+  "t": "重新开始指南"
+ },
+ "0a8f21b9c1b8": {
+  "en": "Map © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.",
+  "t": "地图 © Deovandski Skibinski Junior，CC-BY-NC-SA-4.0。"
+ },
+ "0aaf5e9ebc10": {
+  "en": "Exhaustion",
+  "t": "力竭"
+ },
+ "0be5925b6d8b": {
+  "en": "Open the travel map",
+  "t": "打开旅行地图"
+ },
+ "0c6d4c2542b1": {
+  "en": "paid in goods from the cargo, which the party has to fence.",
+  "t": "用货物里的东西支付，队伍得自己销赃。"
+ },
+ "0c75ce0436d6": {
+  "en": "Make an adventurer, read the rules and lore, roll dice, count your balls and your debts.",
+  "t": "创建冒险者，阅读规则和世界观，掷骰子，数清你的球和你的债。"
+ },
+ "0cc1dfb3f64d": {
+  "en": "Lower",
+  "t": "降低"
+ },
+ "0d1046bdad4d": {
+  "en": "d6 {n} against Heat {h}: {what}",
+  "t": "d6 {n} 对热度 {h}：{what}"
+ },
+ "0d47958f568d": {
+  "en": "Walking Flesh hunt intruders; traps arm. Stragglers on the plains.",
+  "t": "沃金·弗莱什猎杀入侵者；陷阱启动。平原上有落单的。"
+ },
+ "0d798d801b5a": {
+  "en": "the Inside Job offer",
+  "t": "内应计划的提议"
+ },
+ "0d92c49ae3f7": {
+  "en": "One way",
+  "t": "单程"
+ },
+ "0df5a124f1dc": {
+  "en": "<b>Travel by circles:</b> count the circles on the travel map (Forway to Sanbi is 6); each is 1, 2 or 3 days.",
+  "t": "<b>按圈旅行：</b>数旅行地图上的圈（福威到桑比是6个）；每个圈是1、2或3天。"
+ },
+ "0ee02ad23516": {
+  "en": "Two Flatheads; soul-drain fog (1 SP per hour). The embassy posts an Aquamarine quest.",
+  "t": "两只弗拉特黑德；吸取灵魂的雾（每小时1 SP）。大使馆发布一个阿夸马林委托。"
+ },
+ "0fd9acf1a8ab": {
+  "en": "See where Vraki started",
+  "t": "看看弗拉基从哪里开始"
+ },
+ "0ff8c1b5b48d": {
+  "en": "Max HP",
+  "t": "最大HP"
+ },
+ "1017cbb830ff": {
+  "en": "Plan a trip",
+  "t": "规划一次旅程"
+ },
+ "10aa16e57686": {
+  "en": "Amount",
+  "t": "数额"
+ },
+ "115e578efe15": {
+  "en": "Kind",
+  "t": "类别"
+ },
+ "117f8917ee8e": {
+  "en": "Add a circle to start.",
+  "t": "添加一个圈来开始。"
+ },
+ "1205d2dbc04d": {
+  "en": "Get ready to run the West March",
+  "t": "准备主持西境"
+ },
+ "128e740f072e": {
+  "en": "Dice tray",
+  "t": "骰盘"
+ },
+ "12d9eac97706": {
+  "en": "Track HP, Soul Points, balls and debt in <b>My adventurers</b>.",
+  "t": "在<b>我的冒险者</b>里记录HP、灵魂点数、球和债务。"
+ },
+ "130239a11ea1": {
+  "en": "A go-between offers the party a cut for helping the bandits rob the cargo they're guarding.",
+  "t": "一个中间人提出，只要队伍帮强盗抢走他们护送的货物，就分他们一份。"
+ },
+ "13b3f1e4b9af": {
+  "en": "Everyone on tonight's expedition. HP and conditions here are the same ones the travel planner's fights use, so damage you deal there shows up here.",
+  "t": "今晚出发的所有人。这里的HP和状态与旅行计划的战斗共用，所以在那里造成的伤害会显示在这里。"
+ },
+ "142d16b737f2": {
+  "en": "Spoiler warning: the lore pages and the DM pages reveal secrets of the world, including some from unreleased story notes.",
+  "t": "剧透警告：世界观页面和DM页面会揭示世界的秘密，其中一些来自尚未发布的故事笔记。"
+ },
+ "142d8c0e9b6f": {
+  "en": "After the session, help fill in the expedition report so the next party knows what's out there.",
+  "t": "跑团结束后，帮忙填写远征报告，让下一支队伍知道外面有什么。"
+ },
+ "156c70d374bd": {
+  "en": "Not saving: this browser blocks storage. Download a save file to keep your work.",
+  "t": "未保存：这个浏览器阻止了存储。请下载保存文件以保留你的进度。"
+ },
+ "164632133c33": {
+  "en": "Encounters here use the {region} table.",
+  "t": "这里的遭遇使用{region}表。"
+ },
+ "168c650a1a0a": {
+  "en": "Pre-made adventurers",
+  "t": "预设冒险者"
+ },
+ "1715d6fe08df": {
+  "en": "Run & wrap up",
+  "t": "主持与收尾"
+ },
+ "1739104fd0a1": {
+  "en": "Initiative for {name}",
+  "t": "{name}的先攻"
+ },
+ "177260b6357b": {
+  "en": "<b>Loot:</b> {loot}",
+  "t": "<b>战利品：</b>{loot}"
+ },
+ "179a00363c2c": {
+  "en": "Saved {saved} of {total}. Try again online for the rest.",
+  "t": "已保存 {total} 个中的 {saved} 个。其余的请联网后重试。"
+ },
+ "18d6e69a07b0": {
+  "en": "To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.",
+  "t": "在 iPhone 或 iPad 上安装：点按“共享”，然后选择<b>添加到主屏幕</b>。"
+ },
+ "1991eedad300": {
+  "en": "One shared world needs one shared record. Set it up once; every session adds to it.",
+  "t": "一个共享的世界需要一份共享的记录。准备一次，每次跑团都会往里添内容。"
+ },
+ "1a12620146f1": {
+  "en": "Circles on the map",
+  "t": "地图上的圈数"
+ },
+ "1ab5f5545c88": {
+  "en": "Travel map",
+  "t": "旅行地图"
+ },
+ "1acece3e1c58": {
+  "en": "Reset round",
+  "t": "重置本轮"
+ },
+ "1b5a8f5e5d65": {
+  "en": "Long rest: HP restored, +1 SP, −1 exhaustion.",
+  "t": "长休：HP全满，SP +1，力竭 −1。"
+ },
+ "1c037f803608": {
+  "en": "Search rules, lore, creatures",
+  "t": "搜索规则、世界观、生物"
+ },
+ "1d8ba5b7ff76": {
+  "en": "Roll an offer",
+  "t": "掷一次提议"
+ },
+ "1de62b5a22af": {
+  "en": "You're ready. Put the quest board out and let the players choose.",
+  "t": "准备好了。把委托板摆出来，让玩家自己选。"
+ },
+ "1dee0689b9e7": {
+  "en": "Sleepy",
+  "t": "昏昏欲睡"
+ },
+ "1e5488ca3603": {
+  "en": "Not on this trip",
+  "t": "不参加本次旅程"
+ },
+ "1ed96f617090": {
+  "en": "Back to the start page",
+  "t": "返回首页"
+ },
+ "1f1720151661": {
+  "en": "All",
+  "t": "全部"
+ },
+ "1f58569fd6fe": {
+  "en": "AC and HP from the 5e {block}",
+  "t": "AC和HP取自5e的{block}"
+ },
+ "207d20b26926": {
+  "en": "(about {low}–{high} pearls)",
+  "t": "（约 {low}–{high} 珀尔）"
+ },
+ "2084df0b528d": {
+  "en": "Choose…",
+  "t": "选择…"
+ },
+ "210d435929f6": {
+  "en": "Also every creature those tables can bring, not just the fights already set",
+  "t": "还包括这些表可能带来的所有生物，而不只是已设定的战斗"
+ },
+ "2198adb3a104": {
+  "en": "Patrol:",
+  "t": "巡逻："
+ },
+ "219f016b1ea6": {
+  "en": "Full event roll (d6, then d12)",
+  "t": "完整的事件检定（先d6，再d12）"
+ },
+ "21e529f348a8": {
+  "en": "Rules used: <a href=\"{money}\">money</a>, <a href=\"{travel}\">travel by circles</a>, <a href=\"{quests}\">quest board</a>, <a href=\"{death}\">death, revival &amp; debt</a>, <a href=\"{soul}\">soul energy</a>.",
+  "t": "使用的规则：<a href=\"{money}\">金钱</a>、<a href=\"{travel}\">按圈旅行</a>、<a href=\"{quests}\">委托板</a>、<a href=\"{death}\">死亡、复活与债务</a>、<a href=\"{soul}\">灵魂能量</a>。"
+ },
+ "229180c589d5": {
+  "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
+  "t": "−3 被追杀 · −2 敌对 · −1 不信任 · 0 不认识 · +1 友好 · +2 信任 · +3 自己人。每次跑团最多变动一级。"
+ },
+ "22c619b2c180": {
+  "en": "One more circle",
+  "t": "增加一个圈"
+ },
+ "22ec16453534": {
+  "en": "Rolled: {roll}",
+  "t": "掷骰：{roll}"
+ },
+ "23d7a8460b35": {
+  "en": "Inside Job helper",
+  "t": "内应计划助手"
+ },
+ "2568c53f14e4": {
+  "en": "Printed {date} from the Vraki West March travel planner.",
+  "t": "于{date}从 Vraki West March 旅行计划打印。"
+ },
+ "25ce3db28b5a": {
+  "en": "Raise Heat",
+  "t": "提高热度"
+ },
+ "264ed5fa86cc": {
+  "en": "A paper copy of this trip, so you can run it without the site. Use your browser's print window to print it or choose <b>Save as PDF</b>.",
+  "t": "这次旅程的纸质版，让你不用网站也能主持。用浏览器的打印窗口打印，或选择<b>存为PDF</b>。"
+ },
+ "2660609f822e": {
+  "en": "Done",
+  "t": "完成"
+ },
+ "267f580208ea": {
+  "en": "Spend 1 Soul Point",
+  "t": "消耗1点灵魂点数"
+ },
+ "26b94be163c7": {
+  "en": "{n} of {total} creatures. Read from the <a href=\"{url}\">stat block pages</a>; people without their own AC and HP use the 5e block their entry names.",
+  "t": "共 {total} 种生物中的 {n} 种。读取自<a href=\"{url}\">数据卡页面</a>；没有自己AC和HP的人物，使用其条目中提到的5e数据卡。"
+ },
+ "26bc27e0ed2a": {
+  "en": "Revival window and debt",
+  "t": "复活期限与债务"
+ },
+ "26f37199db62": {
+  "en": "Dangerous places",
+  "t": "危险地点"
+ },
+ "2765e1ff99a2": {
+  "en": "Soul energy & sigil rings",
+  "t": "灵魂能量与西吉尔戒指"
+ },
+ "277d27c89260": {
+  "en": "All pre-made adventurers",
+  "t": "所有预制冒险者"
+ },
+ "27be80977c16": {
+  "en": "Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click).",
+  "t": "在<b>队伍</b>页面添加报名的冒险者（预设冒险者一键载入）。"
+ },
+ "2818ac2cea31": {
+  "en": "Dangerous places: Bahyum's Castle Mood, Hifuna exposure, the desert, the caverns.",
+  "t": "危险地点：巴休姆的城堡心情、希富纳的暴露、沙漠、洞窟。"
+ },
+ "281b6068a586": {
+  "en": "Open a shift in the travel planner to add creatures to its fight from here.",
+  "t": "在旅行计划中打开一个时段，就能从这里把生物加入它的战斗。"
+ },
+ "28b57e1b878b": {
+  "en": "remove",
+  "t": "删除"
+ },
+ "28b96cb76722": {
+  "en": "{n} result for “{q}”",
+  "t": "“{q}”有 {n} 个结果"
+ },
+ "28bea3a4ad13": {
+  "en": "Add entry",
+  "t": "添加记录"
+ },
+ "28c20e4a02bc": {
+  "en": "Entry",
+  "t": "条目"
+ },
+ "28c5c04fdd44": {
+  "en": "Quiet. Describe the scenery, or the food.",
+  "t": "安静。描述一下风景，或者食物。"
+ },
+ "28e94fdd3ca7": {
+  "en": "The last circle has events. Remove it anyway?",
+  "t": "最后一个圈有事件。仍要删除吗？"
+ },
+ "29245d440157": {
+  "en": "Payment:",
+  "t": "报酬："
+ },
+ "299c3a3ffa82": {
+  "en": "That file isn't a Vraki West March save.",
+  "t": "这个文件不是 Vraki West March 的存档。"
+ },
+ "29b80ac19515": {
+  "en": "Travel planner",
+  "t": "旅行计划"
+ },
+ "2a2a19a9b2e7": {
+  "en": "Weekday",
+  "t": "星期"
+ },
+ "2a643c9767e9": {
+  "en": "Skip to the travel planner",
+  "t": "直接去旅行计划"
+ },
+ "2a6e789e0a34": {
+  "en": "<b>Event roll:</b> d6 per shift that rolls. {enc} = encounter (d12 on the region table), {sign} = a sign of one (d12), the rest = quiet.",
+  "t": "<b>事件检定：</b>每个需要掷骰的时段掷d6。{enc} = 遭遇（在地区表上掷d12），{sign} = 遭遇的迹象（d12），其余 = 安静。"
+ },
+ "2afe12c726e6": {
+  "en": "Creature",
+  "t": "生物"
+ },
+ "2b1d97857c7b": {
+  "en": "Next step",
+  "t": "下一步"
+ },
+ "2b661624c9a2": {
+  "en": "a cantrip ring",
+  "t": "一枚戏法戒指"
+ },
+ "2bc9766a1efc": {
+  "en": "{n} encounters",
+  "t": "{n}次遭遇"
+ },
+ "2c207de27d66": {
+  "en": "Standard",
+  "t": "标准"
+ },
+ "2d6f2ef30ed8": {
+  "en": "Reward",
+  "t": "报酬"
+ },
+ "2d9112504f35": {
+  "en": "Not rolled",
+  "t": "未掷骰"
+ },
+ "2da0d506129b": {
+  "en": "{n} pearl",
+  "t": "{n} 珀尔"
+ },
+ "2e09686f643b": {
+  "en": "How many owe revival debt",
+  "t": "背着复活债的人数"
+ },
+ "2e68613791e6": {
+  "en": "Party size",
+  "t": "队伍人数"
+ },
+ "2f055cedfd68": {
+  "en": "Vraki West March home",
+  "t": "Vraki West March 首页"
+ },
+ "2f527c1ed5ca": {
+  "en": "{n} nari stone",
+  "t": "{n} 颗纳里石"
+ },
+ "2f91b5302b28": {
+  "en": "{n} aquamarine",
+  "t": "{n} 阿夸马林"
+ },
+ "2fb84a3ee938": {
+  "en": "It's one shared world. Whatever your party kills, maps or angers stays that way for everyone.",
+  "t": "这是一个共享的世界。你的队伍杀掉的、画进地图的、惹恼的东西，对所有人来说都会保持那样。"
+ },
+ "2fb85aadcf76": {
+  "en": "Death, revival & debt",
+  "t": "死亡、复活与债务"
+ },
+ "2fb97e854c4c": {
+  "en": "Patrol roll",
+  "t": "巡逻检定"
+ },
+ "30490aa8812d": {
+  "en": "Keep a shared copy of the travel map to mark explored circles.",
+  "t": "保留一份共享的旅行地图，用来标记探索过的圈。"
+ },
+ "317cd7815399": {
+  "en": "12pm–6pm",
+  "t": "12点–18点"
+ },
+ "318909f568b2": {
+  "en": "clear",
+  "t": "清除"
+ },
+ "31d9ab80ae22": {
+  "en": "Close",
+  "t": "关闭"
+ },
+ "31edcbee62c3": {
+  "en": "Damage or heal",
+  "t": "伤害或治疗"
+ },
+ "3201cb08ca3a": {
+  "en": "Circles can override this below, for trips that cross regions.",
+  "t": "跨越多个地区的旅程，可以在下面为每个圈单独修改。"
+ },
+ "325dcd29c3a4": {
+  "en": "Down (dying)",
+  "t": "倒地（濒死）"
+ },
+ "325ff50ba847": {
+  "en": "On the map",
+  "t": "地图上的样子"
+ },
+ "329641e522b4": {
+  "en": "Afternoon",
+  "t": "下午"
+ },
+ "32ce3655cfa9": {
+  "en": "Dmg",
+  "t": "伤害"
+ },
+ "32dd11c62087": {
+  "en": "Go-between (d8)",
+  "t": "中间人（d8）"
+ },
+ "32eb52912f7e": {
+  "en": "Round trip",
+  "t": "往返"
+ },
+ "334a5be7560b": {
+  "en": "Pick a quest",
+  "t": "挑选委托"
+ },
+ "336f1edfecc1": {
+  "en": "Unnamed adventurer",
+  "t": "无名冒险者"
+ },
+ "338434162845": {
+  "en": "{n} aquamarines",
+  "t": "{n} 阿夸马林"
+ },
+ "344e5851e8d7": {
+  "en": "Cargo value:",
+  "t": "货物价值："
+ },
+ "3495614e84af": {
+  "en": "A nari stone costs 1 amethyst, so {what} burns about {pearls} of stones.",
+  "t": "一颗纳里石值1阿米西斯特，所以{what}大约要烧掉价值 {pearls} 的纳里石。"
+ },
+ "34a7ce69b4f9": {
+  "en": "Add an adventurer",
+  "t": "添加冒险者"
+ },
+ "34aebb9c024d": {
+  "en": "{n} day",
+  "t": "{n} 天"
+ },
+ "3556e67e35dc": {
+  "en": "The party (none set up yet)",
+  "t": "队伍（尚未设置）"
+ },
+ "35fc7a0d2c1c": {
+  "en": "What happens",
+  "t": "发生了什么"
+ },
+ "36ce5a7b4213": {
+  "en": "Patrol roll d6 {n} against Heat {h}: {what}",
+  "t": "巡逻检定 d6 {n} 对热度 {h}：{what}"
+ },
+ "36d0e67e5d83": {
+  "en": "Learn the secrets and the dangers",
+  "t": "了解秘密与危险"
+ },
+ "374ad2f3a516": {
+  "en": "Next day also rolls the Castle Mood, as the rules say to at the start of each day.",
+  "t": "“下一天”也会掷城堡心情，正如规则要求在每天开始时掷一次。"
+ },
+ "37b861c042a9": {
+  "en": "<b>{days}</b> one way · {start} to {end} · deadline <b>{deadline}</b> if they come back the same way · <b>{rations}</b> rations for {people} people",
+  "t": "单程<b>{days}</b> · {start}至{end} · 原路返回的话期限为<b>{deadline}</b> · {people}人份口粮<b>{rations}</b>"
+ },
+ "380957daf1b3": {
+  "en": "Deadline",
+  "t": "期限"
+ },
+ "3883b472c136": {
+  "en": "Open the printable PDF",
+  "t": "打开可打印的PDF"
+ },
+ "38bef1a3e0d9": {
+  "en": "Pick a quest from the <a href=\"{board}\">quest board</a> and post a <a href=\"#/t/handouts\">Party Wanted</a> sign-up.",
+  "t": "从<a href=\"{board}\">委托板</a>上挑一个委托，并贴出一张<a href=\"#/t/handouts\">组队招募</a>。"
+ },
+ "38e0f92facd8": {
+  "en": "Add a creature",
+  "t": "添加生物"
+ },
+ "393a9d8d971b": {
+  "en": "Remove",
+  "t": "移除"
+ },
+ "39402c830eaf": {
+  "en": "Art by Mitsukiven &amp; Feiourm. © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.",
+  "t": "美术：Mitsukiven &amp; Feiourm。© Deovandski Skibinski Junior，CC-BY-NC-SA-4.0。"
+ },
+ "398b8aaaf7d9": {
+  "en": "Remove this adventurer",
+  "t": "移除这位冒险者"
+ },
+ "399c76455f2d": {
+  "en": "Vraki, where the script started",
+  "t": "弗拉基：这种文字的起点"
+ },
+ "3a0b39e5b7b5": {
+  "en": "At departure, while the party preps.",
+  "t": "出发时，队伍正在准备。"
+ },
+ "3a6f5ca6ea5a": {
+  "en": "{name} are back, with {pearls} more debt.",
+  "t": "{name}回来了，多背了 {pearls} 的债。"
+ },
+ "3aabc2d53e95": {
+  "en": "Sapphires",
+  "t": "萨菲尔"
+ },
+ "3af19bb0c18e": {
+  "en": "Meters and kilometers",
+  "t": "米和公里"
+ },
+ "3b3e956859ef": {
+  "en": "The players tell you where they're going; you prep that trip.",
+  "t": "玩家告诉你他们要去哪儿；你来准备那段旅程。"
+ },
+ "3b55ef120dc9": {
+  "en": "This is a cargo escort (the Inside Job offer can happen)",
+  "t": "这是货物护送（可能出现内应计划的提议）"
+ },
+ "3b6934132e9b": {
+  "en": "My West March",
+  "t": "我的西境"
+ },
+ "3c45285e41c1": {
+  "en": "Open the dice tray",
+  "t": "打开骰盘"
+ },
+ "3c46db3d64a0": {
+  "en": "Travel without math",
+  "t": "不用算数的旅行"
+ },
+ "3d24c308ae06": {
+  "en": "Pick a people: mixed-blood human, Darfaries, Wozefaries, Cruro and more. There are no elves or dwarves.",
+  "t": "选一个民族：混血人类、达尔法里斯、沃泽法里斯、克鲁罗等等。这里没有精灵和矮人。"
+ },
+ "3db793492aa6": {
+  "en": "balls at a drop point",
+  "t": "在交接点用球支付"
+ },
+ "3dd3ee6e59dd": {
+  "en": "Want a language added?",
+  "t": "想添加一种语言？"
+ },
+ "3e6b78d7874f": {
+  "en": "Player",
+  "t": "玩家"
+ },
+ "3f22bdc32c96": {
+  "en": "Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which.",
+  "t": "数一数两地之间有几个圈。每个圈是1、2或3天的路程，由DM决定。"
+ },
+ "3f68e5441d9e": {
+  "en": "{n} sign",
+  "t": "{n}个征兆"
+ },
+ "3fd940eb0c0a": {
+  "en": "Full-size file for printing",
+  "t": "用于打印的原尺寸文件"
+ },
+ "41442d770c33": {
+  "en": "Any roll in the rules, like {a}, is a button; the dice tray has the rest.",
+  "t": "规则里的任何掷骰，比如 {a}，都是一个按钮；其余的用骰盘。"
+ },
+ "4252323dd53d": {
+  "en": "Heal",
+  "t": "治疗"
+ },
+ "428ff5097716": {
+  "en": "This is a West March: there's a pool of players, not a fixed party. Whoever signs up for a session is the party that day.",
+  "t": "这是一场西境战役：有一群玩家，而不是固定的队伍。报名参加某次跑团的人，就是当天的队伍。"
+ },
+ "43570e0f7ad6": {
+  "en": "Start at the embassy, run the trip shift by shift, and end with the party back somewhere safe.",
+  "t": "从大使馆出发，一个时段一个时段地推进旅程，最后让队伍回到某个安全的地方。"
+ },
+ "43d4617a1162": {
+  "en": "Ready",
+  "t": "准备好了"
+ },
+ "43e62c6a1ead": {
+  "en": "Swap from and to",
+  "t": "交换出发地和目的地"
+ },
+ "445bd79ce045": {
+  "en": "Light",
+  "t": "浅色"
+ },
+ "4468eb8623f2": {
+  "en": "Nari stones on hand",
+  "t": "手头的纳里石"
+ },
+ "4538b6a957bf": {
+  "en": "Sign",
+  "t": "征兆"
+ },
+ "4540f7843779": {
+  "en": "no patrol today.",
+  "t": "今天没有巡逻。"
+ },
+ "45694f7c975e": {
+  "en": "Maps & handouts",
+  "t": "地图与道具"
+ },
+ "45f61418b146": {
+  "en": "Disadvantage",
+  "t": "劣势"
+ },
+ "45f98c37c515": {
+  "en": "Length",
+  "t": "长度"
+ },
+ "47af4a13e32b": {
+  "en": "Six steps from never heard of it to sitting at the table with an adventurer. Each one takes a few minutes; open the links when you need the details.",
+  "t": "从没听说过，到带着冒险者坐上桌，只要六步。每一步几分钟；需要细节时再打开链接。"
+ },
+ "484e1850fd63": {
+  "en": "Roll the daily change (d6)",
+  "t": "掷每日变化（d6）"
+ },
+ "488e7618ba06": {
+  "en": "{n} results for “{q}”",
+  "t": "“{q}”有 {n} 个结果"
+ },
+ "489104bd9f31": {
+  "en": "Days per circle, all circles",
+  "t": "每圈天数（所有圈）"
+ },
+ "493e4e56c9dd": {
+  "en": "Your name is <b>NAME PLACE GUILD</b>. Starting money: class gear plus {a} × 10 pearls. Roll {b} for starting debt.",
+  "t": "你的名字格式是<b>名字 地点 公会</b>。起始资金：职业装备，外加 {a} × 10 珀尔。掷 {b} 决定起始债务。"
+ },
+ "495c1caeca4e": {
+  "en": "Trip notes",
+  "t": "旅程笔记"
+ },
+ "4990c44c13ec": {
+  "en": "Who's using the site",
+  "t": "谁在使用本站"
+ },
+ "49c673a3212f": {
+  "en": "Handouts and props",
+  "t": "道具"
+ },
+ "49e40318c7a0": {
+  "en": "the trip",
+  "t": "本次旅程"
+ },
+ "4a4448155dee": {
+  "en": "Law, treaties & embassies",
+  "t": "法律、条约与大使馆"
+ },
+ "4b2c4f63ca40": {
+  "en": "On a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day.",
+  "t": "掷出1时心情下降1；掷出6时上升1。有队伍在城内战斗时，每天上升1。"
+ },
+ "4c1d75c48db2": {
+  "en": "Money, prices & economy",
+  "t": "货币、物价与经济"
+ },
+ "4c4058771939": {
+  "en": "Takeo",
+  "t": "武雄"
+ },
+ "4ca775823b63": {
+  "en": "6am–12pm",
+  "t": "6点–12点"
+ },
+ "4caa8ec03f1a": {
+  "en": "a patrol finds them.",
+  "t": "巡逻队找到了他们。"
+ },
+ "4cbc10e0ef7f": {
+  "en": "The West March's shared memory. Write down where each party went and what changed in the world.",
+  "t": "西境的共同记忆。写下每支队伍去了哪里，世界有了什么变化。"
+ },
+ "4cc4ef25d4bc": {
+  "en": "Slow",
+  "t": "慢速"
+ },
+ "4cf9ef9f28aa": {
+  "en": "Count circles from the map",
+  "t": "从地图上数圈"
+ },
+ "4d8e3b8b674d": {
+  "en": "“{text}”",
+  "t": "“{text}”"
+ },
+ "4d999db4f9eb": {
+  "en": "Next turn",
+  "t": "下一回合"
+ },
+ "4dc62dd49100": {
+  "en": "{days} if they come back the same way",
+  "t": "原路返回的话{days}"
+ },
+ "4dc8ea252a80": {
+  "en": "The travel map",
+  "t": "旅行地图"
+ },
+ "4e105a04770c": {
+  "en": "Bring it to the table",
+  "t": "带上桌"
+ },
+ "4e27d1305f09": {
+  "en": "Your adventurer",
+  "t": "你的冒险者"
+ },
+ "4ee1a9835097": {
+  "en": "Started over.",
+  "t": "已重新开始。"
+ },
+ "4ef6cb0d5c55": {
+  "en": "In",
+  "t": "单位"
+ },
+ "4f19c38944f9": {
+  "en": "The Inside Job offer",
+  "t": "内应计划的提议"
+ },
+ "4f4baef682e3": {
+  "en": "Departure roll: d6 {n}, {what}",
+  "t": "出发检定：d6 {n}，{what}"
+ },
+ "4f5df4895274": {
+  "en": "Overheard in the tavern (d10)",
+  "t": "酒馆里听来的（d10）"
+ },
+ "4f78c6689c73": {
+  "en": "How many",
+  "t": "数量"
+ },
+ "4f996b171bfd": {
+  "en": "Revival debt (pearls)",
+  "t": "复活债（珀尔）"
+ },
+ "4fc70c0e3800": {
+  "en": "Every session starts at a Forway <b>embassy</b> and should end back at one.",
+  "t": "每次跑团都从福威的一座<b>大使馆</b>开始，最好也回到一座大使馆结束。"
+ },
+ "50050479bb24": {
+  "en": "Light or dark",
+  "t": "浅色或深色"
+ },
+ "50117964066e": {
+  "en": "Temp",
+  "t": "临时"
+ },
+ "50fb3baa2900": {
+  "en": "no offer at departure",
+  "t": "出发时没有提议"
+ },
+ "511a7cefe5a9": {
+  "en": "Back",
+  "t": "返回"
+ },
+ "51418772711a": {
+  "en": "Next picture",
+  "t": "下一张图片"
+ },
+ "51936dbda00f": {
+  "en": "DM's choice.",
+  "t": "由DM决定。"
+ },
+ "51a1fa0a8498": {
+  "en": "Event: sign or omen",
+  "t": "事件：迹象或预兆"
+ },
+ "51d76af291cb": {
+  "en": "Damage",
+  "t": "伤害"
+ },
+ "51df909fa582": {
+  "en": "Trip settings",
+  "t": "旅程设置"
+ },
+ "51e06d6677ee": {
+  "en": "The biggest you can afford is {what}.",
+  "t": "你负担得起的最高是{what}。"
+ },
+ "52756b0b8396": {
+  "en": "You opened the site straight from a file. Pages load best when the site is served: open it on GitHub Pages, or run <code>python -m http.server</code> in the repo folder and visit <code>http://localhost:8000</code>.",
+  "t": "你是直接从文件打开本站的。通过服务器访问时页面加载效果最好：在 GitHub Pages 上打开，或在仓库文件夹中运行 <code>python -m http.server</code> 并访问 <code>http://localhost:8000</code>。"
+ },
+ "5297a254825f": {
+  "en": "<b>Hash:</b> double HP, +2 to attack and damage, special abilities +1d6 damage and +2 save DCs, always hostile. Eating its meat gives 1 Exposure.",
+  "t": "<b>哈什：</b>HP翻倍，攻击和伤害+2，特殊能力伤害+1d6、豁免DC+2，永远敌对。吃它的肉会获得1点暴露。"
+ },
+ "532e85bae056": {
+  "en": "Track your character between and during sessions: HP, Soul Points, exhaustion, balls and revival debt. It saves in this browser as you type.",
+  "t": "在跑团之间和跑团期间记录你的角色：HP、灵魂点数、力竭、球和复活债。输入时就会保存在这个浏览器里。"
+ },
+ "53d83bde3793": {
+  "en": "Dice",
+  "t": "骰子"
+ },
+ "53dff878f4c2": {
+  "en": "DM secrets: the hidden truths of the world.",
+  "t": "DM秘密：世界隐藏的真相。"
+ },
+ "53f1d44436fa": {
+  "en": "(not done yet)",
+  "t": "（尚未完成）"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "阿米西斯特"
+ },
+ "54442dd15378": {
+  "en": "Sets the circles (and each one's encounter table) from the route between From and To.",
+  "t": "根据出发地和目的地之间的路线，设定圈数（以及每个圈的遭遇表）。"
+ },
+ "54792c64794e": {
+  "en": "Travel by circles",
+  "t": "按圈旅行"
+ },
+ "54983531feab": {
+  "en": "The handouts in this language are on their way; these are the English ones.",
+  "t": "这个语言的道具还在制作中；这些是英文版。"
+ },
+ "54a36639a1b4": {
+  "en": "Hiromi",
+  "t": "弘美"
+ },
+ "54c33383a51b": {
+  "en": "<b>{pearls}</b>; Forway takes {n} off their debt",
+  "t": "<b>{pearls}</b>；福威从其债务中扣除 {n}"
+ },
+ "54ecc0da3ac0": {
+  "en": "Tip: any roll written in the rules, like 2d6+3, is a button. Tap it to roll.",
+  "t": "提示：规则里写的任何掷骰，比如 2d6+3，都是一个按钮。点一下就能掷。"
+ },
+ "55f089dc517e": {
+  "en": "Open the full-size file",
+  "t": "打开原尺寸文件"
+ },
+ "560bcc2bcec8": {
+  "en": "Fast",
+  "t": "快速"
+ },
+ "56bf8e5830f6": {
+  "en": "Add a custom foe",
+  "t": "添加自定义敌人"
+ },
+ "56d0adc45bde": {
+  "en": "{n} circle.",
+  "t": "{n}个圈。"
+ },
+ "56f22adee6bf": {
+  "en": "Where",
+  "t": "出没地"
+ },
+ "5756406ba97c": {
+  "en": "Cargo:",
+  "t": "货物："
+ },
+ "57b5616fa6cb": {
+  "en": "Showing the copy bundled with the site.",
+  "t": "正在显示随网站打包的副本。"
+ },
+ "57dccde67826": {
+  "en": "I'm running it",
+  "t": "我来主持"
+ },
+ "57f3df8cac45": {
+  "en": "Soul Points",
+  "t": "灵魂点数"
+ },
+ "583e0d372b46": {
+  "en": "New foe",
+  "t": "新敌人"
+ },
+ "585cdf11ff4a": {
+  "en": "Grumpy",
+  "t": "脾气不好"
+ },
+ "58694b0bf153": {
+  "en": "{n} foes",
+  "t": "{n}个敌人"
+ },
+ "587ce6284b63": {
+  "en": "Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.",
+  "t": "拖动来移动。双指捏合，或按住 Ctrl 滚动来缩放。双击放大。键盘：+ 和 − 缩放，方向键移动，0 显示整张地图。"
+ },
+ "58b36c7f713d": {
+  "en": "Events & encounters",
+  "t": "事件与遭遇"
+ },
+ "58fccaefc040": {
+  "en": "Table",
+  "t": "表"
+ },
+ "598e66cfe06a": {
+  "en": "this trip",
+  "t": "这次旅程"
+ },
+ "59950a684167": {
+  "en": "Encounter tables (d12)",
+  "t": "遭遇表（d12）"
+ },
+ "59cb3037aec8": {
+  "en": "Open in {page}",
+  "t": "在{page}中打开"
+ },
+ "59fe8c74da36": {
+  "en": "Open the map",
+  "t": "打开地图"
+ },
+ "5a4df181bbf9": {
+  "en": "Before a session",
+  "t": "跑团之前"
+ },
+ "5a73dc7bd0b1": {
+  "en": "Current SP",
+  "t": "当前SP"
+ },
+ "5aca8f43f2ed": {
+  "en": "Go to the start page",
+  "t": "前往首页"
+ },
+ "5b4333b08e62": {
+  "en": "Balls and change",
+  "t": "球与找零"
+ },
+ "5b480a177f96": {
+  "en": "Get the body to an embassy within <b>{days}</b>. Revival adds <b>{pearls}</b> of debt.",
+  "t": "在<b>{days}</b>内把尸体送到大使馆。复活会增加<b>{pearls}</b>的债务。"
+ },
+ "5b5e9ca6c739": {
+  "en": "People",
+  "t": "人物"
+ },
+ "5b68f4e77c9d": {
+  "en": "Days per circle for every circle",
+  "t": "所有圈的每圈天数"
+ },
+ "5bd15f9645ff": {
+  "en": "Off the edge of the map",
+  "t": "地图边缘之外"
+ },
+ "5be4575a0bff": {
+  "en": "No road or sea lane on the map joins these. The DM decides how many circles it's worth.",
+  "t": "地图上没有道路或航线连接这两个地方。值几个圈由DM决定。"
+ },
+ "5c0ebe62c3eb": {
+  "en": "Hash {name}",
+  "t": "哈什{name}"
+ },
+ "5c0fdc7bfe0b": {
+  "en": ": ",
+  "t": "："
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "珀尔"
+ },
+ "5c7d6a88a590": {
+  "en": "Pearls",
+  "t": "珀尔"
+ },
+ "5c91b35ad275": {
+  "en": "Unnamed",
+  "t": "无名"
+ },
+ "5d22b5a9e6f0": {
+  "en": "Random tables",
+  "t": "随机表"
+ },
+ "5d53ddc453c5": {
+  "en": "Morning",
+  "t": "上午"
+ },
+ "5e0fdd197b7c": {
+  "en": "How far is it?",
+  "t": "有多远？"
+ },
+ "5fc3f2710731": {
+  "en": "Add a faction or guild",
+  "t": "添加派系或公会"
+ },
+ "5fe70ad50bb4": {
+  "en": "Afterwards: write the session log, move the in-world date, and have the party fill in an expedition report.",
+  "t": "结束后：写跑团日志，推进世界内日期，让队伍填写远征报告。"
+ },
+ "6003ecad9b4e": {
+  "en": "Revival window",
+  "t": "复活期限"
+ },
+ "607d3a25513f": {
+  "en": "Start from a pre-made one",
+  "t": "从预设冒险者开始"
+ },
+ "60e1f76a6a08": {
+  "en": "Picture",
+  "t": "图片"
+ },
+ "610fabafc2be": {
+  "en": "slow",
+  "t": "慢速"
+ },
+ "613b06a57c87": {
+  "en": "History",
+  "t": "历史记录"
+ },
+ "619232a301d0": {
+  "en": "Printable trip sheet",
+  "t": "可打印的旅程单"
+ },
+ "61af8fd1a904": {
+  "en": "Proficiency bonus <b>+{pb}</b>, so maximum Soul Points are <b>{max}</b>. Regain 1 SP per long rest.",
+  "t": "熟练加值<b>+{pb}</b>，所以灵魂点数上限是<b>{max}</b>。每次长休恢复1点SP。"
+ },
+ "624c727b5e79": {
+  "en": "Revival debt",
+  "t": "复活债"
+ },
+ "6415212afd5e": {
+  "en": "Add to the fight",
+  "t": "加入战斗"
+ },
+ "64cbec0ab1b3": {
+  "en": "{rank}: {dice} = {roll}, × {times} = {total} (honest reward: {reward})",
+  "t": "{rank}：{dice} = {roll}，× {times} = {total}（正当报酬：{reward}）"
+ },
+ "652c40b4a08f": {
+  "en": "Clear all events",
+  "t": "清除所有事件"
+ },
+ "6569d4afbdbf": {
+  "en": "{pct}% translated",
+  "t": "已翻译 {pct}%"
+ },
+ "6569eecf68ce": {
+  "en": "Language",
+  "t": "语言"
+ },
+ "6590cb12dd83": {
+  "en": "{circles} via {places}.",
+  "t": "经由{places}，共{circles}。"
+ },
+ "659a45fc734b": {
+  "en": "Fauna",
+  "t": "动物"
+ },
+ "65a809a706df": {
+  "en": "you're {n} short",
+  "t": "还差 {n}"
+ },
+ "65f1f08bcd48": {
+  "en": "Full screen",
+  "t": "全屏"
+ },
+ "668ef3a0203e": {
+  "en": "no offer at departure.",
+  "t": "出发时没有提议。"
+ },
+ "66ecdbaabbef": {
+  "en": "On this page",
+  "t": "本页目录"
+ },
+ "67963acb0a5f": {
+  "en": "Get the body to an embassy within <b>{days}</b>. Revival adds <b>{pearls}</b> of debt — and they already owe, so dying again means the Forway Guard unless the party pays everything.",
+  "t": "在<b>{days}</b>内把尸体送到大使馆。复活会增加<b>{pearls}</b>的债务——而且已经背着债，所以除非队伍全部付清，再死一次就要进福威卫队。"
+ },
+ "687fbc30935c": {
+  "en": "Party Wanted and other handouts",
+  "t": "组队招募和其他道具"
+ },
+ "68a7ea6c2da6": {
+  "en": "Roll this shift",
+  "t": "掷这个时段"
+ },
+ "68a9bedc6974": {
+  "en": "Notable people",
+  "t": "知名人物"
+ },
+ "68f2433f5148": {
+  "en": "Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer.",
+  "t": "每个圈是1、2或3天（快速、标准、慢速）。由你选择，让旅程变短或变长。"
+ },
+ "68f3524c2468": {
+  "en": "Lay out a trip circle by circle, the way the <a href=\"#/t/map\">travel map</a> draws it. Pick how many days each circle takes, roll the events the rules call for (or set them yourself), then run each shift: monsters, HP, initiative and notes.",
+  "t": "像<a href=\"#/t/map\">旅行地图</a>上画的那样，按圈安排旅程。选好每个圈要几天，掷规则要求的事件（或自己设定），然后主持每个时段：怪物、HP、先攻和笔记。"
+ },
+ "6927a7ee15e0": {
+  "en": "Download save file (.json)",
+  "t": "下载保存文件（.json）"
+ },
+ "6968ac9b676c": {
+  "en": "Done, next step",
+  "t": "完成，下一步"
+ },
+ "699443f86e01": {
+  "en": "Encounters here use the {region} table ({places}).",
+  "t": "这里的遭遇使用{region}表（{places}）。"
+ },
+ "69a5c331665d": {
+  "en": "you can cast it {n} times",
+  "t": "可以施放 {n} 次"
+ },
+ "69b6c8592e50": {
+  "en": "Add",
+  "t": "添加"
+ },
+ "69c6d1c55271": {
+  "en": "{from}, heading {heading}: {circles} to the edge",
+  "t": "{from}，朝{heading}：到边缘 {circles}"
+ },
+ "69d91d87d2d9": {
+  "en": "Two things at once",
+  "t": "两件事同时发生"
+ },
+ "6a19d3d370a1": {
+  "en": "Type a word in the search box, like Bagarisa, revival or Sanbi.",
+  "t": "在搜索框中输入一个词，比如 巴加里萨、复活 或 桑比。"
+ },
+ "6b08a01fed95": {
+  "en": "Use “Add to the fight” to drop one into the shift that's open in the travel planner.",
+  "t": "用“加入战斗”把它放进旅行计划中当前打开的时段。"
+ },
+ "6b3afb2bf5df": {
+  "en": "Travel is the heart of the game, and it has no math: circles on the map, and you turn the pace knob.",
+  "t": "旅行是游戏的核心，而且不用算数：地图上的圈，加上你来调节的步调旋钮。"
+ },
+ "6b59737b63e2": {
+  "en": "Sign of: {what}",
+  "t": "迹象：{what}"
+ },
+ "6bf417e84947": {
+  "en": "Search",
+  "t": "搜索"
+ },
+ "6ccdecefd558": {
+  "en": "Title",
+  "t": "标题"
+ },
+ "6d71b63ca602": {
+  "en": "poisoned, frightened…",
+  "t": "中毒、恐慌…"
+ },
+ "6deec64815af": {
+  "en": "Dangerous trip: encounters on 1–2 (slow country, night, loud or smelly party, valuable cargo)",
+  "t": "危险旅程：掷出1–2即遭遇（难行的地形、夜间、吵闹或有臭味的队伍、贵重货物）"
+ },
+ "6e06a9af5127": {
+  "en": "Vraki West March · Trip sheet",
+  "t": "Vraki West March · 旅程单"
+ },
+ "6e718c8f5eea": {
+  "en": "Trackers and planners save in this browser as you type. Use the save button at the top to download a file you can load on another device.",
+  "t": "记录和计划会在你输入时保存在这个浏览器里。用顶部的保存按钮下载一个文件，就能在其他设备上载入。"
+ },
+ "6ef2337c6cdc": {
+  "en": "Load this save file? It replaces what's saved in this browser now.",
+  "t": "要载入这个保存文件吗？它会替换这个浏览器里现有的内容。"
+ },
+ "6f2cb5727653": {
+  "en": "Event: nothing",
+  "t": "事件：无事"
+ },
+ "6f7d178c16be": {
+  "en": "Factions & reputation",
+  "t": "派系与声望"
+ },
+ "6feb36f59063": {
+  "en": "Every shift that needs a roll already has one.",
+  "t": "需要掷骰的时段都已经掷过了。"
+ },
+ "70a8b67b4737": {
+  "en": "The shared world: today's date, Bahyum's Castle Mood, the Inside Job Heat, faction reputation and the session log.",
+  "t": "共享的世界：今天的日期、巴休姆城堡的心情、内应计划的热度、派系声望和跑团日志。"
+ },
+ "70ca985baf25": {
+  "en": "+{n} temp",
+  "t": "+{n} 临时"
+ },
+ "70ff9887996a": {
+  "en": "Roll a {rank} quest (d20)",
+  "t": "掷一个{rank}委托（d20）"
+ },
+ "715bfb218d54": {
+  "en": "Rations",
+  "t": "口粮"
+ },
+ "717011a375f5": {
+  "en": "the offer comes before they leave",
+  "t": "提议在出发前就来了"
+ },
+ "71d91b99236f": {
+  "en": "Set up the campaign",
+  "t": "准备战役"
+ },
+ "71df16eea5ec": {
+  "en": "How events are rolled",
+  "t": "事件怎么掷"
+ },
+ "722641fde081": {
+  "en": "fast",
+  "t": "快速"
+ },
+ "724199b577c5": {
+  "en": "{n} of your own",
+  "t": "自定义 {n} 个"
+ },
+ "725aa286e571": {
+  "en": "Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play.",
+  "t": "注意：世界观页面会揭示世界的秘密。如果想在游戏中自己发现，读完概览就停下。"
+ },
+ "7266efb63925": {
+  "en": "Posaqui",
+  "t": "波萨基"
+ },
+ "72a027dd7c1b": {
+  "en": "Rooms rearrange; a Walking Flathead wakes. Walking Skin packs raid nearby farms.",
+  "t": "房间重新排列；一只沃金·弗拉特黑德醒来。成群的沃金·斯金袭击附近的农场。"
+ },
+ "72ff867cb9bd": {
+  "en": "DM notes",
+  "t": "DM笔记"
+ },
+ "734c6f6ff4e3": {
+  "en": "Remove {name}",
+  "t": "移除 {name}"
+ },
+ "736169bbe67e": {
+  "en": "{n} for {people} people, there and back",
+  "t": "{people}人往返共{n}份"
+ },
+ "7364bec36caa": {
+  "en": "The repo on GitHub",
+  "t": "GitHub上的仓库"
+ },
+ "73ae6dd8fbbc": {
+  "en": ", ",
+  "t": "、"
+ },
+ "7426c4fd5ff0": {
+  "en": "Rolled {n} shifts.",
+  "t": "已为{n}个时段掷骰。"
+ },
+ "758f3a5a53e7": {
+  "en": "Damage taken",
+  "t": "受到的伤害"
+ },
+ "76be22c2e761": {
+  "en": "Page not found",
+  "t": "找不到页面"
+ },
+ "76ee0c258795": {
+  "en": "Harry Sanbi",
+  "t": "哈利·桑比"
+ },
+ "77032d3a785c": {
+  "en": "Plain text for AI tools and search engines:",
+  "t": "供 AI 工具和搜索引擎读取的纯文本："
+ },
+ "7780a262469a": {
+  "en": "Zoom out",
+  "t": "缩小"
+ },
+ "77ce05ef9b96": {
+  "en": "Handouts guide",
+  "t": "道具指南"
+ },
+ "77fa3ba25c50": {
+  "en": "Switch light or dark",
+  "t": "切换浅色或深色"
+ },
+ "783c9a2c8357": {
+  "en": "Roll events for empty shifts",
+  "t": "为空时段掷事件"
+ },
+ "783ea5e6d79d": {
+  "en": "{n} sapphires",
+  "t": "{n} 萨菲尔"
+ },
+ "786b6e3e5665": {
+  "en": "Open the menu",
+  "t": "打开菜单"
+ },
+ "79182c9db379": {
+  "en": "Previous picture",
+  "t": "上一张图片"
+ },
+ "797b335d354a": {
+  "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
+  "t": "价值<b>{pearls}</b>（{gp} gp）。向上兑换：{list}。"
+ },
+ "798649d11b43": {
+  "en": "Save the handouts for offline use (about 4 MB)",
+  "t": "保存道具以便离线使用（约 4 MB）"
+ },
+ "79e1accfb338": {
+  "en": "Fill a board (4 quests)",
+  "t": "填满委托板（4个委托）"
+ },
+ "7a7f4479f2d2": {
+  "en": "Heat",
+  "t": "热度"
+ },
+ "7ae1b64d77df": {
+  "en": "Pick Player or DM above for a step-by-step guide, or:",
+  "t": "在上面选择“玩家”或“DM”查看分步指南，或者："
+ },
+ "7ba4173f8de3": {
+  "en": "Pick two different places.",
+  "t": "请选两个不同的地方。"
+ },
+ "7ba7f3a9ef28": {
+  "en": "That link doesn't match a page here.",
+  "t": "这个链接对应不到本站的任何页面。"
+ },
+ "7bdcdd50f4a4": {
+  "en": "Morika",
+  "t": "莫里卡"
+ },
+ "7c3240bef1f4": {
+  "en": "Campaign",
+  "t": "战役"
+ },
+ "7ce66824a857": {
+  "en": "Hash",
+  "t": "哈什"
+ },
+ "7da8b2bfe6b1": {
+  "en": "The Inside Job: on cargo escorts, bandits may offer the party a cut.",
+  "t": "内应计划：护送货物时，强盗可能会给队伍一份分成。"
+ },
+ "7db4ae1861ea": {
+  "en": "Running the game",
+  "t": "主持游戏"
+ },
+ "7dd0a3454563": {
+  "en": "<b>{pearls}</b> penalty",
+  "t": "罚款<b>{pearls}</b>"
+ },
+ "7df1c9752d55": {
+  "en": "First session? The Alpha one-shot (a wagon escort) is ready to run.",
+  "t": "第一次跑团？阿尔法单次冒险（护送马车）已经可以直接开玩。"
+ },
+ "7e77881bc6e6": {
+  "en": "Choose a quest at your rank (Pearl to start) from the quest board.",
+  "t": "从委托板上选一个你等级（起步是珀尔）的委托。"
+ },
+ "7eb468df8575": {
+  "en": "(starts on {day})",
+  "t": "（从{day}开始）"
+ },
+ "7f882ae74695": {
+  "en": "Day {n}",
+  "t": "第 {n} 天"
+ },
+ "7fbfc6e52661": {
+  "en": "Circles on this trip",
+  "t": "本次旅程的圈"
+ },
+ "7fd28e38bde5": {
+  "en": "About this campaign",
+  "t": "关于本战役"
+ },
+ "809a7994de3f": {
+  "en": "Winga mail there",
+  "t": "温加邮件送达"
+ },
+ "80c68382426c": {
+  "en": "No route on the map joins {a} and {b}. Check the spelling, or set the circles yourself.",
+  "t": "地图上没有连接{a}和{b}的路线。检查一下拼写，或自己设定圈数。"
+ },
+ "80d7999425a2": {
+  "en": "Circle {n}, {days}",
+  "t": "第 {n} 圈，{days}"
+ },
+ "81389514b926": {
+  "en": "Set up the party",
+  "t": "设置队伍"
+ },
+ "816311dcd351": {
+  "en": "Sign or omen",
+  "t": "迹象或预兆"
+ },
+ "816f9b000582": {
+  "en": "Death, revival and debt, and how factions remember the party.",
+  "t": "死亡、复活与债务，以及派系如何记住队伍。"
+ },
+ "82494c4e2e68": {
+  "en": "(done)",
+  "t": "（已完成）"
+ },
+ "826e27f3d529": {
+  "en": "stats",
+  "t": "数据"
+ },
+ "82d787e2df53": {
+  "en": "Patrol roll (d6 &lt; Heat)",
+  "t": "巡逻检定（d6 &lt; 热度）"
+ },
+ "82e1bab03f64": {
+  "en": "Each day has four shifts. Roll the event die on Graveyard and Night: {a}, 1 is an encounter, 2 a sign of one.",
+  "t": "每天分四个时段。在深夜和夜晚掷事件骰：{a}，1是遭遇，2是遭遇的迹象。"
+ },
+ "82f74dd93c31": {
+  "en": "The party ({n})",
+  "t": "队伍（{n}）"
+ },
+ "832e96546f24": {
+  "en": "Stat blocks",
+  "t": "数据卡"
+ },
+ "8346b4513a9b": {
+  "en": "Nothing matches “{q}”. Try a shorter word or a different spelling.",
+  "t": "没有与“{q}”匹配的内容。试试更短的词或其他写法。"
+ },
+ "83553fe66e0e": {
+  "en": "<a href=\"{make}\">Make an adventurer</a>, or pick one of the <a href=\"{pregens}\">nine pre-made ones</a>.",
+  "t": "<a href=\"{make}\">创建冒险者</a>，或从<a href=\"{pregens}\">九位预设冒险者</a>中挑一位。"
+ },
+ "83822413b591": {
+  "en": "Night",
+  "t": "夜晚"
+ },
+ "83ab8f8a9a8e": {
+  "en": "Searching…",
+  "t": "搜索中…"
+ },
+ "83d635952510": {
+  "en": "Saved for offline use",
+  "t": "已保存，可离线使用"
+ },
+ "848516520ebf": {
+  "en": "Pick a quest and find a party",
+  "t": "挑选委托并找到队伍"
+ },
+ "848a37275b68": {
+  "en": "Notes:",
+  "t": "笔记："
+ },
+ "849cc321f202": {
+  "en": "Level",
+  "t": "等级"
+ },
+ "84c2f1ca5e7a": {
+  "en": "Alpha one-shot",
+  "t": "阿尔法单次冒险"
+ },
+ "84d4eb97c252": {
+  "en": "This page stays in English: it's the license's legal text, and the English version is the one that counts.",
+  "t": "本页保留英文：这是许可证的法律文本，以英文版为准。"
+ },
+ "84f975b8a00c": {
+  "en": "New here?",
+  "t": "第一次来？"
+ },
+ "85f73071767b": {
+  "en": "Plan trips circle by circle, roll events, run fights, track the party, the Castle Mood and every faction.",
+  "t": "按圈规划旅程，掷事件，主持战斗，记录队伍、城堡心情和每个派系。"
+ },
+ "8609f477b109": {
+  "en": "{n} encounter",
+  "t": "{n}次遭遇"
+ },
+ "864e3055cb78": {
+  "en": "Current HP",
+  "t": "当前HP"
+ },
+ "86f987d184bb": {
+  "en": "6pm–12am",
+  "t": "18点–24点"
+ },
+ "87b9cfd14272": {
+  "en": "Vraki is the world of the #HusbandOutWorld light novels: soul energy instead of magic, killer trees, moody undead castles and a lot of bureaucracy.",
+  "t": "弗拉基是#HusbandOutWorld轻小说的世界：用灵魂能量代替魔法，有杀人的树、脾气古怪的亡灵城堡，还有一大堆官僚手续。"
+ },
+ "87df6dc27859": {
+  "en": "Beast",
+  "t": "魔兽"
+ },
+ "881ec4839818": {
+  "en": "Learn how an open table works",
+  "t": "了解开放式跑团怎么运作"
+ },
+ "88bc6e417e1c": {
+  "en": "Distances",
+  "t": "距离"
+ },
+ "890f19ee4f2b": {
+  "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
+  "t": "Vraki West March 的旅行地图：一张世界地图，各地之间的道路和航线上画着彩色的圈"
+ },
+ "897335ee0ca8": {
+  "en": "Class",
+  "t": "职业"
+ },
+ "89c2a7e50b97": {
+  "en": "goods from the cargo",
+  "t": "用货物里的东西支付"
+ },
+ "8acc003f9a4a": {
+  "en": "Trip {n}",
+  "t": "旅程 {n}"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "圈数"
+ },
+ "8b357b2f7c32": {
+  "en": "Each debtor keeps",
+  "t": "每个欠债者拿到"
+ },
+ "8b47d4d60c73": {
+  "en": "{n} on this trip",
+  "t": "本次旅程 {n} 人"
+ },
+ "8b59700fbe91": {
+  "en": "Theme",
+  "t": "主题"
+ },
+ "8b93e371e76e": {
+  "en": "Cargo",
+  "t": "货物"
+ },
+ "8b95aba870aa": {
+  "en": "Circle {n}",
+  "t": "第 {n} 圈"
+ },
+ "8ba7e599355a": {
+  "en": "Fine",
+  "t": "良好"
+ },
+ "8bc140d3e96f": {
+  "en": "<a href=\"{url}\">Read the world at a glance</a> (five minutes).",
+  "t": "<a href=\"{url}\">阅读世界概览</a>（五分钟）。"
+ },
+ "8c2a09403551": {
+  "en": "Bestiary",
+  "t": "怪物图鉴"
+ },
+ "8c4d38b077d8": {
+  "en": "Beasts",
+  "t": "魔兽"
+ },
+ "8d3537b32b81": {
+  "en": "Inside Job offer",
+  "t": "内应计划的提议"
+ },
+ "8d8164e16035": {
+  "en": "Replace the creatures here with the ones from this entry?",
+  "t": "用这个条目里的生物替换这里的生物？"
+ },
+ "8dd63043aa5a": {
+  "en": "Cargo value",
+  "t": "货物价值"
+ },
+ "8e7f360ed765": {
+  "en": "{what} costs <b>{cost} or SP</b>. With {have} between stones and SP, {can}.",
+  "t": "{what}的代价是<b>{cost}或SP</b>。纳里石加SP共有 {have}，{can}。"
+ },
+ "8e9055a9d8ac": {
+  "en": "The DM guide",
+  "t": "DM指南"
+ },
+ "8ec4a3442b99": {
+  "en": "Rumor",
+  "t": "传闻"
+ },
+ "8ed295a637e4": {
+  "en": "Go-between:",
+  "t": "中间人："
+ },
+ "8f32713157ff": {
+  "en": "Zoom in",
+  "t": "放大"
+ },
+ "90b030f351e7": {
+  "en": "New trip",
+  "t": "新旅程"
+ },
+ "91329920c016": {
+  "en": "The travel map has circles drawn along its routes. Count the circles to where you're going. Each circle is 1, 2 or 3 days, and the DM picks which.",
+  "t": "旅行地图的路线上画着圈。数一数到目的地有几个圈。每个圈是1、2或3天，由DM决定。"
+ },
+ "91446a3e1033": {
+  "en": "July",
+  "t": "朱莉"
+ },
+ "9170d0585fd5": {
+  "en": "DM 101",
+  "t": "DM入门"
+ },
+ "91aecfc722fd": {
+  "en": "Handouts",
+  "t": "道具"
+ },
+ "928dc2f662a4": {
+  "en": "Your work saves in this browser. Use the save button at the top to download a file for another device.",
+  "t": "你的进度保存在这个浏览器里。用顶部的保存按钮下载文件，就能在其他设备上使用。"
+ },
+ "92ae65697ec3": {
+  "en": "Loading…",
+  "t": "加载中…"
+ },
+ "9308e9f30846": {
+  "en": "Init",
+  "t": "先攻"
+ },
+ "93741b140306": {
+  "en": "Swap",
+  "t": "交换"
+ },
+ "9390e120fc76": {
+  "en": "License",
+  "t": "许可证"
+ },
+ "93f1f57143ad": {
+  "en": "Event: encounter",
+  "t": "事件：遭遇"
+ },
+ "94106288ff57": {
+  "en": "{n} amethyst",
+  "t": "{n} 阿米西斯特"
+ },
+ "9416e843348e": {
+  "en": "No one in the party yet. Add the adventurers who showed up tonight, or start from the pre-made ones.",
+  "t": "队伍里还没有人。添加今晚到场的冒险者，或从预设冒险者开始。"
+ },
+ "947a0a39c960": {
+  "en": "Read the DM guide",
+  "t": "阅读DM指南"
+ },
+ "9486cb73473f": {
+  "en": "Roll d12",
+  "t": "掷 d12"
+ },
+ "951362ea258c": {
+  "en": "{n} signs",
+  "t": "{n}个征兆"
+ },
+ "952bf8d5043f": {
+  "en": "The world bites back. These pages are DM-only: players shouldn't read them.",
+  "t": "这个世界会反咬一口。这些页面仅供DM阅读：玩家不该看。"
+ },
+ "9556b81da57c": {
+  "en": "Splitting quest pay",
+  "t": "分配委托报酬"
+ },
+ "955aea593e26": {
+  "en": "Roll initiative for monsters",
+  "t": "为怪物掷先攻"
+ },
+ "9586003ce71b": {
+  "en": "Run it, then wrap it up",
+  "t": "主持，然后收尾"
+ },
+ "95b596f70549": {
+  "en": "Rolled {n} shift.",
+  "t": "已为{n}个时段掷骰。"
+ },
+ "95da44300193": {
+  "en": "Plan this trip in the travel planner",
+  "t": "在旅行计划中规划这次旅程"
+ },
+ "9662a9f7be46": {
+  "en": "Walking Skin patrols inside. Quiet outside.",
+  "t": "沃金·斯金在城内巡逻。城外安静。"
+ },
+ "973dd791b9ed": {
+  "en": "<b>Soul Points</b> = proficiency bonus + Constitution modifier. Sigil rings and nari gels spend them.",
+  "t": "<b>灵魂点数</b> = 熟练加值 + 体质调整值。西吉尔戒指和纳里凝胶会消耗它。"
+ },
+ "97fc9445a06c": {
+  "en": "Go-between, cut, cargo and payment. Roll the secret Deal roll in the travel planner when the party accepts.",
+  "t": "中间人、分成、货物和报酬。队伍接受时，请在旅行计划里进行秘密的交易检定。"
+ },
+ "993700571014": {
+  "en": "Nari gels & gear",
+  "t": "纳里凝胶与装备"
+ },
+ "99846cefae5f": {
+  "en": "{n} circle",
+  "t": "{n} 个圈"
+ },
+ "9b4e0b16c00f": {
+  "en": "Close the dice tray",
+  "t": "关闭骰盘"
+ },
+ "9c7f6566adea": {
+  "en": "d20 mode",
+  "t": "d20 模式"
+ },
+ "9c9bce6ec28e": {
+  "en": "No adventurers yet. Make a new one, or start from one of the nine pre-made adventurers.",
+  "t": "还没有冒险者。新建一个，或从九位预设冒险者中挑一位开始。"
+ },
+ "9cfe4d427e74": {
+  "en": "Clear",
+  "t": "清除"
+ },
+ "9d1666b2445a": {
+  "en": "Encounter",
+  "t": "遭遇"
+ },
+ "9de1bb6d2826": {
+  "en": "You're offline. Showing what's saved on this device.",
+  "t": "你已离线。正在显示保存在本设备上的内容。"
+ },
+ "9de61a638be5": {
+  "en": "Switch to DM mode",
+  "t": "切换到DM模式"
+ },
+ "9eb43f0bb041": {
+  "en": "Search the rules and lore",
+  "t": "搜索规则和世界观"
+ },
+ "9ec5867e234e": {
+  "en": "Revived at an embassy",
+  "t": "已在大使馆复活"
+ },
+ "9edeb5a94c95": {
+  "en": "{month} {day}, {year} A.G.",
+  "t": "{year} A.G. {month}{day}日"
+ },
+ "9f44d7396279": {
+  "en": "{date}: d6 {n}, no change ({mood})",
+  "t": "{date}：d6 {n}，没有变化（{mood}）"
+ },
+ "9fc23c1779af": {
+  "en": "Get to know the world",
+  "t": "了解这个世界"
+ },
+ "9ff8839750c0": {
+  "en": "Body on ice",
+  "t": "尸体冰存"
+ },
+ "a02a0e524ef4": {
+  "en": "Contract (back)",
+  "t": "契约（背面）"
+ },
+ "a05a66c186c3": {
+  "en": "Payment (d6)",
+  "t": "报酬（d6）"
+ },
+ "a0c34b506624": {
+  "en": "Skim the world at a glance if you don't know the series.",
+  "t": "如果你不了解这个系列，快速看一遍世界概览。"
+ },
+ "a11c9367021d": {
+  "en": "Post a <b>Party Wanted</b> sign-up so others can join.",
+  "t": "贴出一张<b>组队招募</b>，让别人加入。"
+ },
+ "a145238b6d72": {
+  "en": "This replaces the circles and clears this trip's events. Go ahead?",
+  "t": "这会替换圈并清除本次旅程的事件。继续吗？"
+ },
+ "a19f69767390": {
+  "en": "Year",
+  "t": "年"
+ },
+ "a1ae9e90235a": {
+  "en": "Quest rank",
+  "t": "委托等级"
+ },
+ "a1b825a8d30b": {
+  "en": "Delete trip",
+  "t": "删除旅程"
+ },
+ "a1f92c9c9304": {
+  "en": "DM guide",
+  "t": "DM指南"
+ },
+ "a237abf43d43": {
+  "en": "Dates",
+  "t": "日期"
+ },
+ "a241ebbafa85": {
+  "en": "Daily life, food & festivals",
+  "t": "日常生活、美食与节日"
+ },
+ "a259862da7cd": {
+  "en": "Normal",
+  "t": "普通"
+ },
+ "a26e596e5506": {
+  "en": "Talking their way out: DC {dc}",
+  "t": "靠嘴脱身：DC {dc}"
+ },
+ "a28584e991b3": {
+  "en": "Spell or ring tier",
+  "t": "法术或戒指等级"
+ },
+ "a2f28c5e97ee": {
+  "en": "I'm playing",
+  "t": "我来玩"
+ },
+ "a348695eecca": {
+  "en": "You're ready. Grab a quest, sign in blood, and come back alive.",
+  "t": "准备好了。接下委托，以血签名，活着回来。"
+ },
+ "a47831aec776": {
+  "en": "{n} circles.",
+  "t": "{n}个圈。"
+ },
+ "a49efba97da0": {
+  "en": "Label, like Long Bridge",
+  "t": "标签，例如 朗布里奇"
+ },
+ "a4d30719f6bc": {
+  "en": "Until it's paid, half of every quest reward goes to Forway. Die again while you owe and you're drafted into the Forway Guard.",
+  "t": "在还清之前，每份委托报酬的一半归福威。欠债时再死一次，你就会被征入福威卫队。"
+ },
+ "a4eaeecb552e": {
+  "en": "That file isn't valid JSON.",
+  "t": "这个文件不是有效的 JSON。"
+ },
+ "a4fad2a9d571": {
+  "en": "Weekday (optional)",
+  "t": "星期（可选）"
+ },
+ "a52bc972f48f": {
+  "en": "{circles}, {days} one way",
+  "t": "{circles}，单程{days}"
+ },
+ "a531ab64af69": {
+  "en": "The party",
+  "t": "队伍"
+ },
+ "a544b6870d4d": {
+  "en": "Go to the travel planner",
+  "t": "前往旅行计划"
+ },
+ "a5489aa98707": {
+  "en": "Circle {n} of {total}",
+  "t": "第 {n} 圈，共 {total} 圈"
+ },
+ "a578eb54bc04": {
+  "en": "Who's here",
+  "t": "在场的"
+ },
+ "a5aad12520e4": {
+  "en": "Include",
+  "t": "包含"
+ },
+ "a607de86f35c": {
+  "en": "No roll this shift",
+  "t": "这个时段不掷骰"
+ },
+ "a6138035f4c4": {
+  "en": "Con modifier",
+  "t": "体质调整值"
+ },
+ "a629e2c01a37": {
+  "en": "Departure roll d6 {n}: {what}",
+  "t": "出发检定 d6 {n}：{what}"
+ },
+ "a65de37275b3": {
+  "en": "Graveyard",
+  "t": "深夜"
+ },
+ "a6a0983f5063": {
+  "en": "From <a href=\"{url}\">The Inside Job</a>. Once per day after a raid, a patrol finds the party if a d6 rolls under the Heat. Lying at the debrief or to guards: DC {dc}.",
+  "t": "出自<a href=\"{url}\">内应计划</a>。抢劫之后每天一次，若d6低于热度，巡逻队就会找到队伍。在汇报时或对卫兵撒谎：DC {dc}。"
+ },
+ "a7533461b525": {
+  "en": "{n} still to run.",
+  "t": "还有 {n} 个待主持。"
+ },
+ "a76453a2df5f": {
+  "en": "Step {n} of {total}",
+  "t": "第 {n} 步，共 {total} 步"
+ },
+ "a7de2730fdf2": {
+  "en": "Save it in My adventurers",
+  "t": "保存到“我的冒险者”"
+ },
+ "a7f53e96f0a7": {
+  "en": "Encounter table",
+  "t": "遭遇表"
+ },
+ "a807d44cd0f3": {
+  "en": "World lore",
+  "t": "世界设定"
+ },
+ "a8b05c31595c": {
+  "en": "Filter by name, region or ability",
+  "t": "按名称、地区或能力筛选"
+ },
+ "a8c04ac1b6fd": {
+  "en": "That doesn't look like a roll. Try 2d6+3, d20, or 4d6kh3.",
+  "t": "这看起来不像掷骰式。试试 2d6+3、d20 或 4d6kh3。"
+ },
+ "a8db28bae00c": {
+  "en": "lvl {n}",
+  "t": "{n}级"
+ },
+ "a8e3f91b3a8a": {
+  "en": "Set Soul Points to {n}",
+  "t": "把灵魂点数设为 {n}"
+ },
+ "a918d2f284bd": {
+  "en": "Type a roll, like 2d6+3.",
+  "t": "请输入一个掷骰式，比如 2d6+3。"
+ },
+ "a9375535a2b0": {
+  "en": "Cargo escort: the Inside Job offer can happen",
+  "t": "货物护送：可能出现内应计划的提议"
+ },
+ "a95f918aa5ca": {
+  "en": "Make your adventurer",
+  "t": "创建你的冒险者"
+ },
+ "a9ff71a9ef79": {
+  "en": "Start over? This clears trips, the party, campaign tracking and characters saved in this browser. Download a save file first if you want a backup.",
+  "t": "要重新开始吗？这会清除保存在这个浏览器里的旅程、队伍、战役记录和角色。如果需要备份，请先下载保存文件。"
+ },
+ "aa2b6259c59e": {
+  "en": "{n} foe",
+  "t": "{n}个敌人"
+ },
+ "ab403ed4eaa4": {
+  "en": "Their cut (d6)",
+  "t": "他们的分成（d6）"
+ },
+ "ab45218932a2": {
+  "en": "{hp} of {max} HP",
+  "t": "HP {hp}/{max}"
+ },
+ "ab4997024894": {
+  "en": "Calculators",
+  "t": "计算器"
+ },
+ "ac408669bedc": {
+  "en": "How to use them",
+  "t": "使用方法"
+ },
+ "ac7b8f7cf08b": {
+  "en": "Shifts with no event yet, with space to write what happens",
+  "t": "还没有事件的时段，并留出写下发生什么的空间"
+ },
+ "ac9fe9e038e3": {
+  "en": "Settings: language, distances and theme",
+  "t": "设置：语言、距离和主题"
+ },
+ "acb88cb9a6d5": {
+  "en": "Your progress stays here",
+  "t": "你的进度会留在这里"
+ },
+ "ad96b02855bd": {
+  "en": "What each faction wants",
+  "t": "每个派系想要什么"
+ },
+ "adab8dadcb78": {
+  "en": "Notes",
+  "t": "笔记"
+ },
+ "ae12bde7f751": {
+  "en": "{n} more in DM pages; switch to DM mode to see them.",
+  "t": "DM页面中还有 {n} 个；切换到DM模式即可查看。"
+ },
+ "ae9fe17be482": {
+  "en": "Days for this circle",
+  "t": "这个圈的天数"
+ },
+ "aee2c911a6f4": {
+  "en": "Everything awake. Waves of undead with five Flathead commanders. Kingdom Alert.",
+  "t": "全部苏醒。五名弗拉特黑德指挥官带领一波波亡灵。王国警报。"
+ },
+ "aef2c6539d60": {
+  "en": "New adventurer",
+  "t": "新冒险者"
+ },
+ "aef83d28171a": {
+  "en": "Alpha one-shot: wagon escort",
+  "t": "阿尔法单次冒险：货车护送"
+ },
+ "af200952052b": {
+  "en": "Untitled trip",
+  "t": "未命名的旅程"
+ },
+ "afca1e32887d": {
+  "en": "Circle {n} <span class=\"muted\">of {total}</span>",
+  "t": "第 {n} 圈 <span class=\"muted\">/ 共 {total} 圈</span>"
+ },
+ "afd4764ce229": {
+  "en": "Start over",
+  "t": "重新开始"
+ },
+ "b04aca8b8ade": {
+  "en": "{rank} quest",
+  "t": "{rank}委托"
+ },
+ "b1bc0b460618": {
+  "en": "This page can spoil surprises. If you're running the game, switch to DM mode.",
+  "t": "本页可能剧透。如果你是主持游戏的人，请切换到DM模式。"
+ },
+ "b234376db19b": {
+  "en": "Player rules",
+  "t": "玩家规则"
+ },
+ "b33de0752c52": {
+  "en": "Region",
+  "t": "地区"
+ },
+ "b3c061949396": {
+  "en": "Count the circles on the travel map: Forway to Sanbi is 6, Gandew to Sundeath is 19.",
+  "t": "数旅行地图上的圈：福威到桑比是6个，甘杜到桑德斯是19个。"
+ },
+ "b4c85155890f": {
+  "en": "Save the sharp map for offline zooming (2 MB)",
+  "t": "保存清晰地图以便离线缩放（2 MB）"
+ },
+ "b500b49cd575": {
+  "en": "{n} circles",
+  "t": "{n} 个圈"
+ },
+ "b52888178696": {
+  "en": "Every stat block in the campaign: beasts, fauna and people.",
+  "t": "战役中所有的数据卡：魔兽、动物和人物。"
+ },
+ "b52f7ba525b3": {
+  "en": "Party (who went)",
+  "t": "队伍（谁去了）"
+ },
+ "b546cd7b92de": {
+  "en": "Show the whole map",
+  "t": "显示整张地图"
+ },
+ "b55153d01d5c": {
+  "en": "Install as an app",
+  "t": "安装为应用"
+ },
+ "b5f6652d6c05": {
+  "en": "Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise.",
+  "t": "普通的5e角色创建，加上弗拉基的特色。除非DM另有说明，你从1级、珀尔等级的冒险者开始。"
+ },
+ "b60e8e8360ab": {
+  "en": "Roll {dice}",
+  "t": "掷 {dice}"
+ },
+ "b7538aa7f2be": {
+  "en": "{n} pearls",
+  "t": "{n} 珀尔"
+ },
+ "b7b01d174cc4": {
+  "en": "Handouts saved for offline use",
+  "t": "道具已保存，可离线使用"
+ },
+ "b7b621ec595b": {
+  "en": "you can cast it",
+  "t": "可以施放"
+ },
+ "b897e804ff49": {
+  "en": "Soul energy & interfaces",
+  "t": "灵魂能量与界面"
+ },
+ "b8aec19adbda": {
+  "en": "Round {n}",
+  "t": "第 {n} 轮"
+ },
+ "b8f2bb9f9fdb": {
+  "en": "This site is your character sheet helper during play.",
+  "t": "本站是你在游戏中管理角色卡的帮手。"
+ },
+ "b948a7d76fc9": {
+  "en": "Lands, ruins & villages",
+  "t": "土地、遗迹与村庄"
+ },
+ "b96908ad3d07": {
+  "en": "Results",
+  "t": "结果"
+ },
+ "b9afcd4eac9c": {
+  "en": "{pearls} left over: buy a round",
+  "t": "剩下 {pearls}：请大家喝一轮"
+ },
+ "ba4a343923db": {
+  "en": "Inside Job",
+  "t": "内应计划"
+ },
+ "bad6c0ac79e5": {
+  "en": "They",
+  "t": "这位冒险者"
+ },
+ "bb0dfa1d5983": {
+  "en": "{name} added to {trip}.",
+  "t": "{name} 已加入 {trip}。"
+ },
+ "bb1d1fe227ad": {
+  "en": "Stat block for {name}",
+  "t": "{name}的数据卡"
+ },
+ "bb7f81b66eb5": {
+  "en": "Look up the creatures you'll need in the bestiary.",
+  "t": "在怪物图鉴里查好你需要的生物。"
+ },
+ "bc14ce1f16c1": {
+  "en": "{n} nari stones",
+  "t": "{n} 颗纳里石"
+ },
+ "bc7624272372": {
+  "en": "Enlarge",
+  "t": "放大"
+ },
+ "bd6017a3174c": {
+  "en": "No trips yet. Plan one first, then come back to print it.",
+  "t": "还没有旅程。先规划一个，再回来打印。"
+ },
+ "bd7001db87e7": {
+  "en": "Who was on watch, what they did, loot, consequences…",
+  "t": "谁在守夜、他们做了什么、战利品、后果…"
+ },
+ "bea1c7ab1372": {
+  "en": "Set up",
+  "t": "准备"
+ },
+ "bf51489db17c": {
+  "en": "A handful of rules change how the game feels. Skim them now; the DM will remind you at the table.",
+  "t": "有几条规则会改变游戏的感觉。现在快速看一遍；跑团时DM会提醒你。"
+ },
+ "bfd74d26bc53": {
+  "en": "{n} amethysts",
+  "t": "{n} 阿米西斯特"
+ },
+ "c04646b67a94": {
+  "en": "Travel & events",
+  "t": "旅行与事件"
+ },
+ "c07b0b00578f": {
+  "en": "Died on",
+  "t": "死亡日期"
+ },
+ "c0833adfe000": {
+  "en": "Raise",
+  "t": "提高"
+ },
+ "c09396526fc2": {
+  "en": "Print a trip",
+  "t": "打印旅程"
+ },
+ "c0fdfe221d43": {
+  "en": "Saved {time}",
+  "t": "已于 {time} 保存"
+ },
+ "c12f0e8d7ce9": {
+  "en": "Read <b>How a West March runs</b> in the DM guide.",
+  "t": "阅读DM指南中的<b>西境怎么运作</b>。"
+ },
+ "c1433ebf32b4": {
+  "en": "{month} {day}",
+  "t": "{month}{day}日"
+ },
+ "c167eb27878c": {
+  "en": "A hint of: {what}",
+  "t": "迹象：{what}"
+ },
+ "c18b786fd157": {
+  "en": "Every road and sea lane",
+  "t": "所有道路和航线"
+ },
+ "c19474015cf5": {
+  "en": "Exhaustion level {n}",
+  "t": "力竭等级 {n}"
+ },
+ "c198d1306fd8": {
+  "en": "Faction reputation",
+  "t": "派系声望"
+ },
+ "c21d0058bbf9": {
+  "en": "Label for this circle",
+  "t": "这个圈的标签"
+ },
+ "c2745f64fa90": {
+  "en": "Grab a quest. Sign in blood. Come back alive.",
+  "t": "接下委托。以血签名。活着回来。"
+ },
+ "c2db85e96205": {
+  "en": "One-page reference card",
+  "t": "单页速查卡"
+ },
+ "c2f29f89430e": {
+  "en": "First day of the trip",
+  "t": "旅程第一天"
+ },
+ "c348746f0425": {
+  "en": "{n} days",
+  "t": "{n} 天"
+ },
+ "c388207782c5": {
+  "en": "Back to the planner",
+  "t": "返回计划"
+ },
+ "c38ae85a7237": {
+  "en": "Couldn't load this page",
+  "t": "无法加载此页面"
+ },
+ "c4c39aa5c54b": {
+  "en": "Trip",
+  "t": "旅程"
+ },
+ "c512e926c921": {
+  "en": "Person",
+  "t": "人物"
+ },
+ "c52b9da892d6": {
+  "en": "Status",
+  "t": "状态"
+ },
+ "c531b1b7f157": {
+  "en": "Events",
+  "t": "事件"
+ },
+ "c564fbf4538b": {
+  "en": "In a hurry? Take one of the nine pre-made level 3 adventurers.",
+  "t": "赶时间？从九位3级预设冒险者里挑一位。"
+ },
+ "c573ce79b108": {
+  "en": "Aquamarines",
+  "t": "阿夸马林"
+ },
+ "c591968fda33": {
+  "en": "{fast} days at Fast · {std} at Standard · {slow} at Slow",
+  "t": "快速 {fast} 天 · 标准 {std} 天 · 慢速 {slow} 天"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "出发地"
+ },
+ "c62c3d9454a5": {
+  "en": "12am–6am",
+  "t": "0点–6点"
+ },
+ "c64a87a0529d": {
+  "en": "Amethysts",
+  "t": "阿米西斯特"
+ },
+ "c68ea525cb56": {
+  "en": "{n} sapphire",
+  "t": "{n} 萨菲尔"
+ },
+ "c6b6472e2451": {
+  "en": "; dropped {list}",
+  "t": "；舍弃 {list}"
+ },
+ "c719515cbd2f": {
+  "en": "Pick your in-world year (default: the 1040s A.G.) and who's alive.",
+  "t": "选定你的世界年份（默认：1040年代 A.G.）以及谁还活着。"
+ },
+ "c78028284d74": {
+  "en": "Tier {roman}",
+  "t": "第 {roman} 级"
+ },
+ "c7b51769a9fd": {
+  "en": "Settings",
+  "t": "设置"
+ },
+ "c7edecf03576": {
+  "en": "Feet and miles",
+  "t": "英尺和英里"
+ },
+ "c83d0d215590": {
+  "en": "Roll an encounter (d12)",
+  "t": "掷一次遭遇（d12）"
+ },
+ "c87daba3ac0d": {
+  "en": "What's really going on:",
+  "t": "真实情况："
+ },
+ "c8a9d51017e9": {
+  "en": "Angry",
+  "t": "愤怒"
+ },
+ "c8ba866b7726": {
+  "en": "Day {n}, {shift}",
+  "t": "第 {n} 天，{shift}"
+ },
+ "c8cf2919f254": {
+  "en": "Print or share the handouts: quest board, Party Wanted, badge cards, the players' reference card.",
+  "t": "打印或分享道具：委托板、组队招募、身份牌卡片、玩家速查卡。"
+ },
+ "c8fd6125b109": {
+  "en": "Body kept on ice",
+  "t": "尸体用冰保存"
+ },
+ "c9531522b042": {
+  "en": "Revived",
+  "t": "已复活"
+ },
+ "c95785a287d1": {
+  "en": "Once per circle (faster for long trips)",
+  "t": "每个圈一次（长途更快）"
+ },
+ "c97caad6b232": {
+  "en": "Fauna & flora",
+  "t": "动物与植物"
+ },
+ "c99b50cb40d4": {
+  "en": "Restless",
+  "t": "躁动不安"
+ },
+ "c9ef17fc0370": {
+  "en": "Magi",
+  "t": "玛姬"
+ },
+ "ca2710f69bc9": {
+  "en": "Deal modifier",
+  "t": "交易调整值"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "等级"
+ },
+ "ca4daee5f703": {
+  "en": "Learn travel and events",
+  "t": "学习旅行与事件"
+ },
+ "cabf599ee3ef": {
+  "en": "If the quest fails",
+  "t": "如果委托失败"
+ },
+ "caf3f3c5721c": {
+  "en": "(+2-ish, Hash)",
+  "t": "（约+2，哈什）"
+ },
+ "cb06cf6e8001": {
+  "en": "Read <b>The World at a Glance</b> (about five minutes).",
+  "t": "阅读<b>世界概览</b>（约五分钟）。"
+ },
+ "cb9bb8301917": {
+  "en": "No trips yet.",
+  "t": "还没有旅程。"
+ },
+ "ccde9424b8f7": {
+  "en": "Amount for {name}",
+  "t": "给{name}的数值"
+ },
+ "cce69349ac6b": {
+  "en": "Deadline = round trip plus 50%, rounded up. Each shift of travel is one of four per day.",
+  "t": "期限 = 往返天数加50%，向上取整。旅行的每个时段是一天四个时段之一。"
+ },
+ "cd0d54e2cfdc": {
+  "en": "Add a pre-made one",
+  "t": "添加预设冒险者"
+ },
+ "cd546f9635bc": {
+  "en": "e.g. Moacir 14th, or trip day 6",
+  "t": "例如 莫阿西尔14日，或旅程第6天"
+ },
+ "cd5fc2553380": {
+  "en": "Every Graveyard and Night shift",
+  "t": "每个深夜和夜晚时段"
+ },
+ "cd8a9469d27b": {
+  "en": "AI disclosure",
+  "t": "AI使用说明"
+ },
+ "cdb891719589": {
+  "en": "Nothing happens. Describe the scenery, or the food.",
+  "t": "什么也没发生。描述一下风景，或者食物。"
+ },
+ "cea2b18d5c7f": {
+  "en": "Name",
+  "t": "名称"
+ },
+ "ced027cfce5c": {
+  "en": "Start here",
+  "t": "从这里开始"
+ },
+ "cfd20d2f37f2": {
+  "en": "<b>Go-between:</b> {who}. <b>Cut:</b> {cut}%. <b>Cargo:</b> {cargo}. <b>Payment:</b> {pay}.",
+  "t": "<b>中间人：</b>{who}。<b>分成：</b>{cut}%。<b>货物：</b>{cargo}。<b>报酬：</b>{pay}。"
+ },
+ "cfd885014c06": {
+  "en": "One circle fewer",
+  "t": "减少一个圈"
+ },
+ "d0813c1bbad9": {
+  "en": "Get ready to play",
+  "t": "准备开玩"
+ },
+ "d0fb3b18f08e": {
+  "en": "Circles from the map",
+  "t": "按地图计算圈数"
+ },
+ "d195ee96b2c7": {
+  "en": "Next day",
+  "t": "下一天"
+ },
+ "d28e8d65bb50": {
+  "en": "Character level",
+  "t": "角色等级"
+ },
+ "d3203205f15c": {
+  "en": "Regain 1 Soul Point",
+  "t": "恢复1点灵魂点数"
+ },
+ "d3292f103cde": {
+  "en": "Prepare a session",
+  "t": "准备一次跑团"
+ },
+ "d358163edb12": {
+  "en": "Nothing to print for this circle.",
+  "t": "这个圈没有可打印的内容。"
+ },
+ "d3711318a9d1": {
+  "en": "Quest deadline",
+  "t": "委托期限"
+ },
+ "d3add19d62e8": {
+  "en": "Lower Heat",
+  "t": "降低热度"
+ },
+ "d493aae73a80": {
+  "en": "Know your way around already?",
+  "t": "已经很熟悉了？"
+ },
+ "d528fd6bf472": {
+  "en": "Print or save as PDF",
+  "t": "打印或存为PDF"
+ },
+ "d55f934d2c4b": {
+  "en": "Region (encounter table)",
+  "t": "地区（遭遇表）"
+ },
+ "d5e802f2f64a": {
+  "en": "Days per circle",
+  "t": "每圈天数"
+ },
+ "d60d4b2893ac": {
+  "en": "My adventurers",
+  "t": "我的冒险者"
+ },
+ "d69af9b2ba01": {
+  "en": "Lore index",
+  "t": "设定索引"
+ },
+ "d6ff375c5986": {
+  "en": "Your own event",
+  "t": "自定义事件"
+ },
+ "d746ce464925": {
+  "en": "Travel and quest deadline",
+  "t": "旅行与委托期限"
+ },
+ "d8564c5ee89f": {
+  "en": "Load a save file",
+  "t": "载入保存文件"
+ },
+ "d875d1a89e07": {
+  "en": "Roll Morning and Afternoon too",
+  "t": "上午和下午也掷"
+ },
+ "d8918bb008bd": {
+  "en": "{circles} from {from} to {to}.",
+  "t": "从{from}到{to}共{circles}。"
+ },
+ "d8e21a4c6ccf": {
+  "en": "Time, calendar & units",
+  "t": "时间、历法与单位"
+ },
+ "d8f50deb5aa2": {
+  "en": "Every Graveyard and Night shift, plus Morning and Afternoon",
+  "t": "每个深夜和夜晚时段，外加上午和下午"
+ },
+ "d91022df5c87": {
+  "en": "Secrets & danger",
+  "t": "秘密与危险"
+ },
+ "d962170decf4": {
+  "en": "Open each shift in the travel planner to run it: creatures, HP, initiative and notes.",
+  "t": "在旅行计划里打开每个时段来主持：生物、HP、先攻和笔记。"
+ },
+ "da444c4ea594": {
+  "en": "Advantage",
+  "t": "优势"
+ },
+ "da5664ae21f9": {
+  "en": "Rampage",
+  "t": "大暴走"
+ },
+ "da621eb881b1": {
+  "en": "Dark",
+  "t": "深色"
+ },
+ "dbdd22cf4b3a": {
+  "en": "No entries yet.",
+  "t": "还没有记录。"
+ },
+ "dc606b9ae038": {
+  "en": "Cargo (d8)",
+  "t": "货物（d8）"
+ },
+ "dc617689e195": {
+  "en": "House rules",
+  "t": "本桌规则"
+ },
+ "dd575f78074a": {
+  "en": "Rations, round trip",
+  "t": "口粮（往返）"
+ },
+ "ddd13ed8100b": {
+  "en": "DM secrets",
+  "t": "DM秘密"
+ },
+ "ddf9e681d233": {
+  "en": "Yours",
+  "t": "自定"
+ },
+ "de262c99bfb6": {
+  "en": "Mark as not done",
+  "t": "标为未完成"
+ },
+ "de61280dff44": {
+  "en": "Rumors",
+  "t": "传闻"
+ },
+ "df15d9765ea9": {
+  "en": "Skip to my adventurers",
+  "t": "直接去我的冒险者"
+ },
+ "df649c4546e2": {
+  "en": "Each share",
+  "t": "每份"
+ },
+ "e01153b98411": {
+  "en": "Trip name",
+  "t": "旅程名称"
+ },
+ "e04999c40e55": {
+  "en": "View or edit this page on GitHub",
+  "t": "在 GitHub 上查看或编辑本页"
+ },
+ "e08e6369fca5": {
+  "en": "How it works",
+  "t": "怎么玩"
+ },
+ "e0a9fe9472b5": {
+  "en": "Pick any class (magic is soul energy science) and a background.",
+  "t": "任选职业（魔法就是灵魂能量科学）和背景。"
+ },
+ "e0d9b1cbee39": {
+  "en": "Roll on the campaign's tables between sessions or at the table. Results stack up below until you clear them.",
+  "t": "在跑团之间或跑团时掷战役的表格。结果会堆在下面，直到你清除。"
+ },
+ "e114c9cb8484": {
+  "en": "Nothing rolled yet.",
+  "t": "还没有掷过。"
+ },
+ "e133fa1cff0d": {
+  "en": "Almost there",
+  "t": "快好了"
+ },
+ "e1ca394edb15": {
+  "en": "Same as trip ({region})",
+  "t": "与旅程相同（{region}）"
+ },
+ "e1fc7c6553d2": {
+  "en": "Long rest",
+  "t": "长休"
+ },
+ "e215abe6da2e": {
+  "en": "Rolls from <a href=\"{url}\">The Inside Job</a>. The Deal roll stays secret: only you see this page.",
+  "t": "出自<a href=\"{url}\">内应计划</a>的检定。交易检定是秘密的：只有你能看到这个页面。"
+ },
+ "e2c04f102a8f": {
+  "en": "HP now / notes",
+  "t": "当前HP / 笔记"
+ },
+ "e33449a8c2ea": {
+  "en": "The world at a glance",
+  "t": "世界概览"
+ },
+ "e33cb445fad1": {
+  "en": "All world lore",
+  "t": "全部世界观"
+ },
+ "e3d95e017a11": {
+  "en": "Month",
+  "t": "月"
+ },
+ "e43a6086ffe5": {
+  "en": "Clear every event on this trip, including fights and notes?",
+  "t": "清除本次旅程的所有事件，包括战斗和笔记？"
+ },
+ "e49daa57c3e2": {
+  "en": "Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.",
+  "t": "你输入的所有内容都会随时保存在这个浏览器里。下载保存文件可以备份，或带到其他设备上。"
+ },
+ "e49f8044651a": {
+  "en": "Encounters",
+  "t": "遭遇"
+ },
+ "e4be842da18e": {
+  "en": "An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. Players come and go, every party starts and ends at a Forway embassy, and whatever one party finds stays found for everyone.",
+  "t": "一场以#HusbandOutWorld世界为舞台的开放式D&amp;D 5e战役。玩家来来去去，每支队伍都从福威大使馆出发并回到那里，一支队伍发现的东西，对所有人来说都一直存在。"
+ },
+ "e4bfd5cb0676": {
+  "en": "Fernan",
+  "t": "费尔南"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "萨菲尔"
+ },
+ "e5480c1499c9": {
+  "en": "Session log",
+  "t": "跑团日志"
+ },
+ "e5666860cb4c": {
+  "en": "One roll per circle",
+  "t": "每个圈掷一次"
+ },
+ "e5d3567a4cb3": {
+  "en": "Quiet. Doors open; a new room appears 1 in 6.",
+  "t": "安静。门是开着的；有1/6的几率出现新房间。"
+ },
+ "e5e4b9515f93": {
+  "en": "Mind the deadline: the round trip in days, plus 50%.",
+  "t": "注意期限：往返天数再加50%。"
+ },
+ "e673648959e5": {
+  "en": "Filter",
+  "t": "筛选"
+ },
+ "e75220723f0c": {
+  "en": "standard",
+  "t": "标准"
+ },
+ "e7b81ef0f33e": {
+  "en": "Back a day",
+  "t": "后退一天"
+ },
+ "e8465d92bca6": {
+  "en": "Printable props for the table: quest notices, wanted posters, a blood contract, badges and more. Print the whole set, or open one to show on screen.",
+  "t": "可打印的跑团道具：委托告示、通缉令、血契、身份牌等等。可以整套打印，也可以打开一张在屏幕上展示。"
+ },
+ "e89b644521fd": {
+  "en": "Max Soul Points",
+  "t": "灵魂点数上限"
+ },
+ "e8e0f345bb52": {
+  "en": "Fill in From and To first.",
+  "t": "请先填写出发地和目的地。"
+ },
+ "e919dd6891e5": {
+  "en": "{start} to {end}",
+  "t": "{start}至{end}"
+ },
+ "e98e9776f7f3": {
+  "en": "Today's Castle Mood",
+  "t": "今天的城堡心情"
+ },
+ "e992f20bdf71": {
+  "en": "Remove {name}?",
+  "t": "移除 {name}？"
+ },
+ "e99722740a42": {
+  "en": "Players drive a West March. Before a session, agree on a quest with whoever's free and tell the DM so they can prepare.",
+  "t": "西境由玩家推动。跑团前，和有空的人商量好委托，并告诉DM好让他准备。"
+ },
+ "ea7972ec280c": {
+  "en": "The Inside Job",
+  "t": "内应计划"
+ },
+ "ea96707ee3a1": {
+  "en": "Nari gels, bombs & stones",
+  "t": "纳里凝胶、炸弹与石头"
+ },
+ "eac6a30d75b8": {
+  "en": "<b>Heat</b> {n} · talking their way out: DC {dc}",
+  "t": "<b>热度</b> {n} · 靠嘴脱身：DC {dc}"
+ },
+ "eb450d95c9df": {
+  "en": "Making an adventurer",
+  "t": "创建冒险者"
+ },
+ "ec2681a0b9e9": {
+  "en": "World, lore and characters © Deovandski Skibinski Junior. Art by Mitsukiven &amp; Feiourm. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of Deovandski Skibinski Junior. Licensed CC-BY-NC-SA-4.0. Monetized videos and posts about it are welcome; other commercial use needs approval (<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> or <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>). Site text and code are AI-assisted; see the <a href=\"{url}\">AI disclosure</a>.",
+  "t": "世界、设定与角色 © Deovandski Skibinski Junior。美术：Mitsukiven &amp; Feiourm。<em>A Husband Out of This World</em> 与 #HusbandOutWorld 是 Deovandski Skibinski Junior 的商标。采用 CC-BY-NC-SA-4.0 许可。欢迎制作有收益的相关视频和帖子；其他商业用途需要获得许可（<a href=\"https://www.linkedin.com/in/deovandski/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a> 或 <a href=\"mailto:Deovandski@outlook.com\">Deovandski@outlook.com</a>）。本站的文字和代码借助了 AI；详见<a href=\"{url}\">AI 使用说明</a>。"
+ },
+ "ec796ebf3015": {
+  "en": "Player 101",
+  "t": "玩家入门"
+ },
+ "ed0c9ac14f52": {
+  "en": "Long rest: HP restored, +1 SP, −1 exhaustion for everyone still standing.",
+  "t": "长休：所有还站着的人恢复全部HP，SP +1，力竭 −1。"
+ },
+ "ed4a38fe9259": {
+  "en": "DM",
+  "t": "DM"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "阿夸马林"
+ },
+ "edf860e1b012": {
+  "en": "Download a save file now and then as a backup.",
+  "t": "时不时下载一个保存文件作为备份。"
+ },
+ "ee41d8fc4331": {
+  "en": "Circles to go",
+  "t": "剩余圈数"
+ },
+ "ee5807acbeef": {
+  "en": "about <b>{days}</b>",
+  "t": "约<b>{days}</b>"
+ },
+ "ef6a55c5abea": {
+  "en": "About this website",
+  "t": "关于本网站"
+ },
+ "efb7751b866b": {
+  "en": "nothing",
+  "t": "无"
+ },
+ "f1989158ed20": {
+  "en": "Count a purse",
+  "t": "清点钱袋"
+ },
+ "f1abfbed9a87": {
+  "en": "Castle Mood rules",
+  "t": "城堡心情规则"
+ },
+ "f1b8b438a53d": {
+  "en": "The fewest circles, adding up legs through towns. Numbers from the <a href=\"{url}\">route lengths table</a>.",
+  "t": "经过城镇时把各段加起来的最少圈数。数字来自<a href=\"{url}\">路线长度表</a>。"
+ },
+ "f2be7a7f42df": {
+  "en": "Pick an entry…",
+  "t": "选择一个条目…"
+ },
+ "f2c02022cd69": {
+  "en": "Quiet",
+  "t": "安静"
+ },
+ "f371cc88e321": {
+  "en": "Cut:",
+  "t": "分成："
+ },
+ "f396a3d9935f": {
+  "en": "Something hints at this: {what} (tracks, smoke, a rumor, a corpse).",
+  "t": "有东西预示着这件事：{what}（足迹、烟、传闻、尸体）。"
+ },
+ "f3c0778bcb91": {
+  "en": "Encounters come from the d12 table for the region.",
+  "t": "遭遇来自该地区的d12表。"
+ },
+ "f3fdebd36879": {
+  "en": "No one yet. Add creatures from the stat blocks, a custom foe, or the party.",
+  "t": "还没有人。从数据卡添加生物、自定义敌人，或添加队伍。"
+ },
+ "f4679e69ca85": {
+  "en": "The players pick where to go: a quest from the board, a rumor or a spot on the map.",
+  "t": "玩家决定去哪儿：委托板上的委托、一条传闻，或地图上的某个地点。"
+ },
+ "f4768c03d6f5": {
+  "en": "Vraki is also the name of the world's script, which began as a 2017 app.",
+  "t": "弗拉基也是这个世界文字的名字，它起源于2017年的一款应用。"
+ },
+ "f54ee2b6896a": {
+  "en": "The world",
+  "t": "世界"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "目的地"
+ },
+ "f605103556c3": {
+  "en": "{date}: d6 {n}, mood {before} → {after} ({mood})",
+  "t": "{date}：d6 {n}，心情 {before} → {after}（{mood}）"
+ },
+ "f635a4e7a3ae": {
+  "en": "At the table",
+  "t": "跑团时用"
+ },
+ "f6aa2d089474": {
+  "en": "Six steps to run your first session, and the loop you'll repeat before and after each one. Open the links when you need the details.",
+  "t": "主持第一次跑团的六个步骤，以及每次前后都要重复的流程。需要细节时再打开链接。"
+ },
+ "f6bcbf214bcf": {
+  "en": "Quick math for balls, travel, deadlines, revival debt and soul energy, using this campaign's rules. Change any number and the answer updates.",
+  "t": "按本战役的规则，快速计算球、旅行、期限、复活债和灵魂能量。改任何数字，答案都会更新。"
+ },
+ "f6e026cfb826": {
+  "en": "Tools",
+  "t": "工具"
+ },
+ "f7fd9362ad7e": {
+  "en": "Nothing set for this shift. Roll it, or pick what happens above.",
+  "t": "这个时段还没有设定。掷一下，或在上面选择发生什么。"
+ },
+ "f81f2b2637b7": {
+  "en": "Skip to content",
+  "t": "跳到正文"
+ },
+ "f840581b4a7a": {
+  "en": "Sharp map saved for offline use",
+  "t": "清晰地图已保存，可离线使用"
+ },
+ "f8a5de5d3b0e": {
+  "en": "Save and load",
+  "t": "保存与载入"
+ },
+ "f95ed6f5d34d": {
+  "en": "Furious",
+  "t": "暴怒"
+ },
+ "f989f6cb1446": {
+  "en": "Soul Points and tiers",
+  "t": "灵魂点数与等级"
+ },
+ "f99a1715bda2": {
+  "en": "<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid.",
+  "t": "<b>死亡：</b>及时把你的尸体送到大使馆，福威就会让你复活，之后拿走你委托报酬的50%，直到还清债务。"
+ },
+ "f9c773664157": {
+  "en": "Adventurers, guilds & professions",
+  "t": "冒险者、公会与职业"
+ },
+ "faa835e761a9": {
+  "en": "Delete “{name}” and all its events?",
+  "t": "删除“{name}”及其所有事件？"
+ },
+ "fac7838424a1": {
+  "en": "Handout gallery",
+  "t": "道具图库"
+ },
+ "faf9e6c2da19": {
+  "en": "Plan the trip in the <b>travel planner</b>: pick From and To and it counts the circles from the map; set the days per circle, then roll the events.",
+  "t": "在<b>旅行计划</b>中规划旅程：选好出发地和目的地，它会从地图上数出圈数；设定每圈天数，然后掷事件。"
+ },
+ "fb8e3afdbfba": {
+  "en": "Save file loaded.",
+  "t": "保存文件已载入。"
+ },
+ "fbea82286f78": {
+  "en": "Rolled twice: (1) {a} (2) {b}",
+  "t": "掷了两次：（1）{a}（2）{b}"
+ },
+ "fcc20146dd3d": {
+  "en": "Site",
+  "t": "网站"
+ },
+ "fcd49b4c4a7b": {
+  "en": "Save file downloaded.",
+  "t": "保存文件已下载。"
+ },
+ "fce5960036ad": {
+  "en": "In-world date",
+  "t": "世界内日期"
+ },
+ "fcf13a9483de": {
+  "en": "Reputation with {name}",
+  "t": "与{name}的声望"
+ },
+ "fd6d73ae6d1e": {
+  "en": "Table entry",
+  "t": "表中条目"
+ },
+ "febd2122d0ca": {
+  "en": "Dead",
+  "t": "死亡"
+ },
+ "fed56c5c5c1d": {
+  "en": "{n} of {total} steps done",
+  "t": "已完成 {n}/{total} 步"
+ },
+ "ff16e2bcf015": {
+  "en": "Replace this shift's event? Its notes and fight go too.",
+  "t": "替换这个时段的事件？它的笔记和战斗也会一起删除。"
+ },
+ "ff17ae0d0e6e": {
+  "en": "the offer comes before they leave.",
+  "t": "提议在出发前就来了。"
+ },
+ "ff53306cf2ab": {
+  "en": "Add the party ({n})",
+  "t": "添加队伍（{n}）"
+ },
+ "ff77049abf40": {
+  "en": "d6 {n}: {pct}% of the cargo's value. Each successful DC 13 Persuasion adds 10% (max 60%).",
+  "t": "d6 {n}：货物价值的 {pct}%。每次成功的 DC 13 游说检定增加10%（最多60%）。"
+ },
+ "ff951936ea78": {
+  "en": "Quest board",
+  "t": "委托板"
+ },
+ "ffa2caa57460": {
+  "en": "Dangerous trip: encounters on 1–2",
+  "t": "危险旅程：掷出1–2即遭遇"
+ }
+}

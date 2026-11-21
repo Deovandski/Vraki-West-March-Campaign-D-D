@@ -1,0 +1,334 @@
+{
+ "0112f36bf6be": {
+  "en": "[Handouts](Handouts)",
+  "t": "[道具](Handouts)"
+ },
+ "059965130ec2": {
+  "en": "Links to the main repo (November 2026)",
+  "t": "指向主仓库的链接（2026年11月）"
+ },
+ "05b0cd20590c": {
+  "en": "This repo was built with an AI assistant, **Claude** (by Anthropic), working from the #HusbandOutWorld series. This page says plainly which parts are human work, which parts the AI wrote, and how the two fit together.",
+  "t": "这个仓库是借助AI助手**Claude**（Anthropic出品），以#HusbandOutWorld系列为基础制作的。本页清楚地说明哪些部分是人的作品、哪些部分由AI写成，以及两者是如何结合的。"
+ },
+ "06caed4fab44": {
+  "en": "Copyright, trademark and font notices (November 2026)",
+  "t": "版权、商标和字体声明（2026年11月）"
+ },
+ "09656f9a6dee": {
+  "en": "**The world is human-made.** The lore, the kingdoms, the characters, the names, the original Alpha D&D campaign and the Vraki font come from Deovandski Skibinski Junior, and the illustrations are by the series' artists, **Mitsukiven** and **Feiourm**. All of it comes from the #HusbandOutWorld series: the originals in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) (the full docs in `Behind The Scenes`, and the old blog, now retired, in `Public`).",
+  "t": "**世界是人创造的。** 设定、王国、角色、名字、原版阿尔法D&D战役和Vraki字体都出自Deovandski Skibinski Junior，插画出自系列画师**Mitsukiven**和**Feiourm**。这一切都来自#HusbandOutWorld系列：原始资料在主仓库的[Legacy文件夹](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy)里（完整文档在`Behind The Scenes`中，已停用的旧博客在`Public`中）。"
+ },
+ "0f046dee898a": {
+  "en": "D&D 5e itself (Wizards of the Coast) provides the underlying game system: classes, spells and the monster and NPC stat blocks that these rules reskin.",
+  "t": "D&D 5e本身（威世智）提供了底层的游戏系统：职业、法术，以及这些规则重新包装的怪物和NPC数据。"
+ },
+ "111cbb9f3b91": {
+  "en": "Where it comes from",
+  "t": "来源"
+ },
+ "11b4664eeef5": {
+  "en": "West Marches format (Ben Robbins' [original idea](https://arsludi.lamemage.com/?p=81)); the world (human).",
+  "t": "西境格式（Ben Robbins的[最初构想](https://arsludi.lamemage.com/?p=81)）；世界（人）。"
+ },
+ "14f45bb4e6d6": {
+  "en": "Edited: replaced distance and Egua-speed math with circles, switched to normal initiative, added links.",
+  "t": "编辑：把距离和埃瓜速度的计算换成了圈，改用常规先攻，并加了链接。"
+ },
+ "1633e19fc35d": {
+  "en": "AI Disclosure",
+  "t": "AI使用说明"
+ },
+ "196789095a06": {
+  "en": "[README.md](README.md)",
+  "t": "[README.md](README.md)"
+ },
+ "19dfdfab66e0": {
+  "en": "Written by the AI (guards, bandits, Kozaku Forway, The Stinger and others).",
+  "t": "由AI编写（卫兵、强盗、小作·福威、斯廷格等）。"
+ },
+ "213392095475": {
+  "en": "[AI-DISCLOSURE.md](AI-DISCLOSURE.md)",
+  "t": "[AI-DISCLOSURE.md](AI-DISCLOSURE.md)"
+ },
+ "21528474094e": {
+  "en": "Added regions, loot and fixes (\"Monica\" → Monika), and new entries: Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies and the Hash template.",
+  "t": "加上了地区、战利品和修正（“Monica”→莫妮卡），以及新条目：变形者、特朗克皮普尔、纳里虫、弗林加、布伦托斯、怀特朗迪斯和哈什模板。"
+ },
+ "22395c22f6fe": {
+  "en": "Written by the AI.",
+  "t": "由AI编写。"
+ },
+ "2426792c3604": {
+  "en": "Art by Mitsukiven and Feiourm from the main repo's Illustrations (emblems, Forway stamp, gemstone balls, nari stones, Kozaku Forway, Walking Flathead, Winga) and the Vraki font by Deovandski (human). Facts and prices from the rules above.",
+  "t": "Mitsukiven和Feiourm在主仓库插画中的美术（徽章、福威印章、宝石球、纳里石、小作·福威、沃金·弗拉特黑德、温加）以及Deovandski的Vraki字体（人）。事实和价格来自上面的规则。"
+ },
+ "2544372fad3c": {
+  "en": "[02 – 09](D&D%20Campaign) (Making an Adventurer, Soul Energy, Nari Gels, Death & Revival, Quest Board, Events, Dangerous Places, Factions)",
+  "t": "[02 – 09](D&D%20Campaign)（创建冒险者、灵魂能量、纳里凝胶、死亡与复活、委托板、事件、危险之地、派系）"
+ },
+ "25fbcf856981": {
+  "en": "[Stat Blocks/People](D&D%20Campaign/Stat%20Blocks/People.md)",
+  "t": "[数据卡/人物](D&D%20Campaign/Stat%20Blocks/People.md)"
+ },
+ "2fd30993a3a1": {
+  "en": "[Stat Blocks/Beasts](D&D%20Campaign/Stat%20Blocks/Beasts.md), [Fauna](D&D%20Campaign/Stat%20Blocks/Fauna.md)",
+  "t": "[数据卡/魔兽](D&D%20Campaign/Stat%20Blocks/Beasts.md)、[动物](D&D%20Campaign/Stat%20Blocks/Fauna.md)"
+ },
+ "31ee7617126d": {
+  "en": "The short version",
+  "t": "简短版"
+ },
+ "330ffd158080": {
+  "en": "Wrote the new sections (what this repo is, West Marches, travel without math, the folder table, the AI disclosure link).",
+  "t": "写了新的部分（这个仓库是什么、西境、不用算的旅行、文件夹表格、AI使用说明的链接）。"
+ },
+ "357da0a67393": {
+  "en": "Copied unchanged from the main repo (human).",
+  "t": "原样复制自主仓库（人）。"
+ },
+ "3f2cb8c9539a": {
+  "en": "Modeled on the questions in IBM's [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
+  "t": "参照IBM的[AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit)中的问题（用了什么AI、它贡献了什么、人对它做了多少调整、由谁负责）："
+ },
+ "416947c2a87c": {
+  "en": "Reads this repo's Markdown files as they are. The app icons are the Forway emblem (human art), resized and placed on the site's green; the shortcut icons are crops of the travel map and the quest board handout. Art by Mitsukiven and Feiourm and the Vraki font by Deovandski, reused from the Handouts folder (human). Third-party files, unmodified: [marked](https://github.com/markedjs/marked) (MIT License) and the TeX Gyre Schola and Heros Cn fonts (GUST Font License).",
+  "t": "按原样读取本仓库的Markdown文件。应用图标是福威徽章（人的美术作品），缩小后放在网站的绿色背景上；快捷方式图标是从旅行地图和委托板道具上裁下来的。Mitsukiven和Feiourm的美术以及Deovandski的Vraki字体，复用自Handouts文件夹（人）。第三方文件，未经修改：[marked](https://github.com/markedjs/marked)（MIT许可证）以及TeX Gyre Schola和Heros Cn字体（GUST Font License）。"
+ },
+ "49f5a0fc8661": {
+  "en": "Canon characters and factions (human).",
+  "t": "官方角色和派系（人）。"
+ },
+ "4a7180f9780f": {
+  "en": "The main repo has none.",
+  "t": "主仓库没有。"
+ },
+ "4aefca879966": {
+  "en": "File by file",
+  "t": "逐个文件"
+ },
+ "4c062abace42": {
+  "en": "Outside sources",
+  "t": "外部资料"
+ },
+ "4fe8702d747c": {
+  "en": "The AI read these for ideas about West Marches play, handouts and AI disclosure. No text was copied from them.",
+  "t": "AI阅读这些资料，是为了获得关于西境玩法、道具和AI使用说明的灵感。没有从中复制任何文字。"
+ },
+ "52441f72b101": {
+  "en": "[World Lore](World%20Lore) (README + 17 files)",
+  "t": "[世界设定](World%20Lore)（README + 17个文件）"
+ },
+ "53ca1fcbef5e": {
+  "en": "Copied it.",
+  "t": "复制了它。"
+ },
+ "55871d29772e": {
+  "en": "**Concept by Deovandski:** circles on the map, each worth 1, 2 or 3 days, the DM chooses. The four daily shifts come from the original Alpha campaign.",
+  "t": "**Deovandski的构想：** 地图上的圈，每个圈1、2或3天，由DM选择。每天四个时段来自原版阿尔法战役。"
+ },
+ "5e775b3d24ab": {
+  "en": "Canon secrets from the main repo and the novel notes (human).",
+  "t": "来自主仓库和小说笔记的官方秘密（人）。"
+ },
+ "63635a746bdb": {
+  "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
+  "t": "欢迎PR，有没有AI辅助都行。如果你在贡献中使用了AI，请在PR说明里写明，并在上面的表格里加一行。"
+ },
+ "641314bb9948": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
+  "t": "© Deovandski Skibinski Junior。采用 CC‑BY‑NC‑SA‑4.0 许可。"
+ },
+ "6a91dcee4cd2": {
+  "en": "Deovandski's request to match the main repo; the Vraki typeface license (human).",
+  "t": "Deovandski希望与主仓库保持一致；Vraki字体许可证（人）。"
+ },
+ "6b5a4f9d1d96": {
+  "en": "[LICENSE.md](LICENSE.md)",
+  "t": "[LICENSE.md](LICENSE.md)"
+ },
+ "7287a9e78fd5": {
+  "en": "Written by the AI (OS clutter, editor backups, `node_modules/` for the handout build).",
+  "t": "由AI编写（操作系统杂项、编辑器备份、用于生成道具的`node_modules/`）。"
+ },
+ "73fda769c36a": {
+  "en": "Designed the tables and mechanics (go-betweens, cut, Deal roll, Heat, patrols, debrief, punishments).",
+  "t": "设计了表格和机制（中间人、分成、交易检定、热度、巡逻、汇报、惩罚）。"
+ },
+ "740f030831ae": {
+  "en": "[D&D Campaign/README.md](D&D%20Campaign/README.md) (DM guide)",
+  "t": "[D&D Campaign/README.md](D&D%20Campaign/README.md)（DM指南）"
+ },
+ "7761ccb5c549": {
+  "en": "Path",
+  "t": "路径"
+ },
+ "77920fb913b0": {
+  "en": "[Maps](Maps)",
+  "t": "[地图](Maps)"
+ },
+ "77f03a8afc97": {
+  "en": "**Designed and coded by the AI:** the layout and look, and all the code (Markdown pages, search, dice tray, calculators, the travel map viewer and route finder, the installable app and offline support, travel planner, fight and party trackers, campaign tracker, bestiary, random tables, saving and loading). The tools read stat blocks, encounter tables, quests and the Inside Job tables straight from the Markdown. For people entries without their own AC and HP, the site uses the 5e SRD block the entry names (Bandit, Veteran, Spy and so on). The site's own text (menus, help, labels) is AI-written.",
+  "t": "**由AI设计并编写：** 布局和外观，以及全部代码（Markdown页面、搜索、骰盘、计算器、旅行地图查看器和路线查询、可安装的应用和离线支持、旅行计划、战斗和队伍记录、战役记录、怪物图鉴、随机表、保存和载入）。这些工具直接从Markdown中读取数据卡、遭遇表、委托和内应计划的表格。对于没有自己AC和HP的人物条目，网站使用条目所指的5e SRD数据（Bandit、Veteran、Spy等）。网站自身的文字（菜单、帮助、标签）由AI撰写。"
+ },
+ "7c53bfccd360": {
+  "en": "All facts come from the main repo's World Lore and the blog, both now in its [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) (human).",
+  "t": "所有事实都来自主仓库的世界设定和博客，两者现在都在其[Legacy文件夹](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy)里（人）。"
+ },
+ "7fa41da090e2": {
+  "en": "**Original Alpha campaign by Deovandski.**",
+  "t": "**Deovandski的原版阿尔法战役。**"
+ },
+ "7fb32bad49a9": {
+  "en": "**Game design by the AI:** the D&D mechanics (traits, DCs, dice tables, Soul Points, revival debt amounts, sample quests, encounter tables).",
+  "t": "**AI的游戏设计：** D&D机制（特质、DC、骰子表、灵魂点数、复活债金额、示例委托、遭遇表）。"
+ },
+ "8130257448a3": {
+  "en": "Wrote the rules text, pace table, supplies and getting-lost rules.",
+  "t": "编写了规则正文、节奏表、补给和迷路规则。"
+ },
+ "82d4a5faa440": {
+  "en": "[01 Travel by Circles](D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)",
+  "t": "[01 按圈旅行](D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)"
+ },
+ "899bcb3db3e5": {
+  "en": "**The translations are AI translations.** The site in Chinese, Japanese, Portuguese, Spanish, Arabic and Korean, and the translated handouts, were translated from the English by Claude. Every translated page says so at the top, with a link back to the English, which stays the original.",
+  "t": "**译文是AI翻译的。** 中文、日语、葡萄牙语、西班牙语、阿拉伯语和韩语版网站，以及翻译后的道具，都是Claude从英文翻译的。每个翻译页面顶部都会注明这一点，并附有回到英文的链接，英文始终是原文。"
+ },
+ "8f578d438ad2": {
+  "en": "Website ([`index.html`](index.html), [site](site), [`sw.js`](sw.js), `.nojekyll`)",
+  "t": "网站（[`index.html`](index.html)、[site](site)、[`sw.js`](sw.js)、`.nojekyll`）"
+ },
+ "94b962df00c8": {
+  "en": "**Much of the writing is AI-assisted.** The World Lore summaries, most of the West March rules, the new stat blocks, the handouts' text and layout, the website (its code and text), and this page were written by Claude, following Deovandski's direction and the existing lore.",
+  "t": "**大部分文字有AI辅助。** 世界设定摘要、西境的大部分规则、新的数据卡、道具的文字和排版、网站（代码和文字）以及本页，都是Claude按照Deovandski的指示和现有设定写成的。"
+ },
+ "9708748530b0": {
+  "en": "Built on canon lore: peoples, prices, ranks, interfaces, nari gels, laws, revival, factions (human).",
+  "t": "建立在官方设定之上：种族、价格、级别、界面、纳里凝胶、法律、复活、派系（人）。"
+ },
+ "9750c4a46579": {
+  "en": "World maps and art from the main repo (human). **The West March travel map** (`Vraki World Map - West March.png`, the circles and routes) is **hand-drawn by a human artist**, with the route lengths Deovandski gave as examples.",
+  "t": "来自主仓库的世界地图和美术（人）。**西境旅行地图**（`Vraki World Map - West March.png`，圈和路线）是**由人类画师手绘的**，路线长度参照了Deovandski给出的示例。"
+ },
+ "9820bb17e473": {
+  "en": "Attribution statement",
+  "t": "署名声明"
+ },
+ "9a0b610af517": {
+  "en": "IBM Research, [AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) · the Eclipse Foundation's [proposal for an AI_POLICY file in project repos](https://gitlab.eclipse.org/eclipsefdn/emo-team/emo-services/-/work_items/26)",
+  "t": "IBM Research，[AI Attribution Toolkit](https://www.research.ibm.com/blog/AI-attribution-toolkit) · Eclipse基金会[在项目仓库中加入AI_POLICY文件的提案](https://gitlab.eclipse.org/eclipsefdn/emo-team/emo-services/-/work_items/26)"
+ },
+ "a09c9f827d13": {
+  "en": "[DM Secrets](D&D%20Campaign/DM%20Secrets.md)",
+  "t": "[DM秘密](D&D%20Campaign/DM%20Secrets.md)"
+ },
+ "a81a8ec185f9": {
+  "en": "**Eight original pre-gens by Deovandski:** Harry, Magi, Fernan, Hiromi, July, Kaiana, Morika, Posaqui.",
+  "t": "**Deovandski原创的八个预制角色：** 哈利、玛姬、费尔南、弘美、朱莉、凯阿娜、莫里卡、波萨基。"
+ },
+ "b2317f09f20d": {
+  "en": "Compiled and summarized them.",
+  "t": "汇编并做了摘要。"
+ },
+ "b87aa89595e7": {
+  "en": "Ben Robbins, [Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81) (the original West Marches posts) · [West Marches](https://rpgmuseum.fandom.com/wiki/West_Marches) at the RPG Museum · [westmarches.games guide](https://www.westmarches.games/guide/resources)",
+  "t": "Ben Robbins，[Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81)（最初的西境文章） · RPG Museum的[West Marches](https://rpgmuseum.fandom.com/wiki/West_Marches) · [westmarches.games指南](https://www.westmarches.games/guide/resources)"
+ },
+ "ba43aca92657": {
+  "en": "Follows the style and the permissions text of the main repo's README (human).",
+  "t": "沿用主仓库README的风格和许可文字（人）。"
+ },
+ "c641e9e8421d": {
+  "en": "The main repo moved its original files into `Legacy/Behind The Scenes` and retired the blog.",
+  "t": "主仓库把原始文件移到了`Legacy/Behind The Scenes`，并停用了博客。"
+ },
+ "c7fd99c97d2b": {
+  "en": "The English pages, site text and handouts of this repo; the names and their spellings from HusbandOutWorld's translation glossaries; the official D&D 5e terms in each language. Deovandski chose the languages and asked for the banner, the language menu and the way names are written.",
+  "t": "本仓库的英文页面、网站文字和道具；名字及其写法来自HusbandOutWorld的翻译词汇表；各语言的D&D 5e官方术语。语言由Deovandski选定，提示横幅、语言菜单和名字的写法也是按他的要求做的。"
+ },
+ "cb67e9306a1b": {
+  "en": "**No AI-generated images.** Every picture in this repo is existing series art by Mitsukiven and Feiourm. The AI only cropped, scaled and removed white backgrounds from some of it (for the handouts).",
+  "t": "**没有AI生成的图片。** 本仓库里的每一张图都是Mitsukiven和Feiourm现有的系列美术作品。AI只对其中一部分做了裁切、缩放和去除白色背景（为了道具）。"
+ },
+ "cc947e2dc459": {
+  "en": "**Premise by Deovandski:** bandits offer the party a cut of the wagon; it might be a trap, guards might catch them, and they still have to talk their way past the Sanbi embassy.",
+  "t": "**Deovandski的前提：** 强盗向队伍提出分一份货车上的东西；这可能是个陷阱，卫兵可能会抓住他们，而且他们还得糊弄过桑比大使馆。"
+ },
+ "cf4ddc6a2d4e": {
+  "en": "[Adventurers](D&D%20Campaign/Adventurers)",
+  "t": "[冒险者](D&D%20Campaign/Adventurers)"
+ },
+ "d2c6cc28a537": {
+  "en": "**Translated by the AI:** every page except the license, the site's own text and the handouts, into Chinese (Simplified), Japanese, Portuguese (Brazil), Spanish (Spain), Arabic and Korean, and wrote the tools that store, check and build the translations and render the translated handouts. Not reviewed by native speakers yet.",
+  "t": "**由AI翻译：** 除许可证外的所有页面、网站自身的文字和道具，译成中文（简体）、日语、葡萄牙语（巴西）、西班牙语（西班牙）、阿拉伯语和韩语；并编写了保存、检查和构建翻译以及渲染翻译后道具的工具。尚未经过母语者审阅。"
+ },
+ "d3d324374c45": {
+  "en": "Added the shared \"Copyright and trademarks\" section to LICENSE.md and the footers, and a copy of the font license next to the font file the handouts use.",
+  "t": "在LICENSE.md和页脚中加入了共用的“Copyright and trademarks”部分，并在道具所用的字体文件旁放了一份字体许可证。"
+ },
+ "d47111163e87": {
+  "en": "D&D Beyond, [New Player's Guide: How to Make Awesome Handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)",
+  "t": "D&D Beyond，[New Player's Guide: How to Make Awesome Handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)"
+ },
+ "d5a450fad293": {
+  "en": "Contributing",
+  "t": "参与贡献"
+ },
+ "d8e6893156f8": {
+  "en": "Wrote the README. Counted the circles on every route for the route lengths table (a script found the circles, then each route was traced and checked against Deovandski's four examples), and made the smaller `web/` copies (resized only). (A hex map the AI generated earlier was rejected and is not in the repo.)",
+  "t": "写了README。为路线长度表数了每条路线上的圈（先用脚本找出圈，再逐条描出路线，并与Deovandski的四个示例核对），还制作了较小的`web/`版本（仅缩小尺寸）。（AI早先生成的一张六角格地图被否决了，不在仓库里。）"
+ },
+ "dc5f4b9e640b": {
+  "en": "**Designed and wrote** all 16 handouts (HTML/CSS layout and in-world text), and wrote the render script that makes the PDF and images. Image work was limited to cropping, scaling, removing white backgrounds and mirroring one image. Sample news stories, classifieds, the bandit note and some contract clauses are invented flavor, not canon.",
+  "t": "**设计并撰写了**全部16份道具（HTML/CSS排版和游戏内文字），并编写了生成PDF和图片的渲染脚本。图片处理仅限于裁切、缩放、去除白色背景，以及把一张图做了镜像。示例新闻、分类广告、强盗的纸条和一些合同条款是编出来的调味内容，不是官方设定。"
+ },
+ "dd2ca7d54894": {
+  "en": "**AI system:** Claude, a large language model by Anthropic, used as an assistant with access to the repo files (October–November 2026).\n**Human contribution:** all source material (the world, its lore and its characters, the original Alpha campaign, pre-gens and stat blocks, and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the campaign concept and design decisions; direction and approval of every commit.\n**AI contribution:** condensing the lore into summaries; designing and writing most rules, tables and new stat blocks; adapting the original campaign files; designing and writing the handouts; designing and coding the website and its tools; writing the build scripts; translating the site and the handouts into six languages.\n**Human modification:** Deovandski reviews and requests changes (for example, he rejected a generated hex map and replaced it with hand-drawn circles).\n**Accountability:** Deovandski Skibinski Junior.",
+  "t": "**AI系统：** Claude，Anthropic的大型语言模型，作为可访问仓库文件的助手使用（2026年10月–11月）。\n**人的贡献：** 所有原始素材（世界、设定和角色、原版阿尔法战役、预制角色和数据卡，以及Vraki字体，出自Deovandski Skibinski Junior；所有美术，出自Mitsukiven和Feiourm）；战役构想和设计决定；每次提交的指导和批准。\n**AI的贡献：** 把设定浓缩成摘要；设计并撰写大多数规则、表格和新的数据卡；改编原版战役文件；设计并撰写道具；设计并编写网站及其工具；编写构建脚本；把网站和道具翻译成六种语言。\n**人的修改：** Deovandski审阅并要求修改（例如，他否决了一张生成的六角格地图，换成了手绘的圈）。\n**负责人：** Deovandski Skibinski Junior。"
+ },
+ "e3464e9ec8a6": {
+  "en": "`.gitignore`",
+  "t": "`.gitignore`"
+ },
+ "eab8c9c1d037": {
+  "en": "What the AI did",
+  "t": "AI做了什么"
+ },
+ "ec1a303f5cce": {
+  "en": "Translations ([i18n](i18n), [`tools/i18n.js`](tools/i18n.js), November 2026)",
+  "t": "翻译（[i18n](i18n)、[`tools/i18n.js`](tools/i18n.js)，2026年11月）"
+ },
+ "ed06f7817e14": {
+  "en": "Updated every link that pointed at the old paths or the blog, and regenerated the website's bundled copy of the pages.",
+  "t": "更新了所有指向旧路径或博客的链接，并重新生成了网站打包的页面副本。"
+ },
+ "ef3e58ddd23f": {
+  "en": "Adjusted them for the West March rules (people, interface, Soul Points). Rebuilt Hiromi as a Darfaries brawler to match the lore. **Takeo** is new: the AI built him from Hiromi's old interrogator kit.",
+  "t": "按照西境规则做了调整（种族、界面、灵魂点数）。为了符合设定，把弘美重做成达尔法里斯格斗家。**武雄**是新角色：AI用弘美原来的审讯工具包做出了他。"
+ },
+ "efd40c68d94d": {
+  "en": "[Alpha One-Shot - Wagon Escort](D&D%20Campaign/Alpha%20One-Shot%20-%20Wagon%20Escort.md)",
+  "t": "[阿尔法单次冒险 - 货车护送](D&D%20Campaign/Alpha%20One-Shot%20-%20Wagon%20Escort.md)"
+ },
+ "f5e8e6cb3ccb": {
+  "en": "**Original stat blocks by Deovandski.**",
+  "t": "**Deovandski的原版数据卡。**"
+ },
+ "f984d854399a": {
+  "en": "**Condensed and reorganized** them into a shorter summary. The wording is AI; the facts are canon.",
+  "t": "把它们**浓缩并重新组织**成更短的摘要。措辞出自AI；事实是官方设定。"
+ },
+ "fa64ad08995f": {
+  "en": "Written by the AI. In November 2026 its links were updated when the main repo moved its originals into a Legacy folder, matching the main repo's own [AI disclosure](https://github.com/Deovandski/HusbandOutWorld/blob/main/AI-DISCLOSURE.md).",
+  "t": "由AI编写。2026年11月，主仓库把原始资料移到Legacy文件夹时，更新了其中的链接，与主仓库自己的[AI使用说明](https://github.com/Deovandski/HusbandOutWorld/blob/main/AI-DISCLOSURE.md)保持一致。"
+ },
+ "fb0993767e84": {
+  "en": "**A human decides.** Deovandski directed the work, set the design rules (for example, travel by circles), and chose what got committed. Not every line has had a detailed human review yet. If something here contradicts the series, **the series wins**: please open an issue or send a PR.",
+  "t": "**由人来决定。** Deovandski主导这项工作，制定设计规则（比如按圈旅行），并决定提交哪些内容。并不是每一行都已经过详细的人工审阅。如果这里的内容与系列有矛盾，**以系列为准**：请提issue或发PR。"
+ },
+ "fe396c69ee61": {
+  "en": "[10 The Inside Job](D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)",
+  "t": "[10 内应计划](D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)"
+ }
+}

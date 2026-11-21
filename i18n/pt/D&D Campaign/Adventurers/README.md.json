@@ -1,0 +1,154 @@
+{
+ "10a9436e4b22": {
+  "en": "These are canon characters from the novels. In the West March they're just adventurers of the 1040s — their book storylines don't apply unless your table wants them to.",
+  "t": "São personagens canônicos dos romances. Na West March, são só aventureiros dos anos 1040 — as histórias dos livros não se aplicam, a menos que a sua mesa queira."
+ },
+ "11d27b754235": {
+  "en": "[July Forway Tea-Drinkers](July%20Forway%20Tea-Drinkers.md)",
+  "t": "[July Forway Tea-Drinkers](July%20Forway%20Tea-Drinkers.md)"
+ },
+ "1a235aab5467": {
+  "en": "[Takeo Forway Tea-Drinkers](Takeo%20Forway%20Tea-Drinkers.md)",
+  "t": "[Takeo Forway Tea-Drinkers](Takeo%20Forway%20Tea-Drinkers.md)"
+ },
+ "1c65d91d2f61": {
+  "en": "Ranger",
+  "t": "Patrulheira"
+ },
+ "23bebc9819cf": {
+  "en": "Tank, storyteller",
+  "t": "Tanque, contador de histórias"
+ },
+ "261ad41d8cff": {
+  "en": "Adventurer",
+  "t": "Aventureiro"
+ },
+ "2f93ff40b81b": {
+  "en": "[Posaqui Sanbi](Posaqui%20Sanbi.md)",
+  "t": "[Posaqui Sanbi](Posaqui%20Sanbi.md)"
+ },
+ "36270285d9b3": {
+  "en": "Bard (Glamour)",
+  "t": "Bardo (Glamour)"
+ },
+ "3e2415eadd89": {
+  "en": "Fighter (archer)",
+  "t": "Guerreiro (arqueiro)"
+ },
+ "3fbe5136bfd4": {
+  "en": "[Kaiana Forway Cliff-Jumper](Kaiana%20Forway%20Cliff-Jumper.md)",
+  "t": "[Kaiana Forway Cliff-Jumper](Kaiana%20Forway%20Cliff-Jumper.md)"
+ },
+ "409ba0afccec": {
+  "en": "Fighter (brawler)",
+  "t": "Guerreiro (brigão)"
+ },
+ "5446ee964553": {
+  "en": "Nine level 3 adventurers, ported from the original Alpha campaign (previously in the #HusbandOutWorld repo) and adjusted for the West March rules (people, interface and Soul Points on every sheet).",
+  "t": "Nove aventureiros de nível 3, trazidos da campanha Alpha original (antes no repositório de #HusbandOutWorld) e ajustados às regras da West March (povo, interface e Soul Points em cada ficha)."
+ },
+ "591787b1bbc3": {
+  "en": "Human (Wozefaries blood)",
+  "t": "Humana (sangue wozefaries)"
+ },
+ "5b5e9ca6c739": {
+  "en": "People",
+  "t": "Pessoas"
+ },
+ "5c8fc79a524d": {
+  "en": "[Fernan Blood Blue-Flower-Red-Bone](Fernan%20Blood%20Blue-Flower-Red-Bone.md)",
+  "t": "[Fernan Blood Blue-Flower-Red-Bone](Fernan%20Blood%20Blue-Flower-Red-Bone.md)"
+ },
+ "7c1a86dee832": {
+  "en": "Barbarian",
+  "t": "Bárbaro"
+ },
+ "7f176a83bebb": {
+  "en": "[Hiromi High-Gandew Tough-Hammer](Hiromi%20High-Gandew%20Tough-Hammer.md)",
+  "t": "[Hiromi High-Gandew Tough-Hammer](Hiromi%20High-Gandew%20Tough-Hammer.md)"
+ },
+ "823b0f5bfc10": {
+  "en": "\"The Stinger\"",
+  "t": "«The Stinger»"
+ },
+ "874fb054ad37": {
+  "en": "Sorcerer",
+  "t": "Feiticeira"
+ },
+ "894bdc8feb65": {
+  "en": "Cook, face, oddball",
+  "t": "Cozinheiro, porta-voz, esquisitão"
+ },
+ "897335ee0ca8": {
+  "en": "Class",
+  "t": "Classe"
+ },
+ "97fc8e50e628": {
+  "en": "Close-quarters fighter (+ Sayna)",
+  "t": "Lutadora corpo a corpo (+ Sayna)"
+ },
+ "980e3c6878bd": {
+  "en": "Darfaries",
+  "t": "Darfaries"
+ },
+ "a5278fedbdc6": {
+  "en": "Hero, defender",
+  "t": "Herói, defensor"
+ },
+ "a7b637af9047": {
+  "en": "Human",
+  "t": "Humano"
+ },
+ "ba51341d6d2e": {
+  "en": "Interrogator",
+  "t": "Interrogador"
+ },
+ "bac32184cb52": {
+  "en": "Tracker, archer",
+  "t": "Rastreadora, arqueira"
+ },
+ "bb27af857f6f": {
+  "en": "\"Pure\" human",
+  "t": "Humano “puro”"
+ },
+ "cf9247401e0c": {
+  "en": "[Harry Sanbi](Harry%20Sanbi.md)",
+  "t": "[Harry Sanbi](Harry%20Sanbi.md)"
+ },
+ "daf2c39aa60b": {
+  "en": "Rogue (Inquisitive)",
+  "t": "Ladino (Inquisitivo)"
+ },
+ "dc53a70030ad": {
+  "en": "[Morika Tolerideme](Morika%20Tolerideme.md)",
+  "t": "[Morika Tolerideme](Morika%20Tolerideme.md)"
+ },
+ "e3a0c5a88d50": {
+  "en": "Pre-Generated Adventurers",
+  "t": "Aventureiros pré-gerados"
+ },
+ "e81b37e12d50": {
+  "en": "Soul-Touched (Ranger/Monk)",
+  "t": "Tocado pela Alma (patrulheiro/monge)"
+ },
+ "ed0d0ecaa745": {
+  "en": "Monk",
+  "t": "Monge"
+ },
+ "ee45e9fa824f": {
+  "en": "Face, information",
+  "t": "Porta-voz, informação"
+ },
+ "f040c86de0a5": {
+  "en": "[Magi Blood Blue-Flower-Red-Bone](Magi%20Blood%20Blue-Flower-Red-Bone.md)",
+  "t": "[Magi Blood Blue-Flower-Red-Bone](Magi%20Blood%20Blue-Flower-Red-Bone.md)"
+ },
+ "f6b099c1fe8b": {
+  "en": "Role",
+  "t": "Função"
+ },
+ "fa0f4afd3b0f": {
+  "en": "Blaster",
+  "t": "Artilharia"
+ }
+}

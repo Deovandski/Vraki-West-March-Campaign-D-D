@@ -1,0 +1,62 @@
+{
+ "09227714f03f": {
+  "en": "**People:** Human · **Class:** Sorcerer (Soul-Energy origin) · **Background:** Investor-Guild Adventurer (Cliff-Jumpers) · **Alignment:** Chaotic Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**种族：** 人类 · **职业：** 术士（灵魂能量起源） · **背景：** 投资公会冒险者（克利夫贾珀斯） · **阵营：** 混乱中立 · **级别：** 珀尔\n**界面：** 达尔法里斯 · **灵魂点数：** 3"
+ },
+ "17b8a8419a92": {
+  "en": "**Drunk Caster.** While drunk: spell damage +1, spell save DC −1.",
+  "t": "**醉酒施法者。** 喝醉时：法术伤害+1，法术豁免DC −1。"
+ },
+ "2933cf3cfe64": {
+  "en": "**Soul Slap.** +5 to hit, 1d4+2 psychic.",
+  "t": "**灵魂耳光。** 命中+5，1d4+2心灵。"
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "施法"
+ },
+ "4c5cf5b43ee6": {
+  "en": "**Soul Overdraw.** Once per day, convert 1 HP into 1 sorcery point (or 1 SP).",
+  "t": "**灵魂透支。** 每天一次，把1点HP转换成1个术法点（或1 SP）。"
+ },
+ "5cde0cc0a365": {
+  "en": "**Skills:** Arcana +3, Intimidation +5, Acrobatics +4\n**Equipment:** White-caster uniform, flask, sigil rings, spell focus crystal, badge.\n**Hook:** Never knew her father. (DM: see DM Secrets.)",
+  "t": "**技能：** 奥秘+3、威吓+5、特技+4\n**装备：** 白色施法者制服、酒壶、西吉尔戒指、法术聚焦水晶、身份牌。\n**剧情钩子：** 从没见过她父亲。（DM：见DM秘密。）"
+ },
+ "5ebfc416baf6": {
+  "en": "**Personal-Space Aggressor.** Advantage on Intimidation face-to-face.",
+  "t": "**个人空间入侵者。** 面对面时威吓具有优势。"
+ },
+ "6c38f8ce3494": {
+  "en": "**AC** 13 · **HP** 20 · **Speed** 30 ft\n**STR** 10 · **DEX** 14 · **CON** 12 · **INT** 12 · **WIS** 11 · **CHA** 17",
+  "t": "**AC** 13 · **HP** 20 · **速度** 30尺\n**力量** 10 · **敏捷** 14 · **体质** 12 · **智力** 12 · **感知** 11 · **魅力** 17"
+ },
+ "89b434dd64a1": {
+  "en": "Kaiana Forway Cliff-Jumper — Level 3 Sorcerer (Soul-Caster)",
+  "t": "凯阿娜·福威·克利夫贾珀——3级术士（灵魂施法者）"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特性与特质"
+ },
+ "a6816af76883": {
+  "en": "**Spell Save DC** 13 · **Spell Attack** +5 · **Slots** 4 (1st), 2 (2nd)\n*Magic Missile, Shield, Thunderwave, Charm Person, Scorching Ray, Detect Thoughts*\n(Described as Darfaries interface spells: \"Fire CREATE\", \"Gravity REPEL\", etc.)",
+  "t": "**法术豁免DC** 13 · **法术攻击** +5 · **法术位** 4（1环）、2（2环）\n*魔法飞弹、护盾术、雷鸣波、魅惑人类、灼热射线、侦测思想*\n（描述为达尔法里斯界面的法术：“法伊尔克里埃特”、“格拉维蒂里佩尔”等。）"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "动作"
+ },
+ "b62414631cc0": {
+  "en": "**Cliff-Jumper Debt.** Her guild takes 30% of her quest pay.",
+  "t": "**克利夫贾珀斯的债务。** 她的公会抽走她委托报酬的30%。"
+ },
+ "c2b878ae3ed0": {
+  "en": "**Quick-Witted White Caster.** +2 to initiative. \"QWWC\" is sewn on her uniform. Everyone calls her \"AWC with Double D\" instead.",
+  "t": "**机敏的白色施法者。** 先攻+2。她的制服上缝着“QWWC”。可大家都管她叫“AWC with Double D”。"
+ },
+ "f6d59ac6c2ab": {
+  "en": "**White-Caster Burst (Recharge 6).** 2d6 radiant in a 10-ft radius.",
+  "t": "**白色施法者爆发（充能6）。** 10尺半径内2d6光耀。"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "0799799a2389": {
+  "en": "**Hunter's Instinct.** Advantage on Survival checks to track.",
+  "t": "**猎人本能。** 用于追踪的求生检定具有优势。"
+ },
+ "0d4be79289dd": {
+  "en": "**Spell Save DC** 13 · **Slots** 3 (1st level)\n*Hunter's Mark, Absorb Elements, Goodberry*",
+  "t": "**法术豁免DC** 13 · **法术位** 3（1环）\n*猎人印记、吸收元素、神莓术*"
+ },
+ "2970532bc9ce": {
+  "en": "**Skills:** Stealth +6, Survival +5, Perception +5, Investigation +4, Acrobatics +5\n**Equipment:** Bow, 20 arrows, traps, camouflage cloth, pink blanket, fruit snacks, a Time Quicken jar (for staying awake), badge.\n**Hook:** Her Sapphire father vanished. Everyone says Hifuna. She doesn't buy it.",
+  "t": "**技能：** 隐匿+6、求生+5、察觉+5、调查+4、特技+5\n**装备：** 弓、20支箭、陷阱、迷彩布、粉色毯子、水果零食、一罐泰姆奎肯（用来保持清醒）、身份牌。\n**剧情钩子：** 她那位萨菲尔级的父亲失踪了。大家都说是在希富纳。她不信。"
+ },
+ "377a44bb780f": {
+  "en": "**People:** Human (strong Wozefaries blood) · **Class:** Ranger · **Background:** Guild Debtor · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**种族：** 人类（沃泽法里斯血统很浓） · **职业：** 游侠 · **背景：** 公会债务人 · **阵营：** 守序中立 · **级别：** 珀尔\n**界面：** 达尔法里斯 · **灵魂点数：** 3"
+ },
+ "506d37f39fd0": {
+  "en": "**Wozefaries Blood.** Proficiency in Acrobatics; resistance to cold damage.",
+  "t": "**沃泽法里斯血统。** 熟练特技；对寒冷伤害具有抗性。"
+ },
+ "55182f9ffc65": {
+  "en": "**Shortsword.** +5 to hit, 1d6+3 slashing.",
+  "t": "**短剑。** 命中+5，1d6+3挥砍。"
+ },
+ "5759bf904467": {
+  "en": "**Snare Trap (Recharge 6).** DC 12 Dex save or restrained.",
+  "t": "**套索陷阱（充能6）。** DC 12敏捷豁免，失败则束缚。"
+ },
+ "6319c481caca": {
+  "en": "**Narcolepsy.** When rolling initiative, roll a d6. On a 1, Magi starts the fight asleep until an ally uses an action to wake her (or she takes damage).",
+  "t": "**嗜睡症。** 掷先攻时，再掷一个d6。掷出1时，玛姬在战斗开始时是睡着的，直到盟友用一个动作叫醒她（或她受到伤害）。"
+ },
+ "66383d9492a8": {
+  "en": "**AC** 14 · **HP** 26 · **Speed** 30 ft\n**STR** 10 · **DEX** 16 · **CON** 12 · **INT** 14 · **WIS** 15 · **CHA** 11",
+  "t": "**AC** 14 · **HP** 26 · **速度** 30尺\n**力量** 10 · **敏捷** 16 · **体质** 12 · **智力** 14 · **感知** 15 · **魅力** 11"
+ },
+ "734fd96cf087": {
+  "en": "**Longbow.** +6 to hit, 1d8+3 piercing.",
+  "t": "**长弓。** 命中+6，1d8+3穿刺。"
+ },
+ "76f4f0dcb060": {
+  "en": "Spellcasting (Ranger)",
+  "t": "施法（游侠）"
+ },
+ "a238253474af": {
+  "en": "**Guild Debt.** Her family guild owes money; half her personal loot goes home to Blood.",
+  "t": "**公会债务。** 她家的公会欠着钱；她个人战利品的一半要寄回布拉德老家。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特性与特质"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "动作"
+ },
+ "c13be0b59acd": {
+  "en": "Magi Blood Blue-Flower-Red-Bone — Level 3 Ranger",
+  "t": "玛姬·布拉德·布卢-弗劳尔-雷德-博恩——3级游侠"
+ },
+ "d67e3f84e77f": {
+  "en": "**Distrustful.** Disadvantage on Persuasion checks with strangers.",
+  "t": "**多疑。** 对陌生人的游说检定具有劣势。"
+ }
+}

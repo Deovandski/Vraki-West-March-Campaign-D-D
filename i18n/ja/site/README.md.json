@@ -1,0 +1,326 @@
+{
+ "019d6459a784": {
+  "en": "**`llms.txt`** ([format](https://llmstxt.org/)): a short summary of the campaign, then every page grouped as in the side menu (Start here, Player rules, Adventurers, World lore, Maps & handouts), each linked to its raw `.md` file with a one-line description. The DM pages come last, in their own **DM only (spoilers)** sections.",
+  "t": "**`llms.txt`**（[形式](https://llmstxt.org/)）：キャンペーンの短い要約のあと、サイドメニューと同じようにまとめた全ページ（Start here、Player rules、Adventurers、World lore、Maps & handouts）。どれも元の`.md`ファイルへのリンクと一行の説明つき。DMのページは最後に、専用の**DM only (spoilers)** セクションにまとめてある。"
+ },
+ "01babe2dbeea": {
+  "en": "`site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)",
+  "t": "`site/js/` — `parse.js`（Markdownをデータに読み込む）、`core.js`（ダイスと保存）、`content.js`（ページ一覧と読み込み）、`app.js`（メニュー、ページ、検索、ダイストレイ）、`tools.js`（計算ツール、冒険者カード、配布物）、`travel.js`（旅のプランナー）、`dm.js`（パーティー、キャンペーン、モンスター図鑑、ランダム表）、`start.js`（プレイヤー入門とDM入門）、`map.js`（旅の地図のページとルートの長さ）、`map-viewer.js`（拡大・移動できる地図ビューア。専用の`site/css/map-viewer.css`を持つ再利用可能なコンポーネント）"
+ },
+ "038933819340": {
+  "en": "Publishing",
+  "t": "公開"
+ },
+ "092def80d401": {
+  "en": "`site/js/pwa.js` — registers the service worker and runs the install button, the iPhone hint, the offline status and the \"save for offline\" buttons (a reusable component)",
+  "t": "`site/js/pwa.js` — サービスワーカーを登録し、インストールボタン、iPhone向けの案内、オフライン状態、「オフライン用に保存」ボタンを動かす（再利用可能なコンポーネント）"
+ },
+ "0b31c4c1a5e8": {
+  "en": "**`sitemap.xml`**: the home page, the two files above and every page, for search engines.",
+  "t": "**`sitemap.xml`**：検索エンジン向けの、トップページ、上の二つのファイル、そして全ページ。"
+ },
+ "0bc07fbce4b8": {
+  "en": "Then open http://localhost:8000. (If you do open `index.html` directly, the site falls back to the copy of the pages bundled in `site/snapshot.js`, which may be older.)",
+  "t": "それから http://localhost:8000 を開く。（`index.html`を直接開いた場合、サイトは`site/snapshot.js`に入っているページの写しを使うが、それは古いかもしれない。）"
+ },
+ "0c44c8518ab6": {
+  "en": "On the way it writes the translations the site loads (`node tools/i18n.js build`, into `site/i18n/`) and renders the handouts in each language (`Handouts/<lang>/`). If the handouts can't be rendered, the site still deploys with the English ones. The step summary of each run, and of the **Translations** workflow on every pull request, says how much of each language is translated; neither ever fails because of a missing translation.",
+  "t": "その途中で、サイトが読み込む翻訳を書き出し（`node tools/i18n.js build`、`site/i18n/`へ）、各言語の配布物を描き出す（`Handouts/<lang>/`）。配布物を描き出せなくても、サイトは英語の配布物のままデプロイされる。各実行のステップの概要と、プルリクエストごとの**Translations**ワークフローの概要に、各言語がどこまで訳されているかが出る。どちらも翻訳が足りないことで失敗することはない。"
+ },
+ "0ccbc3d63f1c": {
+  "en": "The website",
+  "t": "ウェブサイト"
+ },
+ "20ff53c34759": {
+  "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
+  "t": "このリポジトリはGitHub Pages上のウェブサイトも兼ねている：**https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
+ },
+ "2265ecd0ca4b": {
+  "en": "**Travel map:** the West March map with zoom and pan (drag, pinch, Ctrl + scroll, keyboard, full screen), a \"how far is it?\" finder that adds up the circles between any two places, and the table of every route. In DM mode, **Plan this trip** opens it in the travel planner.",
+  "t": "**旅の地図：** 拡大・移動できるウェストマーチの地図（ドラッグ、ピンチ、Ctrl＋スクロール、キーボード、全画面）、任意の二地点間のサークルを足し合わせる「どのくらい遠い？」検索、そして全ルートの表。DMモードでは、**この旅を旅のプランナーで計画する**でそのルートを旅のプランナーで開ける。"
+ },
+ "239d23dc7c58": {
+  "en": "**Campaign.** The in-world date, Bahyum's Castle Mood (with the daily roll), the Inside Job Heat, faction reputation and a session log.",
+  "t": "**キャンペーン。** 作中の日付、バヒュムの城の機嫌（毎日のロールつき）、内部の手引きの警戒度、派閥ごとの評判、セッション記録。"
+ },
+ "2bb1456e6486": {
+  "en": "The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`.",
+  "t": "公開のワークフローがpushのたびにやる。リポジトリ内の写しも更新するなら、`node site/build-snapshot.js`を実行する。"
+ },
+ "2cfb6fdc3ce6": {
+  "en": "**Player 101 and DM 101:** pick Player or DM on the start page and a short step-by-step guide shows what you need to do to get ready, with links to the pages and tools for each step. Progress saves, so coming back opens the next step.",
+  "t": "**プレイヤー入門とDM入門：** スタートページでプレイヤーかDMを選ぶと、準備のためにやることを示す短い手順ガイドが出て、各手順のページやツールへのリンクもある。進み具合は保存されるので、戻ってくると次の手順が開く。"
+ },
+ "348caab604d6": {
+  "en": "**Arabic** reads right to left: the whole layout flips, while dice, numbers and the map don't. Chinese, Japanese, Korean and Arabic use system fonts made for their scripts.",
+  "t": "**アラビア語**は右から左に読む：レイアウト全体が反転するが、ダイス、数字、地図は反転しない。中国語、日本語、韓国語、アラビア語は、それぞれの文字用に作られたシステムフォントを使う。"
+ },
+ "35d8f2015fdd": {
+  "en": "Change a rule, a stat block or an encounter table",
+  "t": "ルール、データ、遭遇表を変える"
+ },
+ "399bff32f249": {
+  "en": "The site is one page that JavaScript fills in, and its pages live after a `#` in the address. Most AI tools and many crawlers don't run JavaScript and ignore everything after the `#`, so to them the site looks empty. These files point them to the Markdown instead:",
+  "t": "サイトはJavaScriptが中身を埋める一枚のページで、各ページはアドレスの`#`の後ろにある。ほとんどのAIツールと多くのクローラーはJavaScriptを実行せず、`#`より後ろを無視するので、彼らにはサイトが空っぽに見える。そこで次のファイルが、代わりにMarkdownの場所を教える："
+ },
+ "3e5798257d73": {
+  "en": "Languages",
+  "t": "言語"
+ },
+ "420eb681b96b": {
+  "en": "**Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).",
+  "t": "**モンスター図鑑**と**ランダム表**（依頼、遭遇、噂、内部の手引きの持ちかけ）。"
+ },
+ "450b1f8a5f8e": {
+  "en": "How the translations are stored and updated: [i18n/README.md](../i18n/README.md).",
+  "t": "翻訳の保存と更新のしかた：[i18n/README.md](../i18n/README.md)。"
+ },
+ "46d8b7ac84b1": {
+  "en": "Add text to the site's own code",
+  "t": "サイト自身のコードに文を足す"
+ },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js` と `site/css/units.css` — フィートかメートルか：ページ上の距離を変換し、設定の「距離」の選択を動かす（再利用できるコンポーネント）"
+ },
+ "49624bfb046c": {
+  "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
+  "t": "リポジトリで見えるのと同じMarkdownファイルを読むので、手作業で同期するものは何もない：ルールを編集してpushすれば、サイトに変更が反映される。"
+ },
+ "49893d838b29": {
+  "en": "Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it.",
+  "t": "`.md`ファイルを編集する。サイトとツールはそれを直接読む。ツールが読めるよう、今の書式を守ること（たとえばデータの`## Name (CR 3) — Region`と`AC 14 · HP 80`、Events & Encountersの各地域の下の番号付きリスト）。"
+ },
+ "4b80f36e000f": {
+  "en": "Do this",
+  "t": "やり方"
+ },
+ "4df7a2e30816": {
+  "en": "Files",
+  "t": "ファイル"
+ },
+ "530e0f040f7f": {
+  "en": "`site/css/site.css` — the look",
+  "t": "`site/css/site.css` — 見た目"
+ },
+ "5c22d60a29f2": {
+  "en": "**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.",
+  "t": "**オフラインで動くもの：** サイト全体とそのツール、すべてのルールと設定のページ（開いていないページも）、通常の拡大率の旅の地図。一度見た画像も保存されたまま残る。前もってもっと保存するには、配布物のページの**配布物をオフライン用に保存**（約4 MB）と、旅の地図のページの**鮮明な地図を保存**（2 MB）を使う。34 MBの印刷用地図と配布物のPDFは保存されない。"
+ },
+ "5e3b5e9dc9fa": {
+  "en": "Running it on your computer",
+  "t": "手元のパソコンで動かす"
+ },
+ "5f7b617d599b": {
+  "en": "`index.html` — the page itself",
+  "t": "`index.html` — ページそのもの"
+ },
+ "60757df821f3": {
+  "en": "**Not translated yet:** when the English changes, the new or changed text shows in English until the next translation batch. The site never waits for a translation.",
+  "t": "**まだ訳されていないもの：** 英語が変わると、新しい文や変わった文は次の翻訳のまとまりまで英語で表示される。サイトが翻訳を待つことはない。"
+ },
+ "63d7d38a3435": {
+  "en": "**Search** across all the rules and lore. Player mode leaves DM pages out of the results.",
+  "t": "すべてのルールと設定を**検索**できる。プレイヤーモードでは、DMのページは結果に出ない。"
+ },
+ "64a1fdc64f69": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0 (third-party files keep their own licenses, listed above).",
+  "t": "© Deovandski Skibinski Junior。CC‑BY‑NC‑SA‑4.0のもとで提供（サードパーティーのファイルは、上に挙げたそれぞれのライセンスに従う）。"
+ },
+ "6b67c47fa27a": {
+  "en": "Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.",
+  "t": "接続があるときはインターネットからページを読み込み、4秒たっても応答がなければ保存した写しを使う。公開のたびに新しい写しを保存し、古いものは捨てる。"
+ },
+ "6c782fa08e4a": {
+  "en": "**What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.",
+  "t": "**変わるもの：** メニュー、ボタン、ツール、すべてのルールと設定のページ、ツールの中のクリーチャー名、そして配布物（画像とPDF）。数字、ダイス、AC、HP、DC、CR、SPはそのままで、配布物のヴラキ文字の行もヴラキのままだ。ライセンスは英語のまま：英語が法的な文書だからだ。"
+ },
+ "72836e16b6b5": {
+  "en": "Editing",
+  "t": "編集"
+ },
+ "7440e10a297f": {
+  "en": "Just change it. The translations show the old text's translation until the English is translated again; new or changed text shows in English until then. See [i18n/README.md](../i18n/README.md).",
+  "t": "そのまま変えればいい。英語がもう一度訳されるまで、翻訳には古い文の訳が出る。新しい文や変わった文は、それまで英語で表示される。[i18n/README.md](../i18n/README.md)を参照。"
+ },
+ "76c4ac4a2da2": {
+  "en": "Browsers block a page opened straight from a file from loading other files, so start a tiny local server in the repo folder:",
+  "t": "ブラウザは、ファイルから直接開いたページがほかのファイルを読み込むのを止めるので、リポジトリのフォルダーで小さなローカルサーバーを起動しよう："
+ },
+ "77cc837e57df": {
+  "en": "Wrap it: `__(\"Roll anything\")`, `__.n(n, \"{n} day\", \"{n} days\")`, or `data-i18n` on an element in `index.html`. `node tools/i18n.js todo` then lists it for translating.",
+  "t": "包む：`__(\"Roll anything\")`、`__.n(n, \"{n} day\", \"{n} days\")`、あるいは`index.html`の要素に`data-i18n`。そうすれば`node tools/i18n.js todo`が翻訳対象として挙げる。"
+ },
+ "77d9ed85823d": {
+  "en": "`sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)",
+  "t": "`sw.js` — サイトをオフライン用に保存するサービスワーカー（サイト全体を対象にするため、リポジトリの最上位にある）"
+ },
+ "7ab1f14adfb4": {
+  "en": "**Try it on your computer:** run `node site/build-llms.js` in the repo folder (it writes the three files there; git ignores them), start the local server below, and open http://localhost:8000/llms.txt. To see what a reader without JavaScript gets, turn JavaScript off for the page (in Chrome: DevTools → ⋮ → Run command → \"Disable JavaScript\") and reload. The script also lists any `.md` file that isn't in `site/js/content.js`.",
+  "t": "**手元で試す：** リポジトリのフォルダーで`node site/build-llms.js`を実行し（三つのファイルがそこに書き出される。gitは無視する）、下のローカルサーバーを起動して、http://localhost:8000/llms.txt を開く。JavaScriptなしの読み手に何が見えるかを確かめるには、そのページでJavaScriptを切って（Chromeなら：DevTools → ⋮ → Run command → 「Disable JavaScript」）再読み込みする。スクリプトは、`site/js/content.js`に載っていない`.md`ファイルも一覧にする。"
+ },
+ "7b23d280e4fd": {
+  "en": "The workflow in `.github/workflows/pages.yml` publishes the site on every push to `main`: it refreshes `site/snapshot.js`, gathers the site and the Markdown it reads, and deploys them to GitHub Pages. You can also run it by hand from the Actions tab (**Website → Run workflow**).",
+  "t": "`.github/workflows/pages.yml`のワークフローが、`main`へのpushのたびにサイトを公開する：`site/snapshot.js`を更新し、サイトとそれが読むMarkdownを集めて、GitHub Pagesにデプロイする。Actionsタブから手動でも実行できる（**Website → Run workflow**）。"
+ },
+ "7c22248ab66f": {
+  "en": "**Player mode:** the rules, the world lore, the pre-made adventurers, the handout gallery, calculators (balls and change, travel time and quest deadlines, revival window and debt, splitting quest pay, Soul Points and tiers) and a tracker for your own adventurers.",
+  "t": "**プレイヤーモード：** ルール、世界設定、作成済みの冒険者、配布物のギャラリー、計算ツール（ボールとおつり、旅の日数と依頼の期限、蘇生の猶予と借金、依頼の報酬の分け方、ソウルポイントとティア）、自分の冒険者の記録。"
+ },
+ "7cff1b5a568b": {
+  "en": "**Once, by hand:** submit `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml` in [Bing Webmaster Tools](https://www.bing.com/webmasters) and [Google Search Console](https://search.google.com/search-console). A project site can't name its sitemap in a `robots.txt`, because that file only counts at the top of `deovandski.github.io`.",
+  "t": "**一度だけ手作業で：** `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml`を[Bing Webmaster Tools](https://www.bing.com/webmasters)と[Google Search Console](https://search.google.com/search-console)に登録する。プロジェクトのサイトは`robots.txt`でサイトマップを指定できない：そのファイルは`deovandski.github.io`の最上位にあるときしか効かないからだ。"
+ },
+ "80cb266b2c6d": {
+  "en": "The site's code and text are AI-assisted; see the [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "サイトのコードと文章にはAIの手が入っている。[AIの使用についての説明](../AI-DISCLOSURE.md)を参照。"
+ },
+ "88f7fb74a3ca": {
+  "en": "`site/build-llms.js` — writes `llms.txt`, `llms-full.txt` and `sitemap.xml` for AI tools and search engines (run by the publishing workflow)",
+  "t": "`site/build-llms.js` — AIツールと検索エンジン向けに`llms.txt`、`llms-full.txt`、`sitemap.xml`を書き出す（公開のワークフローが実行する）"
+ },
+ "8a3683207893": {
+  "en": "One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**",
+  "t": "GitHubのリポジトリで一度だけやる設定：**Settings → Pages → Build and deployment → Source: GitHub Actions.**"
+ },
+ "8cc49969c97f": {
+  "en": "Saving",
+  "t": "保存"
+ },
+ "8cfe9158658d": {
+  "en": "`site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked), the Markdown renderer (MIT License, see `LICENSE-marked.md`)",
+  "t": "`site/vendor/marked.umd.js` — [marked](https://github.com/markedjs/marked)、Markdownのレンダラー（MITライセンス、`LICENSE-marked.md`を参照）"
+ },
+ "91b7c491add1": {
+  "en": "The page also links them for readers that never get past the HTML: `<link rel=\"alternate\">` tags in `index.html`, a short list of links that shows when JavaScript is off, and a footer on every page.",
+  "t": "HTMLより先に進まない読み手のために、ページからもリンクしている：`index.html`の`<link rel=\"alternate\">`タグ、JavaScriptがオフのときに出る短いリンクの一覧、そして全ページのフッター。"
+ },
+ "9384751d45ac": {
+  "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
+  "t": "どのページにも**ダイストレイ**があり、ルールに書かれたロール（2d6+3など）はすべてボタンになっている。"
+ },
+ "93c390989051": {
+  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
+  "t": "**AndroidとChrome/Edge：** ブラウザのインストールボタンか、保存メニュー（上のバー）の**アプリとしてインストール**を使う。アプリのアイコンを長押しすると、旅の地図、旅のプランナー、配布物へのショートカットが出る。"
+ },
+ "95b4c590c974": {
+  "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
+  "t": "`site/js/i18n.js` — 翻訳：ページを小片に分け、それぞれの訳を見つけ、言語を選ぶ（ブラウザでもNodeでも動く）"
+ },
+ "a0d1b0c29279": {
+  "en": "`site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.",
+  "t": "`site/i18n/` — サイトが読み込むために`node tools/i18n.js build`が書き出すもの：`languages.js`、`<lang>.js`（サイト自身の文と名前）、`<lang>.docs.js`（ページと配布物）。生成物で、リポジトリには置かない。"
+ },
+ "acb3bd3d3067": {
+  "en": "The site installs like an app on a phone, tablet or computer, and once installed (or after one visit in the browser) it works with **no signal**: handy at the table.",
+  "t": "サイトはスマホ、タブレット、パソコンにアプリのようにインストールでき、インストール後（またはブラウザで一度開いた後）は**電波がなくても**動く：卓で便利だ。"
+ },
+ "acb6baf6327c": {
+  "en": "You want to…",
+  "t": "やりたいこと"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**距離：** ルールはD&Dと同じくフィートとマイルで書かれている。英語ではそのまま表示し、翻訳版ではメートルとキロメートルで表示する（`5 ft` = `1.5 m`、`1 mile` = `1.5 km`、D&Dでよく使う換算）。すべてのページ、ツール、翻訳版の配布資料が対象。**設定 → 距離**でどの言語でも切り替えられ、選んだ方が記憶される。世界設定ですでにメートルやキロメートルで書かれている高さや標高（この世界の単位）はそのまま。"
+ },
+ "b70a8ac2bc53": {
+  "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",
+  "t": "**パーティー。** HP、一時的HP、ソウルポイント、消耗、状態、蘇生の借金、死亡の記録。旅のプランナーの戦闘と共有される。"
+ },
+ "b738bde86d8e": {
+  "en": "`site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.",
+  "t": "`site/fonts/` — TeX Gyre ScholaとTeX Gyre Heros Cn、無改変（GUST Font License、`GUST-FONT-LICENSE.txt`を参照）。Vrakiフォントと絵は`Handouts/source/assets`フォルダーから来ている。"
+ },
+ "be1ab3934370": {
+  "en": "**The banner:** every translated page starts with \"AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm\" in that language, and a one-click switch back to English.",
+  "t": "**お知らせ：** 翻訳されたページはどれも、その言語で「DeovandskiとMitsukiven/Feiourmによる原作から、AIが（言語）に翻訳しました」で始まり、ワンクリックで英語に戻せる。"
+ },
+ "bf5e2b39295b": {
+  "en": "Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap.",
+  "t": "`.md`ファイルを足し、`site/js/content.js`の先頭の一覧にそのための行を足す。そうすればメニュー、検索、`llms.txt`、サイトマップに載る。"
+ },
+ "c0ff188c3eaa": {
+  "en": "**`llms-full.txt`**: every page in one file, in the same order, with links made absolute.",
+  "t": "**`llms-full.txt`**：全ページを同じ順に一つのファイルにまとめ、リンクを絶対パスにしたもの。"
+ },
+ "c1f154a148c3": {
+  "en": "Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.",
+  "t": "入力したものはすべて、その場でブラウザに保存される（ローカルストレージ）。上のバーの保存ボタンで**保存ファイル（.json）をダウンロード**し、別の端末やブラウザで**読み込める**し、バックアップにもなる。どこにも何も送られない：サーバーもアカウントもCookieも分析もない。"
+ },
+ "c795334a2b9e": {
+  "en": "Refresh the offline copy",
+  "t": "オフライン用の写しを更新する"
+ },
+ "c98977f81652": {
+  "en": "**iPhone and iPad:** in Safari, tap Share, then **Add to Home Screen**.",
+  "t": "**iPhoneとiPad：** Safariで共有をタップし、**ホーム画面に追加**を選ぶ。"
+ },
+ "d5a0fd62cc4a": {
+  "en": "**DM mode:** everything players see, plus the DM pages and:",
+  "t": "**DMモード：** プレイヤーが見られるものすべてに加えて、DMのページと次のもの："
+ },
+ "d71daec5a7cc": {
+  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.",
+  "t": "さらに`sw.js`にコミットを刻むので、デプロイのたびに、みんながオフライン用に保存した写しが新しくなる。"
+ },
+ "d89a0a9bfcbe": {
+  "en": "`site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts",
+  "t": "`site/manifest.webmanifest`と`site/icons/` — アプリの名前、色、アイコン（フォーウェイの紋章から作った）、ショートカット"
+ },
+ "de3caeb1cd83": {
+  "en": "Add a new page",
+  "t": "新しいページを足す"
+ },
+ "e02dd0b09522": {
+  "en": "`site/build-llms.js` writes all three from the page list in `site/js/content.js`, so a page added to the menus is added here too. The publishing workflow runs it on every deploy; the files aren't kept in the repo. To leave the DM pages out, set `INCLUDE_DM` to `false` at the top of the script.",
+  "t": "`site/build-llms.js`が`site/js/content.js`のページ一覧から三つとも書き出すので、メニューに足したページはここにも足される。公開のワークフローがデプロイのたびに実行し、ファイルはリポジトリには置かない。DMのページを外すには、スクリプトの先頭で`INCLUDE_DM`を`false`にする。"
+ },
+ "e194197fc0bc": {
+  "en": "`site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline",
+  "t": "`site/snapshot.js` — 同梱のオフライン用の写し（生成物）。インストールしたアプリは、これで全ページをオフラインで読む"
+ },
+ "e27b617aa841": {
+  "en": "**Save files** don't depend on the language: one saved in Japanese loads in English and the other way round.",
+  "t": "**保存ファイル**は言語に左右されない：日本語で保存したものは英語でも読み込めるし、その逆もできる。"
+ },
+ "e56cfa5d7cde": {
+  "en": "The site comes in English and six translations: 中文 (Simplified Chinese), 日本語 (Japanese), Português (Brazil), Español (Spain), العربية (Arabic) and 한국어 (Korean). They are AI translations of the English, written ahead of time and kept in the repo; nothing is translated on the fly, and English stays the original.",
+  "t": "サイトは英語と六つの翻訳で読める：中文（簡体字中国語）、日本語、Português（ブラジル）、Español（スペイン）、العربية（アラビア語）、한국어（韓国語）。これは英語からのAI翻訳で、前もって書かれてリポジトリに保存されている。その場で翻訳されるものは何もなく、原文はあくまで英語だ。"
+ },
+ "e7448bd25755": {
+  "en": "**Picking one:** open **Settings (⚙)** in the top bar. It lists every language in its own script with how much of it is done, has the light/dark switch, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
+  "t": "**選び方：** 上のバーの**設定（⚙）** を開く。すべての言語がそれぞれの文字で、どこまでできているかとともに並び、ライト／ダークの切り替えと、ほかの言語を頼むための[issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7)へのリンクもある。初めて訪れたときは、その翻訳が90%以上できていれば、サイトがブラウザの言語を自動で選ぶ。リンクに`?lang=ja`を付ければ言語を指定できる。"
+ },
+ "e887f66aadda": {
+  "en": "What's on it",
+  "t": "何があるか"
+ },
+ "e8b4838c1cec": {
+  "en": "**Travel planner.** Type From and To and **Count circles from the map** sets the circles (and each one's encounter table) from the route lengths, or set how many circles the trip covers and how many days each circle takes (1, 2 or 3). Every day has its Graveyard, Morning, Afternoon and Night shifts. Roll the events the rules call for, or set each shift yourself: quiet, a sign, an encounter from the region tables, the Inside Job offer, or your own event. Open a shift to run it: creatures from the stat blocks, HP, initiative, conditions and notes, with the party in the same fight. **Print or save as PDF** turns a trip into a paper sheet for running it without the site: every day and shift, fights with blank HP space, the party, the encounter tables for its regions and the stat blocks.",
+  "t": "**旅のプランナー。** 出発地と目的地を入力して**地図からサークルを数える**を押すと、ルートの長さからサークル（とそれぞれの遭遇表）が設定される。あるいは、旅が何サークルで、1サークルが何日（1、2、3）かを自分で決めてもいい。毎日に深夜、朝、午後、夜の時間帯がある。ルールが求めるイベントを振るか、時間帯ごとに自分で決める：静か、兆し、地域の表からの遭遇、内部の手引きの持ちかけ、あるいは自作のイベント。時間帯を開けば、そこで場面を回せる：データからのクリーチャー、HP、イニシアチブ、状態、メモ、そして同じ戦闘に入るパーティー。**印刷・PDFで保存**で、旅をサイトなしで回すための紙にできる：すべての日と時間帯、HPの空欄つきの戦闘、パーティー、その地域の遭遇表、データ。"
+ },
+ "e906b4f39955": {
+  "en": "Change English text",
+  "t": "英語の文を変える"
+ },
+ "eb8e9f5f308b": {
+  "en": "Install it as an app (works offline)",
+  "t": "アプリとしてインストールする（オフラインで動く）"
+ },
+ "ebbc70e90594": {
+  "en": "Change a route's length, or add a route",
+  "t": "ルートの長さを変える、ルートを足す"
+ },
+ "ee0d90b0fb86": {
+  "en": "Edit the **Route lengths** table in `Maps/README.md` (From, To, Circles, On the map, Encounter table). The travel map page and the travel planner read it directly.",
+  "t": "`Maps/README.md`の**Route lengths**の表（From、To、Circles、On the map、Encounter table）を編集する。旅の地図のページと旅のプランナーはそれを直接読む。"
+ },
+ "fe7c0b8f9905": {
+  "en": "`site/js/lang-picker.js` and `site/css/lang-picker.css` — the language list in Settings (a reusable component)",
+  "t": "`site/js/lang-picker.js`と`site/css/lang-picker.css` — 設定の中の言語一覧（再利用可能なコンポーネント）"
+ },
+ "febe621a1e51": {
+  "en": "For AI tools and search engines",
+  "t": "AIツールと検索エンジン向け"
+ }
+}

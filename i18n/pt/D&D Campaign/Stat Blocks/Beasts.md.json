@@ -1,0 +1,462 @@
+{
+ "06fbfa3a380b": {
+  "en": "**Vine Strike (Fast Strike).** Reach 15 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**Chicotada de Cipó (Golpe Rápido).** Alcance 15 pés, +6 para acertar, 2d8+4 perfurante."
+ },
+ "09e9ea708992": {
+  "en": "**Stunning Scream (Recharge 5–6).** 60-ft cone, DC 15 Con save or stunned 1 round.",
+  "t": "**Grito Atordoante (Recarga 5–6).** Cone de 60 pés, teste de resistência de Con DC 15 ou atordoado por 1 rodada."
+ },
+ "0a2bd15fec9b": {
+  "en": "Beast Stat Blocks",
+  "t": "Fichas de estatísticas: feras"
+ },
+ "0a7b4490877b": {
+  "en": "**Aerial Strike.** +7 to hit, 2d8+4 slashing.",
+  "t": "**Ataque Aéreo.** +7 para acertar, 2d8+4 cortante."
+ },
+ "0f60415f1f2a": {
+  "en": "*Loot:* red wood, rubbery vines, pink sap, a head-sized Wood People Yabuca.",
+  "t": "*Saque:* madeira vermelha, cipós borrachudos, seiva rosa, uma Yabuca de Wood People do tamanho de uma cabeça."
+ },
+ "0f8e90325da2": {
+  "en": "**Pincher Copy.** Reaction: a spectral pincer duplicate gives +2 AC for 1 round.",
+  "t": "**Cópia de Pinça.** Reação: uma duplicata espectral da pinça dá +2 AC por 1 rodada."
+ },
+ "15391761242c": {
+  "en": "**Flathead Slam.** +8 to hit, 2d10+5 bludgeoning.",
+  "t": "**Pancada de Cabeça Chata.** +8 para acertar, 2d10+5 concussão."
+ },
+ "1634036a1168": {
+  "en": "**Acid Spray (Recharge 5–6).** 15-ft cone, 4d10 acid, DC 14 Dex half.",
+  "t": "**Jato de Ácido (Recarga 5–6).** Cone de 15 pés, 4d10 ácido, teste de resistência de Des DC 14 reduz à metade."
+ },
+ "1c77143cc852": {
+  "en": "**Climb Away.** When damaged, it flies straight up out of reach.",
+  "t": "**Fuga para o Alto.** Quando sofre dano, voa direto para cima, fora de alcance."
+ },
+ "1dba9c925290": {
+  "en": "**Blinding Flash (Recharge 5–6).** 20-ft radius, DC 12 Con save or blinded 1 round.",
+  "t": "**Clarão Cegante (Recarga 5–6).** Raio de 20 pés, teste de resistência de Con DC 12 ou cego por 1 rodada."
+ },
+ "1e4fe1962386": {
+  "en": "**Slow Regeneration.** 3 HP per round unless it took radiant damage.",
+  "t": "**Regeneração Lenta.** 3 HP por rodada, a menos que tenha sofrido dano radiante."
+ },
+ "1ed94bfcad62": {
+  "en": "**Pin & Feed.** A grappled target takes 2d10 necrotic each round and loses 1 SP.",
+  "t": "**Prender e Sugar.** Um alvo agarrado sofre 2d10 necrótico a cada rodada e perde 1 SP."
+ },
+ "1f4f1e6dafaf": {
+  "en": "**Four Flame Arms.** Two attacks, +4 to hit, 1d6 fire.",
+  "t": "**Quatro Braços de Chama.** Dois ataques, +4 para acertar, 1d6 fogo."
+ },
+ "20f50f45be37": {
+  "en": "Apply to any creature that lived in Hifuna: **+2 CR-ish**. Double HP; +2 to attack and damage rolls; Intelligence halved; always hostile; usually sterile. Its special abilities are stronger (+1d6 damage, +2 save DCs). Meat is irradiated (eating it = 1 Exposure). Proof of kill: the head.",
+  "t": "Aplique a qualquer criatura que tenha vivido em Hifuna: **+2 CR, mais ou menos**. HP dobrado; +2 nas jogadas de ataque e de dano; Inteligência pela metade; sempre hostil; geralmente estéril. As habilidades especiais ficam mais fortes (+1d6 de dano, +2 nas CD de resistência). A carne é irradiada (comer = 1 de Exposição). Prova do abate: a cabeça."
+ },
+ "250dd710b6a0": {
+  "en": "**Deaf, Talks in Light.** Can't hear; communicates with colors.",
+  "t": "**Surdos, Falam com Luz.** Não ouvem; comunicam-se com cores."
+ },
+ "25b08fa94f54": {
+  "en": "**Rooted Defense.** +2 AC if it hasn't moved this turn.",
+  "t": "**Defesa Enraizada.** +2 AC se não tiver se movido neste turno."
+ },
+ "25cab629a30e": {
+  "en": "**Mutate (Recharge 5–6).** Gains one: +2 AC · +2d6 damage · +20 ft speed · resistance to a random type.",
+  "t": "**Mutar (Recarga 5–6).** Ganha uma: +2 AC · +2d6 de dano · +20 pés de deslocamento · resistência a um tipo aleatório."
+ },
+ "25d9d6242068": {
+  "en": "**Purr.** Creatures that pet one gain 1 temporary HP (once per day).",
+  "t": "**Ronronar.** Criaturas que fazem carinho num deles ganham 1 HP temporário (uma vez por dia)."
+ },
+ "2972de0e4fde": {
+  "en": "**Worm Brood.** On a critical hit, the target is infested: DC 15 Con save each long rest or lose 1 max HP until a Tier II Body RESTORE.",
+  "t": "**Ninhada de Vermes.** Num acerto crítico, o alvo fica infestado: teste de resistência de Con DC 15 a cada descanso longo ou perde 1 de HP máximo até um Body RESTORE de Nível II."
+ },
+ "299ee1b33aae": {
+  "en": "**Engulf.** +5 to hit, 2d6+3 bludgeoning and grappled; 2d6 acid each turn while grappled.",
+  "t": "**Engolfar.** +5 para acertar, 2d6+3 concussão e agarrado; 2d6 ácido a cada turno enquanto estiver agarrado."
+ },
+ "2a1b0345201e": {
+  "en": "**Harden Shell / Acid Gut.** If attacked: +2 AC, and 4d10 acid in a 20-ft line (DC 16 Dex half).",
+  "t": "**Casco Endurecido / Tripa Ácida.** Se atacado: +2 AC, e 4d10 ácido numa linha de 20 pés (teste de resistência de Des DC 16 reduz à metade)."
+ },
+ "2a8a4c9e9f48": {
+  "en": "Sand Worm (CR 5) — Desert",
+  "t": "Sand Worm (CR 5) — deserto"
+ },
+ "360b6cd2627d": {
+  "en": "AC 14 · HP 80 · speed 20 ft",
+  "t": "AC 14 · HP 80 · deslocamento 20 pés"
+ },
+ "36c4981670c3": {
+  "en": "Big Winga (CR 4) — Wingarest, rare",
+  "t": "Big Winga (CR 4) — Wingarest, raro"
+ },
+ "3e3ecb74bcad": {
+  "en": "Untamable. Its eggs never hatch for humans.",
+  "t": "Indomável. Os ovos dele nunca eclodem para humanos."
+ },
+ "3fadddfd1e98": {
+  "en": "**Spike Launch.** Ranged 60 ft, +7 to hit, 2d8 piercing.",
+  "t": "**Disparo de Espinhos.** À distância 60 pés, +7 para acertar, 2d8 perfurante."
+ },
+ "40a6e8cd1dc7": {
+  "en": "**Storm Warning.** A blue wall of them means a storm within the day.",
+  "t": "**Aviso de Tempestade.** Uma parede azul delas significa tempestade dentro do dia."
+ },
+ "4544553d9954": {
+  "en": "**Harden Body.** Bonus action: +2 AC until its next turn.",
+  "t": "**Corpo Endurecido.** Ação bônus: +2 AC até o próximo turno dele."
+ },
+ "454acfe4161f": {
+  "en": "**Fist.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**Punho.** +4 para acertar, 1d6+2 concussão."
+ },
+ "465e3a4d55a3": {
+  "en": "**Bite.** +7 to hit, 3d8+4 piercing.",
+  "t": "**Mordida.** +7 para acertar, 3d8+4 perfurante."
+ },
+ "482a82ebb85e": {
+  "en": "**Random Mutation (Recharge 5–6).** Gains one for 1 minute: +2 AC · +2d6 damage · +20 ft speed · resistance to a random damage type.",
+  "t": "**Mutação Aleatória (Recarga 5–6).** Ganha uma por 1 minuto: +2 AC · +2d6 de dano · +20 pés de deslocamento · resistência a um tipo de dano aleatório."
+ },
+ "495a490602e8": {
+  "en": "**Hypnosis (Recharge 6).** One creature within 60 ft: DC 12 Wis save or incapacitated for 1 round.",
+  "t": "**Hipnose (Recarga 6).** Uma criatura a até 60 pés: teste de resistência de Sab DC 12 ou fica incapacitada por 1 rodada."
+ },
+ "4a5208a95062": {
+  "en": "**Bigger Looking.** Illusion: appears Large.",
+  "t": "**Parecer Maior.** Ilusão: parece Grande."
+ },
+ "4d33bd53066f": {
+  "en": "**Mind Crush (if cornered).** DC 13 Wis save or 3d6 psychic; weak-minded NPCs may flee or worse.",
+  "t": "**Esmagamento Mental (se encurralado).** Teste de resistência de Sab DC 13 ou 3d6 psíquico; PdMs de mente fraca podem fugir, ou pior."
+ },
+ "57c4a973fb92": {
+  "en": "**Exploding Branches (1/day).** Thrown 60 ft: 4d8 fire in a 10-ft radius, DC 15 Dex half.",
+  "t": "**Galhos Explosivos (1/dia).** Arremessados a 60 pés: 4d8 fogo num raio de 10 pés, teste de resistência de Des DC 15 reduz à metade."
+ },
+ "5c354f34e13b": {
+  "en": "**Mimic.** Assumes the form and voice of a Medium or smaller creature it has touched (DC 15 Insight to spot something off).",
+  "t": "**Imitar.** Assume a forma e a voz de uma criatura Média ou menor que tenha tocado (Intuição DC 15 para notar algo estranho)."
+ },
+ "6021235d3a4d": {
+  "en": "Sucker Lady (CR 3) — forests near towns, Hifuna",
+  "t": "Sucker Lady (CR 3) — florestas perto de cidades, Hifuna"
+ },
+ "60e1df60d7ac": {
+  "en": "**Mindless Rampage.** Must attack the nearest creature.",
+  "t": "**Fúria Sem Mente.** Precisa atacar a criatura mais próxima."
+ },
+ "67193f1a6f2e": {
+  "en": "*Loot:* chitin (worth 2 aquamarines from an adult), gamey meat.",
+  "t": "*Saque:* quitina (vale 2 aquamarines se for adulto), carne de gosto forte."
+ },
+ "6779901668f8": {
+  "en": "**Pincher Shot.** Ranged 60 ft, +6 to hit, 3d6+3 piercing (black flame on the pincers is the tell).",
+  "t": "**Disparo de Pinça.** À distância 60 pés, +6 para acertar, 3d6+3 perfurante (a chama negra nas pinças é o sinal)."
+ },
+ "67bb4d6f7ca0": {
+  "en": "**Dread Aura.** Creatures that start their turn within 30 ft: DC 12 Wis save or frightened until the start of their next turn.",
+  "t": "**Aura de Pavor.** Criaturas que começam o turno a até 30 pés: teste de resistência de Sab DC 12 ou ficam amedrontadas até o início do próximo turno delas."
+ },
+ "68e344ccb081": {
+  "en": "**Decompose Touch.** +6 to hit, 2d8+4 necrotic.",
+  "t": "**Toque da Decomposição.** +6 para acertar, 2d8+4 necrótico."
+ },
+ "6990671b958e": {
+  "en": "**Air Shield.** Reaction: +3 AC against one ranged attack.",
+  "t": "**Escudo de Ar.** Reação: +3 AC contra um ataque à distância."
+ },
+ "6a8fdd02c3d7": {
+  "en": "**Unkillable.** When reduced to 0 HP, DC 15 Con save to drop to 1 HP instead (not if the damage was radiant).",
+  "t": "**Imatável.** Quando cai a 0 HP, teste de resistência de Con DC 15 para ficar com 1 HP em vez disso (não se o dano tiver sido radiante)."
+ },
+ "6e075c2c9691": {
+  "en": "White Roundies (CR 1) — Whiteland, winter shores",
+  "t": "White Roundies (CR 1) — Whiteland, litorais no inverno"
+ },
+ "6e81d378659b": {
+  "en": "**Soul Drain Grapple.** +6 to hit, 1d8+4 bludgeoning, grappled (escape DC 14).",
+  "t": "**Agarrão Dreno de Alma.** +6 para acertar, 1d8+4 concussão, agarrado (escapar DC 14)."
+ },
+ "6e8f0bff2879": {
+  "en": "**Sky Hunter.** Advantage on sight Perception; senses living creatures within 120 ft.",
+  "t": "**Caçador dos Céus.** Vantagem em Percepção baseada na visão; sente criaturas vivas a até 120 pés."
+ },
+ "722ff6cf758f": {
+  "en": "**Sonic Boom (Recharge 5–6).** 30-ft cone, 3d10 thunder, DC 15 Con half.",
+  "t": "**Estrondo Sônico (Recarga 5–6).** Cone de 30 pés, 3d10 trovejante, teste de resistência de Con DC 15 reduz à metade."
+ },
+ "7259177436b6": {
+  "en": "**Trade.** Give it good food: d6 → 1–2 half-eaten fish, 3–4 shiny junk, 5 a pearl, 6 a gold nugget (1 amethyst).",
+  "t": "**Troca.** Dê boa comida a ele: d6 → 1–2 peixe meio comido, 3–4 bugiganga brilhante, 5 um pearl, 6 uma pepita de ouro (1 amethyst)."
+ },
+ "733e31d0eea8": {
+  "en": "Teefyro (CR 4) — Hifuna, near Tastyleaf",
+  "t": "Teefyro (CR 4) — Hifuna, perto de Tastyleaf"
+ },
+ "75bc37723843": {
+  "en": "**Fost Fear.** Won't approach a lit fost lamp (DC 14 Wis save to try). Distractible by \"something finger-shaped\".",
+  "t": "**Medo do Fost.** Não se aproxima de uma lâmpada de fost acesa (teste de resistência de Sab DC 14 para tentar). Distrai-se com «algo em formato de dedo»."
+ },
+ "7a71057ea560": {
+  "en": "AC 12 · HP 70 · amorphous",
+  "t": "AC 12 · HP 70 · amorfo"
+ },
+ "7efc593bbe9c": {
+  "en": "Not aggressive unless provoked or hungry.",
+  "t": "Não é agressivo, a menos que provocado ou com fome."
+ },
+ "7f7aa2983a19": {
+  "en": "AC 14 · HP 55 · fly 40 ft",
+  "t": "AC 14 · HP 55 · voo 40 pés"
+ },
+ "837377295439": {
+  "en": "**Unstable Form.** When hit by a critical hit, splits into two smaller Muckmen (15 HP each).",
+  "t": "**Forma Instável.** Quando sofre um acerto crítico, divide-se em dois Muckmen menores (15 HP cada)."
+ },
+ "8f3ed2abadb4": {
+  "en": "**Slow Regeneration.** Regains 5 HP per round unless it took fire or radiant damage.",
+  "t": "**Regeneração Lenta.** Recupera 5 HP por rodada, a menos que tenha sofrido dano de fogo ou radiante."
+ },
+ "8ff1df9b6292": {
+  "en": "Hash (template) — any CR, Hifuna",
+  "t": "Hash (modelo) — qualquer CR, Hifuna"
+ },
+ "91b6185202f3": {
+  "en": "**Decompose Strike.** +5 to hit, 1d8+3 necrotic.",
+  "t": "**Golpe da Decomposição.** +5 para acertar, 1d8+3 necrótico."
+ },
+ "941f559e188b": {
+  "en": "**Fost Weakness.** A fost stone jammed into its crown (attack vs AC 14, or automatic while it's grappled or prone) **paralyzes** it until removed. It's drawn to fost stones within 60 ft.",
+  "t": "**Fraqueza ao Fost.** Uma pedra fost enfiada na copa dele (ataque contra AC 14, ou automático enquanto estiver agarrado ou caído) o **paralisa** até ser removida. Ele é atraído por pedras fost a até 60 pés."
+ },
+ "96359fe95833": {
+  "en": "**Teeth Launch.** Ranged 30 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**Disparo de Dentes.** À distância 30 pés, +6 para acertar, 2d8+4 perfurante."
+ },
+ "98793b061a74": {
+  "en": "Sweet Sting (CR 2) — Sweetlake, west of Blood",
+  "t": "Sweet Sting (CR 2) — Sweetlake, a oeste de Blood"
+ },
+ "9a123bcaf689": {
+  "en": "**Growth Burst.** Bonus action: +10 ft reach until its next turn.",
+  "t": "**Surto de Crescimento.** Ação bônus: +10 pés de alcance até o próximo turno dele."
+ },
+ "9c1f2119cce3": {
+  "en": "**Sound Blast (Recharge 6).** 15-ft radius, DC 12 Con save or deafened 1 minute (used to stun fish).",
+  "t": "**Explosão Sonora (Recarga 6).** Raio de 15 pés, teste de resistência de Con DC 12 ou ensurdecido por 1 minuto (usado para atordoar peixes)."
+ },
+ "9c80b22353cf": {
+  "en": "**Mindless Swarm.** Advantage on attacks while an ally is adjacent to the target.",
+  "t": "**Enxame Sem Mente.** Vantagem nos ataques enquanto um aliado estiver adjacente ao alvo."
+ },
+ "9e9150f387ad": {
+  "en": "Bruntos (CR ½) — Endlessfog, Freeish (feral)",
+  "t": "Bruntos (CR ½) — Endlessfog, Freeish (selvagens)"
+ },
+ "9f5090239573": {
+  "en": "**Poison Spit (Recharge 5–6).** One target within 60 ft automatically takes 4d10 poison. \"Sure as a spitting Sweet Sting.\"",
+  "t": "**Cuspe Venenoso (Recarga 5–6).** Um alvo a até 60 pés sofre automaticamente 4d10 veneno. «Certeiro como o cuspe de um Sweet Sting.»"
+ },
+ "9faa89227804": {
+  "en": "*Loot:* claws (weapon material), tongue (Walking Dead gel). A whole corpse sells for **5 sapphires**.",
+  "t": "*Saque:* garras (material para armas), língua (gel de Walking Dead). Um cadáver inteiro vale **5 sapphires**."
+ },
+ "a4da0fdd1b6a": {
+  "en": "**Gust Stream.** 60-ft line, DC 15 Str save or pushed 30 ft and knocked prone.",
+  "t": "**Rajada de Vento.** Linha de 60 pés, teste de resistência de For DC 15 ou é empurrado 30 pés e fica caído."
+ },
+ "a8320040ac37": {
+  "en": "**Enlarge (1/day).** Doubles size: reach +5 ft, damage +1d6.",
+  "t": "**Aumentar (1/dia).** Dobra de tamanho: alcance +5 pés, dano +1d6."
+ },
+ "a86fb529a5c8": {
+  "en": "Koalin (CR 1) — eastern grasslands",
+  "t": "Koalin (CR 1) — campos do leste"
+ },
+ "a8762cbb2e02": {
+  "en": "Hifuna People (CR 6) — Hifuna",
+  "t": "Hifuna People (CR 6) — Hifuna"
+ },
+ "ab1a46b7fbb5": {
+  "en": "**Soul Leaves.** Senses soul energy within 60 ft. Fost stone paralysis works, but the attack is against AC 16.",
+  "t": "**Folhas da Alma.** Sente energia da alma a até 60 pés. A paralisia com pedra fost funciona, mas o ataque é contra AC 16."
+ },
+ "abf235e4ad57": {
+  "en": "**Slam.** +6 to hit, 2d8+4 bludgeoning.",
+  "t": "**Pancada.** +6 para acertar, 2d8+4 concussão."
+ },
+ "ac2773b58cc3": {
+  "en": "Walking Flathead (CR 7) — Bahyum",
+  "t": "Walking Flathead (CR 7) — Bahyum"
+ },
+ "af4bd7508c8c": {
+  "en": "**Soul Sight.** Sees invisible and soul-based creatures within 120 ft.",
+  "t": "**Visão da Alma.** Vê criaturas invisíveis e baseadas em alma a até 120 pés."
+ },
+ "b02d7cd9b2e3": {
+  "en": "*Loot:* meat (tastes like pork), hide. Brain, eyes and mustache are **illegal** to carry.",
+  "t": "*Saque:* carne (gosto de porco), couro. Carregar o cérebro, os olhos e o bigode é **ilegal**."
+ },
+ "b6e10ecc40fc": {
+  "en": "**Razor Edges.** Crits deal +2d6 slashing.",
+  "t": "**Bordas Afiadas.** Críticos causam +2d6 cortante."
+ },
+ "b740e3c6582b": {
+  "en": "**Costume Blind.** Ignores creatures in a convincing Sweet Sting costume.",
+  "t": "**Cego a Fantasias.** Ignora criaturas numa fantasia convincente de Sweet Sting."
+ },
+ "c00d5d4d7675": {
+  "en": "Crazed Muckman (CR 3) — Blood, Freeish",
+  "t": "Crazed Muckman (CR 3) — Blood, Freeish"
+ },
+ "c07e1ebb77de": {
+  "en": "Nari Worm (CR 8, but peaceful) — Nari Caverns",
+  "t": "Nari Worm (CR 8, mas pacífico) — Cavernas de Nari"
+ },
+ "c1e745c10316": {
+  "en": "**Hive Mind.** Can't be surprised while another Walking undead is within 60 ft.",
+  "t": "**Mente de Colmeia.** Não pode ser surpreendido enquanto outro morto-vivo Walking estiver a até 60 pés."
+ },
+ "c59acd2ea88e": {
+  "en": "**Burrow Cloak.** Invisible while underground; Saynas detect it.",
+  "t": "**Manto Subterrâneo.** Invisível enquanto está debaixo da terra; as Saynas o detectam."
+ },
+ "c5b86c94cacf": {
+  "en": "Ported from the original Alpha campaign's `Beasts Stats.md`, with regions added and new entries. Light-weight blocks: fill in ability scores from a similar 5e monster of the same CR when you need them. \"Soul Energy\" damage reduces the target's **Soul Points** (SP); below 0 SP a creature gains exhaustion instead.",
+  "t": "Trazidas do `Beasts Stats.md` da campanha Alpha original, com regiões acrescentadas e entradas novas. Fichas leves: se precisar dos valores de habilidade, pegue de um monstro de 5e parecido do mesmo CR. Dano de «energia da alma» reduz os **Soul Points** (SP) do alvo; abaixo de 0 SP, a criatura ganha exaustão em vez disso."
+ },
+ "c7c4f83ee762": {
+  "en": "AC 12 · HP 19 · climb 30 ft",
+  "t": "AC 12 · HP 19 · escalada 30 pés"
+ },
+ "c857f9631995": {
+  "en": "Shapeshifter (CR 4) — west of Blood",
+  "t": "Shapeshifter (CR 4) — a oeste de Blood"
+ },
+ "c87cda76da9a": {
+  "en": "In Freeish they're street lights and guards; groups of 6+ can set a village on fire.",
+  "t": "Em Freeish eles são postes de luz e guardas; grupos de 6+ conseguem pôr fogo numa aldeia."
+ },
+ "c99f5618e292": {
+  "en": "AC 15 · HP 110 · fly 120 ft",
+  "t": "AC 15 · HP 110 · voo 120 pés"
+ },
+ "cd81979086b6": {
+  "en": "**Friendly.** Never attacks first. Harming one is a Hifuna-exile crime.",
+  "t": "**Amigável.** Nunca ataca primeiro. Ferir um é crime punido com exílio em Hifuna."
+ },
+ "ceeea05e4432": {
+  "en": "**Soul-Enhanced Screech (Recharge 5–6).** 3d10 thunder in 30 ft, DC 15 Con half.",
+  "t": "**Guincho Potencializado pela Alma (Recarga 5–6).** 3d10 trovejante em 30 pés, teste de resistência de Con DC 15 reduz à metade."
+ },
+ "cf472acf8428": {
+  "en": "**Stalker.** Picks one target and follows them for 1d3 nights (DC 15 Perception to notice). Advantage on attacks against isolated targets.",
+  "t": "**Perseguidora.** Escolhe um alvo e o segue por 1d3 noites (Percepção DC 15 para perceber). Vantagem nos ataques contra alvos isolados."
+ },
+ "d052a97726e6": {
+  "en": "**Soul Theft.** On a hit, the target loses 1 SP.",
+  "t": "**Roubo de Alma.** Ao acertar, o alvo perde 1 SP."
+ },
+ "d38df4e96638": {
+  "en": "Wood People (CR 3) — Buhraies Plains, Tolerideme",
+  "t": "Wood People (CR 3) — Buhraies Plains, Tolerideme"
+ },
+ "daefd400836b": {
+  "en": "**Fast Strike.** Reach 15 ft, +7 to hit, 2d6+4 slashing; two attacks.",
+  "t": "**Golpe Rápido.** Alcance 15 pés, +7 para acertar, 2d6+4 cortante; dois ataques."
+ },
+ "dc7a11d1cf79": {
+  "en": "**Split.** When it drops below half HP, it can split into two (each with half the remaining HP).",
+  "t": "**Dividir.** Quando cai abaixo da metade dos HP, pode se dividir em dois (cada um com metade dos HP restantes)."
+ },
+ "dcb9bfea4f73": {
+  "en": "Monica Swarm (CR 2) — lower plains",
+  "t": "Enxame de Monica (CR 2) — planícies baixas"
+ },
+ "dece39dee12c": {
+  "en": "**Slow Regeneration.** 10 HP per round unless it took radiant damage.",
+  "t": "**Regeneração Lenta.** 10 HP por rodada, a menos que tenha sofrido dano radiante."
+ },
+ "e099acf627b5": {
+  "en": "Walking Skin (CR 3) — Bahyum, Buhraies Plains",
+  "t": "Walking Skin (CR 3) — Bahyum, Buhraies Plains"
+ },
+ "e146d763ee3b": {
+  "en": "Protected on Endlessfog: harming one there makes the locals violent.",
+  "t": "Protegidos em Endlessfog: ferir um ali deixa os moradores violentos."
+ },
+ "e19d8807a9cc": {
+  "en": "**Dive Bomb.** If it flies 20 ft straight toward the target, +2d6 damage.",
+  "t": "**Bombardeio em Mergulho.** Se voar 20 pés em linha reta na direção do alvo, +2d6 de dano."
+ },
+ "e29aa7a5bd89": {
+  "en": "**Soul Drain (Recharge 6).** One creature within 5 ft: DC 14 Con save or lose 1d4 SP.",
+  "t": "**Dreno de Alma (Recarga 6).** Uma criatura a até 5 pés: teste de resistência de Con DC 14 ou perde 1d4 SP."
+ },
+ "e45250d99d08": {
+  "en": "Trunk People (CR 1) — Freeish forests, Woodland",
+  "t": "Trunk People (CR 1) — florestas de Freeish, Woodland"
+ },
+ "e4e0010ccde4": {
+  "en": "**Halted Decomposition.** Immune to poison and disease.",
+  "t": "**Decomposição Interrompida.** Imune a veneno e doenças."
+ },
+ "e53eeec252bb": {
+  "en": "AC 12 · HP 30 · swim 50 ft",
+  "t": "AC 12 · HP 30 · natação 50 pés"
+ },
+ "e66d39f47a58": {
+  "en": "AC 12 · HP 30 · swarm, fly 30 ft",
+  "t": "AC 12 · HP 30 · enxame, voo 30 pés"
+ },
+ "e73cb5fbd9ef": {
+  "en": "AC 15 · HP 95 · fly 80 ft",
+  "t": "AC 15 · HP 95 · voo 80 pés"
+ },
+ "e75f81fcdeab": {
+  "en": "**Body Explosion.** When reduced to 0 HP, explodes: 4d6 fire in 15 ft, DC 13 Dex half. Leaves a crater.",
+  "t": "**Explosão Corporal.** Quando cai a 0 HP, explode: 4d6 fogo em 15 pés, teste de resistência de Des DC 13 reduz à metade. Deixa uma cratera."
+ },
+ "ea0e2fe7d5c0": {
+  "en": "AC 13 · HP 22 · Small",
+  "t": "AC 13 · HP 22 · Pequeno"
+ },
+ "eee17dea3c40": {
+  "en": "**Porter.** Carries as much as a mule over rough terrain without slowing the party.",
+  "t": "**Carregador.** Carrega tanto quanto uma mula em terreno acidentado sem atrasar o grupo."
+ },
+ "ef816228507d": {
+  "en": "**Strip Flesh.** Swarm attack: 2d6 piercing to creatures in its space; a corpse is stripped in hours.",
+  "t": "**Arrancar a Carne.** Ataque de enxame: 2d6 perfurante nas criaturas no espaço dele; um cadáver vira osso em horas."
+ },
+ "f37b8ccc226f": {
+  "en": "*Loot:* jelly blob in a jar (1 aquamarine to scientists).",
+  "t": "*Saque:* uma bolha gelatinosa num pote (1 aquamarine para cientistas)."
+ },
+ "f3f4304cba13": {
+  "en": "AC 14 · HP 110 · burrow 30 ft",
+  "t": "AC 14 · HP 110 · escavação 30 pés"
+ },
+ "fc948a18033d": {
+  "en": "Flinga (CR 6) — the skies",
+  "t": "Flinga (CR 6) — os céus"
+ },
+ "fcec3010541f": {
+  "en": "Walking Flesh (CR 4) — Bahyum, Buhraies Plains",
+  "t": "Walking Flesh (CR 4) — Bahyum, Buhraies Plains"
+ },
+ "fd81cb413c78": {
+  "en": "**Quake.** Each round it's angry, the cavern quakes (DC 13 Dex or 2d6 bludgeoning, prone).",
+  "t": "**Tremor.** A cada rodada em que está irritado, a caverna treme (Des DC 13 ou 2d6 concussão, caído)."
+ },
+ "fe699492048e": {
+  "en": "AC 18 · HP 200 · burrow 40 ft",
+  "t": "AC 18 · HP 200 · escavação 40 pés"
+ }
+}

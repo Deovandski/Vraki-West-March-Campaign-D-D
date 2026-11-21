@@ -1,0 +1,70 @@
+{
+ "04c03cca5d8d": {
+  "en": "**People:** Human · **Class:** Barbarian (Path of the Beast-lite) · **Background:** Unknown Wanderer · **Alignment:** Chaotic Neutral · **Rank:** Pearl (on paper)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**Pueblo:** humano · **Clase:** bárbaro (Senda de la Bestia ligera) · **Trasfondo:** Vagabundo desconocido · **Alineamiento:** caótico neutral · **Rango:** Pearl (sobre el papel)\n**Interfaz:** Darfaries · **Soul Points:** 5"
+ },
+ "2a6d0cfb4e1f": {
+  "en": "**Gore Charge (raging).** +5 to hit, 2d6+3 piercing.",
+  "t": "**Embestida con cuernos (en furia).** +5 para impactar, 2d6+3 perforante."
+ },
+ "2eace524d94f": {
+  "en": "**AC** 15 (Stinger chitin armor) / 15 unarmored (10 + Dex + Con) · **HP** 36 · **Speed** 30 ft\n**STR** 16 · **DEX** 14 · **CON** 16 · **INT** 10 · **WIS** 12 · **CHA** 10",
+  "t": "**AC** 15 (armadura de quitina del Stinger) / 15 sin armadura (10 + Des + Con) · **HP** 36 · **Velocidad** 30 pies\n**FUE** 16 · **DES** 14 · **CON** 16 · **INT** 10 · **SAB** 12 · **CAR** 10"
+ },
+ "4e861c45e27e": {
+  "en": "**Blood-Soaked Wanderer.** Advantage on Intimidation while covered in gore.",
+  "t": "**Vagabundo empapado en sangre.** Ventaja en Intimidación mientras está cubierto de vísceras."
+ },
+ "56431754db05": {
+  "en": "**Dual Persona.** *Armor on:* bold, loud, reckless (The Stinger). *Armor off:* mute, meticulous, polite to the point of sounding robotic.",
+  "t": "**Doble personalidad.** *Con la armadura:* audaz, ruidoso, temerario (The Stinger). *Sin la armadura:* mudo, meticuloso, tan educado que parece un robot."
+ },
+ "5a47ec5e5d46": {
+  "en": "**Unarmored Defense.** AC = 10 + Dex + Con when the armor is off.",
+  "t": "**Defensa sin armadura.** AC = 10 + Des + Con cuando no lleva la armadura."
+ },
+ "905f708e5fcf": {
+  "en": "**Urban Legend.** Commoners have disadvantage to identify the Stinger as Morika.",
+  "t": "**Leyenda urbana.** Los plebeyos tienen desventaja para identificar al Stinger como Morika."
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "Rasgos y atributos"
+ },
+ "ad8f49708d9a": {
+  "en": "**Reckless Attack, Danger Sense.**",
+  "t": "**Ataque temerario, Sentido del peligro.**"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "Acciones"
+ },
+ "c3af44c4e708": {
+  "en": "Barbarian Features",
+  "t": "Rasgos de bárbaro"
+ },
+ "cce5c08a4e6f": {
+  "en": "**Rage (3/day).** +2 damage; resistance to bludgeoning, piercing and slashing.",
+  "t": "**Furia (3/día).** +2 al daño; resistencia al daño contundente, perforante y cortante."
+ },
+ "ea1fd6abdd59": {
+  "en": "**Stinger Slash.** +5 to hit, 1d8+3 slashing.",
+  "t": "**Tajo del aguijón.** +5 para impactar, 1d8+3 cortante."
+ },
+ "eb5eefdd2d92": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to everything within 5 ft.",
+  "t": "**Estallido de púas de la armadura (Recarga 6).** 2d6 perforante a todo lo que esté a 5 pies o menos."
+ },
+ "ec1c5df4e822": {
+  "en": "**Skills:** Athletics +5, Survival +3, Perception +3\n**Equipment:** Stinger chitin armor (modeled on a Sweet Sting), serrated blade, blood-stained cloak, journal, a jar of black honey, badge.\n**Hook:** Nobody knows the Stinger is Morika. Keep it that way.",
+  "t": "**Habilidades:** Atletismo +5, Supervivencia +3, Percepción +3\n**Equipo:** armadura de quitina del Stinger (inspirada en un Sweet Sting), hoja dentada, capa manchada de sangre, diario, un tarro de miel negra, insignia.\n**Gancho:** Nadie sabe que el Stinger es Morika. Que siga así."
+ },
+ "f127ea27edb7": {
+  "en": "Morika Tolerideme — Level 3 Barbarian (\"The Stinger\")",
+  "t": "Morika Tolerideme — Bárbaro de nivel 3 («The Stinger»)"
+ },
+ "f45a390d6c0f": {
+  "en": "**Too Thin for Tolerideme.** Toleridemians mock him; he avoids home.",
+  "t": "**Demasiado flaco para Tolerideme.** Los toleridemianos se burlan de él; evita volver a casa."
+ }
+}

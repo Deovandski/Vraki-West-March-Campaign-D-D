@@ -1,0 +1,74 @@
+{
+ "2d0b80e867ac": {
+  "en": "**Glamour Burst (Recharge 6).** 2d6 psychic, DC 14 Wis save for half.",
+  "t": "**魅惑爆发（充能6）。** 2d6心灵，DC 14感知豁免成功则减半。"
+ },
+ "38cbf19a4337": {
+  "en": "**Talk-Your-Way-Out.** Once per long rest, charm a humanoid for 10 minutes.",
+  "t": "**靠嘴脱身。** 每次长休一次，魅惑一个类人生物10分钟。"
+ },
+ "3b47c2c5479e": {
+  "en": "**AC** 14 · **HP** 22 · **Speed** 30 ft\n**STR** 8 · **DEX** 14 · **CON** 12 · **INT** 13 · **WIS** 10 · **CHA** 18",
+  "t": "**AC** 14 · **HP** 22 · **速度** 30尺\n**力量** 8 · **敏捷** 14 · **体质** 12 · **智力** 13 · **感知** 10 · **魅力** 18"
+ },
+ "4a83b8b575d0": {
+  "en": "Spellcasting",
+  "t": "施法"
+ },
+ "4cde420e4895": {
+  "en": "Bardic Inspiration (d6), Jack of All Trades, Mantle of Inspiration.",
+  "t": "吟游激励（d6）、万事通、激励斗篷。"
+ },
+ "5fe5c2c2b4d4": {
+  "en": "Posaqui Sanbi — Level 3 Bard (Glamour)",
+  "t": "波萨基·桑比——3级吟游诗人（魅惑）"
+ },
+ "69429d3734d0": {
+  "en": "**Cutting Words.** Reaction: subtract 1d6 from an enemy's roll.",
+  "t": "**语出惊人。** 反应：从敌人的掷骰中减去1d6。"
+ },
+ "978b82033db2": {
+  "en": "**People:** Human · **Class:** Bard (College of Glamour) · **Background:** Information Broker · **Alignment:** Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 3",
+  "t": "**种族：** 人类 · **职业：** 吟游诗人（魅惑学院） · **背景：** 情报贩子 · **阵营：** 绝对中立 · **级别：** 珀尔\n**界面：** 达尔法里斯 · **灵魂点数：** 3"
+ },
+ "983381fa02c8": {
+  "en": "**Skills:** Deception +8, Performance +8, Persuasion +8, Insight +2\n**Equipment:** Sparkling rapier, makeup kit, blue accessories, forged documents, a mirror, badge.\n**Hook:** Avoids fights, loves blue, hates fat Toleridemians, and always knows a little too much.",
+  "t": "**技能：** 欺瞒+8、表演+8、游说+8、洞悉+2\n**装备：** 闪闪发亮的刺剑、化妆工具、蓝色饰品、伪造文件、一面镜子、身份牌。\n**剧情钩子：** 避免打架，热爱蓝色，讨厌胖的托勒里德梅人，而且总是知道得多了一点。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特性与特质"
+ },
+ "aa823765a182": {
+  "en": "**Spell Save DC** 14 · *Charm Person, Dissonant Whispers, Healing Word, Faerie Fire, Silent Image, Suggestion*",
+  "t": "**法术豁免DC** 14 · *魅惑人类、不谐低语、治愈真言、妖火、无声幻影、暗示术*"
+ },
+ "ade78b47bdd6": {
+  "en": "Bard Features",
+  "t": "吟游诗人特性"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "动作"
+ },
+ "c84dca72b1eb": {
+  "en": "**Grandiose Performer.** Advantage on Performance checks.",
+  "t": "**浮夸的表演者。** 表演检定具有优势。"
+ },
+ "dd833d094f78": {
+  "en": "**Narcissistic Flare.** When complimented, +1 to his next roll.",
+  "t": "**自恋的炫耀。** 被夸奖时，下一次掷骰+1。"
+ },
+ "e7581b66bfe2": {
+  "en": "**Rapier.** +4 to hit, 1d8+2 piercing.",
+  "t": "**刺剑。** 命中+4，1d8+2穿刺。"
+ },
+ "f59b9d8b85e5": {
+  "en": "**Beauty Rage.** If his looks are insulted, DC 12 Wis save or he lashes out.",
+  "t": "**美貌之怒。** 如果有人侮辱他的长相，进行DC 12感知豁免，失败则发火。"
+ },
+ "fd998e6effcb": {
+  "en": "**Friends in High Places.** Has a contract with someone powerful in Sanbi. (DM: see DM Secrets.)",
+  "t": "**高层有朋友。** 和桑比某位有权势的人签了合同。（DM：见DM秘密。）"
+ }
+}

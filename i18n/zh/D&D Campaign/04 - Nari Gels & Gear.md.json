@@ -1,0 +1,870 @@
+{
+ "01cd70f3cd35": {
+  "en": "Thick coat: +1 AC, disadv. on stealth",
+  "t": "厚毛：AC+1，隐匿具有劣势"
+ },
+ "02ed88d532ca": {
+  "en": "Can't form new memories for the duration",
+  "t": "持续期间无法形成新的记忆"
+ },
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "纳里凝胶与装备"
+ },
+ "06261b5c960e": {
+  "en": "Flawless complexion (adv. on one Persuasion)",
+  "t": "完美的肤色（一次游说检定具有优势）"
+ },
+ "076a428ce1ca": {
+  "en": "Signal smoke bomb (red/cyan/green/yellow)",
+  "t": "信号烟雾弹（红／青／绿／黄）"
+ },
+ "0db483b96ea9": {
+  "en": "Darkvision 120 ft; you see green as gray (DM describes everything as neon)",
+  "t": "黑暗视觉120尺；你看到的绿色是灰色（DM把一切都描述成霓虹色）"
+ },
+ "0e206b60f4c2": {
+  "en": "Resistance to psychic damage; speed −10 ft; disadv. on initiative",
+  "t": "心灵伤害抗性；速度−10尺；先攻具有劣势"
+ },
+ "0f81ee943991": {
+  "en": "Restrained, can't speak (DC 13 Con ends at end of turn)",
+  "t": "束缚，不能说话（回合结束时DC 13体质可结束）"
+ },
+ "0faac30f419b": {
+  "en": "As Skin Melt IV",
+  "t": "如同斯金梅尔特IV"
+ },
+ "0faccb6d50e8": {
+  "en": "Darkvision 120 ft; disadv. on reading and close work",
+  "t": "黑暗视觉120尺；阅读和近距离工作具有劣势"
+ },
+ "10ae207e1611": {
+  "en": "Fly 30 ft (light or no armor; can't hold two-handed items or use somatic components while flying)",
+  "t": "飞行30尺（穿轻甲或不穿甲；飞行时不能持双手物品，也不能使用姿势成分）"
+ },
+ "14f86d5be3a4": {
+  "en": "Jam into a Wood Person's crown (melee attack against AC 14, or while it's grappled) to **paralyze** it",
+  "t": "塞进伍德皮普尔的树冠（对AC 14进行一次近战攻击，或在它被擒抱时）就能**麻痹**它"
+ },
+ "1541e5b3811b": {
+  "en": "Thrown into water: 3d6 thunder in 15 ft and a 20-ft geyser. Wrap in paper to delay 1 round",
+  "t": "扔进水里：15尺内3d6雷鸣伤害，并冲起20尺高的水柱。用纸包住可以延迟1轮"
+ },
+ "155b086ce724": {
+  "en": "**Sigil rings**: see Soul Energy rules.",
+  "t": "**西吉尔戒指**：见灵魂能量规则。"
+ },
+ "19993e45d672": {
+  "en": "Walk on water (Large/Darfaries)",
+  "t": "能在水上行走（大型／达尔法里斯）"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "价格"
+ },
+ "1aa1e29b125c": {
+  "en": "Speed halved",
+  "t": "速度减半"
+ },
+ "1aa2f3272b9b": {
+  "en": "Companions",
+  "t": "伙伴"
+ },
+ "1abd5d23a35e": {
+  "en": "Feed several stones in one action",
+  "t": "一个动作内注入多颗石头"
+ },
+ "1bfa6d34ab17": {
+  "en": "priceless / illegal to sell",
+  "t": "无价／禁止买卖"
+ },
+ "1ca8da91ab11": {
+  "en": "**Sleep Inducer** (poison; II+ banned)",
+  "t": "**斯利普因杜瑟**（毒；II级及以上禁止）"
+ },
+ "1cecbb6bc55c": {
+  "en": "**Fake Skin / Eye**",
+  "t": "**费克斯金／艾**"
+ },
+ "1cf395d2f928": {
+  "en": "Unconscious 1 hour (DC 13 Con)",
+  "t": "昏迷1小时（体质DC 13）"
+ },
+ "1d5db4413684": {
+  "en": "Fost lamp",
+  "t": "福斯特灯"
+ },
+ "1da204a107a2": {
+  "en": "Porter for rough terrain",
+  "t": "崎岖地形的搬运工"
+ },
+ "1dcc3f06fdf9": {
+  "en": "+2 initiative, can't be surprised, no sleep needed tonight",
+  "t": "先攻+2，不会被突袭，今晚不需要睡觉"
+ },
+ "1decf382bac7": {
+  "en": "**Walking Dead**",
+  "t": "**沃金戴德**"
+ },
+ "1f62fb6dc94e": {
+  "en": "Item",
+  "t": "物品"
+ },
+ "1f67dc27d568": {
+  "en": "Detects invisible things and sand worms; goofy",
+  "t": "能发现隐形的东西和桑德沃姆；憨傻"
+ },
+ "204cb4b10525": {
+  "en": "Malformed gills: disadv. on Con checks, can't eat",
+  "t": "畸形的鳃：体质检定具有劣势，无法进食"
+ },
+ "20ef4273b8b7": {
+  "en": "**Wooly Skin**",
+  "t": "**伍利斯金**"
+ },
+ "21307738f32b": {
+  "en": "Look like the target's part (cosmetic)",
+  "t": "长得像目标的部位（外观效果）"
+ },
+ "229182d4733b": {
+  "en": "Small horns (1d4 gore), deep voice, resistance to cold",
+  "t": "小角（顶撞1d4）、低沉的嗓音、寒冷抗性"
+ },
+ "26f38bb185ba": {
+  "en": "**Mind Enabler** (banned)",
+  "t": "**迈恩德伊内布勒**（禁止）"
+ },
+ "277bc41bc456": {
+  "en": "Feathery hair (cosmetic)",
+  "t": "羽毛般的头发（外观效果）"
+ },
+ "279a3b452e52": {
+  "en": "**No Breath**",
+  "t": "**诺布雷斯**"
+ },
+ "279b40cf72d7": {
+  "en": "Nari Worm egg",
+  "t": "纳里沃姆蛋"
+ },
+ "27ce44dc9538": {
+  "en": "Advantage on Survival checks to predict weather and hunting",
+  "t": "预测天气和狩猎的求生检定具有优势"
+ },
+ "2a62276e67bc": {
+  "en": "Full wagon puller",
+  "t": "能拉满载的货车"
+ },
+ "2a6d387bfe03": {
+  "en": "Gel effects",
+  "t": "凝胶效果"
+ },
+ "2c68086e13fb": {
+  "en": "Smoke bomb (intense)",
+  "t": "烟雾弹（强）"
+ },
+ "2c7f2cbc034d": {
+  "en": "**Time Quicken**",
+  "t": "**泰姆奎肯**"
+ },
+ "2cc9d0ebb4ae": {
+  "en": "Euphoric: immune to fear",
+  "t": "欣快：免疫恐惧"
+ },
+ "2eee9940b164": {
+  "en": "Flatland Companion Meetup fee (2 aquamarines)",
+  "t": "弗拉特兰伙伴见面会的费用（2阿夸马林）"
+ },
+ "2f1764936597": {
+  "en": "Loyal flying companion",
+  "t": "忠诚的飞行伙伴"
+ },
+ "2f4fa96fd8bf": {
+  "en": "Courier; recognizes faces; Fauna stats",
+  "t": "信使；认得人脸；数据见动物篇"
+ },
+ "303a191a167f": {
+  "en": "Wounds won't close: 1d6 bleed each turn until healed",
+  "t": "伤口无法愈合：每回合流血1d6，直到被治疗"
+ },
+ "3066d2140b2d": {
+  "en": "Breathe in swamps and murky water; scaly; can't breathe air",
+  "t": "能在沼泽和浑水中呼吸；长出鳞片；不能呼吸空气"
+ },
+ "320b59e8d691": {
+  "en": "Gels are **Tier III goods** for distance pricing; banned gels are black-market only (double or triple price and a Forway Law problem if caught).",
+  "t": "按距离定价时，凝胶算作**第III级货物**；违禁凝胶只在黑市出售（价格翻两到三倍，被抓到还会违反福威法）。"
+ },
+ "321a9ad90dc4": {
+  "en": "Identical (agony: 4d6 psychic even for fine grade)",
+  "t": "一模一样（剧痛：即使是精制也受4d6心灵伤害）"
+ },
+ "326c4c3c2aaf": {
+  "en": "Faint sparkles (useless)",
+  "t": "微弱的闪光（没用）"
+ },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**叠加：** 几种不同的凝胶可以叠加（由DM判断）；同一种凝胶不能和自己叠加——取较高的等级。"
+ },
+ "341a791c2849": {
+  "en": "Map (region / detailed)",
+  "t": "地图（地区／详细）"
+ },
+ "359b29bbb115": {
+  "en": "Find the chosen scent within 1 mile (corpses, traps, living things); migraine (disadv. on Int checks)",
+  "t": "能在1英里内找到选定的气味（尸体、陷阱、活物）；偏头痛（智力检定具有劣势）"
+ },
+ "363f8c57d8cc": {
+  "en": "5 amethysts",
+  "t": "5阿米西斯特"
+ },
+ "36a3073db5e5": {
+  "en": "Breathe water while swimming (not air)",
+  "t": "游泳时能在水中呼吸（不能呼吸空气）"
+ },
+ "3713223a3a74": {
+  "en": "Squeeze through Small gaps",
+  "t": "能挤过小型大小的缝隙"
+ },
+ "379b3d485a78": {
+  "en": "1 amethyst / 1 aquamarine",
+  "t": "1阿米西斯特／1阿夸马林"
+ },
+ "383e3f970f51": {
+  "en": "**Chitin** (Sand Worm): Gandew armor. Treat chitin plate as half plate with no disadvantage on Stealth; price ×1.5.",
+  "t": "**甲壳质**（来自桑德沃姆）：甘杜的盔甲。把甲壳板甲当作半身板甲，但隐匿没有劣势；价格×1.5。"
+ },
+ "3c035c71646f": {
+  "en": "Groggy: disadv. on Wis checks",
+  "t": "昏昏沉沉：感知检定具有劣势"
+ },
+ "3dcad2321ac1": {
+  "en": "Vomit, hair melts off: poisoned 1 hour",
+  "t": "呕吐，头发融化脱落：中毒1小时"
+ },
+ "3e2c948f2eaa": {
+  "en": "Confused memories: disadv. on Int saves",
+  "t": "记忆混乱：智力豁免具有劣势"
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**吃（粗制）：** 动作。效果在你下个回合结束时开始。持续**1d4天**。"
+ },
+ "3f29b5521112": {
+  "en": "4d6 acid; disfigurement",
+  "t": "4d6强酸伤害；毁容"
+ },
+ "3fd6330b142d": {
+  "en": "6 aquamarines",
+  "t": "6阿夸马林"
+ },
+ "420275751827": {
+  "en": "**Bleed Out** (poison)",
+  "t": "**布利德奥特**（毒）"
+ },
+ "423874e0b2f0": {
+  "en": "Cold immunity in normal weather; overheat in hot places (disadv. on Con saves vs. heat)",
+  "t": "普通天气下免疫寒冷；在炎热的地方会过热（对抗高温的体质豁免具有劣势）"
+ },
+ "4266f66e1be3": {
+  "en": "Death (DC 17 Con)",
+  "t": "死亡（体质DC 17）"
+ },
+ "4372c652f62d": {
+  "en": "Light 20 ft when wet with salt water; lasts a year. Sucker Ladies and many beasts avoid it",
+  "t": "用海水打湿后照亮20尺；能用一年。萨克莱迪和许多魔兽会避开它"
+ },
+ "4446426affd0": {
+  "en": "**Time Slower**",
+  "t": "**泰姆斯洛沃**"
+ },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "游戏桌上的纳里凝胶"
+ },
+ "48edb2544e3a": {
+  "en": "Restores up to 4 SP and acts as a Tier III Nari Refresher. 1-in-6 chance it hatches in your bag",
+  "t": "恢复最多4 SP，并起到第III级纳里里弗雷舍的作用。有六分之一的概率在你的包里孵化"
+ },
+ "4913580e8dc4": {
+  "en": "**Nari Refresher**",
+  "t": "**纳里里弗雷舍**"
+ },
+ "49968cd81c5a": {
+  "en": "Advantage on smell-based Perception",
+  "t": "基于嗅觉的察觉具有优势"
+ },
+ "4a020091bee7": {
+  "en": "Coma 1d4 days (DC 15 Con)",
+  "t": "陷入昏迷1d4天（体质DC 15）"
+ },
+ "4c05347d1141": {
+  "en": "See invisible creatures; you feel like you're dying (disadv. on Wis saves)",
+  "t": "能看见隐形生物；感觉自己快死了（感知豁免具有劣势）"
+ },
+ "4d2cbc953012": {
+  "en": "Natural AC 12 + Dex, small tail",
+  "t": "天生AC 12 + 敏捷，小尾巴"
+ },
+ "4e1ba4250de1": {
+  "en": "20 pearls",
+  "t": "20珀尔"
+ },
+ "4e776c47742b": {
+  "en": "Bad trip: DC 13 Wis or confused 1 minute",
+  "t": "糟糕的幻觉体验：DC 13感知，失败则陷入混乱1分钟"
+ },
+ "4f08c9382bed": {
+  "en": "+1 AC and an extra bonus-action Dash each turn; anxious (disadv. on Insight)",
+  "t": "AC+1，每回合额外获得一个用于疾走的附赠动作；焦虑（洞悉具有劣势）"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30珀尔"
+ },
+ "51c01287f5ae": {
+  "en": "Ends nausea",
+  "t": "止住恶心"
+ },
+ "537a68635e74": {
+  "en": "Close match: advantage on Deception to impersonate",
+  "t": "高度相似：冒充时欺瞒具有优势"
+ },
+ "590fae2cf41e": {
+  "en": "See a chosen scent's trail within 300 ft",
+  "t": "能看到300尺内选定气味的踪迹"
+ },
+ "5accdc3492f6": {
+  "en": "Gear and materials",
+  "t": "装备与材料"
+ },
+ "5d8a468a52fd": {
+  "en": "Ends Tier ≤III; heal 3d4",
+  "t": "结束第III级及以下；治疗3d4"
+ },
+ "5e5cc65370d1": {
+  "en": "8d6 acid; death if reduced to 0",
+  "t": "8d6强酸伤害；降到0则死亡"
+ },
+ "5fed45345a35": {
+  "en": "Fully aquatic lungs; can't breathe air",
+  "t": "完全水生的肺；不能呼吸空气"
+ },
+ "6213d3f8d772": {
+  "en": "Hold breath +1 minute",
+  "t": "屏息时间+1分钟"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1萨菲尔"
+ },
+ "631d0bc83f29": {
+  "en": "As *polymorph* into a Winga (Fauna stats)",
+  "t": "如同*变形术*变成一只温加（数据见动物篇）"
+ },
+ "63b365e58e0f": {
+  "en": "See souls as a shimmer (detect living creatures in 30 ft)",
+  "t": "能看到灵魂的微光（侦测30尺内的活物）"
+ },
+ "65283b7e6485": {
+  "en": "Water-reactive nari bomb",
+  "t": "遇水反应的纳里炸弹"
+ },
+ "652ed7ab4428": {
+  "en": "Natural AC 14 + Dex",
+  "t": "天生AC 14 + 敏捷"
+ },
+ "66c762d797d5": {
+  "en": "Hooves (+10 ft speed), tail, overheating",
+  "t": "蹄子（速度+10尺）、尾巴、过热"
+ },
+ "67fd06f93056": {
+  "en": "Colored flames: 1d6 fire to creatures you grapple or touch",
+  "t": "彩色火焰：对你擒抱或触碰的生物造成1d6火焰伤害"
+ },
+ "6847b9e8c95c": {
+  "en": "As *haste*; at the end of each of your turns take 1d6 force damage",
+  "t": "如同*加速术*；在你每个回合结束时受到1d6力场伤害"
+ },
+ "693d31d4622d": {
+  "en": "Death (DC 15 Con)",
+  "t": "死亡（体质DC 15）"
+ },
+ "6bd90eaf3a6c": {
+  "en": "Speed halved, slurred speech, disadv. on Dex checks/saves",
+  "t": "速度减半，口齿不清，敏捷检定和豁免具有劣势"
+ },
+ "6e769670ac0a": {
+  "en": "Hear a mile away; without Time Slower, DC 15 Con or incapacitated",
+  "t": "能听到一英里外的声音；不配合泰姆斯洛沃的话，DC 15体质，失败则失能"
+ },
+ "6f5cfcd0a872": {
+  "en": "Poison: DC 15 Con save or heart stops (0 HP, dying)",
+  "t": "毒：进行DC 15的体质豁免，失败则心脏停止跳动（0 HP，濒死）"
+ },
+ "7107e9ef6352": {
+  "en": "Tamed Winga",
+  "t": "驯服的温加"
+ },
+ "721d81354ff2": {
+  "en": "**Arm Light**",
+  "t": "**阿姆莱特**"
+ },
+ "726d99fe9103": {
+  "en": "1 SP of energy for interfaces. Comes in soul wood; stack into sticks",
+  "t": "供界面使用的1 SP能量。镶在灵魂木里；可以叠成石棒"
+ },
+ "7595824c0ba4": {
+  "en": "Nari stones, bombs and other consumables",
+  "t": "纳里石、炸弹和其他消耗品"
+ },
+ "768dbc639623": {
+  "en": "Hooves: +10 ft speed on land",
+  "t": "蹄子：陆地上速度+10尺"
+ },
+ "7696398f9f70": {
+  "en": "Overload: blindsight 30 ft by smell, but poisoned near strong smells",
+  "t": "过载：凭嗅觉获得30尺盲视，但在强烈气味附近会中毒"
+ },
+ "76e79a4ff4e5": {
+  "en": "**Winga-dust coating**: a weapon coated with Winga dust ignores resistance to slashing/piercing from nonmagical attacks for a year. 1 aquamarine.",
+  "t": "**温加粉涂层**：涂了温加粉的武器在一年内无视对非魔法攻击的挥砍／穿刺伤害抗性。1阿夸马林。"
+ },
+ "77567bb3643e": {
+  "en": "**Water Walk**",
+  "t": "**沃特沃克**"
+ },
+ "7931660fbde8": {
+  "en": "Overwhelming feelings: advantage on Charisma, disadv. on Wisdom",
+  "t": "情绪汹涌：魅力具有优势，感知具有劣势"
+ },
+ "7a84aa0fd38f": {
+  "en": "2d6 bleed per turn, bleeding from eyes/ears",
+  "t": "每回合流血2d6，眼睛和耳朵出血"
+ },
+ "7b3c162b3bdd": {
+  "en": "**Bone wood** (bone, iron, ground nari, greenbread core): as wood or metal; lasts longer. Freeish guards wear bone-wood armor (as hide/scale).",
+  "t": "**骨木**（骨头、铁、纳里粉、格林布雷德芯）：当作木头或金属；更耐用。弗里伊什的卫兵穿骨木盔甲（相当于皮甲／鳞甲）。"
+ },
+ "7b58eccef4ad": {
+  "en": "Squeeze through 1-inch gaps; must hold breath",
+  "t": "能挤过1英寸宽的缝隙；必须屏住呼吸"
+ },
+ "7c5af08694b6": {
+  "en": "Feather fall at will; −2 Str checks",
+  "t": "随意施放*羽落术*；力量检定−2"
+ },
+ "7d1a56b761ee": {
+  "en": "Identify any creature by smell within 30 ft; perfume = DC 12 Con or poisoned",
+  "t": "能凭气味辨认30尺内的任何生物；遇到香水 = DC 12体质，失败则中毒"
+ },
+ "7d5d0bfddffd": {
+  "en": "Companion",
+  "t": "伙伴"
+ },
+ "7e4c460ac454": {
+  "en": "Body structure matches",
+  "t": "身体结构相同"
+ },
+ "80cf249ba2d6": {
+  "en": "Gel",
+  "t": "凝胶"
+ },
+ "818e23c9b213": {
+  "en": "Burns: 2d6 fire",
+  "t": "灼伤：2d6火焰伤害"
+ },
+ "8220146365f2": {
+  "en": "Black honey (jar)",
+  "t": "黑蜜（一罐）"
+ },
+ "835f5431c341": {
+  "en": "Neck gills: hold breath 6 minutes; mute",
+  "t": "颈部长鳃：能屏息6分钟；失声"
+ },
+ "83dce580ecd5": {
+  "en": "Advantage on hearing Perception",
+  "t": "听觉察觉具有优势"
+ },
+ "87c9fe369c04": {
+  "en": "Nari stone",
+  "t": "纳里石"
+ },
+ "883f855da487": {
+  "en": "Walk on water (Medium)",
+  "t": "能在水上行走（中型）"
+ },
+ "8a6cd49e8d37": {
+  "en": "Breathe underwater ~20 minutes; mute; can't breathe air",
+  "t": "能在水下呼吸约20分钟；失声；不能呼吸空气"
+ },
+ "8a709fd6a4e2": {
+  "en": "**Body Paralysis** (poison)",
+  "t": "**博迪帕拉利西斯**（毒）"
+ },
+ "8ae498b70077": {
+  "en": "Blindsight 10 ft by sound; loud noises: DC 13 Con or deafened 1 min",
+  "t": "凭声音获得10尺盲视；巨响：DC 13体质，失败则耳聋1分钟"
+ },
+ "8b9548956584": {
+  "en": "Paralyzed; DC 15 Con each turn or stop breathing",
+  "t": "麻痹；每回合DC 15体质，失败则停止呼吸"
+ },
+ "8da4aeb09e9c": {
+  "en": "free (Endlessfog's House of Bruntos, if one bonds with you)",
+  "t": "免费（在恩德莱斯福格的布伦托斯之家，如果有一只和你结下羁绊）"
+ },
+ "8da665aa9f77": {
+  "en": "Advantage on saves vs. ingested poison",
+  "t": "对抗吞食毒素的豁免具有优势"
+ },
+ "8e31e0896449": {
+  "en": "Hear whispers through walls",
+  "t": "能隔墙听到耳语"
+ },
+ "8fbb05286dc1": {
+  "en": "**Getting stuck:** use the same Tier III+ gel for more than 3 days in a row and make a DC 13 Constitution save each extra day; on a failure the change becomes **permanent** until a Nari Refresher of that tier and a long rest. Living permanently transformed for months corrupts the soul (DM's call: you may never come back).",
+  "t": "**卡住：** 连续3天以上使用同一种第III级或以上的凝胶，每多一天就要进行一次DC 13的体质豁免检定；失败的话，变化会变成**永久**的，直到使用一支同级的纳里里弗雷舍并完成一次长休。永久变形地生活好几个月会腐蚀灵魂（由DM判断：你可能再也变不回来）。"
+ },
+ "91b8c9726e81": {
+  "en": "Laxative (cures a stomach ache, ruins a day)",
+  "t": "泻药（治好肚子疼，毁掉一整天）"
+ },
+ "923e85a7e02e": {
+  "en": "Lasting personality change (DM and player decide)",
+  "t": "持久的人格改变（由DM和玩家决定）"
+ },
+ "93e521962edf": {
+  "en": "As *haste* plus advantage on Dex saves; take 2d6 force at end of each turn; when it ends, DC 15 Con save or drop to 0 HP (aneurysm)",
+  "t": "如同*加速术*，并且敏捷豁免具有优势；每回合结束时受到2d6力场伤害；效果结束时，进行DC 15的体质豁免，失败则降到0 HP（动脉瘤）"
+ },
+ "942e0f9e874f": {
+  "en": "Fly 60 ft; you can't speak Vraki",
+  "t": "飞行60尺；你不能说弗拉基语"
+ },
+ "955b3b84b060": {
+  "en": "Tier I",
+  "t": "第I级"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1阿米西斯特"
+ },
+ "9836e1a5abfb": {
+  "en": "Breathe water freely, swim speed = speed (not air)",
+  "t": "能在水中自由呼吸，游泳速度 = 速度（不能呼吸空气）"
+ },
+ "98888ac1b5b2": {
+  "en": "**Sore Mind**",
+  "t": "**索尔迈恩德**"
+ },
+ "9c9199184152": {
+  "en": "Removes hair, scars, tattoos",
+  "t": "去除毛发、伤疤和纹身"
+ },
+ "9f578f34f508": {
+  "en": "3 amethysts",
+  "t": "3阿米西斯特"
+ },
+ "a21485c6adb2": {
+  "en": "Young Egua",
+  "t": "年轻的埃瓜"
+ },
+ "a3e89ea7a049": {
+  "en": "**Wozen Smell**",
+  "t": "**沃增斯梅尔**"
+ },
+ "a570b4373cfd": {
+  "en": "**Badge replacement**: 1 amethyst (plus questions).",
+  "t": "**补办身份牌**：1阿米西斯特（外加一堆盘问）。"
+ },
+ "a65d11b0cb95": {
+  "en": "Flying scout with a huge soul; a person, not a pet",
+  "t": "拥有庞大灵魂的飞行斥候；是一个人，不是宠物"
+ },
+ "ac0d6b06d922": {
+  "en": "Ends Tier ≤II; heal 2d4",
+  "t": "结束第II级及以下；治疗2d4"
+ },
+ "adab8dadcb78": {
+  "en": "Notes",
+  "t": "笔记"
+ },
+ "ae72f1db57c8": {
+  "en": "Fed to someone who died within the last minute, with their body mostly intact: they return to 1 HP. Forway guards carry these in their leg pockets",
+  "t": "喂给一分钟内刚死、身体大致完整的人：他会以1 HP复活。福威卫兵的腿袋里就装着这个"
+ },
+ "b06bab289b6e": {
+  "en": "Sorefaries companion",
+  "t": "索雷法里斯伙伴"
+ },
+ "b071c63665ff": {
+  "en": "**Wood People vines**: as hempen rope but elastic (50 ft for 5 pearls in Tolerideme, 15 elsewhere).",
+  "t": "**伍德皮普尔藤蔓**：相当于麻绳，但有弹性（托勒里德梅50尺卖5珀尔，其他地方15）。"
+ },
+ "b1d38f00e126": {
+  "en": "You're a slime (DM provides ooze stats)",
+  "t": "你变成了史莱姆（DM提供泥怪的数据）"
+ },
+ "b27b4aac7927": {
+  "en": "Green leathery skin (cosmetic)",
+  "t": "绿色的皮革质皮肤（外观效果）"
+ },
+ "b346b6cd745c": {
+  "en": "Tier IV",
+  "t": "第IV级"
+ },
+ "b3ea8d0b906a": {
+  "en": "Eat during a short rest: regain an extra 1d4 HP per Hit Die spent (once per rest). Mildly addictive",
+  "t": "在短休时吃：每花费一个生命骰额外恢复1d4 HP（每次休息一次）。有轻微成瘾性"
+ },
+ "b3eee2b5fd9e": {
+  "en": "**Sayna Hearing**",
+  "t": "**赛纳希尔林**"
+ },
+ "b51600212f96": {
+  "en": "Numb: −2 to attack rolls",
+  "t": "麻木：攻击检定−2"
+ },
+ "b665bdfd60b8": {
+  "en": "Advantage on saves vs. fear; you can sleep anywhere; hungry",
+  "t": "对抗恐惧的豁免具有优势；在哪儿都能睡；饥饿"
+ },
+ "b6cc11829f01": {
+  "en": "Use PHB equipment and prices (1 gp = 10 pearls), with Vraki materials:",
+  "t": "使用《玩家手册》的装备和价格（1 gp = 10珀尔），并换上弗拉基的材料："
+ },
+ "b729dc21bb94": {
+  "en": "Pack animal; light loads",
+  "t": "驮兽；驮轻货"
+ },
+ "b76af4cfe69d": {
+  "en": "Black honey revival pot",
+  "t": "黑蜜复活罐"
+ },
+ "b7cbdc7d1bc4": {
+  "en": "Bright light 20 ft",
+  "t": "20尺明亮光照"
+ },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**提前结束：** 同级或更高级的**纳里里弗雷舍**能结束你身上所有的凝胶效果。"
+ },
+ "bcdbe52f4e7e": {
+  "en": "Your veins glow (light 10 ft)",
+  "t": "你的血管发光（10尺光亮）"
+ },
+ "bd88696efa1f": {
+  "en": "Natural AC 16 + Dex; you can't speak; you look like a Cruro",
+  "t": "天生AC 16 + 敏捷；你不能说话；你看起来像个克鲁罗"
+ },
+ "bdf9525fa9f4": {
+  "en": "Resistance to cold damage",
+  "t": "寒冷伤害抗性"
+ },
+ "bee3832ddb2a": {
+  "en": "Woolly hair (cosmetic, very fashionable)",
+  "t": "羊毛般的头发（外观效果，非常时髦）"
+ },
+ "bfdda802b945": {
+  "en": "Track a known scent (adv. on Survival to track)",
+  "t": "追踪已知的气味（追踪时求生具有优势）"
+ },
+ "c01ccec55696": {
+  "en": "Tamed Bagarisa",
+  "t": "驯服的巴加里萨"
+ },
+ "c3376fb508da": {
+  "en": "Rare; fire-tusked guard pig",
+  "t": "稀有；长着火獠牙的看门猪"
+ },
+ "c7452be4b9c9": {
+  "en": "Lunar mapping (this year)",
+  "t": "月相图（今年的）"
+ },
+ "c786f28f1bc7": {
+  "en": "Adult Egua",
+  "t": "成年埃瓜"
+ },
+ "c7eb9ffbeea8": {
+  "en": "15 pearls",
+  "t": "15珀尔"
+ },
+ "c8731830d000": {
+  "en": "Coma",
+  "t": "昏迷"
+ },
+ "ca38faeb8b69": {
+  "en": "**Winga Skin**",
+  "t": "**温加斯金**"
+ },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**注射（精制，价格翻倍）：** 用注射器的附赠动作。效果立即开始。持续**1天**。"
+ },
+ "cd683e2a9e1d": {
+  "en": "Tamed Sayna",
+  "t": "驯服的赛纳"
+ },
+ "cea1577656a5": {
+  "en": "Once: blinding flash, creatures within 20 ft DC 13 Con or blinded 1 minute — including you, if you fail a DC 10 Con save",
+  "t": "一次：令人目盲的闪光，20尺内的生物进行DC 13体质，失败则目盲1分钟——如果你的DC 10体质豁免失败，你自己也算在内"
+ },
+ "d02cb63f4b06": {
+  "en": "Brunto",
+  "t": "布伦托"
+ },
+ "d0354fe70e0a": {
+  "en": "Hallucinations (DM's fun)",
+  "t": "幻觉（DM的乐趣）"
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**汲取：** 第I–II级凝胶没有额外消耗。**第III级**凝胶起效期间，你在长休时不能恢复SP。**第IV级**凝胶起效期间，你每天黎明失去1 SP（SP为0时，改为获得一级力竭）。"
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**疼痛：** 第III和第IV级凝胶在身体重塑时会疼。粗制：受到2d6（第III级）或4d6（第IV级）心灵伤害，并在你下个回合结束前处于中毒状态。精制：没有伤害。"
+ },
+ "d40fc2232f3f": {
+  "en": "+1 to sight Perception",
+  "t": "视觉察觉+1"
+ },
+ "d4593456be97": {
+  "en": "5 pearls",
+  "t": "5珀尔"
+ },
+ "d4a36e1f39bb": {
+  "en": "Ends all gel effects; heal 4d4",
+  "t": "结束所有凝胶效果；治疗4d4"
+ },
+ "d5c239c689c0": {
+  "en": "Bouncy: halve falling damage",
+  "t": "有弹性：坠落伤害减半"
+ },
+ "d6ebb461546e": {
+  "en": "**Winga Flight**",
+  "t": "**温加弗莱特**"
+ },
+ "d76e0e081cb5": {
+  "en": "Overload: DC 15 Con or incapacitated 1 minute",
+  "t": "过载：DC 15体质，失败则失能1分钟"
+ },
+ "d7df2eac546f": {
+  "en": "Flush: ends poisoned, but you're out of action for an hour",
+  "t": "排空：结束中毒状态，但你一小时内无法行动"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "一**罐**（约200克）装有**4勺**。**第I级吃1勺，第II级吃2勺，第III级吃3勺，第IV级4勺全吃**。所以一罐 = 四剂第I级，或一剂第IV级。"
+ },
+ "da61db8cfc3a": {
+  "en": "**Water Breath**",
+  "t": "**沃特布雷斯**"
+ },
+ "dce52b6dccee": {
+  "en": "Advantage on checks to avoid getting lost",
+  "t": "避免迷路的检定具有优势"
+ },
+ "dd83470bb194": {
+  "en": "Darkvision 60 ft",
+  "t": "黑暗视觉60尺"
+ },
+ "ddebe944ea06": {
+  "en": "20-ft heavily obscured cloud; 1d6 thunder in 10 ft; goes off when infused (hurts the thrower if held)",
+  "t": "20尺的重度遮蔽烟雾；10尺内1d6雷鸣伤害；一注入能量就爆炸（如果拿在手里会伤到投掷者）"
+ },
+ "dec64fbe04ed": {
+  "en": "Nari stone stick (5 stones)",
+  "t": "纳里石棒（5颗石头）"
+ },
+ "dfa6dca733ad": {
+  "en": "Target can't regain HP from magic for 1 min",
+  "t": "目标1分钟内无法通过魔法恢复HP"
+ },
+ "e13641309a43": {
+  "en": "Fost stone (loose)",
+  "t": "福斯特石（散装）"
+ },
+ "e5e04044d891": {
+  "en": "DC 15 Con or drop to 0 HP",
+  "t": "DC 15体质，失败则降到0 HP"
+ },
+ "e7e0fc2d5af5": {
+  "en": "Prices are per jar (coarse). Fine grade costs double.",
+  "t": "价格按每罐（粗制）计算。精制价格翻倍。"
+ },
+ "e86f1f3e1e78": {
+  "en": "**Slime Skin**",
+  "t": "**斯莱姆斯金**"
+ },
+ "e876d831fcbd": {
+  "en": "Truesight 30 ft for souls only; tormented thoughts",
+  "t": "仅对灵魂有30尺真实视觉；思绪备受折磨"
+ },
+ "eb76d1e0cc76": {
+  "en": "**Monika Sight**",
+  "t": "**莫妮卡赛特**"
+ },
+ "eb91adeacae1": {
+  "en": "**Smooth Skin**",
+  "t": "**斯穆斯斯金**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1阿夸马林"
+ },
+ "ee0c3b062036": {
+  "en": "Target answers questions in a dream-like haze (DC 13 Wis or it talks)",
+  "t": "目标在梦一般的恍惚中回答问题（DC 13感知，失败就会说出来）"
+ },
+ "ee3d1e97779b": {
+  "en": "Ends Tier I gel effects; heal 1d4",
+  "t": "结束第I级凝胶效果；治疗1d4"
+ },
+ "f0e43fbf33e4": {
+  "en": "Big Winga (egg or adult)",
+  "t": "大温加（蛋或成鸟）"
+ },
+ "f140c1f2f283": {
+  "en": "Covered: disadv. on Perception (sight) and Dex checks",
+  "t": "全身被覆盖：察觉（视觉）和敏捷检定具有劣势"
+ },
+ "f5597f5ff52d": {
+  "en": "Tier III",
+  "t": "第III级"
+ },
+ "f66361c79319": {
+  "en": "1+ aquamarine, if you can find one",
+  "t": "1阿夸马林以上，前提是你找得到"
+ },
+ "f6739e0b4ab2": {
+  "en": "Tier II",
+  "t": "第II级"
+ },
+ "f772ffe3cc33": {
+  "en": "**Smooth Gut**",
+  "t": "**斯穆斯加特**"
+ },
+ "f7ff8a69205b": {
+  "en": "**Skin Melt** (II+ banned)",
+  "t": "**斯金梅尔特**（II级及以上禁止）"
+ },
+ "f995d36228c8": {
+  "en": "20-ft cloud for 1 minute; seen for miles. Misusing official colors is a crime",
+  "t": "20尺的烟雾持续1分钟；几英里外都能看到。滥用官方颜色是犯罪"
+ },
+ "fb1bdc91f66d": {
+  "en": "**Cruro Skin**",
+  "t": "**克鲁罗斯金**"
+ },
+ "fd3df09721a7": {
+  "en": "Walk on water if Small/light",
+  "t": "如果是小型／体重轻，能在水上行走"
+ },
+ "fffc5e7c180f": {
+  "en": "**Wozen Eyesight**",
+  "t": "**沃增艾赛特**"
+ }
+}

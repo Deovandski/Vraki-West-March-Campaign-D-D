@@ -1,0 +1,194 @@
+{
+ "015151de15c4": {
+  "en": "[Stat Blocks](Stat%20Blocks) — beasts, fauna and people",
+  "t": "[Bloques de estadísticas](Stat%20Blocks) — bestias, fauna y gente"
+ },
+ "0ccd4252c532": {
+  "en": "*A bandit go-between offers a cut for helping rob the wagon ([The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)).",
+  "t": "*Un intermediario de los bandidos ofrece una parte por ayudar a robar el carro ([El Trabajo Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))."
+ },
+ "1eaa3917adfe": {
+  "en": "No need to calculate distances, Egua speeds or loads. The [travel map](../Maps) has **circles drawn along the routes connecting places**.",
+  "t": "No hace falta calcular distancias, velocidades de Egua ni cargas. El [mapa de viaje](../Maps) tiene **círculos dibujados a lo largo de las rutas que conectan los lugares**."
+ },
+ "1ffc59fb0037": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make the trip shorter or longer:",
+  "t": "**Cada círculo representa 1, 2 o 3 días de viaje — el DM elige**, para hacer el viaje más corto o más largo:"
+ },
+ "2152f752587d": {
+  "en": "**Stay for rest** — repair, hunt for good dinner, barter, flirt, steal, etc.  ",
+  "t": "**Quedarse a descansar** — reparar, cazar una buena cena, regatear, ligar, robar, etc.  "
+ },
+ "21888858ff16": {
+  "en": "Additional Files",
+  "t": "Archivos adicionales"
+ },
+ "22362e946f58": {
+  "en": "**Travel** — keep the wagon moving, use companions (if they have them) to check for danger, let the Eguas graze, etc.",
+  "t": "**Viajar** — mantener el carro en marcha, usar a los compañeros (si los tienen) para vigilar el peligro, dejar pastar a las Eguas, etc."
+ },
+ "234db54f6d14": {
+  "en": "Players can create their own characters, or use an existing adventurer. See [Adventurers](Adventurers) for pre-made characters, or [Making an Adventurer](02%20-%20Making%20an%20Adventurer.md).",
+  "t": "Los jugadores pueden crear sus propios personajes o usar un aventurero ya hecho. Consulta [Aventureros](Adventurers) para los personajes pregenerados, o [Crear un aventurero](02%20-%20Making%20an%20Adventurer.md)."
+ },
+ "2a9c70c6d9c9": {
+  "en": "DM rolls dice for events.",
+  "t": "El DM tira dados para los eventos."
+ },
+ "33505ee7dd32": {
+  "en": "*Ambush from bandits",
+  "t": "*Emboscada de bandidos"
+ },
+ "3b169b78cd9c": {
+  "en": "Player Decisions",
+  "t": "Decisiones de los jugadores"
+ },
+ "3f0b9095c717": {
+  "en": "**Graveyard (12am–6am)**",
+  "t": "**Madrugada (00:00–06:00)**"
+ },
+ "3fbb65e6d6fb": {
+  "en": "**Morning (6am–12pm)**",
+  "t": "**Mañana (06:00–12:00)**"
+ },
+ "40392d89eb5b": {
+  "en": "DM rolls dice for events (or not).",
+  "t": "El DM tira dados para los eventos (o no)."
+ },
+ "426ccbd88842": {
+  "en": "DM Decisions",
+  "t": "Decisiones del DM"
+ },
+ "446d9967935a": {
+  "en": "Players decide their actions.",
+  "t": "Los jugadores deciden sus acciones."
+ },
+ "44c345a288ba": {
+  "en": "Alpha One-Shot: Wagon Escort",
+  "t": "Aventura corta Alpha: escolta de carro"
+ },
+ "4b4f7f54253a": {
+  "en": "The original metadata map with kilometers lives in the [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) for the lore-curious. Full travel rules: [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "El mapa de metadatos original con kilómetros está en el [repositorio de #HusbandOutWorld](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) para los curiosos del trasfondo. Reglas de viaje completas: [Viajar por círculos](01%20-%20Travel%20by%20Circles.md)."
+ },
+ "4fe6ce4319ee": {
+  "en": "The original #HusbandOutWorld Alpha campaign, kept here for quick games. For the full open-table campaign, see the [DM Guide](README.md); this one-shot works as a single **Cargo Protection** quest in the West March too.",
+  "t": "La campaña Alpha original de #HusbandOutWorld, guardada aquí para partidas rápidas. Para la campaña completa de mesa abierta, consulta la [Guía del DM](README.md); esta aventura corta también funciona como una única misión de **Protección de carga** en la West March."
+ },
+ "5eb0ce43f1ce": {
+  "en": "**1 day (Fast)** — good roads, light loads, or the DM wants to get to the action.",
+  "t": "**1 día (Rápido)** — buenos caminos, cargas ligeras, o el DM quiere ir directo a la acción."
+ },
+ "5ffcd8fda6be": {
+  "en": "**Count the circles** from point A to point B along the map. A wagon from Forway to Sanbi crosses 6 circles; the [route lengths table](../Maps/README.md#route-lengths) has the rest.",
+  "t": "**Cuenta los círculos** del punto A al punto B en el mapa. Un carro de Forway a Sanbi cruza 6 círculos; la [tabla de longitudes de ruta](../Maps/README.md#route-lengths) tiene el resto."
+ },
+ "67317ae44e7c": {
+  "en": "Players decide who stays awake, if anyone.",
+  "t": "Los jugadores deciden quién se queda despierto, si alguien lo hace."
+ },
+ "67fe1db765a4": {
+  "en": "**Days × 4 shifts** = how many time chunks you play. Roll events per shift, or once per circle to speed things up. Assuming ~5 minutes of playtime per shift, each day of travel is ~20 minutes of play.",
+  "t": "**Días × 4 turnos** = cuántos tramos de tiempo se juegan. Tira eventos por turno, o una vez por círculo para ir más rápido. Calculando ~5 minutos de juego por turno, cada día de viaje son ~20 minutos de partida."
+ },
+ "6d5075c781f9": {
+  "en": "**Afternoon (12pm–6pm)**",
+  "t": "**Tarde (12:00–18:00)**"
+ },
+ "7112ad71e850": {
+  "en": "**Roles** — who stays awake, who actively protects, who rests.",
+  "t": "**Papeles** — quién se queda despierto, quién protege activamente, quién descansa."
+ },
+ "738d2099d47b": {
+  "en": "Each day is split into chunks:",
+  "t": "Cada día se divide en tramos:"
+ },
+ "85825c501db3": {
+  "en": "For each time chunk, players decide:",
+  "t": "En cada tramo de tiempo, los jugadores deciden:"
+ },
+ "877b733a9812": {
+  "en": "Punishment (if caught by guards or reported by one of the people in the wagon or someone else.)",
+  "t": "Castigo (si los pillan los guardias o los denuncia alguien del carro u otra persona)."
+ },
+ "89d7288616c2": {
+  "en": "Whatever makes the game more fun — do it.  \nIf you have a proposal for tweaking numbers, send us a PR modifying only the D&D campaign files!",
+  "t": "Lo que haga el juego más divertido — hazlo.  \nSi tienes una propuesta para ajustar números, ¡mándanos un PR que modifique solo los archivos de la campaña de D&D!"
+ },
+ "8eb1c5f6ae7f": {
+  "en": "[Adventurers](Adventurers) — nine pre-made level 3 adventurers",
+  "t": "[Aventureros](Adventurers) — nueve aventureros pregenerados de nivel 3"
+ },
+ "9543e663f5ef": {
+  "en": "**Night (6pm–12am)**",
+  "t": "**Noche (18:00–00:00)**"
+ },
+ "9dd9e1fa6888": {
+  "en": "Campaign Duration: travel by circles",
+  "t": "Duración de la campaña: viajar por círculos"
+ },
+ "a1a1e1305505": {
+  "en": "*Nothing.",
+  "t": "*Nada."
+ },
+ "a37d475b4c17": {
+  "en": "**3 days (Slow)** — heavy wagon, off-road, swamp, desert, mountains, bad weather, or the DM wants the journey to *be* the adventure.",
+  "t": "**3 días (Lento)** — carro pesado, campo a través, pantano, desierto, montañas, mal tiempo, o el DM quiere que el viaje *sea* la aventura."
+ },
+ "a3cb49416a78": {
+  "en": "Daily Structure",
+  "t": "Estructura diaria"
+ },
+ "ace517d536f1": {
+  "en": "**Combat** — roll initiative as usual.",
+  "t": "**Combate** — tirad iniciativa como siempre."
+ },
+ "bcc630834b56": {
+  "en": "*Find corpses (adventurers, other wagon, etc.)",
+  "t": "*Encontrar cadáveres (aventureros, otro carro, etc.)"
+ },
+ "bdb345622188": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md) — event rolls and regional encounter tables",
+  "t": "[Eventos y encuentros](07%20-%20Events%20&%20Encounters.md) — tiradas de eventos y tablas de encuentros por región"
+ },
+ "ca82d9e7c13d": {
+  "en": "*Broken wagon.",
+  "t": "*Carro roto."
+ },
+ "d212f917b48f": {
+  "en": "For DMs",
+  "t": "Para los DMs"
+ },
+ "d2d0b9f36830": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — the bandits' offer: help rob the wagon, gamble on the payout",
+  "t": "[El Trabajo Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) — la oferta de los bandidos: ayudar a robar el carro y apostar por el botín"
+ },
+ "d9e8acc981bc": {
+  "en": "If in town or staying with other wagons, social actions become available. Prep Nari gels, etc.",
+  "t": "Si están en un pueblo o acampando con otros carros, se abren las acciones sociales. Preparar geles de nari, etc."
+ },
+ "da591a7e9f3b": {
+  "en": "Rewards.  ",
+  "t": "Recompensas.  "
+ },
+ "dc0b7234930e": {
+  "en": "**Eguas** graze during the Morning and Night and eat ~20 kg of grass, hay or Carbey a day — but there's no speed or load math. Pushing them harder is a good reason for the DM to pick a faster pace (with Con saves for everyone and cranky Eguas); bad terrain is a good reason for a slower one.",
+  "t": "Las **Eguas** pastan por la Mañana y la Noche y comen ~20 kg de hierba, heno o Carbey al día — pero no hay cálculos de velocidad ni de carga. Forzarlas es un buen motivo para que el DM elija un ritmo más rápido (con salvaciones de Con para todos y Eguas de mal humor); un mal terreno es un buen motivo para uno más lento."
+ },
+ "f27b8b733337": {
+  "en": "The campaign involves **2–6 players** working as adventurers protecting a wagon from one place to another. More of a one‑shot type of campaign.",
+  "t": "La campaña reúne a **2–6 jugadores** que hacen de aventureros protegiendo un carro de un lugar a otro. Es más bien una campaña de una sola sesión."
+ },
+ "f59374ff2724": {
+  "en": "**2 days (Standard)** — a normal wagon on roads and trails.",
+  "t": "**2 días (Normal)** — un carro normal por caminos y senderos."
+ },
+ "f6733a9b0481": {
+  "en": "Events, enemies for event types, etc. Possible events:",
+  "t": "Eventos, enemigos según el tipo de evento, etc. Posibles eventos:"
+ },
+ "fdf10baf2f74": {
+  "en": "*Ambush from Fauna or beast. Bagarisa swarm, etc",
+  "t": "*Emboscada de fauna o de una bestia. Enjambre de Bagarisa, etc."
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "00e9da937f88": {
+  "en": "Taxes",
+  "t": "세금"
+ },
+ "041b46bb9c49": {
+  "en": "base unit",
+  "t": "기본 단위"
+ },
+ "05381bfcc598": {
+  "en": "**Amethyst**",
+  "t": "**애머시스트**"
+ },
+ "0ab8f6cf3b6a": {
+  "en": "Personal \"Picker\" (everyone carries their own): 5 / 10 / 17 / 25 / 1 amethyst / 1 aquamarine",
+  "t": "개인 ‘피커’(누구나 자기 것을 들고 다닌다): 5 / 10 / 17 / 25 / 1 애머시스트 / 1 아쿠아마린"
+ },
+ "0b59c6fd6695": {
+  "en": "Seal stamp: wood 10, bone wood 20, chitin 40, iron 85, steel 2 amethysts, gold 4 aquamarines · Seal wax 20–40/bottle",
+  "t": "인장: 나무 10, 뼈나무 20, 키틴 40, 쇠 85, 강철 2 애머시스트, 금 4 아쿠아마린 · 봉랍 병당 20–40"
+ },
+ "0b97ec47f618": {
+  "en": "**Tableware** (wood → bone wood → chitin → iron → steel → gold)",
+  "t": "**식기**(나무 → 뼈나무 → 키틴 → 쇠 → 강철 → 금)"
+ },
+ "0e4d25b84010": {
+  "en": "10 amethysts = 500 pearls",
+  "t": "10 애머시스트 = 500 펄"
+ },
+ "143bf5af4f46": {
+  "en": "**Sanbi region** (Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog): Sanbi fish, fish meal, fish oil, salt.",
+  "t": "**산비 지역**(산비, 워터폴, 트라이앵글, 테이스티리프, 엔들리스포그): 산비 생선, 어분, 어유, 소금."
+ },
+ "14968d11efb7": {
+  "en": "Money, Prices & Economy",
+  "t": "돈, 물가, 경제"
+ },
+ "15c7724b14c8": {
+  "en": "Ice preserver (fridge): 1 amethyst (wood/clay) or 1 aquamarine (iron)",
+  "t": "얼음 보관함(냉장고): 1 애머시스트(나무/점토) 또는 1 아쿠아마린(쇠)"
+ },
+ "1f80948eae1e": {
+  "en": "**Tier IV (nobility):** custom gear, master-crafted household items, top hides, banned nari gels.",
+  "t": "**IV등급(귀족용):** 맞춤 장비, 장인이 만든 살림살이, 최고급 가죽, 금지된 나리 젤."
+ },
+ "1f84a86b63f2": {
+  "en": "Deltacross ferry: 15 per wagon, 2 per person · Waterfall elevator: 20 per person (double for Darfaries and the very fat, Sorefaries ride free), 1 per 3 kg cargo",
+  "t": "델타크로스 나룻배: 마차당 15, 1인당 2 · 워터폴 승강기: 1인당 20(다르파리에스와 아주 뚱뚱한 사람은 두 배, 소레파리에스는 무료), 짐 3kg당 1"
+ },
+ "202e6ad33591": {
+  "en": "Ink: black 5, yellow 11, red 11, white (Cruro coral) 10, pink (Wood People sap) 15, blue (lapis) 28",
+  "t": "잉크: 검정 5, 노랑 11, 빨강 11, 하양(크루로 산호) 10, 분홍(우드 피플 수액) 15, 파랑(청금석) 28"
+ },
+ "249069b6442a": {
+  "en": "Custom/good gear, a young tamed Egua, a tamed Big Winga, guarded travel, fancy hotels, fundamental school, some people's life savings",
+  "t": "맞춤 또는 좋은 장비, 길들인 어린 에구아, 길들인 빅 윙가, 호위가 붙은 여행, 고급 호텔, 기초 학교, 어떤 사람에게는 평생 모은 돈"
+ },
+ "287e7fee3a4f": {
+  "en": "Introduced by the Prosperity Treaty (Section 3). **Bartering between treaty citizens is illegal**; haggling is fine if the seller agrees (Toleridemians never agree). Coins are marble-sized gemstone **balls** (~2 cm) wrapped in golden metal filigree that protects the stone and stops counterfeits. Each kingdom mints under embassy oversight; Gandew mints Sapphires and Aquamarines, Flatland mines Amethysts.",
+  "t": "번영 조약(제3조)으로 도입되었다. **조약 시민 사이의 물물교환은 불법**이다. 파는 사람이 동의하면 흥정은 괜찮다(톨레리데메 사람은 절대 동의하지 않는다). 동전은 구슬만 한(약 2cm) 보석 **볼**로, 돌을 보호하고 위조를 막는 금빛 금속 세공으로 감싸여 있다. 각 왕국이 대사관의 감독 아래 주조한다. 간듀는 사파이어와 아쿠아마린을 주조하고, 플랫랜드는 애머시스트를 캔다."
+ },
+ "2a9913e65d85": {
+  "en": "Trade regions",
+  "t": "교역 지역"
+ },
+ "2ab0c0b9d4c5": {
+  "en": "50 pearls",
+  "t": "50 펄"
+ },
+ "3fcd6c660fee": {
+  "en": "Winga mail to any embassy: **1 pearl** (postcard size, max weight of 4 pearl balls)",
+  "t": "어느 대사관으로든 윙가 우편: **1 펄**(엽서 크기, 최대 무게는 펄 볼 4개)"
+ },
+ "41defc8c87ed": {
+  "en": "**Writing**",
+  "t": "**필기구**"
+ },
+ "444008bcfcc9": {
+  "en": "Beer mug: 15 / 20 / 28 / 35 / 3 amethysts / 5 aquamarines",
+  "t": "맥주잔: 15 / 20 / 28 / 35 / 3 애머시스트 / 5 아쿠아마린"
+ },
+ "48f286b4e8d5": {
+  "en": "**What a day looks like:** a Gyut berry picker earns about **1 pearl per kg** (30–60 minutes of work). A newcomer working a 12-hour day might spend 5 pearls on dinner and cheap beer, 5 on a hostel bed, and save 2. **Carbey** grass sets the base value of a pearl.",
+  "t": "**하루는 이런 모습이다:** 귯 열매를 따는 사람은 **1kg당 약 1 펄**을 번다(30–60분 노동). 12시간 일한 신참이라면 저녁과 싸구려 맥주에 5 펄, 여관 침대에 5 펄을 쓰고 2 펄을 모을지도 모른다. 펄의 기본 가치는 **카베이** 풀이 정한다."
+ },
+ "49fa995e836d": {
+  "en": "An adult tamed Egua, property, founding a guild, lifelong contracts, specialized school",
+  "t": "길들인 다 자란 에구아, 부동산, 길드 설립, 평생 계약, 전문 학교"
+ },
+ "4c94f74f53b2": {
+  "en": "Balls (the common currency)",
+  "t": "볼(공용 화폐)"
+ },
+ "4d02a923994f": {
+  "en": "A nari stone, household goods, average gear, decent lodging with breakfast, maps, most nari gels, sigil rings, a tamed Winga, a badge",
+  "t": "나리석 하나, 생활용품, 보통 장비, 아침 포함 괜찮은 숙소, 지도, 대부분의 나리 젤, 시질 링, 길들인 윙가, 신분패"
+ },
+ "4dd2195cd8ac": {
+  "en": "Wine mug: 13 / 16 / 23 / 29 / 2 amethysts / 3 aquamarines",
+  "t": "와인잔: 13 / 16 / 23 / 29 / 2 애머시스트 / 3 아쿠아마린"
+ },
+ "556fb74bffce": {
+  "en": "**Pearl**",
+  "t": "**펄**"
+ },
+ "56cb42ef984c": {
+  "en": "What it buys",
+  "t": "살 수 있는 것"
+ },
+ "58600edcbf0b": {
+  "en": "**Tolerideme region** (Tolerideme, Waterfall, Tastyleaf, Wingarest): Domar Carbey, Wood People goods, Wingas, booze.",
+  "t": "**톨레리데메 지역**(톨레리데메, 워터폴, 테이스티리프, 윙가레스트): 도마르 카베이, 우드 피플 물품, 윙가, 술."
+ },
+ "59436f85e4e6": {
+  "en": "Tibou soap ~5 · Bagarisa-fur toothbrush ~12 · Toothpaste ~9 · Water pull-gate handle ~20",
+  "t": "티부 비누 약 5 · 바가리사 털 칫솔 약 12 · 치약 약 9 · 수문 손잡이 약 20"
+ },
+ "5ec91c2ba6f6": {
+  "en": "**Gandew region** (Gandew, Flatland, Sundeath): minerals, Wooly products, chitin.",
+  "t": "**간듀 지역**(간듀, 플랫랜드, 선데스): 광물, 울리 제품, 키틴."
+ },
+ "5ee4372b72cb": {
+  "en": "**Aquamarine**",
+  "t": "**아쿠아마린**"
+ },
+ "652b9e4037a1": {
+  "en": "News/quest postings: 1 pearl (general), 1 amethyst (local warning/quest), 1 aquamarine (kingdom alert), 1 sapphire (emergency)",
+  "t": "뉴스/의뢰 게시: 1 펄(일반), 1 애머시스트(지역 경고/의뢰), 1 아쿠아마린(왕국 경보), 1 사파이어(긴급)"
+ },
+ "6a17f305cd94": {
+  "en": "**Food highlights** — see Daily Life for each city's signature dishes and prices.",
+  "t": "**음식 하이라이트** — 도시별 대표 요리와 가격은 ‘일상’을 보세요."
+ },
+ "6e207365c61b": {
+  "en": "**Tier III (expensive):** gold, titanium, good gear, nari gels, jerky, small/quality furs, live animals, rare parts.",
+  "t": "**III등급(비싸다):** 금, 티타늄, 좋은 장비, 나리 젤, 육포, 작거나 질 좋은 모피, 살아 있는 동물, 희귀 부위."
+ },
+ "6e40807439ce": {
+  "en": "**Tier II (common):** nari stones, gems, black honey, sigil rings, low-quality gear, inks, processed meat, large furs.",
+  "t": "**II등급(보통):** 나리석, 보석, 검은 꿀, 시질 링, 질 낮은 장비, 잉크, 가공육, 큰 모피."
+ },
+ "75c245c618bc": {
+  "en": "Embassy badge: **1 amethyst**",
+  "t": "대사관 신분패: **1 애머시스트**"
+ },
+ "837a2e3714d6": {
+  "en": "**Tier I (cheap):** natural resources, fresh kills (kept with ice spells), paper.",
+  "t": "**I등급(싸다):** 천연자원, 갓 잡은 사냥감(얼음 주문으로 보존), 종이."
+ },
+ "867f568377cc": {
+  "en": "Forway cities pay 20% of their wealth, villages 15%, kingdoms 10%. A city or village whose debt to Forway reaches 50% of its estimated output gets a Forway battalion and new leaders.",
+  "t": "포웨이 도시는 부의 20%, 마을은 15%, 왕국은 10%를 낸다. 포웨이에 진 빚이 추정 생산량의 50%에 이른 도시나 마을에는 포웨이 대대와 새 지도자가 온다."
+ },
+ "870bda049229": {
+  "en": "**Living**",
+  "t": "**생활**"
+ },
+ "8b82f852e2e7": {
+  "en": "**Sapphire**",
+  "t": "**사파이어**"
+ },
+ "9302c36ed2c4": {
+  "en": "Pearls are harvested by Cruros in Sanbi's swamps; the gems are mined ~1 km deep in the mountains between Flatland and Blood.",
+  "t": "펄은 산비의 늪에서 크루로들이 거두고, 보석은 플랫랜드와 블러드 사이 산속 지하 약 1km에서 캔다."
+ },
+ "93ef08cd9d2f": {
+  "en": "Lunar mapping: 20",
+  "t": "달 운행표: 20"
+ },
+ "942f15116991": {
+  "en": "Hostel bed: ~5 · Cheap meal + beer: ~5 · Bread bowl (eat it, then give it to the poor): 0–2",
+  "t": "여관 침대: 약 5 · 싼 식사 + 맥주: 약 5 · 빵 그릇(먹고 나서 가난한 사람에게 준다): 0–2"
+ },
+ "9be133ff5aa9": {
+  "en": "The treaty bans mass production of goods unless a region holds a **comparative advantage** granted by Forway (renewed every 5 years, with price ceilings and quotas). Forway sits in every region.",
+  "t": "조약은 포웨이가 부여한 **비교 우위**(5년마다 갱신, 가격 상한과 할당량 포함)를 가진 지역이 아니면 물건의 대량 생산을 금지한다. 포웨이는 모든 지역에 있다."
+ },
+ "9e9f34a821c9": {
+  "en": "Nari bombs: 10–30 per ~100 g · Nari gels: 25–750 per ~200 g (see Nari Gels)",
+  "t": "나리 폭탄: 약 100g당 10–30 · 나리 젤: 약 200g당 25–750(나리 젤 항목 참고)"
+ },
+ "a4ee28f018d4": {
+  "en": "The farther goods travel, the more they cost. Goods are grouped by how much distance raises their price:",
+  "t": "물건은 멀리 갈수록 비싸진다. 거리가 값을 얼마나 올리느냐에 따라 물건을 나눈다:"
+ },
+ "ae29a4aea1aa": {
+  "en": "Guild registration: **1 sapphire**",
+  "t": "길드 등록: **1 사파이어**"
+ },
+ "b1b64468cfcc": {
+  "en": "Any embassy banks for you. Withdrawals and deposits take a few days while the embassy confirms with Forway. Loans are available (rates differ for individuals and guilds). Embassy **storage** delivers to any other embassy — slow, but the safest place to keep your stuff.",
+  "t": "어느 대사관이든 은행 업무를 봐 준다. 인출과 예금은 대사관이 포웨이에 확인하는 동안 며칠이 걸린다. 대출도 된다(개인과 길드는 금리가 다르다). 대사관 **보관소**는 다른 어느 대사관으로든 배달해 준다. 느리지만 물건을 맡기기에 가장 안전한 곳이다."
+ },
+ "bc2a30d07242": {
+  "en": "Worth",
+  "t": "가치"
+ },
+ "c16544d2d14b": {
+  "en": "Food and beer, a hostel bed, a wagon ride, used clothes, paper and ink, cheap gear, weak nari gels",
+  "t": "음식과 맥주, 여관 침대, 마차 한 번 타기, 헌 옷, 종이와 잉크, 싸구려 장비, 약한 나리 젤"
+ },
+ "c20e7dd4b491": {
+  "en": "Banking",
+  "t": "은행"
+ },
+ "cad643bab0a2": {
+  "en": "Fundamental school: ~1 aquamarine · Specialized school (4 years, Forway): 5 sapphires",
+  "t": "기초 학교: 약 1 아쿠아마린 · 전문 학교(4년, 포웨이): 5 사파이어"
+ },
+ "d0d92880152e": {
+  "en": "**Services**",
+  "t": "**서비스**"
+ },
+ "d81ba82fb77c": {
+  "en": "Ball",
+  "t": "볼"
+ },
+ "db35edd34860": {
+  "en": "Price list (approximate, in pearls unless noted)",
+  "t": "가격표(대략, 따로 적지 않으면 펄 단위)"
+ },
+ "de4fec2febae": {
+  "en": "10 aquamarines = 5,000 pearls",
+  "t": "10 아쿠아마린 = 5,000 펄"
+ },
+ "e012527b3542": {
+  "en": "Paper (10 sheets) ~1 · Wood People paper ~2 · Winga quill ~2 · Charcoal stick 0–2 / ~7 / refined ~30 · Journal (50 pages) ~35",
+  "t": "종이(10장) 약 1 · 우드 피플 종이 약 2 · 윙가 깃펜 약 2 · 목탄 0–2 / 약 7 / 정제품 약 30 · 일기장(50쪽) 약 35"
+ },
+ "e636d6e584c3": {
+  "en": "**Freeish region** (Freeish, Blood, Sweetlake, Deltacross, Triangle, Sundeath): flora and fauna.",
+  "t": "**프리이시 지역**(프리이시, 블러드, 스위트레이크, 델타크로스, 트라이앵글, 선데스): 동식물."
+ },
+ "f0124f44434c": {
+  "en": "Sanbi kingdom post: 1 pearl flat",
+  "t": "산비 왕국 우편: 일률 1 펄"
+ },
+ "f66d6e6ccbf6": {
+  "en": "Fost lamp (glows for ~a year in salt water): ~20",
+  "t": "포스트 램프(소금물에서 약 1년 빛남): 약 20"
+ },
+ "f75c2441d72b": {
+  "en": "Distance cost tiers",
+  "t": "거리에 따른 비용 등급"
+ }
+}

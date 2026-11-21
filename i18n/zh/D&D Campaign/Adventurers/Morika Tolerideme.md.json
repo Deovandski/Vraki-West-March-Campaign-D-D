@@ -1,0 +1,70 @@
+{
+ "04c03cca5d8d": {
+  "en": "**People:** Human · **Class:** Barbarian (Path of the Beast-lite) · **Background:** Unknown Wanderer · **Alignment:** Chaotic Neutral · **Rank:** Pearl (on paper)\n**Interface:** Darfaries · **Soul Points:** 5",
+  "t": "**种族：** 人类 · **职业：** 野蛮人（简化版野兽道途） · **背景：** 来历不明的流浪者 · **阵营：** 混乱中立 · **级别：** 珀尔（名义上）\n**界面：** 达尔法里斯 · **灵魂点数：** 5"
+ },
+ "2a6d0cfb4e1f": {
+  "en": "**Gore Charge (raging).** +5 to hit, 2d6+3 piercing.",
+  "t": "**角冲（狂暴时）。** 命中+5，2d6+3穿刺。"
+ },
+ "2eace524d94f": {
+  "en": "**AC** 15 (Stinger chitin armor) / 15 unarmored (10 + Dex + Con) · **HP** 36 · **Speed** 30 ft\n**STR** 16 · **DEX** 14 · **CON** 16 · **INT** 10 · **WIS** 12 · **CHA** 10",
+  "t": "**AC** 15（斯廷格甲壳护甲）/无甲时15（10 + 敏捷 + 体质） · **HP** 36 · **速度** 30尺\n**力量** 16 · **敏捷** 14 · **体质** 16 · **智力** 10 · **感知** 12 · **魅力** 10"
+ },
+ "4e861c45e27e": {
+  "en": "**Blood-Soaked Wanderer.** Advantage on Intimidation while covered in gore.",
+  "t": "**浑身是血的流浪者。** 全身沾满血肉时，威吓具有优势。"
+ },
+ "56431754db05": {
+  "en": "**Dual Persona.** *Armor on:* bold, loud, reckless (The Stinger). *Armor off:* mute, meticulous, polite to the point of sounding robotic.",
+  "t": "**双重人格。** *穿着盔甲时：* 大胆、吵闹、鲁莽（斯廷格）。*脱下盔甲时：* 不说话、一丝不苟、礼貌到像机器人一样。"
+ },
+ "5a47ec5e5d46": {
+  "en": "**Unarmored Defense.** AC = 10 + Dex + Con when the armor is off.",
+  "t": "**无甲防御。** 脱下盔甲时AC = 10 + 敏捷 + 体质。"
+ },
+ "905f708e5fcf": {
+  "en": "**Urban Legend.** Commoners have disadvantage to identify the Stinger as Morika.",
+  "t": "**都市传说。** 平民想认出斯廷格就是莫里卡时具有劣势。"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "特性与特质"
+ },
+ "ad8f49708d9a": {
+  "en": "**Reckless Attack, Danger Sense.**",
+  "t": "**鲁莽攻击、危机感应。**"
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "动作"
+ },
+ "c3af44c4e708": {
+  "en": "Barbarian Features",
+  "t": "野蛮人特性"
+ },
+ "cce5c08a4e6f": {
+  "en": "**Rage (3/day).** +2 damage; resistance to bludgeoning, piercing and slashing.",
+  "t": "**狂暴（3/日）。** 伤害+2；对钝击、穿刺和挥砍具有抗性。"
+ },
+ "ea1fd6abdd59": {
+  "en": "**Stinger Slash.** +5 to hit, 1d8+3 slashing.",
+  "t": "**毒刺斩击。** 命中+5，1d8+3挥砍。"
+ },
+ "eb5eefdd2d92": {
+  "en": "**Armor Spike Burst (Recharge 6).** 2d6 piercing to everything within 5 ft.",
+  "t": "**甲刺爆发（充能6）。** 对5尺内的一切造成2d6穿刺。"
+ },
+ "ec1c5df4e822": {
+  "en": "**Skills:** Athletics +5, Survival +3, Perception +3\n**Equipment:** Stinger chitin armor (modeled on a Sweet Sting), serrated blade, blood-stained cloak, journal, a jar of black honey, badge.\n**Hook:** Nobody knows the Stinger is Morika. Keep it that way.",
+  "t": "**技能：** 运动+5、求生+3、察觉+3\n**装备：** 斯廷格甲壳护甲（仿照斯威特斯廷制作）、锯齿刃、沾血的斗篷、日记、一罐黑蜜、身份牌。\n**剧情钩子：** 没人知道斯廷格就是莫里卡。保持这样。"
+ },
+ "f127ea27edb7": {
+  "en": "Morika Tolerideme — Level 3 Barbarian (\"The Stinger\")",
+  "t": "莫里卡·托勒里德梅——3级野蛮人（“斯廷格”）"
+ },
+ "f45a390d6c0f": {
+  "en": "**Too Thin for Tolerideme.** Toleridemians mock him; he avoids home.",
+  "t": "**对托勒里德梅来说太瘦了。** 托勒里德梅人嘲笑他；他避免回家。"
+ }
+}

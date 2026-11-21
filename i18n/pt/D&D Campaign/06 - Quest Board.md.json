@@ -1,0 +1,414 @@
+{
+ "0772d30d7679": {
+  "en": "**Walking Heart Smugglers** — Someone is selling Walking Hearts again. 4 sapphires.",
+  "t": "**Contrabandistas de Walking Hearts** — Alguém está vendendo Walking Hearts de novo. 4 sapphires."
+ },
+ "08478901d839": {
+  "en": "3–5 amethysts",
+  "t": "3–5 amethysts"
+ },
+ "09c243c12be6": {
+  "en": "**The Queen Nari Worm** — Something is shaking the Nari Caverns. Protect the worms at all costs. 6 sapphires.\n9–20. *DM's choice — Sapphire quests are rarely written down.*",
+  "t": "**A Rainha Nari Worm** — Algo está sacudindo as Cavernas de Nari. Proteja os vermes a qualquer custo. 6 sapphires.\n9–20. *À escolha do Mestre — missões Sapphire raramente são postas no papel.*"
+ },
+ "0a2886bc7ff5": {
+  "en": "**Old Village Census** — Count the people in Old Village. They don't like counting. 1 amethyst.",
+  "t": "**Censo de Old Village** — Conte as pessoas de Old Village. Elas não gostam de ser contadas. 1 amethyst."
+ },
+ "0b41761439d2": {
+  "en": "**Teefyro Crater** — A Teefyro exploded near Tastyleaf and left something in the crater. 4 aquamarines.",
+  "t": "**A cratera do Teefyro** — Um Teefyro explodiu perto de Tastyleaf e deixou alguma coisa na cratera. 4 aquamarines."
+ },
+ "0e6b80be3e41": {
+  "en": "**Black Sapphire** — There's a rumor in the Palace. Forway says it's nothing. Someone paid you to look anyway. ? sapphires.",
+  "t": "**Black Sapphire** — Há um boato no Palácio. Forway diz que não é nada. Alguém pagou você para dar uma olhada mesmo assim. ? sapphires."
+ },
+ "10ee5f105d84": {
+  "en": "Sample board (d20 per rank)",
+  "t": "Quadro de exemplo (d20 por patente)"
+ },
+ "10ee7e90266d": {
+  "en": "**Message Run** — Shout an embassy announcement in three villages that have no guards this week. 30 pearls.",
+  "t": "**Corrida de recados** — Anuncie um comunicado da embaixada em três aldeias que estão sem guardas esta semana. 30 pearls."
+ },
+ "130a0f9f36df": {
+  "en": "**Wood Hammering Champion** — A tavern owner needs someone to beat the local champion and break his winning streak. 20 pearls + drinks.",
+  "t": "**Campeão de Wood Hammering** — O dono de uma taverna precisa de alguém que derrote o campeão local e quebre a sequência de vitórias dele. 20 pearls + bebidas."
+ },
+ "13d5b246d22d": {
+  "en": "**Missing Person: the Tea-Drinkers' Recruit** — Borrow the badge, find him, bring him back. 5 amethysts.",
+  "t": "**Pessoa desaparecida: o recruta dos Tea-Drinkers** — Pegue o distintivo emprestado, encontre o rapaz e traga de volta. 5 amethysts."
+ },
+ "140a08d03aac": {
+  "en": "**Culuim Pond** — Someone dumped weird stones in a pond near Freeish again; collect samples. 1 amethyst.",
+  "t": "**A lagoa de Culuim** — Alguém jogou pedras esquisitas numa lagoa perto de Freeish de novo; colete amostras. 1 amethyst."
+ },
+ "167f09d217bc": {
+  "en": "**Cargo: Nari Gels to Waterfall** — Fragile, expensive, and someone wants them. 6 amethysts.",
+  "t": "**Carga: géis de nari para Waterfall** — Frágeis, caros, e alguém os quer. 6 amethysts."
+ },
+ "19f126e731b5": {
+  "en": "Quest types by rank",
+  "t": "Tipos de missão por patente"
+ },
+ "1d070e022003": {
+  "en": "**Sand Worm Season** — Escort chitin hunters out of Flatland (a Sayna is provided). 7 amethysts + chitin share.",
+  "t": "**Temporada de Sand Worms** — Escolte caçadores de quitina saindo de Flatland (um Sayna é fornecido). 7 amethysts + parte da quitina."
+ },
+ "24e973a362ad": {
+  "en": "**Fuhraies Sighting** — Poachers say they saw a living Fuhraies. Get there first. 5 sapphires.",
+  "t": "**Avistamento de um fuhraies** — Caçadores ilegais dizem ter visto um fuhraies vivo. Chegue lá primeiro. 5 sapphires."
+ },
+ "261ed5caccd1": {
+  "en": "**Black Honey Run** — Escort honey from Sweetlake to Blood during the Drunken Sweet Sting Festival. 6 amethysts.",
+  "t": "**A corrida do mel negro** — Escolte mel de Sweetlake até Blood durante o Festival do Sweet Sting Bêbado. 6 amethysts."
+ },
+ "29f1a45c3df7": {
+  "en": "**Newland Survey** — Map a landing site. Watch out for giant sloths. 8 aquamarines.",
+  "t": "**Levantamento de Newland** — Mapeie um local de desembarque. Cuidado com as preguiças gigantes. 8 aquamarines."
+ },
+ "2f8aaa2e6993": {
+  "en": "1–2 amethysts",
+  "t": "1–2 amethysts"
+ },
+ "3041ca399974": {
+  "en": "**Fallen Tree Lead** — A Fallen Tree spy is in the embassy lounge. Which adventurer is it? 5 aquamarines.",
+  "t": "**Uma pista da Fallen Tree** — Há um espião da Fallen Tree no saguão da embaixada. Qual aventureiro é? 5 aquamarines."
+ },
+ "318688c9313d": {
+  "en": "**Triangle Trouble** — Escort a Forway inspector through Triangle City without breaking the Triangle Way. 5 aquamarines.",
+  "t": "**Encrenca em Triangle** — Escolte um inspetor de Forway por Triangle sem quebrar o Caminho do Triângulo. 5 aquamarines."
+ },
+ "320a4bf5be97": {
+  "en": "**The Forest That Eats People** — Travelers keep vanishing overnight in a southern forest. 6 aquamarines.",
+  "t": "**A floresta que come gente** — Viajantes continuam sumindo da noite para o dia numa floresta do sul. 6 aquamarines."
+ },
+ "32759c5067f7": {
+  "en": "**Lighthouse Duty** — Cliffbay's keeper broke a leg; keep the fost stone wet for a week. Something keeps knocking on the door at night. 40 pearls.",
+  "t": "**Plantão no farol** — O faroleiro de Cliffbay quebrou a perna; mantenha a pedra fost molhada por uma semana. Alguma coisa fica batendo na porta toda noite. 40 pearls."
+ },
+ "38e9a2f48365": {
+  "en": "Every embassy's Floor 1 has a **quest board**. Quests are contracts: sign with your blood, agree to the **deadline**, and the embassy will send a search party if you don't come back. The captain announces new quests every evening at **Monnalow**.",
+  "t": "O andar 1 de toda embaixada tem um **quadro de missões**. Missões são contratos: assine com seu sangue, aceite o **prazo**, e a embaixada vai mandar uma equipe de busca se você não voltar. O capitão anuncia as missões novas toda noite em **Monnalow**."
+ },
+ "3a2bca99734c": {
+  "en": "**Pussy Power Problem** — Pussy Power vigilantes beat a man half to death. He might have deserved it. Investigate. 3 aquamarines.",
+  "t": "**O problema da Pussy Power** — Justiceiras da Pussy Power espancaram um homem quase até a morte. Talvez ele merecesse. Investigue. 3 aquamarines."
+ },
+ "3adaf1aecd21": {
+  "en": "**Road Crew Escort** — Watch road maintainers clearing the Long Bridge road; Wozens hunt there at night. 50 pearls.",
+  "t": "**Escolta da turma da estrada** — Vigie os trabalhadores que limpam a estrada de Long Bridge; Wozens caçam lá à noite. 50 pearls."
+ },
+ "3c95e59f4c3d": {
+  "en": "1–2 aquamarines",
+  "t": "1–2 aquamarines"
+ },
+ "421cfd7c957f": {
+  "en": "**Sweetlake Blood-Tribe** — The lunatic last member says he's found where his guild vanished to. 3 aquamarines.",
+  "t": "**A Sweetlake Blood-Tribe** — O último membro, lunático, diz que descobriu para onde a guilda dele sumiu. 3 aquamarines."
+ },
+ "4358c3994478": {
+  "en": "**Bahyum: Mood Rising** — The Castle Mood hit 5. Thin the undead before it reaches 6. 4 aquamarines.",
+  "t": "**Bahyum: o humor sobe** — O Humor do Castelo chegou a 5. Diminua os mortos-vivos antes que chegue a 6. 4 aquamarines."
+ },
+ "4474716fd65a": {
+  "en": "Add loot: Bagarisa meat and hides, Wood People vines and wood, chitin, rare nari gel ingredients (Koalin parts are illegal!), bandit stashes (surrender them to Forway for investigation… or don't).",
+  "t": "Some o saque: carne e couro de Bagarisa, cipós e madeira de Wood People, quitina, ingredientes raros de géis de nari (partes de Koalin são ilegais!), esconderijos de bandidos (entregue a Forway para investigação… ou não)."
+ },
+ "4a3239eb6639": {
+  "en": "**Lansha Herd** — A Lansha herd is trampling Cruro-border farms. 5 amethysts.",
+  "t": "**Manada de Lanshas** — Uma manada de Lanshas está pisoteando fazendas na fronteira cruro. 5 amethysts."
+ },
+ "50150b6c8f89": {
+  "en": "**Hifuna Control** — Something Hash crawled down from Hifuna near Tastyleaf. 5 aquamarines.",
+  "t": "**Controle de Hifuna** — Algo Hash desceu de Hifuna perto de Tastyleaf. 5 aquamarines."
+ },
+ "52cc2fa30ce6": {
+  "en": "Dangerous",
+  "t": "Perigosa"
+ },
+ "542301db043f": {
+  "en": "**Personal Protection: A Pharaoh's Son** — Anpu (or Bata) visits Forway. They must not be insulted. 6 aquamarines.",
+  "t": "**Proteção pessoal: o filho de um faraó** — Anpu (ou Bata) visita Forway. Ele não pode ser insultado. 6 aquamarines."
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "Amethyst"
+ },
+ "588511f7d807": {
+  "en": "**Fost Stone Count** — Deliver a sack of small fost stones to a village and get them all back… somehow they always come back short. 2 pearls (seriously).",
+  "t": "**Contagem de pedras fost** — Entregue um saco de pedras fost pequenas numa aldeia e traga todas de volta… de algum jeito sempre falta alguma. 2 pearls (sério)."
+ },
+ "5ada3bd871c8": {
+  "en": "**Gyut Picking Guard** — Freeish farmers say something big eats pickers at dusk. 40 pearls.",
+  "t": "**Guarda da colheita de Gyut** — Lavradores de Freeish dizem que algo grande come os colhedores ao entardecer. 40 pearls."
+ },
+ "5c3db86dee54": {
+  "en": "**Soreno Scourge** — Clear the Sorenos out of a Forway grain silo before they chew through the season. 30 pearls + all the Soreno you can eat (please don't).",
+  "t": "**Praga de Sorenos** — Tire os Sorenos de um silo de grãos de Forway antes que eles roam a safra. 30 pearls + todo Soreno que você conseguir comer (por favor, não)."
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "Pearl"
+ },
+ "62060836386e": {
+  "en": "**Hostel Haunting** — A Forway hostel's guests wake up with drained badges. (A Sucker Lady? A thief? Both?) 1 amethyst.",
+  "t": "**Assombração no albergue** — Os hóspedes de um albergue de Forway acordam com os distintivos drenados. (Uma Sucker Lady? Um ladrão? Os dois?) 1 amethyst."
+ },
+ "6518d5a0d329": {
+  "en": "**Construction Assist** — Help build a Wood People wall around a new village (bring fost stones). 50 pearls.",
+  "t": "**Apoio em construção** — Ajude a erguer um muro de Wood People ao redor de uma aldeia nova (traga pedras fost). 50 pearls."
+ },
+ "7127d58bfb75": {
+  "en": "10+ sapphires",
+  "t": "10+ sapphires"
+ },
+ "76f6798094b8": {
+  "en": "**Law Compliance: Flatland** — Investigate the ruling guilds of Flatland. Don't get caught. 4 sapphires.",
+  "t": "**Cumprimento da lei: Flatland** — Investigue as guildas que governam Flatland. Não seja pego. 4 sapphires."
+ },
+ "7a79f00d69ab": {
+  "en": "Quest Board",
+  "t": "Quadro de missões"
+ },
+ "7c6051994e88": {
+  "en": "**Fanchaki Stampede** — A farm's Fanchakis bred out of control. 30 pearls + eggs.",
+  "t": "**Estouro de Fanchakis** — Os Fanchakis de uma fazenda se reproduziram sem controle. 30 pearls + ovos."
+ },
+ "7d3c7823adad": {
+  "en": "Routine",
+  "t": "Rotineira"
+ },
+ "7dabb7688378": {
+  "en": "**The Stinger Sighting** — Find out who the gore-soaked \"Stinger\" is. Forway's curious, not hostile. 4 amethysts.",
+  "t": "**Avistamento do The Stinger** — Descubra quem é o «Stinger» encharcado de sangue. Forway está curiosa, não hostil. 4 amethysts."
+ },
+ "828402e731b0": {
+  "en": "**Kidnapped Courtroom Apprentice** — Ransom note, no badge, a trail into Ganyrami. 7 aquamarines.",
+  "t": "**Aprendiz da corte sequestrado** — Bilhete de resgate, nenhum distintivo, uma trilha até Ganyrami. 7 aquamarines."
+ },
+ "82f30e86b10c": {
+  "en": "**Koalin Problem** — Farmers in the eastern grasslands are losing their minds. Do NOT harvest the brains. 8 amethysts.",
+  "t": "**O problema do Koalin** — Lavradores das pradarias do leste estão perdendo o juízo. NÃO colham os cérebros. 8 amethysts."
+ },
+ "82f6c08644d7": {
+  "en": "**Red Winga Runaway** — A choker-wearing girl begs for protection. Red Winga has a contract. So does Forway. 4 aquamarines (or nothing, depending on whose side you take).",
+  "t": "**A fugitiva da Red Winga** — Uma garota de gargantilha implora por proteção. A Red Winga tem um contrato. Forway também. 4 aquamarines (ou nada, dependendo do lado que você escolher)."
+ },
+ "84be65baf404": {
+  "en": "**Blue Wozens Den** — Find and raid the Blue Wozens' hidden den between Forway and Sanbi. 6 aquamarines.",
+  "t": "**O covil dos Blue Wozens** — Encontre e ataque o covil escondido dos Blue Wozens entre Forway e Sanbi. 6 aquamarines."
+ },
+ "85c565555c57": {
+  "en": "**Winga Wrangle** — A courier Winga escaped. Don't kill it (that's a crime). 1 amethyst.",
+  "t": "**Pegue o Winga** — Um Winga mensageiro fugiu. Não mate (é crime). 1 amethyst."
+ },
+ "87fe3c316550": {
+  "en": "**Bounty: The Bagarisa Brothers' Recruiter** — Bring him to the embassy alive. 1 aquamarine.",
+  "t": "**Recompensa: o recrutador dos Bagarisa Brothers** — Leve-o vivo à embaixada. 1 aquamarine."
+ },
+ "8b15338336a8": {
+  "en": "4–8 aquamarines",
+  "t": "4–8 aquamarines"
+ },
+ "8fe025a79646": {
+  "en": "**Embassy cut:** posting a quest costs the poster 1 amethyst; that's not your problem.",
+  "t": "**Taxa da embaixada:** publicar uma missão custa 1 amethyst a quem publica; isso não é problema seu."
+ },
+ "9289cc027422": {
+  "en": "**Lighthouse Silence** — Rich Island's lighthouse went dark; ships are wrecking. 8 amethysts.",
+  "t": "**Silêncio no farol** — O farol de Rich Island apagou; os navios estão naufragando. 8 amethysts."
+ },
+ "9612e3645f73": {
+  "en": "**Bagarisa Ribs for the Wood People Picker** — Yosuke wants 3 fresh Bagarisas within 2 circles of Forway. 1 amethyst + a free dinner.",
+  "t": "**Costelas de Bagarisa para o Wood People Picker** — Yosuke quer 3 Bagarisas frescos a até 2 círculos de Forway. 1 amethyst + um jantar grátis."
+ },
+ "9a35f8965e36": {
+  "en": "**Smelly Killer Bagarisa** — A huge two-hearted Bagarisa with a blazing crest terrorizes Freeish hunters. 6 amethysts.",
+  "t": "**O Bagarisa assassino fedorento** — Um Bagarisa enorme de dois corações com a crista em chamas aterroriza os caçadores de Freeish. 6 amethysts."
+ },
+ "9a5b47656d13": {
+  "en": "**Archeologist Escort: Fuhrair** — Guard a historian climbing to the snow houses. 5 aquamarines.",
+  "t": "**Escolta de arqueólogo: Fuhrair** — Proteja um historiador que vai escalar até as casas de neve. 5 aquamarines."
+ },
+ "9a63316724d4": {
+  "en": "**Pearl:** Soul Energy Assist, Fauna Hunting, Construction Assistance, Lighthouse Assistance, Area Surveillance (around cities), Message Spreader, Road Maintenance, Soreno pest control.",
+  "t": "**Pearl:** Apoio com energia da alma, Caça à fauna, Apoio em construção, Apoio em faróis, Vigilância de área (ao redor das cidades), Arauto, Manutenção de estradas, controle de pragas de Soreno."
+ },
+ "9a7a2f37207b": {
+  "en": "**Aquamarine:** Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer (search parties), Archeologist Assistance, Bahyum control, Hifuna control, Black Magina shutdown.",
+  "t": "**Aquamarine:** Extermínio de bandidos, Proteção pessoal, Caçador/resgatador de aventureiros (equipes de busca), Apoio a arqueólogos, controle de Bahyum, controle de Hifuna, fechamento da Black Magina."
+ },
+ "9ebaa0d38046": {
+  "en": "**Herbs for a Healer** — Gather Girdol and Lehuj in the Freeish woods. 35 pearls.",
+  "t": "**Ervas para um curandeiro** — Colete Girdol e Lehuj nas matas de Freeish. 35 pearls."
+ },
+ "a025aa7bf334": {
+  "en": "**Winga Mail Thief** — Someone's shooting down courier Wingas on the Waterfall route. 7 amethysts.",
+  "t": "**O ladrão do correio por Winga** — Alguém está derrubando Wingas mensageiros na rota de Waterfall. 7 amethysts."
+ },
+ "a0b37b5846b2": {
+  "en": "**Village Checker: Tobame** — A Tolerideme vassal village stopped sending its booze shipments. 4 amethysts.",
+  "t": "**Inspetor de aldeias: Tobame** — Uma aldeia vassala de Tolerideme parou de enviar seus carregamentos de birita. 4 amethysts."
+ },
+ "a17625c5d1a5": {
+  "en": "**Deadline:** the round trip in days at the DM's pace knob, **plus 50%**. (Example: Forway to Sanbi is 6 circles; at 2 days per circle that's 12 days each way, 24 days round trip, so the deadline is 36 days.)",
+  "t": "**Prazo:** a ida e volta em dias no ritmo do Mestre, **mais 50%**. (Exemplo: de Forway a Sanbi são 6 círculos; a 2 dias por círculo dá 12 dias cada trecho, 24 dias ida e volta, então o prazo é de 36 dias.)"
+ },
+ "a2b22e420a26": {
+  "en": "1–3 aquamarines",
+  "t": "1–3 aquamarines"
+ },
+ "a4ff3af8d79f": {
+  "en": "**White Roundies Gone Missing** — The Freeish festival is coming and the Roundies didn't arrive. 5 amethysts.",
+  "t": "**Os White Roundies sumiram** — O festival de Freeish está chegando e os Roundies não apareceram. 5 amethysts."
+ },
+ "a6d6f3b04432": {
+  "en": "**Cruro Bag of Pearls** — Retrieve a bag of pearls from a Cruro tribe (bartering is legal with them). 5 amethysts.",
+  "t": "**O saco de pearls dos cruros** — Recupere um saco de pearls de uma tribo cruro (com eles o escambo é legal). 5 amethysts."
+ },
+ "a6e1274f2e20": {
+  "en": "1–2 sapphires",
+  "t": "1–2 sapphires"
+ },
+ "a7865b7a6450": {
+  "en": "**Amethyst:** Cargo Protection (the Alpha wagon escort! Bandits may offer you a cut to look the other way: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)), Beast Hunt, Bounty Hunting, Bandit Traps, Training Pearls, Area Surveillance (wild), Village Checker, Missing Person.",
+  "t": "**Amethyst:** Proteção de carga (a escolta de carroça da campanha Alpha! Bandidos podem oferecer uma parte para você fazer vista grossa: [O Trabalho Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)), Caça a feras, Caça a recompensas, Armadilhas para bandidos, Treinar Pearls, Vigilância de área (nas terras selvagens), Inspetor de aldeias, Pessoa desaparecida."
+ },
+ "ac1bbc8eec8d": {
+  "en": "Big",
+  "t": "Grande"
+ },
+ "b011d4e0f3c1": {
+  "en": "**Bandit Traps on the Delta** — Set traps on the trails around Deltacross where Beer Balls copycats rob travelers. 4 amethysts.",
+  "t": "**Armadilhas para bandidos no Delta** — Arme armadilhas nas trilhas ao redor de Deltacross, onde imitadores dos Beer Balls roubam viajantes. 4 amethysts."
+ },
+ "b157f3eef49e": {
+  "en": "**Failure:** fail a quest or miss the deadline without a good reason and you owe a penalty equal to **10% of the reward**. Lose a borrowed badge on a Missing Person quest and you owe **10× the reward**.",
+  "t": "**Fracasso:** falhe numa missão ou perca o prazo sem um bom motivo e você deve uma multa igual a **10% da recompensa**. Perca um distintivo emprestado numa missão de Pessoa desaparecida e você deve **10× a recompensa**."
+ },
+ "b2bef37b4135": {
+  "en": "**Sapphire:** Kingdom/Guild/Business Law Compliance (secret), Kingdom Alerts, Bahyum \"mood maxed\" sieges, deep Hifuna expeditions, anything Forway won't write down.",
+  "t": "**Sapphire:** Cumprimento da lei por reinos, guildas e negócios (secreto), Alertas do reino, cercos de Bahyum com «humor no máximo», expedições ao fundo de Hifuna, qualquer coisa que Forway não queira pôr no papel."
+ },
+ "b3f218d809f1": {
+  "en": "**Cinika Count** — Report swarm sizes on the plains for storm forecasting. 25 pearls.",
+  "t": "**Contagem de Cinikas** — Relate o tamanho dos enxames nas planícies para a previsão de tempestades. 25 pearls."
+ },
+ "b74df696834d": {
+  "en": "**Training Day** — Take three Pearls on their first wild hunt and bring them all back alive. 4 amethysts.",
+  "t": "**Dia de treino** — Leve três Pearls à primeira caçada nas terras selvagens e traga todos vivos. 4 amethysts."
+ },
+ "ba742ae45a3a": {
+  "en": "**Sweet Sting Scouting** — Map hive locations east of Sweetlake (costume provided, smells awful). 2 amethysts.",
+  "t": "**Reconhecimento de Sweet Stings** — Mapeie as colmeias a leste de Sweetlake (fantasia fornecida, fede horrores). 2 amethysts."
+ },
+ "be7491c66988": {
+  "en": "**Wood People Control** — Herd or paralyze a Wood People grove that wandered onto a Tolerideme road. 5 amethysts + vines.",
+  "t": "**Controle de Wood People** — Toque ou paralise um bosque de Wood People que entrou numa estrada de Tolerideme. 5 amethysts + cipós."
+ },
+ "c379cef16720": {
+  "en": "**Hifuna Deep** — Escort a Forway expedition to the far edge of Hifuna. Something is watching from the north. 10 sapphires.",
+  "t": "**Hifuna profunda** — Escolte uma expedição de Forway até a borda mais distante de Hifuna. Algo vigia do norte. 10 sapphires."
+ },
+ "c453a3526b9c": {
+  "en": "**The Kozaku Question** — Confirm whether the Blue Wozens' boss still exists — and what he's become. 5 sapphires.",
+  "t": "**A questão Kozaku** — Confirme se o chefe dos Blue Wozens ainda existe — e no que ele se transformou. 5 sapphires."
+ },
+ "c63f32982efb": {
+  "en": "Typical rewards (per party)",
+  "t": "Recompensas típicas (por grupo)"
+ },
+ "c8faf4b87b34": {
+  "en": "**Reward:** paid on return with proof (a head, a heart stone, a signed receipt, the cargo delivered intact). Split as the party likes. Revival debt takes its 50% first.",
+  "t": "**Recompensa:** paga na volta, com prova (uma cabeça, uma pedra de coração, um recibo assinado, a carga entregue intacta). Dividam como quiserem. A dívida de reanimação leva primeiro os 50% dela."
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "Rank"
+ },
+ "ccce7de9befb": {
+  "en": "**The Lost Pearl** — Find a missing Pearl adventurer last seen at Jack Wood. 1 amethyst.",
+  "t": "**A Pearl perdida** — Encontre um aventureiro Pearl desaparecido, visto pela última vez em Jack Wood. 1 amethyst."
+ },
+ "cdaf57cacb85": {
+  "en": "**Rank:** you can take quests at your rank or lower. A party may take a quest one rank higher if at least one member holds that rank.",
+  "t": "**Patente:** você pode pegar missões da sua patente ou abaixo. Um grupo pode pegar uma missão uma patente acima se pelo menos um membro tiver essa patente."
+ },
+ "d094b59921f2": {
+  "en": "**Bridge Toll Trouble** — Someone's charging an illegal \"toll\" on a forest bridge. Report, don't punish (§2 Sub 3!). 40 pearls.",
+  "t": "**Encrenca no pedágio da ponte** — Alguém está cobrando um «pedágio» ilegal numa ponte da floresta. Relate, não castigue (§2 Sub 3!). 40 pearls."
+ },
+ "d26fbd06e0fa": {
+  "en": "**Sand Sea Raid** — The Sand Sea guild is \"capturing\" Wozefaries in the desert again. Prove it. 5 aquamarines.",
+  "t": "**Ataque da Sand Sea** — A guilda Sand Sea está «capturando» wozefaries no deserto de novo. Prove. 5 aquamarines."
+ },
+ "d50a38583194": {
+  "en": "2–5 amethysts",
+  "t": "2–5 amethysts"
+ },
+ "d62810f931ed": {
+  "en": "**Wagon to Sanbi** — Escort a merchant wagon from Forway to Sanbi. Blue Wozens \"tax\" this road. 5 amethysts.",
+  "t": "**Carroça para Sanbi** — Escolte uma carroça de mercador de Forway a Sanbi. Os Blue Wozens «cobram imposto» nessa estrada. 5 amethysts."
+ },
+ "d6ae25ae8ff2": {
+  "en": "**Search Party** — A Pearl party missed its deadline near Ganyrami. Bodies, alive or dead. 3 aquamarines.",
+  "t": "**Equipe de busca** — Um grupo de Pearls perdeu o prazo perto de Ganyrami. Corpos, vivos ou mortos. 3 aquamarines."
+ },
+ "d80bf5333290": {
+  "en": "**Black Magina Franchise** — Shut down this year's new Magina farm (they never kill — they put you to sleep). 4 aquamarines.",
+  "t": "**Franquia da Black Magina** — Feche a nova fazenda de Magina deste ano (eles nunca matam — fazem você dormir). 4 aquamarines."
+ },
+ "d83c96568b4d": {
+  "en": "20–60 pearls",
+  "t": "20–60 pearls"
+ },
+ "dc4441201127": {
+  "en": "6–10 amethysts",
+  "t": "6–10 amethysts"
+ },
+ "dd67590636ac": {
+  "en": "**Embassy Errand** — Carry nari stone sticks to Deltacross (transport-free; theft = Forway's very unhappy). 1 amethyst.",
+  "t": "**Recado da embaixada** — Leve bastões de pedras de nari até Deltacross (sem custo de transporte; roubo = Forway muito, muito brava). 1 amethyst."
+ },
+ "e05439939503": {
+  "en": "**Fihi Fishing** — Lukewarm Lake's Fihi ate a fisher. Get the fisher's badge back. 6 amethysts.",
+  "t": "**Pescaria de Fihi** — Os Fihi do Lago Morno comeram um pescador. Recupere o distintivo dele. 6 amethysts."
+ },
+ "e2c025692149": {
+  "en": "3–5 sapphires",
+  "t": "3–5 sapphires"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "Sapphire"
+ },
+ "e4fc92714186": {
+  "en": "Quest rules",
+  "t": "Regras das missões"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "Aquamarine"
+ },
+ "f20de1920224": {
+  "en": "**Old Fuhrair Debt Collection** — Collect a miner's debt in a town where everyone is armed. 5 amethysts.",
+  "t": "**Cobrança de dívida em Old Fuhrair** — Cobre a dívida de um mineiro numa cidade onde todo mundo anda armado. 5 amethysts."
+ },
+ "f4ed3c816700": {
+  "en": "**Walking Flesh Loose** — A docile Walking Flesh wandered into a vassal village and the villagers named it. 3 aquamarines.",
+  "t": "**Walking Flesh à solta** — Um Walking Flesh dócil entrou numa aldeia vassala e os aldeões deram nome a ele. 3 aquamarines."
+ },
+ "fb0da67bff8a": {
+  "en": "**Bahyum Siege** — The Castle Mood maxed out. Every adventurer is called. Kill the Flatheads leading the wave. 3 sapphires.",
+  "t": "**O cerco de Bahyum** — O Humor do Castelo chegou ao máximo. Todo aventureiro é convocado. Mate os Flatheads que lideram a onda. 3 sapphires."
+ },
+ "fdc76f692443": {
+  "en": "**Nari Cache Recovery** — Recover a stolen nari stone cache before it's sold. 6 aquamarines.",
+  "t": "**Recuperação do estoque de nari** — Recupere um estoque roubado de pedras de nari antes que seja vendido. 6 aquamarines."
+ },
+ "ffdbc3de6ef7": {
+  "en": "**Endlessboil Samples** — Scientists want water from the boiling lake. 4 aquamarines.",
+  "t": "**Amostras de Endlessboil** — Cientistas querem água do lago fervente. 4 aquamarines."
+ }
+}

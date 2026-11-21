@@ -1,0 +1,82 @@
+{
+ "098df78db072": {
+  "en": "**Dagger.** +5 to hit, 1d4+3 piercing.",
+  "t": "**단검.** 명중 +5, 1d4+3 관통."
+ },
+ "0bf6c19ae325": {
+  "en": "**Shortbow.** +5 to hit, 1d6+3 piercing.",
+  "t": "**단궁.** 명중 +5, 1d6+3 관통."
+ },
+ "1125477d7a09": {
+  "en": "Takeo Forway Tea-Drinkers — Level 3 Rogue (Inquisitive)",
+  "t": "다케오 포웨이 티 드링커스 — 3레벨 로그(탐문자)"
+ },
+ "119f0a1c469e": {
+  "en": "**People:** Human (looks Darfaries — tall, big tusks — but has no Darfaries veins) · **Class:** Rogue · **Background:** Guild Muscle (Tea-Drinkers) · **Alignment:** Lawful Neutral · **Rank:** Pearl\n**Interface:** Darfaries · **Soul Points:** 4",
+  "t": "**종족:** 인간(키가 크고 엄니가 커서 다르파리에스처럼 보이지만, 다르파리에스 혈관이 없다) · **클래스:** 로그 · **배경:** 길드 해결사(티 드링커스) · **성향:** 질서 중립 · **계급:** 펄\n**인터페이스:** 다르파리에스 · **소울 포인트:** 4"
+ },
+ "24a0c5096373": {
+  "en": "**Dark Side.** Lie to him and the politeness ends. When his Insight catches someone's lie, he has advantage on attacks and Intimidation checks against that creature until the end of the scene. Once he starts questioning someone, stopping takes a DC 12 Wisdom save.",
+  "t": "**어두운 면.** 그에게 거짓말을 하면 예의는 끝이다. 그의 통찰이 누군가의 거짓말을 잡아내면, 그 장면이 끝날 때까지 그 크리처에 대한 공격과 위협 판정에 이점을 얻는다. 일단 누군가를 심문하기 시작하면, 멈추려면 DC 12 지혜 내성이 필요하다."
+ },
+ "306a93d6bd63": {
+  "en": "**Skills:** Stealth +5, Investigation +5, Insight +5, Intimidation +4\n**Equipment:** Steel finger-clipping pliers, dark cloak, boots, a Steen stick to chew, a letter from his father Francisco, badge.\n**Hook:** Hates lies and hates being suspected. Has a very personal definition of justice.",
+  "t": "**기술:** 은신 +5, 수사 +5, 통찰 +5, 위협 +4\n**장비:** 손가락 자르는 강철 펜치, 어두운 망토, 장화, 씹을 스틴 가지, 아버지 프란시스코의 편지, 신분패.\n**떡밥:** 거짓말을 싫어하고 의심받는 것도 싫어한다. 정의에 대해 아주 개인적인 정의를 갖고 있다."
+ },
+ "34fbbfd8002d": {
+  "en": "**Insightful Fighting.** Bonus action: Insight vs. the target's Deception to get Sneak Attack without advantage.",
+  "t": "**통찰 전투.** 추가 행동: 통찰 대 목표의 기만으로, 이점 없이도 암습 공격을 할 수 있게 한다."
+ },
+ "6a5ad0d63585": {
+  "en": "**Not Quite Darfaries.** Immune to being charmed for 1 round (1/day). Doesn't like being asked about his veins.",
+  "t": "**다르파리에스는 아님.** 1라운드 동안 매혹에 면역(1/일). 혈관에 대해 묻는 걸 싫어한다."
+ },
+ "6c865c4df135": {
+  "en": "Rogue Features",
+  "t": "로그 특징"
+ },
+ "a3c24e61756d": {
+  "en": "Features & Traits",
+  "t": "특징과 특성"
+ },
+ "aa332f45694d": {
+  "en": "**New pre-gen:** this sheet carries the interrogator traits that the Alpha campaign had put on Hiromi.",
+  "t": "**새 사전 제작 캐릭터:** 이 시트는 알파 캠페인이 히로미에게 붙였던 심문관 특성을 이어받는다."
+ },
+ "abd56a0f4324": {
+  "en": "**Interrogator's Edge.** Proficiency with torture tools (his finger-clipping pliers); +2 to Intimidation.",
+  "t": "**심문관의 강점.** 고문 도구(손가락 자르는 펜치)에 숙련. 위협 +2."
+ },
+ "b1ea7f1858f2": {
+  "en": "Actions",
+  "t": "행동"
+ },
+ "b25d10ec1aa2": {
+  "en": "**Sneak Attack (2d6).**",
+  "t": "**암습 공격(2d6).**"
+ },
+ "c5738e07a531": {
+  "en": "**Curt.** Few words, a flat voice, and polite only up to a point. Disadvantage on Persuasion checks that need warmth or small talk; advantage on Intimidation when he goes quiet and just stares.",
+  "t": "**무뚝뚝함.** 말수가 적고 목소리에 높낮이가 없으며, 예의는 어느 선까지만. 따뜻함이나 잡담이 필요한 설득 판정에 불리점. 입을 다물고 빤히 쳐다볼 때는 위협에 이점."
+ },
+ "dc4533abc8ab": {
+  "en": "**Hifuna Yabuca Habit.** Once per long rest he can eat a Hifuna fruit for +2 Strength for 1 hour. He also gains 1 Exposure (see Dangerous Places).",
+  "t": "**히푸나 야부카 습관.** 긴 휴식마다 한 번, 히푸나 열매를 먹어 1시간 동안 근력 +2를 얻을 수 있다. 노출도 1 얻는다(위험한 장소 참고)."
+ },
+ "e445e97f209c": {
+  "en": "**AC** 14 · **HP** 27 · **Speed** 30 ft\n**STR** 14 · **DEX** 16 · **CON** 14 · **INT** 12 · **WIS** 13 · **CHA** 10",
+  "t": "**AC** 14 · **HP** 27 · **이동속도** 30피트\n**근력** 14 · **민첩** 16 · **건강** 14 · **지능** 12 · **지혜** 13 · **매력** 10"
+ },
+ "e9c8c9750663": {
+  "en": "**Conflict Avoidant.** If allies argue, DC 10 Wis save or he leaves the scene for 1 round (\"We finished the quest. We celebrated. We all spoke our minds. Now we say our goodbyes.\").",
+  "t": "**갈등 회피.** 아군끼리 말다툼하면, DC 10 지혜 내성에 실패할 경우 1라운드 동안 자리를 뜬다(“의뢰는 끝났다. 축하도 했다. 다들 하고 싶은 말도 했다. 이제 작별 인사를 할 때다.”)."
+ },
+ "ee50b734c002": {
+  "en": "**Clip & Question (Recharge 6).** A grappled or restrained creature makes a DC 12 Wis save or is frightened for 1 round and answers one question truthfully.",
+  "t": "**자르고 묻기(재충전 6).** 붙잡힘이나 포박 상태인 크리처는 DC 12 지혜 내성을 하고, 실패하면 1라운드 동안 공포 상태가 되며 질문 하나에 사실대로 답한다."
+ },
+ "fe5c6761cdeb": {
+  "en": "**Cunning Action.** Dash, Disengage or Hide as a bonus action.",
+  "t": "**교활한 행동.** 추가 행동으로 질주, 이탈, 숨기."
+ }
+}

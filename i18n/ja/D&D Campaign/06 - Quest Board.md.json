@@ -1,0 +1,414 @@
+{
+ "0772d30d7679": {
+  "en": "**Walking Heart Smugglers** — Someone is selling Walking Hearts again. 4 sapphires.",
+  "t": "**ウォーキングハートの密売人** — 誰かがまたウォーキングハートを売っている。4サファイア。"
+ },
+ "08478901d839": {
+  "en": "3–5 amethysts",
+  "t": "3–5アメジスト"
+ },
+ "09c243c12be6": {
+  "en": "**The Queen Nari Worm** — Something is shaking the Nari Caverns. Protect the worms at all costs. 6 sapphires.\n9–20. *DM's choice — Sapphire quests are rarely written down.*",
+  "t": "**女王ナリワーム** — 何かがナリ・カヴァーンズを揺らしている。何があっても虫たちを守れ。6サファイア。\n9–20. *DMが決める — サファイアの依頼はめったに書面に残されない。*"
+ },
+ "0a2886bc7ff5": {
+  "en": "**Old Village Census** — Count the people in Old Village. They don't like counting. 1 amethyst.",
+  "t": "**オールド・ヴィレッジの人口調査** — オールド・ヴィレッジの人を数える。彼らは数えられるのが嫌いだ。1アメジスト。"
+ },
+ "0b41761439d2": {
+  "en": "**Teefyro Crater** — A Teefyro exploded near Tastyleaf and left something in the crater. 4 aquamarines.",
+  "t": "**ティーフィロのクレーター** — テイスティリーフ近くでティーフィロが爆発し、クレーターに何かを残した。4アクアマリン。"
+ },
+ "0e6b80be3e41": {
+  "en": "**Black Sapphire** — There's a rumor in the Palace. Forway says it's nothing. Someone paid you to look anyway. ? sapphires.",
+  "t": "**ブラックサファイア** — 宮殿に噂が流れている。フォーウェイは何でもないと言う。それでも調べてくれと、誰かがあなたに金を払った。？サファイア。"
+ },
+ "10ee5f105d84": {
+  "en": "Sample board (d20 per rank)",
+  "t": "掲示板の例（階級ごとにd20）"
+ },
+ "10ee7e90266d": {
+  "en": "**Message Run** — Shout an embassy announcement in three villages that have no guards this week. 30 pearls.",
+  "t": "**伝令の使い走り** — 今週衛兵のいない三つの村で、大使館の告知を触れ回る。30パール。"
+ },
+ "130a0f9f36df": {
+  "en": "**Wood Hammering Champion** — A tavern owner needs someone to beat the local champion and break his winning streak. 20 pearls + drinks.",
+  "t": "**ウッド・ハンマリングの王者** — 酒場の主人が、地元の王者を負かして連勝を止めてくれる人を探している。20パール＋酒。"
+ },
+ "13d5b246d22d": {
+  "en": "**Missing Person: the Tea-Drinkers' Recruit** — Borrow the badge, find him, bring him back. 5 amethysts.",
+  "t": "**行方不明者：ティー・ドリンカーズの新入り** — 身分証を借り、彼を見つけて連れ戻す。5アメジスト。"
+ },
+ "140a08d03aac": {
+  "en": "**Culuim Pond** — Someone dumped weird stones in a pond near Freeish again; collect samples. 1 amethyst.",
+  "t": "**クルイムの池** — また誰かがフリーイッシュ近くの池に妙な石を捨てた。標本を集めること。1アメジスト。"
+ },
+ "167f09d217bc": {
+  "en": "**Cargo: Nari Gels to Waterfall** — Fragile, expensive, and someone wants them. 6 amethysts.",
+  "t": "**積み荷：ウォーターフォールへのナリジェル** — 壊れやすく、高価で、狙っている者がいる。6アメジスト。"
+ },
+ "19f126e731b5": {
+  "en": "Quest types by rank",
+  "t": "階級別の依頼の種類"
+ },
+ "1d070e022003": {
+  "en": "**Sand Worm Season** — Escort chitin hunters out of Flatland (a Sayna is provided). 7 amethysts + chitin share.",
+  "t": "**サンドワームの季節** — キチン狩りの者たちをフラットランドから護衛する（サイナを支給）。7アメジスト＋キチンの分け前。"
+ },
+ "24e973a362ad": {
+  "en": "**Fuhraies Sighting** — Poachers say they saw a living Fuhraies. Get there first. 5 sapphires.",
+  "t": "**フライエスの目撃** — 密猟者が生きたフライエスを見たと言っている。先にたどり着け。5サファイア。"
+ },
+ "261ed5caccd1": {
+  "en": "**Black Honey Run** — Escort honey from Sweetlake to Blood during the Drunken Sweet Sting Festival. 6 amethysts.",
+  "t": "**黒い蜜の輸送** — 酔っぱらいスイートスティング祭りのあいだ、スイートレイクからブラッドまで蜜を護衛する。6アメジスト。"
+ },
+ "29f1a45c3df7": {
+  "en": "**Newland Survey** — Map a landing site. Watch out for giant sloths. 8 aquamarines.",
+  "t": "**ニューランドの調査** — 上陸地点を地図にする。巨大なナマケモノに注意。8アクアマリン。"
+ },
+ "2f8aaa2e6993": {
+  "en": "1–2 amethysts",
+  "t": "1–2アメジスト"
+ },
+ "3041ca399974": {
+  "en": "**Fallen Tree Lead** — A Fallen Tree spy is in the embassy lounge. Which adventurer is it? 5 aquamarines.",
+  "t": "**フォールンツリーの手がかり** — 大使館のラウンジにフォールンツリーの密偵がいる。どの冒険者だ？ 5アクアマリン。"
+ },
+ "318688c9313d": {
+  "en": "**Triangle Trouble** — Escort a Forway inspector through Triangle City without breaking the Triangle Way. 5 aquamarines.",
+  "t": "**トライアングルでの面倒** — トライアングルの道を破らずに、フォーウェイの検査官をトライアングルの街で護衛する。5アクアマリン。"
+ },
+ "320a4bf5be97": {
+  "en": "**The Forest That Eats People** — Travelers keep vanishing overnight in a southern forest. 6 aquamarines.",
+  "t": "**人を食う森** — 南の森で、旅人が一夜のうちに次々と消えている。6アクアマリン。"
+ },
+ "32759c5067f7": {
+  "en": "**Lighthouse Duty** — Cliffbay's keeper broke a leg; keep the fost stone wet for a week. Something keeps knocking on the door at night. 40 pearls.",
+  "t": "**灯台当番** — クリフベイの灯台守が脚を折った。1週間フォストストーンを濡らしておくこと。毎晩、何かが扉をたたく。40パール。"
+ },
+ "38e9a2f48365": {
+  "en": "Every embassy's Floor 1 has a **quest board**. Quests are contracts: sign with your blood, agree to the **deadline**, and the embassy will send a search party if you don't come back. The captain announces new quests every evening at **Monnalow**.",
+  "t": "どの大使館も1階に**依頼掲示板**がある。依頼は契約だ：血で署名し、**期限**に同意する。戻らなければ大使館が捜索隊を送る。隊長は毎晩**モナロウ**に新しい依頼を告げる。"
+ },
+ "3a2bca99734c": {
+  "en": "**Pussy Power Problem** — Pussy Power vigilantes beat a man half to death. He might have deserved it. Investigate. 3 aquamarines.",
+  "t": "**プッシーパワー問題** — プッシーパワーの自警団員が男を半殺しにした。自業自得だったのかもしれない。調査せよ。3アクアマリン。"
+ },
+ "3adaf1aecd21": {
+  "en": "**Road Crew Escort** — Watch road maintainers clearing the Long Bridge road; Wozens hunt there at night. 50 pearls.",
+  "t": "**道路作業班の護衛** — ロング・ブリッジ街道を片づける作業員を見張る。夜にはウォゼンが狩りをする。50パール。"
+ },
+ "3c95e59f4c3d": {
+  "en": "1–2 aquamarines",
+  "t": "1–2アクアマリン"
+ },
+ "421cfd7c957f": {
+  "en": "**Sweetlake Blood-Tribe** — The lunatic last member says he's found where his guild vanished to. 3 aquamarines.",
+  "t": "**スイートレイク・ブラッドトライブ** — 正気を失った最後の一人が、ギルドが消えた先を見つけたと言っている。3アクアマリン。"
+ },
+ "4358c3994478": {
+  "en": "**Bahyum: Mood Rising** — The Castle Mood hit 5. Thin the undead before it reaches 6. 4 aquamarines.",
+  "t": "**バヒュム：機嫌が上昇中** — 城の機嫌が5になった。6になる前にアンデッドを減らせ。4アクアマリン。"
+ },
+ "4474716fd65a": {
+  "en": "Add loot: Bagarisa meat and hides, Wood People vines and wood, chitin, rare nari gel ingredients (Koalin parts are illegal!), bandit stashes (surrender them to Forway for investigation… or don't).",
+  "t": "戦利品も加えよう：バガリサの肉と皮、ウッドピープルのつると木材、キチン、ナリジェルの珍しい材料（コアリンの部位は違法！）、盗賊の隠し財産（捜査のためフォーウェイに引き渡す…か、渡さないか）。"
+ },
+ "4a3239eb6639": {
+  "en": "**Lansha Herd** — A Lansha herd is trampling Cruro-border farms. 5 amethysts.",
+  "t": "**ランシャの群れ** — ランシャの群れがクルロとの境の農場を踏み荒らしている。5アメジスト。"
+ },
+ "50150b6c8f89": {
+  "en": "**Hifuna Control** — Something Hash crawled down from Hifuna near Tastyleaf. 5 aquamarines.",
+  "t": "**ヒフナの制圧** — テイスティリーフ近くで、ハッシュ化した何かがヒフナから這い下りてきた。5アクアマリン。"
+ },
+ "52cc2fa30ce6": {
+  "en": "Dangerous",
+  "t": "危険"
+ },
+ "542301db043f": {
+  "en": "**Personal Protection: A Pharaoh's Son** — Anpu (or Bata) visits Forway. They must not be insulted. 6 aquamarines.",
+  "t": "**身辺警護：ファラオの息子** — アンプ（あるいはバタ）がフォーウェイを訪れる。決して侮辱してはならない。6アクアマリン。"
+ },
+ "5443e491030b": {
+  "en": "Amethyst",
+  "t": "アメジスト"
+ },
+ "588511f7d807": {
+  "en": "**Fost Stone Count** — Deliver a sack of small fost stones to a village and get them all back… somehow they always come back short. 2 pearls (seriously).",
+  "t": "**フォストストーンの数合わせ** — 小さなフォストストーンの袋を村に届け、全部回収してくる…なぜかいつも数が足りない。2パール（本当に）。"
+ },
+ "5ada3bd871c8": {
+  "en": "**Gyut Picking Guard** — Freeish farmers say something big eats pickers at dusk. 40 pearls.",
+  "t": "**ギュット摘みの護衛** — フリーイッシュの農夫たちによると、夕暮れに何か大きなものが摘み手を食べるという。40パール。"
+ },
+ "5c3db86dee54": {
+  "en": "**Soreno Scourge** — Clear the Sorenos out of a Forway grain silo before they chew through the season. 30 pearls + all the Soreno you can eat (please don't).",
+  "t": "**ソレノの大発生** — 季節の穀物を食い尽くされる前に、フォーウェイの穀物倉からソレノを追い払う。30パール＋食べられるだけのソレノ（どうかやめて）。"
+ },
+ "5c7b10517158": {
+  "en": "Pearl",
+  "t": "パール"
+ },
+ "62060836386e": {
+  "en": "**Hostel Haunting** — A Forway hostel's guests wake up with drained badges. (A Sucker Lady? A thief? Both?) 1 amethyst.",
+  "t": "**宿の怪異** — フォーウェイの宿の客が、身分証の中身を吸われた状態で目を覚ます。（サッカー・レディ？ 泥棒？ 両方？）1アメジスト。"
+ },
+ "6518d5a0d329": {
+  "en": "**Construction Assist** — Help build a Wood People wall around a new village (bring fost stones). 50 pearls.",
+  "t": "**建設の手伝い** — 新しい村の周りにウッドピープルの壁を築く手伝い（フォストストーン持参）。50パール。"
+ },
+ "7127d58bfb75": {
+  "en": "10+ sapphires",
+  "t": "10サファイア以上"
+ },
+ "76f6798094b8": {
+  "en": "**Law Compliance: Flatland** — Investigate the ruling guilds of Flatland. Don't get caught. 4 sapphires.",
+  "t": "**法令遵守：フラットランド** — フラットランドを支配するギルドを調査する。捕まってはいけない。4サファイア。"
+ },
+ "7a79f00d69ab": {
+  "en": "Quest Board",
+  "t": "依頼掲示板"
+ },
+ "7c6051994e88": {
+  "en": "**Fanchaki Stampede** — A farm's Fanchakis bred out of control. 30 pearls + eggs.",
+  "t": "**ファンチャキの暴走** — ある農場のファンチャキが手に負えないほど増えた。30パール＋卵。"
+ },
+ "7d3c7823adad": {
+  "en": "Routine",
+  "t": "日常的"
+ },
+ "7dabb7688378": {
+  "en": "**The Stinger Sighting** — Find out who the gore-soaked \"Stinger\" is. Forway's curious, not hostile. 4 amethysts.",
+  "t": "**スティンガーの目撃** — 血まみれの「スティンガー」の正体を突き止める。フォーウェイは興味があるだけで、敵意はない。4アメジスト。"
+ },
+ "828402e731b0": {
+  "en": "**Kidnapped Courtroom Apprentice** — Ransom note, no badge, a trail into Ganyrami. 7 aquamarines.",
+  "t": "**さらわれた宮廷の弟子** — 身代金の要求、身分証なし、ガニラミへ続く足跡。7アクアマリン。"
+ },
+ "82f30e86b10c": {
+  "en": "**Koalin Problem** — Farmers in the eastern grasslands are losing their minds. Do NOT harvest the brains. 8 amethysts.",
+  "t": "**コアリン問題** — 東の草原の農夫たちが正気を失いつつある。脳を採るのは絶対に禁止。8アメジスト。"
+ },
+ "82f6c08644d7": {
+  "en": "**Red Winga Runaway** — A choker-wearing girl begs for protection. Red Winga has a contract. So does Forway. 4 aquamarines (or nothing, depending on whose side you take).",
+  "t": "**レッドウィンガからの逃亡者** — チョーカーを着けた少女が保護を懇願している。レッドウィンガには契約がある。フォーウェイにもある。4アクアマリン（どちらにつくかによっては何もなし）。"
+ },
+ "84be65baf404": {
+  "en": "**Blue Wozens Den** — Find and raid the Blue Wozens' hidden den between Forway and Sanbi. 6 aquamarines.",
+  "t": "**ブルーウォゼンズの根城** — フォーウェイとサンビのあいだに隠されたブルーウォゼンズの根城を見つけて襲撃する。6アクアマリン。"
+ },
+ "85c565555c57": {
+  "en": "**Winga Wrangle** — A courier Winga escaped. Don't kill it (that's a crime). 1 amethyst.",
+  "t": "**ウィンガの捕獲** — 伝書ウィンガが逃げた。殺してはいけない（犯罪だ）。1アメジスト。"
+ },
+ "87fe3c316550": {
+  "en": "**Bounty: The Bagarisa Brothers' Recruiter** — Bring him to the embassy alive. 1 aquamarine.",
+  "t": "**賞金首：バガリサ・ブラザーズの勧誘役** — 生かしたまま大使館へ連れてくる。1アクアマリン。"
+ },
+ "8b15338336a8": {
+  "en": "4–8 aquamarines",
+  "t": "4–8アクアマリン"
+ },
+ "8fe025a79646": {
+  "en": "**Embassy cut:** posting a quest costs the poster 1 amethyst; that's not your problem.",
+  "t": "**大使館の取り分：** 依頼を出すには依頼主が1アメジスト払う。それはあなたの問題ではない。"
+ },
+ "9289cc027422": {
+  "en": "**Lighthouse Silence** — Rich Island's lighthouse went dark; ships are wrecking. 8 amethysts.",
+  "t": "**灯台の沈黙** — リッチ島の灯台が消え、船が難破している。8アメジスト。"
+ },
+ "9612e3645f73": {
+  "en": "**Bagarisa Ribs for the Wood People Picker** — Yosuke wants 3 fresh Bagarisas within 2 circles of Forway. 1 amethyst + a free dinner.",
+  "t": "**ウッドピープル・ピッカーのためのバガリサのあばら肉** — ヨウスケはフォーウェイから2サークル以内で仕留めた新鮮なバガリサを3頭欲しがっている。1アメジスト＋夕食無料。"
+ },
+ "9a35f8965e36": {
+  "en": "**Smelly Killer Bagarisa** — A huge two-hearted Bagarisa with a blazing crest terrorizes Freeish hunters. 6 amethysts.",
+  "t": "**臭い人食いバガリサ** — 燃えるとさかを持つ巨大な二つの心臓のバガリサが、フリーイッシュの狩人たちを恐怖に陥れている。6アメジスト。"
+ },
+ "9a5b47656d13": {
+  "en": "**Archeologist Escort: Fuhrair** — Guard a historian climbing to the snow houses. 5 aquamarines.",
+  "t": "**考古学者の護衛：フライア** — 雪の家々へ登る歴史家を守る。5アクアマリン。"
+ },
+ "9a63316724d4": {
+  "en": "**Pearl:** Soul Energy Assist, Fauna Hunting, Construction Assistance, Lighthouse Assistance, Area Surveillance (around cities), Message Spreader, Road Maintenance, Soreno pest control.",
+  "t": "**パール：** 魂のエネルギーの補助、動物狩り、建設の手伝い、灯台の手伝い、地域の見回り（都市周辺）、触れ回り、道の整備、ソレノの駆除。"
+ },
+ "9a7a2f37207b": {
+  "en": "**Aquamarine:** Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer (search parties), Archeologist Assistance, Bahyum control, Hifuna control, Black Magina shutdown.",
+  "t": "**アクアマリン：** 盗賊の掃討、身辺警護、冒険者の捜索・救助（捜索隊）、考古学者の手伝い、バヒュムの制圧、ヒフナの制圧、ブラックマジナの摘発。"
+ },
+ "9ebaa0d38046": {
+  "en": "**Herbs for a Healer** — Gather Girdol and Lehuj in the Freeish woods. 35 pearls.",
+  "t": "**薬師のための薬草** — フリーイッシュの森でギルドルとレフジを集める。35パール。"
+ },
+ "a025aa7bf334": {
+  "en": "**Winga Mail Thief** — Someone's shooting down courier Wingas on the Waterfall route. 7 amethysts.",
+  "t": "**ウィンガ便泥棒** — 誰かがウォーターフォール便のルートで伝書ウィンガを撃ち落としている。7アメジスト。"
+ },
+ "a0b37b5846b2": {
+  "en": "**Village Checker: Tobame** — A Tolerideme vassal village stopped sending its booze shipments. 4 amethysts.",
+  "t": "**村の検査係：トバメ** — トレリデメの属村が酒の出荷を止めた。4アメジスト。"
+ },
+ "a17625c5d1a5": {
+  "en": "**Deadline:** the round trip in days at the DM's pace knob, **plus 50%**. (Example: Forway to Sanbi is 6 circles; at 2 days per circle that's 12 days each way, 24 days round trip, so the deadline is 36 days.)",
+  "t": "**期限：** DMのペースのつまみで計算した往復の日数に**50%を足したもの**。（例：フォーウェイからサンビまでは6サークル。1サークル2日なら片道12日、往復24日なので、期限は36日。）"
+ },
+ "a2b22e420a26": {
+  "en": "1–3 aquamarines",
+  "t": "1–3アクアマリン"
+ },
+ "a4ff3af8d79f": {
+  "en": "**White Roundies Gone Missing** — The Freeish festival is coming and the Roundies didn't arrive. 5 amethysts.",
+  "t": "**ホワイトラウンディーズが来ない** — フリーイッシュの祭りが近いのに、ラウンディーズが来ていない。5アメジスト。"
+ },
+ "a6d6f3b04432": {
+  "en": "**Cruro Bag of Pearls** — Retrieve a bag of pearls from a Cruro tribe (bartering is legal with them). 5 amethysts.",
+  "t": "**クルロのパール袋** — クルロの部族からパールの袋を取り戻す（彼らとの物々交換は合法）。5アメジスト。"
+ },
+ "a6e1274f2e20": {
+  "en": "1–2 sapphires",
+  "t": "1–2サファイア"
+ },
+ "a7865b7a6450": {
+  "en": "**Amethyst:** Cargo Protection (the Alpha wagon escort! Bandits may offer you a cut to look the other way: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)), Beast Hunt, Bounty Hunting, Bandit Traps, Training Pearls, Area Surveillance (wild), Village Checker, Missing Person.",
+  "t": "**アメジスト：** 積み荷の護衛（アルファ版の荷馬車の護衛だ！ 盗賊が見て見ぬふりの分け前を持ちかけてくるかもしれない：[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）、魔獣狩り、賞金稼ぎ、盗賊用の罠、パールの訓練、地域の見回り（荒野）、村の検査係、行方不明者。"
+ },
+ "ac1bbc8eec8d": {
+  "en": "Big",
+  "t": "大仕事"
+ },
+ "b011d4e0f3c1": {
+  "en": "**Bandit Traps on the Delta** — Set traps on the trails around Deltacross where Beer Balls copycats rob travelers. 4 amethysts.",
+  "t": "**デルタの盗賊用の罠** — ビアボールズの模倣犯が旅人を襲うデルタクロス周辺の小道に罠を仕掛ける。4アメジスト。"
+ },
+ "b157f3eef49e": {
+  "en": "**Failure:** fail a quest or miss the deadline without a good reason and you owe a penalty equal to **10% of the reward**. Lose a borrowed badge on a Missing Person quest and you owe **10× the reward**.",
+  "t": "**失敗：** 正当な理由なく依頼に失敗するか期限を過ぎると、**報酬の10%** の違約金を負う。行方不明者の依頼で借りた身分証をなくすと、**報酬の10倍**を負う。"
+ },
+ "b2bef37b4135": {
+  "en": "**Sapphire:** Kingdom/Guild/Business Law Compliance (secret), Kingdom Alerts, Bahyum \"mood maxed\" sieges, deep Hifuna expeditions, anything Forway won't write down.",
+  "t": "**サファイア：** 王国・ギルド・商売の法令遵守（秘密）、王国警報、「機嫌が最大」のバヒュム包囲戦、ヒフナ奥地の遠征、フォーウェイが書面に残さないあらゆること。"
+ },
+ "b3f218d809f1": {
+  "en": "**Cinika Count** — Report swarm sizes on the plains for storm forecasting. 25 pearls.",
+  "t": "**シニカの数調べ** — 嵐の予報のため、平原の群れの大きさを報告する。25パール。"
+ },
+ "b74df696834d": {
+  "en": "**Training Day** — Take three Pearls on their first wild hunt and bring them all back alive. 4 amethysts.",
+  "t": "**訓練の日** — 三人のパールを初めての荒野の狩りに連れて行き、全員生きて連れ帰る。4アメジスト。"
+ },
+ "ba742ae45a3a": {
+  "en": "**Sweet Sting Scouting** — Map hive locations east of Sweetlake (costume provided, smells awful). 2 amethysts.",
+  "t": "**スイートスティングの偵察** — スイートレイクの東にある巣の位置を地図にする（仮装は支給、ひどい臭い）。2アメジスト。"
+ },
+ "be7491c66988": {
+  "en": "**Wood People Control** — Herd or paralyze a Wood People grove that wandered onto a Tolerideme road. 5 amethysts + vines.",
+  "t": "**ウッドピープルの制圧** — トレリデメの道に迷い出たウッドピープルの木立を追い立てるか麻痺させる。5アメジスト＋つる。"
+ },
+ "c379cef16720": {
+  "en": "**Hifuna Deep** — Escort a Forway expedition to the far edge of Hifuna. Something is watching from the north. 10 sapphires.",
+  "t": "**ヒフナの奥地** — フォーウェイの遠征隊をヒフナの果てまで護衛する。北から何かが見ている。10サファイア。"
+ },
+ "c453a3526b9c": {
+  "en": "**The Kozaku Question** — Confirm whether the Blue Wozens' boss still exists — and what he's become. 5 sapphires.",
+  "t": "**コザクの謎** — ブルーウォゼンズの頭目がまだ存在するのか — そして何になってしまったのかを確かめる。5サファイア。"
+ },
+ "c63f32982efb": {
+  "en": "Typical rewards (per party)",
+  "t": "よくある報酬（一行あたり）"
+ },
+ "c8faf4b87b34": {
+  "en": "**Reward:** paid on return with proof (a head, a heart stone, a signed receipt, the cargo delivered intact). Split as the party likes. Revival debt takes its 50% first.",
+  "t": "**報酬：** 証拠を持って戻ったときに支払われる（首、心臓の石、署名入りの受領書、無傷で届けた積み荷）。分け方は一行の自由。蘇生の借金があれば、まずその50%が引かれる。"
+ },
+ "ca476635d4ad": {
+  "en": "Rank",
+  "t": "ランク"
+ },
+ "ccce7de9befb": {
+  "en": "**The Lost Pearl** — Find a missing Pearl adventurer last seen at Jack Wood. 1 amethyst.",
+  "t": "**失われたパール** — ジャック・ウッドで最後に目撃された、行方不明のパールの冒険者を探す。1アメジスト。"
+ },
+ "cdaf57cacb85": {
+  "en": "**Rank:** you can take quests at your rank or lower. A party may take a quest one rank higher if at least one member holds that rank.",
+  "t": "**階級：** 自分の階級以下の依頼を受けられる。メンバーの少なくとも一人がその階級なら、一行は一つ上の階級の依頼を受けてよい。"
+ },
+ "d094b59921f2": {
+  "en": "**Bridge Toll Trouble** — Someone's charging an illegal \"toll\" on a forest bridge. Report, don't punish (§2 Sub 3!). 40 pearls.",
+  "t": "**橋の通行料トラブル** — 森の橋で誰かが違法な「通行料」を取っている。報告すること、罰してはいけない（§2 第3項！）。40パール。"
+ },
+ "d26fbd06e0fa": {
+  "en": "**Sand Sea Raid** — The Sand Sea guild is \"capturing\" Wozefaries in the desert again. Prove it. 5 aquamarines.",
+  "t": "**サンドシーの襲撃** — サンドシーギルドがまた砂漠でウォゼファリエスを「捕獲」している。証拠をつかめ。5アクアマリン。"
+ },
+ "d50a38583194": {
+  "en": "2–5 amethysts",
+  "t": "2–5アメジスト"
+ },
+ "d62810f931ed": {
+  "en": "**Wagon to Sanbi** — Escort a merchant wagon from Forway to Sanbi. Blue Wozens \"tax\" this road. 5 amethysts.",
+  "t": "**サンビ行きの荷馬車** — 商人の荷馬車をフォーウェイからサンビまで護衛する。この道ではブルーウォゼンズが「税」を取る。5アメジスト。"
+ },
+ "d6ae25ae8ff2": {
+  "en": "**Search Party** — A Pearl party missed its deadline near Ganyrami. Bodies, alive or dead. 3 aquamarines.",
+  "t": "**捜索隊** — パールの一行がガニラミ近くで期限を過ぎた。体を、生死を問わず。3アクアマリン。"
+ },
+ "d80bf5333290": {
+  "en": "**Black Magina Franchise** — Shut down this year's new Magina farm (they never kill — they put you to sleep). 4 aquamarines.",
+  "t": "**ブラックマジナのフランチャイズ** — 今年新しくできたマジナ農場をつぶす（彼らは殺さない — 眠らせるだけだ）。4アクアマリン。"
+ },
+ "d83c96568b4d": {
+  "en": "20–60 pearls",
+  "t": "20–60パール"
+ },
+ "dc4441201127": {
+  "en": "6–10 amethysts",
+  "t": "6–10アメジスト"
+ },
+ "dd67590636ac": {
+  "en": "**Embassy Errand** — Carry nari stone sticks to Deltacross (transport-free; theft = Forway's very unhappy). 1 amethyst.",
+  "t": "**大使館の使い** — ナリストーン・スティックをデルタクロスへ運ぶ（交通費なし。盗まれたら＝フォーウェイが心底怒る）。1アメジスト。"
+ },
+ "e05439939503": {
+  "en": "**Fihi Fishing** — Lukewarm Lake's Fihi ate a fisher. Get the fisher's badge back. 6 amethysts.",
+  "t": "**フィヒ釣り** — ぬるま湖のフィヒが漁師を食べた。漁師の身分証を取り戻すこと。6アメジスト。"
+ },
+ "e2c025692149": {
+  "en": "3–5 sapphires",
+  "t": "3–5サファイア"
+ },
+ "e4d3c29f8ecd": {
+  "en": "Sapphire",
+  "t": "サファイア"
+ },
+ "e4fc92714186": {
+  "en": "Quest rules",
+  "t": "依頼のルール"
+ },
+ "edb8957aad32": {
+  "en": "Aquamarine",
+  "t": "アクアマリン"
+ },
+ "f20de1920224": {
+  "en": "**Old Fuhrair Debt Collection** — Collect a miner's debt in a town where everyone is armed. 5 amethysts.",
+  "t": "**オールド・フライアの借金取り立て** — 誰もが武装している町で、鉱夫の借金を取り立てる。5アメジスト。"
+ },
+ "f4ed3c816700": {
+  "en": "**Walking Flesh Loose** — A docile Walking Flesh wandered into a vassal village and the villagers named it. 3 aquamarines.",
+  "t": "**はぐれウォーキング・フレッシュ** — おとなしいウォーキング・フレッシュが属村に迷い込み、村人が名前をつけてしまった。3アクアマリン。"
+ },
+ "fb0da67bff8a": {
+  "en": "**Bahyum Siege** — The Castle Mood maxed out. Every adventurer is called. Kill the Flatheads leading the wave. 3 sapphires.",
+  "t": "**バヒュム包囲戦** — 城の機嫌が最大になった。すべての冒険者が招集される。波を率いるフラットヘッドを倒せ。3サファイア。"
+ },
+ "fdc76f692443": {
+  "en": "**Nari Cache Recovery** — Recover a stolen nari stone cache before it's sold. 6 aquamarines.",
+  "t": "**ナリの隠し財産の回収** — 盗まれたナリストーンの隠し財産を、売られる前に取り戻す。6アクアマリン。"
+ },
+ "ffdbc3de6ef7": {
+  "en": "**Endlessboil Samples** — Scientists want water from the boiling lake. 4 aquamarines.",
+  "t": "**エンドレスボイルの標本** — 科学者たちが沸き立つ湖の水を欲しがっている。4アクアマリン。"
+ }
+}

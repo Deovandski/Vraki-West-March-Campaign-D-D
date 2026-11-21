@@ -1,0 +1,246 @@
+{
+ "00e9da937f88": {
+  "en": "Taxes",
+  "t": "Impostos"
+ },
+ "041b46bb9c49": {
+  "en": "base unit",
+  "t": "unidade base"
+ },
+ "05381bfcc598": {
+  "en": "**Amethyst**",
+  "t": "**Amethyst**"
+ },
+ "0ab8f6cf3b6a": {
+  "en": "Personal \"Picker\" (everyone carries their own): 5 / 10 / 17 / 25 / 1 amethyst / 1 aquamarine",
+  "t": "“Picker” pessoal (cada um leva o seu): 5 / 10 / 17 / 25 / 1 amethyst / 1 aquamarine"
+ },
+ "0b59c6fd6695": {
+  "en": "Seal stamp: wood 10, bone wood 20, chitin 40, iron 85, steel 2 amethysts, gold 4 aquamarines · Seal wax 20–40/bottle",
+  "t": "Sinete: madeira 10, bone wood 20, quitina 40, ferro 85, aço 2 amethysts, ouro 4 aquamarines · Lacre 20–40/frasco"
+ },
+ "0b97ec47f618": {
+  "en": "**Tableware** (wood → bone wood → chitin → iron → steel → gold)",
+  "t": "**Louça** (madeira → bone wood → quitina → ferro → aço → ouro)"
+ },
+ "0e4d25b84010": {
+  "en": "10 amethysts = 500 pearls",
+  "t": "10 amethysts = 500 pearls"
+ },
+ "143bf5af4f46": {
+  "en": "**Sanbi region** (Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog): Sanbi fish, fish meal, fish oil, salt.",
+  "t": "**Região de Sanbi** (Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog): peixe de Sanbi, farinha de peixe, óleo de peixe, sal."
+ },
+ "14968d11efb7": {
+  "en": "Money, Prices & Economy",
+  "t": "Dinheiro, preços e economia"
+ },
+ "15c7724b14c8": {
+  "en": "Ice preserver (fridge): 1 amethyst (wood/clay) or 1 aquamarine (iron)",
+  "t": "Conservador de gelo (geladeira): 1 amethyst (madeira/argila) ou 1 aquamarine (ferro)"
+ },
+ "1f80948eae1e": {
+  "en": "**Tier IV (nobility):** custom gear, master-crafted household items, top hides, banned nari gels.",
+  "t": "**Nível IV (nobreza):** equipamento sob medida, utensílios domésticos de mestre artesão, os melhores couros, nari gels proibidos."
+ },
+ "1f84a86b63f2": {
+  "en": "Deltacross ferry: 15 per wagon, 2 per person · Waterfall elevator: 20 per person (double for Darfaries and the very fat, Sorefaries ride free), 1 per 3 kg cargo",
+  "t": "Balsa de Deltacross: 15 por carroça, 2 por pessoa · Elevador de Waterfall: 20 por pessoa (o dobro para Darfaries e os muito gordos; Sorefaries sobem de graça), 1 a cada 3 kg de carga"
+ },
+ "202e6ad33591": {
+  "en": "Ink: black 5, yellow 11, red 11, white (Cruro coral) 10, pink (Wood People sap) 15, blue (lapis) 28",
+  "t": "Tinta: preta 5, amarela 11, vermelha 11, branca (coral de Cruro) 10, rosa (seiva de Wood People) 15, azul (lápis-lazúli) 28"
+ },
+ "249069b6442a": {
+  "en": "Custom/good gear, a young tamed Egua, a tamed Big Winga, guarded travel, fancy hotels, fundamental school, some people's life savings",
+  "t": "Equipamento bom ou sob medida, um Egua jovem domado, um Big Winga domado, viagem com escolta, hotéis chiques, escola fundamental, as economias de uma vida de algumas pessoas"
+ },
+ "287e7fee3a4f": {
+  "en": "Introduced by the Prosperity Treaty (Section 3). **Bartering between treaty citizens is illegal**; haggling is fine if the seller agrees (Toleridemians never agree). Coins are marble-sized gemstone **balls** (~2 cm) wrapped in golden metal filigree that protects the stone and stops counterfeits. Each kingdom mints under embassy oversight; Gandew mints Sapphires and Aquamarines, Flatland mines Amethysts.",
+  "t": "Introduzidas pelo Tratado da Prosperidade (Seção 3). **O escambo entre cidadãos do tratado é ilegal**; pechinchar pode, se o vendedor topar (o povo de Tolerideme nunca topa). As moedas são **bolas** de pedra preciosa do tamanho de uma bolinha de gude (~2 cm), envoltas numa filigrana de metal dourado que protege a pedra e impede falsificações. Cada reino cunha sob supervisão da embaixada; Gandew cunha Sapphires e Aquamarines, Flatland extrai Amethysts."
+ },
+ "2a9913e65d85": {
+  "en": "Trade regions",
+  "t": "Regiões comerciais"
+ },
+ "2ab0c0b9d4c5": {
+  "en": "50 pearls",
+  "t": "50 pearls"
+ },
+ "3fcd6c660fee": {
+  "en": "Winga mail to any embassy: **1 pearl** (postcard size, max weight of 4 pearl balls)",
+  "t": "Correio winga para qualquer embaixada: **1 pearl** (tamanho de cartão-postal, peso máximo de 4 bolas pearl)"
+ },
+ "41defc8c87ed": {
+  "en": "**Writing**",
+  "t": "**Escrita**"
+ },
+ "444008bcfcc9": {
+  "en": "Beer mug: 15 / 20 / 28 / 35 / 3 amethysts / 5 aquamarines",
+  "t": "Caneca de cerveja: 15 / 20 / 28 / 35 / 3 amethysts / 5 aquamarines"
+ },
+ "48f286b4e8d5": {
+  "en": "**What a day looks like:** a Gyut berry picker earns about **1 pearl per kg** (30–60 minutes of work). A newcomer working a 12-hour day might spend 5 pearls on dinner and cheap beer, 5 on a hostel bed, and save 2. **Carbey** grass sets the base value of a pearl.",
+  "t": "**Como é um dia:** um colhedor de frutinhas Gyut ganha cerca de **1 pearl por kg** (30–60 minutos de trabalho). Um recém-chegado que trabalha 12 horas pode gastar 5 pearls com jantar e cerveja barata, 5 com uma cama de albergue e guardar 2. O capim **Carbey** define o valor base de uma pearl."
+ },
+ "49fa995e836d": {
+  "en": "An adult tamed Egua, property, founding a guild, lifelong contracts, specialized school",
+  "t": "Um Egua adulto domado, um imóvel, fundar uma guilda, contratos vitalícios, escola especializada"
+ },
+ "4c94f74f53b2": {
+  "en": "Balls (the common currency)",
+  "t": "Bolas (a moeda comum)"
+ },
+ "4d02a923994f": {
+  "en": "A nari stone, household goods, average gear, decent lodging with breakfast, maps, most nari gels, sigil rings, a tamed Winga, a badge",
+  "t": "Uma nari stone, utensílios domésticos, equipamento médio, uma hospedagem decente com café da manhã, mapas, a maioria dos nari gels, anéis de sigilo, um Winga domado, um distintivo"
+ },
+ "4dd2195cd8ac": {
+  "en": "Wine mug: 13 / 16 / 23 / 29 / 2 amethysts / 3 aquamarines",
+  "t": "Taça de vinho: 13 / 16 / 23 / 29 / 2 amethysts / 3 aquamarines"
+ },
+ "556fb74bffce": {
+  "en": "**Pearl**",
+  "t": "**Pearl**"
+ },
+ "56cb42ef984c": {
+  "en": "What it buys",
+  "t": "O que compra"
+ },
+ "58600edcbf0b": {
+  "en": "**Tolerideme region** (Tolerideme, Waterfall, Tastyleaf, Wingarest): Domar Carbey, Wood People goods, Wingas, booze.",
+  "t": "**Região de Tolerideme** (Tolerideme, Waterfall, Tastyleaf, Wingarest): Domar Carbey, produtos de Wood People, Wingas, bebida."
+ },
+ "59436f85e4e6": {
+  "en": "Tibou soap ~5 · Bagarisa-fur toothbrush ~12 · Toothpaste ~9 · Water pull-gate handle ~20",
+  "t": "Sabão Tibou ~5 · Escova de dentes de pelo de Bagarisa ~12 · Pasta de dentes ~9 · Puxador de comporta de água ~20"
+ },
+ "5ec91c2ba6f6": {
+  "en": "**Gandew region** (Gandew, Flatland, Sundeath): minerals, Wooly products, chitin.",
+  "t": "**Região de Gandew** (Gandew, Flatland, Sundeath): minérios, produtos de Wooly, quitina."
+ },
+ "5ee4372b72cb": {
+  "en": "**Aquamarine**",
+  "t": "**Aquamarine**"
+ },
+ "652b9e4037a1": {
+  "en": "News/quest postings: 1 pearl (general), 1 amethyst (local warning/quest), 1 aquamarine (kingdom alert), 1 sapphire (emergency)",
+  "t": "Publicar notícias/missões: 1 pearl (geral), 1 amethyst (aviso local/missão), 1 aquamarine (alerta do reino), 1 sapphire (emergência)"
+ },
+ "6a17f305cd94": {
+  "en": "**Food highlights** — see Daily Life for each city's signature dishes and prices.",
+  "t": "**Destaques da comida** — veja Vida cotidiana para os pratos típicos e preços de cada cidade."
+ },
+ "6e207365c61b": {
+  "en": "**Tier III (expensive):** gold, titanium, good gear, nari gels, jerky, small/quality furs, live animals, rare parts.",
+  "t": "**Nível III (caro):** ouro, titânio, bom equipamento, nari gels, charque, peles pequenas ou de qualidade, animais vivos, peças raras."
+ },
+ "6e40807439ce": {
+  "en": "**Tier II (common):** nari stones, gems, black honey, sigil rings, low-quality gear, inks, processed meat, large furs.",
+  "t": "**Nível II (comum):** nari stones, gemas, mel negro, anéis de sigilo, equipamento de baixa qualidade, tintas, carne processada, peles grandes."
+ },
+ "75c245c618bc": {
+  "en": "Embassy badge: **1 amethyst**",
+  "t": "Distintivo da embaixada: **1 amethyst**"
+ },
+ "837a2e3714d6": {
+  "en": "**Tier I (cheap):** natural resources, fresh kills (kept with ice spells), paper.",
+  "t": "**Nível I (barato):** recursos naturais, caça fresca (conservada com magias de gelo), papel."
+ },
+ "867f568377cc": {
+  "en": "Forway cities pay 20% of their wealth, villages 15%, kingdoms 10%. A city or village whose debt to Forway reaches 50% of its estimated output gets a Forway battalion and new leaders.",
+  "t": "As cidades de Forway pagam 20% de sua riqueza, as aldeias 15%, os reinos 10%. Uma cidade ou aldeia cuja dívida com Forway chegue a 50% da produção estimada recebe um batalhão de Forway e novos líderes."
+ },
+ "870bda049229": {
+  "en": "**Living**",
+  "t": "**Dia a dia**"
+ },
+ "8b82f852e2e7": {
+  "en": "**Sapphire**",
+  "t": "**Sapphire**"
+ },
+ "9302c36ed2c4": {
+  "en": "Pearls are harvested by Cruros in Sanbi's swamps; the gems are mined ~1 km deep in the mountains between Flatland and Blood.",
+  "t": "As pearls são colhidas pelos Cruros nos pântanos de Sanbi; as gemas são extraídas a ~1 km de profundidade nas montanhas entre Flatland e Blood."
+ },
+ "93ef08cd9d2f": {
+  "en": "Lunar mapping: 20",
+  "t": "Mapeamento lunar: 20"
+ },
+ "942f15116991": {
+  "en": "Hostel bed: ~5 · Cheap meal + beer: ~5 · Bread bowl (eat it, then give it to the poor): 0–2",
+  "t": "Cama de albergue: ~5 · Refeição barata + cerveja: ~5 · Tigela de pão (coma, depois dê aos pobres): 0–2"
+ },
+ "9be133ff5aa9": {
+  "en": "The treaty bans mass production of goods unless a region holds a **comparative advantage** granted by Forway (renewed every 5 years, with price ceilings and quotas). Forway sits in every region.",
+  "t": "O tratado proíbe a produção em massa, a menos que uma região tenha uma **vantagem comparativa** concedida por Forway (renovada a cada 5 anos, com tetos de preço e cotas). Forway está em todas as regiões."
+ },
+ "9e9f34a821c9": {
+  "en": "Nari bombs: 10–30 per ~100 g · Nari gels: 25–750 per ~200 g (see Nari Gels)",
+  "t": "Bombas nari: 10–30 por ~100 g · Nari gels: 25–750 por ~200 g (veja Nari gels)"
+ },
+ "a4ee28f018d4": {
+  "en": "The farther goods travel, the more they cost. Goods are grouped by how much distance raises their price:",
+  "t": "Quanto mais longe uma mercadoria viaja, mais ela custa. As mercadorias são agrupadas pelo quanto a distância aumenta o preço:"
+ },
+ "ae29a4aea1aa": {
+  "en": "Guild registration: **1 sapphire**",
+  "t": "Registro de guilda: **1 sapphire**"
+ },
+ "b1b64468cfcc": {
+  "en": "Any embassy banks for you. Withdrawals and deposits take a few days while the embassy confirms with Forway. Loans are available (rates differ for individuals and guilds). Embassy **storage** delivers to any other embassy — slow, but the safest place to keep your stuff.",
+  "t": "Qualquer embaixada funciona como banco. Saques e depósitos levam alguns dias enquanto a embaixada confirma com Forway. Há empréstimos (com taxas diferentes para pessoas e guildas). O **depósito** da embaixada entrega em qualquer outra embaixada — é lento, mas é o lugar mais seguro para guardar suas coisas."
+ },
+ "bc2a30d07242": {
+  "en": "Worth",
+  "t": "Valor"
+ },
+ "c16544d2d14b": {
+  "en": "Food and beer, a hostel bed, a wagon ride, used clothes, paper and ink, cheap gear, weak nari gels",
+  "t": "Comida e cerveja, uma cama de albergue, uma viagem de carroça, roupas usadas, papel e tinta, equipamento barato, nari gels fracos"
+ },
+ "c20e7dd4b491": {
+  "en": "Banking",
+  "t": "Bancos"
+ },
+ "cad643bab0a2": {
+  "en": "Fundamental school: ~1 aquamarine · Specialized school (4 years, Forway): 5 sapphires",
+  "t": "Escola fundamental: ~1 aquamarine · Escola especializada (4 anos, Forway): 5 sapphires"
+ },
+ "d0d92880152e": {
+  "en": "**Services**",
+  "t": "**Serviços**"
+ },
+ "d81ba82fb77c": {
+  "en": "Ball",
+  "t": "Bola"
+ },
+ "db35edd34860": {
+  "en": "Price list (approximate, in pearls unless noted)",
+  "t": "Lista de preços (aproximados, em pearls salvo indicação)"
+ },
+ "de4fec2febae": {
+  "en": "10 aquamarines = 5,000 pearls",
+  "t": "10 aquamarines = 5.000 pearls"
+ },
+ "e012527b3542": {
+  "en": "Paper (10 sheets) ~1 · Wood People paper ~2 · Winga quill ~2 · Charcoal stick 0–2 / ~7 / refined ~30 · Journal (50 pages) ~35",
+  "t": "Papel (10 folhas) ~1 · Papel de Wood People ~2 · Pena de Winga ~2 · Bastão de carvão 0–2 / ~7 / refinado ~30 · Diário (50 páginas) ~35"
+ },
+ "e636d6e584c3": {
+  "en": "**Freeish region** (Freeish, Blood, Sweetlake, Deltacross, Triangle, Sundeath): flora and fauna.",
+  "t": "**Região de Freeish** (Freeish, Blood, Sweetlake, Deltacross, Triangle, Sundeath): flora e fauna."
+ },
+ "f0124f44434c": {
+  "en": "Sanbi kingdom post: 1 pearl flat",
+  "t": "Correio do reino de Sanbi: 1 pearl, preço único"
+ },
+ "f66d6e6ccbf6": {
+  "en": "Fost lamp (glows for ~a year in salt water): ~20",
+  "t": "Lâmpada fost (brilha por ~um ano em água salgada): ~20"
+ },
+ "f75c2441d72b": {
+  "en": "Distance cost tiers",
+  "t": "Níveis de custo por distância"
+ }
+}

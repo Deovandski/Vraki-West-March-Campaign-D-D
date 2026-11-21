@@ -2,6 +2,7 @@
 (function () {
   "use strict";
   const VW = (window.VW = window.VW || {});
+  const { __ } = VW.i18n;
 
   /* ---------------- small helpers ---------------- */
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -9,6 +10,7 @@
   const clamp = (n, a, b) => Math.max(a, Math.min(b, n));
   const num = (v, d) => { const n = parseFloat(v); return isFinite(n) ? n : (d == null ? 0 : d); };
   const encPath = (p) => p.split("/").map(encodeURIComponent).join("/");
+  // English-only helper kept for old callers; translated text uses __.n(n, "{n} day", "{n} days").
   const plural = (n, one, many) => n + " " + (n === 1 ? one : (many || one + "s"));
   VW.util = { esc, uid, clamp, num, encPath, plural };
 
@@ -27,9 +29,9 @@
   // Returns { total, parts:[{text, rolls, kept, value}], expr } or throws on bad input.
   function roll(expr) {
     const clean = String(expr || "").toLowerCase().replace(/\s+/g, "").replace(/−|–/g, "-").replace(/d%/g, "d100");
-    if (!clean) throw new Error("Type a roll, like 2d6+3.");
+    if (!clean) throw new Error(__("Type a roll, like 2d6+3."));
     if (!/^[+-]?(\d*d\d+(k[hl]\d+)?|\d+)([+-](\d*d\d+(k[hl]\d+)?|\d+))*$/.test(clean)) {
-      throw new Error("That doesn't look like a roll. Try 2d6+3, d20, or 4d6kh3.");
+      throw new Error(__("That doesn't look like a roll. Try 2d6+3, d20, or 4d6kh3."));
     }
     const terms = clean.match(/[+-]?[^+-]+/g);
     let total = 0;
@@ -68,7 +70,7 @@
       if (!p.rolls) return p.text;
       const kept = p.rolls.filter((v, i) => p.kept.includes(i));
       const dropped = p.rolls.filter((v, i) => !p.kept.includes(i));
-      return p.text + " [" + kept.join(", ") + (dropped.length ? "; dropped " + dropped.join(", ") : "") + "]";
+      return p.text + " [" + kept.join(", ") + (dropped.length ? __("; dropped {list}", { list: dropped.join(", ") }) : "") + "]";
     }).join(" ");
   }
   VW.dice = { die, roll, rollTotal, describe };
@@ -84,7 +86,7 @@
       trips: [], currentTrip: null,
       party: [],
       campaign: {
-        name: "My West March", date: { month: "Moacir", day: 1, year: 1042 },
+        name: __("My West March"), date: { month: "Moacir", day: 1, year: 1042 },
         mood: 1, moodLog: [], heat: 0, reputation: {}, log: [], notes: ""
       },
       player: { characters: [] },
@@ -140,8 +142,8 @@
 
   function importText(text) {
     let data;
-    try { data = JSON.parse(text); } catch (e) { throw new Error("That file isn't valid JSON."); }
-    if (!data || data.app !== "vraki-west-march") throw new Error("That file isn't a Vraki West March save.");
+    try { data = JSON.parse(text); } catch (e) { throw new Error(__("That file isn't valid JSON.")); }
+    if (!data || data.app !== "vraki-west-march") throw new Error(__("That file isn't a Vraki West March save."));
     state = upgrade(data);
     save(true);
     return state;

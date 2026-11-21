@@ -1,0 +1,322 @@
+{
+ "0210c2d7b398": {
+  "en": "yellow",
+  "t": "노랑"
+ },
+ "0290e9b5a8bb": {
+  "en": "The [#HusbandOutWorld repo](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map) has the full-resolution world map (with and without names), the metadata map (populations, altitudes, villages), a Sanbi city map, embassy art, and the global map of the western continent. The metadata map's kilometer labels are canon, but you don't need them at the table.",
+  "t": "[#HusbandOutWorld 저장소](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/World%20Map)에는 원본 해상도의 세계 지도(이름 있는 것과 없는 것), 메타데이터 지도(인구, 고도, 마을), 산비 도시 지도, 대사관 그림, 서쪽 대륙 전체 지도가 있다. 메타데이터 지도의 킬로미터 표기는 정사지만, 테이블에서는 필요 없다."
+ },
+ "0776b1ecc9bf": {
+  "en": "Tastyleaf",
+  "t": "테이스티리프"
+ },
+ "11577c2f2403": {
+  "en": "Wingarest",
+  "t": "윙가레스트"
+ },
+ "14d1d26ca726": {
+  "en": "green, grey, white, then grey up the east coast",
+  "t": "초록, 회색, 하양, 그다음 동쪽 해안을 따라 올라가는 회색"
+ },
+ "1b137c5ecaae": {
+  "en": "Deltacross",
+  "t": "델타크로스"
+ },
+ "1ec59d42d7b9": {
+  "en": "Sundeath",
+  "t": "선데스"
+ },
+ "289507905090": {
+  "en": "Forway",
+  "t": "포웨이"
+ },
+ "29aed0bbc0c3": {
+  "en": "light blue",
+  "t": "하늘색"
+ },
+ "2a8f515b1158": {
+  "en": "Buhraies Plains",
+  "t": "부라이에스 평원"
+ },
+ "2acc73d59453": {
+  "en": "The table map for the West March: the world map with **circles drawn along the roads and sea lanes connecting places**. Each road has its own colour so you can follow it across the map.",
+  "t": "웨스트 마치의 테이블용 지도: **장소를 잇는 길과 뱃길을 따라 서클이 그려진** 세계 지도. 길마다 색이 달라서 지도 위에서 따라갈 수 있다."
+ },
+ "2b51b722702b": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)",
+  "t": "[![브라키 웨스트 마치 여행 지도: 장소 사이의 길과 뱃길을 따라 색색의 서클이 그려진 세계 지도](web/west-march-map-2400.jpg)](Vraki%20World%20Map%20-%20West%20March.png)"
+ },
+ "2e4178e46288": {
+  "en": "orange",
+  "t": "주황"
+ },
+ "2f3b5167d79a": {
+  "en": "grey, across the lake to the north edge",
+  "t": "회색, 호수를 건너 북쪽 끝까지"
+ },
+ "325ff50ba847": {
+  "en": "On the map",
+  "t": "지도에서"
+ },
+ "3c5bbe37d12c": {
+  "en": "Endlessboil",
+  "t": "엔들리스보일"
+ },
+ "3eef871173ce": {
+  "en": "green",
+  "t": "초록"
+ },
+ "4aa393c4643f": {
+  "en": "**Full size, for printing:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png) (8000 × 4000, 34 MB). It's a 2:1 map: print it 24 × 12 in, 36 × 18 in or bigger.",
+  "t": "**인쇄용 원본 크기:** [Vraki World Map - West March.png](Vraki%20World%20Map%20-%20West%20March.png)(8000 × 4000, 34 MB). 가로세로 2:1 지도이니 24 × 12인치, 36 × 18인치, 또는 그보다 크게 인쇄하라."
+ },
+ "4b8f1731c75e": {
+  "en": "Maps",
+  "t": "지도"
+ },
+ "4d005acc69ee": {
+  "en": "Cruro",
+  "t": "크루로"
+ },
+ "4d16271e833b": {
+  "en": "SweetLake",
+  "t": "스위트레이크"
+ },
+ "4d82c9663dd3": {
+  "en": "grey, past Forway's lighthouse",
+  "t": "회색, 포웨이 등대를 지나"
+ },
+ "5396de0fb3a7": {
+  "en": "white, then grey",
+  "t": "하양, 그다음 회색"
+ },
+ "5475a939ba73": {
+  "en": "Blood",
+  "t": "블러드"
+ },
+ "5bd15f9645ff": {
+  "en": "Off the edge of the map",
+  "t": "지도 가장자리 너머"
+ },
+ "5fd86e8c3566": {
+  "en": "Hifuna & the Far North",
+  "t": "히푸나와 먼 북쪽"
+ },
+ "60cf22944d47": {
+  "en": "south-west, along the coast",
+  "t": "남서쪽, 해안을 따라"
+ },
+ "60f0853dfedc": {
+  "en": "Waterfall",
+  "t": "워터폴"
+ },
+ "65d4ab386238": {
+  "en": "A white lane also branches south from the Sanbi–Endlessfog lane (where it meets the Triangle lane) and ends in open sea after 11 circles.",
+  "t": "산비–엔들리스포그 뱃길에서도(트라이앵글 뱃길과 만나는 곳) 하얀 뱃길 하나가 남쪽으로 갈라져, 11서클 뒤 먼바다에서 끝난다."
+ },
+ "6637b6dc488e": {
+  "en": "World maps",
+  "t": "세계 지도"
+ },
+ "67907200c248": {
+  "en": "Route lengths",
+  "t": "경로 길이"
+ },
+ "6a0cd3e160c1": {
+  "en": "Sea & Islands",
+  "t": "바다와 섬"
+ },
+ "6aca866c257c": {
+  "en": "grey",
+  "t": "회색"
+ },
+ "6bdf0cf5986c": {
+  "en": "white",
+  "t": "하양"
+ },
+ "700f74a121a9": {
+  "en": "Freeish",
+  "t": "프리이시"
+ },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "푸레어"
+ },
+ "755e2c251f07": {
+  "en": "Forway Plains & Roads",
+  "t": "포웨이 평원과 길"
+ },
+ "75b7861847ca": {
+  "en": "**For screens:** [2400 px](web/west-march-map-2400.jpg) and [5000 px](web/west-march-map-5000.jpg) copies. The website has the map with zoom and pan.",
+  "t": "**화면용:** [2400 px](web/west-march-map-2400.jpg)와 [5000 px](web/west-march-map-5000.jpg) 사본. 웹사이트에서는 확대와 이동이 되는 지도를 볼 수 있다."
+ },
+ "7728dc17a25b": {
+  "en": "Ganyrami",
+  "t": "가니라미"
+ },
+ "7d3b26f4e651": {
+  "en": "green, grey, then white",
+  "t": "초록, 회색, 그다음 하양"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "산비"
+ },
+ "89dcb7fbc781": {
+  "en": "Circles to the edge",
+  "t": "가장자리까지의 서클"
+ },
+ "8ae5de71fd4b": {
+  "en": "Circles",
+  "t": "서클"
+ },
+ "8ecfabb247b2": {
+  "en": "green, then grey",
+  "t": "초록, 그다음 회색"
+ },
+ "8f7eaa47ff4e": {
+  "en": "Old Fuhrair",
+  "t": "올드 푸레어"
+ },
+ "9101cd941d28": {
+  "en": "south",
+  "t": "남쪽"
+ },
+ "96a74ffac375": {
+  "en": "How to use it",
+  "t": "사용법"
+ },
+ "96b26d6615f5": {
+  "en": "Gandew",
+  "t": "간듀"
+ },
+ "96f4b2f66f2b": {
+  "en": "Tolerideme",
+  "t": "톨레리데메"
+ },
+ "9d508eab4816": {
+  "en": "light blue, to the north edge",
+  "t": "하늘색, 북쪽 끝까지"
+ },
+ "9db4f13ef375": {
+  "en": "Endlessfog",
+  "t": "엔들리스포그"
+ },
+ "9e261a7d148e": {
+  "en": "How many circles each road or sea lane on the map takes. For a trip through several places, add up the legs (Forway → Sanbi → Cruro is 6 + 10 = 16 circles). The encounter table is a suggestion for which [Events & Encounters](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md) table to roll on; switch it when a trip crosses into other country.",
+  "t": "지도의 길이나 뱃길마다 서클이 몇 개인지. 여러 곳을 거치는 여행이라면 구간을 더한다(포웨이 → 산비 → 크루로는 6 + 10 = 16서클). 조우 표 칸은 [이벤트와 조우](../D&D%20Campaign/07%20-%20Events%20&%20Encounters.md)의 어느 표를 굴릴지에 대한 제안이다. 여행이 다른 지역으로 넘어가면 바꿔라."
+ },
+ "9fbaa09bcb9c": {
+  "en": "east, toward Newland",
+  "t": "동쪽, 뉴랜드 방향"
+ },
+ "9fc7f48b1088": {
+  "en": "Full rules: [Travel by Circles](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md).",
+  "t": "전체 규칙: [서클로 여행하기](../D&D%20Campaign/01%20-%20Travel%20by%20Circles.md)."
+ },
+ "a0e98cadf6bf": {
+  "en": "**Count the circles** between where the party is and where it's going. Count every circle on the way. A circle next to a town counts for every road that leaves from it, and where two roads share circles (like the two green circles just north of Sanbi), count them on both.",
+  "t": "일행이 있는 곳부터 가려는 곳까지 **서클을 세라**. 가는 길의 서클은 모두 센다. 마을 옆의 서클은 그곳에서 나가는 모든 길에 포함되고, 두 길이 서클을 같이 쓰는 곳(산비 바로 북쪽의 초록 서클 두 개처럼)은 양쪽 길에서 다 센다."
+ },
+ "a35ba9a0312e": {
+  "en": "**Keep a shared copy** and mark the circles your parties have traveled or explored. DMs can draw new circles as parties push into unknown land.",
+  "t": "**공유 사본을 두고**, 일행들이 지나가거나 탐험한 서클에 표시하라. 일행이 미지의 땅으로 들어가면 DM이 새 서클을 그려 넣어도 된다."
+ },
+ "a522d847927c": {
+  "en": "Hifuna",
+  "t": "히푸나"
+ },
+ "a7f53e96f0a7": {
+  "en": "Encounter table",
+  "t": "조우 표"
+ },
+ "af8b4adcaa37": {
+  "en": "Desert",
+  "t": "사막"
+ },
+ "b6013f8a5440": {
+  "en": "Heading",
+  "t": "방향"
+ },
+ "b828d5ecbb59": {
+  "en": "Sanbi Coast & Swamps",
+  "t": "산비 해안과 늪"
+ },
+ "b84d62d2586b": {
+  "en": "The West March travel map",
+  "t": "웨스트 마치 여행 지도"
+ },
+ "b850a37c5ce5": {
+  "en": "blue",
+  "t": "파랑"
+ },
+ "b99b14ddd8ba": {
+  "en": "grey, along the south coast",
+  "t": "회색, 남쪽 해안을 따라"
+ },
+ "ba1c35e14ad0": {
+  "en": "green, then light blue",
+  "t": "초록, 그다음 하늘색"
+ },
+ "bbeeed41a1f0": {
+  "en": "**Each circle is 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer. Forway to Sanbi is 6 circles: 6 days at Fast, 12 at Standard, 18 at Slow.",
+  "t": "**서클 하나는 여행 1일, 2일, 3일이다. DM이 여행마다 고른다**. 그렇게 여정을 짧게도 길게도 만든다. 포웨이에서 산비까지는 6서클: 빠름이면 6일, 보통이면 12일, 느림이면 18일."
+ },
+ "bd487b0038b7": {
+  "en": "purple",
+  "t": "보라"
+ },
+ "bddaa0abb34e": {
+  "en": "Map © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "지도 © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
+ "c173d239b293": {
+  "en": "yellow, then orange",
+  "t": "노랑, 그다음 주황"
+ },
+ "c6154c9d7a78": {
+  "en": "From",
+  "t": "출발지"
+ },
+ "c70adeb9a7f1": {
+  "en": "These lanes run off the map. The count is to the edge; the DM decides how far the rest is.",
+  "t": "이 뱃길들은 지도 밖으로 이어진다. 개수는 가장자리까지이고, 나머지가 얼마나 되는지는 DM이 정한다."
+ },
+ "cba0eaef0185": {
+  "en": "red",
+  "t": "빨강"
+ },
+ "d0a6dcecf386": {
+  "en": "orange, then grey",
+  "t": "주황, 그다음 회색"
+ },
+ "da02cfd46fa7": {
+  "en": "Freeish Forests",
+  "t": "프리이시 숲"
+ },
+ "e5512f4a91e6": {
+  "en": "Flatland",
+  "t": "플랫랜드"
+ },
+ "e563cba00f30": {
+  "en": "Triangle",
+  "t": "트라이앵글"
+ },
+ "ec7334a81392": {
+  "en": "grey, down the east coast",
+  "t": "회색, 동쪽 해안을 따라 내려가며"
+ },
+ "f5aea10a8548": {
+  "en": "To",
+  "t": "목적지"
+ },
+ "f669e2224c59": {
+  "en": "west",
+  "t": "서쪽"
+ },
+ "fcd11baaa769": {
+  "en": "Bahyum",
+  "t": "바혐"
+ }
+}

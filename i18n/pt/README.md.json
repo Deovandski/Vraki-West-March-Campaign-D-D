@@ -1,0 +1,290 @@
+{
+ "0112f36bf6be": {
+  "en": "[Handouts](Handouts)",
+  "t": "[Materiais](Handouts)"
+ },
+ "0190b78901dd": {
+  "en": "The website: Player and DM sections, dice, calculators, the travel planner and trackers",
+  "t": "O site: seções de jogador e de Mestre, dados, calculadoras, o planejador de viagens e os acompanhamentos"
+ },
+ "04c92d39e690": {
+  "en": "An open table! Instead of one fixed party, a pool of players schedule their own sessions, form whatever party shows up that day, and head out from a shared home base into a dangerous, persistent world. Whatever one party discovers, maps, kills, or pisses off stays that way for everyone else.",
+  "t": "Uma mesa aberta! Em vez de um grupo fixo, um conjunto de jogadores marca as próprias sessões, forma o grupo que aparecer naquele dia e parte de uma base compartilhada para um mundo perigoso e persistente. O que um grupo descobre, mapeia, mata ou irrita fica assim para todos os outros."
+ },
+ "05697a41f6ff": {
+  "en": "LanguagePicker",
+  "t": "LanguagePicker"
+ },
+ "0716d7f32e4c": {
+  "en": "Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nDMs: start with the [DM Guide](D&D%20Campaign/README.md).",
+  "t": "Jogadores: leiam [O mundo num relance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) e [Criando um aventureiro](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nMestres: comecem pelo [Guia do Mestre](D&D%20Campaign/README.md)."
+ },
+ "08aa70078857": {
+  "en": "[units.js](site/js/units.js), [units.css](site/css/units.css)",
+  "t": "[units.js](site/js/units.js), [units.css](site/css/units.css)"
+ },
+ "0c5d399fed82": {
+  "en": "**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.",
+  "t": "**Vraki** é a língua comum deste mundo, a escrita em que ela é escrita e o nome desta campanha. Começou antes dos romances: em 2017, Deovandski fez um pequeno aplicativo de Windows que invertia, deslocava e reestruturava o inglês até parecer uma língua nova. Esse projeto virou o sistema de escrita de #HusbandOutWorld e a fonte Vraki usada nos materiais daqui. Experimente o conversor no navegador, baixe a fonte e leia como tudo começou em **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**."
+ },
+ "0cdd6742a8e5": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](Maps/web/west-march-map-2400.jpg)](Maps)",
+  "t": "[![O mapa de viagem da West March de Vraki: o mapa do mundo com círculos coloridos ao longo das estradas e rotas marítimas entre os lugares](Maps/web/west-march-map-2400.jpg)](Maps)"
+ },
+ "110ec66be1d2": {
+  "en": "What's inside",
+  "t": "O que tem dentro"
+ },
+ "1149c0b97c1a": {
+  "en": "What is this?",
+  "t": "O que é isto?"
+ },
+ "1edf385a3514": {
+  "en": "The campaign takes place **in the world** of the light novels, but it is **not tied to their story**. The famous characters exist and might show up as NPCs or rumors, but the West March has its own adventures, set by default in the 1040s A.G.",
+  "t": "A campanha se passa **no mundo** das light novels, mas **não está presa à história delas**. Os personagens famosos existem e podem aparecer como PdMs ou boatos, mas a West March tem suas próprias aventuras, por padrão nos anos 1040 A.G."
+ },
+ "20ea0ece43c0": {
+  "en": "What is Vraki?",
+  "t": "O que é Vraki?"
+ },
+ "224f2cccc328": {
+  "en": "Printable props: quest board, wanted posters, Forway News, blood contract, badge cards, Winga mail, Castle Mood sign, revival debt certificate, shop price list, expedition reports and a player reference card",
+  "t": "Adereços para imprimir: quadro de missões, cartazes de procurado, Forway News, contrato de sangue, cartões de distintivo, correio Winga, placa do humor do castelo, certificado de dívida de reanimação, tabela de preços da loja, relatórios de expedição e um cartão de referência para jogadores"
+ },
+ "25c0110d6a16": {
+  "en": "Where do I start?",
+  "t": "Por onde eu começo?"
+ },
+ "2ccd08691e12": {
+  "en": "© Deovandski Skibinski Junior. *A Husband Out of This World* and *#HusbandOutWorld* are trademarks of Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the Vraki typeface and third-party files (see [LICENSE.md](LICENSE.md) for copyright, trademarks and fonts).",
+  "t": "© Deovandski Skibinski Junior. *A Husband Out of This World* e *#HusbandOutWorld* são marcas de Deovandski Skibinski Junior. Licenciado sob CC‑BY‑NC‑SA‑4.0, exceto a fonte Vraki e os arquivos de terceiros (veja [LICENSE.md](LICENSE.md) para direitos autorais, marcas e fontes)."
+ },
+ "2e9aa1ffc00c": {
+  "en": "PWA helper",
+  "t": "Ajudante de PWA"
+ },
+ "2fd368d85007": {
+  "en": "Are you a publisher?",
+  "t": "Você é editora?"
+ },
+ "303285f1c903": {
+  "en": "Reusable components",
+  "t": "Componentes reutilizáveis"
+ },
+ "3049af2c766e": {
+  "en": "Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).",
+  "t": "Vídeos monetizados, lives e posts em redes sociais sobre a série são bem-vindos, assim como lives e impressões 3D feitas a partir dos arquivos-fonte: é só dar o crédito. Qualquer outro uso comercial precisa de aprovação antes. Veja [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license)."
+ },
+ "399292953438": {
+  "en": "[D&D Campaign](D&D%20Campaign)",
+  "t": "[Campanha de D&D](D&D%20Campaign)"
+ },
+ "3c46db3d64a0": {
+  "en": "Travel without math",
+  "t": "Viajar sem fazer contas"
+ },
+ "3e5affaa407b": {
+  "en": "The world, its lore, characters and the Vraki font are human-made by Deovandski Skibinski Junior, and all the art is by the series' illustrators, Mitsukiven and Feiourm; there are no AI-generated images. Much of the West March writing (the World Lore summary, most rules, new stat blocks and the handouts) and the website were made with an AI assistant from that material. The [AI Disclosure](AI-DISCLOSURE.md) lists exactly what came from where, file by file.",
+  "t": "O mundo, a ambientação, os personagens e a fonte Vraki são obra humana de Deovandski Skibinski Junior, e toda a arte é dos ilustradores da série, Mitsukiven e Feiourm; não há imagens geradas por IA. Boa parte dos textos da West March (o resumo da ambientação, a maioria das regras, as fichas de estatísticas novas e os materiais) e o site foram feitos com um assistente de IA a partir desse material. A [declaração sobre IA](AI-DISCLOSURE.md) lista exatamente de onde veio cada coisa, arquivo por arquivo."
+ },
+ "3f23f466c801": {
+  "en": "What is a West Marches campaign?",
+  "t": "O que é uma campanha West Marches?"
+ },
+ "41211c3fa4c4": {
+  "en": "DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, the bandits' \"Inside Job\" offer, dangerous places, factions, stat blocks, pre-gens, DM secrets",
+  "t": "Guia do Mestre, viajar por círculos, criação de personagens, regras de energia da alma, géis de nari, dívida de reanimação, quadro de missões, encontros, a oferta do «Trabalho Interno» dos bandidos, lugares perigosos, facções, fichas de estatísticas, pré-gerados, segredos do Mestre"
+ },
+ "4df7a2e30816": {
+  "en": "Files",
+  "t": "Arquivos"
+ },
+ "51f0f55d762f": {
+  "en": "What it is",
+  "t": "O que é"
+ },
+ "553e1288d5d7": {
+  "en": "Vraki West March Campaign D&D",
+  "t": "Vraki West March, campanha de D&D"
+ },
+ "5595e0b4daa9": {
+  "en": "Go for it! If you host a game, let us know! Love to see pics!",
+  "t": "Vá em frente! Se você mestrar uma partida, conte para a gente! Adoramos ver fotos!"
+ },
+ "5c155fa3d212": {
+  "en": "SPOILER WARNING!",
+  "t": "ALERTA DE SPOILER!"
+ },
+ "5c692fa7cfb4": {
+  "en": "The whole site (save menu, handouts, travel map)",
+  "t": "O site inteiro (menu de salvar, materiais, mapa de viagem)"
+ },
+ "5d0f2d28ff65": {
+  "en": "MapViewer",
+  "t": "MapViewer"
+ },
+ "61d63b63c205": {
+  "en": "No distances, no Egua speeds, no load percentages. The [travel map](Maps) has circles drawn along the roads and sea lanes connecting places; **each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make a journey shorter or longer. Forway to Sanbi is 6 circles (6, 12 or 18 days), Forway to Flatland 7, Sanbi to Endlessfog 13 by sea, and Gandew to Sundeath 19 across the desert. The [Maps page](Maps#route-lengths) lists every route.",
+  "t": "Nada de distâncias, velocidades de Egua ou porcentagens de carga. O [mapa de viagem](Maps) tem círculos desenhados ao longo das estradas e rotas marítimas que ligam os lugares; **cada círculo representa 1, 2 ou 3 dias de viagem — o Mestre escolhe**, para deixar a jornada mais curta ou mais longa. De Forway a Sanbi são 6 círculos (6, 12 ou 18 dias), de Forway a Flatland 7, de Sanbi a Endlessfog 13 por mar e de Gandew a Sundeath 19 atravessando o deserto. A [página de mapas](Maps#route-lengths) lista todas as rotas."
+ },
+ "6243e12dcf21": {
+  "en": "Used on",
+  "t": "Onde é usado"
+ },
+ "65130f580db8": {
+  "en": "Are you an artist, illustrator, etc?",
+  "t": "Você é artista, ilustrador etc.?"
+ },
+ "6a00c4549f0b": {
+  "en": "This repo is a West Marches style D&D 5e campaign set in the world of the #HusbandOutWorld series. The World Lore summary and the DM files reveal secrets of the world, including some from unreleased story notes.",
+  "t": "Este repositório é uma campanha de D&D 5e no estilo West Marches ambientada no mundo da série #HusbandOutWorld. O resumo da ambientação e os arquivos do Mestre revelam segredos do mundo, inclusive alguns de notas de história ainda não publicadas."
+ },
+ "6b683f423188": {
+  "en": "Create an issue or feel free to send a PR!",
+  "t": "Abra uma issue ou fique à vontade para mandar um PR!"
+ },
+ "71df4c634c8d": {
+  "en": "A list of languages to choose from, each written in its own language and script (with `lang` and `dir` set), plus how complete each translation is. Arrow keys move between them. Saves the choice and reloads, or hands it to your own code through a `langpick` event. Set up from data attributes; no libraries. Written after the language menu in HusbandOutWorld's settings.",
+  "t": "Uma lista de idiomas para escolher, cada um escrito na própria língua e escrita (com `lang` e `dir`), mais o quanto cada tradução está completa. As setas do teclado passam de um para outro. Salva a escolha e recarrega, ou entrega a escolha ao seu próprio código por um evento `langpick`. Configurado por atributos de dados; sem bibliotecas. Feito a partir do menu de idiomas das configurações de HusbandOutWorld."
+ },
+ "7253091964c0": {
+  "en": "The Four Kingdoms were practically built for it: Forway's embassies already run a quest board, a ranking system from Pearl to Sapphire, revival services (for a fee, of course), and a decentralized army of adventurers deep in debt. Pick up a quest, sign the contract in blood, and try not to come back as Walking Flesh.",
+  "t": "Os Quatro Reinos foram praticamente feitos para isso: as embaixadas de Forway já têm um quadro de missões, um sistema de patentes de Pearl a Sapphire, serviços de reanimação (pagos, claro) e um exército descentralizado de aventureiros afundados em dívidas. Pegue uma missão, assine o contrato com sangue e tente não voltar como Walking Flesh."
+ },
+ "763a23d69043": {
+  "en": "Units",
+  "t": "Units"
+ },
+ "773391089b63": {
+  "en": "Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a \"how far is it?\" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).",
+  "t": "Leia tudo e use as ferramentas de mesa em **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. Tem uma seção de jogador e uma de Mestre, busca nas regras e na ambientação, uma bandeja de dados, calculadoras, o mapa de viagem com zoom e um localizador de rotas «qual é a distância?», um planejador de viagens que conta os círculos por você e mostra cada viagem círculo a círculo e turno a turno (com eventos, lutas e HP), acompanhamento do grupo e da campanha, e arquivos de salvamento que você baixa e carrega de novo. Instala como aplicativo no celular e funciona offline na mesa. [Como o site funciona](site/README.md)."
+ },
+ "77920fb913b0": {
+  "en": "[Maps](Maps)",
+  "t": "[Mapas](Maps)"
+ },
+ "7dec5ba6230f": {
+  "en": "PhotoViewer",
+  "t": "PhotoViewer"
+ },
+ "80b07d3b198f": {
+  "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
+  "t": "Uma campanha completa e independente: um resumo da ambientação do mundo, regras para conduzir uma West March de mesa aberta, mapas de viagem, missões, encontros, fichas de estatísticas e aventureiros pré-gerados. Você não precisa de nada do repositório principal de #HusbandOutWorld para jogar."
+ },
+ "950f7ced1047": {
+  "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
+  "t": "Configurações (⚙) na barra de cima; todas as páginas e ferramentas; os materiais traduzidos"
+ },
+ "9570499669fd": {
+  "en": "Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!",
+  "t": "Fique à vontade para explorar. Se tiver qualquer dúvida, fale com a gente. Estamos abertos a colaborações e publicações cruzadas!"
+ },
+ "973414ba2732": {
+  "en": "Makes a site an installable app that works offline: registers the service worker and runs an \"Install as an app\" button, the iPhone \"Add to Home Screen\" hint, an offline status line and \"save these files for offline\" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski).",
+  "t": "Transforma um site num aplicativo instalável que funciona offline: registra o service worker e controla um botão «Instalar como aplicativo», a dica de «Adicionar à Tela de Início» do iPhone, uma linha de status offline e botões de «salvar estes arquivos para uso offline». Configurado por atributos de dados; use junto com um service worker como [sw.js](sw.js) (adaptado de Deovandski/Deovandski)."
+ },
+ "a0ae90bcaaa5": {
+  "en": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)",
+  "t": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)"
+ },
+ "a2529d5bbddf": {
+  "en": "[lang-picker.js](site/js/lang-picker.js), [lang-picker.css](site/css/lang-picker.css)",
+  "t": "[lang-picker.js](site/js/lang-picker.js), [lang-picker.css](site/css/lang-picker.css)"
+ },
+ "a2e834c3246b": {
+  "en": "Are you a D&D DM and want to run this campaign?",
+  "t": "Você é Mestre de D&D e quer conduzir esta campanha?"
+ },
+ "aabdd3471942": {
+  "en": "Settings (⚙) in the top bar",
+  "t": "Configurações (⚙) na barra de cima"
+ },
+ "ac1b79b79ee4": {
+  "en": "The West March travel map (circles along the roads and sea lanes), how many circles every route takes, and links to the world maps",
+  "t": "O mapa de viagem da West March (círculos ao longo das estradas e rotas marítimas), quantos círculos cada rota ocupa e links para os mapas do mundo"
+ },
+ "aff8b55f5ee0": {
+  "en": "Folder",
+  "t": "Pasta"
+ },
+ "b27442511a10": {
+  "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
+  "t": "Mostra as distâncias em pés e milhas ou em metros e quilômetros (`30 ft` → `9 m`, `1 mile` → `1.5 km`, a conversão métrica de D&D), em textos em inglês, espanhol, português, japonês, chinês, coreano ou árabe, com um seletor para trocar. Converte uma parte da página e tudo o que for adicionado depois, e ao voltar o texto original reaparece. Configurado por atributos de dados; sem bibliotecas."
+ },
+ "bbfcf52145f8": {
+  "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",
+  "t": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)"
+ },
+ "beab13b7fe02": {
+  "en": "The whole site",
+  "t": "O site inteiro"
+ },
+ "bf6840167bfd": {
+  "en": "Travel map page, the Maps page",
+  "t": "Página do mapa de viagem, a página de mapas"
+ },
+ "c1cde754c253": {
+  "en": "Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals",
+  "t": "Resumo do mundo: calendário, dinheiro, leis, povos, reinos, cidades, facções, energia da alma, géis de nari, feras, história, gente famosa, comida e festas"
+ },
+ "cc5640254b75": {
+  "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",
+  "t": "Visualizador com zoom e arraste para uma imagem grande: arrastar, pinçar, Ctrl + rolagem, teclado, tela cheia e uma cópia mais nítida carregada ao aproximar. Configurado por atributos de dados; sem bibliotecas."
+ },
+ "d181774a8c61": {
+  "en": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), the `<dialog id=\"photo-viewer\">` in [index.html](index.html)",
+  "t": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), o `<dialog id=\"photo-viewer\">` em [index.html](index.html)"
+ },
+ "d7cd62355106": {
+  "en": "The site also comes in 中文, 日本語, Português, Español, العربية and 한국어: pick one under Settings (⚙) in the top bar. These are AI translations of the English, made ahead of time; English stays the original. [How the translations work](i18n/README.md).",
+  "t": "O site também está em 中文, 日本語, Português, Español, العربية e 한국어: escolha um em Configurações (⚙), na barra de cima. São traduções do inglês feitas por IA com antecedência; o inglês continua sendo o original. [Como as traduções funcionam](i18n/README.md)."
+ },
+ "e0c47275e609": {
+  "en": "[site](site)",
+  "t": "[site](site)"
+ },
+ "e254d556a300": {
+  "en": "Every picture opens bigger when pressed (handouts, the reference card, pictures in pages), with its caption and its date when there is one; ‹ › between pictures. Keeps working as pages are drawn. Ported from Deovandski/Deovandski by way of HusbandOutWorld.",
+  "t": "Qualquer imagem abre maior ao ser tocada (os materiais, o cartão de referência, as imagens nas páginas), com legenda e data quando houver; ‹ › para passar entre elas. Continua funcionando quando as páginas são redesenhadas. Adaptado de Deovandski/Deovandski por meio do HusbandOutWorld."
+ },
+ "e31a355d960b": {
+  "en": "Spot something wrong, or want to make a change?",
+  "t": "Viu algo errado ou quer mudar alguma coisa?"
+ },
+ "e8443b75865e": {
+  "en": "Component",
+  "t": "Componente"
+ },
+ "ee3d2570ab0b": {
+  "en": "Use it as a website",
+  "t": "Use como site"
+ },
+ "f138884c20e3": {
+  "en": "[World Lore](World%20Lore)",
+  "t": "[Ambientação do mundo](World%20Lore)"
+ },
+ "f173e4db6d27": {
+  "en": "Read the light novel and explore the lore at **[HusbandOutWorld.com](https://www.husbandoutworld.com)**. It starts with fewer spoilers, and a Behind The Scenes switch adds the author's full notes.",
+  "t": "Leia a light novel e explore a ambientação em **[HusbandOutWorld.com](https://www.husbandoutworld.com)**. Começa com menos spoilers, e uma chave de Behind The Scenes acrescenta as notas completas do autor."
+ },
+ "f34742d2cac0": {
+  "en": "Want to learn more about the series?",
+  "t": "Quer saber mais sobre a série?"
+ },
+ "f45e889dd1bb": {
+  "en": "Pieces of the website built to be reused here or in other projects (see [CLAUDE.md](CLAUDE.md)):",
+  "t": "Partes do site feitas para serem reutilizadas aqui ou em outros projetos (veja [CLAUDE.md](CLAUDE.md)):"
+ },
+ "f4ac64dae85a": {
+  "en": "What's AI-assisted here?",
+  "t": "O que tem ajuda de IA aqui?"
+ },
+ "f8b3f111065d": {
+  "en": "Want to reach out to the author? We’re open to a copyright/trademark transfer for an Omnibus vol or other publishing ideas, including a new version through a ghostwriter. Reach out on [LinkedIn](https://www.linkedin.com/in/deovandski/) or email [Deovandski@outlook.com](mailto:Deovandski@outlook.com) for more info!",
+  "t": "Quer falar com o autor? Estamos abertos a uma transferência de direitos autorais e de marca para um volume ômnibus ou outras ideias de publicação, inclusive uma nova versão com um ghostwriter. Fale com a gente pelo [LinkedIn](https://www.linkedin.com/in/deovandski/) ou pelo e-mail [Deovandski@outlook.com](mailto:Deovandski@outlook.com) para saber mais!"
+ },
+ "fea886aea96d": {
+  "en": "The originals (the novels, the full raw World Lore, every illustration, the spreadsheets and fonts) live in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy).",
+  "t": "Os originais (os romances, a ambientação completa sem edição, todas as ilustrações, as planilhas e as fontes) ficam na [pasta Legacy](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy) do repositório principal."
+ }
+}
