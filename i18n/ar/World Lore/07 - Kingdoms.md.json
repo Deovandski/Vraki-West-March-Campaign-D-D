@@ -7,6 +7,10 @@
   "en": "**Threats.** Cruros if they grow too many; the True Sanbi King fish if the pact breaks.",
   "t": "**الأخطار.** الكرورو إن كثروا أكثر من اللازم؛ وسمكة ملك سانبي الحقيقي إن انكسر الميثاق."
  },
+ "0a9703a8ac34": {
+  "en": "**Guards.** \"Dollar-store Forway guards\" in bone-wood armor — but brave, with short swords hidden in forearm sleeves, nari bombs to close distance, and reflexes trained on hallucinogens since childhood.",
+  "t": "**الحراس.** «حراس فورواي من محل أبو عشرة» بدروع من خشب العظم — لكنهم شجعان، بسيوف قصيرة مخبأة في أكمام السواعد، وقنابل ناري لتقليص المسافة، وردود فعل مدرَّبة بالمهلوسات منذ الطفولة."
+ },
  "0f8289ba916f": {
   "en": "**Guards.** Heavy chitin armor, blunt weapons, often alone, helmets that lock their tusks shut (silent servitude).",
   "t": "**الحراس.** دروع ثقيلة من الكيتين، وأسلحة راضّة، وكثيرًا ما يكونون منفردين، وخوذات تقفل أنيابهم (خدمة صامتة)."
@@ -31,9 +35,17 @@
   "en": "Tolerideme (Toleridemian) — atop the Buhraies Plains",
   "t": "توليريديمي (التوليريديميون) — فوق سهول بورايس"
  },
+ "2beed40dd0c5": {
+  "en": "**Marriage.** Propose with a bundle of fruit in the village plaza; married in front of the village leader; locals get a free guild.",
+  "t": "**الزواج.** اطلب اليد بحزمة فاكهة في ساحة القرية؛ ويُعقد الزواج أمام قائد القرية؛ ويحصل أهل البلد على نقابة مجانًا."
+ },
  "2c6c29d68caf": {
   "en": "**People.** They revere the **Three Smart Ladies** (Evedyn, Everyn and Evelyn), who raised the kingdom from nothing with soul energy farming and fish-meal-plus-poop fertilizer. Being fat is a status symbol; hats show profession and wealth. Honest, blunt, loud, **never haggle** (the stated price is the fair price), do exactly what the contract says, **punctual to the minute**, and use soul energy instead of muscle whenever possible. Communal toilets (it's all fertilizer). Hours-long toasting rituals where a toastmaster raises glasses with magic. **No marriage**: adults do as they please (orgies aren't rare), but parents must raise any child together by law. Names are English and always have an **even number of letters**, usually 4 or 6.",
   "t": "**الناس.** يُجلّون **السيدات الذكيات الثلاث** (إيفيدين وإيفرين وإيفلين)، اللواتي بنين المملكة من لا شيء بزراعة طاقة الروح وسماد من مسحوق السمك والبراز. البدانة رمز للمكانة؛ والقبعات تدل على المهنة والثروة. شرفاء، فظّون، صاخبون، **لا يساومون أبدًا** (السعر المعلن هو السعر العادل)، ينفذون ما ينص عليه العقد بالضبط، **دقيقون بالدقيقة**، ويستخدمون طاقة الروح بدل العضلات كلما أمكن. مراحيض جماعية (فكلها سماد). طقوس أنخاب تستمر ساعات يرفع فيها عريف الأنخاب الكؤوس بالسحر. **لا زواج**: يفعل البالغون ما يشاؤون (الحفلات الماجنة ليست نادرة)، لكن القانون يُلزم الوالدين بتربية أي طفل معًا. الأسماء إنجليزية ودائمًا ذات **عدد زوجي من الحروف**، عادة 4 أو 6."
+ },
+ "2ed24d74cb29": {
+  "en": "**People.** Two village groups: the **Soil Group** (inner villages; farming and fishing; protective of Trunk People) and the **Blood Group** (outer villages; hunting; fighters; dislike Trunk People). They're warm to their own and think their village is best — and lately they've started fighting. Sprawling, flat towns where you need an Egua (or 20,000 steps a day); Trunk People light the roads from old soul-wood trees; giant scented flowers everywhere. Names sound Brazilian; people go by their village. \"Meet the darkness\" means to die. **FoodShare** couriers carry meals between villages.",
+  "t": "**الناس.** مجموعتان من القرى: **مجموعة التربة** (القرى الداخلية؛ زراعة وصيد سمك؛ يحمون الترانك بيبول) و**مجموعة الدم** (القرى الخارجية؛ صيد؛ مقاتلون؛ يكرهون الترانك بيبول). دافئون مع أهلهم ويرون قريتهم الأفضل — وقد بدأوا يتقاتلون مؤخرًا. بلدات منبسطة مترامية تحتاج فيها إلى إيغوا (أو 20,000 خطوة في اليوم)؛ الترانك بيبول يضيئون الطرق من أشجار خشب الروح القديمة؛ وأزهار عملاقة عطرة في كل مكان. الأسماء تبدو برازيلية؛ ويُعرَّف الناس بقراهم. «لقاء الظلام» يعني الموت. سعاة **فود شير** ينقلون الوجبات بين القرى."
  },
  "3afa2a01e350": {
   "en": "**Economy.** Dried fish, Sanbi-scale clothing, fish meal and fish oil, salt, some fost stones, trade with Cruros.",
@@ -119,6 +131,10 @@
   "en": "**Festivals.** **Weapon Fest** (Adrian), **King Fest** (Asa). **Burial:** cremation; bones washed in mountain sand and kept in an urn.",
   "t": "**المهرجانات.** **مهرجان السلاح** (أدريان)، و**مهرجان الملك** (آسا). **الدفن:** حرق؛ تُغسل العظام برمل الجبل وتُحفظ في جرّة."
  },
+ "9c43af1f5b2a": {
+  "en": "**Food.** Grilled Fihi with Rakuja sauce (5), Cadioca with fried fish and Domar Gyut (~14), Freeish salad bowl (9), Basi pulp (~5), roasted greenbread beans (5), Culuim street food (1–10), Nicabread sauce, Gyut Wrap (7). White clothes with colored embroidery.",
+  "t": "**الطعام.** فيهي مشوي بصلصة الراكوجا (5)، وكاديوكا مع سمك مقلي ودومار غيوت (~14)، وطبق سلطة فريئيشي (9)، ولب الباسي (~5)، وفاصوليا غرينبريد محمّصة (5)، وأكل شارع كولويم (1–10)، وصلصة نيكابريد، ولفافة غيوت (7). ملابس بيضاء بتطريز ملوّن."
+ },
  "a623ccd156e6": {
   "en": "**Economy.** Domar Carbey, beer, ales and spirits, fost stones, Wood People goods, Wingas.",
   "t": "**الاقتصاد.** دومار كاربي، والجعة والإيل والمشروبات الروحية، وأحجار فوست، وبضائع الوود بيبول، والوينغا."
@@ -127,9 +143,17 @@
   "en": "**Government.** The king is whoever wins the **King Fest** (every Asa) by killing the old king and ripping out both his tusks. The loser's daughter must be given in marriage; sons can't challenge their father; there is no queen-regnant. The king is also the courtroom scientist unless he appoints one. Currently **King Nooru** and **Queen Satomi**.",
   "t": "**الحكم.** الملك هو من يفوز في **مهرجان الملك** (كل آسا) بقتل الملك القديم وانتزاع نابيه كليهما. يجب تزويج ابنة الخاسر؛ ولا يجوز للأبناء تحدي آبائهم؛ ولا توجد ملكة حاكمة. والملك هو عالم البلاط أيضًا ما لم يعيّن أحدًا. حاليًا **الملك نورو** و**الملكة ساتومي**."
  },
+ "ae9b4a0bc219": {
+  "en": "**Law.** Set by each village; some follow Forway Law, some change it every election.",
+  "t": "**القانون.** تضعه كل قرية؛ بعضها يتبع قانون فورواي، وبعضها يغيّره في كل انتخابات."
+ },
  "af9b317b17c6": {
   "en": "**Guards.** The most relaxed guards around — but in big packs, with gauntlets and slow, heavy elemental spells that break your will. Nari gels in a pinch.",
   "t": "**الحراس.** أكثر الحراس استرخاءً — لكنهم يتحركون في جماعات كبيرة، بقفازات معدنية وتعاويذ عنصرية بطيئة ثقيلة تكسر إرادتك. وجل ناري عند الضيق."
+ },
+ "b2005d596bdd": {
+  "en": "**Guilds.** Gyut Farming, Greenbread Farming, Two Hearts (adventurers).",
+  "t": "**النقابات.** غيوت فارمينغ، وغرينبريد فارمينغ، وتو هارتس (مغامرون)."
  },
  "b92530749048": {
   "en": "**Places.** Sanbi Castle (three floors plus three five-story towers: west = Soul Energy department and labs, south = royal quarters, east = guest rooms and a playroom; only one gate, by the **Sanbi Fish Fountain**), the Dockyard, the **Old Wharf** (burials), Ungandy's factory (deep-blue nari bombs), Main Street Market, the Fish Drier and Fish Oil factories, **The Dead Wozen** tavern, Miirin's Cookery (tapas and killer desserts), **Broken Beak Hotel** (adventurers from Tastyleaf), the **Shaved Bagarisa** tavern, the Fish Gut Triage suburbs. Two-to-three-story buildings with white lime interiors.",
@@ -142,6 +166,10 @@
  "bbf24c35345d": {
   "en": "**King-Maid** — economy, bookkeeping, the castle maids. Frugality is law.\nRoyals have **blue strands of hair**. All royals belong to the **Sanbi Royal** guild.",
   "t": "**كينغ ميد** — الاقتصاد والحسابات وخادمات القلعة. التقشف قانون.\nلأفراد الأسرة الملكية **خصلات شعر زرقاء**. وكلهم ينتمون إلى نقابة **سانبي رويال**."
+ },
+ "bd435669966e": {
+  "en": "**Festivals.** **Blood & Soil** (fall; the groups exchange gifts and party), **White Roundies Arrival** (winter; play fetch, trade food for whatever they bring up from the sea), the banned Village Competition (ended in a brawl in 998 A.G.).",
+  "t": "**المهرجانات.** **الدم والتربة** (الخريف؛ تتبادل المجموعتان الهدايا وتحتفلان)، و**وصول الوايت راونديز** (الشتاء؛ العب معهم لعبة الإحضار وبادل الطعام بما يجلبونه من البحر)، ومسابقة القرى المحظورة (انتهت بعراك جماعي في 998 A.G.)."
  },
  "cad2fc4c8e64": {
   "en": "**Festivals.** **Shake Belly** (last days of Adrian, 3 days: shake your belly at a door marked with a ladle to earn food), **Harvest Festival** (Moacir; popular-vote booze contest).",
@@ -167,6 +195,10 @@
   "en": "*Fat, rich, punctual, honest brewers and farmers. ~70,000 people.*",
   "t": "*صانعو جعة ومزارعون بدناء أثرياء دقيقو المواعيد شرفاء. ~70,000 نسمة.*"
  },
+ "d700c04d6c89": {
+  "en": "**Burial.** In fields or woods, under a stone carved in Vraki.",
+  "t": "**الدفن.** في الحقول أو الغابات، تحت حجر منقوش بالفراكية."
+ },
  "df00b11bdc65": {
   "en": "**Marriage.** Two Darfaries who like each other duel; a **draw** means they mate for life.",
   "t": "**الزواج.** يتبارز دارفاريسان يعجب أحدهما بالآخر؛ و**التعادل** يعني أنهما يتزاوجان مدى الحياة."
@@ -174,6 +206,10 @@
  "df84edaf9697": {
   "en": "Kingdoms",
   "t": "الممالك"
+ },
+ "e2d056e6cb21": {
+  "en": "**Villages.** Governor State, Carbeyland (two \"originals\"), Farplace, Treetop, The Mill, Big Gyut, Sweet Siguash, Peaceful Life, Endland, Crossroads, Lishies Eater (oldest).",
+  "t": "**القرى.** ولاية الحاكم، وكاربيلاند (قريتان «أصليتان»)، وفاربليس، وتريتوب، وذا ميل، وبيغ غيوت، وسويت سيغواش، وبيسفول لايف، وإندلاند، وكروسرودز، وليشيس إيتر (الأقدم)."
  },
  "e30eb250ee78": {
   "en": "**Food.** Fried Fish Balls (5 pearls/stick of 10), Sanbi Beer (with fish oil; supposedly an aphrodisiac; ~6/L), Bread Beer (~3/L), Hard Mud snack.",
@@ -190,6 +226,10 @@
  "e5798a66780d": {
   "en": "**Festivals.** Sanbi Fish Parade (Adrian, everyone in fish costumes), the daily Safe Fishing Prayer dance at the docks, White Roundies Arrival (winter).",
   "t": "**المهرجانات.** موكب سمكة سانبي (أدريان، الجميع بأزياء الأسماك)، ورقصة دعاء الصيد الآمن اليومية على الأرصفة، ووصول الوايت راونديز (الشتاء)."
+ },
+ "e775f5bf3c92": {
+  "en": "**Local quests.** Ganyrami bounty hunting, nari stone transport.",
+  "t": "**المهام المحلية.** صيد المكافآت في غانيرامي، ونقل حجر ناري."
  },
  "ebd09be54071": {
   "en": "**Local quests.** Crocus control, Cruro reconnaissance, Aldemeri bounties, Newland exploration, sea patrol.",

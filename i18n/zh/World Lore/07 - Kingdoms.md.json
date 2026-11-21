@@ -7,6 +7,10 @@
   "en": "**Threats.** Cruros if they grow too many; the True Sanbi King fish if the pact breaks.",
   "t": "**威胁。** 克鲁罗太多的时候；契约破裂时的真桑比王巨鱼。"
  },
+ "0a9703a8ac34": {
+  "en": "**Guards.** \"Dollar-store Forway guards\" in bone-wood armor — but brave, with short swords hidden in forearm sleeves, nari bombs to close distance, and reflexes trained on hallucinogens since childhood.",
+  "t": "**卫兵。** 穿着骨木盔甲的“地摊货福威卫兵”——但很勇敢，前臂袖子里藏着短剑，用纳里炸弹拉近距离，从小用致幻剂训练反应。"
+ },
  "0f8289ba916f": {
   "en": "**Guards.** Heavy chitin armor, blunt weapons, often alone, helmets that lock their tusks shut (silent servitude).",
   "t": "**卫兵。** 厚重的甲壳盔甲，钝器，常常单独行动，戴着能把獠牙锁住的头盔（沉默的效忠）。"
@@ -31,9 +35,17 @@
   "en": "Tolerideme (Toleridemian) — atop the Buhraies Plains",
   "t": "托勒里德梅（托勒里德梅人）——位于布莱斯平原之上"
  },
+ "2beed40dd0c5": {
+  "en": "**Marriage.** Propose with a bundle of fruit in the village plaza; married in front of the village leader; locals get a free guild.",
+  "t": "**婚姻。** 在村广场捧着一束水果求婚；在村长面前成婚；本地人可免费加入一个公会。"
+ },
  "2c6c29d68caf": {
   "en": "**People.** They revere the **Three Smart Ladies** (Evedyn, Everyn and Evelyn), who raised the kingdom from nothing with soul energy farming and fish-meal-plus-poop fertilizer. Being fat is a status symbol; hats show profession and wealth. Honest, blunt, loud, **never haggle** (the stated price is the fair price), do exactly what the contract says, **punctual to the minute**, and use soul energy instead of muscle whenever possible. Communal toilets (it's all fertilizer). Hours-long toasting rituals where a toastmaster raises glasses with magic. **No marriage**: adults do as they please (orgies aren't rare), but parents must raise any child together by law. Names are English and always have an **even number of letters**, usually 4 or 6.",
   "t": "**民众。** 他们敬奉**三位聪慧女士**（伊芙丁、伊芙琳和伊芙林），她们靠灵魂能量农业和鱼粉加粪便的肥料白手起家建立了王国。胖是地位的象征；帽子显示职业和财富。诚实、直接、嗓门大，**从不讨价还价**（报的价就是公道价），合同上怎么写就怎么做，**守时到分钟**，能用灵魂能量就不用力气。厕所是公用的（全都是肥料）。会有长达几小时的敬酒仪式，由司酒人用魔法举起酒杯。**没有婚姻**：成年人想怎样就怎样（狂欢派对并不罕见），但法律规定父母必须共同抚养孩子。名字是英文名，字母数一定是**偶数**，通常是4或6个。"
+ },
+ "2ed24d74cb29": {
+  "en": "**People.** Two village groups: the **Soil Group** (inner villages; farming and fishing; protective of Trunk People) and the **Blood Group** (outer villages; hunting; fighters; dislike Trunk People). They're warm to their own and think their village is best — and lately they've started fighting. Sprawling, flat towns where you need an Egua (or 20,000 steps a day); Trunk People light the roads from old soul-wood trees; giant scented flowers everywhere. Names sound Brazilian; people go by their village. \"Meet the darkness\" means to die. **FoodShare** couriers carry meals between villages.",
+  "t": "**民众。** 村庄分两派：**土之派**（内圈村庄；务农和打鱼；保护特朗克皮普尔）和**血之派**（外圈村庄；狩猎；战士；讨厌特朗克皮普尔）。他们对自己人很热情，觉得自己的村子最好——最近还开始打起来了。城镇平坦而分散，你需要一头埃瓜（或者每天走2万步）；特朗克皮普尔用古老的灵魂木树照亮道路；到处都是巨大而芬芳的花。名字听起来像巴西名；人们以村子自称。“去见黑暗”意思是死去。**食物共享**的信差在村庄之间送饭。"
  },
  "3afa2a01e350": {
   "en": "**Economy.** Dried fish, Sanbi-scale clothing, fish meal and fish oil, salt, some fost stones, trade with Cruros.",
@@ -119,6 +131,10 @@
   "en": "**Festivals.** **Weapon Fest** (Adrian), **King Fest** (Asa). **Burial:** cremation; bones washed in mountain sand and kept in an urn.",
   "t": "**节日。** **兵器节**（阿德里安月）、**王者祭**（阿萨月）。**葬礼：** 火化；骨头用山沙洗净后放进骨灰坛。"
  },
+ "9c43af1f5b2a": {
+  "en": "**Food.** Grilled Fihi with Rakuja sauce (5), Cadioca with fried fish and Domar Gyut (~14), Freeish salad bowl (9), Basi pulp (~5), roasted greenbread beans (5), Culuim street food (1–10), Nicabread sauce, Gyut Wrap (7). White clothes with colored embroidery.",
+  "t": "**食物。** 烤菲希配拉库贾酱（5）、卡迪奥卡配炸鱼和多马尔久特（约14）、弗里伊什沙拉碗（9）、巴西果泥（约5）、烤格林布雷德豆（5）、库卢伊姆街头小吃（1–10）、尼卡布雷德酱、久特卷（7）。白衣服上绣着彩色花纹。"
+ },
  "a623ccd156e6": {
   "en": "**Economy.** Domar Carbey, beer, ales and spirits, fost stones, Wood People goods, Wingas.",
   "t": "**经济。** 多马尔卡贝、啤酒、麦芽酒和烈酒、福斯特石、伍德皮普尔货品、温加。"
@@ -127,9 +143,17 @@
   "en": "**Government.** The king is whoever wins the **King Fest** (every Asa) by killing the old king and ripping out both his tusks. The loser's daughter must be given in marriage; sons can't challenge their father; there is no queen-regnant. The king is also the courtroom scientist unless he appoints one. Currently **King Nooru** and **Queen Satomi**.",
   "t": "**政府。** 谁在**王者祭**（每年阿萨月）中杀死老国王并拔下他的两根獠牙，谁就是国王。输家的女儿必须嫁出去；儿子不能挑战父亲；没有女王执政。除非国王另行任命，否则国王也兼任宫廷科学家。现任**努鲁国王**和**里美王后**。"
  },
+ "ae9b4a0bc219": {
+  "en": "**Law.** Set by each village; some follow Forway Law, some change it every election.",
+  "t": "**法律。** 由各村自定；有的遵循福威法，有的每次选举都改。"
+ },
  "af9b317b17c6": {
   "en": "**Guards.** The most relaxed guards around — but in big packs, with gauntlets and slow, heavy elemental spells that break your will. Nari gels in a pinch.",
   "t": "**卫兵。** 最悠闲的卫兵——但成群出动，戴着金属手套，使用缓慢而沉重、能摧毁意志的元素法术。紧急时用纳里凝胶。"
+ },
+ "b2005d596bdd": {
+  "en": "**Guilds.** Gyut Farming, Greenbread Farming, Two Hearts (adventurers).",
+  "t": "**公会。** 久特农场、格林布雷德农场、图哈茨（冒险者）。"
  },
  "b92530749048": {
   "en": "**Places.** Sanbi Castle (three floors plus three five-story towers: west = Soul Energy department and labs, south = royal quarters, east = guest rooms and a playroom; only one gate, by the **Sanbi Fish Fountain**), the Dockyard, the **Old Wharf** (burials), Ungandy's factory (deep-blue nari bombs), Main Street Market, the Fish Drier and Fish Oil factories, **The Dead Wozen** tavern, Miirin's Cookery (tapas and killer desserts), **Broken Beak Hotel** (adventurers from Tastyleaf), the **Shaved Bagarisa** tavern, the Fish Gut Triage suburbs. Two-to-three-story buildings with white lime interiors.",
@@ -142,6 +166,10 @@
  "bbf24c35345d": {
   "en": "**King-Maid** — economy, bookkeeping, the castle maids. Frugality is law.\nRoyals have **blue strands of hair**. All royals belong to the **Sanbi Royal** guild.",
   "t": "**金梅德**——经济、账目、城堡女仆。节俭就是法律。\n王族有**几缕蓝色头发**。所有王族都属于**桑比·罗亚尔**公会。"
+ },
+ "bd435669966e": {
+  "en": "**Festivals.** **Blood & Soil** (fall; the groups exchange gifts and party), **White Roundies Arrival** (winter; play fetch, trade food for whatever they bring up from the sea), the banned Village Competition (ended in a brawl in 998 A.G.).",
+  "t": "**节日。** **血与土**（秋季；两派互赠礼物、开派对）、**怀特朗迪斯到来**（冬季；陪它们玩捡东西，用食物换它们从海里带上来的东西），以及被禁止的村庄大赛（998 A.G.以一场群殴收场）。"
  },
  "cad2fc4c8e64": {
   "en": "**Festivals.** **Shake Belly** (last days of Adrian, 3 days: shake your belly at a door marked with a ladle to earn food), **Harvest Festival** (Moacir; popular-vote booze contest).",
@@ -167,6 +195,10 @@
   "en": "*Fat, rich, punctual, honest brewers and farmers. ~70,000 people.*",
   "t": "*肥胖、富有、守时、诚实的酿酒人和农民。约70,000人。*"
  },
+ "d700c04d6c89": {
+  "en": "**Burial.** In fields or woods, under a stone carved in Vraki.",
+  "t": "**葬礼。** 葬在田野或树林里，墓上立一块刻着弗拉基文的石头。"
+ },
  "df00b11bdc65": {
   "en": "**Marriage.** Two Darfaries who like each other duel; a **draw** means they mate for life.",
   "t": "**婚姻。** 两个互相喜欢的达尔法里斯决斗；**平局**就意味着终身结为伴侣。"
@@ -174,6 +206,10 @@
  "df84edaf9697": {
   "en": "Kingdoms",
   "t": "王国"
+ },
+ "e2d056e6cb21": {
+  "en": "**Villages.** Governor State, Carbeyland (two \"originals\"), Farplace, Treetop, The Mill, Big Gyut, Sweet Siguash, Peaceful Life, Endland, Crossroads, Lishies Eater (oldest).",
+  "t": "**村庄。** 总督州、卡贝兰（两个“元老村”）、法普莱斯、特里托普、磨坊村、大久特、甜西瓜什、平安村、恩德兰、克罗斯罗兹、利希斯伊特（最古老）。"
  },
  "e30eb250ee78": {
   "en": "**Food.** Fried Fish Balls (5 pearls/stick of 10), Sanbi Beer (with fish oil; supposedly an aphrodisiac; ~6/L), Bread Beer (~3/L), Hard Mud snack.",
@@ -190,6 +226,10 @@
  "e5798a66780d": {
   "en": "**Festivals.** Sanbi Fish Parade (Adrian, everyone in fish costumes), the daily Safe Fishing Prayer dance at the docks, White Roundies Arrival (winter).",
   "t": "**节日。** 桑比鱼游行（阿德里安月，人人穿鱼装）、码头每天跳的平安捕鱼祈福舞、怀特朗迪斯到来（冬季）。"
+ },
+ "e775f5bf3c92": {
+  "en": "**Local quests.** Ganyrami bounty hunting, nari stone transport.",
+  "t": "**本地委托。** 在加尼拉米猎取赏金、运送纳里石。"
  },
  "ebd09be54071": {
   "en": "**Local quests.** Crocus control, Cruro reconnaissance, Aldemeri bounties, Newland exploration, sea patrol.",

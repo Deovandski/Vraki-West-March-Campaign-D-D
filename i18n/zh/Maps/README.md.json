@@ -1,4 +1,20 @@
 {
+ "0776b1ecc9bf": {
+  "en": "Tastyleaf",
+  "t": "泰斯蒂利夫"
+ },
+ "11577c2f2403": {
+  "en": "Wingarest",
+  "t": "温加雷斯特"
+ },
+ "1b137c5ecaae": {
+  "en": "Deltacross",
+  "t": "德尔塔克罗斯"
+ },
+ "1ec59d42d7b9": {
+  "en": "Sundeath",
+  "t": "桑德斯"
+ },
  "325ff50ba847": {
   "en": "On the map",
   "t": "地图上的样子"
@@ -7,13 +23,33 @@
   "en": "Cruro",
   "t": "克鲁罗"
  },
+ "5475a939ba73": {
+  "en": "Blood",
+  "t": "布拉德"
+ },
  "5bd15f9645ff": {
   "en": "Off the edge of the map",
   "t": "地图边缘之外"
  },
+ "60f0853dfedc": {
+  "en": "Waterfall",
+  "t": "沃特福尔"
+ },
+ "7728dc17a25b": {
+  "en": "Ganyrami",
+  "t": "加尼拉米"
+ },
  "8ae5de71fd4b": {
   "en": "Circles",
   "t": "圈数"
+ },
+ "8f7eaa47ff4e": {
+  "en": "Old Fuhrair",
+  "t": "老弗莱尔"
+ },
+ "9db4f13ef375": {
+  "en": "Endlessfog",
+  "t": "恩德莱斯福格"
  },
  "a7f53e96f0a7": {
   "en": "Encounter table",
@@ -22,6 +58,14 @@
  "c6154c9d7a78": {
   "en": "From",
   "t": "出发地"
+ },
+ "e5512f4a91e6": {
+  "en": "Flatland",
+  "t": "弗拉特兰"
+ },
+ "e563cba00f30": {
+  "en": "Triangle",
+  "t": "特赖安格尔"
  },
  "f5aea10a8548": {
   "en": "To",

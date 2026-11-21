@@ -7,6 +7,10 @@
   "en": "**Threats.** Cruros if they grow too many; the True Sanbi King fish if the pact breaks.",
   "t": "**脅威。** 増えすぎたクルロ。契約が破れたときのトゥルー・サンビ・キング。"
  },
+ "0a9703a8ac34": {
+  "en": "**Guards.** \"Dollar-store Forway guards\" in bone-wood armor — but brave, with short swords hidden in forearm sleeves, nari bombs to close distance, and reflexes trained on hallucinogens since childhood.",
+  "t": "**衛兵。** 骨木の鎧を着た「百均のフォーウェイ衛兵」 — だが勇敢で、前腕の袖に短剣を隠し、間合いを詰めるのにナリ爆弾を使い、子どもの頃から幻覚剤で反射神経を鍛えている。"
+ },
  "0f8289ba916f": {
   "en": "**Guards.** Heavy chitin armor, blunt weapons, often alone, helmets that lock their tusks shut (silent servitude).",
   "t": "**衛兵。** 重いキチンの鎧、鈍器、単独で動くことが多い。牙を固定して口を閉ざす兜をかぶる(沈黙の奉仕)。"
@@ -31,9 +35,17 @@
   "en": "Tolerideme (Toleridemian) — atop the Buhraies Plains",
   "t": "トレリデメ(トレリデメ人)――ブライエス・プレーンズの上"
  },
+ "2beed40dd0c5": {
+  "en": "**Marriage.** Propose with a bundle of fruit in the village plaza; married in front of the village leader; locals get a free guild.",
+  "t": "**結婚。** 村の広場で果物の束を差し出して求婚し、村長の前で結婚する。地元民はギルドに無料で入れる。"
+ },
  "2c6c29d68caf": {
   "en": "**People.** They revere the **Three Smart Ladies** (Evedyn, Everyn and Evelyn), who raised the kingdom from nothing with soul energy farming and fish-meal-plus-poop fertilizer. Being fat is a status symbol; hats show profession and wealth. Honest, blunt, loud, **never haggle** (the stated price is the fair price), do exactly what the contract says, **punctual to the minute**, and use soul energy instead of muscle whenever possible. Communal toilets (it's all fertilizer). Hours-long toasting rituals where a toastmaster raises glasses with magic. **No marriage**: adults do as they please (orgies aren't rare), but parents must raise any child together by law. Names are English and always have an **even number of letters**, usually 4 or 6.",
   "t": "**人々。** 魂のエネルギーによる農業と、魚粉に糞を混ぜた肥料で国を無から築いた**三人のスマートレディーズ**(エヴェディン、エヴリン、エヴェリン)を敬っている。太っていることはステータスで、帽子が職業と富を表す。正直で、ぶっきらぼうで、声が大きく、**決して値切らない**(言い値が適正価格)。契約書のとおりにきっちり動き、**分単位で時間に正確**で、できる限り筋肉の代わりに魂のエネルギーを使う。トイレは共同(すべて肥料になる)。乾杯役が魔法で杯を掲げる、何時間も続く乾杯の儀式がある。**結婚はない**:大人は好きにする(乱交も珍しくない)が、子どもができたら両親が一緒に育てることが法で決まっている。名前は英語風で、文字数は必ず**偶数**、たいてい4文字か6文字。"
+ },
+ "2ed24d74cb29": {
+  "en": "**People.** Two village groups: the **Soil Group** (inner villages; farming and fishing; protective of Trunk People) and the **Blood Group** (outer villages; hunting; fighters; dislike Trunk People). They're warm to their own and think their village is best — and lately they've started fighting. Sprawling, flat towns where you need an Egua (or 20,000 steps a day); Trunk People light the roads from old soul-wood trees; giant scented flowers everywhere. Names sound Brazilian; people go by their village. \"Meet the darkness\" means to die. **FoodShare** couriers carry meals between villages.",
+  "t": "**人々。** 村は二つのグループに分かれる。**土のグループ**（内側の村々。農業と漁業。トランクピープルを守る）と**血のグループ**（外側の村々。狩猟。戦士。トランクピープルを嫌う）だ。身内には温かく、自分の村が一番だと思っている — そして最近は争い始めた。平らに広がった町で、エグア（または一日2万歩）が欠かせない。トランクピープルが古いソウルウッドの木から道を照らし、巨大で香り高い花があちこちに咲く。名前はブラジル風で、人は村の名で名乗る。「闇に会う」は死ぬという意味。**フードシェア**の配達人が村から村へ食事を運ぶ。"
  },
  "3afa2a01e350": {
   "en": "**Economy.** Dried fish, Sanbi-scale clothing, fish meal and fish oil, salt, some fost stones, trade with Cruros.",
@@ -119,6 +131,10 @@
   "en": "**Festivals.** **Weapon Fest** (Adrian), **King Fest** (Asa). **Burial:** cremation; bones washed in mountain sand and kept in an urn.",
   "t": "**祭り。** **武器祭**(アドリアン)、**キングフェスト**(アサ)。**埋葬:** 火葬。骨は山の砂で洗い、骨壺に納める。"
  },
+ "9c43af1f5b2a": {
+  "en": "**Food.** Grilled Fihi with Rakuja sauce (5), Cadioca with fried fish and Domar Gyut (~14), Freeish salad bowl (9), Basi pulp (~5), roasted greenbread beans (5), Culuim street food (1–10), Nicabread sauce, Gyut Wrap (7). White clothes with colored embroidery.",
+  "t": "**食べ物。** フィヒのグリル ラクジャソース添え（5）、カジオカと魚のフライ、ドマール・ギュット（~14）、フリーイッシュ風サラダボウル（9）、バシのパルプ（~5）、グリーンブレッド豆のロースト（5）、クルイムの屋台料理（1–10）、ニカブレッドソース、ギュット・ラップ（7）。色とりどりの刺繍が入った白い服。"
+ },
  "a623ccd156e6": {
   "en": "**Economy.** Domar Carbey, beer, ales and spirits, fost stones, Wood People goods, Wingas.",
   "t": "**経済。** ドマー・カーベイ、ビール、エールと蒸留酒、フォストストーン、ウッドピープルの品、ウィンガ。"
@@ -127,9 +143,17 @@
   "en": "**Government.** The king is whoever wins the **King Fest** (every Asa) by killing the old king and ripping out both his tusks. The loser's daughter must be given in marriage; sons can't challenge their father; there is no queen-regnant. The king is also the courtroom scientist unless he appoints one. Currently **King Nooru** and **Queen Satomi**.",
   "t": "**政治。** 王になるのは、**キングフェスト**(毎年アサ)で老王を殺し、その牙を両方引き抜いた者。負けた者の娘は嫁に出さねばならない。息子は父に挑戦できない。女王が君臨することはない。王は宮廷科学者を任命しない限り、自分が宮廷科学者を兼ねる。現在は**ヌール王**と**サトミ女王**。"
  },
+ "ae9b4a0bc219": {
+  "en": "**Law.** Set by each village; some follow Forway Law, some change it every election.",
+  "t": "**法。** 村ごとに決める。フォーウェイ法に従う村もあれば、選挙のたびに変える村もある。"
+ },
  "af9b317b17c6": {
   "en": "**Guards.** The most relaxed guards around — but in big packs, with gauntlets and slow, heavy elemental spells that break your will. Nari gels in a pinch.",
   "t": "**衛兵。** どこよりものんびりした衛兵――ただし大人数の群れで動き、籠手と、意志をくじく遅くて重い元素の術を使う。いざとなればナリジェル。"
+ },
+ "b2005d596bdd": {
+  "en": "**Guilds.** Gyut Farming, Greenbread Farming, Two Hearts (adventurers).",
+  "t": "**ギルド。** ギュット・ファーミング、グリーンブレッド・ファーミング、トゥー・ハーツ（冒険者）。"
  },
  "b92530749048": {
   "en": "**Places.** Sanbi Castle (three floors plus three five-story towers: west = Soul Energy department and labs, south = royal quarters, east = guest rooms and a playroom; only one gate, by the **Sanbi Fish Fountain**), the Dockyard, the **Old Wharf** (burials), Ungandy's factory (deep-blue nari bombs), Main Street Market, the Fish Drier and Fish Oil factories, **The Dead Wozen** tavern, Miirin's Cookery (tapas and killer desserts), **Broken Beak Hotel** (adventurers from Tastyleaf), the **Shaved Bagarisa** tavern, the Fish Gut Triage suburbs. Two-to-three-story buildings with white lime interiors.",
@@ -142,6 +166,10 @@
  "bbf24c35345d": {
   "en": "**King-Maid** — economy, bookkeeping, the castle maids. Frugality is law.\nRoyals have **blue strands of hair**. All royals belong to the **Sanbi Royal** guild.",
   "t": "**キングメイド**――経済、帳簿、城のメイドたち。倹約は法である。\n王族の髪には**青い筋**がある。王族は全員**サンビ・ロイヤル**ギルドに属している。"
+ },
+ "bd435669966e": {
+  "en": "**Festivals.** **Blood & Soil** (fall; the groups exchange gifts and party), **White Roundies Arrival** (winter; play fetch, trade food for whatever they bring up from the sea), the banned Village Competition (ended in a brawl in 998 A.G.).",
+  "t": "**祭り。** **血と土**（秋。両グループが贈り物を交換して宴を開く）、**ホワイトラウンディーズの到来**（冬。投げたものを取ってこさせて遊び、海から持ってきたものと食べ物を交換する）、禁止された村対抗競技会（998 A.G.に大乱闘で終わった）。"
  },
  "cad2fc4c8e64": {
   "en": "**Festivals.** **Shake Belly** (last days of Adrian, 3 days: shake your belly at a door marked with a ladle to earn food), **Harvest Festival** (Moacir; popular-vote booze contest).",
@@ -167,6 +195,10 @@
   "en": "*Fat, rich, punctual, honest brewers and farmers. ~70,000 people.*",
   "t": "*太っていて、裕福で、時間に正確で、正直な醸造家と農民。人口約70,000人。*"
  },
+ "d700c04d6c89": {
+  "en": "**Burial.** In fields or woods, under a stone carved in Vraki.",
+  "t": "**埋葬。** 畑か森に、ヴラキ文字を刻んだ石の下に。"
+ },
  "df00b11bdc65": {
   "en": "**Marriage.** Two Darfaries who like each other duel; a **draw** means they mate for life.",
   "t": "**結婚。** 好き合ったダルファリエス二人が決闘し、**引き分け**なら生涯のつがいになる。"
@@ -174,6 +206,10 @@
  "df84edaf9697": {
   "en": "Kingdoms",
   "t": "王国"
+ },
+ "e2d056e6cb21": {
+  "en": "**Villages.** Governor State, Carbeyland (two \"originals\"), Farplace, Treetop, The Mill, Big Gyut, Sweet Siguash, Peaceful Life, Endland, Crossroads, Lishies Eater (oldest).",
+  "t": "**村。** 総督州、カーベイランド（「元祖」が二つ）、ファープレイス、ツリートップ、ザ・ミル、ビッグ・ギュット、スイート・シグアッシュ、ピースフル・ライフ、エンドランド、クロスロード、リシエス・イーター（最古）。"
  },
  "e30eb250ee78": {
   "en": "**Food.** Fried Fish Balls (5 pearls/stick of 10), Sanbi Beer (with fish oil; supposedly an aphrodisiac; ~6/L), Bread Beer (~3/L), Hard Mud snack.",
@@ -190,6 +226,10 @@
  "e5798a66780d": {
   "en": "**Festivals.** Sanbi Fish Parade (Adrian, everyone in fish costumes), the daily Safe Fishing Prayer dance at the docks, White Roundies Arrival (winter).",
   "t": "**祭り。** サンビ魚パレード(アドリアン、全員が魚の仮装)、波止場で毎日踊る大漁安全祈願の踊り、ホワイトラウンディーズの到来(冬)。"
+ },
+ "e775f5bf3c92": {
+  "en": "**Local quests.** Ganyrami bounty hunting, nari stone transport.",
+  "t": "**地元の依頼。** ガニラミでの賞金稼ぎ、ナリストーンの輸送。"
  },
  "ebd09be54071": {
   "en": "**Local quests.** Crocus control, Cruro reconnaissance, Aldemeri bounties, Newland exploration, sea patrol.",

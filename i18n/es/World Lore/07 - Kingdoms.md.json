@@ -7,6 +7,10 @@
   "en": "**Threats.** Cruros if they grow too many; the True Sanbi King fish if the pact breaks.",
   "t": "**Amenazas.** Los Cruros si se vuelven demasiados; el pez True Sanbi King si se rompe el pacto."
  },
+ "0a9703a8ac34": {
+  "en": "**Guards.** \"Dollar-store Forway guards\" in bone-wood armor — but brave, with short swords hidden in forearm sleeves, nari bombs to close distance, and reflexes trained on hallucinogens since childhood.",
+  "t": "**Guardias.** «Guardias de Forway de todo a un euro» con armadura de madera de hueso — pero valientes, con espadas cortas ocultas en las mangas, bombas de nari para acortar distancias y reflejos entrenados con alucinógenos desde la infancia."
+ },
  "0f8289ba916f": {
   "en": "**Guards.** Heavy chitin armor, blunt weapons, often alone, helmets that lock their tusks shut (silent servitude).",
   "t": "**Guardias.** Armadura pesada de quitina, armas contundentes, a menudo solos, cascos que les traban los colmillos (servidumbre silenciosa)."
@@ -31,9 +35,17 @@
   "en": "Tolerideme (Toleridemian) — atop the Buhraies Plains",
   "t": "Tolerideme (toleridemiano): en lo alto de las Buhraies Plains"
  },
+ "2beed40dd0c5": {
+  "en": "**Marriage.** Propose with a bundle of fruit in the village plaza; married in front of the village leader; locals get a free guild.",
+  "t": "**Matrimonio.** Se pide la mano con un manojo de fruta en la plaza de la aldea; la boda es ante el líder de la aldea; los lugareños reciben un gremio gratis."
+ },
  "2c6c29d68caf": {
   "en": "**People.** They revere the **Three Smart Ladies** (Evedyn, Everyn and Evelyn), who raised the kingdom from nothing with soul energy farming and fish-meal-plus-poop fertilizer. Being fat is a status symbol; hats show profession and wealth. Honest, blunt, loud, **never haggle** (the stated price is the fair price), do exactly what the contract says, **punctual to the minute**, and use soul energy instead of muscle whenever possible. Communal toilets (it's all fertilizer). Hours-long toasting rituals where a toastmaster raises glasses with magic. **No marriage**: adults do as they please (orgies aren't rare), but parents must raise any child together by law. Names are English and always have an **even number of letters**, usually 4 or 6.",
   "t": "**Gente.** Veneran a las **tres Smart Ladies** (Evedyn, Everyn y Evelyn), que levantaron el reino de la nada con la agricultura de energía del alma y un abono de harina de pescado con caca. Estar gordo es símbolo de estatus; los sombreros muestran oficio y riqueza. Honrados, francos, ruidosos, **nunca regatean** (el precio que dicen es el justo), hacen exactamente lo que dice el contrato, son **puntuales al minuto** y usan la energía del alma en vez de los músculos siempre que pueden. Retretes comunales (todo es abono). Rituales de brindis de horas en los que un maestro de brindis levanta las copas con magia. **No hay matrimonio**: los adultos hacen lo que quieren (las orgías no son raras), pero la ley obliga a los padres a criar juntos a cualquier hijo. Los nombres son ingleses y siempre tienen un **número par de letras**, normalmente 4 o 6."
+ },
+ "2ed24d74cb29": {
+  "en": "**People.** Two village groups: the **Soil Group** (inner villages; farming and fishing; protective of Trunk People) and the **Blood Group** (outer villages; hunting; fighters; dislike Trunk People). They're warm to their own and think their village is best — and lately they've started fighting. Sprawling, flat towns where you need an Egua (or 20,000 steps a day); Trunk People light the roads from old soul-wood trees; giant scented flowers everywhere. Names sound Brazilian; people go by their village. \"Meet the darkness\" means to die. **FoodShare** couriers carry meals between villages.",
+  "t": "**Gente.** Dos grupos de aldeas: el **Grupo de la Tierra** (aldeas interiores; agricultura y pesca; protegen a la Trunk People) y el **Grupo de la Sangre** (aldeas exteriores; caza; guerreros; no soportan a la Trunk People). Son cálidos con los suyos y creen que su aldea es la mejor — y últimamente han empezado a pelearse. Pueblos llanos y desparramados donde necesitas un Egua (o 20.000 pasos al día); la Trunk People ilumina los caminos desde viejos árboles de madera de alma; flores gigantes y perfumadas por todas partes. Los nombres suenan brasileños; la gente se presenta por su aldea. «Encontrarse con la oscuridad» significa morir. Los mensajeros de **FoodShare** llevan comidas entre aldeas."
  },
  "3afa2a01e350": {
   "en": "**Economy.** Dried fish, Sanbi-scale clothing, fish meal and fish oil, salt, some fost stones, trade with Cruros.",
@@ -119,6 +131,10 @@
   "en": "**Festivals.** **Weapon Fest** (Adrian), **King Fest** (Asa). **Burial:** cremation; bones washed in mountain sand and kept in an urn.",
   "t": "**Fiestas.** **Weapon Fest** (Adrian), **King Fest** (Asa). **Entierro:** cremación; los huesos se lavan con arena de la montaña y se guardan en una urna."
  },
+ "9c43af1f5b2a": {
+  "en": "**Food.** Grilled Fihi with Rakuja sauce (5), Cadioca with fried fish and Domar Gyut (~14), Freeish salad bowl (9), Basi pulp (~5), roasted greenbread beans (5), Culuim street food (1–10), Nicabread sauce, Gyut Wrap (7). White clothes with colored embroidery.",
+  "t": "**Comida.** Fihi a la parrilla con salsa de Rakuja (5), Cadioca con pescado frito y Domar Gyut (~14), bol de ensalada freeish (9), pulpa de Basi (~5), judías de greenbread asadas (5), comida callejera de Culuim (1–10), salsa de Nicabread, Gyut Wrap (7). Ropa blanca con bordados de colores."
+ },
  "a623ccd156e6": {
   "en": "**Economy.** Domar Carbey, beer, ales and spirits, fost stones, Wood People goods, Wingas.",
   "t": "**Economía.** Domar Carbey, cerveza, ales y licores, fost stones, productos de Wood People, Wingas."
@@ -127,9 +143,17 @@
   "en": "**Government.** The king is whoever wins the **King Fest** (every Asa) by killing the old king and ripping out both his tusks. The loser's daughter must be given in marriage; sons can't challenge their father; there is no queen-regnant. The king is also the courtroom scientist unless he appoints one. Currently **King Nooru** and **Queen Satomi**.",
   "t": "**Gobierno.** El rey es quien gana el **King Fest** (cada Asa) matando al viejo rey y arrancándole los dos colmillos. La hija del perdedor debe ser entregada en matrimonio; los hijos no pueden desafiar a su padre; no hay reina reinante. El rey es también el científico de la corte salvo que nombre a uno. Ahora reinan el **rey Nooru** y la **reina Satomi**."
  },
+ "ae9b4a0bc219": {
+  "en": "**Law.** Set by each village; some follow Forway Law, some change it every election.",
+  "t": "**Ley.** La fija cada aldea; algunas siguen la Ley de Forway y otras la cambian en cada elección."
+ },
  "af9b317b17c6": {
   "en": "**Guards.** The most relaxed guards around — but in big packs, with gauntlets and slow, heavy elemental spells that break your will. Nari gels in a pinch.",
   "t": "**Guardias.** Los guardias más relajados que hay, pero en grupos grandes, con guanteletes y conjuros elementales lentos y pesados que te quiebran la voluntad. Nari gels en caso de apuro."
+ },
+ "b2005d596bdd": {
+  "en": "**Guilds.** Gyut Farming, Greenbread Farming, Two Hearts (adventurers).",
+  "t": "**Gremios.** Gyut Farming, Greenbread Farming, Two Hearts (aventureros)."
  },
  "b92530749048": {
   "en": "**Places.** Sanbi Castle (three floors plus three five-story towers: west = Soul Energy department and labs, south = royal quarters, east = guest rooms and a playroom; only one gate, by the **Sanbi Fish Fountain**), the Dockyard, the **Old Wharf** (burials), Ungandy's factory (deep-blue nari bombs), Main Street Market, the Fish Drier and Fish Oil factories, **The Dead Wozen** tavern, Miirin's Cookery (tapas and killer desserts), **Broken Beak Hotel** (adventurers from Tastyleaf), the **Shaved Bagarisa** tavern, the Fish Gut Triage suburbs. Two-to-three-story buildings with white lime interiors.",
@@ -142,6 +166,10 @@
  "bbf24c35345d": {
   "en": "**King-Maid** — economy, bookkeeping, the castle maids. Frugality is law.\nRoyals have **blue strands of hair**. All royals belong to the **Sanbi Royal** guild.",
   "t": "**King-Maid**: economía, contabilidad, las doncellas del castillo. El ahorro es ley.\nLa realeza tiene **mechones de pelo azul**. Toda la realeza pertenece al gremio **Sanbi Royal**."
+ },
+ "bd435669966e": {
+  "en": "**Festivals.** **Blood & Soil** (fall; the groups exchange gifts and party), **White Roundies Arrival** (winter; play fetch, trade food for whatever they bring up from the sea), the banned Village Competition (ended in a brawl in 998 A.G.).",
+  "t": "**Festivales.** **Sangre y Tierra** (otoño; los grupos se intercambian regalos y hacen fiesta), **Llegada de los White Roundies** (invierno; juega a lanzarles cosas y cambia comida por lo que suban del mar), y la prohibida Competición de Aldeas (terminó en una pelea multitudinaria en 998 A.G.)."
  },
  "cad2fc4c8e64": {
   "en": "**Festivals.** **Shake Belly** (last days of Adrian, 3 days: shake your belly at a door marked with a ladle to earn food), **Harvest Festival** (Moacir; popular-vote booze contest).",
@@ -167,6 +195,10 @@
   "en": "*Fat, rich, punctual, honest brewers and farmers. ~70,000 people.*",
   "t": "*Cerveceros y granjeros gordos, ricos, puntuales y honrados. ~70.000 habitantes.*"
  },
+ "d700c04d6c89": {
+  "en": "**Burial.** In fields or woods, under a stone carved in Vraki.",
+  "t": "**Entierro.** En campos o bosques, bajo una piedra tallada en vraki."
+ },
  "df00b11bdc65": {
   "en": "**Marriage.** Two Darfaries who like each other duel; a **draw** means they mate for life.",
   "t": "**Matrimonio.** Dos Darfaries que se gustan se baten en duelo; un **empate** significa que se emparejan de por vida."
@@ -174,6 +206,10 @@
  "df84edaf9697": {
   "en": "Kingdoms",
   "t": "Reinos"
+ },
+ "e2d056e6cb21": {
+  "en": "**Villages.** Governor State, Carbeyland (two \"originals\"), Farplace, Treetop, The Mill, Big Gyut, Sweet Siguash, Peaceful Life, Endland, Crossroads, Lishies Eater (oldest).",
+  "t": "**Aldeas.** Estado del Gobernador, Carbeyland (dos «originales»), Farplace, Treetop, The Mill, Big Gyut, Sweet Siguash, Peaceful Life, Endland, Crossroads, Lishies Eater (la más antigua)."
  },
  "e30eb250ee78": {
   "en": "**Food.** Fried Fish Balls (5 pearls/stick of 10), Sanbi Beer (with fish oil; supposedly an aphrodisiac; ~6/L), Bread Beer (~3/L), Hard Mud snack.",
@@ -190,6 +226,10 @@
  "e5798a66780d": {
   "en": "**Festivals.** Sanbi Fish Parade (Adrian, everyone in fish costumes), the daily Safe Fishing Prayer dance at the docks, White Roundies Arrival (winter).",
   "t": "**Fiestas.** El Desfile del Pez de Sanbi (Adrian, todo el mundo disfrazado de pez), la danza diaria de la Plegaria por la Pesca Segura en los muelles, la Llegada de los White Roundies (invierno)."
+ },
+ "e775f5bf3c92": {
+  "en": "**Local quests.** Ganyrami bounty hunting, nari stone transport.",
+  "t": "**Misiones locales.** Caza de recompensas en Ganyrami, transporte de piedra de nari."
  },
  "ebd09be54071": {
   "en": "**Local quests.** Crocus control, Cruro reconnaissance, Aldemeri bounties, Newland exploration, sea patrol.",
