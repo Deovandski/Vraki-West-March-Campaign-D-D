@@ -1,0 +1,16 @@
+/* LanguagePicker (site/js/lang-picker.js). Theme it with the --lang-picker-* custom properties. */
+.lang-picker { font: inherit; }
+.lang-picker__label { margin: 0 0 6px; font-weight: 700; }
+.lang-picker__list { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 6px; }
+.lang-picker__opt {
+  display: flex; flex-direction: column; align-items: flex-start; gap: 1px; text-align: start;
+  padding: 7px 10px; min-height: 44px; cursor: pointer; font: inherit; line-height: 1.25;
+  color: var(--lang-picker-ink, inherit); background: transparent;
+  border: 1px solid var(--lang-picker-line, rgba(127, 127, 127, 0.45)); border-radius: var(--lang-picker-radius, 6px);
+}
+.lang-picker__opt:hover { border-color: var(--lang-picker-on, #1f3a2e); }
+.lang-picker__opt:focus-visible { outline: 2px solid var(--lang-picker-on, #1f3a2e); outline-offset: 2px; }
+.lang-picker__opt[aria-checked="true"] { background: var(--lang-picker-on, #1f3a2e); color: var(--lang-picker-on-ink, #fff); border-color: var(--lang-picker-on, #1f3a2e); }
+.lang-picker__name { font-weight: 700; }
+.lang-picker__en, .lang-picker__pct { font-size: 0.8em; color: var(--lang-picker-muted, inherit); opacity: 0.8; }
+.lang-picker__opt[aria-checked="true"] .lang-picker__en, .lang-picker__opt[aria-checked="true"] .lang-picker__pct { color: inherit; }

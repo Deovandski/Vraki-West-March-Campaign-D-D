@@ -85,7 +85,7 @@ h1, h2, h3, h4 { line-height: 1.2; text-wrap: balance; }
 .role-switch { display: flex; border: 1px solid var(--wood-mute); border-radius: 999px; padding: 2px; }
 .role-switch button { font: 700 14px/1 var(--ui); letter-spacing: 0.03em; color: var(--wood-ink); background: none; border: 0; padding: 7px 14px; border-radius: 999px; cursor: pointer; }
 .role-switch button[aria-checked="true"] { background: var(--wood-ink); color: var(--wood); }
-.search { flex: 1; max-width: 420px; margin-left: auto; }
+.search { flex: 1; max-width: 420px; margin-inline-start: auto; }
 .search input { width: 100%; font: 15px var(--ui); padding: 8px 12px; border-radius: var(--radius); border: 1px solid transparent; background: var(--wood-2); color: var(--wood-ink); }
 .search input::placeholder { color: var(--wood-mute); }
 .search input:focus { background: var(--card); color: var(--ink); }
@@ -190,7 +190,7 @@ main { min-width: 0; padding: 32px clamp(16px, 4vw, 48px) 80px; outline: none; }
 .wz-todo li + li { margin-top: 6px; }
 .wz-links { margin: 14px 0 4px; }
 .wz-nav { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--line-2); }
-.wz-next { display: flex; flex-wrap: wrap; gap: 8px; margin-left: auto; }
+.wz-next { display: flex; flex-wrap: wrap; gap: 8px; margin-inline-start: auto; }
 .wz-check { list-style: none; padding: 0; margin: 4px 0 16px; }
 .wz-check li { display: flex; gap: 10px; align-items: baseline; padding: 5px 0; }
 .wz-check li > span:first-child { font: 700 16px var(--ui); width: 1.2em; color: var(--ink-2); }
@@ -340,7 +340,7 @@ input[type="checkbox"], input[type="radio"] { width: 18px; height: 18px; accent-
 .v-num { width: 3.8em !important; font: 700 17px var(--ui); text-align: center; padding: 4px; }
 .v-num.tiny { width: 3.4em !important; font-size: 14px; }
 .slash { color: var(--ink-2); }
-.temp { display: inline-flex; align-items: center; gap: 4px; font-size: 13px; color: var(--ink-2); margin-left: auto; }
+.temp { display: inline-flex; align-items: center; gap: 4px; font-size: 13px; color: var(--ink-2); margin-inline-start: auto; }
 .temp .v-num { width: 3.2em !important; font-size: 14px; }
 .hpbar { position: relative; display: block; height: 8px; border-radius: 4px; background: var(--line-2); overflow: hidden; }
 .hpbar span { position: absolute; inset: 0 auto 0 0; background: var(--wood-2); }
@@ -669,7 +669,7 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .brand { grid-area: brand; }
   .top-actions { grid-area: actions; margin-left: 0; }
   .role-switch { grid-area: role; justify-self: start; }
-  .search { grid-area: search; max-width: none; margin-left: 0; }
+  .search { grid-area: search; max-width: none; margin-inline-start: 0; }
 }
 @media (max-width: 560px) {
   body { font-size: 16px; }
@@ -708,3 +708,55 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .page.trip-print { max-width: none; }
 }
 @page { margin: 14mm 13mm; }
+
+/* ---------------- Settings menu and translations ---------------- */
+.settings-menu { width: min(340px, calc(100vw - 32px)); --lang-picker-on: var(--wood-2); --lang-picker-on-ink: #fff; --lang-picker-line: var(--line); --lang-picker-muted: var(--ink-2); }
+.settings-menu h2 { margin: 0; font: 700 18px var(--ui); }
+.settings-menu h3 { margin: 4px 0 6px; font: 700 15px var(--ui); }
+.settings-menu .lang-picker { font: 15px var(--ui); }
+.settings-menu .lang-picker__opt { background: var(--paper); }
+.settings-menu .lang-picker__opt[aria-checked="true"] { background: var(--wood-2); }
+.settings-more { margin: 0; font: 14px var(--ui); }
+.settings-theme .seg button { padding: 7px 14px; }
+.lang-banner { background: var(--wood-2); color: #f3f7f4; font: 14px/1.4 var(--ui); padding: 6px 16px; border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
+.lang-banner p { margin: 0 auto; max-width: 1200px; }
+.lang-banner .link { color: inherit; font: 700 14px var(--ui); text-decoration: underline; padding: 0 2px; }
+.kept-en { font: 14px/1.45 var(--ui); color: var(--ink-2); border-inline-start: 3px solid var(--line); padding-inline-start: 10px; }
+@media (max-width: 800px) {
+  /* The gear's menu has the light/dark switch, so the top bar keeps one button for both on phones. */
+  .top-actions .theme-btn { display: none; }
+  .lang-banner { padding: 6px 12px; font-size: 13px; }
+}
+
+/* Chinese, Japanese, Korean and Arabic use the reader's system fonts (the site's fonts have no such letters).
+   The Vraki script and dice stay as they are. */
+:root:lang(zh), :root:lang(ja), :root:lang(ko), :root:lang(ar) {
+  --serif: "Schola", system-ui, -apple-system, "Segoe UI", "Noto Sans", sans-serif;
+  --ui: "HerosCn", system-ui, -apple-system, "Segoe UI", "Noto Sans", sans-serif;
+}
+:root:lang(zh) { --serif: "Schola", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC", system-ui, sans-serif; --ui: "HerosCn", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC", system-ui, sans-serif; }
+:root:lang(ja) { --serif: "Schola", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", "Noto Sans CJK JP", "Noto Sans JP", system-ui, sans-serif; --ui: "HerosCn", "Hiragino Sans", "Yu Gothic", "Meiryo", "Noto Sans CJK JP", "Noto Sans JP", system-ui, sans-serif; }
+:root:lang(ko) { --serif: "Schola", "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans CJK KR", "Noto Sans KR", system-ui, sans-serif; --ui: "HerosCn", "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans CJK KR", "Noto Sans KR", system-ui, sans-serif; }
+:root:lang(ar) { --serif: "Schola", "Geeza Pro", "Segoe UI", "Tahoma", "Noto Naskh Arabic", "Noto Sans Arabic", system-ui, sans-serif; --ui: "HerosCn", "Geeza Pro", "Segoe UI", "Tahoma", "Noto Sans Arabic", system-ui, sans-serif; }
+:root:lang(zh) body, :root:lang(ja) body, :root:lang(ko) body { line-break: strict; word-break: normal; overflow-wrap: anywhere; }
+:root:lang(ar) body { line-height: 1.75; }
+/* Pages or pieces still in English keep the site's own fonts. */
+[lang="en"] { --serif: "Schola", "Century Schoolbook", Georgia, serif; }
+
+/* Right to left (Arabic): the grid flips by itself; these are the pieces placed by left/right. */
+[dir="rtl"] .data-menu { right: auto; left: 16px; }
+[dir="rtl"] .dice-tray { right: auto; left: 16px; }
+[dir="rtl"] .sidenav { border-right: 0; border-left: 1px solid rgba(0, 0, 0, 0.2); }
+[dir="rtl"] .toc { border-left: 0; border-right: 2px solid var(--line); padding-left: 0; padding-right: 14px; }
+[dir="rtl"] .data-menu button, [dir="rtl"] .filebtn { text-align: right; }
+[dir="rtl"] .skip { left: auto; right: -999px; }
+[dir="rtl"] .skip:focus { right: 8px; }
+[dir="rtl"] .l-total { text-align: left; }
+[dir="rtl"] .route li + li::before { right: auto; left: calc(50% + 46px); }
+@media (max-width: 900px) {
+  [dir="rtl"] .sidenav { left: auto; right: 0; transform: translateX(102%); }
+  [dir="rtl"] body.nav-open .sidenav { transform: none; }
+}
+@media (max-width: 560px) {
+  [dir="rtl"] .route li + li::before { left: calc(50% + 38px); }
+}

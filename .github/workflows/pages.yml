@@ -35,6 +35,23 @@ jobs:
       - name: Write llms.txt, llms-full.txt and sitemap.xml for AI tools and search engines
         run: node site/build-llms.js
 
+      - name: Render the handouts in each language
+        # Into Handouts/<lang>/. If this fails the site still deploys, with the English handouts.
+        continue-on-error: true
+        shell: bash
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-texgyre fonts-noto-cjk fonts-noto-core > /dev/null
+          cd Handouts/source
+          npm install --no-save --silent playwright
+          npx playwright install --with-deps chromium > /dev/null
+          node render.js --all
+
+      - name: Write the translations the site loads (site/i18n/)
+        run: node tools/i18n.js build
+
+      - name: Report how much is translated
+        run: node tools/i18n.js report >> "$GITHUB_STEP_SUMMARY"
+
       - name: Stamp the service worker with this commit
         # Each deploy saves a fresh copy of the site on people's devices and drops the old one.
         run: sed -i "s/__BUILD__/${GITHUB_SHA::8}/" sw.js

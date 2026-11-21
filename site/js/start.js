@@ -8,6 +8,7 @@
   const { esc, encPath, clamp, num } = VW.util;
   const store = VW.store;
   const app = VW.app;
+  const { __, N_ } = VW.i18n;
   const D = "D&D Campaign/";
   const doc = (path, label, primary) => ({ href: app.docHash(path), label, primary });
   const tool = (id, label, primary) => ({ href: "#/t/" + id, label, primary });
@@ -15,97 +16,97 @@
 
   const GUIDES = {
     player: {
-      kicker: "Player 101", title: "Get ready to play",
-      lede: "Six steps from never heard of it to sitting at the table with an adventurer. Each one takes a few minutes; open the links when you need the details.",
-      skip: { href: "#/t/mine", label: "my adventurers" },
-      done: "You're ready. Grab a quest, sign in blood, and come back alive.",
-      finish: [tool("mine", "My adventurers", true), doc(D + "06 - Quest Board.md", "Quest board"), tool("calculators", "Calculators")],
+      kicker: __("Player 101"), title: __("Get ready to play"),
+      lede: __("Six steps from never heard of it to sitting at the table with an adventurer. Each one takes a few minutes; open the links when you need the details."),
+      skip: { href: "#/t/mine", label: __("Skip to my adventurers") },
+      done: __("You're ready. Grab a quest, sign in blood, and come back alive."),
+      finish: [tool("mine", __("My adventurers"), true), doc(D + "06 - Quest Board.md", __("Quest board")), tool("calculators", __("Calculators"))],
       steps: [
-        { id: "world", short: "The world", title: "Get to know the world",
-          why: "Vraki is the world of the #HusbandOutWorld light novels: soul energy instead of magic, killer trees, moody undead castles and a lot of bureaucracy.",
-          todo: ["Read <b>The World at a Glance</b> (about five minutes).",
-            "Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play."],
-          links: [doc("World Lore/01 - The World at a Glance.md", "The world at a glance", true), doc("World Lore/README.md", "All world lore")] },
-        { id: "table", short: "How it works", title: "Learn how an open table works",
-          why: "This is a West March: there's a pool of players, not a fixed party. Whoever signs up for a session is the party that day.",
-          todo: ["Every session starts at a Forway <b>embassy</b> and should end back at one.",
-            "The players pick where to go: a quest from the board, a rumor or a spot on the map.",
-            "It's one shared world. Whatever your party kills, maps or angers stays that way for everyone."],
-          links: [doc("README.md", "About this campaign", true), doc("World Lore/05 - Adventurers, Guilds & Professions.md", "Adventurers & guilds")] },
-        { id: "make", short: "Your adventurer", title: "Make your adventurer",
-          why: "Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise.",
-          todo: ["Pick a people: mixed-blood human, Darfaries, Wozefaries, Cruro and more. There are no elves or dwarves.",
-            "Pick any class (magic is soul energy science) and a background.",
-            "Your name is <b>NAME PLACE GUILD</b>. Starting money: class gear plus " + roll("2d4") + " × 10 pearls. Roll " + roll("1d6") + " for starting debt.",
-            "In a hurry? Take one of the nine pre-made level 3 adventurers."],
-          links: [doc(D + "02 - Making an Adventurer.md", "Making an adventurer", true), doc(D + "Adventurers/README.md", "Pre-made adventurers"), tool("mine", "Save it in My adventurers")] },
-        { id: "rules", short: "House rules", title: "Learn what's different from normal 5e",
-          why: "A handful of rules change how the game feels. Skim them now; the DM will remind you at the table.",
-          todo: ["<b>Travel by circles:</b> count the circles on the travel map (Forway to Sanbi is 6); each is 1, 2 or 3 days.",
-            "<b>Soul Points</b> = proficiency bonus + Constitution modifier. Sigil rings and nari gels spend them.",
-            "<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid."],
-          links: [doc(D + "01 - Travel by Circles.md", "Travel by circles", true), tool("map", "Travel map"), doc(D + "03 - Soul Energy, Interfaces & Sigil Rings.md", "Soul energy"), doc(D + "04 - Nari Gels & Gear.md", "Nari gels & gear"), doc(D + "05 - Death, Revival & Debt.md", "Death, revival & debt")] },
-        { id: "quest", short: "Pick a quest", title: "Pick a quest and find a party",
-          why: "Players drive a West March. Before a session, agree on a quest with whoever's free and tell the DM so they can prepare.",
-          todo: ["Choose a quest at your rank (Pearl to start) from the quest board.",
-            "Post a <b>Party Wanted</b> sign-up so others can join.",
-            "Mind the deadline: the round trip in days, plus 50%."],
-          links: [doc(D + "06 - Quest Board.md", "Quest board", true), tool("handouts", "Party Wanted and other handouts"), doc(D + "09 - Factions & Reputation.md", "Factions & reputation")] },
-        { id: "play", short: "At the table", title: "Bring it to the table",
-          why: "This site is your character sheet helper during play.",
-          todo: ["Track HP, Soul Points, balls and debt in <b>My adventurers</b>.",
-            "Any roll in the rules, like " + roll("2d6+3") + ", is a button; the dice tray has the rest.",
-            "Your work saves in this browser. Use the save button at the top to download a file for another device.",
-            "After the session, help fill in the expedition report so the next party knows what's out there."],
-          links: [tool("mine", "My adventurers", true), tool("calculators", "Calculators"), { href: encPath("Handouts/images/16-Adventurers-Reference.jpg"), label: "One-page reference card", ext: true }] }
+        { id: "world", short: __("The world"), title: __("Get to know the world"),
+          why: __("Vraki is the world of the #HusbandOutWorld light novels: soul energy instead of magic, killer trees, moody undead castles and a lot of bureaucracy."),
+          todo: [__("Read <b>The World at a Glance</b> (about five minutes)."),
+            __("Heads up: the lore pages reveal secrets of the world. Stop at the overview if you want to discover things in play.")],
+          links: [doc("World Lore/01 - The World at a Glance.md", __("The world at a glance"), true), doc("World Lore/README.md", __("All world lore"))] },
+        { id: "table", short: __("How it works"), title: __("Learn how an open table works"),
+          why: __("This is a West March: there's a pool of players, not a fixed party. Whoever signs up for a session is the party that day."),
+          todo: [__("Every session starts at a Forway <b>embassy</b> and should end back at one."),
+            __("The players pick where to go: a quest from the board, a rumor or a spot on the map."),
+            __("It's one shared world. Whatever your party kills, maps or angers stays that way for everyone.")],
+          links: [doc("README.md", __("About this campaign"), true), doc("World Lore/05 - Adventurers, Guilds & Professions.md", "Adventurers & guilds")] },
+        { id: "make", short: __("Your adventurer"), title: __("Make your adventurer"),
+          why: __("Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise."),
+          todo: [__("Pick a people: mixed-blood human, Darfaries, Wozefaries, Cruro and more. There are no elves or dwarves."),
+            __("Pick any class (magic is soul energy science) and a background."),
+            __("Your name is <b>NAME PLACE GUILD</b>. Starting money: class gear plus {a} × 10 pearls. Roll {b} for starting debt.", { a: roll("2d4"), b: roll("1d6") }),
+            __("In a hurry? Take one of the nine pre-made level 3 adventurers.")],
+          links: [doc(D + "02 - Making an Adventurer.md", __("Making an adventurer"), true), doc(D + "Adventurers/README.md", __("Pre-made adventurers")), tool("mine", __("Save it in My adventurers"))] },
+        { id: "rules", short: __("House rules"), title: __("Learn what's different from normal 5e"),
+          why: __("A handful of rules change how the game feels. Skim them now; the DM will remind you at the table."),
+          todo: [__("<b>Travel by circles:</b> count the circles on the travel map (Forway to Sanbi is 6); each is 1, 2 or 3 days."),
+            __("<b>Soul Points</b> = proficiency bonus + Constitution modifier. Sigil rings and nari gels spend them."),
+            __("<b>Death:</b> get your body to an embassy in time and Forway revives you, then takes 50% of your quest pay until the debt is paid.")],
+          links: [doc(D + "01 - Travel by Circles.md", __("Travel by circles"), true), tool("map", __("Travel map")), doc(D + "03 - Soul Energy, Interfaces & Sigil Rings.md", "Soul energy"), doc(D + "04 - Nari Gels & Gear.md", __("Nari gels & gear")), doc(D + "05 - Death, Revival & Debt.md", "Death, revival & debt")] },
+        { id: "quest", short: __("Pick a quest"), title: __("Pick a quest and find a party"),
+          why: __("Players drive a West March. Before a session, agree on a quest with whoever's free and tell the DM so they can prepare."),
+          todo: [__("Choose a quest at your rank (Pearl to start) from the quest board."),
+            __("Post a <b>Party Wanted</b> sign-up so others can join."),
+            __("Mind the deadline: the round trip in days, plus 50%.")],
+          links: [doc(D + "06 - Quest Board.md", __("Quest board"), true), tool("handouts", __("Party Wanted and other handouts")), doc(D + "09 - Factions & Reputation.md", __("Factions & reputation"))] },
+        { id: "play", short: __("At the table"), title: __("Bring it to the table"),
+          why: __("This site is your character sheet helper during play."),
+          todo: [__("Track HP, Soul Points, balls and debt in <b>My adventurers</b>."),
+            __("Any roll in the rules, like {a}, is a button; the dice tray has the rest.", { a: roll("2d6+3") }),
+            __("Your work saves in this browser. Use the save button at the top to download a file for another device."),
+            __("After the session, help fill in the expedition report so the next party knows what's out there.")],
+          links: [tool("mine", __("My adventurers"), true), tool("calculators", __("Calculators")), { href: encPath("Handouts/images/16-Adventurers-Reference.jpg"), label: __("One-page reference card"), ext: true }] }
       ]
     },
     dm: {
-      kicker: "DM 101", title: "Get ready to run the West March",
-      lede: "Six steps to run your first session, and the loop you'll repeat before and after each one. Open the links when you need the details.",
-      skip: { href: "#/t/travel", label: "the travel planner" },
-      done: "You're ready. Put the quest board out and let the players choose.",
-      finish: [tool("travel", "Travel planner", true), tool("party", "Party"), tool("campaign", "Campaign")],
+      kicker: __("DM 101"), title: __("Get ready to run the West March"),
+      lede: __("Six steps to run your first session, and the loop you'll repeat before and after each one. Open the links when you need the details."),
+      skip: { href: "#/t/travel", label: __("Skip to the travel planner") },
+      done: __("You're ready. Put the quest board out and let the players choose."),
+      finish: [tool("travel", __("Travel planner"), true), tool("party", __("Party")), tool("campaign", __("Campaign"))],
       steps: [
-        { id: "guide", short: "The DM guide", title: "Read the DM guide",
-          why: "It sets the pitch and the six rules of an open table: a pool of players, players drive, start and end at an embassy, one shared world, real-ish time, rewards from the world.",
-          todo: ["Read <b>How a West March runs</b> in the DM guide.",
-            "Pick your in-world year (default: the 1040s A.G.) and who's alive.",
-            "Skim the world at a glance if you don't know the series."],
-          links: [doc(D + "README.md", "DM guide", true), doc("World Lore/01 - The World at a Glance.md", "The world at a glance")] },
-        { id: "travel", short: "Travel & events", title: "Learn travel and events",
-          why: "Travel is the heart of the game, and it has no math: circles on the map, and you turn the pace knob.",
-          todo: ["Count the circles on the travel map: Forway to Sanbi is 6, Gandew to Sundeath is 19.",
-            "Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer.",
-            "Each day has four shifts. Roll the event die on Graveyard and Night: " + roll("d6") + ", 1 is an encounter, 2 a sign of one.",
-            "Encounters come from the d12 table for the region."],
-          links: [doc(D + "01 - Travel by Circles.md", "Travel by circles", true), doc(D + "07 - Events & Encounters.md", "Events & encounters"), tool("map", "The travel map")] },
-        { id: "danger", short: "Secrets & danger", title: "Learn the secrets and the dangers",
-          why: "The world bites back. These pages are DM-only: players shouldn't read them.",
-          todo: ["Dangerous places: Bahyum's Castle Mood, Hifuna exposure, the desert, the caverns.",
-            "The Inside Job: on cargo escorts, bandits may offer the party a cut.",
-            "Death, revival and debt, and how factions remember the party.",
-            "DM secrets: the hidden truths of the world."],
-          links: [doc(D + "08 - Dangerous Places.md", "Dangerous places", true), doc(D + "10 - The Inside Job (Bandit Offer).md", "The Inside Job"), doc(D + "05 - Death, Revival & Debt.md", "Death, revival & debt"), doc(D + "DM Secrets.md", "DM secrets")] },
-        { id: "setup", short: "Set up", title: "Set up the campaign",
-          why: "One shared world needs one shared record. Set it up once; every session adds to it.",
-          todo: ["On the <b>Campaign</b> page: name it, set the in-world date, and start the Castle Mood, Heat and faction reputation.",
-            "Print or share the handouts: quest board, Party Wanted, badge cards, the players' reference card.",
-            "Keep a shared copy of the travel map to mark explored circles."],
-          links: [tool("campaign", "Campaign", true), tool("handouts", "Handouts"), doc(D + "06 - Quest Board.md", "Quest board")] },
-        { id: "prep", short: "Before a session", title: "Prepare a session",
-          why: "The players tell you where they're going; you prep that trip.",
-          todo: ["Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click).",
-            "Plan the trip in the <b>travel planner</b>: pick From and To and it counts the circles from the map; set the days per circle, then roll the events.",
-            "Look up the creatures you'll need in the bestiary.",
-            "First session? The Alpha one-shot (a wagon escort) is ready to run."],
-          links: [tool("travel", "Travel planner", true), tool("party", "Party"), tool("bestiary", "Bestiary"), doc(D + "Alpha One-Shot - Wagon Escort.md", "Alpha one-shot")] },
-        { id: "run", short: "Run & wrap up", title: "Run it, then wrap it up",
-          why: "Start at the embassy, run the trip shift by shift, and end with the party back somewhere safe.",
-          todo: ["Open each shift in the travel planner to run it: creatures, HP, initiative and notes.",
-            "Afterwards: write the session log, move the in-world date, and have the party fill in an expedition report.",
-            "Download a save file now and then as a backup."],
-          links: [tool("travel", "Travel planner", true), tool("campaign", "Session log"), tool("tables", "Random tables")] }
+        { id: "guide", short: __("The DM guide"), title: __("Read the DM guide"),
+          why: __("It sets the pitch and the six rules of an open table: a pool of players, players drive, start and end at an embassy, one shared world, real-ish time, rewards from the world."),
+          todo: [__("Read <b>How a West March runs</b> in the DM guide."),
+            __("Pick your in-world year (default: the 1040s A.G.) and who's alive."),
+            __("Skim the world at a glance if you don't know the series.")],
+          links: [doc(D + "README.md", __("DM guide"), true), doc("World Lore/01 - The World at a Glance.md", __("The world at a glance"))] },
+        { id: "travel", short: __("Travel & events"), title: __("Learn travel and events"),
+          why: __("Travel is the heart of the game, and it has no math: circles on the map, and you turn the pace knob."),
+          todo: [__("Count the circles on the travel map: Forway to Sanbi is 6, Gandew to Sundeath is 19."),
+            __("Each circle is 1, 2 or 3 days (Fast, Standard, Slow). You choose, to make a trip shorter or longer."),
+            __("Each day has four shifts. Roll the event die on Graveyard and Night: {a}, 1 is an encounter, 2 a sign of one.", { a: roll("d6") }),
+            __("Encounters come from the d12 table for the region.")],
+          links: [doc(D + "01 - Travel by Circles.md", __("Travel by circles"), true), doc(D + "07 - Events & Encounters.md", __("Events & encounters")), tool("map", __("The travel map"))] },
+        { id: "danger", short: __("Secrets & danger"), title: __("Learn the secrets and the dangers"),
+          why: __("The world bites back. These pages are DM-only: players shouldn't read them."),
+          todo: [__("Dangerous places: Bahyum's Castle Mood, Hifuna exposure, the desert, the caverns."),
+            __("The Inside Job: on cargo escorts, bandits may offer the party a cut."),
+            __("Death, revival and debt, and how factions remember the party."),
+            __("DM secrets: the hidden truths of the world.")],
+          links: [doc(D + "08 - Dangerous Places.md", __("Dangerous places"), true), doc(D + "10 - The Inside Job (Bandit Offer).md", __("The Inside Job")), doc(D + "05 - Death, Revival & Debt.md", "Death, revival & debt"), doc(D + "DM Secrets.md", __("DM secrets"))] },
+        { id: "setup", short: __("Set up"), title: __("Set up the campaign"),
+          why: __("One shared world needs one shared record. Set it up once; every session adds to it."),
+          todo: [__("On the <b>Campaign</b> page: name it, set the in-world date, and start the Castle Mood, Heat and faction reputation."),
+            __("Print or share the handouts: quest board, Party Wanted, badge cards, the players' reference card."),
+            __("Keep a shared copy of the travel map to mark explored circles.")],
+          links: [tool("campaign", __("Campaign"), true), tool("handouts", __("Handouts")), doc(D + "06 - Quest Board.md", __("Quest board"))] },
+        { id: "prep", short: __("Before a session"), title: __("Prepare a session"),
+          why: __("The players tell you where they're going; you prep that trip."),
+          todo: [__("Add the adventurers who signed up on the <b>Party</b> page (pre-mades load in one click)."),
+            __("Plan the trip in the <b>travel planner</b>: pick From and To and it counts the circles from the map; set the days per circle, then roll the events."),
+            __("Look up the creatures you'll need in the bestiary."),
+            __("First session? The Alpha one-shot (a wagon escort) is ready to run.")],
+          links: [tool("travel", __("Travel planner"), true), tool("party", __("Party")), tool("bestiary", __("Bestiary")), doc(D + "Alpha One-Shot - Wagon Escort.md", __("Alpha one-shot"))] },
+        { id: "run", short: __("Run & wrap up"), title: __("Run it, then wrap it up"),
+          why: __("Start at the embassy, run the trip shift by shift, and end with the party back somewhere safe."),
+          todo: [__("Open each shift in the travel planner to run it: creatures, HP, initiative and notes."),
+            __("Afterwards: write the session log, move the in-world date, and have the party fill in an expedition report."),
+            __("Download a save file now and then as a backup.")],
+          links: [tool("travel", __("Travel planner"), true), tool("campaign", __("Session log")), tool("tables", __("Random tables"))] }
       ]
     }
   };
@@ -128,37 +129,37 @@
     const count = g.steps.filter((st) => done[st.id]).length;
     const link = (l) => `<a class="btn${l.primary ? " primary" : ""}" href="${l.href}"${l.ext ? ' target="_blank" rel="noopener"' : ""}>${esc(l.label)}</a>`;
 
-    const rail = `<ol class="wz-steps" aria-label="Steps">${g.steps.map((st, k) =>
+    const rail = `<ol class="wz-steps" aria-label="${__("Steps")}">${g.steps.map((st, k) =>
       `<li><a href="${base}?step=${k + 1}" class="${done[st.id] ? "done" : ""}"${k === i ? ' aria-current="step"' : ""}>
         <span class="wz-num">${done[st.id] ? "✓" : k + 1}</span><span class="wz-short">${esc(st.short)}</span></a></li>`).join("")}
-      <li><a href="${base}?step=${n + 1}"${i === n ? ' aria-current="step"' : ""} class="${count === n ? "done" : ""}"><span class="wz-num">★</span><span class="wz-short">Ready</span></a></li></ol>`;
+      <li><a href="${base}?step=${n + 1}"${i === n ? ' aria-current="step"' : ""} class="${count === n ? "done" : ""}"><span class="wz-num">★</span><span class="wz-short">${__("Ready")}</span></a></li></ol>`;
 
     let card;
     if (i < n) {
       const st = g.steps[i];
       card = `<section class="wz-card" aria-labelledby="wz-h">
-        <p class="wz-count">Step ${i + 1} of ${n}</p>
+        <p class="wz-count">${__("Step {n} of {total}", { n: i + 1, total: n })}</p>
         <h2 id="wz-h">${esc(st.title)}</h2>
         <p class="wz-why">${st.why}</p>
         <ul class="wz-todo">${st.todo.map((x) => `<li>${x}</li>`).join("")}</ul>
         <div class="btn-row wz-links">${st.links.map(link).join("")}</div>
         <div class="wz-nav">
-          ${i > 0 ? `<a class="btn quiet" href="${base}?step=${i}">Back</a>` : "<span></span>"}
+          ${i > 0 ? `<a class="btn quiet" href="${base}?step=${i}">${__("Back")}</a>` : "<span></span>"}
           <div class="wz-next">
-            ${done[st.id] ? `<button class="btn quiet" data-action="wz-undo" data-id="${st.id}">Mark as not done</button>` : ""}
-            <button class="btn primary" data-action="wz-done" data-id="${st.id}" data-next="${base}?step=${i + 2}">${done[st.id] ? "Next step" : "Done, next step"}</button>
+            ${done[st.id] ? `<button class="btn quiet" data-action="wz-undo" data-id="${st.id}">${__("Mark as not done")}</button>` : ""}
+            <button class="btn primary" data-action="wz-done" data-id="${st.id}" data-next="${base}?step=${i + 2}">${done[st.id] ? __("Next step") : __("Done, next step")}</button>
           </div>
         </div>
       </section>`;
     } else {
       card = `<section class="wz-card wz-final" aria-labelledby="wz-h">
-        <p class="wz-count">${count} of ${n} steps done</p>
-        <h2 id="wz-h">${count === n ? esc(g.done) : "Almost there"}</h2>
+        <p class="wz-count">${__("{n} of {total} steps done", { n: count, total: n })}</p>
+        <h2 id="wz-h">${count === n ? esc(g.done) : __("Almost there")}</h2>
         <ul class="wz-check">${g.steps.map((st, k) => `<li class="${done[st.id] ? "done" : ""}"><span aria-hidden="true">${done[st.id] ? "✓" : "○"}</span>
-          <a href="${base}?step=${k + 1}">${esc(st.title)}</a>${done[st.id] ? "" : ' <span class="muted">(not done yet)</span>'}</li>`).join("")}</ul>
+          <a href="${base}?step=${k + 1}">${esc(st.title)}</a>${done[st.id] ? "" : ` <span class="muted">${__("(not done yet)")}</span>`}</li>`).join("")}</ul>
         <div class="btn-row">${g.finish.map(link).join("")}</div>
-        <p class="wz-nav-end"><a class="btn quiet" href="${base}?step=${n}">Back</a>
-          ${count ? `<button class="btn quiet" data-action="wz-reset">Start the guide over</button>` : ""}</p>
+        <p class="wz-nav-end"><a class="btn quiet" href="${base}?step=${n}">${__("Back")}</a>
+          ${count ? `<button class="btn quiet" data-action="wz-reset">${__("Start the guide over")}</button>` : ""}</p>
       </section>`;
     }
 
@@ -168,7 +169,7 @@
       <p class="lede">${esc(g.lede)}</p>
       ${rail}
       ${card}
-      <p class="muted small wz-skip">Know your way around already? <a href="${g.skip.href}">Skip to ${esc(g.skip.label)}</a>.</p>
+      <p class="muted small wz-skip">${__("Know your way around already?")} <a href="${g.skip.href}">${esc(g.skip.label)}</a>.</p>
     </div>`;
   }
 
@@ -181,9 +182,9 @@
     };
   }
 
-  app.register("start-player", { title: "Player 101", nav: "Player 101", role: "player", order: 0, playerOnly: true,
+  app.register("start-player", { title: N_("Player 101"), nav: N_("Player 101"), role: "player", order: 0, playerOnly: true,
     render: (m, params) => render(m, params, "player"), onAction: onAction("player") });
-  app.register("start-dm", { title: "DM 101", nav: "DM 101", role: "dm", order: 0,
+  app.register("start-dm", { title: N_("DM 101"), nav: N_("DM 101"), role: "dm", order: 0,
     render: (m, params) => render(m, params, "dm"), onAction: onAction("dm") });
   VW.start = { GUIDES };
 })();

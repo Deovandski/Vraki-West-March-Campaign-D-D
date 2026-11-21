@@ -41,12 +41,12 @@
       const m = /^(.+?)\s*\((?:CR\s*)?([^)]*)\)\s*(?:—\s*(.*))?$/.exec(head);
       if (!m) return;
       if (/template/i.test(m[2])) return; // the Hash template is applied, not fought
-      const c = { name: m[1].trim(), cr: CR(m[2].replace(/,.*$/, "")), crNote: /,/.test(m[2]) ? m[2].split(",").slice(1).join(",").trim() : "", region: (m[3] || "").trim(), kind: "Beast", traits: [], loot: "" };
+      const c = { name: m[1].trim(), cr: CR(m[2].replace(/,.*$/, "")), crNote: /,/.test(m[2]) ? m[2].split(",").slice(1).join(",").trim() : "", region: (m[3] || "").trim(), kind: "Beast", traits: [], loot: "", lootRaw: "" };
       lines.slice(1).forEach((l) => {
         l = l.trim();
         if (!l) return;
         if (/^AC\s*\d/.test(l)) Object.assign(c, parseDefense(l));
-        else if (/^- \*Loot:\*/.test(l) || /^\*Loot:\*/.test(l)) c.loot = stripMd(l.replace(/^- /, "").replace(/^\*Loot:\*\s*/, ""));
+        else if (/^- \*Loot:\*/.test(l) || /^\*Loot:\*/.test(l)) { c.lootRaw = l.replace(/^- /, ""); c.loot = stripMd(c.lootRaw.replace(/^\*Loot:\*\s*/, "")); }
         else if (/^- /.test(l)) c.traits.push(traitOf(l.slice(2)));
       });
       out.push(c);
@@ -54,10 +54,11 @@
     return out;
   }
 
+  // "**Name.** text" -> { name, text, raw } (raw is the Markdown, for looking up its translation)
   function traitOf(s) {
-    const m = /^\*\*([^*]+?)\.?\*\*\.?\s*(.*)$/.exec(s.trim());
-    if (m) return { name: m[1].replace(/\.$/, ""), text: stripMd(m[2]) };
-    return { name: "", text: stripMd(s) };
+    const m = /^\*\*([^*]+?)[.。:：]?\*\*[.。:：]?\s*(.*)$/.exec(s.trim());
+    if (m) return { name: m[1].replace(/[.。]$/, ""), text: stripMd(m[2]), raw: s.trim() };
+    return { name: "", text: stripMd(s), raw: s.trim() };
   }
 
   /* ---------- Fauna.md: table (region, loot) + "**Name (CR x)** — AC .. · HP ..\nTraits" ---------- */
@@ -75,7 +76,7 @@
     let m;
     while ((m = re.exec(md))) {
       const name = m[1].trim();
-      const c = Object.assign({ name, cr: CR(m[2]), kind: "Fauna", traits: [], loot: "" }, parseDefense(m[3]));
+      const c = Object.assign({ name, cr: CR(m[2]), kind: "Fauna", traits: [], loot: "", raw: m[0].trim() }, parseDefense(m[3]));
       const t = table[name] || {};
       c.region = t.region || "";
       c.loot = t.loot || "";
@@ -119,7 +120,7 @@
           if (!l) return;
           if (/^AC\s*\d/.test(l)) Object.assign(c, parseDefense(l));
           else if (/^- /.test(l)) c.traits.push(traitOf(l.slice(2)));
-          else if (!/^Use the 5e blocks/i.test(l)) c.traits.push({ name: "", text: stripMd(l) });
+          else if (!/^Use the 5e blocks/i.test(l)) c.traits.push({ name: "", text: stripMd(l), raw: l });
         });
         if (c.ac == null) {
           // Fall back to the base block named in the heading, the text, or the name itself.
@@ -169,19 +170,23 @@
         const e = /^\s*(\d+)\.\s+(.*)$/.exec(l);
         if (e) entries[+e[1] - 1] = e[2].trim();
       });
-      regions.push({ id: slug(m[1]), name: m[1].trim(), places: (m[2] || "").trim(), entries });
+      regions.push({ id: slug(m[1]), name: m[1].trim(), places: (m[2] || "").trim(), entries, head: lines[0].trim() });
     });
-    const rumors = [];
     const r = md.split(/^## /m).find((s) => /^Rumors/i.test(s));
-    if (r) {
-      const body = r.split("\n").slice(1).join(" ");
-      const re = /(\d+)\.\s+(.*?)(?=\s+\d+\.\s+|$)/g;
-      let m;
-      while ((m = re.exec(body))) rumors[+m[1] - 1] = stripMd(m[2]).replace(/^"|"$/g, "");
-    }
+    const rumorLines = r ? r.split("\n").slice(1).filter((l) => l.trim()) : [];
+    const rumors = splitRumors(rumorLines.join(" "));
     // The event roll line, so the tool can quote it.
     const roll = (/\*\*Event roll \(d6\):\*\*(.*)/.exec(md) || [])[1] || "";
-    return { regions, rumors, eventRoll: stripMd(roll) };
+    return { regions, rumors, rumorLines, eventRoll: stripMd(roll) };
+  }
+
+  // "1. "…" 2. "…"" -> ["…", "…"] (also used on the translated line)
+  function splitRumors(body) {
+    const out = [];
+    const re = /(\d+)\.\s+(.*?)(?=\s+\d+\.\s+|$)/g;
+    let m;
+    while ((m = re.exec(body))) out[+m[1] - 1] = stripMd(m[2]).replace(/^["“「«]|["”」»]$/g, "");
+    return out;
   }
 
   /* ---------- 06 Quest Board: sample quests by rank ---------- */
@@ -197,7 +202,7 @@
         const m = /^\s*(\d+(?:[–-]\d+)?)\.\s+(.*)$/.exec(l);
         if (!m) return;
         const t = /^\*\*(.+?)\*\*\s*—\s*(.*)$/.exec(m[2]);
-        const item = t ? { title: t[1], text: stripMd(t[2]) } : { title: "", text: stripMd(m[2]) };
+        const item = t ? { title: t[1], text: stripMd(t[2]), raw: m[2] } : { title: "", text: stripMd(m[2]), raw: m[2] };
         const range = m[1].split(/[–-]/).map(Number);
         for (let n = range[0]; n <= (range[1] || range[0]); n++) list[n - 1] = item;
       });
@@ -321,7 +326,7 @@
     return { routes, edges };
   }
 
-  const api = { norm, slug, stripMd, parseBeasts, parseFauna, parsePeople, parseTables, parseEncounters, parseQuests, parseAdventurer, parseFactions, parseRoutes, spawnsFor };
+  const api = { norm, slug, stripMd, traitOf, splitRumors, parseBeasts, parseFauna, parsePeople, parseTables, parseEncounters, parseQuests, parseAdventurer, parseFactions, parseRoutes, spawnsFor };
   root.VW = root.VW || {};
   root.VW.parse = api;
   if (typeof module !== "undefined" && module.exports) module.exports = api;

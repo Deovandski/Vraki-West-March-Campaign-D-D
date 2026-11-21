@@ -19,57 +19,105 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="site/css/site.css">
 <link rel="stylesheet" href="site/css/map-viewer.css">
+<link rel="stylesheet" href="site/css/lang-picker.css">
 <script>
   // Apply the saved theme before the page paints.
   try { var t = localStorage.getItem("vraki-west-march:theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
 </script>
+<!-- Languages: which ones there are and how complete (written by tools/i18n.js build). -->
+<script src="site/i18n/languages.js"></script>
+<script>
+  // Pick the language before anything draws: ?lang=xx, else the saved choice, else (first visit) the
+  // browser's language once its translation is at least 90% done, else English. Then load its text.
+  (function () {
+    var K = "vraki-west-march:lang", L = window.VW_LANGS || [], min = window.VW_LANGS_MIN || 0.9, lang = "";
+    var find = function (c) { for (var i = 0; i < L.length; i++) if (L[i].code === c) return L[i]; return null; };
+    try {
+      var q = /[?&]lang=([a-z]{2})/.exec(location.search);
+      if (q && find(q[1])) { lang = q[1]; localStorage.setItem(K, lang); }
+      else lang = localStorage.getItem(K) || "";
+    } catch (e) {}
+    if (!lang) {
+      var want = navigator.languages || [navigator.language || ""];
+      for (var j = 0; j < want.length && !lang; j++) {
+        var c = String(want[j]).toLowerCase().split("-")[0], f = find(c);
+        if (f && f.coverage >= min) lang = c;
+      }
+      lang = lang || "en";
+      try { localStorage.setItem(K, lang); } catch (e) {}
+    }
+    var info = find(lang);
+    if (!info || lang === "en") return;
+    var html = document.documentElement;
+    html.lang = info.html || lang;
+    html.dir = info.dir || "ltr";
+    html.classList.add("lang-" + lang);
+    document.write('<script src="site/i18n/' + lang + '.js"><\/script>');
+  })();
+</script>
 </head>
 <body>
-<a class="skip" href="#main">Skip to content</a>
+<a class="skip" href="#main" data-i18n>Skip to content</a>
 <header class="topbar">
-  <button class="icon-btn menu-btn" data-action="toggle-nav" aria-label="Open the menu" aria-expanded="false">
+  <button class="icon-btn menu-btn" data-action="toggle-nav" aria-label="Open the menu" aria-expanded="false" data-i18n-attr="aria-label">
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
   </button>
-  <a class="brand" href="#/" aria-label="Vraki West March home">
+  <a class="brand" href="#/" aria-label="Vraki West March home" data-i18n-attr="aria-label">
     <img src="Handouts/source/assets/forway-emblem.png" alt="" width="34" height="34">
     <span class="brand-name">Vraki West March</span>
   </a>
-  <div class="role-switch" role="radiogroup" aria-label="Who's using the site">
-    <button role="radio" data-action="role" data-role="player" aria-checked="true">Player</button>
-    <button role="radio" data-action="role" data-role="dm" aria-checked="false">DM</button>
+  <div class="role-switch" role="radiogroup" aria-label="Who's using the site" data-i18n-attr="aria-label">
+    <button role="radio" data-action="role" data-role="player" aria-checked="true" data-i18n>Player</button>
+    <button role="radio" data-action="role" data-role="dm" aria-checked="false" data-i18n>DM</button>
   </div>
   <form class="search" role="search" data-action="search">
-    <label class="sr" for="q">Search the rules and lore</label>
-    <input id="q" type="search" placeholder="Search rules, lore, creatures" autocomplete="off">
+    <label class="sr" for="q" data-i18n>Search the rules and lore</label>
+    <input id="q" type="search" placeholder="Search rules, lore, creatures" autocomplete="off" data-i18n-attr="placeholder">
   </form>
   <div class="top-actions">
     <span class="save-status" id="save-status" aria-live="polite"></span>
-    <button class="icon-btn" data-action="data-menu" aria-label="Save and load" aria-haspopup="true" aria-expanded="false" title="Save and load">
+    <button class="icon-btn" data-action="data-menu" aria-label="Save and load" aria-haspopup="true" aria-expanded="false" title="Save and load" data-i18n-attr="aria-label title">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h11l3 3v13H5z"/><path d="M8 4v5h7V4M8 20v-6h8v6"/></svg>
     </button>
-    <button class="icon-btn" data-action="theme" aria-label="Switch light or dark" title="Light or dark">
+    <button class="icon-btn theme-btn" data-action="theme" aria-label="Switch light or dark" title="Light or dark" data-i18n-attr="aria-label title">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z"/></svg>
     </button>
-    <button class="dice-btn" data-action="dice-open" aria-label="Open the dice tray" aria-expanded="false">
+    <button class="icon-btn" data-action="settings" aria-label="Settings: language and theme" title="Settings" aria-haspopup="true" aria-expanded="false" data-i18n-attr="aria-label title">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1L7 17M17 7l2.1-2.1"/></svg>
+    </button>
+    <button class="dice-btn" data-action="dice-open" aria-label="Open the dice tray" aria-expanded="false" data-i18n-attr="aria-label">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l9 5v10l-9 5-9-5V7z"/><path d="M12 2v20M3 7l9 5 9-5"/></svg>
-      <span>Dice</span>
+      <span data-i18n>Dice</span>
     </button>
   </div>
   <div class="data-menu" id="data-menu" hidden>
-    <p class="data-menu-note">Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.</p>
+    <p class="data-menu-note" data-i18n>Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.</p>
     <div class="data-menu-app">
-      <button data-pwa-install hidden>Install as an app</button>
-      <p class="data-menu-note" data-pwa-ios hidden>To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.</p>
+      <button data-pwa-install hidden data-i18n>Install as an app</button>
+      <p class="data-menu-note" data-pwa-ios hidden data-i18n>To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.</p>
       <p class="data-menu-note pwa-status" data-pwa-status aria-live="polite"></p>
     </div>
-    <button data-action="export">Download save file (.json)</button>
-    <label class="filebtn">Load a save file<input type="file" accept=".json,application/json" data-action="import"></label>
-    <button class="danger" data-action="reset">Start over</button>
+    <button data-action="export" data-i18n>Download save file (.json)</button>
+    <label class="filebtn"><span data-i18n>Load a save file</span><input type="file" accept=".json,application/json" data-action="import"></label>
+    <button class="danger" data-action="reset" data-i18n>Start over</button>
+  </div>
+  <div class="data-menu settings-menu" id="settings-menu" role="group" aria-labelledby="settings-h" hidden>
+    <h2 id="settings-h" data-i18n>Settings</h2>
+    <div class="lang-picker" data-lang-picker data-label="Language" data-storage-key="vraki-west-march:lang"></div>
+    <p class="settings-more"><a href="https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7" target="_blank" rel="noopener" data-i18n>Want a language added?</a></p>
+    <div class="settings-theme" role="group" aria-labelledby="theme-h">
+      <h3 id="theme-h" data-i18n>Theme</h3>
+      <div class="seg small">
+        <button data-action="theme-set" data-theme="light" aria-pressed="false" data-i18n>Light</button>
+        <button data-action="theme-set" data-theme="dark" aria-pressed="false" data-i18n>Dark</button>
+      </div>
+    </div>
   </div>
 </header>
+<div class="lang-banner" id="lang-banner" hidden></div>
 
 <div class="layout">
-  <nav class="sidenav" id="sidenav" aria-label="Site"></nav>
+  <nav class="sidenav" id="sidenav" aria-label="Site" data-i18n-attr="aria-label"></nav>
   <main id="main" tabindex="-1">
     <noscript>
       <div class="page noscript-note">
@@ -86,14 +134,14 @@
     </noscript>
   </main>
   <footer class="site-footer">
-    <p>Plain text for AI tools and search engines: <a href="llms.txt">llms.txt</a> · <a href="llms-full.txt">llms-full.txt</a> · <a href="sitemap.xml">sitemap.xml</a></p>
+    <p><span data-i18n>Plain text for AI tools and search engines:</span> <a href="llms.txt">llms.txt</a> · <a href="llms-full.txt">llms-full.txt</a> · <a href="sitemap.xml">sitemap.xml</a></p>
   </footer>
 </div>
 
-<aside class="dice-tray" id="dice-tray" aria-label="Dice tray" hidden>
+<aside class="dice-tray" id="dice-tray" aria-label="Dice tray" data-i18n-attr="aria-label" hidden>
   <div class="tray-head">
-    <h2>Dice</h2>
-    <button class="icon-btn" data-action="dice-close" aria-label="Close the dice tray">
+    <h2 data-i18n>Dice</h2>
+    <button class="icon-btn" data-action="dice-close" aria-label="Close the dice tray" data-i18n-attr="aria-label">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
     </button>
   </div>
@@ -104,26 +152,27 @@
     <button data-action="roll" data-expr="d100">d100</button>
   </div>
   <form class="dice-form" data-action="roll-form">
-    <label for="dice-expr">Roll anything</label>
+    <label for="dice-expr" data-i18n>Roll anything</label>
     <div class="row">
       <input id="dice-expr" placeholder="2d6+3" autocomplete="off" spellcheck="false">
-      <button type="submit">Roll</button>
+      <button type="submit" data-i18n>Roll</button>
     </div>
-    <div class="adv" role="radiogroup" aria-label="d20 mode">
-      <label><input type="radio" name="adv" value="" checked> Normal</label>
-      <label><input type="radio" name="adv" value="adv"> Advantage</label>
-      <label><input type="radio" name="adv" value="dis"> Disadvantage</label>
+    <div class="adv" role="radiogroup" aria-label="d20 mode" data-i18n-attr="aria-label">
+      <label><input type="radio" name="adv" value="" checked> <span data-i18n>Normal</span></label>
+      <label><input type="radio" name="adv" value="adv"> <span data-i18n>Advantage</span></label>
+      <label><input type="radio" name="adv" value="dis"> <span data-i18n>Disadvantage</span></label>
     </div>
   </form>
   <div class="dice-result" id="dice-result" aria-live="polite"></div>
-  <div class="dice-log-head"><h3>History</h3><button class="link" data-action="dice-clear">Clear</button></div>
+  <div class="dice-log-head"><h3 data-i18n>History</h3><button class="link" data-action="dice-clear" data-i18n>Clear</button></div>
   <ol class="dice-log" id="dice-log"></ol>
-  <p class="tray-tip">Tip: any roll written in the rules, like 2d6+3, is a button. Tap it to roll.</p>
+  <p class="tray-tip" data-i18n>Tip: any roll written in the rules, like 2d6+3, is a button. Tap it to roll.</p>
 </aside>
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <script src="site/vendor/marked.umd.js"></script>
+<script src="site/js/i18n.js"></script>
 <script src="site/js/parse.js"></script>
 <script src="site/js/core.js"></script>
 <script src="site/js/content.js"></script>
@@ -134,6 +183,7 @@
 <script src="site/js/start.js"></script>
 <script src="site/js/map-viewer.js"></script>
 <script src="site/js/map.js"></script>
+<script src="site/js/lang-picker.js"></script>
 <script>VW.app.start();</script>
 <script src="site/js/pwa.js" data-sw="sw.js" data-scope="./" defer></script>
 </body>

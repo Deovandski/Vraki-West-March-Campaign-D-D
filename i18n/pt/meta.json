@@ -1,0 +1,11 @@
+{
+ "_about": "Strings the site writes itself for this language. \"banner\" is the AI-translation notice on every page (the author asked for: AI-Translated to <language> from Original works by Deovandski and Mitsukiven/Feiourm). Same wording as HusbandOutWorld's content/i18n/pt/meta.json.",
+ "english": "English",
+ "name": "Português (Brasil)",
+ "english_name": "Portuguese (Brazil)",
+ "html_lang": "pt-BR",
+ "dir": "ltr",
+ "locale": "pt-BR",
+ "name_sep": " ",
+ "banner": "Traduzido por IA para o português a partir da obra original de Deovandski e Mitsukiven/Feiourm. Mude o idioma em Configurações (⚙), no canto superior direito."
+}

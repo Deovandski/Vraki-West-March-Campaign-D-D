@@ -8,12 +8,15 @@
   const { esc, encPath, plural } = VW.util;
   const store = VW.store;
   const app = VW.app;
+  const { __, N_ } = VW.i18n;
+  const nm = (p) => VW.content.nameL(p);
+  const circles = (n) => __.n(n, "{n} circle", "{n} circles");
 
   const MAP = {
     src: "Maps/web/west-march-map-2400.jpg",
     hires: "Maps/web/west-march-map-5000.jpg",
     full: "Maps/Vraki World Map - West March.png",
-    label: "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places"
+    label: __("The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places")
   };
 
   /* ---------------- routes ---------------- */
@@ -62,19 +65,25 @@
   function toCircles(data, res, pace) {
     const out = [];
     res.legs.forEach((leg) => {
-      for (let i = 0; i < leg.circles; i++) out.push({ id: VW.util.uid("c"), pace: pace || 2, region: regionId(data, leg.region), label: leg.from + " → " + leg.to });
+      for (let i = 0; i < leg.circles; i++) out.push({ id: VW.util.uid("c"), pace: pace || 2, region: regionId(data, leg.region), label: nm(leg.from) + " → " + nm(leg.to) });
     });
     return out;
   }
 
-  function describe(res) {
+  function describe(res, data) {
     const n = res.circles;
-    return `<p class="rf-total"><b>${esc(res.from)} → ${esc(res.to)}: ${plural(n, "circle")}</b>${res.legs.length > 1 ? ` <span class="muted">(${res.legs.map((l) => l.circles).join(" + ")})</span>` : ""}</p>
-      <p class="rf-days">${n} days at Fast · ${n * 2} at Standard · ${n * 3} at Slow</p>
-      <ol class="rf-legs">${res.legs.map((l) => `<li>${esc(l.from)} → ${esc(l.to)}: ${plural(l.circles, "circle")} <span class="muted">(${esc(l.look)}${l.region ? "; " + esc(l.region) : ""})</span></li>`).join("")}</ol>`;
+    const leg = (l) => data.map.routes.find((r) => (r.from === l.from && r.to === l.to) || (r.from === l.to && r.to === l.from)) || {};
+    return `<p class="rf-total"><b>${esc(nm(res.from))} → ${esc(nm(res.to))}: ${circles(n)}</b>${res.legs.length > 1 ? ` <span class="muted">(${res.legs.map((l) => l.circles).join(" + ")})</span>` : ""}</p>
+      <p class="rf-days">${__("{fast} days at Fast · {std} at Standard · {slow} at Slow", { fast: n, std: n * 2, slow: n * 3 })}</p>
+      <ol class="rf-legs">${res.legs.map((l) => `<li>${esc(nm(l.from))} → ${esc(nm(l.to))}: ${circles(l.circles)} <span class="muted">(${esc(leg(l).lookL || l.look)}${l.region ? "; " + esc(leg(l).regionL || l.region) : ""})</span></li>`).join("")}</ol>`;
   }
 
-  VW.routes = { places, find, toCircles, describe, regionId, MAP };
+  // The map viewer's own words (its buttons and help), passed in through data-text.
+  const viewerText = () => ({
+    zoomIn: __("Zoom in"), zoomOut: __("Zoom out"), reset: __("Show the whole map"), fullscreen: __("Full screen"),
+    full: __("Open the full-size file"), help: __("Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.")
+  });
+  VW.routes = { places, find, toCircles, describe, regionId, MAP, viewerText };
 
   /* ---------------- the map page ---------------- */
   async function render(m) {
@@ -83,36 +92,36 @@
     s.mapRoute = s.mapRoute || { from: "Forway", to: "Sanbi" };
     const ps = places(data);
     const res = find(data, s.mapRoute.from, s.mapRoute.to);
-    const opt = (v) => ps.map((p) => `<option${same(p, v) ? " selected" : ""}>${esc(p)}</option>`).join("");
+    const opt = (v) => ps.map((p) => `<option value="${esc(p)}"${same(p, v) ? " selected" : ""}>${esc(nm(p))}</option>`).join("");
     const dm = s.role === "dm";
     m.innerHTML = `<div class="page wide tool travel-map">
-      <h1>Travel map</h1>
-      <p class="lede">Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which. <a href="${app.docHash("D&D Campaign/01 - Travel by Circles.md")}">Travel by circles</a></p>
-      <figure class="map-viewer" data-map-viewer data-src="${encPath(MAP.src)}" data-hires="${encPath(MAP.hires)}" data-full="${encPath(MAP.full)}" data-label="${esc(MAP.label)}"></figure>
+      <h1>${__("Travel map")}</h1>
+      <p class="lede">${__("Count the circles between two places. Each circle is 1, 2 or 3 days of travel, and the DM picks which.")} <a href="${app.docHash("D&D Campaign/01 - Travel by Circles.md")}">${__("Travel by circles")}</a></p>
+      <figure class="map-viewer" data-map-viewer data-src="${encPath(MAP.src)}" data-hires="${encPath(MAP.hires)}" data-full="${encPath(MAP.full)}" data-label="${esc(MAP.label)}" data-text="${esc(JSON.stringify(viewerText()))}"></figure>
 
       <section class="route-finder panel" aria-labelledby="rf-h">
-        <h2 id="rf-h">How far is it?</h2>
+        <h2 id="rf-h">${__("How far is it?")}</h2>
         <div class="frow">
-          <label class="f"><span class="f-label">From</span><select data-bind="mapRoute.from" data-rerender>${opt(s.mapRoute.from)}</select></label>
-          <button class="icon-btn rf-swap" data-action="rf-swap" aria-label="Swap from and to" title="Swap"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h12l-3-3M17 17H5l3 3"/></svg></button>
-          <label class="f"><span class="f-label">To</span><select data-bind="mapRoute.to" data-rerender>${opt(s.mapRoute.to)}</select></label>
+          <label class="f"><span class="f-label">${__("From")}</span><select data-bind="mapRoute.from" data-rerender>${opt(s.mapRoute.from)}</select></label>
+          <button class="icon-btn rf-swap" data-action="rf-swap" aria-label="${__("Swap from and to")}" title="${__("Swap")}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h12l-3-3M17 17H5l3 3"/></svg></button>
+          <label class="f"><span class="f-label">${__("To")}</span><select data-bind="mapRoute.to" data-rerender>${opt(s.mapRoute.to)}</select></label>
         </div>
-        <div class="rf-out" aria-live="polite">${res ? describe(res) : `<p class="muted">${same(s.mapRoute.from, s.mapRoute.to) ? "Pick two different places." : "No road or sea lane on the map joins these. The DM decides how many circles it's worth."}</p>`}</div>
-        ${res && dm ? `<p><button class="btn primary" data-action="rf-plan">Plan this trip in the travel planner</button></p>` : ""}
-        <p class="muted small">The fewest circles, adding up legs through towns. Numbers from the <a href="${app.docHash("Maps/README.md", "route-lengths")}">route lengths table</a>.</p>
+        <div class="rf-out" aria-live="polite">${res ? describe(res, data) : `<p class="muted">${same(s.mapRoute.from, s.mapRoute.to) ? __("Pick two different places.") : __("No road or sea lane on the map joins these. The DM decides how many circles it's worth.")}</p>`}</div>
+        ${res && dm ? `<p><button class="btn primary" data-action="rf-plan">${__("Plan this trip in the travel planner")}</button></p>` : ""}
+        <p class="muted small">${__('The fewest circles, adding up legs through towns. Numbers from the <a href="{url}">route lengths table</a>.', { url: app.docHash("Maps/README.md", "route-lengths") })}</p>
       </section>
 
       <section class="route-table">
-        <h2>Every road and sea lane</h2>
+        <h2>${__("Every road and sea lane")}</h2>
         <div class="table-wrap"><table>
-          <thead><tr><th scope="col">From</th><th scope="col">To</th><th scope="col">Circles</th><th scope="col">On the map</th><th scope="col">Encounter table</th></tr></thead>
-          <tbody>${data.map.routes.map((r) => `<tr><td>${esc(r.from)}</td><td>${esc(r.to)}</td><td class="num">${r.circles}</td><td>${esc(r.look)}</td><td>${esc(r.region)}</td></tr>`).join("")}</tbody>
+          <thead><tr><th scope="col">${__("From")}</th><th scope="col">${__("To")}</th><th scope="col">${__("Circles")}</th><th scope="col">${__("On the map")}</th><th scope="col">${__("Encounter table")}</th></tr></thead>
+          <tbody>${data.map.routes.map((r) => `<tr><td>${esc(r.fromL || r.from)}</td><td>${esc(r.toL || r.to)}</td><td class="num">${r.circles}</td><td>${esc(r.lookL || r.look)}</td><td>${esc(r.regionL || r.region)}</td></tr>`).join("")}</tbody>
         </table></div>
-        ${data.map.edges.length ? `<h3>Off the edge of the map</h3><ul>${data.map.edges.map((e) => `<li>${esc(e.from)}, heading ${esc(e.heading)}: ${plural(e.circles, "circle")} to the edge</li>`).join("")}</ul>` : ""}
+        ${data.map.edges.length ? `<h3>${__("Off the edge of the map")}</h3><ul>${data.map.edges.map((e) => `<li>${__("{from}, heading {heading}: {circles} to the edge", { from: esc(e.fromL || e.from), heading: esc(e.headingL || e.heading), circles: circles(e.circles) })}</li>`).join("")}</ul>` : ""}
       </section>
-      <p class="muted small">Map © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0. <a href="${encPath(MAP.full)}" target="_blank" rel="noopener">Full-size file for printing</a> (34 MB).</p>
-      <p><button class="btn quiet" data-pwa-save="${encPath(MAP.hires)}" data-pwa-saved="Sharp map saved for offline use">Save the sharp map for offline zooming (2 MB)</button>
-        <span class="muted small">The map at normal zoom is already saved when the site is installed.</span></p>
+      <p class="muted small">${__("Map © Deovandski Skibinski Junior, CC-BY-NC-SA-4.0.")} <a href="${encPath(MAP.full)}" target="_blank" rel="noopener">${__("Full-size file for printing")}</a> (34 MB).</p>
+      <p><button class="btn quiet" data-pwa-save="${encPath(MAP.hires)}" data-pwa-saved="${__("Sharp map saved for offline use")}">${__("Save the sharp map for offline zooming (2 MB)")}</button>
+        <span class="muted small">${__("The map at normal zoom is already saved when the site is installed.")}</span></p>
     </div>`;
     window.MapViewer.mountAll(m);
   }
@@ -129,5 +138,5 @@
     }
   }
 
-  app.register("map", { title: "Travel map", nav: "Travel map", role: "player", order: 5, render, onAction });
+  app.register("map", { title: N_("Travel map"), nav: N_("Travel map"), role: "player", order: 5, render, onAction });
 })();

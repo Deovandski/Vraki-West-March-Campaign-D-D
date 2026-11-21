@@ -1,0 +1,24 @@
+name: Translations
+
+# Reports how much of the site is translated, on every pull request. It never fails: English changes ship
+# right away, and untranslated text shows in English until the next translation batch (see i18n/README.md).
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Count what's translated
+        # The handouts are counted in the Pages workflow (reading them needs a browser).
+        run: node tools/i18n.js report >> "$GITHUB_STEP_SUMMARY" || true

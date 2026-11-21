@@ -22,6 +22,8 @@
      data-caption  optional caption under the viewer
      data-ratio    width ÷ height of the viewer box (default: the picture's own shape)
      data-max-zoom how far it zooms in (default 8)
+     data-text     optional JSON with its own words in another language: {"zoomIn", "zoomOut", "reset",
+                   "fullscreen", "full", "help"} (any left out stay in English)
 
    Script API: el.mapViewer.zoomTo(fx, fy, zoom) centers on a point given as fractions of the
    picture (0–1) at that zoom; el.mapViewer.reset().
@@ -43,6 +45,12 @@
     const o = root.dataset;
     const maxZoom = Math.max(1, parseFloat(o.maxZoom) || 8);
     const label = o.label || "Map";
+    let words = {};
+    try { words = o.text ? JSON.parse(o.text) : {}; } catch (e) { words = {}; }
+    const T = Object.assign({
+      zoomIn: "Zoom in", zoomOut: "Zoom out", reset: "Show the whole map", fullscreen: "Full screen", full: "Open the full-size file",
+      help: "Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map."
+    }, words);
     const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
     root.classList.add("map-viewer");
     root.setAttribute("role", "group");
@@ -51,15 +59,15 @@
       <div class="map-viewer__box" tabindex="0" aria-describedby="${id}-help">
         <img class="map-viewer__img" src="${esc(o.src)}" alt="${esc(label)}" draggable="false" decoding="async">
         <div class="map-viewer__tools">
-          <button type="button" data-mv="in" aria-label="Zoom in" title="Zoom in">${icon("M12 5v14M5 12h14")}</button>
-          <button type="button" data-mv="out" aria-label="Zoom out" title="Zoom out">${icon("M5 12h14")}</button>
-          <button type="button" data-mv="reset" aria-label="Show the whole map" title="Show the whole map">${icon("M3 11.5L12 4l9 7.5M5.5 9.5V20h13V9.5")}</button>
-          ${document.fullscreenEnabled ? `<button type="button" data-mv="fs" aria-label="Full screen" title="Full screen" aria-pressed="false">${icon("M9 4H4v5M15 4h5v5M9 20H4v-5M15 20h5v-5")}</button>` : ""}
-          ${o.full ? `<a href="${esc(o.full)}" target="_blank" rel="noopener" aria-label="Open the full-size file" title="Open the full-size file">${icon("M14 4h6v6M20 4l-9 9M18 14v6H4V6h6")}</a>` : ""}
+          <button type="button" data-mv="in" aria-label="${esc(T.zoomIn)}" title="${esc(T.zoomIn)}">${icon("M12 5v14M5 12h14")}</button>
+          <button type="button" data-mv="out" aria-label="${esc(T.zoomOut)}" title="${esc(T.zoomOut)}">${icon("M5 12h14")}</button>
+          <button type="button" data-mv="reset" aria-label="${esc(T.reset)}" title="${esc(T.reset)}">${icon("M3 11.5L12 4l9 7.5M5.5 9.5V20h13V9.5")}</button>
+          ${document.fullscreenEnabled ? `<button type="button" data-mv="fs" aria-label="${esc(T.fullscreen)}" title="${esc(T.fullscreen)}" aria-pressed="false">${icon("M9 4H4v5M15 4h5v5M9 20H4v-5M15 20h5v-5")}</button>` : ""}
+          ${o.full ? `<a href="${esc(o.full)}" target="_blank" rel="noopener" aria-label="${esc(T.full)}" title="${esc(T.full)}">${icon("M14 4h6v6M20 4l-9 9M18 14v6H4V6h6")}</a>` : ""}
         </div>
         <span class="map-viewer__zoom" aria-live="polite"></span>
       </div>
-      <p class="map-viewer__help" id="${id}-help">Drag to move around. Pinch, or hold Ctrl and scroll, to zoom. Double-click to zoom in. Keyboard: + and − zoom, arrow keys move, 0 shows the whole map.</p>
+      <p class="map-viewer__help" id="${id}-help">${esc(T.help)}</p>
       ${o.caption ? `<figcaption class="map-viewer__caption">${esc(o.caption)}</figcaption>` : ""}`;
     if (root.tagName !== "FIGURE") { const c = root.querySelector("figcaption"); if (c) c.outerHTML = `<p class="map-viewer__caption">${esc(o.caption)}</p>`; }
 
