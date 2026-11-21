@@ -1,4 +1,16 @@
 {
+ "0ccbc3d63f1c": {
+  "en": "The website",
+  "t": "웹사이트"
+ },
+ "20ff53c34759": {
+  "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
+  "t": "이 저장소는 GitHub Pages의 웹사이트이기도 하다: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
+ },
+ "49624bfb046c": {
+  "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
+  "t": "저장소에서 보이는 것과 같은 Markdown 파일을 읽으므로, 손으로 맞춰 둘 게 없다: 규칙을 고치고 push하면 사이트에 변경이 나타난다."
+ },
  "4df7a2e30816": {
   "en": "Files",
   "t": "파일"

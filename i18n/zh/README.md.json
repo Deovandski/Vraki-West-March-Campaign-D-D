@@ -1,14 +1,258 @@
 {
+ "0112f36bf6be": {
+  "en": "[Handouts](Handouts)",
+  "t": "[道具](Handouts)"
+ },
+ "0190b78901dd": {
+  "en": "The website: Player and DM sections, dice, calculators, the travel planner and trackers",
+  "t": "网站：玩家区和DM区、骰子、计算器、旅行计划和各种记录"
+ },
+ "04c92d39e690": {
+  "en": "An open table! Instead of one fixed party, a pool of players schedule their own sessions, form whatever party shows up that day, and head out from a shared home base into a dangerous, persistent world. Whatever one party discovers, maps, kills, or pisses off stays that way for everyone else.",
+  "t": "一张开放的游戏桌！没有固定的队伍，而是一群玩家自己约跑团时间，当天来了谁就组成什么队伍，从共同的据点出发，进入一个危险而持续存在的世界。一支队伍发现、绘制、杀死或惹毛的东西，对其他所有人来说都会保持那样。"
+ },
+ "05697a41f6ff": {
+  "en": "LanguagePicker",
+  "t": "LanguagePicker"
+ },
+ "0716d7f32e4c": {
+  "en": "Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nDMs: start with the [DM Guide](D&D%20Campaign/README.md).",
+  "t": "玩家：阅读[世界概览](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md)和[创建冒险者](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md)。\nDM：从[DM指南](D&D%20Campaign/README.md)开始。"
+ },
+ "0c5d399fed82": {
+  "en": "**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.",
+  "t": "**弗拉基**是这个世界的通用语、书写它的文字，也是这个战役的名字。它比小说出现得还早：2017年，Deovandski做了一个小小的Windows应用，把英文反转、移位、重组，直到读起来像一门新语言。这个项目后来成了#HusbandOutWorld的书写系统，也成了这里的道具所用的Vraki字体。在 **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)** 可以在浏览器里试用转换器、下载字体并了解它的起源。"
+ },
+ "0cdd6742a8e5": {
+  "en": "[![The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places](Maps/web/west-march-map-2400.jpg)](Maps)",
+  "t": "[![弗拉基西境旅行地图：沿着各地之间的道路和航线画着彩色圆圈的世界地图](Maps/web/west-march-map-2400.jpg)](Maps)"
+ },
  "110ec66be1d2": {
   "en": "What's inside",
   "t": "内容"
+ },
+ "1149c0b97c1a": {
+  "en": "What is this?",
+  "t": "这是什么？"
+ },
+ "1edf385a3514": {
+  "en": "The campaign takes place **in the world** of the light novels, but it is **not tied to their story**. The famous characters exist and might show up as NPCs or rumors, but the West March has its own adventures, set by default in the 1040s A.G.",
+  "t": "战役发生**在轻小说的世界里**，但**不受小说情节的束缚**。著名角色是存在的，可能会以NPC或传闻的形式出现，但西境有自己的冒险，默认发生在1040年代A.G.。"
+ },
+ "20ea0ece43c0": {
+  "en": "What is Vraki?",
+  "t": "弗拉基是什么？"
+ },
+ "224f2cccc328": {
+  "en": "Printable props: quest board, wanted posters, Forway News, blood contract, badge cards, Winga mail, Castle Mood sign, revival debt certificate, shop price list, expedition reports and a player reference card",
+  "t": "可打印的道具：委托板、通缉令、福威新闻、血契合同、身份牌卡片、温加邮件、城堡心情牌、复活债务证书、商店价目表、探险报告和玩家速查卡"
+ },
+ "25c0110d6a16": {
+  "en": "Where do I start?",
+  "t": "从哪里开始？"
+ },
+ "2ccd08691e12": {
+  "en": "© Deovandski Skibinski Junior. *A Husband Out of This World* and *#HusbandOutWorld* are trademarks of Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the Vraki typeface and third-party files (see [LICENSE.md](LICENSE.md) for copyright, trademarks and fonts).",
+  "t": "© Deovandski Skibinski Junior。*A Husband Out of This World*和*#HusbandOutWorld*是Deovandski Skibinski Junior的商标。除Vraki字体和第三方文件外，以CC‑BY‑NC‑SA‑4.0许可发布（版权、商标和字体见[LICENSE.md](LICENSE.md)）。"
+ },
+ "2e9aa1ffc00c": {
+  "en": "PWA helper",
+  "t": "PWA助手"
+ },
+ "2fd368d85007": {
+  "en": "Are you a publisher?",
+  "t": "你是出版商？"
+ },
+ "303285f1c903": {
+  "en": "Reusable components",
+  "t": "可复用组件"
+ },
+ "3049af2c766e": {
+  "en": "Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).",
+  "t": "欢迎发布关于这个系列的盈利视频、直播和社交媒体帖子，也欢迎用源文件做的直播和3D打印：只要注明出处即可。其他任何商业用途都需要事先获得许可。见[Permissions beyond the license](LICENSE.md#permissions-beyond-the-license)。"
+ },
+ "399292953438": {
+  "en": "[D&D Campaign](D&D%20Campaign)",
+  "t": "[D&D战役](D&D%20Campaign)"
  },
  "3c46db3d64a0": {
   "en": "Travel without math",
   "t": "不用算数的旅行"
  },
+ "3e5affaa407b": {
+  "en": "The world, its lore, characters and the Vraki font are human-made by Deovandski Skibinski Junior, and all the art is by the series' illustrators, Mitsukiven and Feiourm; there are no AI-generated images. Much of the West March writing (the World Lore summary, most rules, new stat blocks and the handouts) and the website were made with an AI assistant from that material. The [AI Disclosure](AI-DISCLOSURE.md) lists exactly what came from where, file by file.",
+  "t": "世界、设定、角色和Vraki字体都是Deovandski Skibinski Junior亲手创作的，所有美术都出自系列插画师Mitsukiven和Feiourm；没有AI生成的图片。西境的大部分文字（世界设定摘要、大多数规则、新的数据卡和道具）以及网站，是根据这些素材借助AI助手完成的。[AI使用说明](AI-DISCLOSURE.md)逐个文件准确列出了每样东西的来源。"
+ },
+ "3f23f466c801": {
+  "en": "What is a West Marches campaign?",
+  "t": "什么是西境式战役？"
+ },
+ "41211c3fa4c4": {
+  "en": "DM guide, travel by circles, character creation, soul energy rules, nari gels, revival debt, quest board, encounters, the bandits' \"Inside Job\" offer, dangerous places, factions, stat blocks, pre-gens, DM secrets",
+  "t": "DM指南、按圈旅行、角色创建、灵魂能量规则、纳里凝胶、复活债、委托板、遭遇、强盗的“内应计划”提议、危险之地、派系、数据卡、预制角色、DM秘密"
+ },
  "4df7a2e30816": {
   "en": "Files",
   "t": "文件"
+ },
+ "51f0f55d762f": {
+  "en": "What it is",
+  "t": "是什么"
+ },
+ "553e1288d5d7": {
+  "en": "Vraki West March Campaign D&D",
+  "t": "弗拉基西境 D&D战役"
+ },
+ "5595e0b4daa9": {
+  "en": "Go for it! If you host a game, let us know! Love to see pics!",
+  "t": "去吧！如果你开了团，告诉我们！超爱看照片！"
+ },
+ "5c155fa3d212": {
+  "en": "SPOILER WARNING!",
+  "t": "剧透警告！"
+ },
+ "5c692fa7cfb4": {
+  "en": "The whole site (save menu, handouts, travel map)",
+  "t": "整个网站（保存菜单、道具、旅行地图）"
+ },
+ "5d0f2d28ff65": {
+  "en": "MapViewer",
+  "t": "MapViewer"
+ },
+ "61d63b63c205": {
+  "en": "No distances, no Egua speeds, no load percentages. The [travel map](Maps) has circles drawn along the roads and sea lanes connecting places; **each circle represents 1, 2 or 3 days of travel — the DM chooses**, to make a journey shorter or longer. Forway to Sanbi is 6 circles (6, 12 or 18 days), Forway to Flatland 7, Sanbi to Endlessfog 13 by sea, and Gandew to Sundeath 19 across the desert. The [Maps page](Maps#route-lengths) lists every route.",
+  "t": "不用算距离，不用埃瓜速度，不用负重百分比。[旅行地图](Maps)上沿着连接各地的道路和航线画着圈；**每个圈代表1、2或3天的旅程——由DM选择**，让旅程变短或变长。福威到桑比是6个圈（6、12或18天），福威到弗拉特兰是7个，桑比到恩德莱斯福格走海路是13个，甘杜到桑德斯横穿沙漠是19个。[地图页面](Maps#route-lengths)列出了所有路线。"
+ },
+ "6243e12dcf21": {
+  "en": "Used on",
+  "t": "用在哪里"
+ },
+ "65130f580db8": {
+  "en": "Are you an artist, illustrator, etc?",
+  "t": "你是艺术家、插画师等等？"
+ },
+ "6a00c4549f0b": {
+  "en": "This repo is a West Marches style D&D 5e campaign set in the world of the #HusbandOutWorld series. The World Lore summary and the DM files reveal secrets of the world, including some from unreleased story notes.",
+  "t": "这个仓库是一个以#HusbandOutWorld系列世界为背景的西境式D&D 5e战役。世界设定摘要和DM文件会揭露这个世界的秘密，其中有些来自尚未发表的故事笔记。"
+ },
+ "6b683f423188": {
+  "en": "Create an issue or feel free to send a PR!",
+  "t": "欢迎提issue，或者直接发PR！"
+ },
+ "71df4c634c8d": {
+  "en": "A list of languages to choose from, each written in its own language and script (with `lang` and `dir` set), plus how complete each translation is. Arrow keys move between them. Saves the choice and reloads, or hands it to your own code through a `langpick` event. Set up from data attributes; no libraries. Written after the language menu in HusbandOutWorld's settings.",
+  "t": "可供选择的语言列表，每种语言都用它自己的语言和文字书写（并设置`lang`和`dir`），还显示每种翻译的完成度。方向键可以在它们之间移动。保存选择并重新加载，或者通过`langpick`事件交给你自己的代码处理。通过数据属性设置；不依赖任何库。参照HusbandOutWorld设置里的语言菜单制作。"
+ },
+ "7253091964c0": {
+  "en": "The Four Kingdoms were practically built for it: Forway's embassies already run a quest board, a ranking system from Pearl to Sapphire, revival services (for a fee, of course), and a decentralized army of adventurers deep in debt. Pick up a quest, sign the contract in blood, and try not to come back as Walking Flesh.",
+  "t": "四王国简直就是为此而生：福威的大使馆早就有委托板、从珀尔到萨菲尔的级别制度、复活服务（当然要收费），还有一支负债累累、分散各地的冒险者大军。接个委托，用血签下合同，尽量别变成沃金·弗莱什回来。"
+ },
+ "773391089b63": {
+  "en": "Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a \"how far is it?\" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).",
+  "t": "在 **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)** 阅读所有内容并使用跑团工具。那里有玩家区和DM区、规则与设定搜索、骰盘、计算器、可缩放的旅行地图和“有多远？”路线查询、帮你数圈并把每趟旅程按圈、按时段排出来的旅行计划（含事件、战斗和HP）、队伍和战役记录，以及可以下载并重新载入的存档。它可以作为应用安装到手机上，在跑团时离线使用。[网站如何运作](site/README.md)。"
+ },
+ "77920fb913b0": {
+  "en": "[Maps](Maps)",
+  "t": "[地图](Maps)"
+ },
+ "80b07d3b198f": {
+  "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
+  "t": "一个完整、独立的战役：世界设定摘要、主持开放式西境的规则、旅行地图、委托、遭遇、数据卡和预制冒险者。玩的时候不需要#HusbandOutWorld主仓库里的任何东西。"
+ },
+ "9570499669fd": {
+  "en": "Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!",
+  "t": "请随意浏览。有任何问题都可以告诉我们。我们欢迎合作和互相转发！"
+ },
+ "973414ba2732": {
+  "en": "Makes a site an installable app that works offline: registers the service worker and runs an \"Install as an app\" button, the iPhone \"Add to Home Screen\" hint, an offline status line and \"save these files for offline\" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski).",
+  "t": "把网站变成可安装、能离线使用的应用：注册service worker，并管理“安装为应用”按钮、iPhone的“添加到主屏幕”提示、离线状态栏和“保存这些文件以便离线使用”按钮。通过数据属性设置；需要搭配一个像[sw.js](sw.js)这样的service worker（改编自Deovandski/Deovandski）。"
+ },
+ "a0ae90bcaaa5": {
+  "en": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)",
+  "t": "[pwa.js](site/js/pwa.js)、[sw.js](sw.js)、[manifest](site/manifest.webmanifest)"
+ },
+ "a2529d5bbddf": {
+  "en": "[lang-picker.js](site/js/lang-picker.js), [lang-picker.css](site/css/lang-picker.css)",
+  "t": "[lang-picker.js](site/js/lang-picker.js)、[lang-picker.css](site/css/lang-picker.css)"
+ },
+ "a2e834c3246b": {
+  "en": "Are you a D&D DM and want to run this campaign?",
+  "t": "你是D&D的DM，想带这个战役？"
+ },
+ "aabdd3471942": {
+  "en": "Settings (⚙) in the top bar",
+  "t": "顶栏中的设置（⚙）"
+ },
+ "ac1b79b79ee4": {
+  "en": "The West March travel map (circles along the roads and sea lanes), how many circles every route takes, and links to the world maps",
+  "t": "西境旅行地图（沿着道路和航线的圈）、每条路线占多少个圈，以及世界地图的链接"
+ },
+ "aff8b55f5ee0": {
+  "en": "Folder",
+  "t": "文件夹"
+ },
+ "bbfcf52145f8": {
+  "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",
+  "t": "[map-viewer.js](site/js/map-viewer.js)、[map-viewer.css](site/css/map-viewer.css)"
+ },
+ "bf6840167bfd": {
+  "en": "Travel map page, the Maps page",
+  "t": "旅行地图页面、地图页面"
+ },
+ "c1cde754c253": {
+  "en": "Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals",
+  "t": "世界摘要：历法、货币、法律、种族、王国、城市、派系、灵魂能量、纳里凝胶、魔兽、历史、名人、美食和节日"
+ },
+ "cc5640254b75": {
+  "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",
+  "t": "用于一张大图的缩放和平移查看器：拖动、双指缩放、Ctrl + 滚轮、键盘、全屏，放大时会加载更清晰的版本。通过数据属性设置；不依赖任何库。"
+ },
+ "d7cd62355106": {
+  "en": "The site also comes in 中文, 日本語, Português, Español, العربية and 한국어: pick one under Settings (⚙) in the top bar. These are AI translations of the English, made ahead of time; English stays the original. [How the translations work](i18n/README.md).",
+  "t": "网站还有中文、日本語、Português、Español、العربية和한국어版本：在顶栏的设置（⚙）中选择。这些是事先用AI从英文翻译的；原文始终是英文。[翻译如何运作](i18n/README.md)。"
+ },
+ "e0c47275e609": {
+  "en": "[site](site)",
+  "t": "[site](site)"
+ },
+ "e31a355d960b": {
+  "en": "Spot something wrong, or want to make a change?",
+  "t": "发现了错误，或者想做些修改？"
+ },
+ "e8443b75865e": {
+  "en": "Component",
+  "t": "组件"
+ },
+ "ee3d2570ab0b": {
+  "en": "Use it as a website",
+  "t": "当作网站使用"
+ },
+ "f138884c20e3": {
+  "en": "[World Lore](World%20Lore)",
+  "t": "[世界设定](World%20Lore)"
+ },
+ "f173e4db6d27": {
+  "en": "Read the light novel and explore the lore at **[HusbandOutWorld.com](https://www.husbandoutworld.com)**. It starts with fewer spoilers, and a Behind The Scenes switch adds the author's full notes.",
+  "t": "到 **[HusbandOutWorld.com](https://www.husbandoutworld.com)** 阅读轻小说、探索设定。一开始剧透较少，打开Behind The Scenes开关就会加上作者的全部笔记。"
+ },
+ "f34742d2cac0": {
+  "en": "Want to learn more about the series?",
+  "t": "想更多了解这个系列？"
+ },
+ "f45e889dd1bb": {
+  "en": "Pieces of the website built to be reused here or in other projects (see [CLAUDE.md](CLAUDE.md)):",
+  "t": "为了能在这里或其他项目中复用而制作的网站部件（见[CLAUDE.md](CLAUDE.md)）："
+ },
+ "f4ac64dae85a": {
+  "en": "What's AI-assisted here?",
+  "t": "这里哪些部分有AI辅助？"
+ },
+ "f8b3f111065d": {
+  "en": "Want to reach out to the author? We’re open to a copyright/trademark transfer for an Omnibus vol or other publishing ideas, including a new version through a ghostwriter. Reach out on [LinkedIn](https://www.linkedin.com/in/deovandski/) or email [Deovandski@outlook.com](mailto:Deovandski@outlook.com) for more info!",
+  "t": "想联系作者？我们愿意为合集版或其他出版构想转让版权/商标，包括请代笔作者写一个新版本。更多信息请通过[LinkedIn](https://www.linkedin.com/in/deovandski/)或邮件[Deovandski@outlook.com](mailto:Deovandski@outlook.com)联系！"
+ },
+ "fea886aea96d": {
+  "en": "The originals (the novels, the full raw World Lore, every illustration, the spreadsheets and fonts) live in the main repo's [Legacy folder](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy).",
+  "t": "原始资料（小说、未经整理的完整世界设定、所有插画、表格和字体）放在主仓库的[Legacy文件夹](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy)里。"
  }
 }

@@ -1,4 +1,16 @@
 {
+ "0ccbc3d63f1c": {
+  "en": "The website",
+  "t": "网站"
+ },
+ "20ff53c34759": {
+  "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
+  "t": "这个仓库同时也是GitHub Pages上的一个网站：**https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
+ },
+ "49624bfb046c": {
+  "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
+  "t": "它读取的就是你在仓库里看到的那些Markdown文件，所以不需要手动同步任何东西：改一条规则，推送，网站就会显示改动。"
+ },
  "4df7a2e30816": {
   "en": "Files",
   "t": "文件"

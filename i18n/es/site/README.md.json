@@ -1,4 +1,16 @@
 {
+ "0ccbc3d63f1c": {
+  "en": "The website",
+  "t": "La web"
+ },
+ "20ff53c34759": {
+  "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
+  "t": "El repositorio también es una web en GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
+ },
+ "49624bfb046c": {
+  "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
+  "t": "Lee los mismos archivos Markdown que ves en el repositorio, así que no hay nada que sincronizar a mano: edita una regla, haz push y la web muestra el cambio."
+ },
  "4df7a2e30816": {
   "en": "Files",
   "t": "Archivos"

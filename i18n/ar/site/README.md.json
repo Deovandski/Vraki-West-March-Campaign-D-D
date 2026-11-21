@@ -1,4 +1,16 @@
 {
+ "0ccbc3d63f1c": {
+  "en": "The website",
+  "t": "الموقع"
+ },
+ "20ff53c34759": {
+  "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
+  "t": "المستودع موقع أيضًا على GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
+ },
+ "49624bfb046c": {
+  "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
+  "t": "يقرأ ملفات Markdown نفسها التي تراها في المستودع، فلا شيء تحتاج إلى مزامنته يدويًا: عدّل قاعدة، وادفعها، فيعرض الموقع التغيير."
+ },
  "4df7a2e30816": {
   "en": "Files",
   "t": "الملفات"
