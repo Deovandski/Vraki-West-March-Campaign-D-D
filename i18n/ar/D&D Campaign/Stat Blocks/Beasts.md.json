@@ -1,0 +1,462 @@
+{
+ "06fbfa3a380b": {
+  "en": "**Vine Strike (Fast Strike).** Reach 15 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**ضربة الكرمة (الضربة السريعة).** المدى 15 قدمًا، +6 للإصابة، 2d8+4 خارق."
+ },
+ "09e9ea708992": {
+  "en": "**Stunning Scream (Recharge 5–6).** 60-ft cone, DC 15 Con save or stunned 1 round.",
+  "t": "**صرخة صاعقة (إعادة شحن 5–6).** مخروط 60 قدمًا، إنقاذ بنية DC 15 أو مصعوق جولة واحدة."
+ },
+ "0a2bd15fec9b": {
+  "en": "Beast Stat Blocks",
+  "t": "بطاقات الإحصاءات: الوحوش"
+ },
+ "0a7b4490877b": {
+  "en": "**Aerial Strike.** +7 to hit, 2d8+4 slashing.",
+  "t": "**ضربة جوية.** +7 للإصابة، 2d8+4 قاطع."
+ },
+ "0f60415f1f2a": {
+  "en": "*Loot:* red wood, rubbery vines, pink sap, a head-sized Wood People Yabuca.",
+  "t": "*الغنيمة:* خشب أحمر، وكروم مطاطية، ونسغ وردي، ويابوكا وود بيبول بحجم رأس."
+ },
+ "0f8e90325da2": {
+  "en": "**Pincher Copy.** Reaction: a spectral pincer duplicate gives +2 AC for 1 round.",
+  "t": "**نسخة الكمّاشة.** رد فعل: نسخة شبحية من الكمّاشة تمنح +2 AC لجولة واحدة."
+ },
+ "15391761242c": {
+  "en": "**Flathead Slam.** +8 to hit, 2d10+5 bludgeoning.",
+  "t": "**صدمة الرأس المسطح.** +8 للإصابة، 2d10+5 راض."
+ },
+ "1634036a1168": {
+  "en": "**Acid Spray (Recharge 5–6).** 15-ft cone, 4d10 acid, DC 14 Dex half.",
+  "t": "**رذاذ الحمض (إعادة شحن 5–6).** مخروط 15 قدمًا، 4d10 حمض، إنقاذ براعة DC 14 للنصف."
+ },
+ "1c77143cc852": {
+  "en": "**Climb Away.** When damaged, it flies straight up out of reach.",
+  "t": "**الهرب صعودًا.** حين يتضرر، يطير صاعدًا مستقيمًا بعيدًا عن المتناول."
+ },
+ "1dba9c925290": {
+  "en": "**Blinding Flash (Recharge 5–6).** 20-ft radius, DC 12 Con save or blinded 1 round.",
+  "t": "**وميض مُعمٍ (إعادة شحن 5–6).** نصف قطر 20 قدمًا، إنقاذ بنية DC 12 أو أعمى جولة واحدة."
+ },
+ "1e4fe1962386": {
+  "en": "**Slow Regeneration.** 3 HP per round unless it took radiant damage.",
+  "t": "**تجدّد بطيء.** 3 HP كل جولة ما لم يتلقَّ ضررًا إشعاعيًا."
+ },
+ "1ed94bfcad62": {
+  "en": "**Pin & Feed.** A grappled target takes 2d10 necrotic each round and loses 1 SP.",
+  "t": "**التثبيت والتغذّي.** الهدف الممسوك يتلقى 2d10 نخري كل جولة ويفقد 1 SP."
+ },
+ "1f4f1e6dafaf": {
+  "en": "**Four Flame Arms.** Two attacks, +4 to hit, 1d6 fire.",
+  "t": "**أربع أذرع لهب.** هجومان، +4 للإصابة، 1d6 نار."
+ },
+ "20f50f45be37": {
+  "en": "Apply to any creature that lived in Hifuna: **+2 CR-ish**. Double HP; +2 to attack and damage rolls; Intelligence halved; always hostile; usually sterile. Its special abilities are stronger (+1d6 damage, +2 save DCs). Meat is irradiated (eating it = 1 Exposure). Proof of kill: the head.",
+  "t": "طبّقه على أي مخلوق عاش في هيفونا: **+2 CR تقريبًا**. ضِعف HP؛ +2 على رميات الهجوم والضرر؛ الذكاء إلى النصف؛ عدائي دائمًا؛ عقيم عادةً. وقدراته الخاصة أقوى (+1d6 ضرر، و+2 على DC الإنقاذ). لحمه مشعّ (أكله = 1 تعرّض). دليل القتل: الرأس."
+ },
+ "250dd710b6a0": {
+  "en": "**Deaf, Talks in Light.** Can't hear; communicates with colors.",
+  "t": "**صُمّ، يتكلمون بالضوء.** لا يسمعون؛ يتواصلون بالألوان."
+ },
+ "25b08fa94f54": {
+  "en": "**Rooted Defense.** +2 AC if it hasn't moved this turn.",
+  "t": "**دفاع متجذّر.** +2 AC إن لم يتحرك في هذا الدور."
+ },
+ "25cab629a30e": {
+  "en": "**Mutate (Recharge 5–6).** Gains one: +2 AC · +2d6 damage · +20 ft speed · resistance to a random type.",
+  "t": "**التحوّر (إعادة شحن 5–6).** يكتسب واحدة: +2 AC · +2d6 ضرر · +20 قدمًا للسرعة · مقاومة لنوع عشوائي."
+ },
+ "25d9d6242068": {
+  "en": "**Purr.** Creatures that pet one gain 1 temporary HP (once per day).",
+  "t": "**الخرخرة.** المخلوقات التي تربّت على واحد منها تكسب 1 نقطة حياة مؤقتة (مرة في اليوم)."
+ },
+ "2972de0e4fde": {
+  "en": "**Worm Brood.** On a critical hit, the target is infested: DC 15 Con save each long rest or lose 1 max HP until a Tier II Body RESTORE.",
+  "t": "**حضنة الديدان.** عند الإصابة الحرجة، يُصاب الهدف بالديدان: إنقاذ بنية DC 15 في كل استراحة طويلة أو يفقد 1 من HP القصوى حتى يتلقى بودي ريستور من المستوى II."
+ },
+ "299ee1b33aae": {
+  "en": "**Engulf.** +5 to hit, 2d6+3 bludgeoning and grappled; 2d6 acid each turn while grappled.",
+  "t": "**الابتلاع.** +5 للإصابة، 2d6+3 راض وممسوك؛ 2d6 حمض كل دور ما دام ممسوكًا."
+ },
+ "2a1b0345201e": {
+  "en": "**Harden Shell / Acid Gut.** If attacked: +2 AC, and 4d10 acid in a 20-ft line (DC 16 Dex half).",
+  "t": "**تصليب القوقعة / الأمعاء الحمضية.** إن هوجمت: +2 AC، و4d10 حمض في خط 20 قدمًا (إنقاذ براعة DC 16 للنصف)."
+ },
+ "2a8a4c9e9f48": {
+  "en": "Sand Worm (CR 5) — Desert",
+  "t": "ساند وورم (CR 5) — الصحراء"
+ },
+ "360b6cd2627d": {
+  "en": "AC 14 · HP 80 · speed 20 ft",
+  "t": "AC 14 · HP 80 · السرعة 20 قدمًا"
+ },
+ "36c4981670c3": {
+  "en": "Big Winga (CR 4) — Wingarest, rare",
+  "t": "بيغ وينغا (CR 4) — وينغاريست، نادر"
+ },
+ "3e3ecb74bcad": {
+  "en": "Untamable. Its eggs never hatch for humans.",
+  "t": "لا يُروَّض. وبيضه لا يفقس أبدًا عند البشر."
+ },
+ "3fadddfd1e98": {
+  "en": "**Spike Launch.** Ranged 60 ft, +7 to hit, 2d8 piercing.",
+  "t": "**إطلاق الأشواك.** بعيد 60 قدمًا، +7 للإصابة، 2d8 خارق."
+ },
+ "40a6e8cd1dc7": {
+  "en": "**Storm Warning.** A blue wall of them means a storm within the day.",
+  "t": "**نذير العاصفة.** جدار أزرق منها يعني عاصفة خلال اليوم."
+ },
+ "4544553d9954": {
+  "en": "**Harden Body.** Bonus action: +2 AC until its next turn.",
+  "t": "**تصليب الجسد.** فعل إضافي: +2 AC حتى دوره التالي."
+ },
+ "454acfe4161f": {
+  "en": "**Fist.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**القبضة.** +4 للإصابة، 1d6+2 راض."
+ },
+ "465e3a4d55a3": {
+  "en": "**Bite.** +7 to hit, 3d8+4 piercing.",
+  "t": "**العضّة.** +7 للإصابة، 3d8+4 خارق."
+ },
+ "482a82ebb85e": {
+  "en": "**Random Mutation (Recharge 5–6).** Gains one for 1 minute: +2 AC · +2d6 damage · +20 ft speed · resistance to a random damage type.",
+  "t": "**طفرة عشوائية (إعادة شحن 5–6).** يكتسب واحدة لمدة دقيقة: +2 AC · +2d6 ضرر · +20 قدمًا للسرعة · مقاومة لنوع ضرر عشوائي."
+ },
+ "495a490602e8": {
+  "en": "**Hypnosis (Recharge 6).** One creature within 60 ft: DC 12 Wis save or incapacitated for 1 round.",
+  "t": "**التنويم (إعادة شحن 6).** مخلوق واحد ضمن 60 قدمًا: إنقاذ حكمة DC 12 أو يصبح عاجزًا جولة واحدة."
+ },
+ "4a5208a95062": {
+  "en": "**Bigger Looking.** Illusion: appears Large.",
+  "t": "**يبدو أكبر.** وهم: يبدو كبير الحجم."
+ },
+ "4d33bd53066f": {
+  "en": "**Mind Crush (if cornered).** DC 13 Wis save or 3d6 psychic; weak-minded NPCs may flee or worse.",
+  "t": "**سحق العقل (إن حوصر).** إنقاذ حكمة DC 13 أو 3d6 نفسي؛ والشخصيات غير اللاعبة ضعيفة العقل قد تفرّ أو ما هو أسوأ."
+ },
+ "57c4a973fb92": {
+  "en": "**Exploding Branches (1/day).** Thrown 60 ft: 4d8 fire in a 10-ft radius, DC 15 Dex half.",
+  "t": "**الأغصان المتفجرة (1/يوم).** تُرمى 60 قدمًا: 4d8 نار في نصف قطر 10 أقدام، إنقاذ براعة DC 15 للنصف."
+ },
+ "5c354f34e13b": {
+  "en": "**Mimic.** Assumes the form and voice of a Medium or smaller creature it has touched (DC 15 Insight to spot something off).",
+  "t": "**المحاكاة.** يتخذ هيئة وصوت مخلوق متوسط الحجم أو أصغر سبق أن لمسه (بصيرة DC 15 لملاحظة خلل)."
+ },
+ "6021235d3a4d": {
+  "en": "Sucker Lady (CR 3) — forests near towns, Hifuna",
+  "t": "ساكر ليدي (CR 3) — الغابات قرب البلدات، هيفونا"
+ },
+ "60e1df60d7ac": {
+  "en": "**Mindless Rampage.** Must attack the nearest creature.",
+  "t": "**هياج بلا عقل.** يجب أن يهاجم أقرب مخلوق."
+ },
+ "67193f1a6f2e": {
+  "en": "*Loot:* chitin (worth 2 aquamarines from an adult), gamey meat.",
+  "t": "*الغنيمة:* كيتين (يساوي 2 أكوامارين من البالغ)، ولحم قوي النكهة."
+ },
+ "6779901668f8": {
+  "en": "**Pincher Shot.** Ranged 60 ft, +6 to hit, 3d6+3 piercing (black flame on the pincers is the tell).",
+  "t": "**رمية الكمّاشة.** بعيد 60 قدمًا، +6 للإصابة، 3d6+3 خارق (اللهب الأسود على الكمّاشتين هو العلامة)."
+ },
+ "67bb4d6f7ca0": {
+  "en": "**Dread Aura.** Creatures that start their turn within 30 ft: DC 12 Wis save or frightened until the start of their next turn.",
+  "t": "**هالة الرهبة.** المخلوقات التي تبدأ دورها ضمن 30 قدمًا: إنقاذ حكمة DC 12 أو تصبح خائفة حتى بداية دورها التالي."
+ },
+ "68e344ccb081": {
+  "en": "**Decompose Touch.** +6 to hit, 2d8+4 necrotic.",
+  "t": "**لمسة التحلّل.** +6 للإصابة، 2d8+4 نخري."
+ },
+ "6990671b958e": {
+  "en": "**Air Shield.** Reaction: +3 AC against one ranged attack.",
+  "t": "**درع الهواء.** رد فعل: +3 AC ضد هجوم بعيد واحد."
+ },
+ "6a8fdd02c3d7": {
+  "en": "**Unkillable.** When reduced to 0 HP, DC 15 Con save to drop to 1 HP instead (not if the damage was radiant).",
+  "t": "**لا يُقتل.** حين يهبط إلى 0 HP، إنقاذ بنية DC 15 ليبقى بـ1 HP بدلًا من ذلك (إلا إن كان الضرر إشعاعيًا)."
+ },
+ "6e075c2c9691": {
+  "en": "White Roundies (CR 1) — Whiteland, winter shores",
+  "t": "وايت راونديز (CR 1) — وايتلاند، الشواطئ في الشتاء"
+ },
+ "6e81d378659b": {
+  "en": "**Soul Drain Grapple.** +6 to hit, 1d8+4 bludgeoning, grappled (escape DC 14).",
+  "t": "**إمساك ماصّ للروح.** +6 للإصابة، 1d8+4 راض، ممسوك (الإفلات DC 14)."
+ },
+ "6e8f0bff2879": {
+  "en": "**Sky Hunter.** Advantage on sight Perception; senses living creatures within 120 ft.",
+  "t": "**صياد السماء.** أفضلية على الإدراك المعتمد على البصر؛ ويستشعر المخلوقات الحية ضمن 120 قدمًا."
+ },
+ "722ff6cf758f": {
+  "en": "**Sonic Boom (Recharge 5–6).** 30-ft cone, 3d10 thunder, DC 15 Con half.",
+  "t": "**الدوي الصوتي (إعادة شحن 5–6).** مخروط 30 قدمًا، 3d10 رعد، إنقاذ بنية DC 15 للنصف."
+ },
+ "7259177436b6": {
+  "en": "**Trade.** Give it good food: d6 → 1–2 half-eaten fish, 3–4 shiny junk, 5 a pearl, 6 a gold nugget (1 amethyst).",
+  "t": "**المقايضة.** أعطها طعامًا جيدًا: d6 ← 1–2 سمكة نصف مأكولة، 3–4 خردة لامعة، 5 بيرل واحدة، 6 كتلة ذهب صغيرة (أميثيست واحدة)."
+ },
+ "733e31d0eea8": {
+  "en": "Teefyro (CR 4) — Hifuna, near Tastyleaf",
+  "t": "تيفيرو (CR 4) — هيفونا، قرب تيستي ليف"
+ },
+ "75bc37723843": {
+  "en": "**Fost Fear.** Won't approach a lit fost lamp (DC 14 Wis save to try). Distractible by \"something finger-shaped\".",
+  "t": "**خوف من الفوست.** لا تقترب من مصباح فوست مضاء (إنقاذ حكمة DC 14 لتحاول). ويمكن إلهاؤها بـ«شيء على شكل إصبع»."
+ },
+ "7a71057ea560": {
+  "en": "AC 12 · HP 70 · amorphous",
+  "t": "AC 12 · HP 70 · عديم الشكل"
+ },
+ "7efc593bbe9c": {
+  "en": "Not aggressive unless provoked or hungry.",
+  "t": "ليس عدوانيًا ما لم يُستفز أو يجُع."
+ },
+ "7f7aa2983a19": {
+  "en": "AC 14 · HP 55 · fly 40 ft",
+  "t": "AC 14 · HP 55 · الطيران 40 قدمًا"
+ },
+ "837377295439": {
+  "en": "**Unstable Form.** When hit by a critical hit, splits into two smaller Muckmen (15 HP each).",
+  "t": "**هيئة غير مستقرة.** حين تصيبه ضربة حرجة، ينقسم إلى ماكمان أصغر اثنين (15 HP لكل منهما)."
+ },
+ "8f3ed2abadb4": {
+  "en": "**Slow Regeneration.** Regains 5 HP per round unless it took fire or radiant damage.",
+  "t": "**تجدّد بطيء.** يستعيد 5 HP كل جولة ما لم يتلقَّ ضرر نار أو إشعاعي."
+ },
+ "8ff1df9b6292": {
+  "en": "Hash (template) — any CR, Hifuna",
+  "t": "هاش (قالب) — أي CR، هيفونا"
+ },
+ "91b6185202f3": {
+  "en": "**Decompose Strike.** +5 to hit, 1d8+3 necrotic.",
+  "t": "**ضربة التحلّل.** +5 للإصابة، 1d8+3 نخري."
+ },
+ "941f559e188b": {
+  "en": "**Fost Weakness.** A fost stone jammed into its crown (attack vs AC 14, or automatic while it's grappled or prone) **paralyzes** it until removed. It's drawn to fost stones within 60 ft.",
+  "t": "**ضعف أمام الفوست.** حجر فوست يُغرس في تاجه (هجوم ضد AC 14، أو تلقائيًا ما دام ممسوكًا أو منبطحًا) **يشلّه** حتى يُنزع. وتجذبه أحجار الفوست ضمن 60 قدمًا."
+ },
+ "96359fe95833": {
+  "en": "**Teeth Launch.** Ranged 30 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**إطلاق الأسنان.** بعيد 30 قدمًا، +6 للإصابة، 2d8+4 خارق."
+ },
+ "98793b061a74": {
+  "en": "Sweet Sting (CR 2) — Sweetlake, west of Blood",
+  "t": "سويت ستينغ (CR 2) — سويت ليك، غرب بلاد"
+ },
+ "9a123bcaf689": {
+  "en": "**Growth Burst.** Bonus action: +10 ft reach until its next turn.",
+  "t": "**دفقة النمو.** فعل إضافي: +10 أقدام للمدى حتى دوره التالي."
+ },
+ "9c1f2119cce3": {
+  "en": "**Sound Blast (Recharge 6).** 15-ft radius, DC 12 Con save or deafened 1 minute (used to stun fish).",
+  "t": "**الانفجار الصوتي (إعادة شحن 6).** نصف قطر 15 قدمًا، إنقاذ بنية DC 12 أو أصمّ دقيقة واحدة (تُستخدم لصعق الأسماك)."
+ },
+ "9c80b22353cf": {
+  "en": "**Mindless Swarm.** Advantage on attacks while an ally is adjacent to the target.",
+  "t": "**سرب بلا عقل.** أفضلية على الهجمات ما دام حليف مجاورًا للهدف."
+ },
+ "9e9150f387ad": {
+  "en": "Bruntos (CR ½) — Endlessfog, Freeish (feral)",
+  "t": "برونتوس (CR ½) — إندلس فوغ، فريئيش (برّي)"
+ },
+ "9f5090239573": {
+  "en": "**Poison Spit (Recharge 5–6).** One target within 60 ft automatically takes 4d10 poison. \"Sure as a spitting Sweet Sting.\"",
+  "t": "**بصقة السم (إعادة شحن 5–6).** هدف واحد ضمن 60 قدمًا يتلقى تلقائيًا 4d10 سم. «أكيد كبصقة سويت ستينغ.»"
+ },
+ "9faa89227804": {
+  "en": "*Loot:* claws (weapon material), tongue (Walking Dead gel). A whole corpse sells for **5 sapphires**.",
+  "t": "*الغنيمة:* المخالب (مادة للأسلحة)، واللسان (جل ووكينغ ديد). وتُباع الجثة كاملة بـ**5 سافاير**."
+ },
+ "a4da0fdd1b6a": {
+  "en": "**Gust Stream.** 60-ft line, DC 15 Str save or pushed 30 ft and knocked prone.",
+  "t": "**تيار العصف.** خط 60 قدمًا، إنقاذ قوة DC 15 أو يُدفع 30 قدمًا ويسقط منبطحًا."
+ },
+ "a8320040ac37": {
+  "en": "**Enlarge (1/day).** Doubles size: reach +5 ft, damage +1d6.",
+  "t": "**التضخّم (1/يوم).** يتضاعف حجمه: المدى +5 أقدام، الضرر +1d6."
+ },
+ "a86fb529a5c8": {
+  "en": "Koalin (CR 1) — eastern grasslands",
+  "t": "كوالين (CR 1) — المراعي الشرقية"
+ },
+ "a8762cbb2e02": {
+  "en": "Hifuna People (CR 6) — Hifuna",
+  "t": "هيفونا بيبول (CR 6) — هيفونا"
+ },
+ "ab1a46b7fbb5": {
+  "en": "**Soul Leaves.** Senses soul energy within 60 ft. Fost stone paralysis works, but the attack is against AC 16.",
+  "t": "**أوراق الروح.** يستشعر طاقة الروح ضمن 60 قدمًا. شلل حجر الفوست ينجح، لكن الهجوم يكون ضد AC 16."
+ },
+ "abf235e4ad57": {
+  "en": "**Slam.** +6 to hit, 2d8+4 bludgeoning.",
+  "t": "**الصدمة.** +6 للإصابة، 2d8+4 راض."
+ },
+ "ac2773b58cc3": {
+  "en": "Walking Flathead (CR 7) — Bahyum",
+  "t": "ووكينغ فلاتهيد (CR 7) — باهيوم"
+ },
+ "af4bd7508c8c": {
+  "en": "**Soul Sight.** Sees invisible and soul-based creatures within 120 ft.",
+  "t": "**بصر الروح.** يرى المخلوقات غير المرئية والمخلوقات القائمة على الروح ضمن 120 قدمًا."
+ },
+ "b02d7cd9b2e3": {
+  "en": "*Loot:* meat (tastes like pork), hide. Brain, eyes and mustache are **illegal** to carry.",
+  "t": "*الغنيمة:* لحم (طعمه كلحم الخنزير)، وجلد. وحمل الدماغ والعينين والشارب **غير قانوني**."
+ },
+ "b6e10ecc40fc": {
+  "en": "**Razor Edges.** Crits deal +2d6 slashing.",
+  "t": "**حواف كالموسى.** الضربات الحرجة تُحدث +2d6 قاطع."
+ },
+ "b740e3c6582b": {
+  "en": "**Costume Blind.** Ignores creatures in a convincing Sweet Sting costume.",
+  "t": "**عمى أمام الأزياء.** يتجاهل المخلوقات التي تلبس زيّ سويت ستينغ مقنعًا."
+ },
+ "c00d5d4d7675": {
+  "en": "Crazed Muckman (CR 3) — Blood, Freeish",
+  "t": "كريزد ماكمان (CR 3) — بلاد، فريئيش"
+ },
+ "c07e1ebb77de": {
+  "en": "Nari Worm (CR 8, but peaceful) — Nari Caverns",
+  "t": "دودة ناري (CR 8، لكنها مسالمة) — كهوف ناري"
+ },
+ "c1e745c10316": {
+  "en": "**Hive Mind.** Can't be surprised while another Walking undead is within 60 ft.",
+  "t": "**عقل الخلية.** لا يمكن مفاجأته ما دام ميت حي آخر من الووكينغ ضمن 60 قدمًا."
+ },
+ "c59acd2ea88e": {
+  "en": "**Burrow Cloak.** Invisible while underground; Saynas detect it.",
+  "t": "**عباءة الجحر.** غير مرئي ما دام تحت الأرض؛ والساينا تكشفه."
+ },
+ "c5b86c94cacf": {
+  "en": "Ported from the original Alpha campaign's `Beasts Stats.md`, with regions added and new entries. Light-weight blocks: fill in ability scores from a similar 5e monster of the same CR when you need them. \"Soul Energy\" damage reduces the target's **Soul Points** (SP); below 0 SP a creature gains exhaustion instead.",
+  "t": "منقولة من `Beasts Stats.md` في حملة ألفا الأصلية، مع إضافة الأقاليم ومداخل جديدة. بطاقات خفيفة: إن احتجت قيم القدرات، فخذها من وحش مشابه في 5e بنفس CR. ضرر «طاقة الروح» ينقص **نقاط الروح** (SP) لدى الهدف؛ وتحت 0 SP يكتسب المخلوق الإنهاك بدلًا من ذلك."
+ },
+ "c7c4f83ee762": {
+  "en": "AC 12 · HP 19 · climb 30 ft",
+  "t": "AC 12 · HP 19 · التسلق 30 قدمًا"
+ },
+ "c857f9631995": {
+  "en": "Shapeshifter (CR 4) — west of Blood",
+  "t": "المتحوّل (CR 4) — غرب بلاد"
+ },
+ "c87cda76da9a": {
+  "en": "In Freeish they're street lights and guards; groups of 6+ can set a village on fire.",
+  "t": "في فريئيش هم مصابيح شوارع وحراس؛ والمجموعات من 6+ تستطيع إشعال قرية."
+ },
+ "c99f5618e292": {
+  "en": "AC 15 · HP 110 · fly 120 ft",
+  "t": "AC 15 · HP 110 · الطيران 120 قدمًا"
+ },
+ "cd81979086b6": {
+  "en": "**Friendly.** Never attacks first. Harming one is a Hifuna-exile crime.",
+  "t": "**ودودة.** لا تهاجم أولًا أبدًا. وإيذاء واحدة جريمة عقوبتها النفي إلى هيفونا."
+ },
+ "ceeea05e4432": {
+  "en": "**Soul-Enhanced Screech (Recharge 5–6).** 3d10 thunder in 30 ft, DC 15 Con half.",
+  "t": "**صرخة معزّزة بالروح (إعادة شحن 5–6).** 3d10 رعد ضمن 30 قدمًا، إنقاذ بنية DC 15 للنصف."
+ },
+ "cf472acf8428": {
+  "en": "**Stalker.** Picks one target and follows them for 1d3 nights (DC 15 Perception to notice). Advantage on attacks against isolated targets.",
+  "t": "**المتربّصة.** تختار هدفًا واحدًا وتتبعه 1d3 ليالٍ (إدراك DC 15 للانتباه). أفضلية على الهجمات ضد الأهداف المعزولة."
+ },
+ "d052a97726e6": {
+  "en": "**Soul Theft.** On a hit, the target loses 1 SP.",
+  "t": "**سرقة الروح.** عند الإصابة، يفقد الهدف 1 SP."
+ },
+ "d38df4e96638": {
+  "en": "Wood People (CR 3) — Buhraies Plains, Tolerideme",
+  "t": "وود بيبول (CR 3) — سهول بورايس، توليريديمي"
+ },
+ "daefd400836b": {
+  "en": "**Fast Strike.** Reach 15 ft, +7 to hit, 2d6+4 slashing; two attacks.",
+  "t": "**الضربة السريعة.** المدى 15 قدمًا، +7 للإصابة، 2d6+4 قاطع؛ هجومان."
+ },
+ "dc7a11d1cf79": {
+  "en": "**Split.** When it drops below half HP, it can split into two (each with half the remaining HP).",
+  "t": "**الانقسام.** حين يهبط تحت نصف HP، يستطيع الانقسام إلى اثنين (لكل منهما نصف HP المتبقية)."
+ },
+ "dcb9bfea4f73": {
+  "en": "Monica Swarm (CR 2) — lower plains",
+  "t": "سرب مونيكا (CR 2) — السهول المنخفضة"
+ },
+ "dece39dee12c": {
+  "en": "**Slow Regeneration.** 10 HP per round unless it took radiant damage.",
+  "t": "**تجدّد بطيء.** 10 HP كل جولة ما لم يتلقَّ ضررًا إشعاعيًا."
+ },
+ "e099acf627b5": {
+  "en": "Walking Skin (CR 3) — Bahyum, Buhraies Plains",
+  "t": "ووكينغ سكين (CR 3) — باهيوم، سهول بورايس"
+ },
+ "e146d763ee3b": {
+  "en": "Protected on Endlessfog: harming one there makes the locals violent.",
+  "t": "محميّ في إندلس فوغ: إيذاء واحد هناك يجعل السكان المحليين عنيفين."
+ },
+ "e19d8807a9cc": {
+  "en": "**Dive Bomb.** If it flies 20 ft straight toward the target, +2d6 damage.",
+  "t": "**القصف الانقضاضي.** إن طار 20 قدمًا مستقيمًا نحو الهدف، +2d6 ضرر."
+ },
+ "e29aa7a5bd89": {
+  "en": "**Soul Drain (Recharge 6).** One creature within 5 ft: DC 14 Con save or lose 1d4 SP.",
+  "t": "**امتصاص الروح (إعادة شحن 6).** مخلوق واحد ضمن 5 أقدام: إنقاذ بنية DC 14 أو يفقد 1d4 SP."
+ },
+ "e45250d99d08": {
+  "en": "Trunk People (CR 1) — Freeish forests, Woodland",
+  "t": "ترانك بيبول (CR 1) — غابات فريئيش، وودلاند"
+ },
+ "e4e0010ccde4": {
+  "en": "**Halted Decomposition.** Immune to poison and disease.",
+  "t": "**تحلّل متوقف.** محصّن ضد السم والمرض."
+ },
+ "e53eeec252bb": {
+  "en": "AC 12 · HP 30 · swim 50 ft",
+  "t": "AC 12 · HP 30 · السباحة 50 قدمًا"
+ },
+ "e66d39f47a58": {
+  "en": "AC 12 · HP 30 · swarm, fly 30 ft",
+  "t": "AC 12 · HP 30 · سرب، الطيران 30 قدمًا"
+ },
+ "e73cb5fbd9ef": {
+  "en": "AC 15 · HP 95 · fly 80 ft",
+  "t": "AC 15 · HP 95 · الطيران 80 قدمًا"
+ },
+ "e75f81fcdeab": {
+  "en": "**Body Explosion.** When reduced to 0 HP, explodes: 4d6 fire in 15 ft, DC 13 Dex half. Leaves a crater.",
+  "t": "**انفجار الجسد.** حين يهبط إلى 0 HP، ينفجر: 4d6 نار ضمن 15 قدمًا، إنقاذ براعة DC 13 للنصف. ويترك حفرة."
+ },
+ "ea0e2fe7d5c0": {
+  "en": "AC 13 · HP 22 · Small",
+  "t": "AC 13 · HP 22 · صغير"
+ },
+ "eee17dea3c40": {
+  "en": "**Porter.** Carries as much as a mule over rough terrain without slowing the party.",
+  "t": "**الحمّال.** يحمل بقدر بغل على أرض وعرة دون أن يبطئ الفريق."
+ },
+ "ef816228507d": {
+  "en": "**Strip Flesh.** Swarm attack: 2d6 piercing to creatures in its space; a corpse is stripped in hours.",
+  "t": "**تجريد اللحم.** هجوم السرب: 2d6 خارق للمخلوقات في مساحته؛ وتتعرّى الجثة حتى العظم خلال ساعات."
+ },
+ "f37b8ccc226f": {
+  "en": "*Loot:* jelly blob in a jar (1 aquamarine to scientists).",
+  "t": "*الغنيمة:* كتلة هلامية في جرة (أكوامارين واحدة عند العلماء)."
+ },
+ "f3f4304cba13": {
+  "en": "AC 14 · HP 110 · burrow 30 ft",
+  "t": "AC 14 · HP 110 · الحفر 30 قدمًا"
+ },
+ "fc948a18033d": {
+  "en": "Flinga (CR 6) — the skies",
+  "t": "فلينغا (CR 6) — السماء"
+ },
+ "fcec3010541f": {
+  "en": "Walking Flesh (CR 4) — Bahyum, Buhraies Plains",
+  "t": "ووكينغ فليش (CR 4) — باهيوم، سهول بورايس"
+ },
+ "fd81cb413c78": {
+  "en": "**Quake.** Each round it's angry, the cavern quakes (DC 13 Dex or 2d6 bludgeoning, prone).",
+  "t": "**الزلزلة.** في كل جولة تكون فيها غاضبة، يهتز الكهف (براعة DC 13 أو 2d6 راض، منبطح)."
+ },
+ "fe699492048e": {
+  "en": "AC 18 · HP 200 · burrow 40 ft",
+  "t": "AC 18 · HP 200 · الحفر 40 قدمًا"
+ }
+}

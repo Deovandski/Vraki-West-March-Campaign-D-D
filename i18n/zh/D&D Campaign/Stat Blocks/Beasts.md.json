@@ -1,0 +1,462 @@
+{
+ "06fbfa3a380b": {
+  "en": "**Vine Strike (Fast Strike).** Reach 15 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**藤鞭（快速打击）。** 触及15尺，命中+6，2d8+4穿刺。"
+ },
+ "09e9ea708992": {
+  "en": "**Stunning Scream (Recharge 5–6).** 60-ft cone, DC 15 Con save or stunned 1 round.",
+  "t": "**震慑尖叫（充能5–6）。** 60尺锥形，DC 15体质豁免，失败则震慑1轮。"
+ },
+ "0a2bd15fec9b": {
+  "en": "Beast Stat Blocks",
+  "t": "数据卡：魔兽"
+ },
+ "0a7b4490877b": {
+  "en": "**Aerial Strike.** +7 to hit, 2d8+4 slashing.",
+  "t": "**空中打击。** 命中+7，2d8+4挥砍。"
+ },
+ "0f60415f1f2a": {
+  "en": "*Loot:* red wood, rubbery vines, pink sap, a head-sized Wood People Yabuca.",
+  "t": "*战利品：* 红色木材、像橡胶一样的藤蔓、粉色树液、一个头那么大的伍德皮普尔亚布卡。"
+ },
+ "0f8e90325da2": {
+  "en": "**Pincher Copy.** Reaction: a spectral pincer duplicate gives +2 AC for 1 round.",
+  "t": "**钳子分身。** 反应：一个幽灵般的钳子分身在1轮内提供AC +2。"
+ },
+ "15391761242c": {
+  "en": "**Flathead Slam.** +8 to hit, 2d10+5 bludgeoning.",
+  "t": "**扁头猛击。** 命中+8，2d10+5钝击。"
+ },
+ "1634036a1168": {
+  "en": "**Acid Spray (Recharge 5–6).** 15-ft cone, 4d10 acid, DC 14 Dex half.",
+  "t": "**酸液喷射（充能5–6）。** 15尺锥形，4d10强酸，DC 14敏捷豁免成功则减半。"
+ },
+ "1c77143cc852": {
+  "en": "**Climb Away.** When damaged, it flies straight up out of reach.",
+  "t": "**向上逃离。** 受到伤害时，直线向上飞到够不着的地方。"
+ },
+ "1dba9c925290": {
+  "en": "**Blinding Flash (Recharge 5–6).** 20-ft radius, DC 12 Con save or blinded 1 round.",
+  "t": "**致盲闪光（充能5–6）。** 20尺半径，DC 12体质豁免，失败则目盲1轮。"
+ },
+ "1e4fe1962386": {
+  "en": "**Slow Regeneration.** 3 HP per round unless it took radiant damage.",
+  "t": "**缓慢再生。** 除非受到光耀伤害，否则每轮3点HP。"
+ },
+ "1ed94bfcad62": {
+  "en": "**Pin & Feed.** A grappled target takes 2d10 necrotic each round and loses 1 SP.",
+  "t": "**压制吸食。** 受擒的目标每轮受到2d10黯蚀伤害并失去1 SP。"
+ },
+ "1f4f1e6dafaf": {
+  "en": "**Four Flame Arms.** Two attacks, +4 to hit, 1d6 fire.",
+  "t": "**四条火焰手臂。** 两次攻击，命中+4，1d6火焰。"
+ },
+ "20f50f45be37": {
+  "en": "Apply to any creature that lived in Hifuna: **+2 CR-ish**. Double HP; +2 to attack and damage rolls; Intelligence halved; always hostile; usually sterile. Its special abilities are stronger (+1d6 damage, +2 save DCs). Meat is irradiated (eating it = 1 Exposure). Proof of kill: the head.",
+  "t": "适用于任何在希富纳生活过的生物：**CR大约+2**。HP翻倍；攻击检定和伤害骰+2；智力减半；总是敌对；通常不育。特殊能力更强（伤害+1d6，豁免DC +2）。肉带有辐射（吃了=1点暴露）。击杀证明：头。"
+ },
+ "250dd710b6a0": {
+  "en": "**Deaf, Talks in Light.** Can't hear; communicates with colors.",
+  "t": "**耳聋，用光说话。** 听不见；用颜色交流。"
+ },
+ "25b08fa94f54": {
+  "en": "**Rooted Defense.** +2 AC if it hasn't moved this turn.",
+  "t": "**扎根防御。** 如果这回合没有移动，AC +2。"
+ },
+ "25cab629a30e": {
+  "en": "**Mutate (Recharge 5–6).** Gains one: +2 AC · +2d6 damage · +20 ft speed · resistance to a random type.",
+  "t": "**突变（充能5–6）。** 获得以下之一：AC +2 · 伤害+2d6 · 速度+20尺 · 对一种随机类型具有抗性。"
+ },
+ "25d9d6242068": {
+  "en": "**Purr.** Creatures that pet one gain 1 temporary HP (once per day).",
+  "t": "**呼噜。** 摸过它的生物获得1点临时生命值（每天一次）。"
+ },
+ "2972de0e4fde": {
+  "en": "**Worm Brood.** On a critical hit, the target is infested: DC 15 Con save each long rest or lose 1 max HP until a Tier II Body RESTORE.",
+  "t": "**蛆巢。** 重击时目标被寄生：每次长休都要进行DC 15体质豁免，失败则失去1点HP上限，直到接受第II级的博迪里斯托尔。"
+ },
+ "299ee1b33aae": {
+  "en": "**Engulf.** +5 to hit, 2d6+3 bludgeoning and grappled; 2d6 acid each turn while grappled.",
+  "t": "**吞没。** 命中+5，2d6+3钝击并受擒；受擒期间每回合2d6强酸。"
+ },
+ "2a1b0345201e": {
+  "en": "**Harden Shell / Acid Gut.** If attacked: +2 AC, and 4d10 acid in a 20-ft line (DC 16 Dex half).",
+  "t": "**硬化外壳/酸液肚。** 如果被攻击：AC +2，并在20尺直线上喷出4d10强酸（DC 16敏捷豁免成功则减半）。"
+ },
+ "2a8a4c9e9f48": {
+  "en": "Sand Worm (CR 5) — Desert",
+  "t": "桑德沃姆（CR 5）——沙漠"
+ },
+ "360b6cd2627d": {
+  "en": "AC 14 · HP 80 · speed 20 ft",
+  "t": "AC 14 · HP 80 · 速度20尺"
+ },
+ "36c4981670c3": {
+  "en": "Big Winga (CR 4) — Wingarest, rare",
+  "t": "大温加（CR 4）——温加雷斯特，罕见"
+ },
+ "3e3ecb74bcad": {
+  "en": "Untamable. Its eggs never hatch for humans.",
+  "t": "无法驯服。它的蛋在人类手里永远孵不出来。"
+ },
+ "3fadddfd1e98": {
+  "en": "**Spike Launch.** Ranged 60 ft, +7 to hit, 2d8 piercing.",
+  "t": "**尖刺发射。** 远程60尺，命中+7，2d8穿刺。"
+ },
+ "40a6e8cd1dc7": {
+  "en": "**Storm Warning.** A blue wall of them means a storm within the day.",
+  "t": "**风暴预警。** 一堵蓝色的莫妮卡墙意味着当天就会有风暴。"
+ },
+ "4544553d9954": {
+  "en": "**Harden Body.** Bonus action: +2 AC until its next turn.",
+  "t": "**硬化身体。** 附赠动作：直到它的下个回合前AC +2。"
+ },
+ "454acfe4161f": {
+  "en": "**Fist.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**拳头。** 命中+4，1d6+2钝击。"
+ },
+ "465e3a4d55a3": {
+  "en": "**Bite.** +7 to hit, 3d8+4 piercing.",
+  "t": "**啮咬。** 命中+7，3d8+4穿刺。"
+ },
+ "482a82ebb85e": {
+  "en": "**Random Mutation (Recharge 5–6).** Gains one for 1 minute: +2 AC · +2d6 damage · +20 ft speed · resistance to a random damage type.",
+  "t": "**随机突变（充能5–6）。** 获得以下之一，持续1分钟：AC +2 · 伤害+2d6 · 速度+20尺 · 对一种随机伤害类型具有抗性。"
+ },
+ "495a490602e8": {
+  "en": "**Hypnosis (Recharge 6).** One creature within 60 ft: DC 12 Wis save or incapacitated for 1 round.",
+  "t": "**催眠（充能6）。** 60尺内一个生物：DC 12感知豁免，失败则失能1轮。"
+ },
+ "4a5208a95062": {
+  "en": "**Bigger Looking.** Illusion: appears Large.",
+  "t": "**看起来更大。** 幻象：看上去是大型。"
+ },
+ "4d33bd53066f": {
+  "en": "**Mind Crush (if cornered).** DC 13 Wis save or 3d6 psychic; weak-minded NPCs may flee or worse.",
+  "t": "**心灵碾压（被逼入绝境时）。** DC 13感知豁免，失败则受到3d6心灵伤害；意志薄弱的NPC可能逃跑，或者更糟。"
+ },
+ "57c4a973fb92": {
+  "en": "**Exploding Branches (1/day).** Thrown 60 ft: 4d8 fire in a 10-ft radius, DC 15 Dex half.",
+  "t": "**爆炸树枝（1/日）。** 投掷60尺：10尺半径内4d8火焰，DC 15敏捷豁免成功则减半。"
+ },
+ "5c354f34e13b": {
+  "en": "**Mimic.** Assumes the form and voice of a Medium or smaller creature it has touched (DC 15 Insight to spot something off).",
+  "t": "**拟态。** 变成它碰过的中型或更小生物的样子和声音（洞悉DC 15才能看出不对劲）。"
+ },
+ "6021235d3a4d": {
+  "en": "Sucker Lady (CR 3) — forests near towns, Hifuna",
+  "t": "萨克莱迪（CR 3）——城镇附近的森林、希富纳"
+ },
+ "60e1df60d7ac": {
+  "en": "**Mindless Rampage.** Must attack the nearest creature.",
+  "t": "**无心狂暴。** 必须攻击最近的生物。"
+ },
+ "67193f1a6f2e": {
+  "en": "*Loot:* chitin (worth 2 aquamarines from an adult), gamey meat.",
+  "t": "*战利品：* 甲壳（成年个体值2个阿夸马林）、膻味很重的肉。"
+ },
+ "6779901668f8": {
+  "en": "**Pincher Shot.** Ranged 60 ft, +6 to hit, 3d6+3 piercing (black flame on the pincers is the tell).",
+  "t": "**钳子射击。** 远程60尺，命中+6，3d6+3穿刺（钳子上的黑色火焰是征兆）。"
+ },
+ "67bb4d6f7ca0": {
+  "en": "**Dread Aura.** Creatures that start their turn within 30 ft: DC 12 Wis save or frightened until the start of their next turn.",
+  "t": "**恐惧光环。** 在30尺内开始回合的生物：DC 12感知豁免，失败则恐慌直到它下个回合开始。"
+ },
+ "68e344ccb081": {
+  "en": "**Decompose Touch.** +6 to hit, 2d8+4 necrotic.",
+  "t": "**腐朽之触。** 命中+6，2d8+4黯蚀。"
+ },
+ "6990671b958e": {
+  "en": "**Air Shield.** Reaction: +3 AC against one ranged attack.",
+  "t": "**空气护盾。** 反应：对一次远程攻击AC +3。"
+ },
+ "6a8fdd02c3d7": {
+  "en": "**Unkillable.** When reduced to 0 HP, DC 15 Con save to drop to 1 HP instead (not if the damage was radiant).",
+  "t": "**杀不死。** HP降到0时，进行DC 15体质豁免，成功则改为降到1 HP（如果伤害是光耀伤害则不行）。"
+ },
+ "6e075c2c9691": {
+  "en": "White Roundies (CR 1) — Whiteland, winter shores",
+  "t": "怀特朗迪斯（CR 1）——怀特兰，冬季海岸"
+ },
+ "6e81d378659b": {
+  "en": "**Soul Drain Grapple.** +6 to hit, 1d8+4 bludgeoning, grappled (escape DC 14).",
+  "t": "**灵魂汲取擒抱。** 命中+6，1d8+4钝击，受擒（挣脱DC 14）。"
+ },
+ "6e8f0bff2879": {
+  "en": "**Sky Hunter.** Advantage on sight Perception; senses living creatures within 120 ft.",
+  "t": "**天空猎手。** 依靠视觉的察觉具有优势；能感知120尺内的活物。"
+ },
+ "722ff6cf758f": {
+  "en": "**Sonic Boom (Recharge 5–6).** 30-ft cone, 3d10 thunder, DC 15 Con half.",
+  "t": "**音爆（充能5–6）。** 30尺锥形，3d10雷鸣，DC 15体质豁免成功则减半。"
+ },
+ "7259177436b6": {
+  "en": "**Trade.** Give it good food: d6 → 1–2 half-eaten fish, 3–4 shiny junk, 5 a pearl, 6 a gold nugget (1 amethyst).",
+  "t": "**交换。** 给它好吃的：d6 → 1–2 吃了一半的鱼，3–4 闪亮的破烂，5 一枚珀尔，6 一块金块（1个阿米西斯特）。"
+ },
+ "733e31d0eea8": {
+  "en": "Teefyro (CR 4) — Hifuna, near Tastyleaf",
+  "t": "蒂菲罗（CR 4）——希富纳，泰斯蒂利夫附近"
+ },
+ "75bc37723843": {
+  "en": "**Fost Fear.** Won't approach a lit fost lamp (DC 14 Wis save to try). Distractible by \"something finger-shaped\".",
+  "t": "**害怕福斯特。** 不会靠近点亮的福斯特灯（想靠近需要DC 14感知豁免）。“某个手指形状的东西”能分散它的注意力。"
+ },
+ "7a71057ea560": {
+  "en": "AC 12 · HP 70 · amorphous",
+  "t": "AC 12 · HP 70 · 无定形"
+ },
+ "7efc593bbe9c": {
+  "en": "Not aggressive unless provoked or hungry.",
+  "t": "除非被激怒或饿了，否则没有攻击性。"
+ },
+ "7f7aa2983a19": {
+  "en": "AC 14 · HP 55 · fly 40 ft",
+  "t": "AC 14 · HP 55 · 飞行40尺"
+ },
+ "837377295439": {
+  "en": "**Unstable Form.** When hit by a critical hit, splits into two smaller Muckmen (15 HP each).",
+  "t": "**不稳定形态。** 被重击命中时，分裂成两个较小的马克曼（各15 HP）。"
+ },
+ "8f3ed2abadb4": {
+  "en": "**Slow Regeneration.** Regains 5 HP per round unless it took fire or radiant damage.",
+  "t": "**缓慢再生。** 除非受到火焰或光耀伤害，否则每轮恢复5点HP。"
+ },
+ "8ff1df9b6292": {
+  "en": "Hash (template) — any CR, Hifuna",
+  "t": "哈什（模板）——任意CR，希富纳"
+ },
+ "91b6185202f3": {
+  "en": "**Decompose Strike.** +5 to hit, 1d8+3 necrotic.",
+  "t": "**腐朽打击。** 命中+5，1d8+3黯蚀。"
+ },
+ "941f559e188b": {
+  "en": "**Fost Weakness.** A fost stone jammed into its crown (attack vs AC 14, or automatic while it's grappled or prone) **paralyzes** it until removed. It's drawn to fost stones within 60 ft.",
+  "t": "**福斯特弱点。** 把一块福斯特石塞进它的树冠（对AC 14进行攻击，或在它受擒或倒地时自动成功）会使它**麻痹**，直到石头被取出。它会被60尺内的福斯特石吸引。"
+ },
+ "96359fe95833": {
+  "en": "**Teeth Launch.** Ranged 30 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**牙齿发射。** 远程30尺，命中+6，2d8+4穿刺。"
+ },
+ "98793b061a74": {
+  "en": "Sweet Sting (CR 2) — Sweetlake, west of Blood",
+  "t": "斯威特斯廷（CR 2）——斯威特莱克，布拉德以西"
+ },
+ "9a123bcaf689": {
+  "en": "**Growth Burst.** Bonus action: +10 ft reach until its next turn.",
+  "t": "**生长爆发。** 附赠动作：直到它的下个回合前触及+10尺。"
+ },
+ "9c1f2119cce3": {
+  "en": "**Sound Blast (Recharge 6).** 15-ft radius, DC 12 Con save or deafened 1 minute (used to stun fish).",
+  "t": "**音波冲击（充能6）。** 15尺半径，DC 12体质豁免，失败则耳聋1分钟（它们用这个来震晕鱼）。"
+ },
+ "9c80b22353cf": {
+  "en": "**Mindless Swarm.** Advantage on attacks while an ally is adjacent to the target.",
+  "t": "**无心之群。** 只要有盟友与目标相邻，攻击就具有优势。"
+ },
+ "9e9150f387ad": {
+  "en": "Bruntos (CR ½) — Endlessfog, Freeish (feral)",
+  "t": "布伦托斯（CR ½）——恩德莱斯福格、弗里伊什（野生）"
+ },
+ "9f5090239573": {
+  "en": "**Poison Spit (Recharge 5–6).** One target within 60 ft automatically takes 4d10 poison. \"Sure as a spitting Sweet Sting.\"",
+  "t": "**毒液喷吐（充能5–6）。** 60尺内一个目标自动受到4d10毒素伤害。“准得像斯威特斯廷吐口水。”"
+ },
+ "9faa89227804": {
+  "en": "*Loot:* claws (weapon material), tongue (Walking Dead gel). A whole corpse sells for **5 sapphires**.",
+  "t": "*战利品：* 爪子（武器材料）、舌头（沃金戴德凝胶）。一整具尸体能卖**5个萨菲尔**。"
+ },
+ "a4da0fdd1b6a": {
+  "en": "**Gust Stream.** 60-ft line, DC 15 Str save or pushed 30 ft and knocked prone.",
+  "t": "**狂风气流。** 60尺直线，DC 15力量豁免，失败则被推开30尺并倒地。"
+ },
+ "a8320040ac37": {
+  "en": "**Enlarge (1/day).** Doubles size: reach +5 ft, damage +1d6.",
+  "t": "**变大（1/日）。** 体型翻倍：触及+5尺，伤害+1d6。"
+ },
+ "a86fb529a5c8": {
+  "en": "Koalin (CR 1) — eastern grasslands",
+  "t": "科阿林（CR 1）——东部草原"
+ },
+ "a8762cbb2e02": {
+  "en": "Hifuna People (CR 6) — Hifuna",
+  "t": "希富纳皮普尔（CR 6）——希富纳"
+ },
+ "ab1a46b7fbb5": {
+  "en": "**Soul Leaves.** Senses soul energy within 60 ft. Fost stone paralysis works, but the attack is against AC 16.",
+  "t": "**灵魂之叶。** 能感知60尺内的灵魂能量。福斯特石麻痹有效，但攻击要对AC 16进行。"
+ },
+ "abf235e4ad57": {
+  "en": "**Slam.** +6 to hit, 2d8+4 bludgeoning.",
+  "t": "**猛击。** 命中+6，2d8+4钝击。"
+ },
+ "ac2773b58cc3": {
+  "en": "Walking Flathead (CR 7) — Bahyum",
+  "t": "沃金·弗拉特黑德（CR 7）——巴休姆"
+ },
+ "af4bd7508c8c": {
+  "en": "**Soul Sight.** Sees invisible and soul-based creatures within 120 ft.",
+  "t": "**灵魂视觉。** 能看见120尺内隐形的生物和以灵魂为本体的生物。"
+ },
+ "b02d7cd9b2e3": {
+  "en": "*Loot:* meat (tastes like pork), hide. Brain, eyes and mustache are **illegal** to carry.",
+  "t": "*战利品：* 肉（吃起来像猪肉）、皮。携带它的脑、眼睛和胡须是**违法的**。"
+ },
+ "b6e10ecc40fc": {
+  "en": "**Razor Edges.** Crits deal +2d6 slashing.",
+  "t": "**锋利边缘。** 重击额外造成2d6挥砍。"
+ },
+ "b740e3c6582b": {
+  "en": "**Costume Blind.** Ignores creatures in a convincing Sweet Sting costume.",
+  "t": "**看不穿戏服。** 无视穿着逼真斯威特斯廷戏服的生物。"
+ },
+ "c00d5d4d7675": {
+  "en": "Crazed Muckman (CR 3) — Blood, Freeish",
+  "t": "克雷兹德·马克曼（CR 3）——布拉德、弗里伊什"
+ },
+ "c07e1ebb77de": {
+  "en": "Nari Worm (CR 8, but peaceful) — Nari Caverns",
+  "t": "纳里虫（CR 8，但很温和）——纳里洞窟"
+ },
+ "c1e745c10316": {
+  "en": "**Hive Mind.** Can't be surprised while another Walking undead is within 60 ft.",
+  "t": "**蜂巢思维。** 只要60尺内有其他沃金亡灵，就不会被突袭。"
+ },
+ "c59acd2ea88e": {
+  "en": "**Burrow Cloak.** Invisible while underground; Saynas detect it.",
+  "t": "**地下隐身。** 在地下时隐形；赛纳能察觉到它。"
+ },
+ "c5b86c94cacf": {
+  "en": "Ported from the original Alpha campaign's `Beasts Stats.md`, with regions added and new entries. Light-weight blocks: fill in ability scores from a similar 5e monster of the same CR when you need them. \"Soul Energy\" damage reduces the target's **Soul Points** (SP); below 0 SP a creature gains exhaustion instead.",
+  "t": "移植自原版阿尔法战役的`Beasts Stats.md`，加上了地区和新条目。这是轻量版数据卡：需要属性值时，从同CR的相似5e怪物那里借用。“灵魂能量”伤害会减少目标的**灵魂点数**（SP）；SP低于0时，生物改为获得力竭。"
+ },
+ "c7c4f83ee762": {
+  "en": "AC 12 · HP 19 · climb 30 ft",
+  "t": "AC 12 · HP 19 · 攀爬30尺"
+ },
+ "c857f9631995": {
+  "en": "Shapeshifter (CR 4) — west of Blood",
+  "t": "变形者（CR 4）——布拉德以西"
+ },
+ "c87cda76da9a": {
+  "en": "In Freeish they're street lights and guards; groups of 6+ can set a village on fire.",
+  "t": "在弗里伊什，它们是路灯和卫兵；6个以上成群就能把一个村子点着。"
+ },
+ "c99f5618e292": {
+  "en": "AC 15 · HP 110 · fly 120 ft",
+  "t": "AC 15 · HP 110 · 飞行120尺"
+ },
+ "cd81979086b6": {
+  "en": "**Friendly.** Never attacks first. Harming one is a Hifuna-exile crime.",
+  "t": "**友善。** 从不先攻击。伤害它是要被流放到希富纳的罪行。"
+ },
+ "ceeea05e4432": {
+  "en": "**Soul-Enhanced Screech (Recharge 5–6).** 3d10 thunder in 30 ft, DC 15 Con half.",
+  "t": "**灵魂强化尖啸（充能5–6）。** 30尺内3d10雷鸣，DC 15体质豁免成功则减半。"
+ },
+ "cf472acf8428": {
+  "en": "**Stalker.** Picks one target and follows them for 1d3 nights (DC 15 Perception to notice). Advantage on attacks against isolated targets.",
+  "t": "**跟踪者。** 选定一个目标，跟踪对方1d3个晚上（察觉DC 15才能注意到）。对落单目标的攻击具有优势。"
+ },
+ "d052a97726e6": {
+  "en": "**Soul Theft.** On a hit, the target loses 1 SP.",
+  "t": "**灵魂窃取。** 命中时，目标失去1 SP。"
+ },
+ "d38df4e96638": {
+  "en": "Wood People (CR 3) — Buhraies Plains, Tolerideme",
+  "t": "伍德皮普尔（CR 3）——布莱斯平原、托勒里德梅"
+ },
+ "daefd400836b": {
+  "en": "**Fast Strike.** Reach 15 ft, +7 to hit, 2d6+4 slashing; two attacks.",
+  "t": "**快速打击。** 触及15尺，命中+7，2d6+4挥砍；两次攻击。"
+ },
+ "dc7a11d1cf79": {
+  "en": "**Split.** When it drops below half HP, it can split into two (each with half the remaining HP).",
+  "t": "**分裂。** HP降到一半以下时，可以分裂成两个（各自拥有剩余HP的一半）。"
+ },
+ "dcb9bfea4f73": {
+  "en": "Monica Swarm (CR 2) — lower plains",
+  "t": "莫妮卡群（CR 2）——低地平原"
+ },
+ "dece39dee12c": {
+  "en": "**Slow Regeneration.** 10 HP per round unless it took radiant damage.",
+  "t": "**缓慢再生。** 除非受到光耀伤害，否则每轮10点HP。"
+ },
+ "e099acf627b5": {
+  "en": "Walking Skin (CR 3) — Bahyum, Buhraies Plains",
+  "t": "沃金·斯金（CR 3）——巴休姆、布莱斯平原"
+ },
+ "e146d763ee3b": {
+  "en": "Protected on Endlessfog: harming one there makes the locals violent.",
+  "t": "在恩德莱斯福格受到保护：在那里伤害一只，当地人就会变得暴力。"
+ },
+ "e19d8807a9cc": {
+  "en": "**Dive Bomb.** If it flies 20 ft straight toward the target, +2d6 damage.",
+  "t": "**俯冲轰炸。** 如果它朝目标直线飞行20尺，伤害+2d6。"
+ },
+ "e29aa7a5bd89": {
+  "en": "**Soul Drain (Recharge 6).** One creature within 5 ft: DC 14 Con save or lose 1d4 SP.",
+  "t": "**灵魂汲取（充能6）。** 5尺内一个生物：DC 14体质豁免，失败则失去1d4 SP。"
+ },
+ "e45250d99d08": {
+  "en": "Trunk People (CR 1) — Freeish forests, Woodland",
+  "t": "特朗克皮普尔（CR 1）——弗里伊什森林、伍德兰"
+ },
+ "e4e0010ccde4": {
+  "en": "**Halted Decomposition.** Immune to poison and disease.",
+  "t": "**腐败停滞。** 对毒素和疾病免疫。"
+ },
+ "e53eeec252bb": {
+  "en": "AC 12 · HP 30 · swim 50 ft",
+  "t": "AC 12 · HP 30 · 游泳50尺"
+ },
+ "e66d39f47a58": {
+  "en": "AC 12 · HP 30 · swarm, fly 30 ft",
+  "t": "AC 12 · HP 30 · 集群，飞行30尺"
+ },
+ "e73cb5fbd9ef": {
+  "en": "AC 15 · HP 95 · fly 80 ft",
+  "t": "AC 15 · HP 95 · 飞行80尺"
+ },
+ "e75f81fcdeab": {
+  "en": "**Body Explosion.** When reduced to 0 HP, explodes: 4d6 fire in 15 ft, DC 13 Dex half. Leaves a crater.",
+  "t": "**身体爆炸。** HP降到0时爆炸：15尺内4d6火焰，DC 13敏捷豁免成功则减半。留下一个弹坑。"
+ },
+ "ea0e2fe7d5c0": {
+  "en": "AC 13 · HP 22 · Small",
+  "t": "AC 13 · HP 22 · 小型"
+ },
+ "eee17dea3c40": {
+  "en": "**Porter.** Carries as much as a mule over rough terrain without slowing the party.",
+  "t": "**搬运工。** 在崎岖地形上能驮和骡子一样多的东西，而且不拖慢队伍。"
+ },
+ "ef816228507d": {
+  "en": "**Strip Flesh.** Swarm attack: 2d6 piercing to creatures in its space; a corpse is stripped in hours.",
+  "t": "**剥肉。** 集群攻击：对其空间内的生物造成2d6穿刺；一具尸体几小时就会被啃成骨头。"
+ },
+ "f37b8ccc226f": {
+  "en": "*Loot:* jelly blob in a jar (1 aquamarine to scientists).",
+  "t": "*战利品：* 装在罐子里的一团果冻（卖给科学家值1个阿夸马林）。"
+ },
+ "f3f4304cba13": {
+  "en": "AC 14 · HP 110 · burrow 30 ft",
+  "t": "AC 14 · HP 110 · 掘穴30尺"
+ },
+ "fc948a18033d": {
+  "en": "Flinga (CR 6) — the skies",
+  "t": "弗林加（CR 6）——天空"
+ },
+ "fcec3010541f": {
+  "en": "Walking Flesh (CR 4) — Bahyum, Buhraies Plains",
+  "t": "沃金·弗莱什（CR 4）——巴休姆、布莱斯平原"
+ },
+ "fd81cb413c78": {
+  "en": "**Quake.** Each round it's angry, the cavern quakes (DC 13 Dex or 2d6 bludgeoning, prone).",
+  "t": "**地震。** 它发怒的每一轮，洞窟都会震动（DC 13敏捷，失败则2d6钝击并倒地）。"
+ },
+ "fe699492048e": {
+  "en": "AC 18 · HP 200 · burrow 40 ft",
+  "t": "AC 18 · HP 200 · 掘穴40尺"
+ }
+}

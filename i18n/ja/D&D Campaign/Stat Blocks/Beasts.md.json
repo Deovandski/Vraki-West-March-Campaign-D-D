@@ -1,0 +1,462 @@
+{
+ "06fbfa3a380b": {
+  "en": "**Vine Strike (Fast Strike).** Reach 15 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**つるの一撃（速い一撃）。** 間合い15フィート、命中+6、2d8+4の刺突。"
+ },
+ "09e9ea708992": {
+  "en": "**Stunning Scream (Recharge 5–6).** 60-ft cone, DC 15 Con save or stunned 1 round.",
+  "t": "**朦朧とさせる叫び（再チャージ5–6）。** 60フィートの円錐、DC 15の【耐久力】セーヴに失敗すると1ラウンド朦朧状態。"
+ },
+ "0a2bd15fec9b": {
+  "en": "Beast Stat Blocks",
+  "t": "データ：魔獣"
+ },
+ "0a7b4490877b": {
+  "en": "**Aerial Strike.** +7 to hit, 2d8+4 slashing.",
+  "t": "**空からの一撃。** 命中+7、2d8+4の斬撃。"
+ },
+ "0f60415f1f2a": {
+  "en": "*Loot:* red wood, rubbery vines, pink sap, a head-sized Wood People Yabuca.",
+  "t": "*戦利品：* 赤い木材、ゴムのようなつる、ピンクの樹液、頭ほどの大きさのウッドピープルのヤブカ。"
+ },
+ "0f8e90325da2": {
+  "en": "**Pincher Copy.** Reaction: a spectral pincer duplicate gives +2 AC for 1 round.",
+  "t": "**はさみの複製。** リアクション：霊体のはさみの分身が1ラウンドの間AC +2を与える。"
+ },
+ "15391761242c": {
+  "en": "**Flathead Slam.** +8 to hit, 2d10+5 bludgeoning.",
+  "t": "**平たい頭の叩きつけ。** 命中+8、2d10+5の殴打。"
+ },
+ "1634036a1168": {
+  "en": "**Acid Spray (Recharge 5–6).** 15-ft cone, 4d10 acid, DC 14 Dex half.",
+  "t": "**酸の噴射（再チャージ5–6）。** 15フィートの円錐、4d10の酸、DC 14の【敏捷力】セーヴで半減。"
+ },
+ "1c77143cc852": {
+  "en": "**Climb Away.** When damaged, it flies straight up out of reach.",
+  "t": "**上へ逃げる。** ダメージを受けると、まっすぐ上に飛んで届かないところへ行く。"
+ },
+ "1dba9c925290": {
+  "en": "**Blinding Flash (Recharge 5–6).** 20-ft radius, DC 12 Con save or blinded 1 round.",
+  "t": "**目くらましの閃光（再チャージ5–6）。** 半径20フィート、DC 12の【耐久力】セーヴに失敗すると1ラウンド盲目状態。"
+ },
+ "1e4fe1962386": {
+  "en": "**Slow Regeneration.** 3 HP per round unless it took radiant damage.",
+  "t": "**緩やかな再生。** 光輝のダメージを受けていなければ、毎ラウンドHP 3。"
+ },
+ "1ed94bfcad62": {
+  "en": "**Pin & Feed.** A grappled target takes 2d10 necrotic each round and loses 1 SP.",
+  "t": "**押さえ込んで吸う。** 組みつかれた目標は毎ラウンド2d10の死霊を受け、SPを1失う。"
+ },
+ "1f4f1e6dafaf": {
+  "en": "**Four Flame Arms.** Two attacks, +4 to hit, 1d6 fire.",
+  "t": "**四本の炎の腕。** 攻撃2回、命中+4、1d6の火。"
+ },
+ "20f50f45be37": {
+  "en": "Apply to any creature that lived in Hifuna: **+2 CR-ish**. Double HP; +2 to attack and damage rolls; Intelligence halved; always hostile; usually sterile. Its special abilities are stronger (+1d6 damage, +2 save DCs). Meat is irradiated (eating it = 1 Exposure). Proof of kill: the head.",
+  "t": "ヒフナで暮らしていたクリーチャーなら何にでも適用する：**CRおよそ+2**。HP 2倍。攻撃ロールとダメージ・ロールに+2。【知力】半分。常に敵対的。たいてい繁殖できない。特殊能力が強化される（ダメージ+1d6、セーヴDC +2）。肉は放射能を帯びている（食べると曝露1）。討伐の証：頭。"
+ },
+ "250dd710b6a0": {
+  "en": "**Deaf, Talks in Light.** Can't hear; communicates with colors.",
+  "t": "**耳が聞こえず、光で話す。** 音が聞こえない。色で意思を伝える。"
+ },
+ "25b08fa94f54": {
+  "en": "**Rooted Defense.** +2 AC if it hasn't moved this turn.",
+  "t": "**根を張った防御。** このターンに移動していなければAC +2。"
+ },
+ "25cab629a30e": {
+  "en": "**Mutate (Recharge 5–6).** Gains one: +2 AC · +2d6 damage · +20 ft speed · resistance to a random type.",
+  "t": "**突然変異（再チャージ5–6）。** 次のうち一つを得る：AC +2 · ダメージ+2d6 · 移動速度+20フィート · ランダムな種別一つへの抵抗。"
+ },
+ "25d9d6242068": {
+  "en": "**Purr.** Creatures that pet one gain 1 temporary HP (once per day).",
+  "t": "**ゴロゴロ。** なでたクリーチャーは一時的ヒット・ポイントを1得る（1日1回）。"
+ },
+ "2972de0e4fde": {
+  "en": "**Worm Brood.** On a critical hit, the target is infested: DC 15 Con save each long rest or lose 1 max HP until a Tier II Body RESTORE.",
+  "t": "**蛆の巣。** クリティカル・ヒットで目標に寄生する：大休憩のたびにDC 15の【耐久力】セーヴを行い、失敗するとティアIIのボディ・リストアを受けるまで最大HPを1失う。"
+ },
+ "299ee1b33aae": {
+  "en": "**Engulf.** +5 to hit, 2d6+3 bludgeoning and grappled; 2d6 acid each turn while grappled.",
+  "t": "**飲み込む。** 命中+5、2d6+3の殴打と組みつかれ状態。組みつかれている間、毎ターン2d6の酸。"
+ },
+ "2a1b0345201e": {
+  "en": "**Harden Shell / Acid Gut.** If attacked: +2 AC, and 4d10 acid in a 20-ft line (DC 16 Dex half).",
+  "t": "**硬い殻／酸の腹。** 攻撃されたら：AC +2、そして20フィートの直線に4d10の酸（DC 16の【敏捷力】セーヴで半減）。"
+ },
+ "2a8a4c9e9f48": {
+  "en": "Sand Worm (CR 5) — Desert",
+  "t": "サンドワーム（CR 5） — 砂漠"
+ },
+ "360b6cd2627d": {
+  "en": "AC 14 · HP 80 · speed 20 ft",
+  "t": "AC 14 · HP 80 · 移動速度20フィート"
+ },
+ "36c4981670c3": {
+  "en": "Big Winga (CR 4) — Wingarest, rare",
+  "t": "ビッグウィンガ（CR 4） — ウィンガレスト、まれ"
+ },
+ "3e3ecb74bcad": {
+  "en": "Untamable. Its eggs never hatch for humans.",
+  "t": "飼い慣らせない。その卵は人間のもとでは決してかえらない。"
+ },
+ "3fadddfd1e98": {
+  "en": "**Spike Launch.** Ranged 60 ft, +7 to hit, 2d8 piercing.",
+  "t": "**棘の発射。** 射程60フィート、命中+7、2d8の刺突。"
+ },
+ "40a6e8cd1dc7": {
+  "en": "**Storm Warning.** A blue wall of them means a storm within the day.",
+  "t": "**嵐の警報。** 青い壁のような群れは、その日のうちに嵐が来るという意味だ。"
+ },
+ "4544553d9954": {
+  "en": "**Harden Body.** Bonus action: +2 AC until its next turn.",
+  "t": "**体を硬くする。** ボーナス・アクション：次の自分のターンまでAC +2。"
+ },
+ "454acfe4161f": {
+  "en": "**Fist.** +4 to hit, 1d6+2 bludgeoning.",
+  "t": "**拳。** 命中+4、1d6+2の殴打。"
+ },
+ "465e3a4d55a3": {
+  "en": "**Bite.** +7 to hit, 3d8+4 piercing.",
+  "t": "**噛みつき。** 命中+7、3d8+4の刺突。"
+ },
+ "482a82ebb85e": {
+  "en": "**Random Mutation (Recharge 5–6).** Gains one for 1 minute: +2 AC · +2d6 damage · +20 ft speed · resistance to a random damage type.",
+  "t": "**ランダムな突然変異（再チャージ5–6）。** 1分間、次のうち一つを得る：AC +2 · ダメージ+2d6 · 移動速度+20フィート · ランダムなダメージ種別一つへの抵抗。"
+ },
+ "495a490602e8": {
+  "en": "**Hypnosis (Recharge 6).** One creature within 60 ft: DC 12 Wis save or incapacitated for 1 round.",
+  "t": "**催眠（再チャージ6）。** 60フィート以内のクリーチャー1体：DC 12の【判断力】セーヴに失敗すると1ラウンド無力状態。"
+ },
+ "4a5208a95062": {
+  "en": "**Bigger Looking.** Illusion: appears Large.",
+  "t": "**大きく見せる。** 幻覚：大型に見える。"
+ },
+ "4d33bd53066f": {
+  "en": "**Mind Crush (if cornered).** DC 13 Wis save or 3d6 psychic; weak-minded NPCs may flee or worse.",
+  "t": "**心を砕く（追い詰められたら）。** DC 13の【判断力】セーヴに失敗すると3d6の精神。気の弱いNPCは逃げ出すか、もっとひどいことになる。"
+ },
+ "57c4a973fb92": {
+  "en": "**Exploding Branches (1/day).** Thrown 60 ft: 4d8 fire in a 10-ft radius, DC 15 Dex half.",
+  "t": "**爆発する枝（1回/日）。** 60フィート投げる：半径10フィートに4d8の火、DC 15の【敏捷力】セーヴで半減。"
+ },
+ "5c354f34e13b": {
+  "en": "**Mimic.** Assumes the form and voice of a Medium or smaller creature it has touched (DC 15 Insight to spot something off).",
+  "t": "**擬態。** 触れたことのある中型以下のクリーチャーの姿と声をまねる（違和感に気づくには〈看破〉DC 15）。"
+ },
+ "6021235d3a4d": {
+  "en": "Sucker Lady (CR 3) — forests near towns, Hifuna",
+  "t": "サッカー・レディ（CR 3） — 町の近くの森、ヒフナ"
+ },
+ "60e1df60d7ac": {
+  "en": "**Mindless Rampage.** Must attack the nearest creature.",
+  "t": "**心なき暴走。** 最も近いクリーチャーを攻撃しなければならない。"
+ },
+ "67193f1a6f2e": {
+  "en": "*Loot:* chitin (worth 2 aquamarines from an adult), gamey meat.",
+  "t": "*戦利品：* キチン（成体ならアクアマリン2個の価値）、くせのある肉。"
+ },
+ "6779901668f8": {
+  "en": "**Pincher Shot.** Ranged 60 ft, +6 to hit, 3d6+3 piercing (black flame on the pincers is the tell).",
+  "t": "**はさみの射撃。** 射程60フィート、命中+6、3d6+3の刺突（はさみに黒い炎がともるのが前触れ）。"
+ },
+ "67bb4d6f7ca0": {
+  "en": "**Dread Aura.** Creatures that start their turn within 30 ft: DC 12 Wis save or frightened until the start of their next turn.",
+  "t": "**恐怖のオーラ。** 30フィート以内でターンを開始したクリーチャー：DC 12の【判断力】セーヴに失敗すると、次の自分のターンの開始時まで恐怖状態。"
+ },
+ "68e344ccb081": {
+  "en": "**Decompose Touch.** +6 to hit, 2d8+4 necrotic.",
+  "t": "**腐敗の接触。** 命中+6、2d8+4の死霊。"
+ },
+ "6990671b958e": {
+  "en": "**Air Shield.** Reaction: +3 AC against one ranged attack.",
+  "t": "**空気の盾。** リアクション：遠隔攻撃1回に対してAC +3。"
+ },
+ "6a8fdd02c3d7": {
+  "en": "**Unkillable.** When reduced to 0 HP, DC 15 Con save to drop to 1 HP instead (not if the damage was radiant).",
+  "t": "**殺せない。** HPが0になったとき、DC 15の【耐久力】セーヴに成功すれば代わりにHP 1になる（ダメージが光輝なら不可）。"
+ },
+ "6e075c2c9691": {
+  "en": "White Roundies (CR 1) — Whiteland, winter shores",
+  "t": "ホワイトラウンディーズ（CR 1） — ホワイトランド、冬の海岸"
+ },
+ "6e81d378659b": {
+  "en": "**Soul Drain Grapple.** +6 to hit, 1d8+4 bludgeoning, grappled (escape DC 14).",
+  "t": "**魂吸いの組みつき。** 命中+6、1d8+4の殴打、組みつかれ状態（脱出DC 14）。"
+ },
+ "6e8f0bff2879": {
+  "en": "**Sky Hunter.** Advantage on sight Perception; senses living creatures within 120 ft.",
+  "t": "**空の狩人。** 視覚による〈知覚〉に有利。120フィート以内の生きたクリーチャーを感知する。"
+ },
+ "722ff6cf758f": {
+  "en": "**Sonic Boom (Recharge 5–6).** 30-ft cone, 3d10 thunder, DC 15 Con half.",
+  "t": "**ソニックブーム（再チャージ5–6）。** 30フィートの円錐、3d10の雷鳴、DC 15の【耐久力】セーヴで半減。"
+ },
+ "7259177436b6": {
+  "en": "**Trade.** Give it good food: d6 → 1–2 half-eaten fish, 3–4 shiny junk, 5 a pearl, 6 a gold nugget (1 amethyst).",
+  "t": "**物々交換。** うまい食べ物をやる：d6 → 1–2 食べかけの魚、3–4 光るがらくた、5 パール1枚、6 金の粒（アメジスト1個）。"
+ },
+ "733e31d0eea8": {
+  "en": "Teefyro (CR 4) — Hifuna, near Tastyleaf",
+  "t": "ティーフィロ（CR 4） — ヒフナ、テイスティリーフの近く"
+ },
+ "75bc37723843": {
+  "en": "**Fost Fear.** Won't approach a lit fost lamp (DC 14 Wis save to try). Distractible by \"something finger-shaped\".",
+  "t": "**フォストが怖い。** 灯ったフォストランプには近づかない（近づくにはDC 14の【判断力】セーヴ）。「指の形をした何か」で気をそらせる。"
+ },
+ "7a71057ea560": {
+  "en": "AC 12 · HP 70 · amorphous",
+  "t": "AC 12 · HP 70 · 不定形"
+ },
+ "7efc593bbe9c": {
+  "en": "Not aggressive unless provoked or hungry.",
+  "t": "挑発されるか腹を空かせていない限り、攻撃的ではない。"
+ },
+ "7f7aa2983a19": {
+  "en": "AC 14 · HP 55 · fly 40 ft",
+  "t": "AC 14 · HP 55 · 飛行40フィート"
+ },
+ "837377295439": {
+  "en": "**Unstable Form.** When hit by a critical hit, splits into two smaller Muckmen (15 HP each).",
+  "t": "**不安定な形。** クリティカル・ヒットを受けると、小さなマックマン2体（各HP 15）に分裂する。"
+ },
+ "8f3ed2abadb4": {
+  "en": "**Slow Regeneration.** Regains 5 HP per round unless it took fire or radiant damage.",
+  "t": "**緩やかな再生。** 火か光輝のダメージを受けていなければ、毎ラウンドHPを5回復する。"
+ },
+ "8ff1df9b6292": {
+  "en": "Hash (template) — any CR, Hifuna",
+  "t": "ハッシュ（テンプレート） — CR不問、ヒフナ"
+ },
+ "91b6185202f3": {
+  "en": "**Decompose Strike.** +5 to hit, 1d8+3 necrotic.",
+  "t": "**腐敗の一撃。** 命中+5、1d8+3の死霊。"
+ },
+ "941f559e188b": {
+  "en": "**Fost Weakness.** A fost stone jammed into its crown (attack vs AC 14, or automatic while it's grappled or prone) **paralyzes** it until removed. It's drawn to fost stones within 60 ft.",
+  "t": "**フォストの弱点。** 樹冠にフォストストーンを押し込まれると（AC 14に対する攻撃、または組みつかれ状態か伏せ状態の間は自動）、取り除かれるまで**麻痺**する。60フィート以内のフォストストーンに引き寄せられる。"
+ },
+ "96359fe95833": {
+  "en": "**Teeth Launch.** Ranged 30 ft, +6 to hit, 2d8+4 piercing.",
+  "t": "**歯の発射。** 射程30フィート、命中+6、2d8+4の刺突。"
+ },
+ "98793b061a74": {
+  "en": "Sweet Sting (CR 2) — Sweetlake, west of Blood",
+  "t": "スイートスティング（CR 2） — スイートレイク、ブラッドの西"
+ },
+ "9a123bcaf689": {
+  "en": "**Growth Burst.** Bonus action: +10 ft reach until its next turn.",
+  "t": "**成長の爆発。** ボーナス・アクション：次の自分のターンまで間合い+10フィート。"
+ },
+ "9c1f2119cce3": {
+  "en": "**Sound Blast (Recharge 6).** 15-ft radius, DC 12 Con save or deafened 1 minute (used to stun fish).",
+  "t": "**音の衝撃（再チャージ6）。** 半径15フィート、DC 12の【耐久力】セーヴに失敗すると1分間聴覚喪失（魚を気絶させるのに使う）。"
+ },
+ "9c80b22353cf": {
+  "en": "**Mindless Swarm.** Advantage on attacks while an ally is adjacent to the target.",
+  "t": "**心なき群れ。** 目標に味方が隣接している間、攻撃に有利。"
+ },
+ "9e9150f387ad": {
+  "en": "Bruntos (CR ½) — Endlessfog, Freeish (feral)",
+  "t": "ブルントス（CR ½） — エンドレスフォグ、フリーイッシュ（野生化）"
+ },
+ "9f5090239573": {
+  "en": "**Poison Spit (Recharge 5–6).** One target within 60 ft automatically takes 4d10 poison. \"Sure as a spitting Sweet Sting.\"",
+  "t": "**毒吐き（再チャージ5–6）。** 60フィート以内の目標1体が自動的に4d10の毒を受ける。「スイートスティングの毒吐きくらい確実」。"
+ },
+ "9faa89227804": {
+  "en": "*Loot:* claws (weapon material), tongue (Walking Dead gel). A whole corpse sells for **5 sapphires**.",
+  "t": "*戦利品：* 爪（武器の素材）、舌（ウォーキング・デッドのジェル）。死体まるごと一体は**サファイア5個**で売れる。"
+ },
+ "a4da0fdd1b6a": {
+  "en": "**Gust Stream.** 60-ft line, DC 15 Str save or pushed 30 ft and knocked prone.",
+  "t": "**突風の流れ。** 60フィートの直線、DC 15の【筋力】セーヴに失敗すると30フィート押しやられ伏せ状態。"
+ },
+ "a8320040ac37": {
+  "en": "**Enlarge (1/day).** Doubles size: reach +5 ft, damage +1d6.",
+  "t": "**巨大化（1回/日）。** 大きさが2倍になる：間合い+5フィート、ダメージ+1d6。"
+ },
+ "a86fb529a5c8": {
+  "en": "Koalin (CR 1) — eastern grasslands",
+  "t": "コアリン（CR 1） — 東の草原"
+ },
+ "a8762cbb2e02": {
+  "en": "Hifuna People (CR 6) — Hifuna",
+  "t": "ヒフナピープル（CR 6） — ヒフナ"
+ },
+ "ab1a46b7fbb5": {
+  "en": "**Soul Leaves.** Senses soul energy within 60 ft. Fost stone paralysis works, but the attack is against AC 16.",
+  "t": "**魂の葉。** 60フィート以内の魂のエネルギーを感知する。フォストストーンによる麻痺は効くが、攻撃はAC 16に対して行う。"
+ },
+ "abf235e4ad57": {
+  "en": "**Slam.** +6 to hit, 2d8+4 bludgeoning.",
+  "t": "**叩きつけ。** 命中+6、2d8+4の殴打。"
+ },
+ "ac2773b58cc3": {
+  "en": "Walking Flathead (CR 7) — Bahyum",
+  "t": "ウォーキング・フラットヘッド（CR 7） — バヒュム"
+ },
+ "af4bd7508c8c": {
+  "en": "**Soul Sight.** Sees invisible and soul-based creatures within 120 ft.",
+  "t": "**魂の視覚。** 120フィート以内の不可視のクリーチャーと魂を本体とするクリーチャーが見える。"
+ },
+ "b02d7cd9b2e3": {
+  "en": "*Loot:* meat (tastes like pork), hide. Brain, eyes and mustache are **illegal** to carry.",
+  "t": "*戦利品：* 肉（豚肉のような味）、皮。脳、目、ひげを持ち歩くのは**違法**。"
+ },
+ "b6e10ecc40fc": {
+  "en": "**Razor Edges.** Crits deal +2d6 slashing.",
+  "t": "**剃刀の刃。** クリティカルで+2d6の斬撃。"
+ },
+ "b740e3c6582b": {
+  "en": "**Costume Blind.** Ignores creatures in a convincing Sweet Sting costume.",
+  "t": "**着ぐるみが見えない。** 本物そっくりのスイートスティングの着ぐるみを着たクリーチャーを無視する。"
+ },
+ "c00d5d4d7675": {
+  "en": "Crazed Muckman (CR 3) — Blood, Freeish",
+  "t": "クレイズド・マックマン（CR 3） — ブラッド、フリーイッシュ"
+ },
+ "c07e1ebb77de": {
+  "en": "Nari Worm (CR 8, but peaceful) — Nari Caverns",
+  "t": "ナリワーム（CR 8、ただし温厚） — ナリ・カヴァーンズ"
+ },
+ "c1e745c10316": {
+  "en": "**Hive Mind.** Can't be surprised while another Walking undead is within 60 ft.",
+  "t": "**群体の心。** 60フィート以内にほかのウォーキングのアンデッドがいる間、不意を討たれない。"
+ },
+ "c59acd2ea88e": {
+  "en": "**Burrow Cloak.** Invisible while underground; Saynas detect it.",
+  "t": "**地中の隠れみの。** 地中にいる間は不可視。サイナには探知される。"
+ },
+ "c5b86c94cacf": {
+  "en": "Ported from the original Alpha campaign's `Beasts Stats.md`, with regions added and new entries. Light-weight blocks: fill in ability scores from a similar 5e monster of the same CR when you need them. \"Soul Energy\" damage reduces the target's **Soul Points** (SP); below 0 SP a creature gains exhaustion instead.",
+  "t": "元のアルファ版キャンペーンの`Beasts Stats.md`から移し、地域と新しい項目を加えたもの。軽量版のデータなので、能力値が必要なら同じCRの似た5版のモンスターから借りること。「魂のエネルギー」ダメージは目標の**ソウルポイント**（SP）を減らす。SPが0を下回ったクリーチャーは、代わりに消耗を得る。"
+ },
+ "c7c4f83ee762": {
+  "en": "AC 12 · HP 19 · climb 30 ft",
+  "t": "AC 12 · HP 19 · 登攀30フィート"
+ },
+ "c857f9631995": {
+  "en": "Shapeshifter (CR 4) — west of Blood",
+  "t": "シェイプシフター（CR 4） — ブラッドの西"
+ },
+ "c87cda76da9a": {
+  "en": "In Freeish they're street lights and guards; groups of 6+ can set a village on fire.",
+  "t": "フリーイッシュでは街灯や衛兵をしている。6体以上の集団は村に火をつけられる。"
+ },
+ "c99f5618e292": {
+  "en": "AC 15 · HP 110 · fly 120 ft",
+  "t": "AC 15 · HP 110 · 飛行120フィート"
+ },
+ "cd81979086b6": {
+  "en": "**Friendly.** Never attacks first. Harming one is a Hifuna-exile crime.",
+  "t": "**友好的。** 決して先に攻撃しない。傷つけるとヒフナ追放の罪になる。"
+ },
+ "ceeea05e4432": {
+  "en": "**Soul-Enhanced Screech (Recharge 5–6).** 3d10 thunder in 30 ft, DC 15 Con half.",
+  "t": "**魂で強めた金切り声（再チャージ5–6）。** 30フィートに3d10の雷鳴、DC 15の【耐久力】セーヴで半減。"
+ },
+ "cf472acf8428": {
+  "en": "**Stalker.** Picks one target and follows them for 1d3 nights (DC 15 Perception to notice). Advantage on attacks against isolated targets.",
+  "t": "**つきまとう者。** 目標を一人選び、1d3晩のあいだ後をつける（気づくには〈知覚〉DC 15）。孤立した目標への攻撃に有利。"
+ },
+ "d052a97726e6": {
+  "en": "**Soul Theft.** On a hit, the target loses 1 SP.",
+  "t": "**魂盗み。** 命中すると、目標はSPを1失う。"
+ },
+ "d38df4e96638": {
+  "en": "Wood People (CR 3) — Buhraies Plains, Tolerideme",
+  "t": "ウッドピープル（CR 3） — ブライエス・プレーンズ、トレリデメ"
+ },
+ "daefd400836b": {
+  "en": "**Fast Strike.** Reach 15 ft, +7 to hit, 2d6+4 slashing; two attacks.",
+  "t": "**速い一撃。** 間合い15フィート、命中+7、2d6+4の斬撃。攻撃2回。"
+ },
+ "dc7a11d1cf79": {
+  "en": "**Split.** When it drops below half HP, it can split into two (each with half the remaining HP).",
+  "t": "**分裂。** HPが半分を下回ると、二つに分かれられる（それぞれ残りHPの半分）。"
+ },
+ "dcb9bfea4f73": {
+  "en": "Monica Swarm (CR 2) — lower plains",
+  "t": "モニカの群れ（CR 2） — 低地の平原"
+ },
+ "dece39dee12c": {
+  "en": "**Slow Regeneration.** 10 HP per round unless it took radiant damage.",
+  "t": "**緩やかな再生。** 光輝のダメージを受けていなければ、毎ラウンドHP 10。"
+ },
+ "e099acf627b5": {
+  "en": "Walking Skin (CR 3) — Bahyum, Buhraies Plains",
+  "t": "ウォーキング・スキン（CR 3） — バヒュム、ブライエス・プレーンズ"
+ },
+ "e146d763ee3b": {
+  "en": "Protected on Endlessfog: harming one there makes the locals violent.",
+  "t": "エンドレスフォグでは保護されている：そこで1体でも傷つければ、地元の人々が暴力的になる。"
+ },
+ "e19d8807a9cc": {
+  "en": "**Dive Bomb.** If it flies 20 ft straight toward the target, +2d6 damage.",
+  "t": "**急降下爆撃。** 目標に向かってまっすぐ20フィート飛んだら、ダメージ+2d6。"
+ },
+ "e29aa7a5bd89": {
+  "en": "**Soul Drain (Recharge 6).** One creature within 5 ft: DC 14 Con save or lose 1d4 SP.",
+  "t": "**魂吸い（再チャージ6）。** 5フィート以内のクリーチャー1体：DC 14の【耐久力】セーヴに失敗するとSPを1d4失う。"
+ },
+ "e45250d99d08": {
+  "en": "Trunk People (CR 1) — Freeish forests, Woodland",
+  "t": "トランクピープル（CR 1） — フリーイッシュの森、ウッドランド"
+ },
+ "e4e0010ccde4": {
+  "en": "**Halted Decomposition.** Immune to poison and disease.",
+  "t": "**止まった腐敗。** 毒と病気に完全耐性。"
+ },
+ "e53eeec252bb": {
+  "en": "AC 12 · HP 30 · swim 50 ft",
+  "t": "AC 12 · HP 30 · 水泳50フィート"
+ },
+ "e66d39f47a58": {
+  "en": "AC 12 · HP 30 · swarm, fly 30 ft",
+  "t": "AC 12 · HP 30 · 群れ、飛行30フィート"
+ },
+ "e73cb5fbd9ef": {
+  "en": "AC 15 · HP 95 · fly 80 ft",
+  "t": "AC 15 · HP 95 · 飛行80フィート"
+ },
+ "e75f81fcdeab": {
+  "en": "**Body Explosion.** When reduced to 0 HP, explodes: 4d6 fire in 15 ft, DC 13 Dex half. Leaves a crater.",
+  "t": "**体の爆発。** HPが0になると爆発する：15フィート以内に4d6の火、DC 13の【敏捷力】セーヴで半減。クレーターが残る。"
+ },
+ "ea0e2fe7d5c0": {
+  "en": "AC 13 · HP 22 · Small",
+  "t": "AC 13 · HP 22 · 小型"
+ },
+ "eee17dea3c40": {
+  "en": "**Porter.** Carries as much as a mule over rough terrain without slowing the party.",
+  "t": "**荷運び。** 一行を遅らせることなく、荒れた地形でもラバと同じだけ運ぶ。"
+ },
+ "ef816228507d": {
+  "en": "**Strip Flesh.** Swarm attack: 2d6 piercing to creatures in its space; a corpse is stripped in hours.",
+  "t": "**肉をはぐ。** 群れの攻撃：自分の占める空間にいるクリーチャーに2d6の刺突。死体は数時間で骨になる。"
+ },
+ "f37b8ccc226f": {
+  "en": "*Loot:* jelly blob in a jar (1 aquamarine to scientists).",
+  "t": "*戦利品：* 瓶詰めのゼリー状の塊（科学者にはアクアマリン1個）。"
+ },
+ "f3f4304cba13": {
+  "en": "AC 14 · HP 110 · burrow 30 ft",
+  "t": "AC 14 · HP 110 · 穴掘り30フィート"
+ },
+ "fc948a18033d": {
+  "en": "Flinga (CR 6) — the skies",
+  "t": "フリンガ（CR 6） — 空"
+ },
+ "fcec3010541f": {
+  "en": "Walking Flesh (CR 4) — Bahyum, Buhraies Plains",
+  "t": "ウォーキング・フレッシュ（CR 4） — バヒュム、ブライエス・プレーンズ"
+ },
+ "fd81cb413c78": {
+  "en": "**Quake.** Each round it's angry, the cavern quakes (DC 13 Dex or 2d6 bludgeoning, prone).",
+  "t": "**地震。** 怒っているラウンドごとに洞窟が揺れる（DC 13の【敏捷力】に失敗すると2d6の殴打、伏せ状態）。"
+ },
+ "fe699492048e": {
+  "en": "AC 18 · HP 200 · burrow 40 ft",
+  "t": "AC 18 · HP 200 · 穴掘り40フィート"
+ }
+}
