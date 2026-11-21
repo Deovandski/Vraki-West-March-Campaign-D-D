@@ -1,43 +1,351 @@
 {
+ "072613ce914a": {
+  "en": "Pharaoh's approval",
+  "t": "Aprobación del faraón"
+ },
  "0776b1ecc9bf": {
   "en": "Tastyleaf",
   "t": "Tastyleaf"
+ },
+ "0879574bbc09": {
+  "en": "Domar Carbey everything · fermented eggs · Purply Smart Lambic Beer · Hearty Cocona Stew",
+  "t": "Domar Carbey en todo · huevos fermentados · Purply Smart Lambic Beer · Guiso contundente de Cocona"
+ },
+ "092b15b542be": {
+  "en": "Wooly cheeses · Lollish-Floaters · fried/stewed Gandew Roundies (Wooly balls) · potted Wooly · Milk String",
+  "t": "Quesos de Wooly · Lollish-Floaters · Gandew Roundies (testículos de Wooly) fritos o guisados · Wooly en olla · Milk String"
+ },
+ "0be26983fdd3": {
+  "en": "**Moacir (fall):** Forway **All the Way Festival** · Tolerideme Harvest Festival · Freeish **Blood & Soil** · Flatland **Second Life** · Triangle Fest · Tastyleaf **Picking Festival**",
+  "t": "**Moacir (otoño):** **All the Way Festival** de Forway · Festival de la Cosecha de Tolerideme · **Sangre y Tierra** de Freeish · **Segunda Vida** de Flatland · Triangle Fest · **Festival de la Recogida** de Tastyleaf"
+ },
+ "0c00c18dd4d7": {
+  "en": "Place",
+  "t": "Lugar"
+ },
+ "0cda73ce347a": {
+  "en": "**Gandew Duels** (no soul energy) vs. **Forway Duels** (soul energy and gels encouraged; held in theaters and arenas)",
+  "t": "**Duelos de Gandew** (sin energía del alma) frente a **Duelos de Forway** (se anima a usar energía del alma y geles; se celebran en teatros y arenas)"
+ },
+ "10dbc680fc3b": {
+  "en": "30/L",
+  "t": "30/L"
  },
  "11577c2f2403": {
   "en": "Wingarest",
   "t": "Wingarest"
  },
+ "1749d8facecd": {
+  "en": "Finger Cakes",
+  "t": "Finger Cakes"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "Precio"
+ },
+ "1ac7842344cc": {
+  "en": "**Brothels** are a normal pastime. **Reading** is for the rich. **Theaters** in Forway stage novels. **Tourism** is for adventurers and the wealthy. **Music** is medieval with a modern swing (no electric anything).",
+  "t": "Los **burdeles** son un pasatiempo normal. **Leer** es cosa de ricos. Los **teatros** de Forway representan novelas. El **turismo** es para aventureros y ricos. La **música** es medieval con un toque moderno (nada eléctrico)."
+ },
  "1b137c5ecaae": {
   "en": "Deltacross",
   "t": "Deltacross"
+ },
+ "1d3ad409e9eb": {
+  "en": "**Fast Fish** (Waterfall to Sanbi; no flight or gravity magic) · **Fast Bird** (Forway; some gels allowed) · **Fish Catch Fish** (fish while swimming; Sanbi)",
+  "t": "**Fast Fish** (de Waterfall a Sanbi; sin magia de vuelo ni de gravedad) · **Fast Bird** (Forway; se permiten algunos geles) · **Fish Catch Fish** (pescar mientras nadas; Sanbi)"
  },
  "1ec59d42d7b9": {
   "en": "Sundeath",
   "t": "Sundeath"
  },
+ "215a6b2bb3ca": {
+  "en": "Teach a Winga to ask",
+  "t": "Enseña a un Winga a pedirlo"
+ },
+ "2237d90c6267": {
+  "en": "**Bone Sack** — toss bone bits into sacks hung in awkward spots; take a big gulp every miss.",
+  "t": "**Bone Sack** — lanza trozos de hueso a sacos colgados en sitios incómodos; da un buen trago en cada fallo."
+ },
+ "2877a021f308": {
+  "en": "5 · ~6/L · ~3/L",
+  "t": "5 · ~6/L · ~3/L"
+ },
+ "289507905090": {
+  "en": "Forway",
+  "t": "Forway"
+ },
+ "2aa0c006c8bc": {
+  "en": "**Asa (spring):** Gandew **King Fest** · Blood's **Great Hunter/Huntress Competition** and **Bone Festival** · Flatland's Hot in the Cold · Deltacross Egua Uniform Contest",
+  "t": "**Asa (primavera):** **King Fest** de Gandew · la **Gran Competición de Cazadores y Cazadoras** y el **Festival del Hueso** de Blood · Calor en el Frío de Flatland · Concurso de Uniformes de Egua de Deltacross"
+ },
+ "3ccc5e37371a": {
+  "en": "Games",
+  "t": "Juegos"
+ },
+ "3ccf196c1000": {
+  "en": "Sea, with triangle stones",
+  "t": "Al mar, con piedras triangulares"
+ },
+ "40ff695ad9f4": {
+  "en": "Grilled Fihi in Rakuja · Cadioca with fried fish · Freeish salad · Basi pulp · Culuim · Gyut Wrap",
+  "t": "Fihi a la parrilla con Rakuja · Cadioca con pescado frito · ensalada freeish · pulpa de Basi · Culuim · Gyut Wrap"
+ },
+ "414e3d4d037e": {
+  "en": "Duel that ends in a draw",
+  "t": "Un duelo que acaba en empate"
+ },
+ "51d21eeeac32": {
+  "en": "Drinks served in floating cocona shells",
+  "t": "Bebidas servidas en cáscaras de cocona flotantes"
+ },
+ "51d4e22ee1f8": {
+  "en": "Festivals by month",
+  "t": "Festivales por mes"
+ },
+ "530df4f611fe": {
+  "en": "Mummified deep underground (or the desert, if shady)",
+  "t": "Momificados en lo profundo del subsuelo (o en el desierto, si eran turbios)"
+ },
  "5475a939ba73": {
   "en": "Blood",
   "t": "Blood"
+ },
+ "5663a952d13a": {
+  "en": "Travel food paste",
+  "t": "Pasta alimenticia de viaje"
+ },
+ "56f1b9a5c888": {
+  "en": "\"Old Kick in the Ass\"",
+  "t": "«Old Kick in the Ass»"
+ },
+ "5d5e64460e0c": {
+  "en": "Daily Life, Food & Festivals",
+  "t": "Vida cotidiana, comida y festivales"
  },
  "60f0853dfedc": {
   "en": "Waterfall",
   "t": "Waterfall"
  },
+ "64e3c953233c": {
+  "en": "**Wood Hammering** — drive nails with the narrow side of a hammer (tavern game).",
+  "t": "**Wood Hammering** — clavar clavos con el lado estrecho del martillo (juego de taberna)."
+ },
+ "66774a952018": {
+  "en": "**Weekly:** Sundeath's Protector Celebration (Forrday) · **Monthly:** Forway fashion show · **Daily:** Sanbi's Safe Fishing Prayer",
+  "t": "**Semanal:** Celebración del Protector de Sundeath (Forrday) · **Mensual:** desfile de moda de Forway · **Diario:** Oración por la Pesca Segura de Sanbi"
+ },
+ "6d2f94fb16e1": {
+  "en": "Varies; contract marriages are trendy",
+  "t": "Varía; los matrimonios por contrato están de moda"
+ },
+ "6ea22ca47404": {
+  "en": "**Homeegg** — Forway's big sport. Two teams of five flying on nari gels; four attackers per side fight in the middle and have five chances to carry the ball to a \"nest\" atop the opponent's pole. Sanbi's team, led by Princess Maiara, keeps winning the finals.",
+  "t": "**Homeegg** — el gran deporte de Forway. Dos equipos de cinco que vuelan con geles de nari; cuatro atacantes por bando luchan en el centro y tienen cinco oportunidades de llevar la pelota a un «nido» en lo alto del poste rival. El equipo de Sanbi, liderado por la princesa Maiara, gana una final tras otra."
+ },
+ "6fec3f069933": {
+  "en": "Invite them to buy a house together",
+  "t": "Invítale a comprar una casa juntos"
+ },
+ "700f74a121a9": {
+  "en": "Freeish",
+  "t": "Freeish"
+ },
  "7728dc17a25b": {
   "en": "Ganyrami",
   "t": "Ganyrami"
+ },
+ "7a12a6bbeaca": {
+  "en": "No marriage; co-parent by law",
+  "t": "Sin matrimonio; crianza compartida por ley"
+ },
+ "7aff8ce27057": {
+  "en": "**Adrian (winter):** **White Roundies Arrival** (Freeish, Sanbi, Endlessfog) · Sanbi **Fish Parade** · Tolerideme **Shake Belly** · Gandew **Weapon Fest** · Blood/Sweetlake **Drunken Sweet Sting Festival** · Flatland **Companion Meetup** · Endlessfog Long & Yellow Sanbi Celebration · Deltacross Egua Uniform Contest",
+  "t": "**Adrian (invierno):** **Llegada de los White Roundies** (Freeish, Sanbi, Endlessfog) · **Desfile del Pez** de Sanbi · **Shake Belly** de Tolerideme · **Festival de las Armas** de Gandew · **Festival del Sweet Sting Borracho** de Blood/Sweetlake · **Encuentro de Compañeros** de Flatland · Celebración del Sanbi Largo y Amarillo de Endlessfog · Concurso de Uniformes de Egua de Deltacross"
+ },
+ "7ffa754dac64": {
+  "en": "A heart of perfect leaves",
+  "t": "Un corazón de hojas perfectas"
+ },
+ "82ed10b3ff82": {
+  "en": "Into the furnace",
+  "t": "Al horno"
+ },
+ "860bd815972b": {
+  "en": "Shout it at the Sanbi Fish Fountain; kiss",
+  "t": "Grítalo en la Fuente del Pez de Sanbi; un beso"
+ },
+ "874718899582": {
+  "en": "Courtship and burial at a glance",
+  "t": "Cortejo y entierro de un vistazo"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "Sanbi"
+ },
+ "8d0b949e8835": {
+  "en": "Black-honey-aged Wooly cheese · Purplebread with Sandworm",
+  "t": "Queso de Wooly curado en miel negra · Purplebread con Sandworm"
+ },
+ "8d82ba24d081": {
+  "en": "Quick Cake (passes through you fast)",
+  "t": "Quick Cake (te atraviesa rapidísimo)"
+ },
+ "8f129197a85a": {
+  "en": "Fruit bundle in the plaza",
+  "t": "Manojo de fruta en la plaza"
  },
  "8f7eaa47ff4e": {
   "en": "Old Fuhrair",
   "t": "Old Fuhrair"
  },
+ "9194c02035e9": {
+  "en": "Sanbi or Tolerideme style",
+  "t": "Al estilo de Sanbi o de Tolerideme"
+ },
+ "941a13f59137": {
+  "en": "Bring your own **Picker** (personal utensil) — everyone does, and many decorate theirs. Poor folk eat from **bread bowls** that get handed to beggars afterward.",
+  "t": "Lleva tu propio **Picker** (cubierto personal) — todo el mundo lo hace, y muchos decoran el suyo. La gente pobre come en **cuencos de pan** que después se dan a los mendigos."
+ },
+ "941fd8983d23": {
+  "en": "Burial",
+  "t": "Entierro"
+ },
+ "9473de235368": {
+  "en": "Wooly filet mignon in Bagarisa bacon",
+  "t": "Filet mignon de Wooly con panceta de Bagarisa"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1 amethyst"
+ },
+ "96b26d6615f5": {
+  "en": "Gandew",
+  "t": "Gandew"
+ },
+ "96f4b2f66f2b": {
+  "en": "Tolerideme",
+  "t": "Tolerideme"
+ },
  "9db4f13ef375": {
   "en": "Endlessfog",
   "t": "Endlessfog"
  },
+ "a0ff030029ca": {
+  "en": "**Flat Steel** — fancy table Stealball for three players plus a **Table Manager** who uses nari stones to create bounce, slow, fast, sink and dead zones, split balls, or freeze them. Team up against the table and it offers shady deals.",
+  "t": "**Flat Steel** — Stealball de mesa refinado para tres jugadores más un **Table Manager** que usa piedras de nari para crear zonas de rebote, lentas, rápidas, de hundimiento y muertas, dividir bolas o congelarlas. Si os aliáis contra la mesa, ofrece tratos turbios."
+ },
+ "aa1f1dbf890c": {
+  "en": "Signature food and drink",
+  "t": "Comidas y bebidas típicas"
+ },
+ "af63113670d1": {
+  "en": "Taverns and pastimes",
+  "t": "Tabernas y pasatiempos"
+ },
+ "b00fe401577b": {
+  "en": "Before the elder, then bond with a Brunto",
+  "t": "Ante el anciano, y después un vínculo con un Brunto"
+ },
+ "b07fc104d56c": {
+  "en": "Declare it in a descending elevator",
+  "t": "Decláralo en un ascensor que baja"
+ },
+ "b341849b984f": {
+  "en": "**Territory Snipping** — darts thrown at once at a board of territories (some colors worth more).",
+  "t": "**Territory Snipping** — dardos lanzados a la vez contra un tablero de territorios (algunos colores valen más)."
+ },
+ "b80ea985b060": {
+  "en": "**Wood Bowl Spin** — tavern roulette with a white ball.",
+  "t": "**Wood Bowl Spin** — ruleta de taberna con una bola blanca."
+ },
+ "b8e6719d3449": {
+  "en": "Cremation; sand-washed bones in an urn",
+  "t": "Incineración; huesos lavados con arena en una urna"
+ },
+ "bb7289542e6c": {
+  "en": "In the desert where they \"landed\"",
+  "t": "En el desierto donde «aterrizaron»"
+ },
+ "bb735a39f152": {
+  "en": "**Taverns are second homes.** Dedicated restaurants are a strange idea; everyone has a favorite tavern, and some Forway taverns are members-only. Adventurers love **tavern-hopping**.",
+  "t": "**Las tabernas son segundos hogares.** Los restaurantes dedicados son una idea rara; todo el mundo tiene su taberna favorita, y algunas tabernas de Forway son solo para socios. A los aventureros les encanta **ir de taberna en taberna**."
+ },
+ "bd628b405118": {
+  "en": "Bagarisa Nose with Cheese · Bloody Blood Sausage · black mead",
+  "t": "Nariz de Bagarisa con queso · Morcilla Sangrienta · hidromiel negro"
+ },
+ "bf1260da68cb": {
+  "en": "**Paulin (summer):** Treaty gathering · **Adventurer Feast (Paulin 100th)** · Endlessfog Lonllow Cuisine · Deltacross Old Bone and Drink-in-the-Delta · Waterfall **Grand Race** and **Jump Race**",
+  "t": "**Paulin (verano):** reunión del Tratado · **Banquete de los Aventureros (día 100 de Paulin)** · Cocina de Lonllow de Endlessfog · Old Bone y Bebe-en-el-Delta de Deltacross · **Gran Carrera** y **Carrera de Salto** de Waterfall"
+ },
+ "c0401a23663d": {
+  "en": "**Soul Energy Art** shows · drinking and food contests (Tolerideme's are famous)",
+  "t": "Espectáculos de **Soul Energy Art** · concursos de bebida y comida (los de Tolerideme son famosos)"
+ },
+ "c20e4e3d53ab": {
+  "en": "Black mead · \"Sweetlake Bottled Water\" (a scam)",
+  "t": "Hidromiel negro · «Agua Embotellada de Sweetlake» (una estafa)"
+ },
+ "c7dab4992ee7": {
+  "en": "Present your proudest kill / liters of black honey",
+  "t": "Presenta tu presa más orgullosa / litros de miel negra"
+ },
+ "c93a9930de3d": {
+  "en": "Pickled Winga eggs",
+  "t": "Huevos de Winga encurtidos"
+ },
+ "c9c67b126b69": {
+  "en": "Sports",
+  "t": "Deportes"
+ },
+ "c9caf53ed885": {
+  "en": "Cremated with Wood People wood",
+  "t": "Incineración con madera de Wood People"
+ },
+ "cc9900e36f42": {
+  "en": "**Egua Race** and **Dueling Egua Race** (any weapon, enhanced eguas and riders), Forway",
+  "t": "**Carrera de Eguas** y **Carrera de Eguas con Duelo** (cualquier arma, eguas y jinetes potenciados), Forway"
+ },
  "cde862687492": {
   "en": "Sweetlake",
   "t": "Sweetlake"
+ },
+ "ce092780deee": {
+  "en": "cheap",
+  "t": "barato"
+ },
+ "ce84b1197295": {
+  "en": "**Minari** — a Gwent-like game with carved statues on a 3D board; one statue in each group hides a nari stone (the \"true\" one) — find and eliminate it. Statues light up with soul energy powers.",
+  "t": "**Minari** — un juego al estilo de Gwent con estatuas talladas sobre un tablero en 3D; una estatua de cada grupo esconde una piedra de nari (la «verdadera») — encuéntrala y elimínala. Las estatuas se iluminan con poderes de energía del alma."
+ },
+ "cf24b6f54eea": {
+  "en": "Lonllow Breadcake",
+  "t": "Pan-pastel de Lonllow"
+ },
+ "d4015d7b9712": {
+  "en": "Dish / drink",
+  "t": "Plato / bebida"
+ },
+ "d78748f192f6": {
+  "en": "In the cathedral before both guilds",
+  "t": "En la catedral, ante los dos gremios"
+ },
+ "dcdea293d916": {
+  "en": "**Stealball** — draw a square, put equal amethysts (or better) in the middle, and flick pearls to knock them out (poor kids use pearls and pebbles).",
+  "t": "**Stealball** — dibuja un cuadrado, pon amethysts (o algo mejor) en el centro a partes iguales y lanza pearls de un toque para sacarlas (los niños pobres usan pearls y piedrecitas)."
+ },
+ "dcfd700b2dfc": {
+  "en": "Soul Send Away into the sea",
+  "t": "Despedida del alma en el mar"
+ },
+ "df6c89aabf5c": {
+  "en": "Fields/woods, Vraki stone",
+  "t": "Campos o bosques, piedra en vraki"
+ },
+ "df819e1c4365": {
+  "en": "Sea or cremation",
+  "t": "Al mar o incineración"
  },
  "e5512f4a91e6": {
   "en": "Flatland",
@@ -46,5 +354,33 @@
  "e563cba00f30": {
   "en": "Triangle",
   "t": "Triangle"
+ },
+ "e902f31fc66f": {
+  "en": "Varies; the poor are incinerated",
+  "t": "Varía; a los pobres los incineran"
+ },
+ "e949d6dc22c7": {
+  "en": "Boiling Ramen (cooked in a geyser)",
+  "t": "Ramen Hirviente (cocinado en un géiser)"
+ },
+ "ea61972c6551": {
+  "en": "Proposal / marriage",
+  "t": "Petición / matrimonio"
+ },
+ "ed84cf7e5e32": {
+  "en": "Naked in the fields",
+  "t": "Desnudos en los campos"
+ },
+ "f388ee442d54": {
+  "en": "Blood / Sweetlake",
+  "t": "Blood / Sweetlake"
+ },
+ "f865b8c73645": {
+  "en": "Fried Fish Balls (10 on a stick) · Sanbi Beer (fish oil, \"aphrodisiac\") · Bread Beer · Hard Mud",
+  "t": "Bolas de pescado fritas (10 en un palo) · Cerveza de Sanbi (aceite de pescado, «afrodisíaca») · Cerveza de pan · Hard Mud"
+ },
+ "fc9541b66bb2": {
+  "en": "Cremated with Wood People wood; ashes on the fields",
+  "t": "Incineración con madera de Wood People; cenizas en los campos"
  }
 }

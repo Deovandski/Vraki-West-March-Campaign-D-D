@@ -1,6 +1,190 @@
 {
+ "00eff3d9ec9b": {
+  "en": "**Kozaku Forway** (931) — legendary boss of the Blue Wozens; not seen in ages.",
+  "t": "**كوزاكو فورواي** (931) — الزعيم الأسطوري للبلو ووزنز؛ لم يُرَ منذ زمن طويل."
+ },
+ "09bf6ba02141": {
+  "en": "**Biny Forway Cliff-Jumper** (994) — ex-Black Castle clerk who invests in adventurers for 30% of their quests and leaks the best quests early.",
+  "t": "**بيني فورواي كليف جامبر** (994) — عمل سابقًا في مكاتب القلعة السوداء، ويستثمر في المغامرين مقابل 30% من مهامهم ويسرّب أفضل المهام مبكرًا."
+ },
+ "1d319f21dfee": {
+  "en": "**Kaiana Forway Cliff-Jumper** (1014) — calls herself the \"Quick-Witted White Caster\" (QWWC is sewn on her uniform); everyone else calls her the \"Angry White Caster with Double D\". Loud, drunk, punctual, reliable; parties tend to disband around her.",
+  "t": "**كايانا فورواي كليف جامبر** (1014) — تسمّي نفسها «الساحرة البيضاء سريعة البديهة» (QWWC مخيط على زيّها)؛ والجميع يسمّونها «الساحرة البيضاء الغاضبة ذات الـDouble D». صاخبة، سكّيرة، دقيقة المواعيد، يُعتمد عليها؛ والفرق تميل إلى التفكك من حولها."
+ },
+ "1d594ae5f462": {
+  "en": "**Maicon Crossroads Black-Dove** (1011) — frequents every illegal establishment and holds blackmail on everyone. Ruffle him and the dirt flies all the way to Newland.",
+  "t": "**مايكون كروسرودز بلاك دوف** (1011) — يرتاد كل مكان غير قانوني ويملك ما يبتزّ به الجميع. أزعِجه فتتطاير الفضائح حتى نيولاند."
+ },
  "1ec59d42d7b9": {
   "en": "Sundeath",
   "t": "صنديث"
+ },
+ "1efba2441eaa": {
+  "en": "**Fernan Blood Blue-Flower-Red-Bone** (994) — Sapphire bow hero of Tastyleaf with statues in Blood and Tastyleaf; officially died on a Hifuna mission.",
+  "t": "**فيرنان بلاد بلو-فلاور-ريد-بون** (994) — بطل القوس من رتبة سافاير من تيستي ليف، له تماثيل في بلاد وتيستي ليف؛ ومات رسميًا في مهمة في هيفونا."
+ },
+ "289507905090": {
+  "en": "Forway",
+  "t": "فورواي"
+ },
+ "2940594d83d4": {
+  "en": "Historical",
+  "t": "شخصيات تاريخية"
+ },
+ "2cbb2b15dc13": {
+  "en": "Gandew & Flatland",
+  "t": "غانديو وفلاتلاند"
+ },
+ "2e9e94b008fd": {
+  "en": "**King Nooru High-Gandew Tough-Hammer** (919) — the friendliest king Gandew has ever had; strangely always missing one tusk. **Queen Satomi** (949) — xenophobic, hardworking, gifted blacksmith.",
+  "t": "**الملك نورو هاي غانديو تاف هامر** (919) — ألطف ملك عرفته غانديو؛ والغريب أنه ينقصه ناب واحد دائمًا. **الملكة ساتومي** (949) — كارهة للأجانب، مجتهدة، حدّادة موهوبة."
+ },
+ "3afae90d20f0": {
+  "en": "Village chiefs: **Tupinamba** (Green Sea), **Manbola** (Depoint), **Tomanius** (Long Bridge).",
+  "t": "زعماء القرى: **توبينامبا** (غرين سي)، **مانبولا** (ديبوينت)، **تومانيوس** (لونغ بريدج)."
+ },
+ "3b7c56bdbdba": {
+  "en": "**Sora Sanbi Blue-Glass** (1025) — shy Wozefaries maid with a genius for finances; her parents run a soap shop.",
+  "t": "**سورا سانبي بلو غلاس** (1025) — خادمة ووزيفاريسية خجولة عبقرية في الأمور المالية؛ ووالداها يديران متجر صابون."
+ },
+ "3e45a5cf5500": {
+  "en": "**Emelia Lakeeye Rich-Flower** (1018) — owner of Emelia's Flowery Paradise; nobody's sure where her money comes from.",
+  "t": "**إيميليا ليك آي ريتش فلاور** (1018) — صاحبة جنة إيميليا المزهرة؛ ولا أحد متأكد من مصدر أموالها."
+ },
+ "42225118861c": {
+  "en": "**Namia Sundeath** (1015) — quiet woman from Sundeath's servant families; rumored nari-gel abuser who wears animal bodies. Often mistaken for the Queen.",
+  "t": "**ناميا صنديث** (1015) — امرأة هادئة من عائلات الخدم في صنديث؛ يُشاع أنها تسيء استخدام جل ناري وتلبس أجساد الحيوانات. كثيرًا ما يظنها الناس الملكة."
+ },
+ "42cafa37dda3": {
+  "en": "**Eiri Sanbi Royal** (1017) — playful, lewd King-Maid and accountant-chef; daughter of the former King-Maid **Coema Half-Cruro** (987), who hunted tax evaders with Cruro help and sailed off to Newland.",
+  "t": "**إيري سانبي رويال** (1017) — كينغ ميد لعوب ماجنة، ومحاسبة وطاهية؛ ابنة كينغ ميد السابقة **كويما هاف كرورو** (987)، التي طاردت المتهربين من الضرائب بمساعدة الكرورو ثم أبحرت إلى نيولاند."
+ },
+ "5079da27d2e1": {
+  "en": "**Akemi** (1004) — his widow, a Wozefaries librarian into the occult; their son **Jonem** (1029) wants to be a historian; their daughter **Magi** (1020) is a narcoleptic Pearl adventurer hunting for her father and paying off the guild's debts.",
+  "t": "**أكيمي** (1004) — أرملته، أمينة مكتبة ووزيفاريسية مولعة بالغيبيات؛ ابنهما **جونيم** (1029) يريد أن يصير مؤرخًا؛ وابنتهما **ماغي** (1020) مغامرة من رتبة بيرل مصابة بالخدار تبحث عن أبيها وتسدّد ديون النقابة."
+ },
+ "526abc61ac79": {
+  "en": "**Morika Tolerideme** (1014) — a quiet, ripped, submissive Toleridemian (rare!) who won't say where he lives now. Separately, people whisper about **\"The Stinger\"**, a gore-soaked figure in insect-like armor seen wandering the wilds.",
+  "t": "**موريكا توليريديمي** (1014) — توليريديمي هادئ مفتول العضلات خاضع (نادر!) لا يقول أين يعيش الآن. وعلى صعيد آخر، يتهامس الناس عن **«ستينغر»**، هيئة غارقة في الدماء بدرع يشبه الحشرات شوهدت تهيم في البرية."
+ },
+ "533166b52b4f": {
+  "en": "**Kibe Sanbi Royal** (989) — orphan apprentice of the late courtroom scientist **Gabiro**; gets things \"technically done\"; terrible public speaker.",
+  "t": "**كيبي سانبي رويال** (989) — تلميذ يتيم لعالِم البلاط الراحل **غابيرو**؛ ينجز الأمور «تقنيًا»؛ خطيب سيئ جدًا أمام الجمهور."
+ },
+ "57daacbdc3e9": {
+  "en": "**Laura Forway White-Bell** (b. 1009) — rags-to-riches former courtesan who now controls Forway's brothels through proxies and owns a homestead known for \"parties\". Rumored to be behind Red Winga.",
+  "t": "**لورا فورواي وايت بيل** (مواليد 1009) — محظية سابقة صعدت من الفقر إلى الثراء وتتحكم الآن في بيوت دعارة فورواي عبر وكلاء، وتملك مزرعة مشهورة بـ«الحفلات». ويُشاع أنها وراء ريد وينغا."
+ },
+ "5d7b4f125bc4": {
+  "en": "**King Itagiba Sanbi Royal** (994) — approachable king who stops to drink with anyone having fun. Explored the world in his youth (maybe left a few kids). Do not mess with his daughters.",
+  "t": "**الملك إيتاجيبا سانبي رويال** (994) — ملك قريب من الناس يتوقف ليشرب مع أي أحد يستمتع بوقته. استكشف العالم في شبابه (وربما ترك بضعة أطفال). لا تعبث مع بناته."
+ },
+ "6087bc06f7d5": {
+  "en": "**Kiko Sanbi Half-Cruro** (1018) — Cruro entrepreneur who founded the Half-Cruro guild. His assistant **Zico** (1023) walks Sanbi every day scribbling in a journal to chat; \"you haven't been to Sanbi until you've said hi to Zico\".",
+  "t": "**كيكو سانبي هاف كرورو** (1018) — رائد أعمال من الكرورو أسس نقابة هاف كرورو. مساعده **زيكو** (1023) يجوب سانبي كل يوم يخربش في دفتر يومياته ليتبادل الحديث؛ «لم تزر سانبي حقًا حتى تُلقي التحية على زيكو»."
+ },
+ "726b661388fa": {
+  "en": "**Francisco Forway Tea-Drinkers** (857) — Darfaries who lost his family in a Gandew dungeon party, hit bottom, and found a family in the Tea-Drinkers guild. Father of **Takeo** (969), a curt, quiet giant (human, though he looks Darfaries). He's polite up to a point, but he has a dark side: he \"questions\" suspects with a finger-clipping tool.",
+  "t": "**فرانسيسكو فورواي تي درينكرز** (857) — دارفاريسي فقد عائلته في حفلة زنزانة في غانديو، وبلغ القاع، ثم وجد عائلة في نقابة تي درينكرز. أبو **تاكيو** (969)، عملاق مقتضب صامت (بشري، وإن بدا دارفاريسيًا). مهذّب إلى حدّ ما، لكن له جانبًا مظلمًا: «يستجوب» المشتبه بهم بأداة لقصّ الأصابع."
+ },
+ "7302849efe21": {
+  "en": "**Pharaoh Gamal** (974) and his sister-wife **Naunet** (989; \"the Neferteri of the West\"); their twin sons **Anpu and Bata** (995), who refuse to rule unless they can share the throne.",
+  "t": "**الفرعون جمال** (974) وأخته وزوجته **نونيت** (989؛ «نفرتيري الغرب»)؛ وابناهما التوأمان **أنبو وباتا** (995)، اللذان يرفضان الحكم ما لم يتقاسما العرش."
+ },
+ "764ae0b3ca2e": {
+  "en": "**Freeish Paulin** (rebel, 621–648), **Asa the Powerful**, **Adrian from North Tolerideme**, **Bijura Moacir** (614–696) — the treaty founders; **Julina Forway** (855–895); the **Three Smart Ladies** (Evedyn, Everyn, Evelyn); **Machado** (the Ganyrami Flanker); **Gabiro Sanbi Royal** (937–1039), the great and aloof soul scientist.",
+  "t": "**فريئيش باولين** (متمرد، 621–648)، و**آسا ذا باورفول**، و**أدريان من شمال توليريديمي**، و**بيجورا مواسير** (614–696) — مؤسسو المعاهدة؛ و**جولينا فورواي** (855–895)؛ و**السيدات الذكيات الثلاث** (إيفيدين وإيفرين وإيفلين)؛ و**ماشادو** (مُطوِّق غانيرامي)؛ و**غابيرو سانبي رويال** (937–1039)، عالِم الروح العظيم المتعالي."
+ },
+ "7f1945c8c30d": {
+  "en": "**Queen Neferteri Sanbi Royal** (999) — runaway heir of Sundeath's Pharaohs; visionary and ambitious; has loyal followers everywhere.",
+  "t": "**الملكة نفرتيري سانبي رويال** (999) — وريثة هاربة من فراعنة صنديث؛ صاحبة رؤية وطموح؛ ولها أتباع أوفياء في كل مكان."
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "سانبي"
+ },
+ "8c7029de8624": {
+  "en": "**Huneo Sanbi Royal** (Sandour) (1016) — tiny, righteous Wozefaries captain of the guard from a rich Forway family who wants Sanbi to be \"proper\". Bribery rumors.",
+  "t": "**هونيو سانبي رويال** (ساندور) (1016) — ووزيفاريسي قصير القامة شديد الاستقامة يقود الحرس، من عائلة فورواية ثرية، ويريد أن تكون سانبي «لائقة». تدور شائعات عن رشى."
+ },
+ "90627ec91dc0": {
+  "en": "**Jimmie Tolerideme Whoop-Ass** (997) — the Booze King: decisive, well connected, always reeking of booze, often found in a pile of big women. His recipe made his family rich. Partners **Kianna** (1004; ambitious, gullible to flattery) and **Isabel** (1011; the one who fixes their messes); kids **Ariana** (1034; hothead), **Amelia** (1036; laid-back, many friends) and **Brandi** (1039).",
+  "t": "**جيمي توليريديمي هوب آس** (997) — ملك الخمر: حازم، واسع العلاقات، تفوح منه رائحة الخمر دائمًا، وكثيرًا ما يُعثر عليه تحت كومة من النساء الضخمات. وصفته جعلت عائلته غنية. شريكتاه **كيانا** (1004؛ طموحة، يسهل خداعها بالإطراء) و**إيزابيل** (1011؛ التي تصلح فوضاهما)؛ وأولاده **أريانا** (1034؛ متهورة)، و**أميليا** (1036؛ هادئة، كثيرة الأصدقاء)، و**براندي** (1039)."
+ },
+ "96f4b2f66f2b": {
+  "en": "Tolerideme",
+  "t": "توليريديمي"
+ },
+ "979f1fabf6a9": {
+  "en": "**July Forway Tea-Drinkers** (1013) — the guild's youngest and best close-quarters fighter; inseparable from her Sayna **Mugi**. Don't pry into her past, and never feed her a nari gel.",
+  "t": "**جولاي فورواي تي درينكرز** (1013) — أصغر أعضاء النقابة وأفضل مقاتليها في الالتحام؛ لا تفارق ساينا خاصتها **موغي**. لا تنبش في ماضيها، ولا تُطعمها جل ناري أبدًا."
+ },
+ "9d2a00834ef4": {
+  "en": "**The Broken-Tree family** — traders **Laramy** (986) and **Honati** (998; illiterate bartender, fierce about her husband), their wanderlust daughter **Dalila** (1027), and cousin **Melada** (1007), a gambler trying to buy back her old life.",
+  "t": "**عائلة بروكن تري** — التاجران **لارامي** (986) و**هوناتي** (998؛ صاحبة حانة أمّية، شرسة حين يتعلق الأمر بزوجها)، وابنتهما المولعة بالترحال **داليلا** (1027)، وابنة العم **ميلادا** (1007)، مقامرة تحاول استرداد حياتها القديمة."
+ },
+ "a62998da696f": {
+  "en": "**The Big-Gyut boys** — **Marcus** (997; wants to be boss), **Clodoveu** (984; daydreamer), **Wilson** (1019) — Blue Wozens bandits from Big Gyut village.",
+  "t": "**فتيان بيغ غيوت** — **ماركوس** (997؛ يريد أن يكون الزعيم)، و**كلودوفيو** (984؛ حالم)، و**ويلسون** (1019) — قطّاع طرق من البلو ووزنز من قرية بيغ غيوت."
+ },
+ "b7ef7cba858c": {
+  "en": "**Prince Hiromi High-Gandew Tough-Hammer** (994) — a wanderer and drinker with endless stories (he's always the hero), engaged to Princess Yacamim.",
+  "t": "**الأمير هيرومي هاي غانديو تاف هامر** (994) — رحّالة وسكّير بقصص لا تنتهي (هو البطل فيها دائمًا)، مخطوب للأميرة ياكاميم."
+ },
+ "ba43a586e968": {
+  "en": "**Tarou Mid-Gandew Strong-Leg** (899) — self-proclaimed \"Forfaries\" deal-maker; will throw money at any daring plan.",
+  "t": "**تارو ميد غانديو سترونغ ليغ** (899) — صانع صفقات نصّب نفسه «فورفاريسيًا»؛ يرمي المال على أي خطة جريئة."
+ },
+ "d1aba74e4330": {
+  "en": "**Ryo Flatland Long-Blue** (974) — wealthy Wozefaries merchant drowning in debt: \"Gotta spend someone else's balls to make yourself some balls!\"",
+  "t": "**ريو فلاتلاند لونغ بلو** (974) — تاجر ووزيفاريسي ثري غارق في الديون: «عليك أن تنفق كرات غيرك لتصنع لنفسك بعض الكرات!»"
+ },
+ "d9874cbb84e1": {
+  "en": "**Rebula village** — wood carver **Nailah** (1015), stern elder **Severino** (1007), dreamy son **Vitor** (1025).",
+  "t": "**قرية ريبولا** — النحّاتة **نايلة** (1015)، والشيخ الصارم **سيفيرينو** (1007)، وابنه الحالم **فيتور** (1025)."
+ },
+ "db15eca394d5": {
+  "en": "**Lofinghy Sanbi Forway Aquamarine-General** (993) — Forway general and captain of the Sanbi embassy; close to the royals.",
+  "t": "**لوفينغي سانبي فورواي أكوامارين جنرال** (993) — جنرال من فورواي يرأس سفارة سانبي؛ وعلى صلة وثيقة بالأسرة الملكية."
+ },
+ "db79d55288e5": {
+  "en": "**Aurora Tolerideme** (988) — cheerful older maid at Sanbi Castle who still calls Tolerideme home.",
+  "t": "**أورورا توليريديمي** (988) — خادمة مرحة متقدمة في السن في قلعة سانبي ما زالت تسمّي توليريديمي وطنها."
+ },
+ "deb42bc3f3e1": {
+  "en": "**Lofingha Forway Amethyst-Captain** (1007) — young, short-tempered captain on a crusade against laziness.",
+  "t": "**لوفينغا فورواي أميثيست كابتن** (1007) — شابّ سريع الغضب برتبة نقيب، في حملة صليبية على الكسل."
+ },
+ "e179e2b72cc3": {
+  "en": "Famous (and infamous) people of the 1040s, as the public knows them. They're here so DMs can drop them into sessions — **their novel storylines don't drive the campaign**. The DM decides who's alive and where. Birth years are A.G. Portraits are in the main repo under `Illustrations/Characters/`.",
+  "t": "مشاهير (وسيئو السمعة) في الأربعينيات من القرن الحادي عشر، كما يعرفهم العامة. أُدرجوا هنا ليُدخلهم مديرو اللعبة في الجلسات — **قصصهم في الروايات لا تقود الحملة**. مدير اللعبة يقرر من حيّ وأين. سنوات الميلاد بتقويم A.G. والصور في المستودع الرئيسي تحت `Illustrations/Characters/`."
+ },
+ "e17c579e8f2a": {
+  "en": "**The princesses** — **Yacamim** (1015), the \"Manly Princess\", an adventurer engaged to Gandew's prince Hiromi after a tavern brawl; her identical twin **Maiara** (1015), even more brazen, star of Sanbi's Homeegg team; **Eori** (1021), the feminine one, gifted with soul energy and nari gels, wants to be a courtroom scientist; **Nina** (1032), tiny bundle of energy.",
+  "t": "**الأميرات** — **ياكاميم** (1015)، «الأميرة المسترجلة»، مغامرة مخطوبة لأمير غانديو هيرومي بعد عراك في حانة؛ وتوأمتها المتطابقة **مايارا** (1015)، أكثر جرأة، ونجمة فريق هوم إغ في سانبي؛ و**إيوري** (1021)، الأنثوية بينهن، موهوبة في طاقة الروح وجل ناري، وتريد أن تصير عالمة بلاط؛ و**نينا** (1032)، كتلة طاقة صغيرة."
+ },
+ "e5cb42a8c2d3": {
+  "en": "Blood & Freeish",
+  "t": "بلاد وفريئيش"
+ },
+ "f21074ad568e": {
+  "en": "**Alford Tolerideme Dirt-Lover** (980) — the Farm King; brilliant farmer, narrow-minded, rumored to have a secret child. Partner **Luny** (997), a Forway-born courtroom scientist; jealous and opinionated.",
+  "t": "**ألفورد توليريديمي ديرت لافر** (980) — ملك المزارع؛ مزارع بارع، ضيق الأفق، ويُشاع أن له ابنًا سريًا. شريكته **لوني** (997)، عالمة بلاط وُلدت في فورواي؛ غيورة ومتشبثة برأيها."
+ },
+ "f2b4c4214fed": {
+  "en": "**Posaqui Sanbi** (1023) — vain, blue-loving Amethyst adventurer who talks his way out of every fight.",
+  "t": "**بوساكي سانبي** (1023) — مغامر مغرور من رتبة أميثيست يعشق الأزرق ويخرج من كل قتال بلسانه."
+ },
+ "f454efcd8185": {
+  "en": "Notable People",
+  "t": "شخصيات بارزة"
+ },
+ "f7d38959e319": {
+  "en": "**Katsuki & Katsumi Flatland Long-Blue** (1017) — Wozefaries twins from the Goodbye Cliff.",
+  "t": "**كاتسوكي وكاتسومي فلاتلاند لونغ بلو** (1017) — توأمان من الووزيفاريس من جرف الوداع."
+ },
+ "fe3526e8a9f7": {
+  "en": "**Yosuke Forway Wood-People-Picker** (959) — grumpy Wozefaries chef of The Wood People Picker, a restaurant for the masses outside the gates. With line cook **Rimir** (1012) and the Flatland twins **Hanako** (Wozefaries) and **Mimi** (Sorefaries), both Goodbye Cliff survivors.",
+  "t": "**يوسكي فورواي وود بيبول بيكر** (959) — طاهٍ ووزيفاريسي نكد في ذا وود بيبول بيكر، مطعم للعامة خارج البوابات. ويعمل معه في المطبخ **ريمير** (1012)، والتوأمتان من فلاتلاند **هاناكو** (ووزيفاريس) و**ميمي** (سوريفاريس)، وكلتاهما ناجيتان من جرف الوداع."
  }
 }

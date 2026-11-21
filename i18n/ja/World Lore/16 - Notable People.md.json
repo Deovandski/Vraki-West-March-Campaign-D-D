@@ -1,6 +1,190 @@
 {
+ "00eff3d9ec9b": {
+  "en": "**Kozaku Forway** (931) — legendary boss of the Blue Wozens; not seen in ages.",
+  "t": "**コザク・フォーウェイ**（931） — ブルーウォゼンズの伝説の頭目。もう長いこと姿を見せていない。"
+ },
+ "09bf6ba02141": {
+  "en": "**Biny Forway Cliff-Jumper** (994) — ex-Black Castle clerk who invests in adventurers for 30% of their quests and leaks the best quests early.",
+  "t": "**ビニー・フォーウェイ・クリフ・ジャンパー**（994） — ブラックキャッスルの元事務員で、依頼の取り分30%と引き換えに冒険者に投資し、いちばんいい依頼を早めに漏らす。"
+ },
+ "1d319f21dfee": {
+  "en": "**Kaiana Forway Cliff-Jumper** (1014) — calls herself the \"Quick-Witted White Caster\" (QWWC is sewn on her uniform); everyone else calls her the \"Angry White Caster with Double D\". Loud, drunk, punctual, reliable; parties tend to disband around her.",
+  "t": "**カイアナ・フォーウェイ・クリフ・ジャンパー**（1014） — 自称「クイック・ウィッテッド・ホワイト・キャスター」（制服にQWWCと縫いつけてある）。ほかの皆からは「アングリー・ホワイト・キャスター・ウィズ・ダブルD」と呼ばれている。うるさくて酔っぱらいだが、時間に正確で頼りになる。彼女の周りではパーティーが解散しがちだ。"
+ },
+ "1d594ae5f462": {
+  "en": "**Maicon Crossroads Black-Dove** (1011) — frequents every illegal establishment and holds blackmail on everyone. Ruffle him and the dirt flies all the way to Newland.",
+  "t": "**マイコン・クロスロード・ブラック・ダヴ**（1011） — あらゆる違法な店に出入りし、全員の弱みを握っている。怒らせれば、汚い話がニューランドまで飛び散る。"
+ },
  "1ec59d42d7b9": {
   "en": "Sundeath",
   "t": "サンデス"
+ },
+ "1efba2441eaa": {
+  "en": "**Fernan Blood Blue-Flower-Red-Bone** (994) — Sapphire bow hero of Tastyleaf with statues in Blood and Tastyleaf; officially died on a Hifuna mission.",
+  "t": "**フェルナン・ブラッド・ブルー・フラワー・レッド・ボーン**（994） — テイスティリーフの弓の英雄で、サファイア。ブラッドとテイスティリーフに像がある。公式にはヒフナでの任務中に死亡。"
+ },
+ "289507905090": {
+  "en": "Forway",
+  "t": "フォーウェイ"
+ },
+ "2940594d83d4": {
+  "en": "Historical",
+  "t": "歴史上の人物"
+ },
+ "2cbb2b15dc13": {
+  "en": "Gandew & Flatland",
+  "t": "ガンデューとフラットランド"
+ },
+ "2e9e94b008fd": {
+  "en": "**King Nooru High-Gandew Tough-Hammer** (919) — the friendliest king Gandew has ever had; strangely always missing one tusk. **Queen Satomi** (949) — xenophobic, hardworking, gifted blacksmith.",
+  "t": "**ヌール・ハイ・ガンデュー・タフ・ハンマー王**（919） — ガンデュー史上もっとも気さくな王。なぜかいつも牙が一本欠けている。**サトミ王妃**（949） — よそ者嫌いの働き者で、腕の立つ鍛冶屋。"
+ },
+ "3afae90d20f0": {
+  "en": "Village chiefs: **Tupinamba** (Green Sea), **Manbola** (Depoint), **Tomanius** (Long Bridge).",
+  "t": "村の長：**トゥピナンバ**（グリーン・シー）、**マンボラ**（デポイント）、**トマニウス**（ロング・ブリッジ）。"
+ },
+ "3b7c56bdbdba": {
+  "en": "**Sora Sanbi Blue-Glass** (1025) — shy Wozefaries maid with a genius for finances; her parents run a soap shop.",
+  "t": "**ソラ・サンビ・ブルー・グラス**（1025） — 財務の天才である内気なウォゼファリエスのメイド。両親は石けん屋を営んでいる。"
+ },
+ "3e45a5cf5500": {
+  "en": "**Emelia Lakeeye Rich-Flower** (1018) — owner of Emelia's Flowery Paradise; nobody's sure where her money comes from.",
+  "t": "**エメリア・レイクアイ・リッチフラワー**（1018） — エメリアズ・フラワリー・パラダイスの店主。その金がどこから来ているのか、誰もはっきりとは知らない。"
+ },
+ "42225118861c": {
+  "en": "**Namia Sundeath** (1015) — quiet woman from Sundeath's servant families; rumored nari-gel abuser who wears animal bodies. Often mistaken for the Queen.",
+  "t": "**ナミア・サンデス**（1015） — サンデスの使用人の家系出身の物静かな女性。ナリジェルを乱用して動物の体をまとっているという噂がある。よく王妃と間違えられる。"
+ },
+ "42cafa37dda3": {
+  "en": "**Eiri Sanbi Royal** (1017) — playful, lewd King-Maid and accountant-chef; daughter of the former King-Maid **Coema Half-Cruro** (987), who hunted tax evaders with Cruro help and sailed off to Newland.",
+  "t": "**エイリ・サンビ・ロイヤル**（1017） — いたずら好きで色っぽいキングメイドで、会計係兼料理人。先代のキングメイド**コエマ・ハーフ・クルロ**（987）の娘。コエマはクルロの力を借りて脱税者を追い詰め、船でニューランドへ去った。"
+ },
+ "5079da27d2e1": {
+  "en": "**Akemi** (1004) — his widow, a Wozefaries librarian into the occult; their son **Jonem** (1029) wants to be a historian; their daughter **Magi** (1020) is a narcoleptic Pearl adventurer hunting for her father and paying off the guild's debts.",
+  "t": "**アケミ**（1004） — 彼の未亡人で、オカルト好きのウォゼファリエスの司書。息子の**ジョネム**（1029）は歴史家になりたがっている。娘の**マギ**（1020）はナルコレプシーのパールの冒険者で、父を探しながらギルドの借金を返している。"
+ },
+ "526abc61ac79": {
+  "en": "**Morika Tolerideme** (1014) — a quiet, ripped, submissive Toleridemian (rare!) who won't say where he lives now. Separately, people whisper about **\"The Stinger\"**, a gore-soaked figure in insect-like armor seen wandering the wilds.",
+  "t": "**モリカ・トレリデメ**（1014） — 物静かで筋骨隆々、従順なトレリデメ人（珍しい！）で、今どこに住んでいるかは言わない。それとは別に、虫のような鎧をまとった血まみれの人影 **「スティンガー」** が荒野をさまよっているのが目撃されていると、人々はささやいている。"
+ },
+ "533166b52b4f": {
+  "en": "**Kibe Sanbi Royal** (989) — orphan apprentice of the late courtroom scientist **Gabiro**; gets things \"technically done\"; terrible public speaker.",
+  "t": "**キベ・サンビ・ロイヤル**（989） — 故宮廷科学者**ガビロ**の孤児の弟子。物事を「技術的には」片づける。人前で話すのがひどく苦手。"
+ },
+ "57daacbdc3e9": {
+  "en": "**Laura Forway White-Bell** (b. 1009) — rags-to-riches former courtesan who now controls Forway's brothels through proxies and owns a homestead known for \"parties\". Rumored to be behind Red Winga.",
+  "t": "**ラウラ・フォーウェイ・ホワイト・ベル**（1009年生） — 貧しい身から成り上がった元高級娼婦で、今では代理人を通してフォーウェイの娼館を牛耳り、「パーティー」で知られる屋敷を持っている。レッドウィンガの黒幕だという噂がある。"
+ },
+ "5d7b4f125bc4": {
+  "en": "**King Itagiba Sanbi Royal** (994) — approachable king who stops to drink with anyone having fun. Explored the world in his youth (maybe left a few kids). Do not mess with his daughters.",
+  "t": "**イタジバ・サンビ・ロイヤル王**（994） — 楽しんでいる人がいれば誰とでも足を止めて飲む、気さくな王。若い頃に世界を旅した（子どもを何人か残してきたかもしれない）。娘たちに手を出してはいけない。"
+ },
+ "6087bc06f7d5": {
+  "en": "**Kiko Sanbi Half-Cruro** (1018) — Cruro entrepreneur who founded the Half-Cruro guild. His assistant **Zico** (1023) walks Sanbi every day scribbling in a journal to chat; \"you haven't been to Sanbi until you've said hi to Zico\".",
+  "t": "**キコ・サンビ・ハーフ・クルロ**（1018） — ハーフ・クルロギルドを創設したクルロの起業家。助手の**ジコ**（1023）は毎日サンビを歩き回り、人と話すために日誌に書き込みをしている。「ジコに挨拶するまではサンビに行ったとは言えない」。"
+ },
+ "726b661388fa": {
+  "en": "**Francisco Forway Tea-Drinkers** (857) — Darfaries who lost his family in a Gandew dungeon party, hit bottom, and found a family in the Tea-Drinkers guild. Father of **Takeo** (969), a curt, quiet giant (human, though he looks Darfaries). He's polite up to a point, but he has a dark side: he \"questions\" suspects with a finger-clipping tool.",
+  "t": "**フランシスコ・フォーウェイ・ティー・ドリンカーズ**（857） — ガンデューのダンジョン・パーティーで家族を失い、どん底に落ち、ティー・ドリンカーズギルドに新しい家族を見つけたダルファリエス。**タケオ**（969）の父。タケオは無愛想で無口な大男（ダルファリエスに見えるが人間）。ある程度までは礼儀正しいが、暗い一面がある。容疑者を指を切る道具で「尋問」するのだ。"
+ },
+ "7302849efe21": {
+  "en": "**Pharaoh Gamal** (974) and his sister-wife **Naunet** (989; \"the Neferteri of the West\"); their twin sons **Anpu and Bata** (995), who refuse to rule unless they can share the throne.",
+  "t": "**ファラオ・ガマル**（974）と、姉妹にして妻の**ナウネト**（989。「西のネフェルテリ」）。双子の息子**アンプとバタ**（995）は、王座を分け合えないなら統治はしないと拒んでいる。"
+ },
+ "764ae0b3ca2e": {
+  "en": "**Freeish Paulin** (rebel, 621–648), **Asa the Powerful**, **Adrian from North Tolerideme**, **Bijura Moacir** (614–696) — the treaty founders; **Julina Forway** (855–895); the **Three Smart Ladies** (Evedyn, Everyn, Evelyn); **Machado** (the Ganyrami Flanker); **Gabiro Sanbi Royal** (937–1039), the great and aloof soul scientist.",
+  "t": "**フリーイッシュ・パウリン**（反逆者、621–648）、**アサ・ザ・パワフル**、**北トレリデメのアドリアン**、**ビジュラ・モアシル**（614–696） — 条約の創設者たち。**ジュリナ・フォーウェイ**（855–895）。**三人のスマートレディーズ**（エヴェディン、エヴリン、エヴェリン）。**マシャード**（ガニラミの側面攻撃者）。**ガビロ・サンビ・ロイヤル**（937–1039）、偉大でよそよそしい魂の科学者。"
+ },
+ "7f1945c8c30d": {
+  "en": "**Queen Neferteri Sanbi Royal** (999) — runaway heir of Sundeath's Pharaohs; visionary and ambitious; has loyal followers everywhere.",
+  "t": "**ネフェルテリ・サンビ・ロイヤル王妃**（999） — サンデスのファラオの家から逃げてきた後継者。先見の明と野心があり、どこにでも忠実な支持者がいる。"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "サンビ"
+ },
+ "8c7029de8624": {
+  "en": "**Huneo Sanbi Royal** (Sandour) (1016) — tiny, righteous Wozefaries captain of the guard from a rich Forway family who wants Sanbi to be \"proper\". Bribery rumors.",
+  "t": "**フネオ・サンビ・ロイヤル**（サンドゥール）（1016） — フォーウェイの富豪一族出身の、小柄で正義感の強いウォゼファリエスの衛兵隊長。サンビを「ちゃんとした」場所にしたがっている。賄賂の噂がある。"
+ },
+ "90627ec91dc0": {
+  "en": "**Jimmie Tolerideme Whoop-Ass** (997) — the Booze King: decisive, well connected, always reeking of booze, often found in a pile of big women. His recipe made his family rich. Partners **Kianna** (1004; ambitious, gullible to flattery) and **Isabel** (1011; the one who fixes their messes); kids **Ariana** (1034; hothead), **Amelia** (1036; laid-back, many friends) and **Brandi** (1039).",
+  "t": "**ジミー・トレリデメ・フープアス**（997） — 酒の王。決断力があり、顔が広く、いつも酒臭く、大柄な女たちの山に埋もれているのをよく見かける。彼のレシピが一族を金持ちにした。パートナーは**キアナ**（1004。野心家で、お世辞にころりと乗せられる）と**イサベル**（1011。二人の尻ぬぐいをする役）。子どもは**アリアナ**（1034。かっとなりやすい）、**アメリア**（1036。のんびり屋で友達が多い）、**ブランディ**（1039）。"
+ },
+ "96f4b2f66f2b": {
+  "en": "Tolerideme",
+  "t": "トレリデメ"
+ },
+ "979f1fabf6a9": {
+  "en": "**July Forway Tea-Drinkers** (1013) — the guild's youngest and best close-quarters fighter; inseparable from her Sayna **Mugi**. Don't pry into her past, and never feed her a nari gel.",
+  "t": "**ジュライ・フォーウェイ・ティー・ドリンカーズ**（1013） — ギルド最年少にして最強の近接戦闘員。サイナの**ムギ**とは片時も離れない。過去を詮索してはいけないし、ナリジェルを与えるのは絶対にだめだ。"
+ },
+ "9d2a00834ef4": {
+  "en": "**The Broken-Tree family** — traders **Laramy** (986) and **Honati** (998; illiterate bartender, fierce about her husband), their wanderlust daughter **Dalila** (1027), and cousin **Melada** (1007), a gambler trying to buy back her old life.",
+  "t": "**ブロークン・ツリー家** — 商人の**ララミー**（986）と**ホナティ**（998。字の読めない酒場の女主人で、夫のこととなると猛烈）、旅好きの娘**ダリラ**（1027）、そして昔の人生を買い戻そうとしているギャンブラーのいとこ**メラダ**（1007）。"
+ },
+ "a62998da696f": {
+  "en": "**The Big-Gyut boys** — **Marcus** (997; wants to be boss), **Clodoveu** (984; daydreamer), **Wilson** (1019) — Blue Wozens bandits from Big Gyut village.",
+  "t": "**ビッグ・ギュットの若い衆** — **マーカス**（997。親分になりたい）、**クロドヴェウ**（984。夢想家）、**ウィルソン**（1019） — ビッグ・ギュット村出身のブルーウォゼンズの盗賊。"
+ },
+ "b7ef7cba858c": {
+  "en": "**Prince Hiromi High-Gandew Tough-Hammer** (994) — a wanderer and drinker with endless stories (he's always the hero), engaged to Princess Yacamim.",
+  "t": "**ヒロミ・ハイ・ガンデュー・タフ・ハンマー王子**（994） — 尽きない話（主人公はいつも彼自身）を持つ放浪者で酒飲み。ヤカミン王女と婚約している。"
+ },
+ "ba43a586e968": {
+  "en": "**Tarou Mid-Gandew Strong-Leg** (899) — self-proclaimed \"Forfaries\" deal-maker; will throw money at any daring plan.",
+  "t": "**タロウ・ミッド・ガンデュー・ストロング・レッグ**（899） — 自称「フォーファリエス」の取引屋。大胆な計画なら何にでも金を出す。"
+ },
+ "d1aba74e4330": {
+  "en": "**Ryo Flatland Long-Blue** (974) — wealthy Wozefaries merchant drowning in debt: \"Gotta spend someone else's balls to make yourself some balls!\"",
+  "t": "**リョウ・フラットランド・ロング・ブルー**（974） — 借金に溺れている裕福なウォゼファリエスの商人。「自分のボールを稼ぐには、他人のボールを使わなきゃな！」"
+ },
+ "d9874cbb84e1": {
+  "en": "**Rebula village** — wood carver **Nailah** (1015), stern elder **Severino** (1007), dreamy son **Vitor** (1025).",
+  "t": "**レブラ村** — 木彫り職人の**ナイラ**（1015）、厳しい長老の**セヴェリーノ**（1007）、夢見がちな息子の**ヴィトル**（1025）。"
+ },
+ "db15eca394d5": {
+  "en": "**Lofinghy Sanbi Forway Aquamarine-General** (993) — Forway general and captain of the Sanbi embassy; close to the royals.",
+  "t": "**ロフィンギー・サンビ・フォーウェイ・アクアマリン・ジェネラル**（993） — フォーウェイの将軍で、サンビ大使館の長。王族と親しい。"
+ },
+ "db79d55288e5": {
+  "en": "**Aurora Tolerideme** (988) — cheerful older maid at Sanbi Castle who still calls Tolerideme home.",
+  "t": "**アウロラ・トレリデメ**（988） — サンビ城の陽気な年配のメイドで、今もトレリデメを故郷と呼んでいる。"
+ },
+ "deb42bc3f3e1": {
+  "en": "**Lofingha Forway Amethyst-Captain** (1007) — young, short-tempered captain on a crusade against laziness.",
+  "t": "**ロフィンガ・フォーウェイ・アメジスト・キャプテン**（1007） — 怠惰撲滅に燃える、若くて短気な隊長。"
+ },
+ "e179e2b72cc3": {
+  "en": "Famous (and infamous) people of the 1040s, as the public knows them. They're here so DMs can drop them into sessions — **their novel storylines don't drive the campaign**. The DM decides who's alive and where. Birth years are A.G. Portraits are in the main repo under `Illustrations/Characters/`.",
+  "t": "1040年代の有名人（と悪名高い人々）を、世間に知られているとおりに紹介する。DMがセッションに登場させられるように載せてあるが — **小説での彼らの物語がキャンペーンを動かすわけではない**。誰が生きていてどこにいるかはDMが決める。生年はA.G.。肖像画は本家リポジトリの `Illustrations/Characters/` にある。"
+ },
+ "e17c579e8f2a": {
+  "en": "**The princesses** — **Yacamim** (1015), the \"Manly Princess\", an adventurer engaged to Gandew's prince Hiromi after a tavern brawl; her identical twin **Maiara** (1015), even more brazen, star of Sanbi's Homeegg team; **Eori** (1021), the feminine one, gifted with soul energy and nari gels, wants to be a courtroom scientist; **Nina** (1032), tiny bundle of energy.",
+  "t": "**王女たち** — **ヤカミン**（1015）は「男勝りの王女」。冒険者で、酒場の乱闘のあとガンデューの王子ヒロミと婚約した。そっくりな双子の**マイアラ**（1015）はさらに大胆で、サンビのホームエッグ・チームのスター。**エオリ**（1021）は女の子らしい王女で、魂のエネルギーとナリジェルの才能があり、宮廷科学者を目指している。**ニナ**（1032）は小さな元気のかたまり。"
+ },
+ "e5cb42a8c2d3": {
+  "en": "Blood & Freeish",
+  "t": "ブラッドとフリーイッシュ"
+ },
+ "f21074ad568e": {
+  "en": "**Alford Tolerideme Dirt-Lover** (980) — the Farm King; brilliant farmer, narrow-minded, rumored to have a secret child. Partner **Luny** (997), a Forway-born courtroom scientist; jealous and opinionated.",
+  "t": "**アルフォード・トレリデメ・ダートラバー**（980） — 農場の王。優れた農夫だが視野が狭く、隠し子がいるという噂がある。パートナーは**ルーニー**（997）。フォーウェイ生まれの宮廷科学者で、嫉妬深く自己主張が強い。"
+ },
+ "f2b4c4214fed": {
+  "en": "**Posaqui Sanbi** (1023) — vain, blue-loving Amethyst adventurer who talks his way out of every fight.",
+  "t": "**ポサキ・サンビ**（1023） — 青が大好きでうぬぼれ屋のアメジストの冒険者。どんな喧嘩も口先で切り抜ける。"
+ },
+ "f454efcd8185": {
+  "en": "Notable People",
+  "t": "著名人"
+ },
+ "f7d38959e319": {
+  "en": "**Katsuki & Katsumi Flatland Long-Blue** (1017) — Wozefaries twins from the Goodbye Cliff.",
+  "t": "**カツキとカツミ・フラットランド・ロング・ブルー**（1017） — グッバイ・クリフ出身のウォゼファリエスの双子。"
+ },
+ "fe3526e8a9f7": {
+  "en": "**Yosuke Forway Wood-People-Picker** (959) — grumpy Wozefaries chef of The Wood People Picker, a restaurant for the masses outside the gates. With line cook **Rimir** (1012) and the Flatland twins **Hanako** (Wozefaries) and **Mimi** (Sorefaries), both Goodbye Cliff survivors.",
+  "t": "**ヨウスケ・フォーウェイ・ウッドピープル・ピッカー**（959） — 門の外にある庶民向けのレストラン「ザ・ウッドピープル・ピッカー」の、気難しいウォゼファリエスのシェフ。調理担当の**リミル**（1012）と、フラットランド出身の双子**ハナコ**（ウォゼファリエス）と**ミミ**（ソレファリエス）がいる。双子はどちらもグッバイ・クリフの生還者だ。"
  }
 }

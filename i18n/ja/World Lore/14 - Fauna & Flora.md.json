@@ -1,7 +1,15 @@
 {
+ "0600148e6adf": {
+  "en": "**Tibou** — antibacterial plant for soap, shampoo and comfy cloth.",
+  "t": "**ティブー** — 石けん、シャンプー、着心地のいい布に使う抗菌性の植物。"
+ },
  "135573f02781": {
   "en": "**Cinika** — small cyan butterflies every spring. Swarms paralyze Wozefaries and Sorefaries to lick their sweat, and gather before storms (free weather warning). Gel ingredient.",
   "t": "**シニカ** — 毎年春に現れる小さなシアン色の蝶。群れでウォゼファリエスやソレファリエスを麻痺させて汗をなめ、嵐の前に集まる（無料の天気予報）。ジェルの材料。"
+ },
+ "15b052e31d49": {
+  "en": "**Lehuj** — hangover and toxin cure; a heavy dose kills.",
+  "t": "**レフジ** — 二日酔いと毒の薬。多く飲むと死ぬ。"
  },
  "174f788d6281": {
   "en": "Carnivores",
@@ -21,11 +29,15 @@
  },
  "2c8b3d2646a5": {
   "en": "**Sanbi** — tuna-like fish that give people migraines with radio waves and shed fake lips and tails as decoys. It takes a strong fisher to land two a day — unless you're from the one family the True Sanbi King blessed.",
-  "t": "**サンビ** — マグロのような魚で、電波で人に偏頭痛を起こさせ、おとりとして偽の唇や尾を切り離す。一日に二匹釣り上げるには腕っぷしの強い漁師が要る — 真のサンビ王に祝福されたただ一つの家の者でなければ。"
+  "t": "**サンビ** — マグロのような魚で、電波で人に偏頭痛を起こさせ、おとりとして偽の唇や尾を切り離す。一日に二匹釣り上げるには腕っぷしの強い漁師が要る — トゥルー・サンビ・キングに祝福されたただ一つの家の者でなければ。"
  },
  "2f33b24e5113": {
   "en": "**Legunia** — desert flamingo-like bird; leaps high, sprints, flees at once. Its fat is a delicacy; its hump tells you how survivable the desert is right now.",
   "t": "**レグニア** — フラミンゴのような砂漠の鳥。高く跳び、全力で走り、すぐに逃げる。脂肪は珍味で、こぶを見れば今の砂漠がどれだけ生き延びやすいかがわかる。"
+ },
+ "34c837f44523": {
+  "en": "**Gyut** — cherry-cranberry berry; picking it sets wages; sweetens livestock.",
+  "t": "**ギュット** — サクランボとクランベリーの中間のような実。摘み取りの量で賃金が決まり、家畜の味を甘くする。"
  },
  "36f59f416d74": {
   "en": "**Fihi** — platypus-eel fish that absorb and release elemental energy and shock things. The huge ones in Lukewarm Lake and Flatland's lake eat people.",
@@ -35,17 +47,37 @@
   "en": "**Egua** — hippo-headed heavy horse; the pack animal of the kingdoms. Walks on water, shrugs off mud, resizes its legs, and ejects its intestines at predators. Loved, petted, given human burials; only old ones get eaten. Tamed adult ~1 sapphire; tamed foal ~1 aquamarine (carries lighter loads; adventurers walk alongside).",
   "t": "**エグア** — カバの頭を持つ重い馬で、王国の荷役動物。水の上を歩き、泥をものともせず、脚の大きさを変え、捕食者に向けて腸を吐き出す。愛され、なでられ、人間と同じように埋葬される。食べられるのは年老いたものだけ。手なずけた成獣は~1サファイア、手なずけた子馬は~1アクアマリン（荷は軽め。冒険者は横を歩く）。"
  },
+ "3b01838abc21": {
+  "en": "**Panita** — citrus-scented mushroom, extremely toxic; legal because Forway uses it to punish.",
+  "t": "**パニータ** — 柑橘の香りがするキノコで、猛毒。フォーウェイが刑罰に使うので合法。"
+ },
  "41673d0021e3": {
   "en": "**Domar Carbey** — purple Tolerideme grain with a cheesy-citrus taste; the heart of their economy.",
   "t": "**ドマー・カーベイ** — チーズと柑橘の味がする、トレリデメの紫色の穀物。彼らの経済の要。"
+ },
+ "477d943179a5": {
+  "en": "**Lakata** — grape that's dangerous to the heart; key gel ingredient.",
+  "t": "**ラカタ** — 心臓に危険なブドウ。ジェルの重要な材料。"
  },
  "4ad1d629b501": {
   "en": "**Fanchaki** — mutant chicken from the first Buhraies soul experiments. Breeds like rats; an egg a day; tender purple-marbled meat. Fast reactions and a decoy body.",
   "t": "**ファンチャキ** — ブライエスの最初の魂の実験から生まれた突然変異のニワトリ。ネズミのように増え、毎日卵を産み、肉は柔らかく紫の霜降り。反応が速く、おとりの体を持つ。"
  },
+ "4d88bd0f5a5c": {
+  "en": "**Purplebread** — spiky desert fruit; Sundeath staple; rub it in sand to kill the smell.",
+  "t": "**パープルブレッド** — とげのある砂漠の果実で、サンデスの主食。砂にこすりつけると臭みが消える。"
+ },
+ "4fd5a620a91d": {
+  "en": "**Soul Tree** — metallic bark, green wood; soul wood. Guarded by Trunk People in the wild.",
+  "t": "**ソウルツリー** — 金属のような樹皮と緑の木材を持ち、ソウルウッドになる。野生のものはトランクピープルが守っている。"
+ },
  "52b5e3897c48": {
   "en": "**Barina** — pond frog with toxic gas from an explosive tail, spike-throwing back and camouflage. Its lungs and glands go into gels.",
   "t": "**バリナ** — 爆発する尾から毒ガスを出し、背中からとげを飛ばし、擬態する池のカエル。肺と腺はジェルに使う。"
+ },
+ "56875f59a0e5": {
+  "en": "**Tyr** — nerve agent; worst case, you're locked in your own body.",
+  "t": "**ティル** — 神経剤。最悪の場合、自分の体の中に閉じ込められる。"
  },
  "580bc79bd449": {
   "en": "**Basi** — Freeish berry crushed into a thick, earthy, bittersweet pulp. Cheap and filling.",
@@ -63,6 +95,10 @@
   "en": "**Culuim** — worms that ate a pond's worth of dumped Walking Hearts near Freeish; they flip between heart \"modes\". Cheap, earthy Freeish street food.",
   "t": "**クルイム** — フリーイッシュの近くで、捨てられたウォーキングハートを池一つ分食べた虫。心臓の「モード」を切り替える。安くて土の風味がするフリーイッシュの屋台料理。"
  },
+ "792b2e6a7fbf": {
+  "en": "**Steen** — Sanbi chewing plant; calming and numbing; tranquilizer arrows.",
+  "t": "**スティーン** — サンビの噛む植物。気持ちを落ち着かせ、感覚を鈍らせる。麻酔矢に使う。"
+ },
  "7969f7c022f7": {
   "en": "**Ptaina** — deep fish with a purple glowing head; ultrasonic stuns, compass-scrambling.",
   "t": "**プタイナ** — 頭が紫に光る深海魚。超音波で気絶させ、羅針盤を狂わせる。"
@@ -70,6 +106,14 @@
  "79d5ff61fac6": {
   "en": "**Cocona** — invasive Buhraies fruit with unpredictable water and flavor; gel base.",
   "t": "**ココナ** — ブライエスが持ち込んだ外来の果物で、水分も味も予測できない。ジェルのベース。"
+ },
+ "7a53386562db": {
+  "en": "**Greenbread** — huge fruit on tall trees. A falling one can turn you into jelly. Cacao-like seeds; its core binds bone wood.",
+  "t": "**グリーンブレッド** — 高い木になる巨大な果実。落ちてきたら人がゼリーになりかねない。種はカカオに似ていて、芯は骨木のつなぎになる。"
+ },
+ "7e1220b006a7": {
+  "en": "**Lonllow** — caramel-banana fruit, mutation-prone; Endlessfog's crop.",
+  "t": "**ロンロウ** — キャラメルとバナナのような果実で、変異しやすい。エンドレスフォグの作物。"
  },
  "878dd9134645": {
   "en": "Fauna & Flora",
@@ -87,13 +131,37 @@
   "en": "**Soreno** — rat-shrew grain pest and cheap lab animal. Camouflage, voice mimicry, darting, and squeaks that carry far (spies train them). Meat tastes like urine; Pearls eat it anyway because it's free.",
   "t": "**ソレノ** — ネズミとトガリネズミを合わせたような穀物の害獣で、安い実験動物。擬態、声まね、素早い動き、遠くまで届く鳴き声（スパイが訓練する）。肉は尿の味がするが、パールはただなので食べる。"
  },
+ "9420367f614b": {
+  "en": "**Lolish** — ginger root for warm desert-night drinks (Gandew).",
+  "t": "**ロリッシュ** — 砂漠の夜に飲む温かい飲み物に使うショウガの根（ガンデュー）。"
+ },
+ "96a5c2752f4f": {
+  "en": "**Yabuca** — mutation-prone apple tree (Jonabuca is the prized one). Wood People were made from it.",
+  "t": "**ヤブカ** — 変異しやすいリンゴの木（いちばん珍重されるのはジョナブカ）。ウッドピープルはこれから作られた。"
+ },
  "9b6c22d3fc81": {
   "en": "**Black Sapphire** (black wood) — endangered tree that kills life around it; the best soul energy container.",
   "t": "**ブラックサファイア**（黒い木） — 周りの生き物を殺す絶滅寸前の木。最高の魂のエネルギーの器。"
  },
+ "a1c4d0b04814": {
+  "en": "**Tenderthrough** — papaya-like island fruit; cheap gut cleanser.",
+  "t": "**テンダースルー** — パパイヤのような島の果実。安い整腸剤。"
+ },
  "a30ab5483d3e": {
   "en": "**Fatupari** — a scary-looking but dumb giant tree boa; it launches itself and hovers. Tear its pink webbing to stop its magic. Bitter meat, waterproof hide.",
   "t": "**ファトゥパリ** — 見た目は恐ろしいが頭の悪い巨大な樹上ボア。自分の体を打ち出して宙に浮く。ピンクの膜を破れば魔法を止められる。肉は苦く、皮は防水。"
+ },
+ "a6f03e6f970a": {
+  "en": "**Magina** — banned hallucinogen whose visions feel real (Black Magina's product).",
+  "t": "**マジナ** — 本物のように感じる幻を見せる禁止の幻覚剤（ブラックマジナの商品）。"
+ },
+ "a9858b3549a6": {
+  "en": "**Tastyleaf** — the 104 m tree whose leaves make anything delicious; glows in rain; repels beasts.",
+  "t": "**テイスティリーフ** — 葉が何でもおいしくする高さ104 mの木。雨の中で光り、魔獣を遠ざける。"
+ },
+ "b9a608e1cd47": {
+  "en": "**Nica** — pepper; insect-repellent gels (but you'll smell).",
+  "t": "**ニカ** — コショウ。虫よけのジェルになる（ただし臭くなる）。"
  },
  "b9d42d5b4bea": {
   "en": "**Monika** — solitary blue-antennaed butterflies drawn to corpses with high soul energy. Follow them to dead adventurers (or the predator nearby). Monika Sight gel.",
@@ -111,9 +179,21 @@
   "en": "**Cadioca** — cassava-like root, poisonous raw; soaked, dried and fried. Farmed in Freeish.",
   "t": "**カジオカ** — キャッサバのような根菜で、生では有毒。水にさらし、干してから揚げる。フリーイッシュで栽培される。"
  },
+ "c9d5719ea3e7": {
+  "en": "**Siguash** — mango-pomegranate fruit; ferments into strong liquor.",
+  "t": "**シグアッシュ** — マンゴーとザクロのような果実。発酵させると強い酒になる。"
+ },
  "e134357fabb0": {
   "en": "**Bagarisa** — babirusa-deer; the most-hunted meat (earthy, mushroomy). Fire from the tusks, fireballs, a hot-air crest that makes a flamethrower, self-healing in blood. **Two hearts** (chest and gut) — shoot both. Musk smells like shrimp brine. Classic Amethyst hunt.",
   "t": "**バガリサ** — バビルサとシカを合わせたような動物で、いちばん狩られている肉（土の香り、キノコの風味）。牙からの炎、火の玉、火炎放射器になる熱気のとさか、血による自己治癒。**心臓が二つ**（胸と腹） — 両方を撃つこと。じゃこうはエビの塩水のにおいがする。アメジストの定番の狩り。"
+ },
+ "e92c662f5c65": {
+  "en": "**Rakuja** — antifreeze vine that kills Wood People; tangy fruit; its juice gets you drunk.",
+  "t": "**ラクジャ** — ウッドピープルを殺す不凍液のつる。実は酸っぱく、汁を飲むと酔う。"
+ },
+ "e9b61b13e110": {
+  "en": "**Gosutam** — vanilla fruit with a tough shell; open it wrong and it turns bitter.",
+  "t": "**ゴスタム** — 硬い殻に包まれたバニラの果実。開け方を間違えると苦くなる。"
  },
  "edf4aa70757d": {
   "en": "**Emerenthy** — glows at night (makeshift torch); stalks eaten like celery.",

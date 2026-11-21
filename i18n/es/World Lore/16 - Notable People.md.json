@@ -1,6 +1,190 @@
 {
+ "00eff3d9ec9b": {
+  "en": "**Kozaku Forway** (931) — legendary boss of the Blue Wozens; not seen in ages.",
+  "t": "**Kozaku Forway** (931) — legendario jefe de los Blue Wozens; nadie lo ve desde hace siglos."
+ },
+ "09bf6ba02141": {
+  "en": "**Biny Forway Cliff-Jumper** (994) — ex-Black Castle clerk who invests in adventurers for 30% of their quests and leaks the best quests early.",
+  "t": "**Biny Forway Cliff-Jumper** (994) — tras trabajar como oficinista en el Castillo Negro, invierte en aventureros a cambio del 30 % de sus misiones y filtra antes que nadie las mejores misiones."
+ },
+ "1d319f21dfee": {
+  "en": "**Kaiana Forway Cliff-Jumper** (1014) — calls herself the \"Quick-Witted White Caster\" (QWWC is sewn on her uniform); everyone else calls her the \"Angry White Caster with Double D\". Loud, drunk, punctual, reliable; parties tend to disband around her.",
+  "t": "**Kaiana Forway Cliff-Jumper** (1014) — se hace llamar la «Quick-Witted White Caster» (lleva QWWC cosido en el uniforme); todos los demás la llaman la «Angry White Caster with Double D». Ruidosa, borracha, puntual, fiable; los grupos suelen disolverse a su alrededor."
+ },
+ "1d594ae5f462": {
+  "en": "**Maicon Crossroads Black-Dove** (1011) — frequents every illegal establishment and holds blackmail on everyone. Ruffle him and the dirt flies all the way to Newland.",
+  "t": "**Maicon Crossroads Black-Dove** (1011) — frecuenta todos los locales ilegales y tiene material de chantaje sobre todo el mundo. Ráscale el plumaje y la mierda vuela hasta Newland."
+ },
  "1ec59d42d7b9": {
   "en": "Sundeath",
   "t": "Sundeath"
+ },
+ "1efba2441eaa": {
+  "en": "**Fernan Blood Blue-Flower-Red-Bone** (994) — Sapphire bow hero of Tastyleaf with statues in Blood and Tastyleaf; officially died on a Hifuna mission.",
+  "t": "**Fernan Blood Blue-Flower-Red-Bone** (994) — héroe Sapphire del arco de Tastyleaf, con estatuas en Blood y Tastyleaf; oficialmente murió en una misión en Hifuna."
+ },
+ "289507905090": {
+  "en": "Forway",
+  "t": "Forway"
+ },
+ "2940594d83d4": {
+  "en": "Historical",
+  "t": "Históricos"
+ },
+ "2cbb2b15dc13": {
+  "en": "Gandew & Flatland",
+  "t": "Gandew y Flatland"
+ },
+ "2e9e94b008fd": {
+  "en": "**King Nooru High-Gandew Tough-Hammer** (919) — the friendliest king Gandew has ever had; strangely always missing one tusk. **Queen Satomi** (949) — xenophobic, hardworking, gifted blacksmith.",
+  "t": "**Rey Nooru High-Gandew Tough-Hammer** (919) — el rey más amable que ha tenido Gandew; curiosamente, siempre le falta un colmillo. **Reina Satomi** (949) — xenófoba, trabajadora, herrera de gran talento."
+ },
+ "3afae90d20f0": {
+  "en": "Village chiefs: **Tupinamba** (Green Sea), **Manbola** (Depoint), **Tomanius** (Long Bridge).",
+  "t": "Jefes de aldea: **Tupinamba** (Green Sea), **Manbola** (Depoint), **Tomanius** (Long Bridge)."
+ },
+ "3b7c56bdbdba": {
+  "en": "**Sora Sanbi Blue-Glass** (1025) — shy Wozefaries maid with a genius for finances; her parents run a soap shop.",
+  "t": "**Sora Sanbi Blue-Glass** (1025) — tímida doncella wozefaries con un don para las finanzas; sus padres llevan una jabonería."
+ },
+ "3e45a5cf5500": {
+  "en": "**Emelia Lakeeye Rich-Flower** (1018) — owner of Emelia's Flowery Paradise; nobody's sure where her money comes from.",
+  "t": "**Emelia Lakeeye Rich-Flower** (1018) — dueña de Emelia's Flowery Paradise; nadie sabe muy bien de dónde sale su dinero."
+ },
+ "42225118861c": {
+  "en": "**Namia Sundeath** (1015) — quiet woman from Sundeath's servant families; rumored nari-gel abuser who wears animal bodies. Often mistaken for the Queen.",
+  "t": "**Namia Sundeath** (1015) — mujer callada de las familias de sirvientes de Sundeath; se rumorea que abusa de los geles de nari y lleva cuerpos de animal. A menudo la confunden con la Reina."
+ },
+ "42cafa37dda3": {
+  "en": "**Eiri Sanbi Royal** (1017) — playful, lewd King-Maid and accountant-chef; daughter of the former King-Maid **Coema Half-Cruro** (987), who hunted tax evaders with Cruro help and sailed off to Newland.",
+  "t": "**Eiri Sanbi Royal** (1017) — King-Maid juguetona y picante, contable y cocinera; hija de la antigua King-Maid **Coema Half-Cruro** (987), que perseguía a los evasores de impuestos con ayuda de los cruros y se marchó navegando a Newland."
+ },
+ "5079da27d2e1": {
+  "en": "**Akemi** (1004) — his widow, a Wozefaries librarian into the occult; their son **Jonem** (1029) wants to be a historian; their daughter **Magi** (1020) is a narcoleptic Pearl adventurer hunting for her father and paying off the guild's debts.",
+  "t": "**Akemi** (1004) — su viuda, una bibliotecaria wozefaries aficionada a lo oculto; su hijo **Jonem** (1029) quiere ser historiador; su hija **Magi** (1020) es una aventurera Pearl narcoléptica que busca a su padre y paga las deudas del gremio."
+ },
+ "526abc61ac79": {
+  "en": "**Morika Tolerideme** (1014) — a quiet, ripped, submissive Toleridemian (rare!) who won't say where he lives now. Separately, people whisper about **\"The Stinger\"**, a gore-soaked figure in insect-like armor seen wandering the wilds.",
+  "t": "**Morika Tolerideme** (1014) — un toleridemiano callado, musculoso y sumiso (¡algo raro!) que no dice dónde vive ahora. Aparte, la gente cuchichea sobre **«The Stinger»**, una figura empapada en sangre con armadura de aspecto de insecto que ha sido vista vagando por las tierras salvajes."
+ },
+ "533166b52b4f": {
+  "en": "**Kibe Sanbi Royal** (989) — orphan apprentice of the late courtroom scientist **Gabiro**; gets things \"technically done\"; terrible public speaker.",
+  "t": "**Kibe Sanbi Royal** (989) — aprendiz huérfano del difunto científico de la corte **Gabiro**; hace las cosas «técnicamente»; pésimo orador."
+ },
+ "57daacbdc3e9": {
+  "en": "**Laura Forway White-Bell** (b. 1009) — rags-to-riches former courtesan who now controls Forway's brothels through proxies and owns a homestead known for \"parties\". Rumored to be behind Red Winga.",
+  "t": "**Laura Forway White-Bell** (n. 1009) — excortesana salida de la nada que ahora controla los burdeles de Forway a través de testaferros y tiene una finca conocida por sus «fiestas». Se rumorea que está detrás de Red Winga."
+ },
+ "5d7b4f125bc4": {
+  "en": "**King Itagiba Sanbi Royal** (994) — approachable king who stops to drink with anyone having fun. Explored the world in his youth (maybe left a few kids). Do not mess with his daughters.",
+  "t": "**Rey Itagiba Sanbi Royal** (994) — rey cercano que se para a beber con cualquiera que lo esté pasando bien. Exploró el mundo de joven (quizá dejó algún hijo por ahí). No te metas con sus hijas."
+ },
+ "6087bc06f7d5": {
+  "en": "**Kiko Sanbi Half-Cruro** (1018) — Cruro entrepreneur who founded the Half-Cruro guild. His assistant **Zico** (1023) walks Sanbi every day scribbling in a journal to chat; \"you haven't been to Sanbi until you've said hi to Zico\".",
+  "t": "**Kiko Sanbi Half-Cruro** (1018) — emprendedor cruro que fundó el gremio Half-Cruro. Su ayudante **Zico** (1023) recorre Sanbi cada día garabateando en un diario para charlar; «no has estado en Sanbi hasta que has saludado a Zico»."
+ },
+ "726b661388fa": {
+  "en": "**Francisco Forway Tea-Drinkers** (857) — Darfaries who lost his family in a Gandew dungeon party, hit bottom, and found a family in the Tea-Drinkers guild. Father of **Takeo** (969), a curt, quiet giant (human, though he looks Darfaries). He's polite up to a point, but he has a dark side: he \"questions\" suspects with a finger-clipping tool.",
+  "t": "**Francisco Forway Tea-Drinkers** (857) — darfaries que perdió a su familia en una fiesta de mazmorra de Gandew, tocó fondo y encontró una familia en el gremio Tea-Drinkers. Padre de **Takeo** (969), un gigante seco y callado (humano, aunque parece darfaries). Es educado hasta cierto punto, pero tiene un lado oscuro: «interroga» a los sospechosos con una herramienta para cortar dedos."
+ },
+ "7302849efe21": {
+  "en": "**Pharaoh Gamal** (974) and his sister-wife **Naunet** (989; \"the Neferteri of the West\"); their twin sons **Anpu and Bata** (995), who refuse to rule unless they can share the throne.",
+  "t": "El **faraón Gamal** (974) y su hermana y esposa **Naunet** (989; «la Neferteri del Oeste»); sus hijos gemelos **Anpu y Bata** (995), que se niegan a gobernar si no pueden compartir el trono."
+ },
+ "764ae0b3ca2e": {
+  "en": "**Freeish Paulin** (rebel, 621–648), **Asa the Powerful**, **Adrian from North Tolerideme**, **Bijura Moacir** (614–696) — the treaty founders; **Julina Forway** (855–895); the **Three Smart Ladies** (Evedyn, Everyn, Evelyn); **Machado** (the Ganyrami Flanker); **Gabiro Sanbi Royal** (937–1039), the great and aloof soul scientist.",
+  "t": "**Freeish Paulin** (rebelde, 621–648), **Asa the Powerful**, **Adrian de Tolerideme del Norte**, **Bijura Moacir** (614–696) — los fundadores del tratado; **Julina Forway** (855–895); las **Three Smart Ladies** (Evedyn, Everyn, Evelyn); **Machado** (el Flanqueador de Ganyrami); **Gabiro Sanbi Royal** (937–1039), el gran y distante científico del alma."
+ },
+ "7f1945c8c30d": {
+  "en": "**Queen Neferteri Sanbi Royal** (999) — runaway heir of Sundeath's Pharaohs; visionary and ambitious; has loyal followers everywhere.",
+  "t": "**Reina Neferteri Sanbi Royal** (999) — heredera fugada de los faraones de Sundeath; visionaria y ambiciosa; tiene seguidores leales en todas partes."
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "Sanbi"
+ },
+ "8c7029de8624": {
+  "en": "**Huneo Sanbi Royal** (Sandour) (1016) — tiny, righteous Wozefaries captain of the guard from a rich Forway family who wants Sanbi to be \"proper\". Bribery rumors.",
+  "t": "**Huneo Sanbi Royal** (Sandour) (1016) — wozefaries de baja estatura y gran rectitud al mando de la guardia, de una rica familia de Forway, que quiere que Sanbi sea «como es debido». Rumores de sobornos."
+ },
+ "90627ec91dc0": {
+  "en": "**Jimmie Tolerideme Whoop-Ass** (997) — the Booze King: decisive, well connected, always reeking of booze, often found in a pile of big women. His recipe made his family rich. Partners **Kianna** (1004; ambitious, gullible to flattery) and **Isabel** (1011; the one who fixes their messes); kids **Ariana** (1034; hothead), **Amelia** (1036; laid-back, many friends) and **Brandi** (1039).",
+  "t": "**Jimmie Tolerideme Whoop-Ass** (997) — el Rey del Licor: decidido, bien relacionado, siempre apestando a alcohol, a menudo encontrado bajo un montón de mujeres grandes. Su receta hizo rica a su familia. Parejas: **Kianna** (1004; ambiciosa, se deja engatusar con halagos) e **Isabel** (1011; la que arregla sus líos); hijos: **Ariana** (1034; impulsiva), **Amelia** (1036; tranquila, con muchos amigos) y **Brandi** (1039)."
+ },
+ "96f4b2f66f2b": {
+  "en": "Tolerideme",
+  "t": "Tolerideme"
+ },
+ "979f1fabf6a9": {
+  "en": "**July Forway Tea-Drinkers** (1013) — the guild's youngest and best close-quarters fighter; inseparable from her Sayna **Mugi**. Don't pry into her past, and never feed her a nari gel.",
+  "t": "**July Forway Tea-Drinkers** (1013) — la más joven del gremio y su mejor luchadora cuerpo a cuerpo; inseparable de su Sayna **Mugi**. No husmees en su pasado y nunca le des un gel de nari."
+ },
+ "9d2a00834ef4": {
+  "en": "**The Broken-Tree family** — traders **Laramy** (986) and **Honati** (998; illiterate bartender, fierce about her husband), their wanderlust daughter **Dalila** (1027), and cousin **Melada** (1007), a gambler trying to buy back her old life.",
+  "t": "**La familia Broken-Tree** — los comerciantes **Laramy** (986) y **Honati** (998; tabernera analfabeta, feroz cuando se trata de su marido), su hija viajera **Dalila** (1027) y la prima **Melada** (1007), una jugadora que intenta recuperar su antigua vida."
+ },
+ "a62998da696f": {
+  "en": "**The Big-Gyut boys** — **Marcus** (997; wants to be boss), **Clodoveu** (984; daydreamer), **Wilson** (1019) — Blue Wozens bandits from Big Gyut village.",
+  "t": "**Los chicos de Big-Gyut** — **Marcus** (997; quiere ser el jefe), **Clodoveu** (984; soñador), **Wilson** (1019) — bandidos de los Blue Wozens de la aldea de Big Gyut."
+ },
+ "b7ef7cba858c": {
+  "en": "**Prince Hiromi High-Gandew Tough-Hammer** (994) — a wanderer and drinker with endless stories (he's always the hero), engaged to Princess Yacamim.",
+  "t": "**Príncipe Hiromi High-Gandew Tough-Hammer** (994) — un trotamundos y bebedor con historias infinitas (él siempre es el héroe), prometido con la princesa Yacamim."
+ },
+ "ba43a586e968": {
+  "en": "**Tarou Mid-Gandew Strong-Leg** (899) — self-proclaimed \"Forfaries\" deal-maker; will throw money at any daring plan.",
+  "t": "**Tarou Mid-Gandew Strong-Leg** (899) — negociante autoproclamado «forfaries»; echará dinero a cualquier plan atrevido."
+ },
+ "d1aba74e4330": {
+  "en": "**Ryo Flatland Long-Blue** (974) — wealthy Wozefaries merchant drowning in debt: \"Gotta spend someone else's balls to make yourself some balls!\"",
+  "t": "**Ryo Flatland Long-Blue** (974) — rico mercader wozefaries ahogado en deudas: «¡Hay que gastar las bolas de otro para hacerse con unas bolas propias!»"
+ },
+ "d9874cbb84e1": {
+  "en": "**Rebula village** — wood carver **Nailah** (1015), stern elder **Severino** (1007), dreamy son **Vitor** (1025).",
+  "t": "**La aldea de Rebula** — la tallista **Nailah** (1015), el severo anciano **Severino** (1007) y su soñador hijo **Vitor** (1025)."
+ },
+ "db15eca394d5": {
+  "en": "**Lofinghy Sanbi Forway Aquamarine-General** (993) — Forway general and captain of the Sanbi embassy; close to the royals.",
+  "t": "**Lofinghy Sanbi Forway Aquamarine-General** (993) — general de Forway y al mando de la embajada de Sanbi; de trato cercano con la realeza."
+ },
+ "db79d55288e5": {
+  "en": "**Aurora Tolerideme** (988) — cheerful older maid at Sanbi Castle who still calls Tolerideme home.",
+  "t": "**Aurora Tolerideme** (988) — alegre doncella veterana del Castillo de Sanbi que aún considera Tolerideme su hogar."
+ },
+ "deb42bc3f3e1": {
+  "en": "**Lofingha Forway Amethyst-Captain** (1007) — young, short-tempered captain on a crusade against laziness.",
+  "t": "**Lofingha Forway Amethyst-Captain** (1007) — joven de mecha corta, con rango de capitán, en cruzada contra la vagancia."
+ },
+ "e179e2b72cc3": {
+  "en": "Famous (and infamous) people of the 1040s, as the public knows them. They're here so DMs can drop them into sessions — **their novel storylines don't drive the campaign**. The DM decides who's alive and where. Birth years are A.G. Portraits are in the main repo under `Illustrations/Characters/`.",
+  "t": "Gente famosa (e infame) de los 1040s, tal como la conoce el público. Están aquí para que los DMs los metan en las sesiones — **sus tramas de las novelas no mueven la campaña**. El DM decide quién está vivo y dónde. Los años de nacimiento son A.G. Los retratos están en el repositorio principal, en `Illustrations/Characters/`."
+ },
+ "e17c579e8f2a": {
+  "en": "**The princesses** — **Yacamim** (1015), the \"Manly Princess\", an adventurer engaged to Gandew's prince Hiromi after a tavern brawl; her identical twin **Maiara** (1015), even more brazen, star of Sanbi's Homeegg team; **Eori** (1021), the feminine one, gifted with soul energy and nari gels, wants to be a courtroom scientist; **Nina** (1032), tiny bundle of energy.",
+  "t": "**Las princesas** — **Yacamim** (1015), la «Princesa Machota», aventurera prometida con el príncipe Hiromi de Gandew tras una pelea de taberna; su gemela idéntica **Maiara** (1015), todavía más descarada, estrella del equipo de Homeegg de Sanbi; **Eori** (1021), la femenina, dotada para la energía del alma y los geles de nari, quiere ser científica de la corte; **Nina** (1032), un torbellino diminuto."
+ },
+ "e5cb42a8c2d3": {
+  "en": "Blood & Freeish",
+  "t": "Blood y Freeish"
+ },
+ "f21074ad568e": {
+  "en": "**Alford Tolerideme Dirt-Lover** (980) — the Farm King; brilliant farmer, narrow-minded, rumored to have a secret child. Partner **Luny** (997), a Forway-born courtroom scientist; jealous and opinionated.",
+  "t": "**Alford Tolerideme Dirt-Lover** (980) — el Rey de las Granjas; granjero brillante, cerrado de mente, se rumorea que tiene un hijo secreto. Pareja: **Luny** (997), científica de la corte nacida en Forway; celosa y obstinada."
+ },
+ "f2b4c4214fed": {
+  "en": "**Posaqui Sanbi** (1023) — vain, blue-loving Amethyst adventurer who talks his way out of every fight.",
+  "t": "**Posaqui Sanbi** (1023) — aventurero Amethyst vanidoso y amante del azul que sale de todas las peleas a base de labia."
+ },
+ "f454efcd8185": {
+  "en": "Notable People",
+  "t": "Personajes destacados"
+ },
+ "f7d38959e319": {
+  "en": "**Katsuki & Katsumi Flatland Long-Blue** (1017) — Wozefaries twins from the Goodbye Cliff.",
+  "t": "**Katsuki y Katsumi Flatland Long-Blue** (1017) — gemelos wozefaries del Goodbye Cliff."
+ },
+ "fe3526e8a9f7": {
+  "en": "**Yosuke Forway Wood-People-Picker** (959) — grumpy Wozefaries chef of The Wood People Picker, a restaurant for the masses outside the gates. With line cook **Rimir** (1012) and the Flatland twins **Hanako** (Wozefaries) and **Mimi** (Sorefaries), both Goodbye Cliff survivors.",
+  "t": "**Yosuke Forway Wood-People-Picker** (959) — gruñón chef wozefaries de The Wood People Picker, un restaurante para el pueblo fuera de las puertas. Con **Rimir** (1012), de la línea de cocina, y las gemelas de Flatland **Hanako** (wozefaries) y **Mimi** (sorefaries), ambas supervivientes del Goodbye Cliff."
  }
 }

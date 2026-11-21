@@ -1,43 +1,351 @@
 {
+ "072613ce914a": {
+  "en": "Pharaoh's approval",
+  "t": "موافقة الفرعون"
+ },
  "0776b1ecc9bf": {
   "en": "Tastyleaf",
   "t": "تيستي ليف"
+ },
+ "0879574bbc09": {
+  "en": "Domar Carbey everything · fermented eggs · Purply Smart Lambic Beer · Hearty Cocona Stew",
+  "t": "دومار كاربي في كل شيء · بيض مخمّر · جعة «بربلي سمارت لامبيك» · يخنة كوكونا الدسمة"
+ },
+ "092b15b542be": {
+  "en": "Wooly cheeses · Lollish-Floaters · fried/stewed Gandew Roundies (Wooly balls) · potted Wooly · Milk String",
+  "t": "أجبان الوولي · لوليش فلوترز · «كرات غانديو» مقلية أو مطهوة (خصى الوولي) · الوولي في الجِرار · خيوط الحليب"
+ },
+ "0be26983fdd3": {
+  "en": "**Moacir (fall):** Forway **All the Way Festival** · Tolerideme Harvest Festival · Freeish **Blood & Soil** · Flatland **Second Life** · Triangle Fest · Tastyleaf **Picking Festival**",
+  "t": "**مواسير (الخريف):** **مهرجان حتى النهاية** في فورواي · مهرجان الحصاد في توليريديمي · **الدم والتربة** في فريئيش · **الحياة الثانية** في فلاتلاند · مهرجان المثلث · **مهرجان القطف** في تيستي ليف"
+ },
+ "0c00c18dd4d7": {
+  "en": "Place",
+  "t": "المكان"
+ },
+ "0cda73ce347a": {
+  "en": "**Gandew Duels** (no soul energy) vs. **Forway Duels** (soul energy and gels encouraged; held in theaters and arenas)",
+  "t": "**مبارزات غانديو** (بلا طاقة روح) مقابل **مبارزات فورواي** (يُشجَّع فيها على طاقة الروح والجل؛ تُقام في المسارح والساحات)"
+ },
+ "10dbc680fc3b": {
+  "en": "30/L",
+  "t": "30/لتر"
  },
  "11577c2f2403": {
   "en": "Wingarest",
   "t": "وينغاريست"
  },
+ "1749d8facecd": {
+  "en": "Finger Cakes",
+  "t": "كعك الأصابع"
+ },
+ "1a8c48eeb141": {
+  "en": "Price",
+  "t": "السعر"
+ },
+ "1ac7842344cc": {
+  "en": "**Brothels** are a normal pastime. **Reading** is for the rich. **Theaters** in Forway stage novels. **Tourism** is for adventurers and the wealthy. **Music** is medieval with a modern swing (no electric anything).",
+  "t": "**بيوت الدعارة** تسلية عادية. و**القراءة** للأغنياء. و**مسارح** فورواي تعرض الروايات. و**السياحة** للمغامرين والأثرياء. و**الموسيقى** قروسطية بإيقاع حديث (لا شيء كهربائي)."
+ },
  "1b137c5ecaae": {
   "en": "Deltacross",
   "t": "دلتاكروس"
+ },
+ "1d3ad409e9eb": {
+  "en": "**Fast Fish** (Waterfall to Sanbi; no flight or gravity magic) · **Fast Bird** (Forway; some gels allowed) · **Fish Catch Fish** (fish while swimming; Sanbi)",
+  "t": "**فاست فيش** (من ووترفول إلى سانبي؛ بلا سحر طيران أو جاذبية) · **فاست بيرد** (فورواي؛ يُسمح ببعض الجل) · **فيش كاتش فيش** (الصيد أثناء السباحة؛ سانبي)"
  },
  "1ec59d42d7b9": {
   "en": "Sundeath",
   "t": "صنديث"
  },
+ "215a6b2bb3ca": {
+  "en": "Teach a Winga to ask",
+  "t": "علّم وينغا أن يطلب اليد"
+ },
+ "2237d90c6267": {
+  "en": "**Bone Sack** — toss bone bits into sacks hung in awkward spots; take a big gulp every miss.",
+  "t": "**بون ساك** — ارمِ قطع العظم في أكياس معلّقة في أماكن صعبة؛ وخذ جرعة كبيرة مع كل إخفاق."
+ },
+ "2877a021f308": {
+  "en": "5 · ~6/L · ~3/L",
+  "t": "5 · ~6/لتر · ~3/لتر"
+ },
+ "289507905090": {
+  "en": "Forway",
+  "t": "فورواي"
+ },
+ "2aa0c006c8bc": {
+  "en": "**Asa (spring):** Gandew **King Fest** · Blood's **Great Hunter/Huntress Competition** and **Bone Festival** · Flatland's Hot in the Cold · Deltacross Egua Uniform Contest",
+  "t": "**آسا (الربيع):** **مهرجان الملك** في غانديو · **مسابقة الصياد/الصيادة الكبرى** و**مهرجان العظم** في بلاد · الحرّ في البرد في فلاتلاند · مسابقة زيّ الإيغوا في دلتاكروس"
+ },
+ "3ccc5e37371a": {
+  "en": "Games",
+  "t": "الألعاب"
+ },
+ "3ccf196c1000": {
+  "en": "Sea, with triangle stones",
+  "t": "في البحر، مع أحجار مثلثة"
+ },
+ "40ff695ad9f4": {
+  "en": "Grilled Fihi in Rakuja · Cadioca with fried fish · Freeish salad · Basi pulp · Culuim · Gyut Wrap",
+  "t": "فيهي مشوي بالراكوجا · كاديوكا مع سمك مقلي · سلطة فريئيشية · لب الباسي · كولويم · لفافة غيوت"
+ },
+ "414e3d4d037e": {
+  "en": "Duel that ends in a draw",
+  "t": "مبارزة تنتهي بالتعادل"
+ },
+ "51d21eeeac32": {
+  "en": "Drinks served in floating cocona shells",
+  "t": "مشروبات تُقدَّم في قشور كوكونا طافية"
+ },
+ "51d4e22ee1f8": {
+  "en": "Festivals by month",
+  "t": "المهرجانات حسب الشهر"
+ },
+ "530df4f611fe": {
+  "en": "Mummified deep underground (or the desert, if shady)",
+  "t": "تحنيط في أعماق الأرض (أو في الصحراء إن كانوا مريبين)"
+ },
  "5475a939ba73": {
   "en": "Blood",
   "t": "بلاد"
+ },
+ "5663a952d13a": {
+  "en": "Travel food paste",
+  "t": "معجون طعام للسفر"
+ },
+ "56f1b9a5c888": {
+  "en": "\"Old Kick in the Ass\"",
+  "t": "«الركلة القديمة في المؤخرة»"
+ },
+ "5d5e64460e0c": {
+  "en": "Daily Life, Food & Festivals",
+  "t": "الحياة اليومية والطعام والمهرجانات"
  },
  "60f0853dfedc": {
   "en": "Waterfall",
   "t": "ووترفول"
  },
+ "64e3c953233c": {
+  "en": "**Wood Hammering** — drive nails with the narrow side of a hammer (tavern game).",
+  "t": "**وود هامرينغ** — دقّ المسامير بالجانب الضيق من المطرقة (لعبة حانات)."
+ },
+ "66774a952018": {
+  "en": "**Weekly:** Sundeath's Protector Celebration (Forrday) · **Monthly:** Forway fashion show · **Daily:** Sanbi's Safe Fishing Prayer",
+  "t": "**أسبوعيًا:** احتفال الحامي في صنديث (فورداي) · **شهريًا:** عرض الأزياء في فورواي · **يوميًا:** صلاة الصيد الآمن في سانبي"
+ },
+ "6d2f94fb16e1": {
+  "en": "Varies; contract marriages are trendy",
+  "t": "يتفاوت؛ وزيجات العقود رائجة"
+ },
+ "6ea22ca47404": {
+  "en": "**Homeegg** — Forway's big sport. Two teams of five flying on nari gels; four attackers per side fight in the middle and have five chances to carry the ball to a \"nest\" atop the opponent's pole. Sanbi's team, led by Princess Maiara, keeps winning the finals.",
+  "t": "**هوم إغ** — الرياضة الكبرى في فورواي. فريقان من خمسة يطيرون بجل ناري؛ أربعة مهاجمين من كل جانب يتقاتلون في الوسط ولهم خمس فرص لحمل الكرة إلى «عشّ» فوق عمود الخصم. وفريق سانبي، بقيادة الأميرة مايارا، يفوز بالنهائيات مرة بعد مرة."
+ },
+ "6fec3f069933": {
+  "en": "Invite them to buy a house together",
+  "t": "ادعُ الطرف الآخر لشراء بيت معًا"
+ },
+ "700f74a121a9": {
+  "en": "Freeish",
+  "t": "فريئيش"
+ },
  "7728dc17a25b": {
   "en": "Ganyrami",
   "t": "غانيرامي"
+ },
+ "7a12a6bbeaca": {
+  "en": "No marriage; co-parent by law",
+  "t": "لا زواج؛ تربية مشتركة بحكم القانون"
+ },
+ "7aff8ce27057": {
+  "en": "**Adrian (winter):** **White Roundies Arrival** (Freeish, Sanbi, Endlessfog) · Sanbi **Fish Parade** · Tolerideme **Shake Belly** · Gandew **Weapon Fest** · Blood/Sweetlake **Drunken Sweet Sting Festival** · Flatland **Companion Meetup** · Endlessfog Long & Yellow Sanbi Celebration · Deltacross Egua Uniform Contest",
+  "t": "**أدريان (الشتاء):** **وصول الوايت راونديز** (فريئيش، سانبي، إندلس فوغ) · **موكب السمكة** في سانبي · **هزّ البطن** في توليريديمي · **مهرجان السلاح** في غانديو · **مهرجان سويت ستينغ السكران** في بلاد/سويت ليك · **لقاء الرفاق** في فلاتلاند · احتفال سانبي الطويل والأصفر في إندلس فوغ · مسابقة زيّ الإيغوا في دلتاكروس"
+ },
+ "7ffa754dac64": {
+  "en": "A heart of perfect leaves",
+  "t": "قلب من أوراق مثالية"
+ },
+ "82ed10b3ff82": {
+  "en": "Into the furnace",
+  "t": "في الفرن"
+ },
+ "860bd815972b": {
+  "en": "Shout it at the Sanbi Fish Fountain; kiss",
+  "t": "اصرخ به عند نافورة سمكة سانبي؛ ثم قبلة"
+ },
+ "874718899582": {
+  "en": "Courtship and burial at a glance",
+  "t": "الخطبة والدفن في لمحة"
+ },
+ "88c0b5c816a5": {
+  "en": "Sanbi",
+  "t": "سانبي"
+ },
+ "8d0b949e8835": {
+  "en": "Black-honey-aged Wooly cheese · Purplebread with Sandworm",
+  "t": "جبن الوولي المعتّق بالعسل الأسود · بيربلبريد مع ساند وورم"
+ },
+ "8d82ba24d081": {
+  "en": "Quick Cake (passes through you fast)",
+  "t": "كويك كيك (تمرّ عبرك بسرعة)"
+ },
+ "8f129197a85a": {
+  "en": "Fruit bundle in the plaza",
+  "t": "حزمة فاكهة في الساحة"
  },
  "8f7eaa47ff4e": {
   "en": "Old Fuhrair",
   "t": "فورير القديمة"
  },
+ "9194c02035e9": {
+  "en": "Sanbi or Tolerideme style",
+  "t": "على طريقة سانبي أو توليريديمي"
+ },
+ "941a13f59137": {
+  "en": "Bring your own **Picker** (personal utensil) — everyone does, and many decorate theirs. Poor folk eat from **bread bowls** that get handed to beggars afterward.",
+  "t": "أحضِر **بيكر** خاصتك (أداة أكل شخصية) — الجميع يفعل، وكثيرون يزيّنونها. ويأكل الفقراء من **أوعية الخبز** التي تُعطى للمتسوّلين بعد ذلك."
+ },
+ "941fd8983d23": {
+  "en": "Burial",
+  "t": "الدفن"
+ },
+ "9473de235368": {
+  "en": "Wooly filet mignon in Bagarisa bacon",
+  "t": "فيليه مينيون من الوولي بلحم باغاريسا المقدد"
+ },
+ "95c9ac590ccb": {
+  "en": "1 amethyst",
+  "t": "1 أميثيست"
+ },
+ "96b26d6615f5": {
+  "en": "Gandew",
+  "t": "غانديو"
+ },
+ "96f4b2f66f2b": {
+  "en": "Tolerideme",
+  "t": "توليريديمي"
+ },
  "9db4f13ef375": {
   "en": "Endlessfog",
   "t": "إندلس فوغ"
  },
+ "a0ff030029ca": {
+  "en": "**Flat Steel** — fancy table Stealball for three players plus a **Table Manager** who uses nari stones to create bounce, slow, fast, sink and dead zones, split balls, or freeze them. Team up against the table and it offers shady deals.",
+  "t": "**فلات ستيل** — ستيلبول طاولة فاخرة لثلاثة لاعبين ومعهم **مدير الطاولة** الذي يستخدم أحجار ناري ليصنع مناطق للارتداد والإبطاء والتسريع والغوص ومناطق ميتة، أو ليقسم الكرات أو يجمّدها. وإن تحالفتم ضد الطاولة عرضت عليكم صفقات مريبة."
+ },
+ "aa1f1dbf890c": {
+  "en": "Signature food and drink",
+  "t": "أطعمة ومشروبات مميزة"
+ },
+ "af63113670d1": {
+  "en": "Taverns and pastimes",
+  "t": "الحانات ووسائل التسلية"
+ },
+ "b00fe401577b": {
+  "en": "Before the elder, then bond with a Brunto",
+  "t": "أمام الشيخ، ثم الارتباط ببرونتو"
+ },
+ "b07fc104d56c": {
+  "en": "Declare it in a descending elevator",
+  "t": "أعلنه في مصعد هابط"
+ },
+ "b341849b984f": {
+  "en": "**Territory Snipping** — darts thrown at once at a board of territories (some colors worth more).",
+  "t": "**تيريتوري سنيبينغ** — رمي السهام دفعة واحدة على لوحة من الأقاليم (بعض الألوان أعلى قيمة)."
+ },
+ "b80ea985b060": {
+  "en": "**Wood Bowl Spin** — tavern roulette with a white ball.",
+  "t": "**وود باول سبين** — روليت الحانات بكرة بيضاء."
+ },
+ "b8e6719d3449": {
+  "en": "Cremation; sand-washed bones in an urn",
+  "t": "حرق؛ عظام مغسولة بالرمل في جرّة"
+ },
+ "bb7289542e6c": {
+  "en": "In the desert where they \"landed\"",
+  "t": "في الصحراء حيث «هبطوا»"
+ },
+ "bb735a39f152": {
+  "en": "**Taverns are second homes.** Dedicated restaurants are a strange idea; everyone has a favorite tavern, and some Forway taverns are members-only. Adventurers love **tavern-hopping**.",
+  "t": "**الحانات بيوت ثانية.** المطاعم المخصصة للأكل فكرة غريبة؛ لكل واحد حانته المفضلة، وبعض حانات فورواي للأعضاء فقط. ويعشق المغامرون **التنقل بين الحانات**."
+ },
+ "bd628b405118": {
+  "en": "Bagarisa Nose with Cheese · Bloody Blood Sausage · black mead",
+  "t": "أنف باغاريسا بالجبن · النقانق الدموية الدامية · الميد الأسود"
+ },
+ "bf1260da68cb": {
+  "en": "**Paulin (summer):** Treaty gathering · **Adventurer Feast (Paulin 100th)** · Endlessfog Lonllow Cuisine · Deltacross Old Bone and Drink-in-the-Delta · Waterfall **Grand Race** and **Jump Race**",
+  "t": "**باولين (الصيف):** اجتماع المعاهدة · **وليمة المغامرين (اليوم المئة من باولين)** · مطبخ اللونلو في إندلس فوغ · العظم القديم واشرب-في-الدلتا في دلتاكروس · **السباق الكبير** و**سباق القفز** في ووترفول"
+ },
+ "c0401a23663d": {
+  "en": "**Soul Energy Art** shows · drinking and food contests (Tolerideme's are famous)",
+  "t": "عروض **سول إنرجي آرت** · مسابقات الشرب والأكل (مسابقات توليريديمي مشهورة)"
+ },
+ "c20e4e3d53ab": {
+  "en": "Black mead · \"Sweetlake Bottled Water\" (a scam)",
+  "t": "الميد الأسود · «مياه سويت ليك المعبأة» (احتيال)"
+ },
+ "c7dab4992ee7": {
+  "en": "Present your proudest kill / liters of black honey",
+  "t": "قدّم أفخر صيدك / لترات من العسل الأسود"
+ },
+ "c93a9930de3d": {
+  "en": "Pickled Winga eggs",
+  "t": "بيض وينغا مخلل"
+ },
+ "c9c67b126b69": {
+  "en": "Sports",
+  "t": "الرياضة"
+ },
+ "c9caf53ed885": {
+  "en": "Cremated with Wood People wood",
+  "t": "حرق بخشب الوود بيبول"
+ },
+ "cc9900e36f42": {
+  "en": "**Egua Race** and **Dueling Egua Race** (any weapon, enhanced eguas and riders), Forway",
+  "t": "**سباق الإيغوا** و**سباق الإيغوا بالمبارزة** (أي سلاح، وإيغوا وفرسان معزَّزون)، فورواي"
+ },
  "cde862687492": {
   "en": "Sweetlake",
   "t": "سويت ليك"
+ },
+ "ce092780deee": {
+  "en": "cheap",
+  "t": "رخيص"
+ },
+ "ce84b1197295": {
+  "en": "**Minari** — a Gwent-like game with carved statues on a 3D board; one statue in each group hides a nari stone (the \"true\" one) — find and eliminate it. Statues light up with soul energy powers.",
+  "t": "**ميناري** — لعبة تشبه غوينت بتماثيل منحوتة على لوحة ثلاثية الأبعاد؛ تمثال واحد في كل مجموعة يخفي حجر ناري (التمثال «الحقيقي») — اعثر عليه وأقصِه. وتتوهج التماثيل بقوى طاقة الروح."
+ },
+ "cf24b6f54eea": {
+  "en": "Lonllow Breadcake",
+  "t": "كعكة خبز اللونلو"
+ },
+ "d4015d7b9712": {
+  "en": "Dish / drink",
+  "t": "الطبق / المشروب"
+ },
+ "d78748f192f6": {
+  "en": "In the cathedral before both guilds",
+  "t": "في الكاتدرائية أمام النقابتين"
+ },
+ "dcdea293d916": {
+  "en": "**Stealball** — draw a square, put equal amethysts (or better) in the middle, and flick pearls to knock them out (poor kids use pearls and pebbles).",
+  "t": "**ستيلبول** — ارسم مربعًا، وضع في الوسط أعدادًا متساوية من الأميثيست (أو ما هو أثمن)، ثم انقر البيرل بإصبعك لتطردها خارجه (الأطفال الفقراء يستخدمون البيرل والحصى)."
+ },
+ "dcfd700b2dfc": {
+  "en": "Soul Send Away into the sea",
+  "t": "توديع الروح في البحر"
+ },
+ "df6c89aabf5c": {
+  "en": "Fields/woods, Vraki stone",
+  "t": "الحقول/الغابات، حجر بالفراكية"
+ },
+ "df819e1c4365": {
+  "en": "Sea or cremation",
+  "t": "البحر أو الحرق"
  },
  "e5512f4a91e6": {
   "en": "Flatland",
@@ -46,5 +354,33 @@
  "e563cba00f30": {
   "en": "Triangle",
   "t": "ترايانغل"
+ },
+ "e902f31fc66f": {
+  "en": "Varies; the poor are incinerated",
+  "t": "يتفاوت؛ والفقراء يُحرقون"
+ },
+ "e949d6dc22c7": {
+  "en": "Boiling Ramen (cooked in a geyser)",
+  "t": "رامن مغلي (يُطهى في نافورة حارة)"
+ },
+ "ea61972c6551": {
+  "en": "Proposal / marriage",
+  "t": "طلب الزواج / الزواج"
+ },
+ "ed84cf7e5e32": {
+  "en": "Naked in the fields",
+  "t": "عراةً في الحقول"
+ },
+ "f388ee442d54": {
+  "en": "Blood / Sweetlake",
+  "t": "بلاد / سويت ليك"
+ },
+ "f865b8c73645": {
+  "en": "Fried Fish Balls (10 on a stick) · Sanbi Beer (fish oil, \"aphrodisiac\") · Bread Beer · Hard Mud",
+  "t": "كرات السمك المقلية (10 على سيخ) · جعة سانبي (زيت سمك، «مقوية جنسيًا») · جعة الخبز · الطين الصلب"
+ },
+ "fc9541b66bb2": {
+  "en": "Cremated with Wood People wood; ashes on the fields",
+  "t": "حرق بخشب الوود بيبول؛ والرماد على الحقول"
  }
 }

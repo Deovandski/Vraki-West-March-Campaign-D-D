@@ -1,7 +1,15 @@
 {
+ "0600148e6adf": {
+  "en": "**Tibou** — antibacterial plant for soap, shampoo and comfy cloth.",
+  "t": "**Tibou** — planta antibacteriana para sabão, xampu e tecido confortável."
+ },
  "135573f02781": {
   "en": "**Cinika** — small cyan butterflies every spring. Swarms paralyze Wozefaries and Sorefaries to lick their sweat, and gather before storms (free weather warning). Gel ingredient.",
   "t": "**Cinika** — pequenas borboletas ciano de toda primavera. Os enxames paralisam wozefaries e sorefaries para lamber o suor deles, e se juntam antes das tempestades (previsão do tempo de graça). Ingrediente de géis."
+ },
+ "15b052e31d49": {
+  "en": "**Lehuj** — hangover and toxin cure; a heavy dose kills.",
+  "t": "**Lehuj** — cura ressaca e toxinas; uma dose forte mata."
  },
  "174f788d6281": {
   "en": "Carnivores",
@@ -27,6 +35,10 @@
   "en": "**Legunia** — desert flamingo-like bird; leaps high, sprints, flees at once. Its fat is a delicacy; its hump tells you how survivable the desert is right now.",
   "t": "**Legunia** — ave do deserto parecida com um flamingo; salta alto, dispara correndo e foge na hora. A gordura é uma iguaria; a corcova diz o quanto dá para sobreviver no deserto naquele momento."
  },
+ "34c837f44523": {
+  "en": "**Gyut** — cherry-cranberry berry; picking it sets wages; sweetens livestock.",
+  "t": "**Gyut** — fruta entre cereja e cranberry; a colheita dela define os salários; adoça o gado."
+ },
  "36f59f416d74": {
   "en": "**Fihi** — platypus-eel fish that absorb and release elemental energy and shock things. The huge ones in Lukewarm Lake and Flatland's lake eat people.",
   "t": "**Fihi** — peixes ornitorrinco-enguia que absorvem e liberam energia elemental e dão choques. Os enormes do Lago Morno e do lago de Flatland comem gente."
@@ -35,17 +47,37 @@
   "en": "**Egua** — hippo-headed heavy horse; the pack animal of the kingdoms. Walks on water, shrugs off mud, resizes its legs, and ejects its intestines at predators. Loved, petted, given human burials; only old ones get eaten. Tamed adult ~1 sapphire; tamed foal ~1 aquamarine (carries lighter loads; adventurers walk alongside).",
   "t": "**Egua** — cavalo pesado com cabeça de hipopótamo; o animal de carga dos reinos. Anda sobre a água, ignora a lama, muda o tamanho das pernas e expele os intestinos nos predadores. Amado, acariciado e enterrado como gente; só os velhos são comidos. Adulto domado ~1 sapphire; potro domado ~1 aquamarine (carrega cargas mais leves; os aventureiros caminham ao lado)."
  },
+ "3b01838abc21": {
+  "en": "**Panita** — citrus-scented mushroom, extremely toxic; legal because Forway uses it to punish.",
+  "t": "**Panita** — cogumelo com cheiro cítrico, extremamente tóxico; legal porque Forway o usa como castigo."
+ },
  "41673d0021e3": {
   "en": "**Domar Carbey** — purple Tolerideme grain with a cheesy-citrus taste; the heart of their economy.",
   "t": "**Domar Carbey** — grão roxo de Tolerideme com gosto de queijo e cítrico; o coração da economia de lá."
+ },
+ "477d943179a5": {
+  "en": "**Lakata** — grape that's dangerous to the heart; key gel ingredient.",
+  "t": "**Lakata** — uva perigosa para o coração; ingrediente-chave de géis."
  },
  "4ad1d629b501": {
   "en": "**Fanchaki** — mutant chicken from the first Buhraies soul experiments. Breeds like rats; an egg a day; tender purple-marbled meat. Fast reactions and a decoy body.",
   "t": "**Fanchaki** — galinha mutante dos primeiros experimentos de alma dos buhraies. Procria como rato; um ovo por dia; carne macia marmorizada de roxo. Reações rápidas e um corpo-isca."
  },
+ "4d88bd0f5a5c": {
+  "en": "**Purplebread** — spiky desert fruit; Sundeath staple; rub it in sand to kill the smell.",
+  "t": "**Purplebread** — fruta espinhosa do deserto; alimento básico de Sundeath; esfregue na areia para tirar o cheiro."
+ },
+ "4fd5a620a91d": {
+  "en": "**Soul Tree** — metallic bark, green wood; soul wood. Guarded by Trunk People in the wild.",
+  "t": "**Soul Tree** — casca metálica, madeira verde; madeira de alma. Na natureza, é guardada pela Trunk People."
+ },
  "52b5e3897c48": {
   "en": "**Barina** — pond frog with toxic gas from an explosive tail, spike-throwing back and camouflage. Its lungs and glands go into gels.",
   "t": "**Barina** — sapo de lagoa com gás tóxico de uma cauda explosiva, costas que lançam espinhos e camuflagem. Os pulmões e as glândulas vão para os géis."
+ },
+ "56875f59a0e5": {
+  "en": "**Tyr** — nerve agent; worst case, you're locked in your own body.",
+  "t": "**Tyr** — agente nervoso; no pior caso, você fica trancado no próprio corpo."
  },
  "580bc79bd449": {
   "en": "**Basi** — Freeish berry crushed into a thick, earthy, bittersweet pulp. Cheap and filling.",
@@ -63,6 +95,10 @@
   "en": "**Culuim** — worms that ate a pond's worth of dumped Walking Hearts near Freeish; they flip between heart \"modes\". Cheap, earthy Freeish street food.",
   "t": "**Culuim** — vermes que comeram um lago inteiro de Walking Hearts descartados perto de Freeish; alternam entre «modos» de coração. Comida de rua freeish barata e terrosa."
  },
+ "792b2e6a7fbf": {
+  "en": "**Steen** — Sanbi chewing plant; calming and numbing; tranquilizer arrows.",
+  "t": "**Steen** — planta de mascar de Sanbi; acalma e adormece; flechas tranquilizantes."
+ },
  "7969f7c022f7": {
   "en": "**Ptaina** — deep fish with a purple glowing head; ultrasonic stuns, compass-scrambling.",
   "t": "**Ptaina** — peixe de profundidade com a cabeça roxa brilhante; atordoa com ultrassom e embaralha bússolas."
@@ -70,6 +106,14 @@
  "79d5ff61fac6": {
   "en": "**Cocona** — invasive Buhraies fruit with unpredictable water and flavor; gel base.",
   "t": "**Cocona** — fruta invasora dos buhraies com água e sabor imprevisíveis; base de géis."
+ },
+ "7a53386562db": {
+  "en": "**Greenbread** — huge fruit on tall trees. A falling one can turn you into jelly. Cacao-like seeds; its core binds bone wood.",
+  "t": "**Greenbread** — fruta enorme de árvores altas. Uma caindo pode te transformar em geleia. Sementes parecidas com cacau; o miolo dá liga à madeira de osso."
+ },
+ "7e1220b006a7": {
+  "en": "**Lonllow** — caramel-banana fruit, mutation-prone; Endlessfog's crop.",
+  "t": "**Lonllow** — fruta de caramelo e banana, propensa a mutações; a lavoura de Endlessfog."
  },
  "878dd9134645": {
   "en": "Fauna & Flora",
@@ -87,13 +131,37 @@
   "en": "**Soreno** — rat-shrew grain pest and cheap lab animal. Camouflage, voice mimicry, darting, and squeaks that carry far (spies train them). Meat tastes like urine; Pearls eat it anyway because it's free.",
   "t": "**Soreno** — praga de grãos entre rato e musaranho, e cobaia de laboratório barata. Camuflagem, imitação de voz, movimentos rápidos e guinchos que se ouvem de longe (espiões os treinam). A carne tem gosto de urina; os Pearls comem mesmo assim porque é de graça."
  },
+ "9420367f614b": {
+  "en": "**Lolish** — ginger root for warm desert-night drinks (Gandew).",
+  "t": "**Lolish** — raiz de gengibre para bebidas quentes nas noites do deserto (Gandew)."
+ },
+ "96a5c2752f4f": {
+  "en": "**Yabuca** — mutation-prone apple tree (Jonabuca is the prized one). Wood People were made from it.",
+  "t": "**Yabuca** — macieira propensa a mutações (a Jonabuca é a mais valorizada). A Wood People foi feita a partir dela."
+ },
  "9b6c22d3fc81": {
   "en": "**Black Sapphire** (black wood) — endangered tree that kills life around it; the best soul energy container.",
   "t": "**Black Sapphire** (madeira negra) — árvore ameaçada que mata a vida ao redor; o melhor recipiente de energia da alma."
  },
+ "a1c4d0b04814": {
+  "en": "**Tenderthrough** — papaya-like island fruit; cheap gut cleanser.",
+  "t": "**Tenderthrough** — fruta de ilha parecida com mamão; limpa o intestino e é barata."
+ },
  "a30ab5483d3e": {
   "en": "**Fatupari** — a scary-looking but dumb giant tree boa; it launches itself and hovers. Tear its pink webbing to stop its magic. Bitter meat, waterproof hide.",
   "t": "**Fatupari** — uma jiboia arbórea gigante de aparência assustadora, mas burra; se lança e fica pairando. Rasgue a membrana rosa dela para parar sua magia. Carne amarga, couro impermeável."
+ },
+ "a6f03e6f970a": {
+  "en": "**Magina** — banned hallucinogen whose visions feel real (Black Magina's product).",
+  "t": "**Magina** — alucinógeno proibido cujas visões parecem reais (o produto da Black Magina)."
+ },
+ "a9858b3549a6": {
+  "en": "**Tastyleaf** — the 104 m tree whose leaves make anything delicious; glows in rain; repels beasts.",
+  "t": "**Tastyleaf** — a árvore de 104 m cujas folhas deixam qualquer coisa deliciosa; brilha na chuva; espanta as feras."
+ },
+ "b9a608e1cd47": {
+  "en": "**Nica** — pepper; insect-repellent gels (but you'll smell).",
+  "t": "**Nica** — pimenta; géis repelentes de insetos (mas você vai feder)."
  },
  "b9d42d5b4bea": {
   "en": "**Monika** — solitary blue-antennaed butterflies drawn to corpses with high soul energy. Follow them to dead adventurers (or the predator nearby). Monika Sight gel.",
@@ -111,9 +179,21 @@
   "en": "**Cadioca** — cassava-like root, poisonous raw; soaked, dried and fried. Farmed in Freeish.",
   "t": "**Cadioca** — raiz parecida com a mandioca, venenosa crua; deixada de molho, seca e frita. Cultivada em Freeish."
  },
+ "c9d5719ea3e7": {
+  "en": "**Siguash** — mango-pomegranate fruit; ferments into strong liquor.",
+  "t": "**Siguash** — fruta entre manga e romã; fermenta numa bebida forte."
+ },
  "e134357fabb0": {
   "en": "**Bagarisa** — babirusa-deer; the most-hunted meat (earthy, mushroomy). Fire from the tusks, fireballs, a hot-air crest that makes a flamethrower, self-healing in blood. **Two hearts** (chest and gut) — shoot both. Musk smells like shrimp brine. Classic Amethyst hunt.",
   "t": "**Bagarisa** — babirussa-cervo; a carne mais caçada (terrosa, com gosto de cogumelo). Fogo das presas, bolas de fogo, uma crista de ar quente que vira lança-chamas, autocura com sangue. **Dois corações** (peito e barriga) — acerte os dois. O almíscar cheira a salmoura de camarão. Caçada clássica de Amethyst."
+ },
+ "e92c662f5c65": {
+  "en": "**Rakuja** — antifreeze vine that kills Wood People; tangy fruit; its juice gets you drunk.",
+  "t": "**Rakuja** — cipó anticongelante que mata a Wood People; fruta azedinha; o suco deixa a gente bêbado."
+ },
+ "e9b61b13e110": {
+  "en": "**Gosutam** — vanilla fruit with a tough shell; open it wrong and it turns bitter.",
+  "t": "**Gosutam** — fruta de baunilha com casca dura; abra do jeito errado e ela fica amarga."
  },
  "edf4aa70757d": {
   "en": "**Emerenthy** — glows at night (makeshift torch); stalks eaten like celery.",

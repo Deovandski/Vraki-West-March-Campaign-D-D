@@ -1,7 +1,15 @@
 {
+ "0600148e6adf": {
+  "en": "**Tibou** — antibacterial plant for soap, shampoo and comfy cloth.",
+  "t": "**تيبو** — نبتة مضادة للبكتيريا للصابون والشامبو والقماش المريح."
+ },
  "135573f02781": {
   "en": "**Cinika** — small cyan butterflies every spring. Swarms paralyze Wozefaries and Sorefaries to lick their sweat, and gather before storms (free weather warning). Gel ingredient.",
   "t": "**سينيكا** — فراشات سماوية صغيرة كل ربيع. أسرابها تشلّ الووزيفاريس والسوريفاريس لتلعق عرقهم، وتتجمع قبل العواصف (إنذار طقس مجاني). مكوّن للجل."
+ },
+ "15b052e31d49": {
+  "en": "**Lehuj** — hangover and toxin cure; a heavy dose kills.",
+  "t": "**ليهوج** — علاج لآثار السُّكر والسموم؛ والجرعة الكبيرة تقتل."
  },
  "174f788d6281": {
   "en": "Carnivores",
@@ -27,6 +35,10 @@
   "en": "**Legunia** — desert flamingo-like bird; leaps high, sprints, flees at once. Its fat is a delicacy; its hump tells you how survivable the desert is right now.",
   "t": "**ليغونيا** — طائر صحراوي يشبه النحام؛ يقفز عاليًا، ويعدو بسرعة، ويهرب في الحال. دهنه طعام فاخر؛ وسنامه يخبرك بمدى إمكان النجاة في الصحراء الآن."
  },
+ "34c837f44523": {
+  "en": "**Gyut** — cherry-cranberry berry; picking it sets wages; sweetens livestock.",
+  "t": "**غيوت** — توتة بين الكرز والتوت البري؛ قطافها يحدد الأجور؛ ويحلّي لحم الماشية."
+ },
  "36f59f416d74": {
   "en": "**Fihi** — platypus-eel fish that absorb and release elemental energy and shock things. The huge ones in Lukewarm Lake and Flatland's lake eat people.",
   "t": "**فيهي** — أسماك تشبه خلد الماء والأنقليس، تمتص الطاقة العنصرية وتطلقها وتصعق الأشياء. والضخمة منها في البحيرة الفاترة وبحيرة فلاتلاند تأكل البشر."
@@ -35,17 +47,37 @@
   "en": "**Egua** — hippo-headed heavy horse; the pack animal of the kingdoms. Walks on water, shrugs off mud, resizes its legs, and ejects its intestines at predators. Loved, petted, given human burials; only old ones get eaten. Tamed adult ~1 sapphire; tamed foal ~1 aquamarine (carries lighter loads; adventurers walk alongside).",
   "t": "**إيغوا** — حصان ثقيل برأس فرس النهر؛ دابة الحمل في الممالك. يمشي على الماء، ولا يبالي بالطين، ويغيّر حجم ساقيه، ويقذف أمعاءه على المفترسين. محبوب، يُربَّت عليه، ويُدفن كالبشر؛ ولا يُؤكل إلا المسنّ منه. البالغ المروّض ~1 سافاير؛ والمهر المروّض ~1 أكوامارين (يحمل أحمالًا أخف؛ ويمشي المغامرون بجانبه)."
  },
+ "3b01838abc21": {
+  "en": "**Panita** — citrus-scented mushroom, extremely toxic; legal because Forway uses it to punish.",
+  "t": "**بانيتا** — فطر برائحة الحمضيات، شديد السمية؛ قانوني لأن فورواي تستخدمه للعقاب."
+ },
  "41673d0021e3": {
   "en": "**Domar Carbey** — purple Tolerideme grain with a cheesy-citrus taste; the heart of their economy.",
   "t": "**دومار كاربي** — حبوب توليريديمي البنفسجية بطعم الجبن والحمضيات؛ قلب اقتصادهم."
+ },
+ "477d943179a5": {
+  "en": "**Lakata** — grape that's dangerous to the heart; key gel ingredient.",
+  "t": "**لاكاتا** — عنب خطِر على القلب؛ مكوّن أساسي للجل."
  },
  "4ad1d629b501": {
   "en": "**Fanchaki** — mutant chicken from the first Buhraies soul experiments. Breeds like rats; an egg a day; tender purple-marbled meat. Fast reactions and a decoy body.",
   "t": "**فانتشاكي** — دجاجة متحوّرة من أولى تجارب الروح لدى البورايس. تتكاثر كالجرذان؛ بيضة كل يوم؛ لحم طري مُعرّق بالبنفسجي. ردود فعل سريعة وجسد للتمويه."
  },
+ "4d88bd0f5a5c": {
+  "en": "**Purplebread** — spiky desert fruit; Sundeath staple; rub it in sand to kill the smell.",
+  "t": "**بيربلبريد** — ثمرة صحراوية شائكة؛ غذاء أساسي في صنديث؛ افركها بالرمل لتزيل رائحتها."
+ },
+ "4fd5a620a91d": {
+  "en": "**Soul Tree** — metallic bark, green wood; soul wood. Guarded by Trunk People in the wild.",
+  "t": "**سول تري** — لحاء معدني وخشب أخضر؛ خشب الروح. يحرسها الترانك بيبول في البرية."
+ },
  "52b5e3897c48": {
   "en": "**Barina** — pond frog with toxic gas from an explosive tail, spike-throwing back and camouflage. Its lungs and glands go into gels.",
   "t": "**بارينا** — ضفدع بِرك يطلق غازًا سامًا من ذيل متفجر، وظهر يقذف الأشواك، ويتخفى. رئتاه وغدده تدخل في صنع الجل."
+ },
+ "56875f59a0e5": {
+  "en": "**Tyr** — nerve agent; worst case, you're locked in your own body.",
+  "t": "**تير** — عامل أعصاب؛ وفي أسوأ الأحوال تُحبس داخل جسدك."
  },
  "580bc79bd449": {
   "en": "**Basi** — Freeish berry crushed into a thick, earthy, bittersweet pulp. Cheap and filling.",
@@ -63,6 +95,10 @@
   "en": "**Culuim** — worms that ate a pond's worth of dumped Walking Hearts near Freeish; they flip between heart \"modes\". Cheap, earthy Freeish street food.",
   "t": "**كولويم** — ديدان أكلت بركة كاملة من قلوب ووكينغ هارت الملقاة قرب فريئيش؛ تتنقل بين «أوضاع» القلب. أكل شارع فريئيشي رخيص بطعم ترابي."
  },
+ "792b2e6a7fbf": {
+  "en": "**Steen** — Sanbi chewing plant; calming and numbing; tranquilizer arrows.",
+  "t": "**ستين** — نبتة مضغ من سانبي؛ مهدئة ومخدّرة؛ لسهام التخدير."
+ },
  "7969f7c022f7": {
   "en": "**Ptaina** — deep fish with a purple glowing head; ultrasonic stuns, compass-scrambling.",
   "t": "**بتاينا** — سمكة أعماق برأس يتوهج بالبنفسجي؛ تصعق بالموجات فوق الصوتية وتُربك البوصلات."
@@ -70,6 +106,14 @@
  "79d5ff61fac6": {
   "en": "**Cocona** — invasive Buhraies fruit with unpredictable water and flavor; gel base.",
   "t": "**كوكونا** — فاكهة غازية جلبها البورايس، ماؤها ونكهتها لا يمكن التنبؤ بهما؛ أساس للجل."
+ },
+ "7a53386562db": {
+  "en": "**Greenbread** — huge fruit on tall trees. A falling one can turn you into jelly. Cacao-like seeds; its core binds bone wood.",
+  "t": "**غرينبريد** — ثمرة ضخمة على أشجار عالية. إن سقطت عليك واحدة فقد تصير هلامًا. بذورها تشبه الكاكاو؛ ولبّها يربط خشب العظم."
+ },
+ "7e1220b006a7": {
+  "en": "**Lonllow** — caramel-banana fruit, mutation-prone; Endlessfog's crop.",
+  "t": "**لونلو** — فاكهة بطعم الكراميل والموز، سريعة التحوّر؛ محصول إندلس فوغ."
  },
  "878dd9134645": {
   "en": "Fauna & Flora",
@@ -87,13 +131,37 @@
   "en": "**Soreno** — rat-shrew grain pest and cheap lab animal. Camouflage, voice mimicry, darting, and squeaks that carry far (spies train them). Meat tastes like urine; Pearls eat it anyway because it's free.",
   "t": "**سورينو** — آفة حبوب بين الجرذ والزبابة، وحيوان مختبر رخيص. تخفٍّ، وتقليد للأصوات، وانطلاق خاطف، وصئي يُسمع من بعيد (يدرّبها الجواسيس). لحمها طعمه كالبول؛ ويأكله البيرل على أي حال لأنه مجاني."
  },
+ "9420367f614b": {
+  "en": "**Lolish** — ginger root for warm desert-night drinks (Gandew).",
+  "t": "**لوليش** — جذر زنجبيل لمشروبات ليالي الصحراء الدافئة (غانديو)."
+ },
+ "96a5c2752f4f": {
+  "en": "**Yabuca** — mutation-prone apple tree (Jonabuca is the prized one). Wood People were made from it.",
+  "t": "**يابوكا** — شجرة تفاح سريعة التحوّر (جونابوكا هي الأثمن). ومنها صُنع الوود بيبول."
+ },
  "9b6c22d3fc81": {
   "en": "**Black Sapphire** (black wood) — endangered tree that kills life around it; the best soul energy container.",
   "t": "**بلاك سافاير** (الخشب الأسود) — شجرة مهددة تقتل الحياة من حولها؛ أفضل وعاء لطاقة الروح."
  },
+ "a1c4d0b04814": {
+  "en": "**Tenderthrough** — papaya-like island fruit; cheap gut cleanser.",
+  "t": "**تندرثرو** — ثمرة جزرية تشبه البابايا؛ منظّف رخيص للأمعاء."
+ },
  "a30ab5483d3e": {
   "en": "**Fatupari** — a scary-looking but dumb giant tree boa; it launches itself and hovers. Tear its pink webbing to stop its magic. Bitter meat, waterproof hide.",
   "t": "**فاتوباري** — بوا شجرية عملاقة مخيفة المظهر لكنها غبية؛ تقذف نفسها وتحوم. مزّق غشاءها الوردي لتوقف سحرها. لحم مرّ، وجلد مقاوم للماء."
+ },
+ "a6f03e6f970a": {
+  "en": "**Magina** — banned hallucinogen whose visions feel real (Black Magina's product).",
+  "t": "**ماجينا** — مهلوس محظور تبدو رؤاه حقيقية (منتَج بلاك ماجينا)."
+ },
+ "a9858b3549a6": {
+  "en": "**Tastyleaf** — the 104 m tree whose leaves make anything delicious; glows in rain; repels beasts.",
+  "t": "**تيستي ليف** — الشجرة البالغ ارتفاعها 104 م التي تجعل أوراقها أي شيء لذيذًا؛ تتوهج في المطر؛ وتطرد الوحوش."
+ },
+ "b9a608e1cd47": {
+  "en": "**Nica** — pepper; insect-repellent gels (but you'll smell).",
+  "t": "**نيكا** — فلفل؛ يُصنع منه جل طارد للحشرات (لكنك ستفوح برائحته)."
  },
  "b9d42d5b4bea": {
   "en": "**Monika** — solitary blue-antennaed butterflies drawn to corpses with high soul energy. Follow them to dead adventurers (or the predator nearby). Monika Sight gel.",
@@ -111,9 +179,21 @@
   "en": "**Cadioca** — cassava-like root, poisonous raw; soaked, dried and fried. Farmed in Freeish.",
   "t": "**كاديوكا** — جذر يشبه الكسافا، سامّ نيئًا؛ يُنقع ويُجفف ويُقلى. يُزرع في فريئيش."
  },
+ "c9d5719ea3e7": {
+  "en": "**Siguash** — mango-pomegranate fruit; ferments into strong liquor.",
+  "t": "**سيغواش** — فاكهة بين المانجو والرمان؛ تتخمر إلى خمر قوي."
+ },
  "e134357fabb0": {
   "en": "**Bagarisa** — babirusa-deer; the most-hunted meat (earthy, mushroomy). Fire from the tusks, fireballs, a hot-air crest that makes a flamethrower, self-healing in blood. **Two hearts** (chest and gut) — shoot both. Musk smells like shrimp brine. Classic Amethyst hunt.",
   "t": "**باغاريسا** — بابيروسا-غزال؛ أكثر اللحوم صيدًا (ترابي بطعم الفطر). نار من الأنياب، وكرات نارية، وعُرف من الهواء الساخن يصنع قاذف لهب، وشفاء ذاتي بالدم. **قلبان** (في الصدر والبطن) — أصب كليهما. مسكه رائحته كمحلول الروبيان المالح. صيد كلاسيكي لرتبة أميثيست."
+ },
+ "e92c662f5c65": {
+  "en": "**Rakuja** — antifreeze vine that kills Wood People; tangy fruit; its juice gets you drunk.",
+  "t": "**راكوجا** — كرمة مضادة للتجمد تقتل الوود بيبول؛ ثمرتها لاذعة؛ وعصيرها يُسكر."
+ },
+ "e9b61b13e110": {
+  "en": "**Gosutam** — vanilla fruit with a tough shell; open it wrong and it turns bitter.",
+  "t": "**غوسوتام** — ثمرة فانيليا بقشرة صلبة؛ إن فتحتها بطريقة خاطئة صارت مُرّة."
  },
  "edf4aa70757d": {
   "en": "**Emerenthy** — glows at night (makeshift torch); stalks eaten like celery.",
