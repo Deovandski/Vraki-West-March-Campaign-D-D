@@ -1,14 +1,226 @@
 {
+ "0384b5035d96": {
+  "en": "Pace knob, daily shifts, watches, food, getting lost",
+  "t": "Ajuste del ritmo, turnos diarios, guardias, comida, perderse"
+ },
+ "0580282bff4d": {
+  "en": "[Travel by Circles](01%20-%20Travel%20by%20Circles.md)",
+  "t": "[Viajar por círculos](01%20-%20Travel%20by%20Circles.md)"
+ },
+ "06174dc8d93f": {
+  "en": "The original one-shot, updated for circle travel",
+  "t": "La partida única original, actualizada para viajar por círculos"
+ },
+ "09e9cf74d4fb": {
+  "en": "[Alpha One-Shot: Wagon Escort](Alpha%20One-Shot%20-%20Wagon%20Escort.md)",
+  "t": "[Partida única Alpha: escolta de carro](Alpha%20One-Shot%20-%20Wagon%20Escort.md)"
+ },
  "110ec66be1d2": {
   "en": "What's inside",
   "t": "Qué contiene"
+ },
+ "20dbadb44b5d": {
+  "en": "Event rolls per shift, regional encounter tables",
+  "t": "Tiradas de eventos por turno, tablas de encuentros por región"
+ },
+ "22c41f087f9d": {
+  "en": "Fauna and beast stat blocks gained regions, a few fixes (\"Monica\" → Monika), and new entries (Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies, Hash template), plus guards and bandits.",
+  "t": "Los bloques de estadísticas de fauna y bestias ganaron regiones, algunas correcciones («Monica» → Monika) y entradas nuevas (Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies, plantilla Hash), además de guardias y bandidos."
+ },
+ "243b22d2db0d": {
+  "en": "The pitch for players",
+  "t": "La propuesta para los jugadores"
+ },
+ "33781944b6d4": {
+  "en": "The campaign **takes place in the world of the light novels but doesn't follow their story**. Canon characters are NPCs and rumors at most. By default it's the **1040s A.G.** — the DM decides the exact year and who's alive.",
+  "t": "La campaña **transcurre en el mundo de las novelas ligeras, pero no sigue su historia**. Los personajes canónicos son, como mucho, PNJ y rumores. Por defecto estamos en los **años 1040 A.G.** — el DM decide el año exacto y quién sigue vivo."
+ },
+ "352ec54aed90": {
+  "en": "Quest rules, rewards, deadlines, sample quests by rank",
+  "t": "Reglas de las misiones, recompensas, plazos, misiones de ejemplo por rango"
+ },
+ "3926f4b6ad32": {
+  "en": "Beasts, fauna, people (guards, bandits)",
+  "t": "Bestias, fauna, gente (guardias, bandidos)"
+ },
+ "3a372342ece1": {
+  "en": "[Factions & Reputation](09%20-%20Factions%20&%20Reputation.md)",
+  "t": "[Facciones y reputación](09%20-%20Factions%20&%20Reputation.md)"
+ },
+ "45f90c1109d3": {
+  "en": "Combat uses normal **initiative** (the Alpha text said turns go by AC).",
+  "t": "El combate usa la **iniciativa** normal (el texto de Alpha decía que los turnos iban según la AC)."
+ },
+ "46f8b5ebc00a": {
+  "en": "You're a badge-carrying **Pearl adventurer** working out of a Forway **embassy**. Grab a quest off the board, sign the contract in blood, gather whoever's free tonight, and head out into a world full of walking killer trees, moody undead castles, bandits, bureaucracy and food. Climb from **Pearl to Sapphire**. Try not to die — and if you do, hope someone drags your body back before your soul dissolves, because Forway *will* revive you... and take half your pay until the debt is paid.",
+  "t": "Eres un **aventurero Pearl** con insignia que trabaja desde una **embajada** de Forway. Coge una misión del tablón, firma el contrato con sangre, reúne a quien esté libre esta noche y lánzate a un mundo lleno de árboles asesinos andantes, castillos de no muertos temperamentales, bandidos, burocracia y comida. Sube de **Pearl a Sapphire**. Intenta no morir — y si mueres, reza para que alguien arrastre tu cuerpo de vuelta antes de que tu alma se disuelva, porque Forway *te* reanimará... y se quedará con la mitad de tu paga hasta que saldes la deuda."
+ },
+ "4c2e994f56ec": {
+  "en": "How a West March runs",
+  "t": "Cómo funciona una West March"
  },
  "4df7a2e30816": {
   "en": "Files",
   "t": "Archivos"
  },
+ "5aec0323882b": {
+  "en": "**One shared world.** Whatever a party kills, maps, angers or befriends stays that way for everyone. Keep a shared **session log** and mark traveled and explored circles on a shared copy of the **travel map**.",
+  "t": "**Un único mundo compartido.** Lo que un grupo mata, cartografía, enfada o hace amigo queda así para todos. Llevad un **diario de sesiones** compartido y marcad los círculos recorridos y explorados en una copia compartida del **mapa de viaje**."
+ },
+ "5e443f1e5a75": {
+  "en": "Pre-gens cleaned up: **Hiromi** is now a Darfaries brawler (matching the lore), and his old interrogator kit moved to a new pre-gen, **Takeo**. Every sheet lists its people, interface and Soul Points.",
+  "t": "Pregenerados repasados: **Hiromi** ahora es un luchador darfaries (de acuerdo con la ambientación), y su antiguo equipo de interrogador pasó a un pregenerado nuevo, **Takeo**. Cada hoja indica su pueblo, su interfaz y sus Soul Points."
+ },
+ "62a5f798d571": {
+  "en": "Vraki West March — DM Guide",
+  "t": "Vraki West March — Guía del DM"
+ },
+ "69a25b5f9d3b": {
+  "en": "A **West Marches** style D&D 5e campaign set in the world of #HusbandOutWorld. It grew out of the original Alpha wagon-escort one-shot (now kept here as the [Alpha One-Shot](Alpha%20One-Shot%20-%20Wagon%20Escort.md)), expanded into an open table.",
+  "t": "Una campaña de D&D 5e al estilo **West Marches** ambientada en el mundo de #HusbandOutWorld. Nació de la partida única original de escolta de carro Alpha (que se conserva aquí como la [partida única Alpha](Alpha%20One-Shot%20-%20Wagon%20Escort.md)) y creció hasta convertirse en una mesa abierta."
+ },
+ "69febbdba6cc": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md)",
+  "t": "[Eventos y encuentros](07%20-%20Events%20&%20Encounters.md)"
+ },
+ "6d75e12ab6ce": {
+  "en": "[DM Secrets](DM%20Secrets.md)",
+  "t": "[Secretos del DM](DM%20Secrets.md)"
+ },
+ "70479df111d7": {
+  "en": "Reputation track and what factions want",
+  "t": "Medidor de reputación y lo que quieren las facciones"
+ },
+ "76b0d5ff20bd": {
+  "en": "[Quest Board](06%20-%20Quest%20Board.md)",
+  "t": "[Tablón de misiones](06%20-%20Quest%20Board.md)"
+ },
+ "78916cae64ba": {
+  "en": "Soul Points, nari stones, sigil rings, casting, miscasts",
+  "t": "Soul Points, piedras de nari, anillos de sigilo, lanzamiento, fallos"
+ },
+ "7ad96484b6f8": {
+  "en": "Travel uses **circles and a pace knob** instead of distances, Egua speeds and load math.",
+  "t": "Para viajar se usan **círculos y un ajuste de ritmo** en lugar de distancias, velocidades de Egua y cuentas de carga."
+ },
+ "8801751c0222": {
+  "en": "Random escort event: bandits offer a cut to help rob the wagon; Deal roll, Heat, patrols, debrief and punishment",
+  "t": "Evento aleatorio de escolta: los bandidos ofrecen una parte por ayudar a robar el carro; tirada del Trato, Sospecha, patrullas, informe y castigo"
+ },
+ "8b69dc373c04": {
+  "en": "The wagon escort is now **one quest type** (Cargo Protection) among many; the four daily **shifts** are kept.",
+  "t": "La escolta de carro es ahora **un tipo de misión** (Protección de carga) entre muchos; se mantienen los cuatro **turnos** diarios."
+ },
+ "8ea9379ca099": {
+  "en": "Bahyum's Castle Mood, Hifuna exposure, desert, caverns, swamps",
+  "t": "El Humor del Castillo de Bahyum, la exposición en Hifuna, el desierto, las cavernas, los pantanos"
+ },
+ "916411d820c2": {
+  "en": "No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) has circles drawn along the routes connecting places. **Count the circles to the destination. Each circle represents 1, 2 or 3 days — the DM chooses** (Fast, Standard, Slow) to make the journey shorter or longer. Forway to Sanbi is 6 circles, so 6, 12 or 18 days. Every route's length is in the [Maps](../Maps) table, and the website's travel planner counts them for you. Details in [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "Nada de kilómetros, velocidades de Egua ni porcentajes de carga. El [mapa de viaje](../Maps) tiene círculos dibujados a lo largo de las rutas que unen los lugares. **Cuenta los círculos hasta el destino. Cada círculo representa 1, 2 o 3 días — lo elige el DM** (Rápido, Normal, Lento) para hacer el viaje más corto o más largo. De Forway a Sanbi hay 6 círculos, así que 6, 12 o 18 días. La longitud de cada ruta está en la tabla de [Mapas](../Maps), y el planificador de viajes de la web los cuenta por ti. Detalles en [Viajar por círculos](01%20-%20Travel%20by%20Circles.md)."
+ },
+ "9536be9abe2f": {
+  "en": "Pre-generated level 3 adventurers",
+  "t": "Aventureros pregenerados de nivel 3"
+ },
+ "99f71fd1e62e": {
+  "en": "Added rules for soul energy, sigil rings, nari gels, revival debt, ranks, quests, events, factions and dangerous places.",
+  "t": "Se añadieron reglas para la energía del alma, los anillos de sigilo, los geles de nari, la deuda de reanimación, los rangos, las misiones, los eventos, las facciones y los lugares peligrosos."
+ },
+ "9f24b4a15ad7": {
+  "en": "[Stat Blocks](Stat%20Blocks)",
+  "t": "[Bloques de estadísticas](Stat%20Blocks)"
+ },
+ "a1a1dd91c6bf": {
+  "en": "[Soul Energy, Interfaces & Sigil Rings](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)",
+  "t": "[Energía del alma, interfaces y anillos de sigilo](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)"
+ },
+ "a34c7942af55": {
+  "en": "**Players drive.** Before a session, the players pick a **quest** from the board (or a rumor, a ruin, a spot on the map they want to explore) and tell the DM. The DM preps that.",
+  "t": "**Mandan los jugadores.** Antes de una sesión, los jugadores eligen una **misión** del tablón (o un rumor, una ruina, un punto del mapa que quieran explorar) y se lo dicen al DM. El DM prepara eso."
+ },
+ "a5cedcb9f15a": {
+  "en": "[Handouts](../Handouts)",
+  "t": "[Material](../Handouts)"
+ },
+ "aa7cfe4138eb": {
+  "en": "**Start and end at an embassy.** Every session starts at an embassy city (the hub is **Forway**) and should end with the party back at any embassy, or at least in a safe town. If they're still out in the wild when the session ends, the **quest deadline** keeps ticking (see [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)).",
+  "t": "**Se empieza y se termina en una embajada.** Toda sesión empieza en una ciudad con embajada (el centro es **Forway**) y debería terminar con el grupo de vuelta en cualquier embajada, o al menos en un pueblo seguro. Si siguen en tierras salvajes cuando acaba la sesión, el **plazo de la misión** sigue corriendo (ver [Muerte, reanimación y deuda](05%20-%20Death,%20Revival%20&%20Debt.md))."
+ },
+ "b04c10cf8c50": {
+  "en": "[Dangerous Places](08%20-%20Dangerous%20Places.md)",
+  "t": "[Lugares peligrosos](08%20-%20Dangerous%20Places.md)"
+ },
+ "b453f5e0c2fb": {
+  "en": "The big simplification: travel by circles",
+  "t": "La gran simplificación: viajar por círculos"
+ },
+ "b9f21f338f90": {
+  "en": "Whatever makes the game more fun — do it. Turn the circle knob, ignore a rule, invent a village. If you have a proposal, send a PR. If you run a game, tell us — we love pics!",
+  "t": "Lo que haga el juego más divertido — hazlo. Gira el ajuste de los círculos, ignora una regla, inventa una aldea. Si tienes una propuesta, manda un PR. Si diriges una partida, cuéntanoslo — ¡nos encantan las fotos!"
+ },
+ "bbfb401f87c2": {
+  "en": "Printable props and forms: quest board, contracts, badges, wanted posters, expedition reports",
+  "t": "Accesorios y formularios imprimibles: tablón de misiones, contratos, insignias, carteles de «se busca», informes de expedición"
+ },
+ "c130393d4cc1": {
+  "en": "Gels as consumables, bombs, black honey, equipment and prices",
+  "t": "Geles como consumibles, bombas, miel negra, equipo y precios"
+ },
+ "c13eb9d63982": {
+  "en": "**Open table.** There's a pool of players, not a fixed party. Anyone can propose a session; whoever signs up that day is the party (3–6 is ideal).",
+  "t": "**Mesa abierta.** Hay un grupo de jugadores, no un grupo fijo de personajes. Cualquiera puede proponer una sesión; quien se apunte ese día es el grupo (lo ideal son 3–6)."
+ },
+ "c9994e173436": {
+  "en": "**Rewards come from the world**: quest pay, loot, bounties, promotions, guild connections, gossip worth money.",
+  "t": "**Las recompensas salen del mundo**: pagas de misiones, botín, recompensas por cabezas, ascensos, contactos en gremios, chismes que valen dinero."
+ },
+ "d212f917b48f": {
+  "en": "For DMs",
+  "t": "Para los DMs"
+ },
+ "d42b176763a1": {
+  "en": "Changes from the original Alpha campaign",
+  "t": "Cambios respecto a la campaña Alpha original"
+ },
+ "dab20dbd2b99": {
+  "en": "Spoilers and hidden truths. **Players, stay out.**",
+  "t": "Spoilers y verdades ocultas. **Jugadores, fuera de aquí.**"
+ },
+ "db66b7db2fe2": {
+  "en": "[Adventurers](Adventurers)",
+  "t": "[Aventureros](Adventurers)"
+ },
+ "dd623f4fc593": {
+  "en": "[Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)",
+  "t": "[Muerte, reanimación y deuda](05%20-%20Death,%20Revival%20&%20Debt.md)"
+ },
+ "e1a61ee313d9": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)",
+  "t": "[El Trabajo Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)"
+ },
  "e5702a42d098": {
   "en": "File",
   "t": "Archivo"
+ },
+ "e9ff88f5350c": {
+  "en": "**Time is real-ish.** Track the in-world date. Two parties can't be in two places at the same in-world time; if timelines collide, the DM sorts it out generously.",
+  "t": "**El tiempo es más o menos real.** Lleva la cuenta de la fecha en el mundo. Dos grupos no pueden estar en dos sitios a la vez en el mismo momento del mundo; si las líneas temporales chocan, el DM lo resuelve con generosidad."
+ },
+ "eca9b63aadf9": {
+  "en": "Peoples, classes, backgrounds, ranks, money, starting debt",
+  "t": "Pueblos, clases, trasfondos, rangos, dinero, deuda inicial"
+ },
+ "f7a2635afc51": {
+  "en": "[Nari Gels & Gear](04%20-%20Nari%20Gels%20&%20Gear.md)",
+  "t": "[Geles de nari y equipo](04%20-%20Nari%20Gels%20&%20Gear.md)"
+ },
+ "fdc611e0f315": {
+  "en": "[Making an Adventurer](02%20-%20Making%20an%20Adventurer.md)",
+  "t": "[Crear un aventurero](02%20-%20Making%20an%20Adventurer.md)"
+ },
+ "fe54b5ff24ef": {
+  "en": "Revival window, embassy revival, revival debt, search parties",
+  "t": "Ventana de reanimación, reanimación en la embajada, deuda de reanimación, partidas de búsqueda"
  }
 }

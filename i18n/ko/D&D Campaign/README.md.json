@@ -1,14 +1,226 @@
 {
+ "0384b5035d96": {
+  "en": "Pace knob, daily shifts, watches, food, getting lost",
+  "t": "속도 다이얼, 하루의 시간대, 보초, 식량, 길 잃기"
+ },
+ "0580282bff4d": {
+  "en": "[Travel by Circles](01%20-%20Travel%20by%20Circles.md)",
+  "t": "[서클로 여행하기](01%20-%20Travel%20by%20Circles.md)"
+ },
+ "06174dc8d93f": {
+  "en": "The original one-shot, updated for circle travel",
+  "t": "서클 여행에 맞춰 고친 원래 단편 시나리오"
+ },
+ "09e9cf74d4fb": {
+  "en": "[Alpha One-Shot: Wagon Escort](Alpha%20One-Shot%20-%20Wagon%20Escort.md)",
+  "t": "[알파 단편 시나리오: 수레 호위](Alpha%20One-Shot%20-%20Wagon%20Escort.md)"
+ },
  "110ec66be1d2": {
   "en": "What's inside",
   "t": "내용"
+ },
+ "20dbadb44b5d": {
+  "en": "Event rolls per shift, regional encounter tables",
+  "t": "시간대별 이벤트 굴림, 지역별 조우 표"
+ },
+ "22c41f087f9d": {
+  "en": "Fauna and beast stat blocks gained regions, a few fixes (\"Monica\" → Monika), and new entries (Shapeshifter, Trunk People, Nari Worm, Flinga, Bruntos, White Roundies, Hash template), plus guards and bandits.",
+  "t": "동물과 마수 수치에는 지역이 생겼고, 몇 군데를 고쳤으며(‘Monica’ → 모니카), 새 항목(변신자, 트렁크 피플, 나리 웜, 플링가, 브룬토스, 화이트 라운디스, 해시 템플릿)과 함께 경비병과 산적이 더해졌다."
+ },
+ "243b22d2db0d": {
+  "en": "The pitch for players",
+  "t": "플레이어에게 하는 소개"
+ },
+ "33781944b6d4": {
+  "en": "The campaign **takes place in the world of the light novels but doesn't follow their story**. Canon characters are NPCs and rumors at most. By default it's the **1040s A.G.** — the DM decides the exact year and who's alive.",
+  "t": "캠페인은 **라이트 노벨의 세계에서 벌어지지만 그 이야기를 따라가지는 않는다**. 원작 캐릭터는 기껏해야 NPC나 소문으로 나온다. 기본 시대는 **1040년대 A.G.** — 정확한 연도와 누가 살아 있는지는 DM이 정한다."
+ },
+ "352ec54aed90": {
+  "en": "Quest rules, rewards, deadlines, sample quests by rank",
+  "t": "의뢰 규칙, 보수, 기한, 계급별 예시 의뢰"
+ },
+ "3926f4b6ad32": {
+  "en": "Beasts, fauna, people (guards, bandits)",
+  "t": "마수, 동물, 사람(경비병, 산적)"
+ },
+ "3a372342ece1": {
+  "en": "[Factions & Reputation](09%20-%20Factions%20&%20Reputation.md)",
+  "t": "[파벌과 평판](09%20-%20Factions%20&%20Reputation.md)"
+ },
+ "45f90c1109d3": {
+  "en": "Combat uses normal **initiative** (the Alpha text said turns go by AC).",
+  "t": "전투는 일반 **우선권**을 쓴다(알파 본문은 차례가 AC 순이라고 했다)."
+ },
+ "46f8b5ebc00a": {
+  "en": "You're a badge-carrying **Pearl adventurer** working out of a Forway **embassy**. Grab a quest off the board, sign the contract in blood, gather whoever's free tonight, and head out into a world full of walking killer trees, moody undead castles, bandits, bureaucracy and food. Climb from **Pearl to Sapphire**. Try not to die — and if you do, hope someone drags your body back before your soul dissolves, because Forway *will* revive you... and take half your pay until the debt is paid.",
+  "t": "당신은 신분패를 지닌 **펄 모험가**로, 포웨이 **대사관**을 거점으로 일한다. 게시판에서 의뢰를 떼어 내고, 피로 계약서에 서명하고, 오늘 밤 시간이 되는 사람을 모아, 걸어 다니는 살인 나무, 변덕스러운 언데드의 성, 산적, 관료주의, 그리고 음식으로 가득한 세계로 나서라. **펄에서 사파이어**까지 올라가라. 죽지 않도록 애쓰고 — 죽는다면, 영혼이 녹아 버리기 전에 누군가 몸을 끌고 와 주길 빌어라. 포웨이는 *반드시* 당신을 되살리니까… 그리고 빚을 다 갚을 때까지 보수의 절반을 가져간다."
+ },
+ "4c2e994f56ec": {
+  "en": "How a West March runs",
+  "t": "웨스트 마치는 이렇게 돌아간다"
  },
  "4df7a2e30816": {
   "en": "Files",
   "t": "파일"
  },
+ "5aec0323882b": {
+  "en": "**One shared world.** Whatever a party kills, maps, angers or befriends stays that way for everyone. Keep a shared **session log** and mark traveled and explored circles on a shared copy of the **travel map**.",
+  "t": "**하나의 공유 세계.** 한 일행이 죽이고, 지도로 그리고, 화나게 하고, 친구로 삼은 것은 모두에게 그대로 남는다. 공유 **세션 기록**을 남기고, 공유하는 **여행 지도** 사본에 지나간 서클과 탐험한 서클을 표시하라."
+ },
+ "5e443f1e5a75": {
+  "en": "Pre-gens cleaned up: **Hiromi** is now a Darfaries brawler (matching the lore), and his old interrogator kit moved to a new pre-gen, **Takeo**. Every sheet lists its people, interface and Soul Points.",
+  "t": "사전 제작 캐릭터 정리: **히로미**는 이제 (설정에 맞게) 다르파리에스 싸움꾼이고, 예전의 심문 도구 세트는 새 사전 제작 캐릭터 **다케오**에게 옮겼다. 모든 시트에 종족, 인터페이스, 소울 포인트가 적혀 있다."
+ },
+ "62a5f798d571": {
+  "en": "Vraki West March — DM Guide",
+  "t": "브라키 웨스트 마치 — DM 안내서"
+ },
+ "69a25b5f9d3b": {
+  "en": "A **West Marches** style D&D 5e campaign set in the world of #HusbandOutWorld. It grew out of the original Alpha wagon-escort one-shot (now kept here as the [Alpha One-Shot](Alpha%20One-Shot%20-%20Wagon%20Escort.md)), expanded into an open table.",
+  "t": "#HusbandOutWorld 세계를 무대로 한 **웨스트 마치** 방식의 D&D 5판 캠페인. 원래의 알파 수레 호위 단편 시나리오(여기에 [알파 단편 시나리오](Alpha%20One-Shot%20-%20Wagon%20Escort.md)로 보관해 두었다)에서 출발해, 누구나 참여하는 열린 테이블로 커졌다."
+ },
+ "69febbdba6cc": {
+  "en": "[Events & Encounters](07%20-%20Events%20&%20Encounters.md)",
+  "t": "[이벤트와 조우](07%20-%20Events%20&%20Encounters.md)"
+ },
+ "6d75e12ab6ce": {
+  "en": "[DM Secrets](DM%20Secrets.md)",
+  "t": "[DM의 비밀](DM%20Secrets.md)"
+ },
+ "70479df111d7": {
+  "en": "Reputation track and what factions want",
+  "t": "평판 기록과 파벌이 원하는 것"
+ },
+ "76b0d5ff20bd": {
+  "en": "[Quest Board](06%20-%20Quest%20Board.md)",
+  "t": "[의뢰 게시판](06%20-%20Quest%20Board.md)"
+ },
+ "78916cae64ba": {
+  "en": "Soul Points, nari stones, sigil rings, casting, miscasts",
+  "t": "소울 포인트, 나리석, 시질 링, 시전, 시전 실패"
+ },
+ "7ad96484b6f8": {
+  "en": "Travel uses **circles and a pace knob** instead of distances, Egua speeds and load math.",
+  "t": "여행은 거리, 에구아 속도, 짐 계산 대신 **서클과 속도 다이얼**을 쓴다."
+ },
+ "8801751c0222": {
+  "en": "Random escort event: bandits offer a cut to help rob the wagon; Deal roll, Heat, patrols, debrief and punishment",
+  "t": "호위 중 무작위 이벤트: 산적이 수레를 터는 걸 도우면 몫을 주겠다고 제안한다. 거래 굴림, 경계도, 순찰, 보고, 처벌"
+ },
+ "8b69dc373c04": {
+  "en": "The wagon escort is now **one quest type** (Cargo Protection) among many; the four daily **shifts** are kept.",
+  "t": "수레 호위는 이제 여러 가지 중 **의뢰 한 종류**(화물 보호)다. 하루 네 개의 **시간대**는 그대로 두었다."
+ },
+ "8ea9379ca099": {
+  "en": "Bahyum's Castle Mood, Hifuna exposure, desert, caverns, swamps",
+  "t": "바혐 성의 기분, 히푸나 노출, 사막, 동굴, 늪"
+ },
+ "916411d820c2": {
+  "en": "No kilometers, no Egua speeds, no load percentages. The [travel map](../Maps) has circles drawn along the routes connecting places. **Count the circles to the destination. Each circle represents 1, 2 or 3 days — the DM chooses** (Fast, Standard, Slow) to make the journey shorter or longer. Forway to Sanbi is 6 circles, so 6, 12 or 18 days. Every route's length is in the [Maps](../Maps) table, and the website's travel planner counts them for you. Details in [Travel by Circles](01%20-%20Travel%20by%20Circles.md).",
+  "t": "킬로미터도, 에구아 속도도, 짐 비율도 없다. [여행 지도](../Maps)에는 장소를 잇는 길을 따라 서클이 그려져 있다. **목적지까지 서클을 세라. 서클 하나는 1일, 2일, 3일 — DM이 고른다**(빠름, 보통, 느림). 그렇게 여정을 짧게도 길게도 만든다. 포웨이에서 산비까지는 6서클이니 6일, 12일, 18일. 모든 경로의 길이는 [지도](../Maps) 표에 있고, 웹사이트의 여행 계획이 대신 세어 준다. 자세한 건 [서클로 여행하기](01%20-%20Travel%20by%20Circles.md) 참고."
+ },
+ "9536be9abe2f": {
+  "en": "Pre-generated level 3 adventurers",
+  "t": "미리 만들어 둔 3레벨 모험가"
+ },
+ "99f71fd1e62e": {
+  "en": "Added rules for soul energy, sigil rings, nari gels, revival debt, ranks, quests, events, factions and dangerous places.",
+  "t": "영혼 에너지, 시질 링, 나리 젤, 부활 빚, 계급, 의뢰, 이벤트, 파벌, 위험한 장소에 대한 규칙을 더했다."
+ },
+ "9f24b4a15ad7": {
+  "en": "[Stat Blocks](Stat%20Blocks)",
+  "t": "[능력치](Stat%20Blocks)"
+ },
+ "a1a1dd91c6bf": {
+  "en": "[Soul Energy, Interfaces & Sigil Rings](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)",
+  "t": "[영혼 에너지, 인터페이스, 시질 링](03%20-%20Soul%20Energy,%20Interfaces%20&%20Sigil%20Rings.md)"
+ },
+ "a34c7942af55": {
+  "en": "**Players drive.** Before a session, the players pick a **quest** from the board (or a rumor, a ruin, a spot on the map they want to explore) and tell the DM. The DM preps that.",
+  "t": "**플레이어가 이끈다.** 세션 전에 플레이어가 게시판에서 **의뢰**를 고르고(또는 탐험하고 싶은 소문, 폐허, 지도상의 지점을 고르고) DM에게 알린다. DM은 그것을 준비한다."
+ },
+ "a5cedcb9f15a": {
+  "en": "[Handouts](../Handouts)",
+  "t": "[배포물](../Handouts)"
+ },
+ "aa7cfe4138eb": {
+  "en": "**Start and end at an embassy.** Every session starts at an embassy city (the hub is **Forway**) and should end with the party back at any embassy, or at least in a safe town. If they're still out in the wild when the session ends, the **quest deadline** keeps ticking (see [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)).",
+  "t": "**대사관에서 시작해 대사관에서 끝난다.** 모든 세션은 대사관이 있는 도시(거점은 **포웨이**)에서 시작하고, 일행이 어느 대사관이든, 적어도 안전한 마을로 돌아와 끝나야 한다. 세션이 끝날 때 아직 야생에 있다면 **의뢰 기한**은 계속 흐른다([죽음, 부활, 빚](05%20-%20Death,%20Revival%20&%20Debt.md) 참고)."
+ },
+ "b04c10cf8c50": {
+  "en": "[Dangerous Places](08%20-%20Dangerous%20Places.md)",
+  "t": "[위험한 장소](08%20-%20Dangerous%20Places.md)"
+ },
+ "b453f5e0c2fb": {
+  "en": "The big simplification: travel by circles",
+  "t": "가장 큰 단순화: 서클로 여행하기"
+ },
+ "b9f21f338f90": {
+  "en": "Whatever makes the game more fun — do it. Turn the circle knob, ignore a rule, invent a village. If you have a proposal, send a PR. If you run a game, tell us — we love pics!",
+  "t": "게임을 더 재밌게 만든다면 — 해라. 서클 다이얼을 돌리고, 규칙을 무시하고, 마을을 지어내라. 제안이 있으면 PR을 보내라. 게임을 돌렸다면 알려 달라 — 사진은 대환영이다!"
+ },
+ "bbfb401f87c2": {
+  "en": "Printable props and forms: quest board, contracts, badges, wanted posters, expedition reports",
+  "t": "인쇄할 수 있는 소품과 서식: 의뢰 게시판, 계약서, 신분패, 수배 전단, 원정 보고서"
+ },
+ "c130393d4cc1": {
+  "en": "Gels as consumables, bombs, black honey, equipment and prices",
+  "t": "소모품으로서의 젤, 폭탄, 검은 꿀, 장비와 가격"
+ },
+ "c13eb9d63982": {
+  "en": "**Open table.** There's a pool of players, not a fixed party. Anyone can propose a session; whoever signs up that day is the party (3–6 is ideal).",
+  "t": "**열린 테이블.** 고정된 일행이 아니라 플레이어 풀이 있다. 누구나 세션을 제안할 수 있고, 그날 신청한 사람이 그 회차의 일행이 된다(3–6명이 이상적)."
+ },
+ "c9994e173436": {
+  "en": "**Rewards come from the world**: quest pay, loot, bounties, promotions, guild connections, gossip worth money.",
+  "t": "**보상은 세계에서 나온다**: 의뢰 보수, 전리품, 현상금, 승급, 길드 인맥, 돈이 되는 소문."
+ },
+ "d212f917b48f": {
+  "en": "For DMs",
+  "t": "DM에게"
+ },
+ "d42b176763a1": {
+  "en": "Changes from the original Alpha campaign",
+  "t": "원래 알파 캠페인에서 바뀐 점"
+ },
+ "dab20dbd2b99": {
+  "en": "Spoilers and hidden truths. **Players, stay out.**",
+  "t": "스포일러와 숨겨진 진실. **플레이어는 보지 마라.**"
+ },
+ "db66b7db2fe2": {
+  "en": "[Adventurers](Adventurers)",
+  "t": "[모험가](Adventurers)"
+ },
+ "dd623f4fc593": {
+  "en": "[Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md)",
+  "t": "[죽음, 부활, 빚](05%20-%20Death,%20Revival%20&%20Debt.md)"
+ },
+ "e1a61ee313d9": {
+  "en": "[The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)",
+  "t": "[내부자 작업](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)"
+ },
  "e5702a42d098": {
   "en": "File",
   "t": "파일"
+ },
+ "e9ff88f5350c": {
+  "en": "**Time is real-ish.** Track the in-world date. Two parties can't be in two places at the same in-world time; if timelines collide, the DM sorts it out generously.",
+  "t": "**시간은 거의 실제처럼.** 세계 속 날짜를 기록하라. 두 일행이 세계 속 같은 시각에 두 장소에 있을 수는 없다. 시간선이 엉키면 DM이 너그럽게 정리한다."
+ },
+ "eca9b63aadf9": {
+  "en": "Peoples, classes, backgrounds, ranks, money, starting debt",
+  "t": "종족, 클래스, 배경, 계급, 돈, 시작 빚"
+ },
+ "f7a2635afc51": {
+  "en": "[Nari Gels & Gear](04%20-%20Nari%20Gels%20&%20Gear.md)",
+  "t": "[나리 젤과 장비](04%20-%20Nari%20Gels%20&%20Gear.md)"
+ },
+ "fdc611e0f315": {
+  "en": "[Making an Adventurer](02%20-%20Making%20an%20Adventurer.md)",
+  "t": "[모험가 만들기](02%20-%20Making%20an%20Adventurer.md)"
+ },
+ "fe54b5ff24ef": {
+  "en": "Revival window, embassy revival, revival debt, search parties",
+  "t": "부활 기한, 대사관 부활, 부활 빚, 수색대"
  }
 }
