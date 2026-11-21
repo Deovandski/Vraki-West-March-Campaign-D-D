@@ -31,6 +31,10 @@
   "en": "The website",
   "t": "웹사이트"
  },
+ "1c08d79c7d17": {
+  "en": "**Google Search Console:** `google0c08003a2b869d98.html` at the top of the repo proves to Google that the site is Deovandski's. The workflow copies it to the site by name. Never remove or change it: Google checks it again from time to time, and the site stops being verified without it.",
+  "t": "**Google Search Console:** 저장소 맨 위의 `google0c08003a2b869d98.html`는 이 사이트가 Deovandski의 것임을 Google에 증명한다. 워크플로가 이름을 지정해 사이트로 복사한다. 절대 지우거나 바꾸지 말 것: Google이 가끔 다시 확인하며, 이 파일이 없으면 사이트 인증이 풀린다."
+ },
  "20ff53c34759": {
   "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
   "t": "이 저장소는 GitHub Pages의 웹사이트이기도 하다: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"
