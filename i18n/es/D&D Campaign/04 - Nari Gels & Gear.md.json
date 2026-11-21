@@ -305,7 +305,7 @@
  },
  "4d2cbc953012": {
   "en": "Natural AC 12 + Dex, small tail",
-  "t": "AC natural 12 + Des, cola pequeña"
+  "t": "AC 12 natural + Des, cola pequeña"
  },
  "4e1ba4250de1": {
   "en": "20 pearls",
@@ -373,7 +373,7 @@
  },
  "652ed7ab4428": {
   "en": "Natural AC 14 + Dex",
-  "t": "AC natural 14 + Des"
+  "t": "AC 14 natural + Des"
  },
  "66c762d797d5": {
   "en": "Hooves (+10 ft speed), tail, overheating",
@@ -657,7 +657,7 @@
  },
  "bd88696efa1f": {
   "en": "Natural AC 16 + Dex; you can't speak; you look like a Cruro",
-  "t": "AC natural 16 + Des; no puedes hablar; pareces un cruro"
+  "t": "AC 16 natural + Des; no puedes hablar; pareces un cruro"
  },
  "bdf9525fa9f4": {
   "en": "Resistance to cold damage",

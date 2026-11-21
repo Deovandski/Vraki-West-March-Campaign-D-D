@@ -305,7 +305,7 @@
  },
  "4d2cbc953012": {
   "en": "Natural AC 12 + Dex, small tail",
-  "t": "فئة درع طبيعية 12 + البراعة، ذيل صغير"
+  "t": "AC 12 طبيعية + البراعة، ذيل صغير"
  },
  "4e1ba4250de1": {
   "en": "20 pearls",
@@ -373,7 +373,7 @@
  },
  "652ed7ab4428": {
   "en": "Natural AC 14 + Dex",
-  "t": "فئة درع طبيعية 14 + البراعة"
+  "t": "AC 14 طبيعية + البراعة"
  },
  "66c762d797d5": {
   "en": "Hooves (+10 ft speed), tail, overheating",
@@ -657,7 +657,7 @@
  },
  "bd88696efa1f": {
   "en": "Natural AC 16 + Dex; you can't speak; you look like a Cruro",
-  "t": "فئة درع طبيعية 16 + البراعة؛ لا تستطيع الكلام؛ تبدو ككرورو"
+  "t": "AC 16 طبيعية + البراعة؛ لا تستطيع الكلام؛ تبدو ككرورو"
  },
  "bdf9525fa9f4": {
   "en": "Resistance to cold damage",
