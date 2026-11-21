@@ -19,9 +19,21 @@
   "en": "FORWAY EMBASSY · AMETHYST",
   "t": "سفارة فورواي · أميثيست"
  },
+ "04fb3c3fb862": {
+  "en": "Vraki West March · Handout 13 · Bandit Note &amp; Signal Smoke Card",
+  "t": "Vraki West March · المطبوعة 13 · رسالة قطّاع الطرق وبطاقة دخان الإشارات"
+ },
  "0519cb40c0f5": {
   "en": "Cut out one per adventurer. The badge shows Soul Points to its bearer alone: pencil them in.<br>Max SP = proficiency bonus + Con modifier (min. 1) · +1 SP per long rest · replacement: 1 amethyst (plus questions)",
   "t": "قُصّ واحدة لكل مغامر. تُظهر البطاقة نقاط الروح لحاملها وحده: اكتبها بالقلم الرصاص.<br>أقصى SP = مكافأة الإتقان + معدِّل البنية (1 على الأقل) · +1 SP لكل استراحة طويلة · البديل: 1 أميثيست (مع أسئلة)"
+ },
+ "05a55fcc6f2e": {
+  "en": "<b>Debt:</b> 100 p × level; 50% of rewards until paid. Die again while owing → drafted into the Forway Guard.",
+  "t": "<b>الدين:</b> 100 p × المستوى؛ 50% من المكافآت حتى يُسدَّد. الموت مرة أخرى وأنت مدين ← التجنيد في حرس فورواي."
+ },
+ "05c5fe2c2f91": {
+  "en": "45 p",
+  "t": "45 p"
  },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
@@ -35,9 +47,21 @@
   "en": "<b>NOTICE:</b> the Long Bridge road \"toll\" is not legal. Report it; do not punish it.",
   "t": "<b>تنبيه:</b> «رسم مرور» طريق لونغ بريدج غير قانوني. أبلغوا عنه؛ لا تعاقبوا عليه بأنفسكم."
  },
+ "080d6d448e8d": {
+  "en": "Sayna Hearing",
+  "t": "ساينا هيرينغ"
+ },
  "08f5aa86ed9b": {
   "en": "PEARL QUEST · PEST CONTROL",
   "t": "مهمة بيرل · مكافحة الآفات"
+ },
+ "09373327ab59": {
+  "en": "600 p",
+  "t": "600 p"
+ },
+ "09ee381644a3": {
+  "en": "Reputation",
+  "t": "السمعة"
  },
  "0b2811f7cf03": {
   "en": "Wagon to Sanbi",
@@ -51,9 +75,21 @@
   "en": "The <b>reward</b> is paid at the destination embassy on presentation of a delivery receipt sealed by that embassy. Revival debt owed to Forway is deducted first.",
   "t": "تُدفع <b>المكافأة</b> في سفارة الوجهة عند تقديم إيصال تسليم مختوم من تلك السفارة. ويُخصم دين الإحياء المستحق لفورواي أولًا."
  },
+ "0d681c952235": {
+  "en": "Moacir",
+  "t": "مواسير"
+ },
+ "0db5e91f83ef": {
+  "en": "<b>Deadline</b> = round trip in days + 50%. Miss it and a search party comes (and takes your credit).",
+  "t": "<b>الموعد</b> = الذهاب والإياب بالأيام + 50%. فوّته فيأتي فريق بحث (ويأخذ فضلك)."
+ },
  "0e4c7896f44d": {
   "en": "Badge no.",
   "t": "رقم البطاقة"
+ },
+ "0ecf3cb976f1": {
+  "en": "60 p",
+  "t": "60 p"
  },
  "0f3503e615b0": {
   "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
@@ -95,6 +131,10 @@
   "en": "Body RESTORE, mass <i>healing word</i>",
   "t": "بودي ريستور، جماعي <i>كلمة الشفاء</i>"
  },
+ "1697b0ce80c1": {
+  "en": "Buys",
+  "t": "يشتري"
+ },
  "16cd5cb511ee": {
   "en": "Storm CREATE, bolt <i>lightning bolt</i> (III)",
   "t": "ستورم كرييت، صاعقة <i>صاعقة البرق</i> (III)"
@@ -103,13 +143,37 @@
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
   "t": "وقّع بالدم عند المكتب. غرامة الفشل: 10% من المكافأة. يُرسل فريق بحث حين يمضي الموعد."
  },
+ "170636f924e8": {
+  "en": "75 p",
+  "t": "75 p"
+ },
+ "173079dda58f": {
+  "en": "5e",
+  "t": "5e"
+ },
+ "176a06b353f5": {
+  "en": "Wozen Eyesight",
+  "t": "ووزن آيسايت"
+ },
  "178243b8d81f": {
   "en": "Vraki West March · Handout 11 · Revival Debt Certificate",
   "t": "Vraki West March · المطبوعة 11 · شهادة دين الإحياء"
  },
+ "179a77dc6934": {
+  "en": "<b>Ranks:</b> Pearl (lv 1–4) · Amethyst (5–8) · Aquamarine (9–12) · Sapphire (13+). Promotion needs a quest or the Adventurer Feast.",
+  "t": "<b>الرتب:</b> بيرل (المستوى 1–4) · أميثيست (5–8) · أكوامارين (9–12) · سافاير (13+). الترقية تحتاج مهمة أو وليمة المغامرين."
+ },
  "1849787a7bcc": {
   "en": "Water CREATE / ATTRACT <i>create water, shape water</i>",
   "t": "ووتر كرييت / أتراكت <i>خلق الماء، تشكيل الماء</i>"
+ },
+ "1918bb15ffcb": {
+  "en": "200 p",
+  "t": "200 p"
+ },
+ "1a49b0a5e631": {
+  "en": "Body Paralysis",
+  "t": "بودي باراليسيس"
  },
  "1a6ad10c01ca": {
   "en": "Before the mood reaches 6",
@@ -119,6 +183,10 @@
   "en": "Smoke bomb, intense",
   "t": "قنبلة دخان، كثيفة"
  },
+ "1cd30f160645": {
+  "en": "<b style=\"color:#a33\">Red</b> help · <b style=\"color:#18808f\">Cyan</b> complete · <b style=\"color:#3b7a33\">Green</b> safe · <b style=\"color:#9a7d10\">Yellow</b> retreat. Bandits fake them.",
+  "t": "<b style=\"color:#a33\">أحمر</b> النجدة · <b style=\"color:#18808f\">سماوي</b> اكتمل · <b style=\"color:#3b7a33\">أخضر</b> آمن · <b style=\"color:#9a7d10\">أصفر</b> تراجعوا. قطّاع الطرق يزيّفونها."
+ },
  "1d822b71ce22": {
   "en": "Pearl and up",
   "t": "بيرل فما فوق"
@@ -126,6 +194,18 @@
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "ناعس"
+ },
+ "1ee4c61881ac": {
+  "en": "<b>Get home:</b> start and end every session at an embassy.",
+  "t": "<b>عُد إلى البيت:</b> ابدأ كل جلسة وأنهِها في سفارة."
+ },
+ "20076adf52a3": {
+  "en": "<b>Max SP</b> = proficiency bonus + Con modifier (min. 1). +1 SP per long rest. 1 SP = 1 nari stone.",
+  "t": "<b>أقصى SP</b> = مكافأة الإتقان + معدِّل البنية (1 على الأقل). +1 SP لكل استراحة طويلة. 1 SP = حجر ناري واحد."
+ },
+ "21f5cc284cc4": {
+  "en": "<b>Dates:</b> <i>Moacir 12th, 1042 A.G.</i> (After Ganyrami). <b>Paulin 100th:</b> Adventurer Feast, promotions.",
+  "t": "<b>التواريخ:</b> <i>12 مواسير 1042 A.G.</i> (After Ganyrami). <b>100 باولين:</b> وليمة المغامرين، والترقيات."
  },
  "22274ba2f160": {
   "en": "Type",
@@ -138,6 +218,10 @@
  "237250d76870": {
   "en": "LOCAL WARNING · QUEST NOTICE",
   "t": "تحذير محلي · إعلان مهمة"
+ },
+ "24a5987f1512": {
+  "en": "Carry one of each. Throw high. Seen for miles. Misuse is punished.",
+  "t": "احمل واحدة من كل لون. ارمها عاليًا. تُرى على بعد أميال. وإساءة الاستخدام يُعاقب عليها."
  },
  "26095b19807c": {
   "en": "Vraki West March · Handout 04 · Blank Wanted Poster",
@@ -155,6 +239,10 @@
   "en": "WINGA MAIL POSTCARDS",
   "t": "بطاقات بريد الوينغا"
  },
+ "285661a894b6": {
+  "en": "70 p",
+  "t": "70 p"
+ },
  "28866724c2a6": {
   "en": "Cargo delivered",
   "t": "البضاعة المسلَّمة"
@@ -167,9 +255,17 @@
   "en": "UP TO 5 SAPPHIRES",
   "t": "حتى 5 سافاير"
  },
+ "29790443c5fc": {
+  "en": "Bartering between treaty citizens is illegal. Haggling is fine if the seller agrees. Toleridemians never agree.",
+  "t": "المقايضة بين مواطني المعاهدة غير قانونية. والمساومة مقبولة إن وافق البائع. والتوليريديميون لا يوافقون أبدًا."
+ },
  "29bda2b60459": {
   "en": "15 p",
   "t": "15 p"
+ },
+ "2a531556a7ea": {
+  "en": "<b>NOT SOLD HERE:</b> Sleep Inducer and Skin Melt above Tier I, Mind Enabler, Walking Heart stones, Nari Worm eggs, Koalin anything. Don't ask. We have to report you if you ask.",
+  "t": "<b>لا يُباع هنا:</b> سليب إندوسر وسكين ميلت فوق المستوى I، ومايند إينيبلر، وأحجار ووكينغ هارت، وبيض دودة ناري، وأي شيء من الكوالين. لا تسأل. إن سألت فعلينا أن نبلّغ عنك."
  },
  "2a5f1b665280": {
   "en": "CONTRACT OF<br>CARGO PROTECTION",
@@ -191,13 +287,29 @@
   "en": "QUEST BOARD",
   "t": "لوحة المهام"
  },
+ "2e26f93b987e": {
+  "en": "Slime Skin",
+  "t": "سلايم سكين"
+ },
  "2e641e2fe6ce": {
   "en": "If you've traveled between Forway and Sanbi, you've probably \"donated\" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.",
   "t": "إن سافرت بين فورواي وسانبي، فالأرجح أنك «تبرعت» لعصابته. تقول الشائعة إنه اندمج مع <b>ووكينغ هارت</b> وصار الآن قويًا كوحش من هيفونا. شركاؤه المعروفون: <b>فتيان بيغ غيوت</b> (ماركوس، وكلودوفيو، وويلسون). بطاقة العصابة: مربع أزرق عليه ووزن."
  },
+ "2eba5caefa7f": {
+  "en": "63 p",
+  "t": "63 p"
+ },
+ "2eec1089344c": {
+  "en": "an adult Egua, a guild, property",
+  "t": "إيغوا بالغة، نقابة، عقار"
+ },
  "2f29b4304770": {
   "en": "Murder",
   "t": "القتل"
+ },
+ "314cb40e31c0": {
+  "en": "Shade one circle per circle traveled. Then mark them on the shared travel map.",
+  "t": "ظلّل دائرة عن كل دائرة قُطعت. ثم علّمها على خريطة السفر المشتركة."
  },
  "3181089a33bb": {
   "en": "Declared value",
@@ -211,9 +323,29 @@
   "en": "Revival kit, two rings <i>revivify</i> (III)",
   "t": "عدة الإحياء، خاتمان <i>الإحياء</i> (III)"
  },
+ "3462c8a0a0b0": {
+  "en": "THE ROUTE",
+  "t": "الطريق"
+ },
+ "3492562255c7": {
+  "en": "Bring",
+  "t": "أحضروا"
+ },
+ "34a2f5438d19": {
+  "en": "LOOT &amp; PAY",
+  "t": "الغنائم والأجر"
+ },
  "34b16da8fcd5": {
   "en": "BY ORDER OF FORWAY LAW",
   "t": "بأمر قانون فورواي"
+ },
+ "34cabd10fe25": {
+  "en": "<b>Failure:</b> 10% of the reward as a penalty.",
+  "t": "<b>الفشل:</b> 10% من المكافأة غرامة."
+ },
+ "34e0c33c29e0": {
+  "en": "Smooth Gut",
+  "t": "سموث غات"
  },
  "3688d6166d1e": {
   "en": "p = pearl",
@@ -227,17 +359,53 @@
   "en": "World RESTORE, un-rust <i>mending</i>",
   "t": "وورلد ريستور، إزالة الصدأ <i>إصلاح</i>"
  },
+ "37b39045111b": {
+  "en": "YELLOW",
+  "t": "أصفر"
+ },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "المهلة"
+ },
+ "38362cbae18a": {
+  "en": "PARTY WANTED",
+  "t": "مطلوب فريق"
+ },
+ "38e3f66c3492": {
+  "en": "FOR THE DM: HAND THIS OVER WHEN THE INSIDE JOB OFFER ARRIVES (A KID WITH A NOTE AND A SMOKE BOMB)",
+  "t": "لمدير اللعبة: سلّمها حين يصل عرض العمل من الداخل (صبي يحمل رسالة وقنبلة دخان)"
+ },
+ "38e5c31f2119": {
+  "en": "Vraki West March · Handout 15 · Party Wanted (lounge sign-up)",
+  "t": "Vraki West March · المطبوعة 15 · مطلوب فريق (تسجيل الردهة)"
+ },
+ "38ee296b92a1": {
+  "en": "Vraki West March · Handout 12 · Soul Energy Shop Price List",
+  "t": "Vraki West March · المطبوعة 12 · قائمة أسعار متجر طاقة الروح"
  },
  "39083fb03746": {
   "en": "Sigil Rings · Tier II–IV",
   "t": "خواتم سيجيل · المستوى II–IV"
  },
+ "3942594c3ae3": {
+  "en": "Pin to the embassy lounge board. First to sign, first to go. (Players: this is how a West March session gets scheduled.)",
+  "t": "علّقها على لوحة ردهة السفارة. من يوقّع أولًا يذهب أولًا. (أيها اللاعبون: هكذا تُحدَّد جلسة ويست مارش.)"
+ },
+ "397bc992ef92": {
+  "en": "Calendar",
+  "t": "التقويم"
+ },
  "3a17e5d819a0": {
   "en": "Reward paid",
   "t": "المكافأة المدفوعة"
+ },
+ "3ad63bd7a371": {
+  "en": "Deep blue, non-explosive, is used only in Sanbi burials. <b>Bandits fake signals to set traps</b>, and promotion tests might too.<br>Signal smoke bomb: 15 pearls · 20-ft cloud for 1 minute.",
+  "t": "الأزرق الغامق، غير المتفجر، لا يُستخدم إلا في جنازات سانبي. <b>قطّاع الطرق يزيّفون الإشارات لنصب الفخاخ</b>، وقد تفعل ذلك اختبارات الترقية أيضًا.<br>قنبلة دخان الإشارة: 15 بيرل · سحابة 20 قدمًا لمدة دقيقة."
+ },
+ "3ad953131510": {
+  "en": "<span>Help</span>",
+  "t": "<span>النجدة</span>"
  },
  "3b5a5c60ff1e": {
   "en": "Stay indoors. The fog drinks souls. An Aquamarine quest is posted at the embassy.",
@@ -255,9 +423,17 @@
   "en": "Mud CREATE <i>grease</i>",
   "t": "ماد كرييت <i>الشحم</i>"
  },
+ "3dbf461c00cc": {
+  "en": "MONSTERS &amp; PEOPLE MET",
+  "t": "الوحوش والناس الذين قابلناهم"
+ },
  "3dca6774179a": {
   "en": "The route becomes impassable by the judgment of the nearest embassy (a Bahyum Rampage, a flooded Long Bridge, a Sand Worm season).",
   "t": "صار الطريق غير سالك بتقدير أقرب سفارة (هيجان باهيوم، أو غرق لونغ بريدج، أو موسم الساند وورم)."
+ },
+ "3dfd58a69681": {
+  "en": "People / class / level",
+  "t": "الشعب / الفئة / المستوى"
  },
  "3e6b78d7874f": {
   "en": "Player",
@@ -266,6 +442,10 @@
  "3fc196bf8c15": {
   "en": "Vraki West March · Handout 03 · Wanted: Kozaku Forway",
   "t": "Vraki West March · المطبوعة 03 · مطلوب: كوزاكو فورواي"
+ },
+ "3fc33ea462c5": {
+  "en": "<b>Window:</b> 3 days + 1 per level. Ice the body to double it.",
+  "t": "<b>النافذة:</b> 3 أيام + 1 لكل مستوى. ضع الجثة على الثلج لمضاعفتها."
  },
  "40cd343920b1": {
   "en": "PRINTED AT THE FORWAY EMBASSY",
@@ -303,6 +483,10 @@
   "en": "The <b>deadline</b> is the round trip plus half again. If the Contracted Adventurers are not back at an embassy by then, a search party is sent at their expense, and quest credit goes to the search party.",
   "t": "<b>الموعد</b> هو مدة الرحلة ذهابًا وإيابًا ونصفها. وإن لم يعد المغامرون المتعاقدون إلى سفارة بحلوله، يُرسل فريق بحث على نفقتهم، ويُنسب الفضل في المهمة إلى فريق البحث."
  },
+ "460a3ba917ac": {
+  "en": "a young Egua, a revival pot (6)",
+  "t": "إيغوا صغيرة، جرة إحياء (6)"
+ },
  "4672c25dda89": {
   "en": "TODAY'S<br>CASTLE<br>MOOD",
   "t": "مزاج<br>القلعة<br>اليوم"
@@ -314,6 +498,10 @@
  "469b9caf2d23": {
   "en": "Vraki West March · Handout 08 · Badge Cards",
   "t": "Vraki West March · المطبوعة 08 · بطاقات الهوية"
+ },
+ "475fd40384a8": {
+  "en": "<span>Safe / go ahead</span>",
+  "t": "<span>آمن / تقدّموا</span>"
  },
  "477c534c5d17": {
   "en": "FORWAY EMBASSY · PEARL",
@@ -331,9 +519,17 @@
   "en": "Posted on",
   "t": "تاريخ النشر"
  },
+ "497598d9f93d": {
+  "en": "50 p",
+  "t": "50 p"
+ },
  "4ad2ea48f3ca": {
   "en": "Summer",
   "t": "الصيف"
+ },
+ "4b72d4ac3130": {
+  "en": "Vraki West March · Handout 16 · Adventurer's Reference",
+  "t": "Vraki West March · المطبوعة 16 · مرجع المغامر"
  },
  "4d3c4fa23d71": {
   "en": "Season",
@@ -351,9 +547,17 @@
   "en": "Debt deducted",
   "t": "الدين المخصوم"
  },
+ "51840d92e83f": {
+  "en": "Signal Smoke",
+  "t": "دخان الإشارات"
+ },
  "519d6ceeb5d4": {
   "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
   "t": "زعيم البلو ووزنز · وُلد 931 A.G. · آخر مرة شوهد فيها: منذ زمن بعيد"
+ },
+ "51b8d9a02d8e": {
+  "en": "130 p",
+  "t": "130 p"
  },
  "52fddfc73573": {
   "en": "From the Embassy",
@@ -363,9 +567,21 @@
   "en": "Amethyst",
   "t": "أميثيست"
  },
+ "54b69ae959ca": {
+  "en": "<b>Embassy revival</b> always works: wake at 1 HP + 1 exhaustion.",
+  "t": "<b>الإحياء في السفارة</b> ينجح دائمًا: تستيقظ بـ1 HP + 1 إنهاك."
+ },
  "5537c275b709": {
   "en": "Vraki West March · Handout 06 · Cargo Protection Contract (front)",
   "t": "Vraki West March · المطبوعة 06 · عقد حماية البضائع (الوجه)"
+ },
+ "55d4d691e192": {
+  "en": "Water Breath",
+  "t": "ووتر بريث"
+ },
+ "5613cc957809": {
+  "en": "SP / stones",
+  "t": "SP / الأحجار"
  },
  "576e3d157962": {
   "en": "Quiet outside. Walking Skin patrol the halls.",
@@ -374,6 +590,10 @@
  "57d396409845": {
   "en": "PAID IN FULL on",
   "t": "سُدِّد بالكامل في"
+ },
+ "57f6c5865c54": {
+  "en": "25–350 p",
+  "t": "25–350 p"
  },
  "585cdf11ff4a": {
   "en": "Grumpy",
@@ -407,6 +627,14 @@
   "en": "EMBASSY BADGES",
   "t": "بطاقات السفارة"
  },
+ "5b66a344fd54": {
+  "en": "Food: 1 ration a day (~2–5 p). Winga mail: 1 pearl, about 1 day per 3 circles.",
+  "t": "الطعام: حصة واحدة يوميًا (~2–5 p). بريد الوينغا: 1 بيرل، نحو يوم لكل 3 دوائر."
+ },
+ "5bda726432a9": {
+  "en": "500 gp",
+  "t": "500 gp"
+ },
  "5bf0ab82de86": {
   "en": "Shock CREATE, touch <i>shocking grasp</i>",
   "t": "شوك كرييت، لمسة <i>قبضة صاعقة</i>"
@@ -439,9 +667,17 @@
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward.",
   "t": "وقّع بالدم عند المكتب. غرامة الفشل: 10% من المكافأة."
  },
+ "60cdc4308e4b": {
+  "en": "Monika Sight",
+  "t": "مونيكا سايت"
+ },
  "6139707159a1": {
   "en": "5 amethysts per party, paid on delivery",
   "t": "5 أميثيست لكل فريق، تُدفع عند التسليم"
+ },
+ "616740abec5b": {
+  "en": "Filed with the embassy clerk after every expedition · West March: post it where every player can read it",
+  "t": "يُسلَّم إلى كاتب السفارة بعد كل بعثة · ويست مارش: علّقه حيث يستطيع كل اللاعبين قراءته"
  },
  "61c2fd080fa6": {
   "en": "at the",
@@ -455,9 +691,17 @@
   "en": "Misuse of official signal colors",
   "t": "إساءة استخدام ألوان الإشارات الرسمية"
  },
+ "6428b24391d3": {
+  "en": "Soul Points &amp; Tiers",
+  "t": "نقاط الروح والمستويات"
+ },
  "65283b7e6485": {
   "en": "Water-reactive nari bomb",
   "t": "قنبلة ناري تتفاعل مع الماء"
+ },
+ "65aacdae9a47": {
+  "en": "Time Quicken",
+  "t": "تايم كويكن"
  },
  "66583b5acbd0": {
   "en": "Embassy medic",
@@ -475,9 +719,21 @@
   "en": "Sigil Rings · Tier I",
   "t": "خواتم سيجيل · المستوى I"
  },
+ "68012185b59b": {
+  "en": "FORWAY-OFFICIAL SIGNAL SMOKE",
+  "t": "دخان الإشارات الرسمي لفورواي"
+ },
+ "68aa0e42c796": {
+  "en": "Each day: <b>Graveyard · Morning · Afternoon · Night</b>. Each shift, pick one: travel, watch, rest, hunt, scout, repair, prep, socialize.",
+  "t": "كل يوم: <b>آخر الليل · الصباح · بعد الظهر · الليل</b>. في كل نوبة، اختر واحدًا: السفر، أو الحراسة، أو الراحة، أو الصيد، أو الاستطلاع، أو الإصلاح، أو التحضير، أو التواصل."
+ },
  "68d5ba89ba26": {
   "en": "Vraki West March · Handout 10 · Today's Castle Mood",
   "t": "Vraki West March · المطبوعة 10 · مزاج القلعة اليوم"
+ },
+ "69aa2a497efb": {
+  "en": "Winga Skin",
+  "t": "وينغا سكين"
  },
  "6ac090254da1": {
   "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
@@ -490,6 +746,10 @@
  "6eee0f8e710b": {
   "en": "Required by Forway Law on the back of every contract",
   "t": "يفرضها قانون فورواي على ظهر كل عقد"
+ },
+ "6ffc6225d14d": {
+  "en": "Pace:",
+  "t": "الإيقاع:"
  },
  "7010c4292cd3": {
   "en": "30 pearls + all the Soreno you can eat (please don't)",
@@ -507,6 +767,14 @@
   "en": "Badge rank",
   "t": "رتبة البطاقة"
  },
+ "7460f7e62ad7": {
+  "en": "Bleed Out",
+  "t": "بليد آوت"
+ },
+ "74d672f01df8": {
+  "en": "Winga Flight",
+  "t": "وينغا فلايت"
+ },
  "75b8c6683770": {
   "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
   "t": "خذ مهام رتبتك أو أدنى · رتبة أعلى إن كان أحد أعضاء الفريق يحملها · دين الإحياء يأخذ نسبته 50% أولًا · نشر مهمة يكلّف 1 أميثيست"
@@ -518,6 +786,14 @@
  "771c54e57c5a": {
   "en": "REWARD: ____________",
   "t": "المكافأة: ____________"
+ },
+ "782a85b3188c": {
+  "en": "Skin Melt <i>Tier I only; a laxative</i>",
+  "t": "سكين ميلت <i>المستوى I فقط؛ مسهِّل</i>"
+ },
+ "78abe057db46": {
+  "en": "Count the circles on the travel map. <b>Fast</b> 1 day per circle · <b>Standard</b> 2 · <b>Slow</b> 3.",
+  "t": "عُدّ الدوائر على خريطة السفر. <b>سريعة</b> يوم لكل دائرة · <b>عادية</b> 2 · <b>بطيئة</b> 3."
  },
  "78ba230bb869": {
   "en": "The Poster <b>lied about the danger</b> of the route or the value of the cargo.",
@@ -543,9 +819,17 @@
   "en": "Walking Skin packs raiding nearby farms. Bar your doors. Something big is awake.",
   "t": "قطعان الووكينغ سكين تغير على المزارع القريبة. أوصدوا أبوابكم. شيء كبير مستيقظ."
  },
+ "79d6eac7ee3d": {
+  "en": "Wozen Smell",
+  "t": "ووزن سميل"
+ },
  "7a070d013210": {
   "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
   "t": "رافق عربة تاجر من فورواي إلى سانبي عبر طريق لونغ بريدج. البلو ووزنز «يفرضون ضرائب» على هذا الطريق؛ والتاجر يفضّل ألا يتبرع. تُعطى تفاصيل البضاعة عند التوقيع."
+ },
+ "7a2be61be80e": {
+  "en": "Sore Mind",
+  "t": "سور مايند"
  },
  "7a4bb4d9147a": {
   "en": "Gravity REPEL <i>thunderwave (force)</i>",
@@ -558,6 +842,14 @@
  "7c0d177ad981": {
   "en": "<b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.",
   "t": "<b>الفورداي</b> يوم راحة. السفارات مغلقة أمام العامة. ويمكن مع ذلك تسليم الجثث من الباب الجانبي."
+ },
+ "7c5687ee24a6": {
+  "en": "Water Walk",
+  "t": "ووتر ووك"
+ },
+ "7cf1dbee60e4": {
+  "en": "Standard (2)",
+  "t": "عادية (2)"
  },
  "7d97ee8bf4eb": {
   "en": "Bahyum: Mood Rising",
@@ -587,6 +879,10 @@
   "en": "Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.",
   "t": "استوطنت السورينو صومعة حبوب في فورواي وتقضم مخزون الموسم. أخرجها قبل ألا يبقى ما يُحرس. أحضر أكياسك."
  },
+ "81435cd83dd4": {
+  "en": "Text &amp; layout AI-assisted · World © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "النص والتخطيط بمساعدة الذكاء الاصطناعي · العالم © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
  "8220146365f2": {
   "en": "Black honey (jar)",
   "t": "عسل أسود (جرّة)"
@@ -594,6 +890,10 @@
  "82c47debad95": {
   "en": "Last seen",
   "t": "آخر مرة شوهد فيها"
+ },
+ "83deb1eadca6": {
+  "en": "<b>Week (5 days):</b> Freeday · Tollday · Sannday · Gannday · <b>Forrday</b> (rest; embassies closed).",
+  "t": "<b>الأسبوع (5 أيام):</b> فريداي · تولداي · سانداي · غانداي · <b>فورداي</b> (راحة؛ السفارات مغلقة)."
  },
  "84610a41263d": {
   "en": "<b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.",
@@ -615,6 +915,14 @@
   "en": "Welcome back. Forway is glad you're alive. Forway would like to discuss the bill.",
   "t": "مرحبًا بعودتك. فورواي سعيدة بأنك حي. وفورواي تودّ مناقشة الفاتورة."
  },
+ "854ac7fb2d47": {
+  "en": "GREEN",
+  "t": "أخضر"
+ },
+ "85d0b6cf504f": {
+  "en": "Rank needed",
+  "t": "الرتبة المطلوبة"
+ },
  "86486d28d55e": {
   "en": "PAID",
   "t": "مدفوع"
@@ -627,6 +935,10 @@
   "en": "NULLIFICATION CLAUSES",
   "t": "بنود الإبطال"
  },
+ "88b88560a923": {
+  "en": "Everything a Pearl needs to know that the embassy won't tell you twice",
+  "t": "كل ما يحتاج البيرل إلى معرفته ولن تقوله لك السفارة مرتين"
+ },
  "89595df30548": {
   "en": "Paid to Forway",
   "t": "المدفوع لفورواي"
@@ -635,9 +947,21 @@
   "en": "World DESTROY <i>shatter</i>",
   "t": "وورلد ديستروي <i>التحطيم</i>"
  },
+ "898fe0329542": {
+  "en": "Time Slower",
+  "t": "تايم سلوَر"
+ },
+ "89953a0e7395": {
+  "en": "220 p",
+  "t": "220 p"
+ },
  "89b61c29ca4e": {
   "en": "Harm done to the cargo, passengers or Eguas <b>by the Contracted Adventurers</b> is a breach of contract and a crime under Forway Law.",
   "t": "الضرر الذي يلحقه <b>المغامرون المتعاقدون</b> بالبضاعة أو الركاب أو الإيغوا إخلال بالعقد وجريمة بموجب قانون فورواي."
+ },
+ "8ae31954aca3": {
+  "en": "Smooth Skin",
+  "t": "سموث سكين"
  },
  "8ae4cb7f9fd5": {
   "en": "Light CREATE <i>light</i>",
@@ -646,6 +970,10 @@
  "8ae5de71fd4b": {
   "en": "Circles",
   "t": "الدوائر"
+ },
+ "8b7b2e21a7f3": {
+  "en": "Sleep Inducer <i>Tier I only</i>",
+  "t": "سليب إندوسر <i>المستوى I فقط</i>"
  },
  "8b93e371e76e": {
   "en": "Cargo",
@@ -658,6 +986,10 @@
  "8cd7920b835a": {
   "en": "Tier",
   "t": "المستوى"
+ },
+ "8d787e2c05f8": {
+  "en": "REPUTATION CHANGES (−3 to +3)",
+  "t": "تغيّرات السمعة (−3 إلى +3)"
  },
  "8e52bfa426ce": {
   "en": "Amethyst (or a Pearl party led by one)",
@@ -678,6 +1010,26 @@
  "92516a005ed9": {
   "en": "A <b>Kingdom Alert</b> or an <b>Emergency</b> is called along the route. The deadline is suspended until it ends.",
   "t": "أُعلن <b>إنذار مملكة</b> أو <b>حالة طوارئ</b> على طول الطريق. ويُعلَّق الموعد حتى انتهائها."
+ },
+ "926730d5bcec": {
+  "en": "Paulin",
+  "t": "باولين"
+ },
+ "928ff1d001ae": {
+  "en": "Quests &amp; Deadlines",
+  "t": "المهام والمواعيد"
+ },
+ "936f7803f5a7": {
+  "en": "Death &amp; Revival",
+  "t": "الموت والإحياء"
+ },
+ "9395015405a5": {
+  "en": "Fast (1 day/circle)",
+  "t": "سريعة (يوم لكل دائرة)"
+ },
+ "94ed1287f29c": {
+  "en": "a meal and a beer (~5), a hostel bed (~5)",
+  "t": "وجبة وجعة (~5)، سرير في نُزل (~5)"
  },
  "95ab1faed512": {
   "en": "1 sa",
@@ -719,13 +1071,49 @@
   "en": "Name · Place · Guild",
   "t": "الاسم · المكان · النقابة"
  },
+ "9bff89744b12": {
+  "en": "Returned to",
+  "t": "العودة إلى"
+ },
+ "9c07984e6b64": {
+  "en": "RED",
+  "t": "أحمر"
+ },
  "9c2adccbb599": {
   "en": "Posted by",
   "t": "نشرها"
  },
+ "9e6e6019d9bb": {
+  "en": "155 p",
+  "t": "155 p"
+ },
+ "9ecbe1189420": {
+  "en": "Tier 0 = a cantrip ring's cost per cast.",
+  "t": "المستوى 0 = تكلفة كل إلقاء لخاتم تعويذة بسيطة."
+ },
+ "9f0645aec818": {
+  "en": "blank scrap: write your own go-between's note",
+  "t": "قصاصة فارغة: اكتب رسالة وسيطك الخاص"
+ },
  "9f0bf42bbcfe": {
   "en": "Adventurers' speaker",
   "t": "المتحدث باسم المغامرين"
+ },
+ "9f2d147d9639": {
+  "en": "Slow (3)",
+  "t": "بطيئة (3)"
+ },
+ "a0759af26c22": {
+  "en": "5 gp",
+  "t": "5 gp"
+ },
+ "a11a3af54446": {
+  "en": "Cruro Skin",
+  "t": "كرورو سكين"
+ },
+ "a18e240ac39c": {
+  "en": "Session (real date)",
+  "t": "الجلسة (التاريخ الحقيقي)"
  },
  "a4f7be073854": {
   "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
@@ -734,6 +1122,10 @@
  "a5492fb86200": {
   "en": "Property of Forway · blood-registered to its bearer · do not lend (Missing Person quests excepted)",
   "t": "ملك لفورواي · مسجّلة بالدم باسم حاملها · لا تُعار (إلا في مهام الشخص المفقود)"
+ },
+ "a5c9371a8eec": {
+  "en": "55 p",
+  "t": "55 p"
  },
  "a70e48bd0367": {
   "en": "SAMPLE ISSUE",
@@ -755,6 +1147,10 @@
   "en": "3 aq",
   "t": "3 aq"
  },
+ "aa813860b56e": {
+  "en": "Walking Dead",
+  "t": "ووكينغ ديد"
+ },
  "aaa3a908692f": {
   "en": "aq = aquamarine (500 p)",
   "t": "aq = أكوامارين (500 p)"
@@ -763,9 +1159,21 @@
   "en": "Robbing contracted cargo",
   "t": "سرقة بضاعة متعاقد عليها"
  },
+ "aaedfd2b20cf": {
+  "en": "Places visited or discovered",
+  "t": "الأماكن التي زُرت أو اكتُشفت"
+ },
+ "ab9cd966dd42": {
+  "en": "<b>Fine grade</b> (inject with a syringe; works at once, no pain): double price.<br><b>Dose:</b> 1 scoop Tier I · 2 Tier II · 3 Tier III · whole jar Tier IV.",
+  "t": "<b>الدرجة الناعمة</b> (تُحقن بإبرة؛ تعمل فورًا، بلا ألم): ضِعف السعر.<br><b>الجرعة:</b> مغرفة للمستوى I · 2 للمستوى II · 3 للمستوى III · الجرة كلها للمستوى IV."
+ },
  "abf369643984": {
   "en": "5 am",
   "t": "5 am"
+ },
+ "ac39a8a9ee8f": {
+  "en": "THE PARTY",
+  "t": "الفريق"
  },
  "ac52f67906ad": {
   "en": "Ice CREATE, frost ball <i>ray of frost</i>",
@@ -775,13 +1183,37 @@
   "en": "Fleeing revival debt",
   "t": "الهروب من دين الإحياء"
  },
+ "ad2c363b3e7a": {
+  "en": "ADVENTURER'S REFERENCE",
+  "t": "مرجع المغامر"
+ },
  "ad6542159a94": {
   "en": "WINGA MAIL",
   "t": "بريد الوينغا"
  },
+ "adae98ab5ed8": {
+  "en": "50 gp",
+  "t": "50 gp"
+ },
+ "aea0b4da20b0": {
+  "en": "Leaving from the",
+  "t": "الانطلاق من سفارة"
+ },
+ "af927d6ffcee": {
+  "en": "To the ones guarding the wagon —<br><br> Two nights on, where the road goes narrow by the bridge, look for <u>green</u> smoke.<br> Put up a fight. Take a few bruises. Run off.<br> We take the wagon. You get <u>thirty parts in a hundred</u> of what's in it, paid in balls at the drop.<br><br> Nod to the kid if you're in.<br> Burn this.<br><br> <span style=\"padding-left:1.8in\">— a friend of the road</span>",
+  "t": "إلى من يحرسون العربة —<br><br> بعد ليلتين، حيث يضيق الطريق قرب الجسر، ابحثوا عن دخان <u>أخضر</u>.<br> قاوموا قليلًا. تلقّوا بعض الكدمات. ثم اهربوا.<br> نأخذ نحن العربة. وتأخذون أنتم <u>ثلاثين جزءًا من كل مئة</u> مما فيها، تُدفع بالكرات عند نقطة التسليم.<br><br> أومئوا للصبي إن كنتم معنا.<br> احرقوا هذه.<br><br> <span style=\"padding-left:1.8in\">— صديق للطريق</span>"
+ },
+ "b02fe15abd29": {
+  "en": "Where we're going / quest",
+  "t": "إلى أين نذهب / المهمة"
+ },
  "b1e9c61f07f2": {
   "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
   "t": "<b>للبيع:</b> بيكر من العظم-الخشب، بالكاد مقضوم. 8 بيرل."
+ },
+ "b340e1534631": {
+  "en": "<b>Monnalow</b> (early evening): the captain shouts the news and new quests.",
+  "t": "<b>مونالو</b> (أول المساء): يصيح القائد بالأخبار والمهام الجديدة."
  },
  "b3b4d9f426af": {
   "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
@@ -790,6 +1222,14 @@
  "b48145507a19": {
   "en": "Should you <b>die again while you still owe</b>, Forway drafts you into the <b>Forway Guard</b>, unless your companions pay the full remaining debt plus the new debt on the spot.",
   "t": "إن <b>متّ مرة أخرى وأنت لا تزال مدينًا</b>، تجنّدك فورواي في <b>حرس فورواي</b>، ما لم يدفع رفاقك في الحال كامل الدين المتبقي والدين الجديد."
+ },
+ "b4929305944f": {
+  "en": "Adventurer (Name · Place · Guild)",
+  "t": "المغامر (الاسم · المكان · النقابة)"
+ },
+ "b53144e1f740": {
+  "en": "3–6 adventurers is ideal. Ice for bodies recommended.",
+  "t": "المثالي 3–6 مغامرين. يُنصح بالثلج للجثث."
  },
  "b594d034ad81": {
   "en": "2 am",
@@ -815,9 +1255,17 @@
   "en": "This contract is <b>void</b>, with no penalty to either party, if:",
   "t": "يُعدّ هذا العقد <b>باطلًا</b>، دون غرامة على أي طرف، إذا:"
  },
+ "b8e84532eec3": {
+  "en": "Adrian",
+  "t": "أدريان"
+ },
  "b95d40e02b9d": {
   "en": "clerk",
   "t": "الكاتب"
+ },
+ "b962e7e58e83": {
+  "en": "65 p",
+  "t": "65 p"
  },
  "ba8a5cbb0fb1": {
   "en": "Fleeing this debt makes you <b>wanted</b>. Bounty quests will carry your face.",
@@ -830,6 +1278,10 @@
  "bb2e56d3e943": {
   "en": "Guild",
   "t": "النقابة"
+ },
+ "bd598ee8b5f7": {
+  "en": "Wooly Skin <i>very fashionable</i>",
+  "t": "وولي سكين <i>عصري جدًا</i>"
  },
  "bd8d428fa7a3": {
   "en": "Stragglers on the plains. Travel in groups.",
@@ -847,6 +1299,10 @@
   "en": "Weekly printout · read aloud at Monnalow",
   "t": "نشرة أسبوعية · تُقرأ بصوت عالٍ عند مونالو"
  },
+ "bf8961b5053c": {
+  "en": "Asa",
+  "t": "آسا"
+ },
  "bfd85a0d0f86": {
   "en": "Storm CREATE, heart jolt <i>spare the dying</i>",
   "t": "ستورم كرييت، صدمة للقلب <i>إنقاذ المحتضر</i>"
@@ -854,6 +1310,10 @@
  "bffdcf140e1e": {
   "en": "Breach of contract",
   "t": "الإخلال بالعقد"
+ },
+ "c013168836fe": {
+  "en": "Fake Skin / Eye <i>priced by the part</i>",
+  "t": "فيك سكين / آي <i>السعر حسب الجزء</i>"
  },
  "c3c3329f3c3d": {
   "en": "3 days + 1 per level = ______ days □ body was iced (window doubled)",
@@ -867,6 +1327,10 @@
   "en": "□ intact □ damaged □ partial □ not delivered",
   "t": "□ سليمة □ متضررة □ جزئية □ لم تُسلَّم"
  },
+ "c5e57d24af0f": {
+  "en": "Poisons · sold to badge holders",
+  "t": "السموم · تُباع لحاملي البطاقات"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "من"
@@ -878,6 +1342,10 @@
  "c7070eca4304": {
   "en": "Received by",
   "t": "استلمها"
+ },
+ "c82922c73f8a": {
+  "en": "Quest or goal",
+  "t": "المهمة أو الهدف"
  },
  "c88bf0d64ddf": {
   "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
@@ -907,6 +1375,14 @@
   "en": "Rank",
   "t": "الرتبة"
  },
+ "ca7ab66f242c": {
+  "en": "1 sp",
+  "t": "1 sp"
+ },
+ "caf728f9c169": {
+  "en": "Nari Refresher",
+  "t": "ناري ريفريشر"
+ },
  "cbbd4f346aae": {
   "en": "THIS CONTRACT IS NOT NULLIFIED BY",
   "t": "لا يُبطل هذا العقدَ"
@@ -914,6 +1390,10 @@
  "cca85eac3e04": {
   "en": "Gravity ATTRACT, self <i>levitate / spider climb</i>",
   "t": "غرافيتي أتراكت، الذات <i>التحليق / تسلق العنكبوت</i>"
+ },
+ "ce28bfedae16": {
+  "en": "DEATHS, REVIVALS &amp; DEBTS",
+  "t": "الوفيات والإحياء والديون"
  },
  "ce8e4eaf77b0": {
   "en": "DELIVERY RECEIPT (destination embassy)",
@@ -926,6 +1406,14 @@
  "cf07834570cc": {
   "en": "Body RESTORE <i>cure wounds</i>",
   "t": "بودي ريستور <i>علاج الجروح</i>"
+ },
+ "cf77414f59d8": {
+  "en": "on",
+  "t": "في"
+ },
+ "cfdecd0008b8": {
+  "en": "Came back?",
+  "t": "عاد؟"
  },
  "d1b5b9114b00": {
   "en": "Spring",
@@ -955,9 +1443,17 @@
   "en": "For letters home, warnings ahead, and double-crosses. Cut along the dashed lines.",
   "t": "للرسائل إلى البيت، والتحذيرات المسبقة، والخيانات. قُصّ على طول الخطوط المتقطعة."
  },
+ "d7b43f2f8d2f": {
+  "en": "WHERE WE WANT TO GO NEXT",
+  "t": "إلى أين نريد الذهاب بعد ذلك"
+ },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "الكرة"
+ },
+ "d88ffab5eda6": {
+  "en": "Real-world session: date &amp; time",
+  "t": "الجلسة الحقيقية: التاريخ والوقت"
  },
  "d9daeebbcea6": {
   "en": "HAVE YOU SEEN<br>THIS MAN?",
@@ -970,6 +1466,10 @@
  "daa6158bcea9": {
   "en": "Gravity DECREASE, self <i>feather fall / jump</i>",
   "t": "غرافيتي ديكريس، الذات <i>السقوط كالريشة / القفز</i>"
+ },
+ "db4d33ed5b1f": {
+  "en": "a nari stone, a map, a badge, most rings",
+  "t": "حجر ناري، خريطة، بطاقة، معظم الخواتم"
  },
  "db86f5d8e66f": {
   "en": "cut out this marker, or use a paperclip:",
@@ -1031,6 +1531,30 @@
   "en": "20 p · 5 p",
   "t": "20 p · 5 p"
  },
+ "e91bc1aae510": {
+  "en": "<b>Blank rings</b> are sold only to courtroom scientists and Aquamarine-rank adventurers (show your badge). Rings carved to order.",
+  "t": "<b>الخواتم الفارغة</b> لا تُباع إلا لعلماء البلاط ولمغامري رتبة أكوامارين (أظهر بطاقتك). وتُنقش الخواتم حسب الطلب."
+ },
+ "eaecd21a4ce8": {
+  "en": "<span>Retreat</span>",
+  "t": "<span>تراجعوا</span>"
+ },
+ "eb238ddf5d9e": {
+  "en": "CYAN",
+  "t": "سماوي"
+ },
+ "eb6c5eb05452": {
+  "en": "EXPEDITION REPORT",
+  "t": "تقرير البعثة"
+ },
+ "ebfe6e1ae464": {
+  "en": "40 p",
+  "t": "40 p"
+ },
+ "ebff0456f35b": {
+  "en": "Arm Light",
+  "t": "آرم لايت"
+ },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
   "t": "1 أكوامارين"
@@ -1042,6 +1566,10 @@
  "edb8957aad32": {
   "en": "Aquamarine",
   "t": "أكوامارين"
+ },
+ "edd0fea6d379": {
+  "en": "Days = circles × 1, 2 or 3 (the DM chooses)",
+  "t": "الأيام = الدوائر × 1 أو 2 أو 3 (يختار مدير اللعبة)"
  },
  "ef30a8d69ce2": {
   "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
@@ -1067,9 +1595,17 @@
   "en": "Quiet. The doors stand open. Historians, this is your day.",
   "t": "هادئ. الأبواب مفتوحة. أيها المؤرخون، هذا يومكم."
  },
+ "f3bdfb86cccc": {
+  "en": "Left from",
+  "t": "الانطلاق من"
+ },
  "f3d306caeafa": {
   "en": "Sigil rings · nari gels · stones &amp; bombs · Forway prices (other cities charge more for distance)",
   "t": "خواتم سيجيل · جل ناري · أحجار وقنابل · أسعار فورواي (المدن الأخرى تتقاضى أكثر بسبب المسافة)"
+ },
+ "f466616ff023": {
+  "en": "Money (balls)",
+  "t": "المال (الكرات)"
  },
  "f4d19ca4b670": {
   "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
@@ -1079,6 +1615,10 @@
   "en": "The man himself, breathing",
   "t": "الرجل نفسه، يتنفس"
  },
+ "f5ae3cd136ba": {
+  "en": "Vraki West March · Handout 14 · Expedition Report",
+  "t": "Vraki West March · المطبوعة 14 · تقرير البعثة"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "إلى"
@@ -1087,9 +1627,17 @@
   "en": "FORWAY EMBASSY · AQUAMARINE",
   "t": "سفارة فورواي · أكوامارين"
  },
+ "f85de68704ba": {
+  "en": "RUMORS HEARD · UNFINISHED BUSINESS · WARNINGS FOR THE NEXT PARTY",
+  "t": "الشائعات المسموعة · الأمور غير المنتهية · تحذيرات للفريق التالي"
+ },
  "f88b2a35f578": {
   "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
   "t": "مقابل معلومات مؤكدة عن مكانه، تدفعها أي سفارة لفورواي"
+ },
+ "f94a2bae4aa6": {
+  "en": "1 Sapphire",
+  "t": "1 سافاير"
  },
  "f95ed6f5d34d": {
   "en": "Furious",
@@ -1103,6 +1651,10 @@
   "en": "Soreno Scourge",
   "t": "وباء السورينو"
  },
+ "fa6cc2a8caa7": {
+  "en": "<span>Conquered / complete</span>",
+  "t": "<span>تمّت السيطرة / اكتمل</span>"
+ },
  "fbe3b46cbe70": {
   "en": "Embassy",
   "t": "السفارة"
@@ -1110,6 +1662,10 @@
  "fc579a92ff12": {
   "en": "Round trip + 50%, set by the clerk",
   "t": "ذهابًا وإيابًا + 50%، يحددها الكاتب"
+ },
+ "fce2ef6914a2": {
+  "en": "No Breath",
+  "t": "نو بريث"
  },
  "fde8991d39b8": {
   "en": "You wake with 1 HP and one level of exhaustion. Rest. Eat something. Do not die today.",

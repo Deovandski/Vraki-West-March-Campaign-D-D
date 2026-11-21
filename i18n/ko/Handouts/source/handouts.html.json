@@ -19,9 +19,21 @@
   "en": "FORWAY EMBASSY · AMETHYST",
   "t": "포웨이 대사관 · 애머시스트"
  },
+ "04fb3c3fb862": {
+  "en": "Vraki West March · Handout 13 · Bandit Note &amp; Signal Smoke Card",
+  "t": "Vraki West March · 배포물 13 · 산적의 쪽지와 신호 연기 카드"
+ },
  "0519cb40c0f5": {
   "en": "Cut out one per adventurer. The badge shows Soul Points to its bearer alone: pencil them in.<br>Max SP = proficiency bonus + Con modifier (min. 1) · +1 SP per long rest · replacement: 1 amethyst (plus questions)",
   "t": "모험가마다 한 장씩 잘라 낸다. 신분패는 소울 포인트를 주인에게만 보여 준다: 연필로 적어 두라.<br>최대 SP = 숙련 보너스 + 건강 수정치(최소 1) · 긴 휴식마다 SP +1 · 재발급: 애머시스트 1개(와 질문 세례)"
+ },
+ "05a55fcc6f2e": {
+  "en": "<b>Debt:</b> 100 p × level; 50% of rewards until paid. Die again while owing → drafted into the Forway Guard.",
+  "t": "<b>빚:</b> 100 p × 레벨. 다 갚을 때까지 보수의 50%. 빚진 채로 또 죽으면 → 포웨이 경비대에 징집."
+ },
+ "05c5fe2c2f91": {
+  "en": "45 p",
+  "t": "45 p"
  },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
@@ -35,9 +47,21 @@
   "en": "<b>NOTICE:</b> the Long Bridge road \"toll\" is not legal. Report it; do not punish it.",
   "t": "<b>알림:</b> 롱 브리지 길의 ‘통행료’는 불법이다. 신고하라. 직접 벌하지 마라."
  },
+ "080d6d448e8d": {
+  "en": "Sayna Hearing",
+  "t": "사이나 히어링"
+ },
  "08f5aa86ed9b": {
   "en": "PEARL QUEST · PEST CONTROL",
   "t": "펄 의뢰 · 해수 퇴치"
+ },
+ "09373327ab59": {
+  "en": "600 p",
+  "t": "600 p"
+ },
+ "09ee381644a3": {
+  "en": "Reputation",
+  "t": "평판"
  },
  "0b2811f7cf03": {
   "en": "Wagon to Sanbi",
@@ -51,9 +75,21 @@
   "en": "The <b>reward</b> is paid at the destination embassy on presentation of a delivery receipt sealed by that embassy. Revival debt owed to Forway is deducted first.",
   "t": "<b>보수</b>는 목적지 대사관이 봉인한 인수증을 내면 그 대사관에서 지급한다. 포웨이에 진 부활 빚이 먼저 공제된다."
  },
+ "0d681c952235": {
+  "en": "Moacir",
+  "t": "모아시르"
+ },
+ "0db5e91f83ef": {
+  "en": "<b>Deadline</b> = round trip in days + 50%. Miss it and a search party comes (and takes your credit).",
+  "t": "<b>기한</b> = 왕복 일수 + 50%. 넘기면 수색대가 온다(그리고 공을 가져간다)."
+ },
  "0e4c7896f44d": {
   "en": "Badge no.",
   "t": "신분패 번호"
+ },
+ "0ecf3cb976f1": {
+  "en": "60 p",
+  "t": "60 p"
  },
  "0f3503e615b0": {
   "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
@@ -95,6 +131,10 @@
   "en": "Body RESTORE, mass <i>healing word</i>",
   "t": "보디 리스토어, 집단 <i>치유의 단어</i>"
  },
+ "1697b0ce80c1": {
+  "en": "Buys",
+  "t": "살 수 있는 것"
+ },
  "16cd5cb511ee": {
   "en": "Storm CREATE, bolt <i>lightning bolt</i> (III)",
   "t": "스톰 크리에이트, 번개 <i>번개 줄기</i>(III)"
@@ -103,13 +143,37 @@
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
   "t": "창구에서 피로 서명하라. 실패 벌금: 보수의 10%. 기한이 지나면 수색대를 보낸다."
  },
+ "170636f924e8": {
+  "en": "75 p",
+  "t": "75 p"
+ },
+ "173079dda58f": {
+  "en": "5e",
+  "t": "5판"
+ },
+ "176a06b353f5": {
+  "en": "Wozen Eyesight",
+  "t": "워젠 아이사이트"
+ },
  "178243b8d81f": {
   "en": "Vraki West March · Handout 11 · Revival Debt Certificate",
   "t": "Vraki West March · 배포물 11 · 부활 빚 증서"
  },
+ "179a77dc6934": {
+  "en": "<b>Ranks:</b> Pearl (lv 1–4) · Amethyst (5–8) · Aquamarine (9–12) · Sapphire (13+). Promotion needs a quest or the Adventurer Feast.",
+  "t": "<b>계급:</b> 펄(레벨 1–4) · 애머시스트(5–8) · 아쿠아마린(9–12) · 사파이어(13+). 승급에는 의뢰나 모험가 연회가 필요하다."
+ },
  "1849787a7bcc": {
   "en": "Water CREATE / ATTRACT <i>create water, shape water</i>",
   "t": "워터 크리에이트 / 어트랙트 <i>물 창조, 물 조형</i>"
+ },
+ "1918bb15ffcb": {
+  "en": "200 p",
+  "t": "200 p"
+ },
+ "1a49b0a5e631": {
+  "en": "Body Paralysis",
+  "t": "보디 패럴리시스"
  },
  "1a6ad10c01ca": {
   "en": "Before the mood reaches 6",
@@ -119,6 +183,10 @@
   "en": "Smoke bomb, intense",
   "t": "연막탄, 강력"
  },
+ "1cd30f160645": {
+  "en": "<b style=\"color:#a33\">Red</b> help · <b style=\"color:#18808f\">Cyan</b> complete · <b style=\"color:#3b7a33\">Green</b> safe · <b style=\"color:#9a7d10\">Yellow</b> retreat. Bandits fake them.",
+  "t": "<b style=\"color:#a33\">빨강</b> 도와줘 · <b style=\"color:#18808f\">청록</b> 완료 · <b style=\"color:#3b7a33\">초록</b> 안전 · <b style=\"color:#9a7d10\">노랑</b> 후퇴. 산적이 위조한다."
+ },
  "1d822b71ce22": {
   "en": "Pearl and up",
   "t": "펄 이상"
@@ -126,6 +194,18 @@
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "졸림"
+ },
+ "1ee4c61881ac": {
+  "en": "<b>Get home:</b> start and end every session at an embassy.",
+  "t": "<b>집에 돌아가라:</b> 모든 세션을 대사관에서 시작하고 끝내라."
+ },
+ "20076adf52a3": {
+  "en": "<b>Max SP</b> = proficiency bonus + Con modifier (min. 1). +1 SP per long rest. 1 SP = 1 nari stone.",
+  "t": "<b>최대 SP</b> = 숙련 보너스 + 건강 수정치(최소 1). 긴 휴식마다 +1 SP. 1 SP = 나리석 1개."
+ },
+ "21f5cc284cc4": {
+  "en": "<b>Dates:</b> <i>Moacir 12th, 1042 A.G.</i> (After Ganyrami). <b>Paulin 100th:</b> Adventurer Feast, promotions.",
+  "t": "<b>날짜:</b> <i>1042년 A.G. 모아시르 12일</i>(After Ganyrami). <b>파울린 100일:</b> 모험가 연회, 승급."
  },
  "22274ba2f160": {
   "en": "Type",
@@ -138,6 +218,10 @@
  "237250d76870": {
   "en": "LOCAL WARNING · QUEST NOTICE",
   "t": "지역 경고 · 의뢰 공고"
+ },
+ "24a5987f1512": {
+  "en": "Carry one of each. Throw high. Seen for miles. Misuse is punished.",
+  "t": "색마다 하나씩 지녀라. 높이 던져라. 몇 마일 밖에서도 보인다. 남용하면 처벌받는다."
  },
  "26095b19807c": {
   "en": "Vraki West March · Handout 04 · Blank Wanted Poster",
@@ -155,6 +239,10 @@
   "en": "WINGA MAIL POSTCARDS",
   "t": "윙가 우편 엽서"
  },
+ "285661a894b6": {
+  "en": "70 p",
+  "t": "70 p"
+ },
  "28866724c2a6": {
   "en": "Cargo delivered",
   "t": "인도한 화물"
@@ -167,9 +255,17 @@
   "en": "UP TO 5 SAPPHIRES",
   "t": "최대 사파이어 5개"
  },
+ "29790443c5fc": {
+  "en": "Bartering between treaty citizens is illegal. Haggling is fine if the seller agrees. Toleridemians never agree.",
+  "t": "조약 시민끼리의 물물교환은 불법이다. 판매자가 동의하면 흥정은 괜찮다. 톨레리데메인은 절대 동의하지 않는다."
+ },
  "29bda2b60459": {
   "en": "15 p",
   "t": "15 p"
+ },
+ "2a531556a7ea": {
+  "en": "<b>NOT SOLD HERE:</b> Sleep Inducer and Skin Melt above Tier I, Mind Enabler, Walking Heart stones, Nari Worm eggs, Koalin anything. Don't ask. We have to report you if you ask.",
+  "t": "<b>여기서 팔지 않는 것:</b> I등급을 넘는 슬립 인듀서와 스킨 멜트, 마인드 이네이블러, 워킹 하트 돌, 나리 웜 알, 코알린으로 된 건 무엇이든. 묻지 마라. 물어보면 신고해야 한다."
  },
  "2a5f1b665280": {
   "en": "CONTRACT OF<br>CARGO PROTECTION",
@@ -191,13 +287,29 @@
   "en": "QUEST BOARD",
   "t": "의뢰 게시판"
  },
+ "2e26f93b987e": {
+  "en": "Slime Skin",
+  "t": "슬라임 스킨"
+ },
  "2e641e2fe6ce": {
   "en": "If you've traveled between Forway and Sanbi, you've probably \"donated\" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.",
   "t": "포웨이와 산비 사이를 여행했다면, 아마 그의 패거리에게 ‘기부’했을 것이다. 소문으로는 <b>워킹 하트</b>와 융합해 이제 히푸나 마수만큼 강하다고 한다. 알려진 일당: <b>빅 귯 패거리</b>(마커스, 클로도베우, 윌슨). 패거리 신분패: 워젠이 그려진 파란 네모."
  },
+ "2eba5caefa7f": {
+  "en": "63 p",
+  "t": "63 p"
+ },
+ "2eec1089344c": {
+  "en": "an adult Egua, a guild, property",
+  "t": "다 자란 에구아, 길드, 부동산"
+ },
  "2f29b4304770": {
   "en": "Murder",
   "t": "살인"
+ },
+ "314cb40e31c0": {
+  "en": "Shade one circle per circle traveled. Then mark them on the shared travel map.",
+  "t": "지나간 서클 하나마다 서클 하나를 칠한다. 그다음 공유 여행 지도에 표시한다."
  },
  "3181089a33bb": {
   "en": "Declared value",
@@ -211,9 +323,29 @@
   "en": "Revival kit, two rings <i>revivify</i> (III)",
   "t": "부활 키트, 반지 두 개 <i>소생</i>(III)"
  },
+ "3462c8a0a0b0": {
+  "en": "THE ROUTE",
+  "t": "경로"
+ },
+ "3492562255c7": {
+  "en": "Bring",
+  "t": "준비물"
+ },
+ "34a2f5438d19": {
+  "en": "LOOT &amp; PAY",
+  "t": "전리품과 보수"
+ },
  "34b16da8fcd5": {
   "en": "BY ORDER OF FORWAY LAW",
   "t": "포웨이 법의 명에 따라"
+ },
+ "34cabd10fe25": {
+  "en": "<b>Failure:</b> 10% of the reward as a penalty.",
+  "t": "<b>실패:</b> 보수의 10%를 벌금으로."
+ },
+ "34e0c33c29e0": {
+  "en": "Smooth Gut",
+  "t": "스무스 거트"
  },
  "3688d6166d1e": {
   "en": "p = pearl",
@@ -227,17 +359,53 @@
   "en": "World RESTORE, un-rust <i>mending</i>",
   "t": "월드 리스토어, 녹 제거 <i>수선</i>"
  },
+ "37b39045111b": {
+  "en": "YELLOW",
+  "t": "노랑"
+ },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "기한"
+ },
+ "38362cbae18a": {
+  "en": "PARTY WANTED",
+  "t": "일행 모집"
+ },
+ "38e3f66c3492": {
+  "en": "FOR THE DM: HAND THIS OVER WHEN THE INSIDE JOB OFFER ARRIVES (A KID WITH A NOTE AND A SMOKE BOMB)",
+  "t": "DM에게: 내부자 작업 제안이 오면 건네라(쪽지와 연막탄을 든 아이)"
+ },
+ "38e5c31f2119": {
+  "en": "Vraki West March · Handout 15 · Party Wanted (lounge sign-up)",
+  "t": "Vraki West March · 배포물 15 · 일행 모집(라운지 신청서)"
+ },
+ "38ee296b92a1": {
+  "en": "Vraki West March · Handout 12 · Soul Energy Shop Price List",
+  "t": "Vraki West March · 배포물 12 · 영혼 에너지 상점 가격표"
  },
  "39083fb03746": {
   "en": "Sigil Rings · Tier II–IV",
   "t": "시질 링 · II–IV등급"
  },
+ "3942594c3ae3": {
+  "en": "Pin to the embassy lounge board. First to sign, first to go. (Players: this is how a West March session gets scheduled.)",
+  "t": "대사관 라운지 게시판에 붙여라. 먼저 서명한 사람이 먼저 간다. (플레이어 여러분: 웨스트 마치 세션은 이렇게 일정이 잡힌다.)"
+ },
+ "397bc992ef92": {
+  "en": "Calendar",
+  "t": "달력"
+ },
  "3a17e5d819a0": {
   "en": "Reward paid",
   "t": "지급한 보수"
+ },
+ "3ad63bd7a371": {
+  "en": "Deep blue, non-explosive, is used only in Sanbi burials. <b>Bandits fake signals to set traps</b>, and promotion tests might too.<br>Signal smoke bomb: 15 pearls · 20-ft cloud for 1 minute.",
+  "t": "터지지 않는 짙은 파랑은 산비의 장례에서만 쓴다. <b>산적은 덫을 놓으려고 신호를 위조하며</b>, 승급 시험도 그럴 수 있다.<br>신호 연막탄: 펄 15닢 · 1분 동안 20피트 연기."
+ },
+ "3ad953131510": {
+  "en": "<span>Help</span>",
+  "t": "<span>도와줘</span>"
  },
  "3b5a5c60ff1e": {
   "en": "Stay indoors. The fog drinks souls. An Aquamarine quest is posted at the embassy.",
@@ -255,9 +423,17 @@
   "en": "Mud CREATE <i>grease</i>",
   "t": "머드 크리에이트 <i>기름칠</i>"
  },
+ "3dbf461c00cc": {
+  "en": "MONSTERS &amp; PEOPLE MET",
+  "t": "만난 괴물과 사람"
+ },
  "3dca6774179a": {
   "en": "The route becomes impassable by the judgment of the nearest embassy (a Bahyum Rampage, a flooded Long Bridge, a Sand Worm season).",
   "t": "가장 가까운 대사관의 판단으로 경로를 지날 수 없게 된 경우(바혐 폭주, 물에 잠긴 롱 브리지, 샌드 웜 철)."
+ },
+ "3dfd58a69681": {
+  "en": "People / class / level",
+  "t": "종족 / 클래스 / 레벨"
  },
  "3e6b78d7874f": {
   "en": "Player",
@@ -266,6 +442,10 @@
  "3fc196bf8c15": {
   "en": "Vraki West March · Handout 03 · Wanted: Kozaku Forway",
   "t": "Vraki West March · 배포물 03 · 수배: 고자쿠 포웨이"
+ },
+ "3fc33ea462c5": {
+  "en": "<b>Window:</b> 3 days + 1 per level. Ice the body to double it.",
+  "t": "<b>기한:</b> 3일 + 레벨당 1일. 시신을 얼음에 재우면 두 배."
  },
  "40cd343920b1": {
   "en": "PRINTED AT THE FORWAY EMBASSY",
@@ -303,6 +483,10 @@
   "en": "The <b>deadline</b> is the round trip plus half again. If the Contracted Adventurers are not back at an embassy by then, a search party is sent at their expense, and quest credit goes to the search party.",
   "t": "<b>기한</b>은 왕복 일수에 그 절반을 더한 것이다. 그때까지 계약 모험가가 어느 대사관에도 돌아오지 않으면, 그들의 비용으로 수색대를 보내며 의뢰의 공은 수색대가 갖는다."
  },
+ "460a3ba917ac": {
+  "en": "a young Egua, a revival pot (6)",
+  "t": "어린 에구아, 부활 단지(6)"
+ },
  "4672c25dda89": {
   "en": "TODAY'S<br>CASTLE<br>MOOD",
   "t": "오늘<br>성의<br>기분"
@@ -314,6 +498,10 @@
  "469b9caf2d23": {
   "en": "Vraki West March · Handout 08 · Badge Cards",
   "t": "Vraki West March · 배포물 08 · 신분패 카드"
+ },
+ "475fd40384a8": {
+  "en": "<span>Safe / go ahead</span>",
+  "t": "<span>안전 / 전진</span>"
  },
  "477c534c5d17": {
   "en": "FORWAY EMBASSY · PEARL",
@@ -331,9 +519,17 @@
   "en": "Posted on",
   "t": "게시일"
  },
+ "497598d9f93d": {
+  "en": "50 p",
+  "t": "50 p"
+ },
  "4ad2ea48f3ca": {
   "en": "Summer",
   "t": "여름"
+ },
+ "4b72d4ac3130": {
+  "en": "Vraki West March · Handout 16 · Adventurer's Reference",
+  "t": "Vraki West March · 배포물 16 · 모험가 참고표"
  },
  "4d3c4fa23d71": {
   "en": "Season",
@@ -351,9 +547,17 @@
   "en": "Debt deducted",
   "t": "공제한 빚"
  },
+ "51840d92e83f": {
+  "en": "Signal Smoke",
+  "t": "신호 연기"
+ },
  "519d6ceeb5d4": {
   "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
   "t": "블루 워젠스의 두목 · 931년 A.G. 출생 · 마지막 목격: 한참 전"
+ },
+ "51b8d9a02d8e": {
+  "en": "130 p",
+  "t": "130 p"
  },
  "52fddfc73573": {
   "en": "From the Embassy",
@@ -363,9 +567,21 @@
   "en": "Amethyst",
   "t": "애머시스트"
  },
+ "54b69ae959ca": {
+  "en": "<b>Embassy revival</b> always works: wake at 1 HP + 1 exhaustion.",
+  "t": "<b>대사관 부활</b>은 언제나 성공한다: HP 1 + 탈진 1로 깨어난다."
+ },
  "5537c275b709": {
   "en": "Vraki West March · Handout 06 · Cargo Protection Contract (front)",
   "t": "Vraki West March · 배포물 06 · 화물 보호 계약서(앞면)"
+ },
+ "55d4d691e192": {
+  "en": "Water Breath",
+  "t": "워터 브레스"
+ },
+ "5613cc957809": {
+  "en": "SP / stones",
+  "t": "SP / 돌"
  },
  "576e3d157962": {
   "en": "Quiet outside. Walking Skin patrol the halls.",
@@ -374,6 +590,10 @@
  "57d396409845": {
   "en": "PAID IN FULL on",
   "t": "완납일"
+ },
+ "57f6c5865c54": {
+  "en": "25–350 p",
+  "t": "25–350 p"
  },
  "585cdf11ff4a": {
   "en": "Grumpy",
@@ -407,6 +627,14 @@
   "en": "EMBASSY BADGES",
   "t": "대사관 신분패"
  },
+ "5b66a344fd54": {
+  "en": "Food: 1 ration a day (~2–5 p). Winga mail: 1 pearl, about 1 day per 3 circles.",
+  "t": "식량: 하루 1인분(약 2–5 p). 윙가 우편: 펄 1닢, 3서클에 약 1일."
+ },
+ "5bda726432a9": {
+  "en": "500 gp",
+  "t": "500 gp"
+ },
  "5bf0ab82de86": {
   "en": "Shock CREATE, touch <i>shocking grasp</i>",
   "t": "쇼크 크리에이트, 접촉 <i>전격의 손아귀</i>"
@@ -439,9 +667,17 @@
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward.",
   "t": "창구에서 피로 서명하라. 실패 벌금: 보수의 10%."
  },
+ "60cdc4308e4b": {
+  "en": "Monika Sight",
+  "t": "모니카 사이트"
+ },
  "6139707159a1": {
   "en": "5 amethysts per party, paid on delivery",
   "t": "일행당 애머시스트 5개, 인도 시 지급"
+ },
+ "616740abec5b": {
+  "en": "Filed with the embassy clerk after every expedition · West March: post it where every player can read it",
+  "t": "원정이 끝날 때마다 대사관 서기에게 제출 · 웨스트 마치: 모든 플레이어가 읽을 수 있는 곳에 붙여라"
  },
  "61c2fd080fa6": {
   "en": "at the",
@@ -455,9 +691,17 @@
   "en": "Misuse of official signal colors",
   "t": "공식 신호 색 남용"
  },
+ "6428b24391d3": {
+  "en": "Soul Points &amp; Tiers",
+  "t": "소울 포인트와 등급"
+ },
  "65283b7e6485": {
   "en": "Water-reactive nari bomb",
   "t": "물에 반응하는 나리 폭탄"
+ },
+ "65aacdae9a47": {
+  "en": "Time Quicken",
+  "t": "타임 퀴큰"
  },
  "66583b5acbd0": {
   "en": "Embassy medic",
@@ -475,9 +719,21 @@
   "en": "Sigil Rings · Tier I",
   "t": "시질 링 · I등급"
  },
+ "68012185b59b": {
+  "en": "FORWAY-OFFICIAL SIGNAL SMOKE",
+  "t": "포웨이 공식 신호 연기"
+ },
+ "68aa0e42c796": {
+  "en": "Each day: <b>Graveyard · Morning · Afternoon · Night</b>. Each shift, pick one: travel, watch, rest, hunt, scout, repair, prep, socialize.",
+  "t": "매일: <b>심야 · 오전 · 오후 · 밤</b>. 시간대마다 하나를 고른다: 이동, 보초, 휴식, 사냥, 정찰, 수리, 준비, 교류."
+ },
  "68d5ba89ba26": {
   "en": "Vraki West March · Handout 10 · Today's Castle Mood",
   "t": "Vraki West March · 배포물 10 · 오늘 성의 기분"
+ },
+ "69aa2a497efb": {
+  "en": "Winga Skin",
+  "t": "윙가 스킨"
  },
  "6ac090254da1": {
   "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
@@ -490,6 +746,10 @@
  "6eee0f8e710b": {
   "en": "Required by Forway Law on the back of every contract",
   "t": "포웨이 법에 따라 모든 계약서 뒷면에 필요"
+ },
+ "6ffc6225d14d": {
+  "en": "Pace:",
+  "t": "속도:"
  },
  "7010c4292cd3": {
   "en": "30 pearls + all the Soreno you can eat (please don't)",
@@ -507,6 +767,14 @@
   "en": "Badge rank",
   "t": "신분패 계급"
  },
+ "7460f7e62ad7": {
+  "en": "Bleed Out",
+  "t": "블리드 아웃"
+ },
+ "74d672f01df8": {
+  "en": "Winga Flight",
+  "t": "윙가 플라이트"
+ },
  "75b8c6683770": {
   "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
   "t": "자기 계급 이하의 의뢰를 받는다 · 일행 중 누가 한 계급 위면 거기까지 · 부활 빚이 먼저 50%를 가져간다 · 의뢰를 게시하려면 애머시스트 1개"
@@ -518,6 +786,14 @@
  "771c54e57c5a": {
   "en": "REWARD: ____________",
   "t": "현상금: ____________"
+ },
+ "782a85b3188c": {
+  "en": "Skin Melt <i>Tier I only; a laxative</i>",
+  "t": "스킨 멜트 <i>I등급만. 설사약</i>"
+ },
+ "78abe057db46": {
+  "en": "Count the circles on the travel map. <b>Fast</b> 1 day per circle · <b>Standard</b> 2 · <b>Slow</b> 3.",
+  "t": "여행 지도에서 서클을 세라. <b>빠름</b> 서클당 1일 · <b>보통</b> 2 · <b>느림</b> 3."
  },
  "78ba230bb869": {
   "en": "The Poster <b>lied about the danger</b> of the route or the value of the cargo.",
@@ -543,9 +819,17 @@
   "en": "Walking Skin packs raiding nearby farms. Bar your doors. Something big is awake.",
   "t": "워킹 스킨 무리가 근처 농장을 습격 중. 문을 걸어 잠가라. 뭔가 큰 것이 깨어 있다."
  },
+ "79d6eac7ee3d": {
+  "en": "Wozen Smell",
+  "t": "워젠 스멜"
+ },
  "7a070d013210": {
   "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
   "t": "롱 브리지 길로 포웨이에서 산비까지 상인 수레를 호위하라. 이 길에서는 블루 워젠스가 ‘세금’을 걷는다. 상인은 기부하고 싶지 않다. 화물 내역은 서명할 때 알려 준다."
+ },
+ "7a2be61be80e": {
+  "en": "Sore Mind",
+  "t": "소어 마인드"
  },
  "7a4bb4d9147a": {
   "en": "Gravity REPEL <i>thunderwave (force)</i>",
@@ -558,6 +842,14 @@
  "7c0d177ad981": {
   "en": "<b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.",
   "t": "<b>포데이</b>는 쉬는 날이다. 대사관은 일반인에게 문을 닫는다. 시신은 그래도 옆문으로 넘겨도 된다."
+ },
+ "7c5687ee24a6": {
+  "en": "Water Walk",
+  "t": "워터 워크"
+ },
+ "7cf1dbee60e4": {
+  "en": "Standard (2)",
+  "t": "보통(2)"
  },
  "7d97ee8bf4eb": {
   "en": "Bahyum: Mood Rising",
@@ -587,6 +879,10 @@
   "en": "Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.",
   "t": "소레노가 포웨이의 곡물 저장고에 들어가 이번 철 비축분을 갉아 먹고 있다. 지킬 게 남지 않기 전에 쫓아내라. 자루는 각자 지참."
  },
+ "81435cd83dd4": {
+  "en": "Text &amp; layout AI-assisted · World © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "글과 레이아웃은 AI의 도움을 받음 · 세계 © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
  "8220146365f2": {
   "en": "Black honey (jar)",
   "t": "검은 꿀(병)"
@@ -594,6 +890,10 @@
  "82c47debad95": {
   "en": "Last seen",
   "t": "마지막 목격"
+ },
+ "83deb1eadca6": {
+  "en": "<b>Week (5 days):</b> Freeday · Tollday · Sannday · Gannday · <b>Forrday</b> (rest; embassies closed).",
+  "t": "<b>한 주(5일):</b> 프리데이 · 톨데이 · 산데이 · 간데이 · <b>포데이</b>(휴일. 대사관은 닫는다)."
  },
  "84610a41263d": {
   "en": "<b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.",
@@ -615,6 +915,14 @@
   "en": "Welcome back. Forway is glad you're alive. Forway would like to discuss the bill.",
   "t": "돌아온 걸 환영한다. 포웨이는 당신이 살아 있어 기쁘다. 포웨이는 청구서 이야기를 하고 싶다."
  },
+ "854ac7fb2d47": {
+  "en": "GREEN",
+  "t": "초록"
+ },
+ "85d0b6cf504f": {
+  "en": "Rank needed",
+  "t": "필요한 계급"
+ },
  "86486d28d55e": {
   "en": "PAID",
   "t": "요금 지불"
@@ -627,6 +935,10 @@
   "en": "NULLIFICATION CLAUSES",
   "t": "무효 조항"
  },
+ "88b88560a923": {
+  "en": "Everything a Pearl needs to know that the embassy won't tell you twice",
+  "t": "펄이라면 알아야 하지만 대사관이 두 번은 말해 주지 않는 모든 것"
+ },
  "89595df30548": {
   "en": "Paid to Forway",
   "t": "포웨이에 지급"
@@ -635,9 +947,21 @@
   "en": "World DESTROY <i>shatter</i>",
   "t": "월드 디스트로이 <i>분쇄</i>"
  },
+ "898fe0329542": {
+  "en": "Time Slower",
+  "t": "타임 슬로어"
+ },
+ "89953a0e7395": {
+  "en": "220 p",
+  "t": "220 p"
+ },
  "89b61c29ca4e": {
   "en": "Harm done to the cargo, passengers or Eguas <b>by the Contracted Adventurers</b> is a breach of contract and a crime under Forway Law.",
   "t": "<b>계약 모험가가</b> 화물, 승객, 에구아에 입힌 피해는 계약 위반이며 포웨이 법에 따른 범죄다."
+ },
+ "8ae31954aca3": {
+  "en": "Smooth Skin",
+  "t": "스무스 스킨"
  },
  "8ae4cb7f9fd5": {
   "en": "Light CREATE <i>light</i>",
@@ -646,6 +970,10 @@
  "8ae5de71fd4b": {
   "en": "Circles",
   "t": "서클"
+ },
+ "8b7b2e21a7f3": {
+  "en": "Sleep Inducer <i>Tier I only</i>",
+  "t": "슬립 인듀서 <i>I등급만</i>"
  },
  "8b93e371e76e": {
   "en": "Cargo",
@@ -658,6 +986,10 @@
  "8cd7920b835a": {
   "en": "Tier",
   "t": "등급"
+ },
+ "8d787e2c05f8": {
+  "en": "REPUTATION CHANGES (−3 to +3)",
+  "t": "평판 변화(−3에서 +3)"
  },
  "8e52bfa426ce": {
   "en": "Amethyst (or a Pearl party led by one)",
@@ -678,6 +1010,26 @@
  "92516a005ed9": {
   "en": "A <b>Kingdom Alert</b> or an <b>Emergency</b> is called along the route. The deadline is suspended until it ends.",
   "t": "경로를 따라 <b>왕국 경보</b>나 <b>비상사태</b>가 내려진 경우. 끝날 때까지 기한이 멈춘다."
+ },
+ "926730d5bcec": {
+  "en": "Paulin",
+  "t": "파울린"
+ },
+ "928ff1d001ae": {
+  "en": "Quests &amp; Deadlines",
+  "t": "의뢰와 기한"
+ },
+ "936f7803f5a7": {
+  "en": "Death &amp; Revival",
+  "t": "죽음과 부활"
+ },
+ "9395015405a5": {
+  "en": "Fast (1 day/circle)",
+  "t": "빠름(서클당 1일)"
+ },
+ "94ed1287f29c": {
+  "en": "a meal and a beer (~5), a hostel bed (~5)",
+  "t": "식사와 맥주 한 잔(약 5), 여관 침대(약 5)"
  },
  "95ab1faed512": {
   "en": "1 sa",
@@ -719,13 +1071,49 @@
   "en": "Name · Place · Guild",
   "t": "이름 · 장소 · 길드"
  },
+ "9bff89744b12": {
+  "en": "Returned to",
+  "t": "귀환지"
+ },
+ "9c07984e6b64": {
+  "en": "RED",
+  "t": "빨강"
+ },
  "9c2adccbb599": {
   "en": "Posted by",
   "t": "게시자"
  },
+ "9e6e6019d9bb": {
+  "en": "155 p",
+  "t": "155 p"
+ },
+ "9ecbe1189420": {
+  "en": "Tier 0 = a cantrip ring's cost per cast.",
+  "t": "0등급 = 소마법 반지의 시전 1회당 비용."
+ },
+ "9f0645aec818": {
+  "en": "blank scrap: write your own go-between's note",
+  "t": "빈 종잇조각: 직접 만든 중개인의 쪽지를 써라"
+ },
  "9f0bf42bbcfe": {
   "en": "Adventurers' speaker",
   "t": "모험가 대표"
+ },
+ "9f2d147d9639": {
+  "en": "Slow (3)",
+  "t": "느림(3)"
+ },
+ "a0759af26c22": {
+  "en": "5 gp",
+  "t": "5 gp"
+ },
+ "a11a3af54446": {
+  "en": "Cruro Skin",
+  "t": "크루로 스킨"
+ },
+ "a18e240ac39c": {
+  "en": "Session (real date)",
+  "t": "세션(실제 날짜)"
  },
  "a4f7be073854": {
   "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
@@ -734,6 +1122,10 @@
  "a5492fb86200": {
   "en": "Property of Forway · blood-registered to its bearer · do not lend (Missing Person quests excepted)",
   "t": "포웨이의 재산 · 소지자에게 피로 등록됨 · 빌려주지 말 것(실종자 의뢰는 예외)"
+ },
+ "a5c9371a8eec": {
+  "en": "55 p",
+  "t": "55 p"
  },
  "a70e48bd0367": {
   "en": "SAMPLE ISSUE",
@@ -755,6 +1147,10 @@
   "en": "3 aq",
   "t": "3 aq"
  },
+ "aa813860b56e": {
+  "en": "Walking Dead",
+  "t": "워킹 데드"
+ },
  "aaa3a908692f": {
   "en": "aq = aquamarine (500 p)",
   "t": "aq = 아쿠아마린(500 p)"
@@ -763,9 +1159,21 @@
   "en": "Robbing contracted cargo",
   "t": "계약 화물 강탈"
  },
+ "aaedfd2b20cf": {
+  "en": "Places visited or discovered",
+  "t": "방문하거나 발견한 장소"
+ },
+ "ab9cd966dd42": {
+  "en": "<b>Fine grade</b> (inject with a syringe; works at once, no pain): double price.<br><b>Dose:</b> 1 scoop Tier I · 2 Tier II · 3 Tier III · whole jar Tier IV.",
+  "t": "<b>고급품</b>(주사기로 주입. 바로 듣고 아프지 않다): 가격 두 배.<br><b>용량:</b> I등급 1숟가락 · II등급 2 · III등급 3 · IV등급 한 병 전부."
+ },
  "abf369643984": {
   "en": "5 am",
   "t": "5 am"
+ },
+ "ac39a8a9ee8f": {
+  "en": "THE PARTY",
+  "t": "일행"
  },
  "ac52f67906ad": {
   "en": "Ice CREATE, frost ball <i>ray of frost</i>",
@@ -775,13 +1183,37 @@
   "en": "Fleeing revival debt",
   "t": "부활 빚 도주"
  },
+ "ad2c363b3e7a": {
+  "en": "ADVENTURER'S REFERENCE",
+  "t": "모험가 참고표"
+ },
  "ad6542159a94": {
   "en": "WINGA MAIL",
   "t": "윙가 우편"
  },
+ "adae98ab5ed8": {
+  "en": "50 gp",
+  "t": "50 gp"
+ },
+ "aea0b4da20b0": {
+  "en": "Leaving from the",
+  "t": "출발하는 대사관"
+ },
+ "af927d6ffcee": {
+  "en": "To the ones guarding the wagon —<br><br> Two nights on, where the road goes narrow by the bridge, look for <u>green</u> smoke.<br> Put up a fight. Take a few bruises. Run off.<br> We take the wagon. You get <u>thirty parts in a hundred</u> of what's in it, paid in balls at the drop.<br><br> Nod to the kid if you're in.<br> Burn this.<br><br> <span style=\"padding-left:1.8in\">— a friend of the road</span>",
+  "t": "수레를 지키는 너희에게 —<br><br> 이틀 밤 뒤, 다리 옆에서 길이 좁아지는 곳에서 <u>초록</u> 연기를 찾아라.<br> 싸우는 척해라. 멍 몇 개쯤 들어라. 그리고 도망쳐라.<br> 수레는 우리가 갖는다. 너희는 안에 든 것의 <u>백 중 서른</u>을 받는다. 전달 장소에서 볼로 준다.<br><br> 할 거면 아이에게 고개를 끄덕여라.<br> 이건 태워라.<br><br> <span style=\"padding-left:1.8in\">— 길의 친구가</span>"
+ },
+ "b02fe15abd29": {
+  "en": "Where we're going / quest",
+  "t": "갈 곳 / 의뢰"
+ },
  "b1e9c61f07f2": {
   "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
   "t": "<b>판매:</b> 뼈나무 피커, 거의 안 씹힘. 펄 8닢."
+ },
+ "b340e1534631": {
+  "en": "<b>Monnalow</b> (early evening): the captain shouts the news and new quests.",
+  "t": "<b>몬나로</b>(이른 저녁): 대장이 소식과 새 의뢰를 외친다."
  },
  "b3b4d9f426af": {
   "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
@@ -790,6 +1222,14 @@
  "b48145507a19": {
   "en": "Should you <b>die again while you still owe</b>, Forway drafts you into the <b>Forway Guard</b>, unless your companions pay the full remaining debt plus the new debt on the spot.",
   "t": "<b>아직 빚이 남았는데 또 죽으면</b>, 동료들이 그 자리에서 남은 빚과 새 빚을 모두 내지 않는 한 포웨이가 당신을 <b>포웨이 경비대</b>에 징집한다."
+ },
+ "b4929305944f": {
+  "en": "Adventurer (Name · Place · Guild)",
+  "t": "모험가(이름 · 장소 · 길드)"
+ },
+ "b53144e1f740": {
+  "en": "3–6 adventurers is ideal. Ice for bodies recommended.",
+  "t": "모험가는 3–6명이 이상적. 시신용 얼음을 권한다."
  },
  "b594d034ad81": {
   "en": "2 am",
@@ -815,9 +1255,17 @@
   "en": "This contract is <b>void</b>, with no penalty to either party, if:",
   "t": "다음의 경우 이 계약은 어느 쪽에도 벌금 없이 <b>무효</b>다:"
  },
+ "b8e84532eec3": {
+  "en": "Adrian",
+  "t": "아드리안"
+ },
  "b95d40e02b9d": {
   "en": "clerk",
   "t": "서기"
+ },
+ "b962e7e58e83": {
+  "en": "65 p",
+  "t": "65 p"
  },
  "ba8a5cbb0fb1": {
   "en": "Fleeing this debt makes you <b>wanted</b>. Bounty quests will carry your face.",
@@ -830,6 +1278,10 @@
  "bb2e56d3e943": {
   "en": "Guild",
   "t": "길드"
+ },
+ "bd598ee8b5f7": {
+  "en": "Wooly Skin <i>very fashionable</i>",
+  "t": "울리 스킨 <i>아주 유행함</i>"
  },
  "bd8d428fa7a3": {
   "en": "Stragglers on the plains. Travel in groups.",
@@ -847,6 +1299,10 @@
   "en": "Weekly printout · read aloud at Monnalow",
   "t": "주간 인쇄물 · 몬나로에서 낭독"
  },
+ "bf8961b5053c": {
+  "en": "Asa",
+  "t": "아사"
+ },
  "bfd85a0d0f86": {
   "en": "Storm CREATE, heart jolt <i>spare the dying</i>",
   "t": "스톰 크리에이트, 심장 충격 <i>빈사 안정</i>"
@@ -854,6 +1310,10 @@
  "bffdcf140e1e": {
   "en": "Breach of contract",
   "t": "계약 위반"
+ },
+ "c013168836fe": {
+  "en": "Fake Skin / Eye <i>priced by the part</i>",
+  "t": "페이크 스킨 / 아이 <i>부위별 가격</i>"
  },
  "c3c3329f3c3d": {
   "en": "3 days + 1 per level = ______ days □ body was iced (window doubled)",
@@ -867,6 +1327,10 @@
   "en": "□ intact □ damaged □ partial □ not delivered",
   "t": "□ 온전 □ 손상 □ 일부 □ 미인도"
  },
+ "c5e57d24af0f": {
+  "en": "Poisons · sold to badge holders",
+  "t": "독 · 신분패 소지자에게만 판매"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "출발지"
@@ -878,6 +1342,10 @@
  "c7070eca4304": {
   "en": "Received by",
   "t": "수령인"
+ },
+ "c82922c73f8a": {
+  "en": "Quest or goal",
+  "t": "의뢰 또는 목표"
  },
  "c88bf0d64ddf": {
   "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
@@ -907,6 +1375,14 @@
   "en": "Rank",
   "t": "등급"
  },
+ "ca7ab66f242c": {
+  "en": "1 sp",
+  "t": "1 sp"
+ },
+ "caf728f9c169": {
+  "en": "Nari Refresher",
+  "t": "나리 리프레셔"
+ },
  "cbbd4f346aae": {
   "en": "THIS CONTRACT IS NOT NULLIFIED BY",
   "t": "다음 사유로는 이 계약이 무효가 되지 않는다"
@@ -914,6 +1390,10 @@
  "cca85eac3e04": {
   "en": "Gravity ATTRACT, self <i>levitate / spider climb</i>",
   "t": "그래비티 어트랙트, 자신 <i>공중부양 / 거미 등반</i>"
+ },
+ "ce28bfedae16": {
+  "en": "DEATHS, REVIVALS &amp; DEBTS",
+  "t": "죽음, 부활, 빚"
  },
  "ce8e4eaf77b0": {
   "en": "DELIVERY RECEIPT (destination embassy)",
@@ -926,6 +1406,14 @@
  "cf07834570cc": {
   "en": "Body RESTORE <i>cure wounds</i>",
   "t": "보디 리스토어 <i>상처 치료</i>"
+ },
+ "cf77414f59d8": {
+  "en": "on",
+  "t": "날짜"
+ },
+ "cfdecd0008b8": {
+  "en": "Came back?",
+  "t": "돌아왔나?"
  },
  "d1b5b9114b00": {
   "en": "Spring",
@@ -955,9 +1443,17 @@
   "en": "For letters home, warnings ahead, and double-crosses. Cut along the dashed lines.",
   "t": "집에 보내는 편지, 미리 보내는 경고, 그리고 배신에. 점선을 따라 자른다."
  },
+ "d7b43f2f8d2f": {
+  "en": "WHERE WE WANT TO GO NEXT",
+  "t": "다음에 가고 싶은 곳"
+ },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "볼"
+ },
+ "d88ffab5eda6": {
+  "en": "Real-world session: date &amp; time",
+  "t": "실제 세션: 날짜와 시간"
  },
  "d9daeebbcea6": {
   "en": "HAVE YOU SEEN<br>THIS MAN?",
@@ -970,6 +1466,10 @@
  "daa6158bcea9": {
   "en": "Gravity DECREASE, self <i>feather fall / jump</i>",
   "t": "그래비티 디크리스, 자신 <i>깃털 낙하 / 도약</i>"
+ },
+ "db4d33ed5b1f": {
+  "en": "a nari stone, a map, a badge, most rings",
+  "t": "나리석, 지도, 신분패, 대부분의 반지"
  },
  "db86f5d8e66f": {
   "en": "cut out this marker, or use a paperclip:",
@@ -1031,6 +1531,30 @@
   "en": "20 p · 5 p",
   "t": "20 p · 5 p"
  },
+ "e91bc1aae510": {
+  "en": "<b>Blank rings</b> are sold only to courtroom scientists and Aquamarine-rank adventurers (show your badge). Rings carved to order.",
+  "t": "<b>빈 반지</b>는 궁정 과학자와 아쿠아마린 계급 모험가에게만 판다(신분패를 보여라). 반지는 주문을 받아 새긴다."
+ },
+ "eaecd21a4ce8": {
+  "en": "<span>Retreat</span>",
+  "t": "<span>후퇴</span>"
+ },
+ "eb238ddf5d9e": {
+  "en": "CYAN",
+  "t": "청록"
+ },
+ "eb6c5eb05452": {
+  "en": "EXPEDITION REPORT",
+  "t": "원정 보고서"
+ },
+ "ebfe6e1ae464": {
+  "en": "40 p",
+  "t": "40 p"
+ },
+ "ebff0456f35b": {
+  "en": "Arm Light",
+  "t": "암 라이트"
+ },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
   "t": "1 아쿠아마린"
@@ -1042,6 +1566,10 @@
  "edb8957aad32": {
   "en": "Aquamarine",
   "t": "아쿠아마린"
+ },
+ "edd0fea6d379": {
+  "en": "Days = circles × 1, 2 or 3 (the DM chooses)",
+  "t": "일수 = 서클 × 1, 2, 3(DM이 고른다)"
  },
  "ef30a8d69ce2": {
   "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
@@ -1067,9 +1595,17 @@
   "en": "Quiet. The doors stand open. Historians, this is your day.",
   "t": "조용함. 문이 열려 있다. 역사가 여러분, 오늘이 당신의 날이다."
  },
+ "f3bdfb86cccc": {
+  "en": "Left from",
+  "t": "출발지"
+ },
  "f3d306caeafa": {
   "en": "Sigil rings · nari gels · stones &amp; bombs · Forway prices (other cities charge more for distance)",
   "t": "시질 링 · 나리 젤 · 돌과 폭탄 · 포웨이 가격(다른 도시는 거리만큼 더 받는다)"
+ },
+ "f466616ff023": {
+  "en": "Money (balls)",
+  "t": "돈(볼)"
  },
  "f4d19ca4b670": {
   "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
@@ -1079,6 +1615,10 @@
   "en": "The man himself, breathing",
   "t": "본인, 숨이 붙은 채로"
  },
+ "f5ae3cd136ba": {
+  "en": "Vraki West March · Handout 14 · Expedition Report",
+  "t": "Vraki West March · 배포물 14 · 원정 보고서"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "목적지"
@@ -1087,9 +1627,17 @@
   "en": "FORWAY EMBASSY · AQUAMARINE",
   "t": "포웨이 대사관 · 아쿠아마린"
  },
+ "f85de68704ba": {
+  "en": "RUMORS HEARD · UNFINISHED BUSINESS · WARNINGS FOR THE NEXT PARTY",
+  "t": "들은 소문 · 끝내지 못한 일 · 다음 일행을 위한 경고"
+ },
  "f88b2a35f578": {
   "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
   "t": "그의 행방에 대한 확실한 정보에 대해, 포웨이의 어느 대사관에서나 지급"
+ },
+ "f94a2bae4aa6": {
+  "en": "1 Sapphire",
+  "t": "사파이어 1개"
  },
  "f95ed6f5d34d": {
   "en": "Furious",
@@ -1103,6 +1651,10 @@
   "en": "Soreno Scourge",
   "t": "소레노 재앙"
  },
+ "fa6cc2a8caa7": {
+  "en": "<span>Conquered / complete</span>",
+  "t": "<span>제압 / 완료</span>"
+ },
  "fbe3b46cbe70": {
   "en": "Embassy",
   "t": "대사관"
@@ -1110,6 +1662,10 @@
  "fc579a92ff12": {
   "en": "Round trip + 50%, set by the clerk",
   "t": "왕복 + 50%, 서기가 정한다"
+ },
+ "fce2ef6914a2": {
+  "en": "No Breath",
+  "t": "노 브레스"
  },
  "fde8991d39b8": {
   "en": "You wake with 1 HP and one level of exhaustion. Rest. Eat something. Do not die today.",

@@ -19,9 +19,21 @@
   "en": "FORWAY EMBASSY · AMETHYST",
   "t": "福威大使馆 · 阿米西斯特"
  },
+ "04fb3c3fb862": {
+  "en": "Vraki West March · Handout 13 · Bandit Note &amp; Signal Smoke Card",
+  "t": "Vraki West March · 道具13 · 强盗的纸条与信号烟卡"
+ },
  "0519cb40c0f5": {
   "en": "Cut out one per adventurer. The badge shows Soul Points to its bearer alone: pencil them in.<br>Max SP = proficiency bonus + Con modifier (min. 1) · +1 SP per long rest · replacement: 1 amethyst (plus questions)",
   "t": "每位冒险者剪一张。身份牌只向持有者显示灵魂点数：用铅笔写上。<br>最大SP = 熟练加值 + 体质调整值（至少1） · 每次长休 +1 SP · 补办：1个阿米西斯特（外加盘问）"
+ },
+ "05a55fcc6f2e": {
+  "en": "<b>Debt:</b> 100 p × level; 50% of rewards until paid. Die again while owing → drafted into the Forway Guard.",
+  "t": "<b>债务：</b> 100 p × 等级；还清前扣报酬的50%。欠着债又死了 → 被征召进福威卫兵。"
+ },
+ "05c5fe2c2f91": {
+  "en": "45 p",
+  "t": "45 p"
  },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
@@ -35,9 +47,21 @@
   "en": "<b>NOTICE:</b> the Long Bridge road \"toll\" is not legal. Report it; do not punish it.",
   "t": "<b>告示：</b> 朗布里奇大道的“过路费”不合法。请举报；不要自己惩罚。"
  },
+ "080d6d448e8d": {
+  "en": "Sayna Hearing",
+  "t": "赛纳希尔林"
+ },
  "08f5aa86ed9b": {
   "en": "PEARL QUEST · PEST CONTROL",
   "t": "珀尔委托 · 害兽防治"
+ },
+ "09373327ab59": {
+  "en": "600 p",
+  "t": "600 p"
+ },
+ "09ee381644a3": {
+  "en": "Reputation",
+  "t": "声望"
  },
  "0b2811f7cf03": {
   "en": "Wagon to Sanbi",
@@ -51,9 +75,21 @@
   "en": "The <b>reward</b> is paid at the destination embassy on presentation of a delivery receipt sealed by that embassy. Revival debt owed to Forway is deducted first.",
   "t": "<b>报酬</b>凭目的地大使馆盖印的交货收据，在该大使馆支付。欠福威的复活债先行扣除。"
  },
+ "0d681c952235": {
+  "en": "Moacir",
+  "t": "莫阿西尔"
+ },
+ "0db5e91f83ef": {
+  "en": "<b>Deadline</b> = round trip in days + 50%. Miss it and a search party comes (and takes your credit).",
+  "t": "<b>期限</b> = 往返天数 + 50%。错过了就会有搜救队来（还会抢走你的功劳）。"
+ },
  "0e4c7896f44d": {
   "en": "Badge no.",
   "t": "身份牌编号"
+ },
+ "0ecf3cb976f1": {
+  "en": "60 p",
+  "t": "60 p"
  },
  "0f3503e615b0": {
   "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
@@ -95,6 +131,10 @@
   "en": "Body RESTORE, mass <i>healing word</i>",
   "t": "博迪里斯托尔，群体 <i>治愈真言</i>"
  },
+ "1697b0ce80c1": {
+  "en": "Buys",
+  "t": "能买"
+ },
  "16cd5cb511ee": {
   "en": "Storm CREATE, bolt <i>lightning bolt</i> (III)",
   "t": "斯托姆克里埃特，闪电 <i>闪电束</i>（III）"
@@ -103,13 +143,37 @@
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
   "t": "在柜台用血签名。失败罚金：报酬的10%。期限一过就会派出搜救队。"
  },
+ "170636f924e8": {
+  "en": "75 p",
+  "t": "75 p"
+ },
+ "173079dda58f": {
+  "en": "5e",
+  "t": "5e"
+ },
+ "176a06b353f5": {
+  "en": "Wozen Eyesight",
+  "t": "沃增艾赛特"
+ },
  "178243b8d81f": {
   "en": "Vraki West March · Handout 11 · Revival Debt Certificate",
   "t": "Vraki West March · 道具11 · 复活债务证书"
  },
+ "179a77dc6934": {
+  "en": "<b>Ranks:</b> Pearl (lv 1–4) · Amethyst (5–8) · Aquamarine (9–12) · Sapphire (13+). Promotion needs a quest or the Adventurer Feast.",
+  "t": "<b>级别：</b> 珀尔（1–4级） · 阿米西斯特（5–8） · 阿夸马林（9–12） · 萨菲尔（13+）。晋级需要一个委托或冒险者盛宴。"
+ },
  "1849787a7bcc": {
   "en": "Water CREATE / ATTRACT <i>create water, shape water</i>",
   "t": "沃特克里埃特／阿特拉克特 <i>造水术，塑水术</i>"
+ },
+ "1918bb15ffcb": {
+  "en": "200 p",
+  "t": "200 p"
+ },
+ "1a49b0a5e631": {
+  "en": "Body Paralysis",
+  "t": "博迪帕拉利西斯"
  },
  "1a6ad10c01ca": {
   "en": "Before the mood reaches 6",
@@ -119,6 +183,10 @@
   "en": "Smoke bomb, intense",
   "t": "烟雾弹，强效"
  },
+ "1cd30f160645": {
+  "en": "<b style=\"color:#a33\">Red</b> help · <b style=\"color:#18808f\">Cyan</b> complete · <b style=\"color:#3b7a33\">Green</b> safe · <b style=\"color:#9a7d10\">Yellow</b> retreat. Bandits fake them.",
+  "t": "<b style=\"color:#a33\">红色</b> 求救 · <b style=\"color:#18808f\">青色</b> 完成 · <b style=\"color:#3b7a33\">绿色</b> 安全 · <b style=\"color:#9a7d10\">黄色</b> 撤退。强盗会伪造它们。"
+ },
  "1d822b71ce22": {
   "en": "Pearl and up",
   "t": "珀尔及以上"
@@ -126,6 +194,18 @@
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "昏昏欲睡"
+ },
+ "1ee4c61881ac": {
+  "en": "<b>Get home:</b> start and end every session at an embassy.",
+  "t": "<b>回家：</b> 每次跑团都在大使馆开始和结束。"
+ },
+ "20076adf52a3": {
+  "en": "<b>Max SP</b> = proficiency bonus + Con modifier (min. 1). +1 SP per long rest. 1 SP = 1 nari stone.",
+  "t": "<b>最大SP</b> = 熟练加值 + 体质调整值（至少1）。每次长休+1 SP。1 SP = 1块纳里石。"
+ },
+ "21f5cc284cc4": {
+  "en": "<b>Dates:</b> <i>Moacir 12th, 1042 A.G.</i> (After Ganyrami). <b>Paulin 100th:</b> Adventurer Feast, promotions.",
+  "t": "<b>日期：</b> <i>1042年A.G. 莫阿西尔月12日</i>（After Ganyrami）。<b>保林月100日：</b> 冒险者盛宴、晋级。"
  },
  "22274ba2f160": {
   "en": "Type",
@@ -138,6 +218,10 @@
  "237250d76870": {
   "en": "LOCAL WARNING · QUEST NOTICE",
   "t": "地方警告 · 委托告示"
+ },
+ "24a5987f1512": {
+  "en": "Carry one of each. Throw high. Seen for miles. Misuse is punished.",
+  "t": "每种颜色带一个。往高处扔。几英里外都看得见。滥用要受罚。"
  },
  "26095b19807c": {
   "en": "Vraki West March · Handout 04 · Blank Wanted Poster",
@@ -155,6 +239,10 @@
   "en": "WINGA MAIL POSTCARDS",
   "t": "温加邮政明信片"
  },
+ "285661a894b6": {
+  "en": "70 p",
+  "t": "70 p"
+ },
  "28866724c2a6": {
   "en": "Cargo delivered",
   "t": "交付的货物"
@@ -167,9 +255,17 @@
   "en": "UP TO 5 SAPPHIRES",
   "t": "最高5个萨菲尔"
  },
+ "29790443c5fc": {
+  "en": "Bartering between treaty citizens is illegal. Haggling is fine if the seller agrees. Toleridemians never agree.",
+  "t": "条约国公民之间以物易物是违法的。卖家同意的话讨价还价没问题。托勒里德梅人从不同意。"
+ },
  "29bda2b60459": {
   "en": "15 p",
   "t": "15 p"
+ },
+ "2a531556a7ea": {
+  "en": "<b>NOT SOLD HERE:</b> Sleep Inducer and Skin Melt above Tier I, Mind Enabler, Walking Heart stones, Nari Worm eggs, Koalin anything. Don't ask. We have to report you if you ask.",
+  "t": "<b>本店不卖：</b> 第I级以上的斯利普因杜瑟和斯金梅尔特、迈恩德伊内布勒、沃金哈特石、纳里虫卵，以及任何科阿林制品。别问。你问了我们就得举报你。"
  },
  "2a5f1b665280": {
   "en": "CONTRACT OF<br>CARGO PROTECTION",
@@ -191,13 +287,29 @@
   "en": "QUEST BOARD",
   "t": "委托板"
  },
+ "2e26f93b987e": {
+  "en": "Slime Skin",
+  "t": "斯莱姆斯金"
+ },
  "2e641e2fe6ce": {
   "en": "If you've traveled between Forway and Sanbi, you've probably \"donated\" to his gang. Rumor says he fused with a <b>Walking Heart</b> and is now as strong as a Hifuna beast. Known associates: the <b>Big-Gyut boys</b> (Marcus, Clodoveu, Wilson). Gang badge: a blue square with a Wozen.",
   "t": "如果你在福威和桑比之间旅行过，你多半已经给他的团伙“捐”过钱了。传说他和一颗<b>沃金哈特</b>融合了，现在强得像希富纳的魔兽。已知同伙：<b>大久特一伙</b>（马库斯、克洛多韦乌、威尔逊）。团伙徽记：画着沃增的蓝色方块。"
  },
+ "2eba5caefa7f": {
+  "en": "63 p",
+  "t": "63 p"
+ },
+ "2eec1089344c": {
+  "en": "an adult Egua, a guild, property",
+  "t": "一匹成年埃瓜、一个公会、一处房产"
+ },
  "2f29b4304770": {
   "en": "Murder",
   "t": "谋杀"
+ },
+ "314cb40e31c0": {
+  "en": "Shade one circle per circle traveled. Then mark them on the shared travel map.",
+  "t": "每走过一个圈，就涂满一个圈。然后在共享的旅行地图上标出来。"
  },
  "3181089a33bb": {
   "en": "Declared value",
@@ -211,9 +323,29 @@
   "en": "Revival kit, two rings <i>revivify</i> (III)",
   "t": "复活套装，两枚戒指 <i>复生术</i>（III）"
  },
+ "3462c8a0a0b0": {
+  "en": "THE ROUTE",
+  "t": "路线"
+ },
+ "3492562255c7": {
+  "en": "Bring",
+  "t": "需携带"
+ },
+ "34a2f5438d19": {
+  "en": "LOOT &amp; PAY",
+  "t": "战利品与报酬"
+ },
  "34b16da8fcd5": {
   "en": "BY ORDER OF FORWAY LAW",
   "t": "奉福威法律之命"
+ },
+ "34cabd10fe25": {
+  "en": "<b>Failure:</b> 10% of the reward as a penalty.",
+  "t": "<b>失败：</b> 罚款为报酬的10%。"
+ },
+ "34e0c33c29e0": {
+  "en": "Smooth Gut",
+  "t": "斯穆斯加特"
  },
  "3688d6166d1e": {
   "en": "p = pearl",
@@ -227,17 +359,53 @@
   "en": "World RESTORE, un-rust <i>mending</i>",
   "t": "沃尔德里斯托尔，除锈 <i>修复术</i>"
  },
+ "37b39045111b": {
+  "en": "YELLOW",
+  "t": "黄色"
+ },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "期限"
+ },
+ "38362cbae18a": {
+  "en": "PARTY WANTED",
+  "t": "组队招募"
+ },
+ "38e3f66c3492": {
+  "en": "FOR THE DM: HAND THIS OVER WHEN THE INSIDE JOB OFFER ARRIVES (A KID WITH A NOTE AND A SMOKE BOMB)",
+  "t": "给DM：内应计划的提议到来时交出这张（一个拿着纸条和烟雾弹的孩子）"
+ },
+ "38e5c31f2119": {
+  "en": "Vraki West March · Handout 15 · Party Wanted (lounge sign-up)",
+  "t": "Vraki West March · 道具15 · 组队招募（休息室报名表）"
+ },
+ "38ee296b92a1": {
+  "en": "Vraki West March · Handout 12 · Soul Energy Shop Price List",
+  "t": "Vraki West March · 道具12 · 灵魂能量商店价目表"
  },
  "39083fb03746": {
   "en": "Sigil Rings · Tier II–IV",
   "t": "西吉尔戒指 · 第II–IV级"
  },
+ "3942594c3ae3": {
+  "en": "Pin to the embassy lounge board. First to sign, first to go. (Players: this is how a West March session gets scheduled.)",
+  "t": "钉在大使馆休息室的告示板上。先签先走。（玩家们：西境的跑团就是这样排期的。）"
+ },
+ "397bc992ef92": {
+  "en": "Calendar",
+  "t": "历法"
+ },
  "3a17e5d819a0": {
   "en": "Reward paid",
   "t": "已付报酬"
+ },
+ "3ad63bd7a371": {
+  "en": "Deep blue, non-explosive, is used only in Sanbi burials. <b>Bandits fake signals to set traps</b>, and promotion tests might too.<br>Signal smoke bomb: 15 pearls · 20-ft cloud for 1 minute.",
+  "t": "不会爆炸的深蓝色只用于桑比的葬礼。<b>强盗会伪造信号来设陷阱</b>，晋级考试也可能这么做。<br>信号烟雾弹：15枚珀尔 · 20尺烟云，持续1分钟。"
+ },
+ "3ad953131510": {
+  "en": "<span>Help</span>",
+  "t": "<span>求救</span>"
  },
  "3b5a5c60ff1e": {
   "en": "Stay indoors. The fog drinks souls. An Aquamarine quest is posted at the embassy.",
@@ -255,9 +423,17 @@
   "en": "Mud CREATE <i>grease</i>",
   "t": "马德克里埃特 <i>油腻术</i>"
  },
+ "3dbf461c00cc": {
+  "en": "MONSTERS &amp; PEOPLE MET",
+  "t": "遇到的怪物与人物"
+ },
  "3dca6774179a": {
   "en": "The route becomes impassable by the judgment of the nearest embassy (a Bahyum Rampage, a flooded Long Bridge, a Sand Worm season).",
   "t": "经最近的大使馆判断，路线已无法通行（巴休姆暴走、朗布里奇被淹、桑德沃姆季节）。"
+ },
+ "3dfd58a69681": {
+  "en": "People / class / level",
+  "t": "种族／职业／等级"
  },
  "3e6b78d7874f": {
   "en": "Player",
@@ -266,6 +442,10 @@
  "3fc196bf8c15": {
   "en": "Vraki West March · Handout 03 · Wanted: Kozaku Forway",
   "t": "Vraki West March · 道具03 · 通缉：小作·福威"
+ },
+ "3fc33ea462c5": {
+  "en": "<b>Window:</b> 3 days + 1 per level. Ice the body to double it.",
+  "t": "<b>时限：</b> 3天 + 每级1天。给尸体冰镇可以翻倍。"
  },
  "40cd343920b1": {
   "en": "PRINTED AT THE FORWAY EMBASSY",
@@ -303,6 +483,10 @@
   "en": "The <b>deadline</b> is the round trip plus half again. If the Contracted Adventurers are not back at an embassy by then, a search party is sent at their expense, and quest credit goes to the search party.",
   "t": "<b>期限</b>为往返时间再加一半。到期时若签约冒险者尚未回到任何大使馆，将派出搜救队，费用由他们承担，委托功劳归搜救队。"
  },
+ "460a3ba917ac": {
+  "en": "a young Egua, a revival pot (6)",
+  "t": "一匹年轻的埃瓜、一罐复活药（6）"
+ },
  "4672c25dda89": {
   "en": "TODAY'S<br>CASTLE<br>MOOD",
   "t": "今日<br>城堡<br>心情"
@@ -314,6 +498,10 @@
  "469b9caf2d23": {
   "en": "Vraki West March · Handout 08 · Badge Cards",
   "t": "Vraki West March · 道具08 · 身份牌卡片"
+ },
+ "475fd40384a8": {
+  "en": "<span>Safe / go ahead</span>",
+  "t": "<span>安全／前进</span>"
  },
  "477c534c5d17": {
   "en": "FORWAY EMBASSY · PEARL",
@@ -331,9 +519,17 @@
   "en": "Posted on",
   "t": "发布日期"
  },
+ "497598d9f93d": {
+  "en": "50 p",
+  "t": "50 p"
+ },
  "4ad2ea48f3ca": {
   "en": "Summer",
   "t": "夏"
+ },
+ "4b72d4ac3130": {
+  "en": "Vraki West March · Handout 16 · Adventurer's Reference",
+  "t": "Vraki West March · 道具16 · 冒险者速查表"
  },
  "4d3c4fa23d71": {
   "en": "Season",
@@ -351,9 +547,17 @@
   "en": "Debt deducted",
   "t": "已扣债务"
  },
+ "51840d92e83f": {
+  "en": "Signal Smoke",
+  "t": "信号烟"
+ },
  "519d6ceeb5d4": {
   "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
   "t": "布卢沃增斯首领 · 生于931年A.G. · 最后一次出现：很久以前"
+ },
+ "51b8d9a02d8e": {
+  "en": "130 p",
+  "t": "130 p"
  },
  "52fddfc73573": {
   "en": "From the Embassy",
@@ -363,9 +567,21 @@
   "en": "Amethyst",
   "t": "阿米西斯特"
  },
+ "54b69ae959ca": {
+  "en": "<b>Embassy revival</b> always works: wake at 1 HP + 1 exhaustion.",
+  "t": "<b>大使馆复活</b>总会成功：醒来时1点HP + 1级力竭。"
+ },
  "5537c275b709": {
   "en": "Vraki West March · Handout 06 · Cargo Protection Contract (front)",
   "t": "Vraki West March · 道具06 · 货物护送合同（正面）"
+ },
+ "55d4d691e192": {
+  "en": "Water Breath",
+  "t": "沃特布雷斯"
+ },
+ "5613cc957809": {
+  "en": "SP / stones",
+  "t": "SP／石头"
  },
  "576e3d157962": {
   "en": "Quiet outside. Walking Skin patrol the halls.",
@@ -374,6 +590,10 @@
  "57d396409845": {
   "en": "PAID IN FULL on",
   "t": "全额付清于"
+ },
+ "57f6c5865c54": {
+  "en": "25–350 p",
+  "t": "25–350 p"
  },
  "585cdf11ff4a": {
   "en": "Grumpy",
@@ -407,6 +627,14 @@
   "en": "EMBASSY BADGES",
   "t": "大使馆身份牌"
  },
+ "5b66a344fd54": {
+  "en": "Food: 1 ration a day (~2–5 p). Winga mail: 1 pearl, about 1 day per 3 circles.",
+  "t": "食物：每天1份口粮（约2–5 p）。温加邮政：1枚珀尔，大约每3个圈1天。"
+ },
+ "5bda726432a9": {
+  "en": "500 gp",
+  "t": "500 gp"
+ },
  "5bf0ab82de86": {
   "en": "Shock CREATE, touch <i>shocking grasp</i>",
   "t": "肖克克里埃特，触碰 <i>电爪</i>"
@@ -439,9 +667,17 @@
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward.",
   "t": "在柜台用血签名。失败罚金：报酬的10%。"
  },
+ "60cdc4308e4b": {
+  "en": "Monika Sight",
+  "t": "莫妮卡赛特"
+ },
  "6139707159a1": {
   "en": "5 amethysts per party, paid on delivery",
   "t": "每支队伍5个阿米西斯特，交货时支付"
+ },
+ "616740abec5b": {
+  "en": "Filed with the embassy clerk after every expedition · West March: post it where every player can read it",
+  "t": "每次探险后交给大使馆书记员 · 西境：贴在所有玩家都能看到的地方"
  },
  "61c2fd080fa6": {
   "en": "at the",
@@ -455,9 +691,17 @@
   "en": "Misuse of official signal colors",
   "t": "滥用官方信号颜色"
  },
+ "6428b24391d3": {
+  "en": "Soul Points &amp; Tiers",
+  "t": "灵魂点数与级别"
+ },
  "65283b7e6485": {
   "en": "Water-reactive nari bomb",
   "t": "遇水反应的纳里炸弹"
+ },
+ "65aacdae9a47": {
+  "en": "Time Quicken",
+  "t": "泰姆奎肯"
  },
  "66583b5acbd0": {
   "en": "Embassy medic",
@@ -475,9 +719,21 @@
   "en": "Sigil Rings · Tier I",
   "t": "西吉尔戒指 · 第I级"
  },
+ "68012185b59b": {
+  "en": "FORWAY-OFFICIAL SIGNAL SMOKE",
+  "t": "福威官方信号烟"
+ },
+ "68aa0e42c796": {
+  "en": "Each day: <b>Graveyard · Morning · Afternoon · Night</b>. Each shift, pick one: travel, watch, rest, hunt, scout, repair, prep, socialize.",
+  "t": "每天：<b>深夜 · 上午 · 下午 · 夜晚</b>。每个时段选一件事：赶路、守夜、休息、打猎、侦察、修理、准备、社交。"
+ },
  "68d5ba89ba26": {
   "en": "Vraki West March · Handout 10 · Today's Castle Mood",
   "t": "Vraki West March · 道具10 · 今日城堡心情"
+ },
+ "69aa2a497efb": {
+  "en": "Winga Skin",
+  "t": "温加斯金"
  },
  "6ac090254da1": {
   "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
@@ -490,6 +746,10 @@
  "6eee0f8e710b": {
   "en": "Required by Forway Law on the back of every contract",
   "t": "福威法律要求印在每份合同背面"
+ },
+ "6ffc6225d14d": {
+  "en": "Pace:",
+  "t": "节奏："
  },
  "7010c4292cd3": {
   "en": "30 pearls + all the Soreno you can eat (please don't)",
@@ -507,6 +767,14 @@
   "en": "Badge rank",
   "t": "身份牌级别"
  },
+ "7460f7e62ad7": {
+  "en": "Bleed Out",
+  "t": "布利德奥特"
+ },
+ "74d672f01df8": {
+  "en": "Winga Flight",
+  "t": "温加弗莱特"
+ },
  "75b8c6683770": {
   "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
   "t": "接取不高于自己级别的委托 · 若队伍中有人持有更高一级，可高一级 · 复活债先扣50% · 发布一个委托要花1个阿米西斯特"
@@ -518,6 +786,14 @@
  "771c54e57c5a": {
   "en": "REWARD: ____________",
   "t": "赏金：____________"
+ },
+ "782a85b3188c": {
+  "en": "Skin Melt <i>Tier I only; a laxative</i>",
+  "t": "斯金梅尔特 <i>仅限第I级；一种泻药</i>"
+ },
+ "78abe057db46": {
+  "en": "Count the circles on the travel map. <b>Fast</b> 1 day per circle · <b>Standard</b> 2 · <b>Slow</b> 3.",
+  "t": "在旅行地图上数圈。<b>快速</b>每圈1天 · <b>标准</b>2天 · <b>慢速</b>3天。"
  },
  "78ba230bb869": {
   "en": "The Poster <b>lied about the danger</b> of the route or the value of the cargo.",
@@ -543,9 +819,17 @@
   "en": "Walking Skin packs raiding nearby farms. Bar your doors. Something big is awake.",
   "t": "沃金·斯金成群袭击附近的农场。闩好门。有什么大东西醒了。"
  },
+ "79d6eac7ee3d": {
+  "en": "Wozen Smell",
+  "t": "沃增斯梅尔"
+ },
  "7a070d013210": {
   "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
   "t": "沿朗布里奇大道护送一辆商队货车从福威到桑比。布卢沃增斯在这条路上“收税”；商人不想捐。货物详情在签约时告知。"
+ },
+ "7a2be61be80e": {
+  "en": "Sore Mind",
+  "t": "索尔迈恩德"
  },
  "7a4bb4d9147a": {
   "en": "Gravity REPEL <i>thunderwave (force)</i>",
@@ -558,6 +842,14 @@
  "7c0d177ad981": {
   "en": "<b>Forrday</b> is a rest day. Embassies are closed to the public. Bodies may still be delivered to the side door.",
   "t": "<b>福日</b>是休息日。大使馆不对外开放。尸体仍可以从侧门送来。"
+ },
+ "7c5687ee24a6": {
+  "en": "Water Walk",
+  "t": "沃特沃克"
+ },
+ "7cf1dbee60e4": {
+  "en": "Standard (2)",
+  "t": "标准（2）"
  },
  "7d97ee8bf4eb": {
   "en": "Bahyum: Mood Rising",
@@ -587,6 +879,10 @@
   "en": "Sorenos have moved into a Forway grain silo and are chewing through the season's stores. Clear them out before there's nothing left to guard. Bring your own sacks.",
   "t": "一群索雷诺钻进了福威的一座粮仓，正在啃食这一季的存粮。在没东西可守之前把它们赶出去。袋子自备。"
  },
+ "81435cd83dd4": {
+  "en": "Text &amp; layout AI-assisted · World © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
+  "t": "文字与排版有AI辅助 · 世界 © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0"
+ },
  "8220146365f2": {
   "en": "Black honey (jar)",
   "t": "黑蜜（一罐）"
@@ -594,6 +890,10 @@
  "82c47debad95": {
   "en": "Last seen",
   "t": "最后一次出现"
+ },
+ "83deb1eadca6": {
+  "en": "<b>Week (5 days):</b> Freeday · Tollday · Sannday · Gannday · <b>Forrday</b> (rest; embassies closed).",
+  "t": "<b>一周（5天）：</b> 弗里日 · 托尔日 · 桑日 · 甘日 · <b>福日</b>（休息；大使馆关门）。"
  },
  "84610a41263d": {
   "en": "<b>SEEKING:</b> 3–5 adventurers for Lighthouse Duty at Cliffbay. Bring a fost lamp. Leave word at the counter.",
@@ -615,6 +915,14 @@
   "en": "Welcome back. Forway is glad you're alive. Forway would like to discuss the bill.",
   "t": "欢迎回来。福威很高兴你还活着。福威想和你谈谈账单。"
  },
+ "854ac7fb2d47": {
+  "en": "GREEN",
+  "t": "绿色"
+ },
+ "85d0b6cf504f": {
+  "en": "Rank needed",
+  "t": "所需级别"
+ },
  "86486d28d55e": {
   "en": "PAID",
   "t": "已付"
@@ -627,6 +935,10 @@
   "en": "NULLIFICATION CLAUSES",
   "t": "作废条款"
  },
+ "88b88560a923": {
+  "en": "Everything a Pearl needs to know that the embassy won't tell you twice",
+  "t": "一个珀尔需要知道、而大使馆不会说第二遍的一切"
+ },
  "89595df30548": {
   "en": "Paid to Forway",
   "t": "已付给福威"
@@ -635,9 +947,21 @@
   "en": "World DESTROY <i>shatter</i>",
   "t": "沃尔德迪斯特罗伊 <i>粉碎音波</i>"
  },
+ "898fe0329542": {
+  "en": "Time Slower",
+  "t": "泰姆斯洛沃"
+ },
+ "89953a0e7395": {
+  "en": "220 p",
+  "t": "220 p"
+ },
  "89b61c29ca4e": {
   "en": "Harm done to the cargo, passengers or Eguas <b>by the Contracted Adventurers</b> is a breach of contract and a crime under Forway Law.",
   "t": "<b>签约冒险者</b>对货物、乘客或埃瓜造成的伤害属于违约，并依福威法律构成犯罪。"
+ },
+ "8ae31954aca3": {
+  "en": "Smooth Skin",
+  "t": "斯穆斯斯金"
  },
  "8ae4cb7f9fd5": {
   "en": "Light CREATE <i>light</i>",
@@ -646,6 +970,10 @@
  "8ae5de71fd4b": {
   "en": "Circles",
   "t": "圈数"
+ },
+ "8b7b2e21a7f3": {
+  "en": "Sleep Inducer <i>Tier I only</i>",
+  "t": "斯利普因杜瑟 <i>仅限第I级</i>"
  },
  "8b93e371e76e": {
   "en": "Cargo",
@@ -658,6 +986,10 @@
  "8cd7920b835a": {
   "en": "Tier",
   "t": "等级"
+ },
+ "8d787e2c05f8": {
+  "en": "REPUTATION CHANGES (−3 to +3)",
+  "t": "声望变化（−3至+3）"
  },
  "8e52bfa426ce": {
   "en": "Amethyst (or a Pearl party led by one)",
@@ -678,6 +1010,26 @@
  "92516a005ed9": {
   "en": "A <b>Kingdom Alert</b> or an <b>Emergency</b> is called along the route. The deadline is suspended until it ends.",
   "t": "沿途发布了<b>王国警报</b>或<b>紧急状态</b>。期限暂停，直到其结束。"
+ },
+ "926730d5bcec": {
+  "en": "Paulin",
+  "t": "保林"
+ },
+ "928ff1d001ae": {
+  "en": "Quests &amp; Deadlines",
+  "t": "委托与期限"
+ },
+ "936f7803f5a7": {
+  "en": "Death &amp; Revival",
+  "t": "死亡与复活"
+ },
+ "9395015405a5": {
+  "en": "Fast (1 day/circle)",
+  "t": "快速（每圈1天）"
+ },
+ "94ed1287f29c": {
+  "en": "a meal and a beer (~5), a hostel bed (~5)",
+  "t": "一顿饭加一杯啤酒（约5）、旅舍的一张床（约5）"
  },
  "95ab1faed512": {
   "en": "1 sa",
@@ -719,13 +1071,49 @@
   "en": "Name · Place · Guild",
   "t": "姓名 · 地点 · 公会"
  },
+ "9bff89744b12": {
+  "en": "Returned to",
+  "t": "返回地"
+ },
+ "9c07984e6b64": {
+  "en": "RED",
+  "t": "红色"
+ },
  "9c2adccbb599": {
   "en": "Posted by",
   "t": "发布者"
  },
+ "9e6e6019d9bb": {
+  "en": "155 p",
+  "t": "155 p"
+ },
+ "9ecbe1189420": {
+  "en": "Tier 0 = a cantrip ring's cost per cast.",
+  "t": "第0级 = 戏法戒指每次施放的花费。"
+ },
+ "9f0645aec818": {
+  "en": "blank scrap: write your own go-between's note",
+  "t": "空白纸片：写你自己的中间人的纸条"
+ },
  "9f0bf42bbcfe": {
   "en": "Adventurers' speaker",
   "t": "冒险者代表"
+ },
+ "9f2d147d9639": {
+  "en": "Slow (3)",
+  "t": "慢速（3）"
+ },
+ "a0759af26c22": {
+  "en": "5 gp",
+  "t": "5 gp"
+ },
+ "a11a3af54446": {
+  "en": "Cruro Skin",
+  "t": "克鲁罗斯金"
+ },
+ "a18e240ac39c": {
+  "en": "Session (real date)",
+  "t": "跑团（现实日期）"
  },
  "a4f7be073854": {
   "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
@@ -734,6 +1122,10 @@
  "a5492fb86200": {
   "en": "Property of Forway · blood-registered to its bearer · do not lend (Missing Person quests excepted)",
   "t": "福威财产 · 以血登记于持有者名下 · 不得出借（寻人委托除外）"
+ },
+ "a5c9371a8eec": {
+  "en": "55 p",
+  "t": "55 p"
  },
  "a70e48bd0367": {
   "en": "SAMPLE ISSUE",
@@ -755,6 +1147,10 @@
   "en": "3 aq",
   "t": "3 aq"
  },
+ "aa813860b56e": {
+  "en": "Walking Dead",
+  "t": "沃金戴德"
+ },
  "aaa3a908692f": {
   "en": "aq = aquamarine (500 p)",
   "t": "aq = 阿夸马林（500 p）"
@@ -763,9 +1159,21 @@
   "en": "Robbing contracted cargo",
   "t": "抢劫签约货物"
  },
+ "aaedfd2b20cf": {
+  "en": "Places visited or discovered",
+  "t": "去过或发现的地方"
+ },
+ "ab9cd966dd42": {
+  "en": "<b>Fine grade</b> (inject with a syringe; works at once, no pain): double price.<br><b>Dose:</b> 1 scoop Tier I · 2 Tier II · 3 Tier III · whole jar Tier IV.",
+  "t": "<b>精制品</b>（用注射器注入；立即见效，没有痛感）：价格翻倍。<br><b>剂量：</b> 第I级1勺 · 第II级2勺 · 第III级3勺 · 第IV级整罐。"
+ },
  "abf369643984": {
   "en": "5 am",
   "t": "5 am"
+ },
+ "ac39a8a9ee8f": {
+  "en": "THE PARTY",
+  "t": "队伍"
  },
  "ac52f67906ad": {
   "en": "Ice CREATE, frost ball <i>ray of frost</i>",
@@ -775,13 +1183,37 @@
   "en": "Fleeing revival debt",
   "t": "逃避复活债"
  },
+ "ad2c363b3e7a": {
+  "en": "ADVENTURER'S REFERENCE",
+  "t": "冒险者速查表"
+ },
  "ad6542159a94": {
   "en": "WINGA MAIL",
   "t": "温加邮政"
  },
+ "adae98ab5ed8": {
+  "en": "50 gp",
+  "t": "50 gp"
+ },
+ "aea0b4da20b0": {
+  "en": "Leaving from the",
+  "t": "出发的大使馆"
+ },
+ "af927d6ffcee": {
+  "en": "To the ones guarding the wagon —<br><br> Two nights on, where the road goes narrow by the bridge, look for <u>green</u> smoke.<br> Put up a fight. Take a few bruises. Run off.<br> We take the wagon. You get <u>thirty parts in a hundred</u> of what's in it, paid in balls at the drop.<br><br> Nod to the kid if you're in.<br> Burn this.<br><br> <span style=\"padding-left:1.8in\">— a friend of the road</span>",
+  "t": "致看守货车的各位——<br><br> 两晚之后，在桥边路变窄的地方，留意<u>绿色</u>的烟。<br> 装着抵抗一下。挨几下青肿。然后跑掉。<br> 货车归我们。车上的东西你们拿<u>一百份里的三十份</u>，在交接点用球付。<br><br> 愿意干就向那孩子点个头。<br> 把这张烧了。<br><br> <span style=\"padding-left:1.8in\">——道上的朋友</span>"
+ },
+ "b02fe15abd29": {
+  "en": "Where we're going / quest",
+  "t": "目的地／委托"
+ },
  "b1e9c61f07f2": {
   "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
   "t": "<b>出售：</b> 骨木皮克，几乎没被咬过。8枚珀尔。"
+ },
+ "b340e1534631": {
+  "en": "<b>Monnalow</b> (early evening): the captain shouts the news and new quests.",
+  "t": "<b>蒙纳洛</b>（傍晚）：队长高声宣布新闻和新委托。"
  },
  "b3b4d9f426af": {
   "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
@@ -790,6 +1222,14 @@
  "b48145507a19": {
   "en": "Should you <b>die again while you still owe</b>, Forway drafts you into the <b>Forway Guard</b>, unless your companions pay the full remaining debt plus the new debt on the spot.",
   "t": "如果你<b>在还欠着债时又死了</b>，福威会把你征召进<b>福威卫兵</b>，除非你的同伴当场付清剩余的全部债务和新的债务。"
+ },
+ "b4929305944f": {
+  "en": "Adventurer (Name · Place · Guild)",
+  "t": "冒险者（姓名 · 地点 · 公会）"
+ },
+ "b53144e1f740": {
+  "en": "3–6 adventurers is ideal. Ice for bodies recommended.",
+  "t": "最好3–6名冒险者。建议为尸体备冰。"
  },
  "b594d034ad81": {
   "en": "2 am",
@@ -815,9 +1255,17 @@
   "en": "This contract is <b>void</b>, with no penalty to either party, if:",
   "t": "出现以下情况时，本合同<b>无效</b>，双方均不受罚："
  },
+ "b8e84532eec3": {
+  "en": "Adrian",
+  "t": "阿德里安"
+ },
  "b95d40e02b9d": {
   "en": "clerk",
   "t": "书记员"
+ },
+ "b962e7e58e83": {
+  "en": "65 p",
+  "t": "65 p"
  },
  "ba8a5cbb0fb1": {
   "en": "Fleeing this debt makes you <b>wanted</b>. Bounty quests will carry your face.",
@@ -830,6 +1278,10 @@
  "bb2e56d3e943": {
   "en": "Guild",
   "t": "公会"
+ },
+ "bd598ee8b5f7": {
+  "en": "Wooly Skin <i>very fashionable</i>",
+  "t": "伍利斯金 <i>非常时髦</i>"
  },
  "bd8d428fa7a3": {
   "en": "Stragglers on the plains. Travel in groups.",
@@ -847,6 +1299,10 @@
   "en": "Weekly printout · read aloud at Monnalow",
   "t": "每周印发 · 在蒙纳洛宣读"
  },
+ "bf8961b5053c": {
+  "en": "Asa",
+  "t": "阿萨"
+ },
  "bfd85a0d0f86": {
   "en": "Storm CREATE, heart jolt <i>spare the dying</i>",
   "t": "斯托姆克里埃特，心脏电击 <i>维生术</i>"
@@ -854,6 +1310,10 @@
  "bffdcf140e1e": {
   "en": "Breach of contract",
   "t": "违约"
+ },
+ "c013168836fe": {
+  "en": "Fake Skin / Eye <i>priced by the part</i>",
+  "t": "费克斯金／艾 <i>按部位定价</i>"
  },
  "c3c3329f3c3d": {
   "en": "3 days + 1 per level = ______ days □ body was iced (window doubled)",
@@ -867,6 +1327,10 @@
   "en": "□ intact □ damaged □ partial □ not delivered",
   "t": "□ 完好 □ 受损 □ 部分 □ 未交付"
  },
+ "c5e57d24af0f": {
+  "en": "Poisons · sold to badge holders",
+  "t": "毒药 · 只卖给持身份牌者"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "出发地"
@@ -878,6 +1342,10 @@
  "c7070eca4304": {
   "en": "Received by",
   "t": "收货人"
+ },
+ "c82922c73f8a": {
+  "en": "Quest or goal",
+  "t": "委托或目标"
  },
  "c88bf0d64ddf": {
   "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
@@ -907,6 +1375,14 @@
   "en": "Rank",
   "t": "等级"
  },
+ "ca7ab66f242c": {
+  "en": "1 sp",
+  "t": "1 sp"
+ },
+ "caf728f9c169": {
+  "en": "Nari Refresher",
+  "t": "纳里里弗雷舍"
+ },
  "cbbd4f346aae": {
   "en": "THIS CONTRACT IS NOT NULLIFIED BY",
   "t": "以下情况不会使本合同作废"
@@ -914,6 +1390,10 @@
  "cca85eac3e04": {
   "en": "Gravity ATTRACT, self <i>levitate / spider climb</i>",
   "t": "格拉维蒂阿特拉克特，自身 <i>浮空术／蛛行术</i>"
+ },
+ "ce28bfedae16": {
+  "en": "DEATHS, REVIVALS &amp; DEBTS",
+  "t": "死亡、复活与债务"
  },
  "ce8e4eaf77b0": {
   "en": "DELIVERY RECEIPT (destination embassy)",
@@ -926,6 +1406,14 @@
  "cf07834570cc": {
   "en": "Body RESTORE <i>cure wounds</i>",
   "t": "博迪里斯托尔 <i>疗伤术</i>"
+ },
+ "cf77414f59d8": {
+  "en": "on",
+  "t": "日期"
+ },
+ "cfdecd0008b8": {
+  "en": "Came back?",
+  "t": "回来了吗？"
  },
  "d1b5b9114b00": {
   "en": "Spring",
@@ -955,9 +1443,17 @@
   "en": "For letters home, warnings ahead, and double-crosses. Cut along the dashed lines.",
   "t": "用于家书、提前警告和背叛。沿虚线剪下。"
  },
+ "d7b43f2f8d2f": {
+  "en": "WHERE WE WANT TO GO NEXT",
+  "t": "下次想去的地方"
+ },
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "球"
+ },
+ "d88ffab5eda6": {
+  "en": "Real-world session: date &amp; time",
+  "t": "现实中的跑团：日期与时间"
  },
  "d9daeebbcea6": {
   "en": "HAVE YOU SEEN<br>THIS MAN?",
@@ -970,6 +1466,10 @@
  "daa6158bcea9": {
   "en": "Gravity DECREASE, self <i>feather fall / jump</i>",
   "t": "格拉维蒂迪克里斯，自身 <i>羽落术／跳跃术</i>"
+ },
+ "db4d33ed5b1f": {
+  "en": "a nari stone, a map, a badge, most rings",
+  "t": "一块纳里石、一张地图、一块身份牌、大多数戒指"
  },
  "db86f5d8e66f": {
   "en": "cut out this marker, or use a paperclip:",
@@ -1031,6 +1531,30 @@
   "en": "20 p · 5 p",
   "t": "20 p · 5 p"
  },
+ "e91bc1aae510": {
+  "en": "<b>Blank rings</b> are sold only to courtroom scientists and Aquamarine-rank adventurers (show your badge). Rings carved to order.",
+  "t": "<b>空白戒指</b>只卖给宫廷科学家和阿夸马林级冒险者（出示身份牌）。戒指按订单雕刻。"
+ },
+ "eaecd21a4ce8": {
+  "en": "<span>Retreat</span>",
+  "t": "<span>撤退</span>"
+ },
+ "eb238ddf5d9e": {
+  "en": "CYAN",
+  "t": "青色"
+ },
+ "eb6c5eb05452": {
+  "en": "EXPEDITION REPORT",
+  "t": "探险报告"
+ },
+ "ebfe6e1ae464": {
+  "en": "40 p",
+  "t": "40 p"
+ },
+ "ebff0456f35b": {
+  "en": "Arm Light",
+  "t": "阿姆莱特"
+ },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
   "t": "1阿夸马林"
@@ -1042,6 +1566,10 @@
  "edb8957aad32": {
   "en": "Aquamarine",
   "t": "阿夸马林"
+ },
+ "edd0fea6d379": {
+  "en": "Days = circles × 1, 2 or 3 (the DM chooses)",
+  "t": "天数 = 圈数 × 1、2或3（由DM选择）"
  },
  "ef30a8d69ce2": {
   "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
@@ -1067,9 +1595,17 @@
   "en": "Quiet. The doors stand open. Historians, this is your day.",
   "t": "安静。大门敞开。历史学家们，今天是你们的日子。"
  },
+ "f3bdfb86cccc": {
+  "en": "Left from",
+  "t": "出发地"
+ },
  "f3d306caeafa": {
   "en": "Sigil rings · nari gels · stones &amp; bombs · Forway prices (other cities charge more for distance)",
   "t": "西吉尔戒指 · 纳里凝胶 · 石头和炸弹 · 福威价格（其他城市按距离加价）"
+ },
+ "f466616ff023": {
+  "en": "Money (balls)",
+  "t": "货币（球）"
  },
  "f4d19ca4b670": {
   "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
@@ -1079,6 +1615,10 @@
   "en": "The man himself, breathing",
   "t": "本人，还在喘气"
  },
+ "f5ae3cd136ba": {
+  "en": "Vraki West March · Handout 14 · Expedition Report",
+  "t": "Vraki West March · 道具14 · 探险报告"
+ },
  "f5aea10a8548": {
   "en": "To",
   "t": "目的地"
@@ -1087,9 +1627,17 @@
   "en": "FORWAY EMBASSY · AQUAMARINE",
   "t": "福威大使馆 · 阿夸马林"
  },
+ "f85de68704ba": {
+  "en": "RUMORS HEARD · UNFINISHED BUSINESS · WARNINGS FOR THE NEXT PARTY",
+  "t": "听到的传闻 · 没办完的事 · 给下一支队伍的警告"
+ },
  "f88b2a35f578": {
   "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
   "t": "提供他下落的确切情报者，任何福威大使馆均可支付"
+ },
+ "f94a2bae4aa6": {
+  "en": "1 Sapphire",
+  "t": "1个萨菲尔"
  },
  "f95ed6f5d34d": {
   "en": "Furious",
@@ -1103,6 +1651,10 @@
   "en": "Soreno Scourge",
   "t": "索雷诺之灾"
  },
+ "fa6cc2a8caa7": {
+  "en": "<span>Conquered / complete</span>",
+  "t": "<span>已攻克／已完成</span>"
+ },
  "fbe3b46cbe70": {
   "en": "Embassy",
   "t": "大使馆"
@@ -1110,6 +1662,10 @@
  "fc579a92ff12": {
   "en": "Round trip + 50%, set by the clerk",
   "t": "往返时间 + 50%，由书记员定"
+ },
+ "fce2ef6914a2": {
+  "en": "No Breath",
+  "t": "诺布雷斯"
  },
  "fde8991d39b8": {
   "en": "You wake with 1 HP and one level of exhaustion. Rest. Eat something. Do not die today.",
