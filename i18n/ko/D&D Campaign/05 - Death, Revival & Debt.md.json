@@ -1,6 +1,114 @@
 {
+ "0b1cafe4a3f6": {
+  "en": "Dying",
+  "t": "죽어 가기"
+ },
+ "1316fed2b7f5": {
+  "en": "Every quest contract has a **deadline** (see Quest Board). If the party isn't back at an embassy by then:",
+  "t": "모든 의뢰 계약에는 **기한**이 있다(‘의뢰 게시판’ 참고). 그때까지 일행이 대사관에 돌아오지 않으면:"
+ },
+ "1430f8382b3d": {
+  "en": "Keeping the body cold (ice spells, snow, an ice preserver) **doubles** the window. Burned, dissolved or eaten bodies can't be revived.",
+  "t": "몸을 차갑게 유지하면(얼음 주문, 눈, 얼음 보관함) 기한이 **두 배**가 된다. 불타거나, 녹거나, 먹힌 몸은 되살릴 수 없다."
+ },
+ "25fa49832ed7": {
+  "en": "**Revival window = 3 days + 1 day per character level.**",
+  "t": "**부활 기한 = 3일 + 캐릭터 레벨당 1일.**"
+ },
+ "2df671ce7d96": {
+  "en": "Fleeing your debt makes you a **wanted** criminal (bounty quests appear with your face on them).",
+  "t": "빚을 떼먹고 달아나면 **수배** 범죄자가 된다(당신 얼굴이 그려진 현상금 의뢰가 뜬다)."
+ },
+ "329d5a17dcf2": {
+  "en": "The revival window",
+  "t": "부활 기한"
+ },
+ "343c8cbfd594": {
+  "en": "They now owe **Revival Debt** to Forway.",
+  "t": "이제 포웨이에 **부활 빚**을 진다."
+ },
+ "4ece5231567c": {
+  "en": "The adventurer wakes with 1 HP and **one level of exhaustion**.",
+  "t": "모험가는 1 HP와 **탈진 1단계**로 깨어난다."
+ },
+ "516bc27460d7": {
+  "en": "**Debt = 100 pearls × character level** (a level 3 adventurer owes 300 pearls; a level 10, 1,000).",
+  "t": "**빚 = 100 펄 × 캐릭터 레벨**(3레벨 모험가는 300 펄, 10레벨은 1,000)."
+ },
+ "57d0eb6ed989": {
+  "en": "Bodies not found in time: **Presumed Soul Dead**. Forway keeps the badge; belongings go to the character's top guild (or to charity after a year).",
+  "t": "제때 찾지 못한 시체: **영혼의 죽음으로 추정**. 신분패는 포웨이가 보관하고, 소지품은 캐릭터의 대표 길드로 간다(1년 뒤에는 자선 단체로)."
+ },
+ "58d7ac5629bb": {
+  "en": "This is also the West March \"get home\" rule: a session that ends with the party in the wild means the deadline keeps running until the next session with those characters.",
+  "t": "이것은 웨스트 마치의 ‘집에 돌아오기’ 규칙이기도 하다: 일행이 야생에 있는 채로 세션이 끝나면, 그 캐릭터들로 다음 세션을 할 때까지 기한은 계속 흐른다."
+ },
+ "621fa975c19f": {
+  "en": "Use normal 5e death saving throws. When you die, your soul stays tied to your body while the body lasts. The dead dream of their strongest memories.",
+  "t": "5판의 일반 죽음 내성 굴림을 쓴다. 죽어도 몸이 남아 있는 동안 영혼은 몸에 묶여 있다. 죽은 자는 가장 강한 기억을 꿈꾼다."
+ },
  "624c727b5e79": {
   "en": "Revival debt",
   "t": "부활 빚"
+ },
+ "6896fdd71498": {
+  "en": "Living adventurers who are found get escorted home and owe the search party's fee: **1 amethyst per rank tier** (Pearl 1, Amethyst 2, Aquamarine 3, Sapphire 4) each.",
+  "t": "살아서 발견된 모험가는 집까지 호송되고, 각자 수색대 비용을 낸다: **계급 단계당 1 애머시스트**(펄 1, 애머시스트 2, 아쿠아마린 3, 사파이어 4)."
+ },
+ "69a87e374172": {
+  "en": "After the window closes, the soul dissolves: the character is **Soul Dead** — gone for good.",
+  "t": "기한이 지나면 영혼이 녹아 없어진다: 캐릭터는 **영혼의 죽음**을 맞이한다 — 영원히 사라진다."
+ },
+ "7ffb73a274ac": {
+  "en": "Embassy revival",
+  "t": "대사관 부활"
+ },
+ "921330cd8f61": {
+  "en": "If they find bodies within the revival window, those adventurers are revived with debt — and the **quest credit and reward go to the search party**.",
+  "t": "부활 기한 안에 시체를 찾으면 그 모험가들은 빚을 지고 되살아난다 — 그리고 **의뢰의 공로와 보수는 수색대에게 간다**."
+ },
+ "a2164ec7da9f": {
+  "en": "Death, Revival & Debt",
+  "t": "죽음, 부활, 빚"
+ },
+ "b85efb022ea2": {
+  "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
+  "t": "많은 모험가 — 그리고 폴른 트리 산적들 — 은 이것을 노예제라고 부른다. 완전히 틀린 말은 아니다."
+ },
+ "c06a23abd89b": {
+  "en": "**Die again while you still owe** and Forway **drafts you into the Forway Guard**: the character retires as an NPC guard (a great recurring NPC), unless the party pays the full remaining debt plus the new debt on the spot.",
+  "t": "**빚이 남은 채로 또 죽으면** 포웨이가 **당신을 포웨이 경비대에 징집한다**: 캐릭터는 NPC 경비병으로 은퇴한다(되풀이해 등장시키기 좋은 NPC). 단, 일행이 그 자리에서 남은 빚과 새 빚을 모두 갚으면 예외다."
+ },
+ "c386e0c6af88": {
+  "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
+  "t": "대사관이 **수색대**를 보낸다. 1d6을 굴려라: 마지막으로 알려진 위치에 도착하기까지 걸리는 일수다."
+ },
+ "c6f4e2b98f1f": {
+  "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",
+  "t": "죽은 지 1분 안: **검은 꿀 부활 단지** 또는 *소생*(보디 리스토어 + 스톰 크리에이트 반지 한 쌍, III등급).\n그 뒤 기한 안: 몸을 아무 **대사관**에나 옮긴다. (얼음에 재워라. 진심이다.)"
+ },
+ "c8c19b3cca9c": {
+  "en": "Quest deadlines and search parties",
+  "t": "의뢰 기한과 수색대"
+ },
+ "cf75b0968dcf": {
+  "en": "In Vraki, death is usually a **financial** problem. That's the point.",
+  "t": "브라키에서 죽음은 대개 **돈** 문제다. 그게 핵심이다."
+ },
+ "d55d4b2459a3": {
+  "en": "Field revival",
+  "t": "현장 부활"
+ },
+ "d63ec3733ade": {
+  "en": "A body can be revived as long as its soul hasn't detached:",
+  "t": "영혼이 떨어져 나가지 않았다면 몸은 되살릴 수 있다."
+ },
+ "e33d7aed698a": {
+  "en": "Any embassy revives an adventurer whose body arrives within the revival window. It always works — unless the adventurer has a Walking Heart, is Hash-mutated, or the DM has a very good story reason.",
+  "t": "어느 대사관이든 부활 기한 안에 몸이 도착한 모험가를 되살린다. 언제나 성공한다 — 그 모험가가 워킹 하트를 가졌거나, 해시로 변이했거나, DM에게 아주 좋은 이야기상의 이유가 있지 않는 한."
+ },
+ "f3f30724e756": {
+  "en": "Until it's paid, **50% of every quest reward** goes to Forway. You can also pay it off with balls any time.",
+  "t": "다 갚을 때까지 **모든 의뢰 보수의 50%** 가 포웨이로 간다. 언제든 볼로 갚아도 된다."
  }
 }

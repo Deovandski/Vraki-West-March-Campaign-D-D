@@ -1,6 +1,114 @@
 {
+ "0b1cafe4a3f6": {
+  "en": "Dying",
+  "t": "死にかける"
+ },
+ "1316fed2b7f5": {
+  "en": "Every quest contract has a **deadline** (see Quest Board). If the party isn't back at an embassy by then:",
+  "t": "どの依頼契約にも**期限**がある（「依頼掲示板」を参照）。それまでに一行が大使館に戻っていなければ："
+ },
+ "1430f8382b3d": {
+  "en": "Keeping the body cold (ice spells, snow, an ice preserver) **doubles** the window. Burned, dissolved or eaten bodies can't be revived.",
+  "t": "体を冷やしておくと（氷の呪文、雪、氷の保存箱）猶予が**2倍**になる。焼かれた、溶かされた、食べられた体は蘇生できない。"
+ },
+ "25fa49832ed7": {
+  "en": "**Revival window = 3 days + 1 day per character level.**",
+  "t": "**蘇生の猶予 ＝ 3日 ＋ キャラクター・レベルごとに1日。**"
+ },
+ "2df671ce7d96": {
+  "en": "Fleeing your debt makes you a **wanted** criminal (bounty quests appear with your face on them).",
+  "t": "借金から逃げると**指名手配**の犯罪者になる（あなたの顔が描かれた賞金首の依頼が出る）。"
+ },
+ "329d5a17dcf2": {
+  "en": "The revival window",
+  "t": "蘇生の猶予"
+ },
+ "343c8cbfd594": {
+  "en": "They now owe **Revival Debt** to Forway.",
+  "t": "そしてフォーウェイに**蘇生の借金**を負う。"
+ },
+ "4ece5231567c": {
+  "en": "The adventurer wakes with 1 HP and **one level of exhaustion**.",
+  "t": "冒険者はHP 1、**消耗レベル1**で目を覚ます。"
+ },
+ "516bc27460d7": {
+  "en": "**Debt = 100 pearls × character level** (a level 3 adventurer owes 300 pearls; a level 10, 1,000).",
+  "t": "**借金 ＝ 100パール × キャラクター・レベル**（レベル3の冒険者なら300パール、レベル10なら1,000）。"
+ },
+ "57d0eb6ed989": {
+  "en": "Bodies not found in time: **Presumed Soul Dead**. Forway keeps the badge; belongings go to the character's top guild (or to charity after a year).",
+  "t": "期限内に体が見つからなければ：**魂の死と推定**される。身分証はフォーウェイが保管し、持ち物はそのキャラクターの所属するいちばん上のギルドへ（1年後には慈善団体へ）渡る。"
+ },
+ "58d7ac5629bb": {
+  "en": "This is also the West March \"get home\" rule: a session that ends with the party in the wild means the deadline keeps running until the next session with those characters.",
+  "t": "これはウェストマーチの「家に帰る」ルールでもある：一行が荒野にいるままセッションが終わったら、そのキャラクターたちで次のセッションをするまで期限は進み続ける。"
+ },
+ "621fa975c19f": {
+  "en": "Use normal 5e death saving throws. When you die, your soul stays tied to your body while the body lasts. The dead dream of their strongest memories.",
+  "t": "第5版の通常の死亡セーヴィング・スローを使う。死んでも、体が残っているあいだは魂は体に結びついたままだ。死者はいちばん強い記憶を夢に見る。"
+ },
  "624c727b5e79": {
   "en": "Revival debt",
   "t": "蘇生の借金"
+ },
+ "6896fdd71498": {
+  "en": "Living adventurers who are found get escorted home and owe the search party's fee: **1 amethyst per rank tier** (Pearl 1, Amethyst 2, Aquamarine 3, Sapphire 4) each.",
+  "t": "生きて見つかった冒険者は家まで護送され、それぞれが捜索隊の料金を払う：**階級の段ごとに1アメジスト**（パール1、アメジスト2、アクアマリン3、サファイア4）。"
+ },
+ "69a87e374172": {
+  "en": "After the window closes, the soul dissolves: the character is **Soul Dead** — gone for good.",
+  "t": "猶予が過ぎると魂は溶けてなくなる：キャラクターは**魂の死**を迎え — 永遠に失われる。"
+ },
+ "7ffb73a274ac": {
+  "en": "Embassy revival",
+  "t": "大使館での蘇生"
+ },
+ "921330cd8f61": {
+  "en": "If they find bodies within the revival window, those adventurers are revived with debt — and the **quest credit and reward go to the search party**.",
+  "t": "蘇生の猶予のうちに体が見つかれば、その冒険者たちは借金つきで蘇生される — そして**依頼の功績と報酬は捜索隊のものになる**。"
+ },
+ "a2164ec7da9f": {
+  "en": "Death, Revival & Debt",
+  "t": "死、蘇生、借金"
+ },
+ "b85efb022ea2": {
+  "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
+  "t": "多くの冒険者 — そしてフォールンツリーの盗賊たち — はこれを奴隷制と呼ぶ。あながち間違いではない。"
+ },
+ "c06a23abd89b": {
+  "en": "**Die again while you still owe** and Forway **drafts you into the Forway Guard**: the character retires as an NPC guard (a great recurring NPC), unless the party pays the full remaining debt plus the new debt on the spot.",
+  "t": "**借金が残っているうちにまた死ぬ**と、フォーウェイは**あなたをフォーウェイ衛兵隊に徴用する**：そのキャラクターはNPCの衛兵として引退する（繰り返し登場させるのにうってつけのNPCだ）。ただし、一行がその場で残りの借金と新しい借金を全額払えば別だ。"
+ },
+ "c386e0c6af88": {
+  "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
+  "t": "大使館は**捜索隊**を送る。1d6を振る：最後に確認された場所に捜索隊が着くまでの日数だ。"
+ },
+ "c6f4e2b98f1f": {
+  "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",
+  "t": "死んでから1分以内：**黒い蜜の蘇生壺**か*リヴィヴィファイ*（ボディ・リストア＋ストーム・クリエイトの指輪一組、ティアIII）。\nそれ以降、猶予のうちに：体をどこかの**大使館**へ運ぶ。（冷やしておくこと。本当に。）"
+ },
+ "c8c19b3cca9c": {
+  "en": "Quest deadlines and search parties",
+  "t": "依頼の期限と捜索隊"
+ },
+ "cf75b0968dcf": {
+  "en": "In Vraki, death is usually a **financial** problem. That's the point.",
+  "t": "ヴラキでは、死はたいてい**お金の**問題だ。そこがポイントだ。"
+ },
+ "d55d4b2459a3": {
+  "en": "Field revival",
+  "t": "現場での蘇生"
+ },
+ "d63ec3733ade": {
+  "en": "A body can be revived as long as its soul hasn't detached:",
+  "t": "魂が離れていない限り、体は蘇生できる。"
+ },
+ "e33d7aed698a": {
+  "en": "Any embassy revives an adventurer whose body arrives within the revival window. It always works — unless the adventurer has a Walking Heart, is Hash-mutated, or the DM has a very good story reason.",
+  "t": "どの大使館も、蘇生の猶予のうちに体が届いた冒険者を蘇生させる。必ず成功する — その冒険者がウォーキングハートを持っている、ハッシュ化している、あるいはDMにとても良い物語上の理由がある場合を除いて。"
+ },
+ "f3f30724e756": {
+  "en": "Until it's paid, **50% of every quest reward** goes to Forway. You can also pay it off with balls any time.",
+  "t": "返し終わるまで、**依頼の報酬の50%** がフォーウェイに行く。ボールでいつでも返済してもよい。"
  }
 }

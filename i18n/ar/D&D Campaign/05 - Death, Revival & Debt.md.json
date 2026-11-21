@@ -1,6 +1,114 @@
 {
+ "0b1cafe4a3f6": {
+  "en": "Dying",
+  "t": "الاحتضار"
+ },
+ "1316fed2b7f5": {
+  "en": "Every quest contract has a **deadline** (see Quest Board). If the party isn't back at an embassy by then:",
+  "t": "لكل عقد مهمة **موعد نهائي** (انظر لوحة المهام). إن لم يعد الفريق إلى سفارة بحلوله:"
+ },
+ "1430f8382b3d": {
+  "en": "Keeping the body cold (ice spells, snow, an ice preserver) **doubles** the window. Burned, dissolved or eaten bodies can't be revived.",
+  "t": "إبقاء الجسد باردًا (تعاويذ الجليد، الثلج، حافظة جليد) **يضاعف** النافذة. ولا يمكن إحياء الأجساد المحروقة أو المذابة أو المأكولة."
+ },
+ "25fa49832ed7": {
+  "en": "**Revival window = 3 days + 1 day per character level.**",
+  "t": "**نافذة الإحياء = 3 أيام + يوم لكل مستوى من مستويات الشخصية.**"
+ },
+ "2df671ce7d96": {
+  "en": "Fleeing your debt makes you a **wanted** criminal (bounty quests appear with your face on them).",
+  "t": "الهرب من دينك يجعلك مجرمًا **مطلوبًا** (تظهر مهام مكافآت عليها وجهك)."
+ },
+ "329d5a17dcf2": {
+  "en": "The revival window",
+  "t": "نافذة الإحياء"
+ },
+ "343c8cbfd594": {
+  "en": "They now owe **Revival Debt** to Forway.",
+  "t": "وصار الآن مدينًا لفورواي بـ**دين الإحياء**."
+ },
+ "4ece5231567c": {
+  "en": "The adventurer wakes with 1 HP and **one level of exhaustion**.",
+  "t": "يستيقظ المغامر بـ1 HP و**مستوى واحد من الإنهاك**."
+ },
+ "516bc27460d7": {
+  "en": "**Debt = 100 pearls × character level** (a level 3 adventurer owes 300 pearls; a level 10, 1,000).",
+  "t": "**الدين = 100 بيرل × مستوى الشخصية** (مغامر المستوى 3 يدين بـ300 بيرل؛ ومغامر المستوى 10 بـ1,000)."
+ },
+ "57d0eb6ed989": {
+  "en": "Bodies not found in time: **Presumed Soul Dead**. Forway keeps the badge; belongings go to the character's top guild (or to charity after a year).",
+  "t": "الجثث التي لا يُعثر عليها في الوقت: **يُفترض موت أرواحها**. تحتفظ فورواي بالبطاقة؛ وتذهب المقتنيات إلى أعلى نقابة للشخصية (أو إلى الأعمال الخيرية بعد سنة)."
+ },
+ "58d7ac5629bb": {
+  "en": "This is also the West March \"get home\" rule: a session that ends with the party in the wild means the deadline keeps running until the next session with those characters.",
+  "t": "وهذه أيضًا قاعدة «العودة إلى البيت» في ويست مارش: الجلسة التي تنتهي والفريق في البرية تعني أن الموعد يظل يجري حتى الجلسة التالية مع تلك الشخصيات."
+ },
+ "621fa975c19f": {
+  "en": "Use normal 5e death saving throws. When you die, your soul stays tied to your body while the body lasts. The dead dream of their strongest memories.",
+  "t": "استخدم رميات الإنقاذ من الموت العادية في 5e. حين تموت، تبقى روحك مربوطة بجسدك ما دام الجسد باقيًا. ويحلم الموتى بأقوى ذكرياتهم."
+ },
  "624c727b5e79": {
   "en": "Revival debt",
   "t": "دين الإحياء"
+ },
+ "6896fdd71498": {
+  "en": "Living adventurers who are found get escorted home and owe the search party's fee: **1 amethyst per rank tier** (Pearl 1, Amethyst 2, Aquamarine 3, Sapphire 4) each.",
+  "t": "ويُرافَق المغامرون الأحياء الذين يُعثر عليهم إلى بيوتهم، ويدين كل منهم برسم فريق البحث: **1 أميثيست لكل درجة رتبة** (بيرل 1، أميثيست 2، أكوامارين 3، سافاير 4)."
+ },
+ "69a87e374172": {
+  "en": "After the window closes, the soul dissolves: the character is **Soul Dead** — gone for good.",
+  "t": "بعد أن تُغلق النافذة، تذوب الروح: تصبح الشخصية **ميتة الروح** — ذهبت إلى الأبد."
+ },
+ "7ffb73a274ac": {
+  "en": "Embassy revival",
+  "t": "الإحياء في السفارة"
+ },
+ "921330cd8f61": {
+  "en": "If they find bodies within the revival window, those adventurers are revived with debt — and the **quest credit and reward go to the search party**.",
+  "t": "إن وجدوا جثثًا ضمن نافذة الإحياء، يُحيا أولئك المغامرون مع الدين — و**يذهب رصيد المهمة ومكافأتها إلى فريق البحث**."
+ },
+ "a2164ec7da9f": {
+  "en": "Death, Revival & Debt",
+  "t": "الموت والإحياء والدين"
+ },
+ "b85efb022ea2": {
+  "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
+  "t": "كثير من المغامرين — وقطّاع طرق فولن تري — يسمّون هذا عبودية. وليسوا مخطئين تمامًا."
+ },
+ "c06a23abd89b": {
+  "en": "**Die again while you still owe** and Forway **drafts you into the Forway Guard**: the character retires as an NPC guard (a great recurring NPC), unless the party pays the full remaining debt plus the new debt on the spot.",
+  "t": "**مُت مرة أخرى وأنت ما زلت مدينًا** فـ**تجنّدك فورواي في حرس فورواي**: تتقاعد الشخصية حارسًا من الشخصيات غير اللاعبة (شخصية متكررة رائعة)، إلا إن دفع الفريق في الحال الدين المتبقي كاملًا مع الدين الجديد."
+ },
+ "c386e0c6af88": {
+  "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
+  "t": "ترسل السفارة **فريق بحث**. ارمِ 1d6: هذا عدد الأيام حتى يبلغ آخر موقع معروف."
+ },
+ "c6f4e2b98f1f": {
+  "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",
+  "t": "خلال دقيقة من الموت: **إناء العسل الأسود للإحياء** أو *الإحياء* (زوج خاتمَي بودي ريستور + ستورم كرييت، المستوى III).\nلاحقًا، ضمن النافذة: احمل الجسد إلى أي **سفارة**. (ضعه في الثلج. جديًا.)"
+ },
+ "c8c19b3cca9c": {
+  "en": "Quest deadlines and search parties",
+  "t": "مواعيد المهام وفرق البحث"
+ },
+ "cf75b0968dcf": {
+  "en": "In Vraki, death is usually a **financial** problem. That's the point.",
+  "t": "في فراكي، الموت عادةً مشكلة **مالية**. وهذا هو المقصود."
+ },
+ "d55d4b2459a3": {
+  "en": "Field revival",
+  "t": "الإحياء في الميدان"
+ },
+ "d63ec3733ade": {
+  "en": "A body can be revived as long as its soul hasn't detached:",
+  "t": "يمكن إحياء الجسد ما دامت روحه لم تنفصل:"
+ },
+ "e33d7aed698a": {
+  "en": "Any embassy revives an adventurer whose body arrives within the revival window. It always works — unless the adventurer has a Walking Heart, is Hash-mutated, or the DM has a very good story reason.",
+  "t": "أي سفارة تُحيي مغامرًا يصل جسده ضمن نافذة الإحياء. وينجح ذلك دائمًا — إلا إن كان لدى المغامر ووكينغ هارت، أو كان متحوّرًا بالهاش، أو كان لدى مدير اللعبة سبب قصصي وجيه جدًا."
+ },
+ "f3f30724e756": {
+  "en": "Until it's paid, **50% of every quest reward** goes to Forway. You can also pay it off with balls any time.",
+  "t": "حتى يُسدَّد، يذهب **50% من كل مكافأة مهمة** إلى فورواي. ويمكنك أيضًا سداده بالكرات في أي وقت."
  }
 }

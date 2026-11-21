@@ -3,6 +3,10 @@
   "en": "III",
   "t": "III"
  },
+ "076a428ce1ca": {
+  "en": "Signal smoke bomb (red/cyan/green/yellow)",
+  "t": "信号烟雾弹（红／青／绿／黄）"
+ },
  "0c00c18dd4d7": {
   "en": "Place",
   "t": "地点"
@@ -79,6 +83,14 @@
   "en": "Revival window",
   "t": "复活期限"
  },
+ "65283b7e6485": {
+  "en": "Water-reactive nari bomb",
+  "t": "遇水反应的纳里炸弹"
+ },
+ "8220146365f2": {
+  "en": "Black honey (jar)",
+  "t": "黑蜜（一罐）"
+ },
  "849cc321f202": {
   "en": "Level",
   "t": "等级"
@@ -98,6 +110,10 @@
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "b76af4cfe69d": {
+  "en": "Black honey revival pot",
+  "t": "黑蜜复活罐"
  },
  "be2326901242": {
   "en": "Travel by Circles",
@@ -134,6 +150,10 @@
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "球"
+ },
+ "dec64fbe04ed": {
+  "en": "Nari stone stick (5 stones)",
+  "t": "纳里石棒（5颗石头）"
  },
  "e3d95e017a11": {
   "en": "Month",

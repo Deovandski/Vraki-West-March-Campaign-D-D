@@ -1,39 +1,279 @@
 {
+ "01cd70f3cd35": {
+  "en": "Thick coat: +1 AC, disadv. on stealth",
+  "t": "Pelaje grueso: +1 a la AC, desv. en sigilo"
+ },
+ "02ed88d532ca": {
+  "en": "Can't form new memories for the duration",
+  "t": "No puede formar recuerdos nuevos mientras dure"
+ },
  "04262c74cc48": {
   "en": "Nari Gels & Gear",
   "t": "Geles de nari y equipo"
+ },
+ "06261b5c960e": {
+  "en": "Flawless complexion (adv. on one Persuasion)",
+  "t": "Cutis impecable (vent. en una prueba de Persuasión)"
+ },
+ "076a428ce1ca": {
+  "en": "Signal smoke bomb (red/cyan/green/yellow)",
+  "t": "Bomba de humo de señal (rojo/cian/verde/amarillo)"
+ },
+ "0db483b96ea9": {
+  "en": "Darkvision 120 ft; you see green as gray (DM describes everything as neon)",
+  "t": "Visión en la oscuridad 120 pies; ves el verde gris (el DM lo describe todo como neón)"
+ },
+ "0e206b60f4c2": {
+  "en": "Resistance to psychic damage; speed −10 ft; disadv. on initiative",
+  "t": "Resistencia al daño psíquico; velocidad −10 pies; desv. en la iniciativa"
+ },
+ "0f81ee943991": {
+  "en": "Restrained, can't speak (DC 13 Con ends at end of turn)",
+  "t": "Apresado, no puedes hablar (Con DC 13 lo termina al final del turno)"
+ },
+ "0faac30f419b": {
+  "en": "As Skin Melt IV",
+  "t": "Como Skin Melt IV"
+ },
+ "0faccb6d50e8": {
+  "en": "Darkvision 120 ft; disadv. on reading and close work",
+  "t": "Visión en la oscuridad 120 pies; desv. al leer y en trabajos de cerca"
+ },
+ "10ae207e1611": {
+  "en": "Fly 30 ft (light or no armor; can't hold two-handed items or use somatic components while flying)",
+  "t": "Volar 30 pies (con armadura ligera o sin ella; mientras vuelas no puedes sujetar objetos a dos manos ni usar componentes somáticos)"
+ },
+ "14f86d5be3a4": {
+  "en": "Jam into a Wood Person's crown (melee attack against AC 14, or while it's grappled) to **paralyze** it",
+  "t": "Clávala en la copa de un Wood Person (ataque cuerpo a cuerpo contra AC 14, o mientras está agarrado) para **paralizarlo**"
+ },
+ "1541e5b3811b": {
+  "en": "Thrown into water: 3d6 thunder in 15 ft and a 20-ft geyser. Wrap in paper to delay 1 round",
+  "t": "Lanzada al agua: 3d6 de trueno a 15 pies y un géiser de 20 pies. Envuélvela en papel para retrasarla 1 asalto"
+ },
+ "155b086ce724": {
+  "en": "**Sigil rings**: see Soul Energy rules.",
+  "t": "**Anillos de sigilo**: ver las reglas de energía del alma."
+ },
+ "19993e45d672": {
+  "en": "Walk on water (Large/Darfaries)",
+  "t": "Caminas sobre el agua (Grande/darfaries)"
  },
  "1a8c48eeb141": {
   "en": "Price",
   "t": "Precio"
  },
+ "1aa1e29b125c": {
+  "en": "Speed halved",
+  "t": "Velocidad a la mitad"
+ },
+ "1aa2f3272b9b": {
+  "en": "Companions",
+  "t": "Compañeros"
+ },
+ "1abd5d23a35e": {
+  "en": "Feed several stones in one action",
+  "t": "Alimenta con varias piedras en una sola acción"
+ },
+ "1bfa6d34ab17": {
+  "en": "priceless / illegal to sell",
+  "t": "no tiene precio / venderlo es ilegal"
+ },
+ "1ca8da91ab11": {
+  "en": "**Sleep Inducer** (poison; II+ banned)",
+  "t": "**Sleep Inducer** (veneno; II+ prohibido)"
+ },
+ "1cecbb6bc55c": {
+  "en": "**Fake Skin / Eye**",
+  "t": "**Fake Skin / Eye**"
+ },
+ "1cf395d2f928": {
+  "en": "Unconscious 1 hour (DC 13 Con)",
+  "t": "Inconsciente 1 hora (Con DC 13)"
+ },
+ "1d5db4413684": {
+  "en": "Fost lamp",
+  "t": "Lámpara fost"
+ },
+ "1da204a107a2": {
+  "en": "Porter for rough terrain",
+  "t": "Porteador para terreno abrupto"
+ },
+ "1dcc3f06fdf9": {
+  "en": "+2 initiative, can't be surprised, no sleep needed tonight",
+  "t": "+2 a la iniciativa, no te pueden sorprender, no necesitas dormir esta noche"
+ },
  "1decf382bac7": {
   "en": "**Walking Dead**",
   "t": "**Walking Dead**"
+ },
+ "1f62fb6dc94e": {
+  "en": "Item",
+  "t": "Objeto"
+ },
+ "1f67dc27d568": {
+  "en": "Detects invisible things and sand worms; goofy",
+  "t": "Detecta cosas invisibles y sand worms; payaso"
+ },
+ "204cb4b10525": {
+  "en": "Malformed gills: disadv. on Con checks, can't eat",
+  "t": "Branquias deformes: desv. en pruebas de Con, no puedes comer"
  },
  "20ef4273b8b7": {
   "en": "**Wooly Skin**",
   "t": "**Wooly Skin**"
  },
+ "21307738f32b": {
+  "en": "Look like the target's part (cosmetic)",
+  "t": "Te pareces a la parte del objetivo (cosmético)"
+ },
+ "229182d4733b": {
+  "en": "Small horns (1d4 gore), deep voice, resistance to cold",
+  "t": "Cuernos pequeños (cornada 1d4), voz grave, resistencia al frío"
+ },
  "26f38bb185ba": {
   "en": "**Mind Enabler** (banned)",
   "t": "**Mind Enabler** (prohibido)"
+ },
+ "277bc41bc456": {
+  "en": "Feathery hair (cosmetic)",
+  "t": "Pelo de plumas (cosmético)"
  },
  "279a3b452e52": {
   "en": "**No Breath**",
   "t": "**No Breath**"
  },
+ "279b40cf72d7": {
+  "en": "Nari Worm egg",
+  "t": "Huevo de Nari Worm"
+ },
+ "27ce44dc9538": {
+  "en": "Advantage on Survival checks to predict weather and hunting",
+  "t": "Ventaja en las pruebas de Supervivencia para predecir el tiempo y la caza"
+ },
+ "2a62276e67bc": {
+  "en": "Full wagon puller",
+  "t": "Tira de un carro completo"
+ },
+ "2a6d387bfe03": {
+  "en": "Gel effects",
+  "t": "Efectos de los geles"
+ },
+ "2c68086e13fb": {
+  "en": "Smoke bomb (intense)",
+  "t": "Bomba de humo (intensa)"
+ },
  "2c7f2cbc034d": {
   "en": "**Time Quicken**",
   "t": "**Time Quicken**"
+ },
+ "2cc9d0ebb4ae": {
+  "en": "Euphoric: immune to fear",
+  "t": "Eufórico: inmune al miedo"
+ },
+ "2eee9940b164": {
+  "en": "Flatland Companion Meetup fee (2 aquamarines)",
+  "t": "Tarifa del Encuentro de Compañeros de Flatland (2 aquamarines)"
+ },
+ "2f1764936597": {
+  "en": "Loyal flying companion",
+  "t": "Compañero volador leal"
+ },
+ "2f4fa96fd8bf": {
+  "en": "Courier; recognizes faces; Fauna stats",
+  "t": "Mensajero; reconoce caras; estadísticas de Fauna"
+ },
+ "303a191a167f": {
+  "en": "Wounds won't close: 1d6 bleed each turn until healed",
+  "t": "Las heridas no se cierran: 1d6 de sangrado cada turno hasta curarse"
+ },
+ "3066d2140b2d": {
+  "en": "Breathe in swamps and murky water; scaly; can't breathe air",
+  "t": "Respiras en pantanos y aguas turbias; escamoso; no puedes respirar aire"
+ },
+ "320b59e8d691": {
+  "en": "Gels are **Tier III goods** for distance pricing; banned gels are black-market only (double or triple price and a Forway Law problem if caught).",
+  "t": "Para el precio según la distancia, los geles son **bienes de Nivel III**; los geles prohibidos solo están en el mercado negro (precio doble o triple y un problema con la Ley de Forway si te pillan)."
+ },
+ "321a9ad90dc4": {
+  "en": "Identical (agony: 4d6 psychic even for fine grade)",
+  "t": "Idéntico (agonía: 4d6 psíquico incluso en grado fino)"
+ },
+ "326c4c3c2aaf": {
+  "en": "Faint sparkles (useless)",
+  "t": "Destellos tenues (inútil)"
  },
  "32a195e10784": {
   "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
   "t": "**Acumulación:** unos pocos geles distintos pueden acumularse (a criterio del DM); un mismo gel no se acumula consigo mismo — usa el nivel más alto."
  },
+ "341a791c2849": {
+  "en": "Map (region / detailed)",
+  "t": "Mapa (regional / detallado)"
+ },
+ "359b29bbb115": {
+  "en": "Find the chosen scent within 1 mile (corpses, traps, living things); migraine (disadv. on Int checks)",
+  "t": "Encuentras el olor elegido a 1 milla o menos (cadáveres, trampas, seres vivos); migraña (desv. en pruebas de Int)"
+ },
+ "363f8c57d8cc": {
+  "en": "5 amethysts",
+  "t": "5 amethysts"
+ },
+ "36a3073db5e5": {
+  "en": "Breathe water while swimming (not air)",
+  "t": "Respiras agua mientras nadas (no aire)"
+ },
+ "3713223a3a74": {
+  "en": "Squeeze through Small gaps",
+  "t": "Te cuelas por huecos de tamaño Pequeño"
+ },
+ "379b3d485a78": {
+  "en": "1 amethyst / 1 aquamarine",
+  "t": "1 amethyst / 1 aquamarine"
+ },
+ "383e3f970f51": {
+  "en": "**Chitin** (Sand Worm): Gandew armor. Treat chitin plate as half plate with no disadvantage on Stealth; price ×1.5.",
+  "t": "**Quitina** (de Sand Worm): armadura de Gandew. Trata la placa de quitina como una semiplaca sin desventaja en Sigilo; precio ×1,5."
+ },
+ "3c035c71646f": {
+  "en": "Groggy: disadv. on Wis checks",
+  "t": "Atontado: desv. en pruebas de Sab"
+ },
+ "3dcad2321ac1": {
+  "en": "Vomit, hair melts off: poisoned 1 hour",
+  "t": "Vómito, el pelo se derrite: envenenado 1 hora"
+ },
+ "3e2c948f2eaa": {
+  "en": "Confused memories: disadv. on Int saves",
+  "t": "Recuerdos confusos: desv. en salvaciones de Int"
+ },
  "3e503dba723a": {
   "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
   "t": "**Comer (grado grueso):** acción. Los efectos empiezan al final de tu siguiente turno. Dura **1d4 días**."
+ },
+ "3f29b5521112": {
+  "en": "4d6 acid; disfigurement",
+  "t": "4d6 de ácido; desfiguración"
+ },
+ "3fd6330b142d": {
+  "en": "6 aquamarines",
+  "t": "6 aquamarines"
+ },
+ "420275751827": {
+  "en": "**Bleed Out** (poison)",
+  "t": "**Bleed Out** (veneno)"
+ },
+ "423874e0b2f0": {
+  "en": "Cold immunity in normal weather; overheat in hot places (disadv. on Con saves vs. heat)",
+  "t": "Inmunidad al frío con clima normal; te sobrecalientas en sitios cálidos (desv. en salvaciones de Con contra el calor)"
+ },
+ "4266f66e1be3": {
+  "en": "Death (DC 17 Con)",
+  "t": "Muerte (Con DC 17)"
+ },
+ "4372c652f62d": {
+  "en": "Light 20 ft when wet with salt water; lasts a year. Sucker Ladies and many beasts avoid it",
+  "t": "Luz 20 pies cuando se moja con agua salada; dura un año. Las Sucker Ladies y muchas bestias la evitan"
  },
  "4446426affd0": {
   "en": "**Time Slower**",
@@ -43,53 +283,417 @@
   "en": "Nari gels at the table",
   "t": "Los geles de nari en la mesa"
  },
+ "48edb2544e3a": {
+  "en": "Restores up to 4 SP and acts as a Tier III Nari Refresher. 1-in-6 chance it hatches in your bag",
+  "t": "Restaura hasta 4 SP y actúa como un Nari Refresher de Nivel III. 1 posibilidad entre 6 de que eclosione en tu bolsa"
+ },
  "4913580e8dc4": {
   "en": "**Nari Refresher**",
   "t": "**Nari Refresher**"
+ },
+ "49968cd81c5a": {
+  "en": "Advantage on smell-based Perception",
+  "t": "Ventaja en Percepción basada en el olfato"
+ },
+ "4a020091bee7": {
+  "en": "Coma 1d4 days (DC 15 Con)",
+  "t": "Coma 1d4 días (Con DC 15)"
+ },
+ "4c05347d1141": {
+  "en": "See invisible creatures; you feel like you're dying (disadv. on Wis saves)",
+  "t": "Ves criaturas invisibles; sientes que te mueres (desv. en salvaciones de Sab)"
+ },
+ "4d2cbc953012": {
+  "en": "Natural AC 12 + Dex, small tail",
+  "t": "AC natural 12 + Des, cola pequeña"
+ },
+ "4e1ba4250de1": {
+  "en": "20 pearls",
+  "t": "20 pearls"
+ },
+ "4e776c47742b": {
+  "en": "Bad trip: DC 13 Wis or confused 1 minute",
+  "t": "Mal viaje: Sab DC 13 o confundido 1 minuto"
+ },
+ "4f08c9382bed": {
+  "en": "+1 AC and an extra bonus-action Dash each turn; anxious (disadv. on Insight)",
+  "t": "+1 a la AC y una acción adicional extra de Correr cada turno; ansioso (desv. en Perspicacia)"
  },
  "50b156be8640": {
   "en": "30 pearls",
   "t": "30 pearls"
  },
+ "51c01287f5ae": {
+  "en": "Ends nausea",
+  "t": "Acaba con las náuseas"
+ },
+ "537a68635e74": {
+  "en": "Close match: advantage on Deception to impersonate",
+  "t": "Parecido cercano: ventaja en Engaño para suplantar"
+ },
+ "590fae2cf41e": {
+  "en": "See a chosen scent's trail within 300 ft",
+  "t": "Ves el rastro de un olor elegido a 300 pies o menos"
+ },
+ "5accdc3492f6": {
+  "en": "Gear and materials",
+  "t": "Equipo y materiales"
+ },
+ "5d8a468a52fd": {
+  "en": "Ends Tier ≤III; heal 3d4",
+  "t": "Pone fin a Nivel ≤III; cura 3d4"
+ },
+ "5e5cc65370d1": {
+  "en": "8d6 acid; death if reduced to 0",
+  "t": "8d6 de ácido; muerte si cae a 0"
+ },
+ "5fed45345a35": {
+  "en": "Fully aquatic lungs; can't breathe air",
+  "t": "Pulmones totalmente acuáticos; no puedes respirar aire"
+ },
+ "6213d3f8d772": {
+  "en": "Hold breath +1 minute",
+  "t": "Aguantas la respiración +1 minuto"
+ },
  "62e9ab95c515": {
   "en": "1 sapphire",
   "t": "1 sapphire"
+ },
+ "631d0bc83f29": {
+  "en": "As *polymorph* into a Winga (Fauna stats)",
+  "t": "Como *polimorfar* en un Winga (estadísticas de Fauna)"
+ },
+ "63b365e58e0f": {
+  "en": "See souls as a shimmer (detect living creatures in 30 ft)",
+  "t": "Ves las almas como un brillo (detectas criaturas vivas a 30 pies)"
+ },
+ "65283b7e6485": {
+  "en": "Water-reactive nari bomb",
+  "t": "Bomba de nari reactiva al agua"
+ },
+ "652ed7ab4428": {
+  "en": "Natural AC 14 + Dex",
+  "t": "AC natural 14 + Des"
+ },
+ "66c762d797d5": {
+  "en": "Hooves (+10 ft speed), tail, overheating",
+  "t": "Pezuñas (+10 pies de velocidad), cola, sobrecalentamiento"
+ },
+ "67fd06f93056": {
+  "en": "Colored flames: 1d6 fire to creatures you grapple or touch",
+  "t": "Llamas de colores: 1d6 de fuego a las criaturas que agarres o toques"
+ },
+ "6847b9e8c95c": {
+  "en": "As *haste*; at the end of each of your turns take 1d6 force damage",
+  "t": "Como *celeridad*; al final de cada uno de tus turnos recibes 1d6 de daño de fuerza"
+ },
+ "693d31d4622d": {
+  "en": "Death (DC 15 Con)",
+  "t": "Muerte (Con DC 15)"
+ },
+ "6bd90eaf3a6c": {
+  "en": "Speed halved, slurred speech, disadv. on Dex checks/saves",
+  "t": "Velocidad a la mitad, habla arrastrada, desv. en pruebas y salvaciones de Des"
+ },
+ "6e769670ac0a": {
+  "en": "Hear a mile away; without Time Slower, DC 15 Con or incapacitated",
+  "t": "Oyes a una milla; sin Time Slower, Con DC 15 o incapacitado"
+ },
+ "6f5cfcd0a872": {
+  "en": "Poison: DC 15 Con save or heart stops (0 HP, dying)",
+  "t": "Veneno: salvación de Con DC 15 o se te para el corazón (0 HP, moribundo)"
+ },
+ "7107e9ef6352": {
+  "en": "Tamed Winga",
+  "t": "Winga domado"
  },
  "721d81354ff2": {
   "en": "**Arm Light**",
   "t": "**Arm Light**"
  },
+ "726d99fe9103": {
+  "en": "1 SP of energy for interfaces. Comes in soul wood; stack into sticks",
+  "t": "1 SP de energía para interfaces. Viene en madera de alma; se apila en palos"
+ },
+ "7595824c0ba4": {
+  "en": "Nari stones, bombs and other consumables",
+  "t": "Piedras de nari, bombas y otros consumibles"
+ },
+ "768dbc639623": {
+  "en": "Hooves: +10 ft speed on land",
+  "t": "Pezuñas: +10 pies de velocidad en tierra"
+ },
+ "7696398f9f70": {
+  "en": "Overload: blindsight 30 ft by smell, but poisoned near strong smells",
+  "t": "Sobrecarga: vista ciega 30 pies por el olfato, pero envenenado cerca de olores fuertes"
+ },
+ "76e79a4ff4e5": {
+  "en": "**Winga-dust coating**: a weapon coated with Winga dust ignores resistance to slashing/piercing from nonmagical attacks for a year. 1 aquamarine.",
+  "t": "**Recubrimiento de polvo de Winga**: un arma recubierta de polvo de Winga ignora la resistencia al daño cortante/perforante de ataques no mágicos durante un año. 1 aquamarine."
+ },
  "77567bb3643e": {
   "en": "**Water Walk**",
   "t": "**Water Walk**"
+ },
+ "7931660fbde8": {
+  "en": "Overwhelming feelings: advantage on Charisma, disadv. on Wisdom",
+  "t": "Sentimientos abrumadores: ventaja en Carisma, desv. en Sabiduría"
+ },
+ "7a84aa0fd38f": {
+  "en": "2d6 bleed per turn, bleeding from eyes/ears",
+  "t": "2d6 de sangrado por turno, sangras por ojos y oídos"
+ },
+ "7b3c162b3bdd": {
+  "en": "**Bone wood** (bone, iron, ground nari, greenbread core): as wood or metal; lasts longer. Freeish guards wear bone-wood armor (as hide/scale).",
+  "t": "**Madera de hueso** (hueso, hierro, nari molido, núcleo de greenbread): como madera o metal; dura más. Los guardias de Freeish llevan armadura de madera de hueso (como de pieles/escamas)."
+ },
+ "7b58eccef4ad": {
+  "en": "Squeeze through 1-inch gaps; must hold breath",
+  "t": "Te cuelas por huecos de 1 pulgada; debes aguantar la respiración"
+ },
+ "7c5af08694b6": {
+  "en": "Feather fall at will; −2 Str checks",
+  "t": "*Caída de pluma* a voluntad; −2 a las pruebas de Fue"
+ },
+ "7d1a56b761ee": {
+  "en": "Identify any creature by smell within 30 ft; perfume = DC 12 Con or poisoned",
+  "t": "Identificas a cualquier criatura por el olor a 30 pies o menos; perfume = Con DC 12 o envenenado"
+ },
+ "7d5d0bfddffd": {
+  "en": "Companion",
+  "t": "Compañero"
+ },
+ "7e4c460ac454": {
+  "en": "Body structure matches",
+  "t": "La estructura corporal coincide"
  },
  "80cf249ba2d6": {
   "en": "Gel",
   "t": "Gel"
  },
+ "818e23c9b213": {
+  "en": "Burns: 2d6 fire",
+  "t": "Quemaduras: 2d6 de fuego"
+ },
+ "8220146365f2": {
+  "en": "Black honey (jar)",
+  "t": "Miel negra (tarro)"
+ },
+ "835f5431c341": {
+  "en": "Neck gills: hold breath 6 minutes; mute",
+  "t": "Branquias en el cuello: aguantas la respiración 6 minutos; mudo"
+ },
+ "83dce580ecd5": {
+  "en": "Advantage on hearing Perception",
+  "t": "Ventaja en Percepción con el oído"
+ },
+ "87c9fe369c04": {
+  "en": "Nari stone",
+  "t": "Piedra de nari"
+ },
+ "883f855da487": {
+  "en": "Walk on water (Medium)",
+  "t": "Caminas sobre el agua (Mediano)"
+ },
+ "8a6cd49e8d37": {
+  "en": "Breathe underwater ~20 minutes; mute; can't breathe air",
+  "t": "Respiras bajo el agua ~20 minutos; mudo; no puedes respirar aire"
+ },
+ "8a709fd6a4e2": {
+  "en": "**Body Paralysis** (poison)",
+  "t": "**Body Paralysis** (veneno)"
+ },
+ "8ae498b70077": {
+  "en": "Blindsight 10 ft by sound; loud noises: DC 13 Con or deafened 1 min",
+  "t": "Vista ciega 10 pies por el sonido; ruidos fuertes: Con DC 13 o ensordecido 1 min"
+ },
+ "8b9548956584": {
+  "en": "Paralyzed; DC 15 Con each turn or stop breathing",
+  "t": "Paralizado; Con DC 15 cada turno o dejas de respirar"
+ },
+ "8da4aeb09e9c": {
+  "en": "free (Endlessfog's House of Bruntos, if one bonds with you)",
+  "t": "gratis (en la Casa de los Bruntos de Endlessfog, si uno se vincula contigo)"
+ },
+ "8da665aa9f77": {
+  "en": "Advantage on saves vs. ingested poison",
+  "t": "Ventaja en las salvaciones contra venenos ingeridos"
+ },
+ "8e31e0896449": {
+  "en": "Hear whispers through walls",
+  "t": "Oyes susurros a través de las paredes"
+ },
+ "8fbb05286dc1": {
+  "en": "**Getting stuck:** use the same Tier III+ gel for more than 3 days in a row and make a DC 13 Constitution save each extra day; on a failure the change becomes **permanent** until a Nari Refresher of that tier and a long rest. Living permanently transformed for months corrupts the soul (DM's call: you may never come back).",
+  "t": "**Quedarse atascado:** usa el mismo gel de Nivel III o superior más de 3 días seguidos y haz una tirada de salvación de Constitución DC 13 cada día extra; si fallas, el cambio se vuelve **permanente** hasta que tomes un Nari Refresher de ese nivel y hagas un descanso largo. Vivir transformado de forma permanente durante meses corrompe el alma (a criterio del DM: puede que nunca vuelvas)."
+ },
+ "91b8c9726e81": {
+  "en": "Laxative (cures a stomach ache, ruins a day)",
+  "t": "Laxante (cura un dolor de barriga, arruina un día)"
+ },
+ "923e85a7e02e": {
+  "en": "Lasting personality change (DM and player decide)",
+  "t": "Cambio de personalidad duradero (lo deciden el DM y el jugador)"
+ },
+ "93e521962edf": {
+  "en": "As *haste* plus advantage on Dex saves; take 2d6 force at end of each turn; when it ends, DC 15 Con save or drop to 0 HP (aneurysm)",
+  "t": "Como *celeridad* más ventaja en las salvaciones de Des; recibes 2d6 de fuerza al final de cada turno; cuando termina, salvación de Con DC 15 o caes a 0 HP (aneurisma)"
+ },
+ "942e0f9e874f": {
+  "en": "Fly 60 ft; you can't speak Vraki",
+  "t": "Volar 60 pies; no puedes hablar vraki"
+ },
+ "955b3b84b060": {
+  "en": "Tier I",
+  "t": "Nivel I"
+ },
  "95c9ac590ccb": {
   "en": "1 amethyst",
   "t": "1 amethyst"
+ },
+ "9836e1a5abfb": {
+  "en": "Breathe water freely, swim speed = speed (not air)",
+  "t": "Respiras agua libremente, velocidad nadando = velocidad (no aire)"
  },
  "98888ac1b5b2": {
   "en": "**Sore Mind**",
   "t": "**Sore Mind**"
  },
+ "9c9199184152": {
+  "en": "Removes hair, scars, tattoos",
+  "t": "Elimina vello, cicatrices y tatuajes"
+ },
+ "9f578f34f508": {
+  "en": "3 amethysts",
+  "t": "3 amethysts"
+ },
+ "a21485c6adb2": {
+  "en": "Young Egua",
+  "t": "Egua joven"
+ },
  "a3e89ea7a049": {
   "en": "**Wozen Smell**",
   "t": "**Wozen Smell**"
+ },
+ "a570b4373cfd": {
+  "en": "**Badge replacement**: 1 amethyst (plus questions).",
+  "t": "**Reposición de insignia**: 1 amethyst (más preguntas)."
+ },
+ "a65d11b0cb95": {
+  "en": "Flying scout with a huge soul; a person, not a pet",
+  "t": "Explorador volador con un alma enorme; una persona, no una mascota"
+ },
+ "ac0d6b06d922": {
+  "en": "Ends Tier ≤II; heal 2d4",
+  "t": "Pone fin a Nivel ≤II; cura 2d4"
  },
  "adab8dadcb78": {
   "en": "Notes",
   "t": "Notas"
  },
+ "ae72f1db57c8": {
+  "en": "Fed to someone who died within the last minute, with their body mostly intact: they return to 1 HP. Forway guards carry these in their leg pockets",
+  "t": "Dado a alguien que haya muerto en el último minuto, con el cuerpo casi intacto: vuelve con 1 HP. Los guardias de Forway los llevan en los bolsillos de la pierna"
+ },
+ "b06bab289b6e": {
+  "en": "Sorefaries companion",
+  "t": "Compañero sorefaries"
+ },
+ "b071c63665ff": {
+  "en": "**Wood People vines**: as hempen rope but elastic (50 ft for 5 pearls in Tolerideme, 15 elsewhere).",
+  "t": "**Lianas de Wood People**: como cuerda de cáñamo pero elástica (50 pies por 5 pearls en Tolerideme, 15 en otros sitios)."
+ },
+ "b1d38f00e126": {
+  "en": "You're a slime (DM provides ooze stats)",
+  "t": "Eres un limo (el DM da las estadísticas de cieno)"
+ },
+ "b27b4aac7927": {
+  "en": "Green leathery skin (cosmetic)",
+  "t": "Piel verde y correosa (cosmético)"
+ },
+ "b346b6cd745c": {
+  "en": "Tier IV",
+  "t": "Nivel IV"
+ },
+ "b3ea8d0b906a": {
+  "en": "Eat during a short rest: regain an extra 1d4 HP per Hit Die spent (once per rest). Mildly addictive",
+  "t": "Cómela durante un descanso corto: recuperas 1d4 HP extra por cada Dado de Golpe gastado (una vez por descanso). Ligeramente adictiva"
+ },
  "b3eee2b5fd9e": {
   "en": "**Sayna Hearing**",
   "t": "**Sayna Hearing**"
  },
+ "b51600212f96": {
+  "en": "Numb: −2 to attack rolls",
+  "t": "Entumecido: −2 a las tiradas de ataque"
+ },
+ "b665bdfd60b8": {
+  "en": "Advantage on saves vs. fear; you can sleep anywhere; hungry",
+  "t": "Ventaja en las salvaciones contra el miedo; puedes dormir en cualquier parte; hambre"
+ },
+ "b6cc11829f01": {
+  "en": "Use PHB equipment and prices (1 gp = 10 pearls), with Vraki materials:",
+  "t": "Usa el equipo y los precios del PHB (1 po = 10 pearls), con materiales de Vraki:"
+ },
+ "b729dc21bb94": {
+  "en": "Pack animal; light loads",
+  "t": "Animal de carga; cargas ligeras"
+ },
+ "b76af4cfe69d": {
+  "en": "Black honey revival pot",
+  "t": "Bote de miel negra para reanimar"
+ },
+ "b7cbdc7d1bc4": {
+  "en": "Bright light 20 ft",
+  "t": "Luz brillante 20 pies"
+ },
  "b9d9cae46915": {
   "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
   "t": "**Terminar antes:** un **Nari Refresher** de nivel igual o superior pone fin a todos los efectos de gel sobre ti."
+ },
+ "bcdbe52f4e7e": {
+  "en": "Your veins glow (light 10 ft)",
+  "t": "Tus venas brillan (luz 10 pies)"
+ },
+ "bd88696efa1f": {
+  "en": "Natural AC 16 + Dex; you can't speak; you look like a Cruro",
+  "t": "AC natural 16 + Des; no puedes hablar; pareces un cruro"
+ },
+ "bdf9525fa9f4": {
+  "en": "Resistance to cold damage",
+  "t": "Resistencia al daño de frío"
+ },
+ "bee3832ddb2a": {
+  "en": "Woolly hair (cosmetic, very fashionable)",
+  "t": "Pelo lanudo (cosmético, muy de moda)"
+ },
+ "bfdda802b945": {
+  "en": "Track a known scent (adv. on Survival to track)",
+  "t": "Sigues un olor conocido (vent. en Supervivencia para rastrear)"
+ },
+ "c01ccec55696": {
+  "en": "Tamed Bagarisa",
+  "t": "Bagarisa domado"
+ },
+ "c3376fb508da": {
+  "en": "Rare; fire-tusked guard pig",
+  "t": "Raro; cerdo guardián con colmillos de fuego"
+ },
+ "c7452be4b9c9": {
+  "en": "Lunar mapping (this year)",
+  "t": "Cartografía lunar (de este año)"
+ },
+ "c786f28f1bc7": {
+  "en": "Adult Egua",
+  "t": "Egua adulto"
+ },
+ "c7eb9ffbeea8": {
+  "en": "15 pearls",
+  "t": "15 pearls"
+ },
+ "c8731830d000": {
+  "en": "Coma",
+  "t": "Coma"
  },
  "ca38faeb8b69": {
   "en": "**Winga Skin**",
@@ -99,6 +703,22 @@
   "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
   "t": "**Inyectar (grado fino, precio doble):** acción adicional con una jeringa. Los efectos empiezan de inmediato. Dura **1 día**."
  },
+ "cd683e2a9e1d": {
+  "en": "Tamed Sayna",
+  "t": "Sayna domado"
+ },
+ "cea1577656a5": {
+  "en": "Once: blinding flash, creatures within 20 ft DC 13 Con or blinded 1 minute — including you, if you fail a DC 10 Con save",
+  "t": "Una vez: destello cegador, las criaturas a 20 pies Con DC 13 o cegadas 1 minuto — tú incluido, si fallas una salvación de Con DC 10"
+ },
+ "d02cb63f4b06": {
+  "en": "Brunto",
+  "t": "Brunto"
+ },
+ "d0354fe70e0a": {
+  "en": "Hallucinations (DM's fun)",
+  "t": "Alucinaciones (diversión del DM)"
+ },
  "d26d6a50c747": {
   "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
   "t": "**Drenaje:** los geles de Nivel I–II no cuestan nada más. Mientras un gel de **Nivel III** esté activo no recuperas SP con los descansos largos. Mientras un gel de **Nivel IV** esté activo pierdes 1 SP cada amanecer (con 0 SP, ganas un nivel de cansancio en su lugar)."
@@ -107,9 +727,33 @@
   "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
   "t": "**Dolor:** los geles de Nivel III y IV duelen mientras tu cuerpo cambia de forma. Grado grueso: recibes 2d6 (Nivel III) o 4d6 (Nivel IV) de daño psíquico y quedas envenenado hasta el final de tu siguiente turno. Grado fino: sin daño."
  },
+ "d40fc2232f3f": {
+  "en": "+1 to sight Perception",
+  "t": "+1 a Percepción con la vista"
+ },
+ "d4593456be97": {
+  "en": "5 pearls",
+  "t": "5 pearls"
+ },
+ "d4a36e1f39bb": {
+  "en": "Ends all gel effects; heal 4d4",
+  "t": "Pone fin a todos los efectos de gel; cura 4d4"
+ },
+ "d5c239c689c0": {
+  "en": "Bouncy: halve falling damage",
+  "t": "Elástico: daño por caída a la mitad"
+ },
  "d6ebb461546e": {
   "en": "**Winga Flight**",
   "t": "**Winga Flight**"
+ },
+ "d76e0e081cb5": {
+  "en": "Overload: DC 15 Con or incapacitated 1 minute",
+  "t": "Sobrecarga: Con DC 15 o incapacitado 1 minuto"
+ },
+ "d7df2eac546f": {
+  "en": "Flush: ends poisoned, but you're out of action for an hour",
+  "t": "Purga: termina el estado de envenenado, pero quedas fuera de combate una hora"
  },
  "d7f856cc0ff6": {
   "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
@@ -119,9 +763,45 @@
   "en": "**Water Breath**",
   "t": "**Water Breath**"
  },
+ "dce52b6dccee": {
+  "en": "Advantage on checks to avoid getting lost",
+  "t": "Ventaja en las pruebas para no perderse"
+ },
+ "dd83470bb194": {
+  "en": "Darkvision 60 ft",
+  "t": "Visión en la oscuridad 60 pies"
+ },
+ "ddebe944ea06": {
+  "en": "20-ft heavily obscured cloud; 1d6 thunder in 10 ft; goes off when infused (hurts the thrower if held)",
+  "t": "Nube de 20 pies muy oscurecida; 1d6 de trueno a 10 pies; estalla al infundirla (hiere al lanzador si la tiene en la mano)"
+ },
+ "dec64fbe04ed": {
+  "en": "Nari stone stick (5 stones)",
+  "t": "Palo de piedras de nari (5 piedras)"
+ },
+ "dfa6dca733ad": {
+  "en": "Target can't regain HP from magic for 1 min",
+  "t": "El objetivo no puede recuperar HP mediante magia durante 1 min"
+ },
+ "e13641309a43": {
+  "en": "Fost stone (loose)",
+  "t": "Piedra fost (suelta)"
+ },
+ "e5e04044d891": {
+  "en": "DC 15 Con or drop to 0 HP",
+  "t": "Con DC 15 o caes a 0 HP"
+ },
+ "e7e0fc2d5af5": {
+  "en": "Prices are per jar (coarse). Fine grade costs double.",
+  "t": "Los precios son por tarro (grueso). El grado fino cuesta el doble."
+ },
  "e86f1f3e1e78": {
   "en": "**Slime Skin**",
   "t": "**Slime Skin**"
+ },
+ "e876d831fcbd": {
+  "en": "Truesight 30 ft for souls only; tormented thoughts",
+  "t": "Visión verdadera 30 pies solo para almas; pensamientos atormentados"
  },
  "eb76d1e0cc76": {
   "en": "**Monika Sight**",
@@ -135,13 +815,53 @@
   "en": "1 aquamarine",
   "t": "1 aquamarine"
  },
+ "ee0c3b062036": {
+  "en": "Target answers questions in a dream-like haze (DC 13 Wis or it talks)",
+  "t": "El objetivo responde preguntas en una bruma de sueño (Sab DC 13 o habla)"
+ },
+ "ee3d1e97779b": {
+  "en": "Ends Tier I gel effects; heal 1d4",
+  "t": "Pone fin a los efectos de gel de Nivel I; cura 1d4"
+ },
+ "f0e43fbf33e4": {
+  "en": "Big Winga (egg or adult)",
+  "t": "Big Winga (huevo o adulto)"
+ },
+ "f140c1f2f283": {
+  "en": "Covered: disadv. on Perception (sight) and Dex checks",
+  "t": "Cubierto: desv. en Percepción (vista) y en pruebas de Des"
+ },
+ "f5597f5ff52d": {
+  "en": "Tier III",
+  "t": "Nivel III"
+ },
+ "f66361c79319": {
+  "en": "1+ aquamarine, if you can find one",
+  "t": "1+ aquamarine, si encuentras uno"
+ },
+ "f6739e0b4ab2": {
+  "en": "Tier II",
+  "t": "Nivel II"
+ },
  "f772ffe3cc33": {
   "en": "**Smooth Gut**",
   "t": "**Smooth Gut**"
  },
+ "f7ff8a69205b": {
+  "en": "**Skin Melt** (II+ banned)",
+  "t": "**Skin Melt** (II+ prohibido)"
+ },
+ "f995d36228c8": {
+  "en": "20-ft cloud for 1 minute; seen for miles. Misusing official colors is a crime",
+  "t": "Nube de 20 pies durante 1 minuto; se ve a millas. Usar mal los colores oficiales es delito"
+ },
  "fb1bdc91f66d": {
   "en": "**Cruro Skin**",
   "t": "**Cruro Skin**"
+ },
+ "fd3df09721a7": {
+  "en": "Walk on water if Small/light",
+  "t": "Caminas sobre el agua si eres Pequeño/ligero"
  },
  "fffc5e7c180f": {
   "en": "**Wozen Eyesight**",

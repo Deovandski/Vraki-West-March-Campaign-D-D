@@ -3,6 +3,10 @@
   "en": "III",
   "t": "III"
  },
+ "076a428ce1ca": {
+  "en": "Signal smoke bomb (red/cyan/green/yellow)",
+  "t": "신호 연막탄(빨강/청록/초록/노랑)"
+ },
  "0c00c18dd4d7": {
   "en": "Place",
   "t": "장소"
@@ -79,6 +83,14 @@
   "en": "Revival window",
   "t": "부활 기한"
  },
+ "65283b7e6485": {
+  "en": "Water-reactive nari bomb",
+  "t": "물에 반응하는 나리 폭탄"
+ },
+ "8220146365f2": {
+  "en": "Black honey (jar)",
+  "t": "검은 꿀(병)"
+ },
  "849cc321f202": {
   "en": "Level",
   "t": "레벨"
@@ -98,6 +110,10 @@
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "b76af4cfe69d": {
+  "en": "Black honey revival pot",
+  "t": "검은 꿀 부활 단지"
  },
  "be2326901242": {
   "en": "Travel by Circles",
@@ -134,6 +150,10 @@
  "d81ba82fb77c": {
   "en": "Ball",
   "t": "볼"
+ },
+ "dec64fbe04ed": {
+  "en": "Nari stone stick (5 stones)",
+  "t": "나리석 스틱(돌 5개)"
  },
  "e3d95e017a11": {
   "en": "Month",
