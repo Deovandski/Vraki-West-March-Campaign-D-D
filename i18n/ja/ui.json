@@ -527,6 +527,10 @@
   "en": "clear",
   "t": "消す"
  },
+ "31d9ab80ae22": {
+  "en": "Close",
+  "t": "閉じる"
+ },
  "31edcbee62c3": {
   "en": "Damage or heal",
   "t": "ダメージか回復"
@@ -903,6 +907,10 @@
   "en": "Back",
   "t": "戻る"
  },
+ "51418772711a": {
+  "en": "Next picture",
+  "t": "次の画像"
+ },
  "51936dbda00f": {
   "en": "DM's choice.",
   "t": "DMが決める。"
@@ -1134,6 +1142,10 @@
  "607d3a25513f": {
   "en": "Start from a pre-made one",
   "t": "作成済みの冒険者から始める"
+ },
+ "60e1f76a6a08": {
+  "en": "Picture",
+  "t": "画像"
  },
  "610fabafc2be": {
   "en": "slow",
@@ -1418,6 +1430,10 @@
  "786b6e3e5665": {
   "en": "Open the menu",
   "t": "メニューを開く"
+ },
+ "79182c9db379": {
+  "en": "Previous picture",
+  "t": "前の画像"
  },
  "797b335d354a": {
   "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
@@ -2230,6 +2246,10 @@
  "bc14ce1f16c1": {
   "en": "{n} nari stones",
   "t": "ナリストーン{n}個"
+ },
+ "bc7624272372": {
+  "en": "Enlarge",
+  "t": "拡大"
  },
  "bd6017a3174c": {
   "en": "No trips yet. Plan one first, then come back to print it.",

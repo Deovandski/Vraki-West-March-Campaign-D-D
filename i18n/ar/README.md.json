@@ -163,6 +163,10 @@
   "en": "[Maps](Maps)",
   "t": "[الخرائط](Maps)"
  },
+ "7dec5ba6230f": {
+  "en": "PhotoViewer",
+  "t": "PhotoViewer"
+ },
  "80b07d3b198f": {
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "حملة كاملة قائمة بذاتها: ملخص لحكاية العالم، وقواعد لإدارة ويست مارش بطاولة مفتوحة، وخرائط سفر، ومهام، ولقاءات، وبطاقات إحصاءات، ومغامرون جاهزون. لا تحتاج أي شيء من مستودع #HusbandOutWorld الرئيسي لتلعب."
@@ -211,6 +215,10 @@
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",
   "t": "[map-viewer.js](site/js/map-viewer.js)، [map-viewer.css](site/css/map-viewer.css)"
  },
+ "beab13b7fe02": {
+  "en": "The whole site",
+  "t": "الموقع كله"
+ },
  "bf6840167bfd": {
   "en": "Travel map page, the Maps page",
   "t": "صفحة خريطة السفر، وصفحة الخرائط"
@@ -223,6 +231,10 @@
   "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",
   "t": "عارض بالتكبير والتحريك لصورة واحدة كبيرة: السحب، والقرص، وCtrl + التمرير، ولوحة المفاتيح، وملء الشاشة، ونسخة أوضح تُحمَّل عند التكبير. يُضبط بسمات البيانات؛ بلا مكتبات."
  },
+ "d181774a8c61": {
+  "en": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), the `<dialog id=\"photo-viewer\">` in [index.html](index.html)",
+  "t": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), و`<dialog id=\"photo-viewer\">` في [index.html](index.html)"
+ },
  "d7cd62355106": {
   "en": "The site also comes in 中文, 日本語, Português, Español, العربية and 한국어: pick one under Settings (⚙) in the top bar. These are AI translations of the English, made ahead of time; English stays the original. [How the translations work](i18n/README.md).",
   "t": "الموقع متاح أيضًا بـ中文 و日本語 وPortuguês وEspañol والعربية و한국어: اختر واحدة من الإعدادات (⚙) في الشريط العلوي. هذه ترجمات للإنجليزية أُعدّت مسبقًا بالذكاء الاصطناعي؛ وتبقى الإنجليزية هي الأصل. [كيف تعمل الترجمات](i18n/README.md)."
@@ -230,6 +242,10 @@
  "e0c47275e609": {
   "en": "[site](site)",
   "t": "[site](site)"
+ },
+ "e254d556a300": {
+  "en": "Every picture opens bigger when pressed (handouts, the reference card, pictures in pages), with its caption and its date when there is one; ‹ › between pictures. Keeps working as pages are drawn. Ported from Deovandski/Deovandski by way of HusbandOutWorld.",
+  "t": "كل صورة تُفتح أكبر عند الضغط عليها (المطبوعات، وبطاقة المرجع، والصور داخل الصفحات)، مع تعليقها وتاريخها إن وُجد؛ و‹ › للتنقل بين الصور. يظل يعمل مع رسم الصفحات من جديد. منقول من Deovandski/Deovandski عبر HusbandOutWorld."
  },
  "e31a355d960b": {
   "en": "Spot something wrong, or want to make a change?",

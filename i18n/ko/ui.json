@@ -527,6 +527,10 @@
   "en": "clear",
   "t": "지우기"
  },
+ "31d9ab80ae22": {
+  "en": "Close",
+  "t": "닫기"
+ },
  "31edcbee62c3": {
   "en": "Damage or heal",
   "t": "피해 또는 치유"
@@ -903,6 +907,10 @@
   "en": "Back",
   "t": "뒤로"
  },
+ "51418772711a": {
+  "en": "Next picture",
+  "t": "다음 그림"
+ },
  "51936dbda00f": {
   "en": "DM's choice.",
   "t": "DM이 정한다."
@@ -1134,6 +1142,10 @@
  "607d3a25513f": {
   "en": "Start from a pre-made one",
   "t": "미리 만든 모험가로 시작"
+ },
+ "60e1f76a6a08": {
+  "en": "Picture",
+  "t": "그림"
  },
  "610fabafc2be": {
   "en": "slow",
@@ -1418,6 +1430,10 @@
  "786b6e3e5665": {
   "en": "Open the menu",
   "t": "메뉴 열기"
+ },
+ "79182c9db379": {
+  "en": "Previous picture",
+  "t": "이전 그림"
  },
  "797b335d354a": {
   "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
@@ -2230,6 +2246,10 @@
  "bc14ce1f16c1": {
   "en": "{n} nari stones",
   "t": "나리석 {n}개"
+ },
+ "bc7624272372": {
+  "en": "Enlarge",
+  "t": "확대"
  },
  "bd6017a3174c": {
   "en": "No trips yet. Plan one first, then come back to print it.",

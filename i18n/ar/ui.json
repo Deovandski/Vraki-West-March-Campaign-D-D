@@ -527,6 +527,10 @@
   "en": "clear",
   "t": "مسح"
  },
+ "31d9ab80ae22": {
+  "en": "Close",
+  "t": "إغلاق"
+ },
  "31edcbee62c3": {
   "en": "Damage or heal",
   "t": "ضرر أو شفاء"
@@ -903,6 +907,10 @@
   "en": "Back",
   "t": "رجوع"
  },
+ "51418772711a": {
+  "en": "Next picture",
+  "t": "الصورة التالية"
+ },
  "51936dbda00f": {
   "en": "DM's choice.",
   "t": "ما يختاره مدير اللعبة."
@@ -1134,6 +1142,10 @@
  "607d3a25513f": {
   "en": "Start from a pre-made one",
   "t": "ابدأ بمغامر جاهز"
+ },
+ "60e1f76a6a08": {
+  "en": "Picture",
+  "t": "صورة"
  },
  "610fabafc2be": {
   "en": "slow",
@@ -1418,6 +1430,10 @@
  "786b6e3e5665": {
   "en": "Open the menu",
   "t": "افتح القائمة"
+ },
+ "79182c9db379": {
+  "en": "Previous picture",
+  "t": "الصورة السابقة"
  },
  "797b335d354a": {
   "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
@@ -2230,6 +2246,10 @@
  "bc14ce1f16c1": {
   "en": "{n} nari stones",
   "t": "{n} أحجار ناري"
+ },
+ "bc7624272372": {
+  "en": "Enlarge",
+  "t": "تكبير"
  },
  "bd6017a3174c": {
   "en": "No trips yet. Plan one first, then come back to print it.",

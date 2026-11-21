@@ -163,6 +163,10 @@
   "en": "[Maps](Maps)",
   "t": "[지도](Maps)"
  },
+ "7dec5ba6230f": {
+  "en": "PhotoViewer",
+  "t": "PhotoViewer"
+ },
  "80b07d3b198f": {
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "완결된, 이것만으로 플레이할 수 있는 캠페인: 세계 설정 요약, 누구나 참여하는 웨스트 마치를 운영하는 규칙, 여행 지도, 의뢰, 조우, 능력치, 사전 제작 모험가. 플레이하는 데 #HusbandOutWorld 본 저장소의 것은 아무것도 필요 없다."
@@ -211,6 +215,10 @@
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",
   "t": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)"
  },
+ "beab13b7fe02": {
+  "en": "The whole site",
+  "t": "사이트 전체"
+ },
  "bf6840167bfd": {
   "en": "Travel map page, the Maps page",
   "t": "여행 지도 페이지, 지도 페이지"
@@ -223,6 +231,10 @@
   "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",
   "t": "큰 그림 한 장을 위한 확대·이동 뷰어: 드래그, 핀치, Ctrl + 스크롤, 키보드, 전체 화면, 그리고 확대하면 불러오는 더 선명한 사본. 데이터 속성으로 설정한다. 라이브러리 없음."
  },
+ "d181774a8c61": {
+  "en": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), the `<dialog id=\"photo-viewer\">` in [index.html](index.html)",
+  "t": "[photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), [index.html](index.html)의 `<dialog id=\"photo-viewer\">`"
+ },
  "d7cd62355106": {
   "en": "The site also comes in 中文, 日本語, Português, Español, العربية and 한국어: pick one under Settings (⚙) in the top bar. These are AI translations of the English, made ahead of time; English stays the original. [How the translations work](i18n/README.md).",
   "t": "사이트는 中文, 日本語, Português, Español, العربية, 한국어로도 볼 수 있다: 위쪽 막대의 설정(⚙)에서 고르면 된다. 영어를 AI로 미리 번역한 것이며, 원본은 여전히 영어다. [번역 작동 방식](i18n/README.md)."
@@ -230,6 +242,10 @@
  "e0c47275e609": {
   "en": "[site](site)",
   "t": "[site](site)"
+ },
+ "e254d556a300": {
+  "en": "Every picture opens bigger when pressed (handouts, the reference card, pictures in pages), with its caption and its date when there is one; ‹ › between pictures. Keeps working as pages are drawn. Ported from Deovandski/Deovandski by way of HusbandOutWorld.",
+  "t": "어떤 그림이든 누르면 크게 열린다(배포물, 참고 카드, 페이지 속 그림). 설명과, 알 수 있으면 날짜도 보여 주며 ‹ ›로 그림을 넘긴다. 페이지가 다시 그려져도 계속 작동한다. Deovandski/Deovandski에서 HusbandOutWorld를 거쳐 옮겨 왔다."
  },
  "e31a355d960b": {
   "en": "Spot something wrong, or want to make a change?",

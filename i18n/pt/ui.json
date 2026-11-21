@@ -527,6 +527,10 @@
   "en": "clear",
   "t": "limpar"
  },
+ "31d9ab80ae22": {
+  "en": "Close",
+  "t": "Fechar"
+ },
  "31edcbee62c3": {
   "en": "Damage or heal",
   "t": "Dano ou cura"
@@ -903,6 +907,10 @@
   "en": "Back",
   "t": "Voltar"
  },
+ "51418772711a": {
+  "en": "Next picture",
+  "t": "Próxima imagem"
+ },
  "51936dbda00f": {
   "en": "DM's choice.",
   "t": "Escolha do Mestre."
@@ -1134,6 +1142,10 @@
  "607d3a25513f": {
   "en": "Start from a pre-made one",
   "t": "Começar com um pronto"
+ },
+ "60e1f76a6a08": {
+  "en": "Picture",
+  "t": "Imagem"
  },
  "610fabafc2be": {
   "en": "slow",
@@ -1418,6 +1430,10 @@
  "786b6e3e5665": {
   "en": "Open the menu",
   "t": "Abrir o menu"
+ },
+ "79182c9db379": {
+  "en": "Previous picture",
+  "t": "Imagem anterior"
  },
  "797b335d354a": {
   "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
@@ -2230,6 +2246,10 @@
  "bc14ce1f16c1": {
   "en": "{n} nari stones",
   "t": "{n} nari stones"
+ },
+ "bc7624272372": {
+  "en": "Enlarge",
+  "t": "Ampliar"
  },
  "bd6017a3174c": {
   "en": "No trips yet. Plan one first, then come back to print it.",

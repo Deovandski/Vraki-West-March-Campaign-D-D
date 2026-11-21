@@ -21,6 +21,7 @@
 <link rel="stylesheet" href="site/css/map-viewer.css">
 <link rel="stylesheet" href="site/css/lang-picker.css">
 <link rel="stylesheet" href="site/css/units.css">
+<link rel="stylesheet" href="site/css/photo-viewer.css">
 <script>
   // Apply the saved theme before the page paints.
   try { var t = localStorage.getItem("vraki-west-march:theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
@@ -173,6 +174,15 @@
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
+<!-- Every picture opens bigger here ("Pictures are clickable" in CLAUDE.md; site/js/photo-viewer.js). -->
+<dialog id="photo-viewer" class="photo-viewer" aria-label="Picture" data-i18n-attr="aria-label">
+  <span class="pv-enlarge" hidden data-i18n>Enlarge</span>
+  <button type="button" class="pv-close" aria-label="Close" data-i18n-attr="aria-label">×</button>
+  <button type="button" class="pv-prev" aria-label="Previous picture" hidden data-i18n-attr="aria-label">‹</button>
+  <figure class="pv-fig"><img alt=""><figcaption class="pv-cap"><span class="pv-text"></span><time class="pv-date" hidden></time></figcaption></figure>
+  <button type="button" class="pv-next" aria-label="Next picture" hidden data-i18n-attr="aria-label">›</button>
+</dialog>
+
 <script src="site/vendor/marked.umd.js"></script>
 <script src="site/js/i18n.js"></script>
 <script src="site/js/parse.js"></script>
@@ -187,6 +197,7 @@
 <script src="site/js/map.js"></script>
 <script src="site/js/lang-picker.js"></script>
 <script src="site/js/units.js"></script>
+<script src="site/js/photo-viewer.js"></script>
 <script>VW.app.start();</script>
 <script src="site/js/pwa.js" data-sw="sw.js" data-scope="./" defer></script>
 </body>

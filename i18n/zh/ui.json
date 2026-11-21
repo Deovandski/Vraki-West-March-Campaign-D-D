@@ -527,6 +527,10 @@
   "en": "clear",
   "t": "清除"
  },
+ "31d9ab80ae22": {
+  "en": "Close",
+  "t": "关闭"
+ },
  "31edcbee62c3": {
   "en": "Damage or heal",
   "t": "伤害或治疗"
@@ -903,6 +907,10 @@
   "en": "Back",
   "t": "返回"
  },
+ "51418772711a": {
+  "en": "Next picture",
+  "t": "下一张图片"
+ },
  "51936dbda00f": {
   "en": "DM's choice.",
   "t": "由DM决定。"
@@ -1134,6 +1142,10 @@
  "607d3a25513f": {
   "en": "Start from a pre-made one",
   "t": "从预设冒险者开始"
+ },
+ "60e1f76a6a08": {
+  "en": "Picture",
+  "t": "图片"
  },
  "610fabafc2be": {
   "en": "slow",
@@ -1418,6 +1430,10 @@
  "786b6e3e5665": {
   "en": "Open the menu",
   "t": "打开菜单"
+ },
+ "79182c9db379": {
+  "en": "Previous picture",
+  "t": "上一张图片"
  },
  "797b335d354a": {
   "en": "Worth <b>{pearls}</b> ({gp} gp). Exchanged up: {list}.",
@@ -2230,6 +2246,10 @@
  "bc14ce1f16c1": {
   "en": "{n} nari stones",
   "t": "{n} 颗纳里石"
+ },
+ "bc7624272372": {
+  "en": "Enlarge",
+  "t": "放大"
  },
  "bd6017a3174c": {
   "en": "No trips yet. Plan one first, then come back to print it.",
