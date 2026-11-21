@@ -1,7 +1,59 @@
 {
+ "03de3cd85eea": {
+  "en": "**Body RESTORE** heals: Tier I bruises · II minor cuts · III deep cuts · IV broken bones · V many fractures and blood loss · VI lost limbs · VII lost head · VIII lost torso · IX near-instant regeneration (if you have the fat or black honey to burn). **Body DISASSEMBLE/DESTROY** causes bleeding, convulsions, explosions.",
+  "t": "**보디 리스토어**는 치료한다: I등급 멍 · II 가벼운 베인 상처 · III 깊은 베인 상처 · IV 부러진 뼈 · V 여러 군데 골절과 출혈 · VI 잃은 팔다리 · VII 잃은 머리 · VIII 잃은 몸통 · IX 거의 즉각적인 재생(태울 지방이나 검은 꿀이 있다면). **보디 디스어셈블/디스트로이**는 출혈, 경련, 폭발을 일으킨다."
+ },
+ "13dd49d5034d": {
+  "en": "Made by the Buhraies to control the Darfaries as soldiers. Works for anyone with a drop of Darfaries/Wozefaries blood — nearly every human today.",
+  "t": "부라이에스가 다르파리에스를 병사로 부리려고 만들었다. 다르파리에스나 워제파리에스의 피가 한 방울이라도 섞인 사람이면 누구나 쓸 수 있다 — 오늘날 인간은 거의 다 그렇다."
+ },
+ "14c1e1875566": {
+  "en": "Revival is routine: heal the body, restart the heart (a jolt of **storm** energy), feed it something energy-dense like **black honey**. Embassies sell it as a service.",
+  "t": "부활은 일상적인 일이다. 몸을 치료하고, 심장을 다시 뛰게 하고(**폭풍** 에너지로 한 번 충격), **검은 꿀**처럼 에너지가 응축된 것을 먹인다. 대사관이 서비스로 판다."
+ },
+ "1920b8108b65": {
+  "en": "Soul Energy (SE)",
+  "t": "영혼 에너지(SE)"
+ },
+ "1db084c3e97b": {
+  "en": "**Miscasts:** missing or sloppy logograms make the spell fall back on whatever you're thinking. That can explode in your hand — or turn you into a chicken-like Fanchaki.",
+  "t": "**시전 실패:** 표어 문자가 빠졌거나 엉성하면 주문이 당신이 생각하고 있는 것으로 빈자리를 메운다. 손안에서 터질 수도 있고 — 닭처럼 생긴 판차키로 변해 버릴 수도 있다."
+ },
+ "4962021bae4d": {
+  "en": "**World/Object VERB** changes density, attracts or repels, \"un-rusts\" things, or turns them to dust.",
+  "t": "**월드/오브젝트 + 버브**는 밀도를 바꾸고, 끌어당기거나 밀어내고, 물건의 ‘녹을 벗기거나’ 먼지로 만든다."
+ },
  "4df3cbc0f57d": {
   "en": "Soul, body, gene",
   "t": "영혼, 몸, 유전자"
+ },
+ "52cb1b6c21ca": {
+  "en": "Draw a small logogram in the air with one hand while holding two fingers with the other; hold to charge (others can touch you to add energy); release by opening the fingers. Elements only. Fast, animal-like, aggressive.",
+  "t": "한 손으로 허공에 작은 표어 문자를 그리고 다른 손으로 손가락 두 개를 쥔다. 쥔 채로 충전하고(다른 사람이 당신을 만져 에너지를 보탤 수 있다), 손가락을 펴서 놓는다. 원소만 다룬다. 빠르고, 짐승 같고, 공격적이다."
+ },
+ "59b9f7176cca": {
+  "en": "Healing, reviving, lighting, refrigeration (ice spells keep meat fresh for trade), drying fish, industrial work in Tolerideme, entertainment (**Soul Energy Art** shows in Forway), sports (Homeegg flight), and the embassy badge system.",
+  "t": "치료, 부활, 조명, 냉장(얼음 주문으로 교역용 고기를 신선하게 유지한다), 생선 말리기, 톨레리데메의 산업, 오락(포웨이의 **소울 에너지 아트** 공연), 스포츠(홈에그 비행), 그리고 대사관의 신분패 제도."
+ },
+ "621631e94c2a": {
+  "en": "**Elemental CREATE** throws a ball of fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust or ash. **Gravity** spells pull and push; a Gravity CREATE makes a tiny black hole that evaporates instantly.",
+  "t": "**엘리멘탈 크리에이트**는 불, 물, 얼음, 폭풍, 증기, 바람, 흙, 언 흙, 진흙, 용암, 전격, 먼지, 재의 공을 던진다. **그래비티** 주문은 당기고 민다. 그래비티 크리에이트는 곧바로 증발하는 아주 작은 블랙홀을 만든다."
+ },
+ "650efd46a6d5": {
+  "en": "**Verbs:** INCREASE/DECREASE, REPEL/ATTRACT, RESTORE/DISASSEMBLE, CREATE/DESTROY, plus **ENTANGLE** (link sounds so a whole group hears the same thing — used for comms) and **TRANSMUTE** (turn one metal into its neighbor; not worth the cost), both reintroduced by the scientist Gabiro in 987 A.G.",
+  "t": "**버브:** 인크리스/디크리스(늘리다/줄이다), 리펠/어트랙트(밀어내다/끌어당기다), 리스토어/디스어셈블(되돌리다/분해하다), 크리에이트/디스트로이(만들다/파괴하다), 그리고 **인탱글**(소리를 엮어 무리 전체가 같은 것을 듣게 한다 — 통신에 쓴다)과 **트랜스뮤트**(금속을 이웃 금속으로 바꾼다. 비용만큼의 값어치가 없다). 이 둘은 과학자 가비로가 987 A.G.에 다시 도입했다."
+ },
+ "6bba3847d6f0": {
+  "en": "Interfaces",
+  "t": "인터페이스"
+ },
+ "84d7ed02031e": {
+  "en": "Logograms **carved into the palm** with a blade. Without them you're editing souls directly — the Buhraies' greatest power and their downfall. Can alter body and soul \"DNA\"; changes stick even through healing.",
+  "t": "칼로 **손바닥에 새긴** 표어 문자. 이것이 없으면 영혼을 직접 편집하게 된다 — 부라이에스 최대의 힘이자 몰락의 원인. 몸과 영혼의 ‘DNA’를 바꿀 수 있고, 그 변화는 치료해도 남는다."
+ },
+ "84f18aae9429": {
+  "en": "You can draw the logograms on your palm (slow, risky, and forbidden inside city limits) or wear **sigil rings** with them carved in (fast, safe; sold in Soul Energy shops; blank rings are banned except for courtroom scientists and Aquamarine+ adventurers).",
+  "t": "표어 문자를 손바닥에 그릴 수도 있고(느리고 위험하며 도시 안에서는 금지), 표어 문자를 새긴 **시질 링**을 낄 수도 있다(빠르고 안전하다. 영혼 에너지 상점에서 판다. 아무것도 새기지 않은 반지는 궁정 과학자와 아쿠아마린 이상 모험가를 제외하고 금지)."
  },
  "8b6493801e36": {
   "en": "There are no gods and no \"magic\" in Vraki — there is **Soul Energy**, and everybody calls it science. Scientists publish papers, peer-review each other brutally, and blow themselves up.",
@@ -11,6 +63,86 @@
   "en": "Strong emotions make long-lasting memories. When parents make a baby, both release a little soul energy and nearby particles form a new soul, so a newborn's temperament looks random.",
   "t": "강한 감정은 오래가는 기억을 만든다. 부모가 아기를 만들 때 두 사람 모두 영혼 에너지를 조금씩 내놓고, 근처의 입자들이 새 영혼을 이룬다. 그래서 갓난아기의 기질은 무작위처럼 보인다."
  },
+ "a34c4088549a": {
+  "en": "**Objects:** 26 approved simple objects plus rare approved compound ones. A new compound object is approved only if random passersby can cast it without a single miscast.",
+  "t": "**오브젝트:** 승인된 단순 오브젝트 26개, 그리고 드물게 승인된 복합 오브젝트 몇 개. 새 복합 오브젝트는 아무 행인이나 한 번도 실패하지 않고 시전할 수 있어야만 승인된다."
+ },
+ "a5d4d49970fb": {
+  "en": "Souls are toughest in early adulthood (revival is nearly guaranteed) and fragile in infants and the elderly.",
+  "t": "영혼은 갓 어른이 되었을 때 가장 튼튼하고(부활이 거의 확실하다), 아기와 노인에게서는 연약하다."
+ },
+ "a7ac2e2e6605": {
+  "en": "Other uses of Soul Energy",
+  "t": "영혼 에너지의 다른 쓰임"
+ },
+ "ac91e049c126": {
+  "en": "When the heart and brain stop, the soul stays tied to the body while the genetic material lasts. The dead dream in a loop of their strongest memories or desires.",
+  "t": "심장과 뇌가 멈춰도 유전 물질이 남아 있는 동안 영혼은 몸에 묶여 있다. 죽은 자는 가장 강한 기억이나 소망을 되풀이해 꿈꾼다."
+ },
+ "b29a91912b7a": {
+  "en": "**Common spells:**",
+  "t": "**자주 쓰는 주문:**"
+ },
+ "b54bcd11081b": {
+  "en": "SE comes in **tiers** (I, II, III… X and up). Each tier needs double the energy of the one before it: **1 nari stone for Tier I, 2 for Tier II, 4 for Tier III, 8 for Tier IV…**",
+  "t": "SE에는 **등급**이 있다(I, II, III… X 이상). 각 등급에는 앞 등급의 두 배 에너지가 필요하다. **I등급은 나리석 1개, II등급은 2개, III등급은 4개, IV등급은 8개…**"
+ },
+ "bf7af2224bd6": {
+  "en": "The five rings hold **2, 8, 18, 32 and 50** tiers of energy. Nobody has officially cast at the fourth or fifth ring.",
+  "t": "다섯 고리에는 각각 **2, 8, 18, 32, 50**등급의 에너지가 담긴다. 공식적으로 넷째나 다섯째 고리로 시전한 사람은 없다."
+ },
+ "c27e2f58bb51": {
+  "en": "You can **expand** your soul's capacity with training, like exercise. The rich tend to have small souls — they just buy nari stones.",
+  "t": "운동처럼 훈련으로 영혼의 용량을 **늘릴** 수 있다. 부자들은 영혼이 작은 경우가 많다 — 그냥 나리석을 사면 되니까."
+ },
+ "c321d9232818": {
+  "en": "Walking Heart (banned)",
+  "t": "워킹 하트(금지)"
+ },
+ "c401fbb82c9f": {
+  "en": "Recharged by **emotions** and **eating** (eating something alive absorbs some of its soul energy). On average you recover about **one nari stone's worth a day**.",
+  "t": "**감정**과 **먹기**로 충전된다(살아 있는 것을 먹으면 그 영혼 에너지 일부를 흡수한다). 평균적으로 **하루에 나리석 하나 분량**을 회복한다."
+ },
+ "c448bb3b1c77": {
+  "en": "Buhraies interface (blood-born)",
+  "t": "부라이에스 인터페이스(피로 태어난 것)"
+ },
+ "c8606fb7f956": {
+  "en": "**Soul CREATE** — attempting to create a soul. Forbidden-level stuff. (Rumor says a famous Sanbi scientist died trying.)",
+  "t": "**소울 크리에이트** — 영혼을 만들려는 시도. 금지 등급의 물건. (유명한 산비 과학자가 이걸 시도하다 죽었다는 소문이 있다.)"
+ },
+ "c893de59837f": {
+  "en": "As the body rots, the link fades. A soul with no link slowly dissolves: **Soul Death** (\"detachment\"). Bigger souls with stronger memories last longer.",
+  "t": "몸이 썩어 가면서 연결이 흐려진다. 연결이 끊긴 영혼은 천천히 녹아 없어진다. 이것이 **영혼의 죽음**(‘이탈’)이다. 기억이 강한 큰 영혼일수록 오래 버틴다."
+ },
+ "cb6495a2c116": {
+  "en": "Darfaries interface (what almost everyone uses)",
+  "t": "다르파리에스 인터페이스(거의 모두가 쓰는 것)"
+ },
+ "cc7d7b4029ee": {
+  "en": "Replace your heart with a Walking Heart stone and become **undead** — see Nari Gels, Bombs & Stones.",
+  "t": "심장을 워킹 하트 돌로 바꾸면 **언데드**가 된다 — ‘나리 젤, 폭탄, 돌’ 참고."
+ },
+ "d8f1a9b0aa9f": {
+  "en": "A spell is two **logograms**: an **OBJECT** (what it acts on) and a **VERB** (what it does).",
+  "t": "주문은 두 개의 **표어 문자**로 이루어진다. **오브젝트**(무엇에 작용하는지)와 **버브**(무엇을 하는지)다."
+ },
+ "dfc961e0ebcb": {
+  "en": "Death and revival",
+  "t": "죽음과 부활"
+ },
+ "e0514eeee5d5": {
+  "en": "An **interface** turns soul energy into an effect. Many creatures have one built into their bodies (a Bagarisa's fire tusks, a Crocus's invisibility). People use these:",
+  "t": "**인터페이스**는 영혼 에너지를 효과로 바꾼다. 많은 생물이 몸에 하나씩 내장하고 있다(바가리사의 불 엄니, 크로커스의 투명화). 사람들은 다음을 쓴다."
+ },
+ "e1958d538a66": {
+  "en": "**How to cast:** clench the hand with the logograms → five rings of white flame appear around your forearm → touch your middle and ring fingers to the palm and \"eat\" the energy (yours, a friend's, or a **nari stone stick**) → each \"bite\" pushes the spell to the next stable tier → open your hand to release it, or throw your arm for range. It kicks like a gun.",
+  "t": "**시전 방법:** 표어 문자가 있는 손을 쥔다 → 팔뚝 주위에 하얀 불꽃 고리 다섯 개가 나타난다 → 가운뎃손가락과 약손가락을 손바닥에 대고 에너지를 ‘먹는다’(자기 것, 동료 것, 혹은 **나리석 스틱**의 것) → 한 입 먹을 때마다 주문이 다음 안정 등급으로 올라간다 → 손을 펴서 놓아주거나, 팔을 휘둘러 멀리 날린다. 총처럼 반동이 있다."
+ },
+ "e452339450dc": {
+  "en": "Finaies interface (primordial)",
+  "t": "피나이에스 인터페이스(원초적)"
+ },
  "e6c36ad0eacd": {
   "en": "Your **soul** is a cloud of virtual particles that holds your consciousness, your **memories** and your **Soul Energy**. Your **genes** are the soul's memories made physical; your **body** is built from those genes. (The author's analogy: soul = database, gene = class, body = object.)",
   "t": "당신의 **영혼**은 의식과 **기억**과 **영혼 에너지**를 담은 가상 입자의 구름이다. **유전자**는 물질이 된 영혼의 기억이고, **몸**은 그 유전자로 만들어진다. (작가의 비유: 영혼 = 데이터베이스, 유전자 = 클래스, 몸 = 객체.)"
@@ -18,5 +150,17 @@
  "ea225874e93a": {
   "en": "Soul Energy & Interfaces",
   "t": "영혼 에너지와 인터페이스"
+ },
+ "eb1eb3d84c46": {
+  "en": "**Senses and flight:** Darfaries \"veins\" (nerves) let Darfaries, Wozefaries and Sorefaries sense soul energy and weather. A white flame runs along them; a black flame works like a jetpack (feet dangling, steering with the arms). Darfaries soften falls, Wozefaries glide, Sorefaries fly.",
+  "t": "**감각과 비행:** 다르파리에스의 ‘혈관’(신경) 덕분에 다르파리에스, 워제파리에스, 소레파리에스는 영혼 에너지와 날씨를 느낄 수 있다. 그 위로 하얀 불꽃이 흐르고, 검은 불꽃은 제트팩처럼 작동한다(발은 대롱대롱, 팔로 방향을 잡는다). 다르파리에스는 낙하를 완화하고, 워제파리에스는 활공하고, 소레파리에스는 난다."
+ },
+ "eb955d883656": {
+  "en": "Your **badge** shows your current SE (only to you).",
+  "t": "당신의 **신분패**에는 현재 SE가 표시된다(당신에게만 보인다)."
+ },
+ "fe0dd2eef3ca": {
+  "en": "**Lifespan** depends on how strong and dense the connections between flesh and soul are. Aging is those connections wearing out. Regrowing a lost limb lowers the density (shortens your life), so **reattach limbs before healing**.",
+  "t": "**수명**은 살과 영혼 사이의 연결이 얼마나 강하고 촘촘한지에 달려 있다. 늙는다는 것은 그 연결이 닳아 가는 것이다. 잃은 팔다리를 다시 자라게 하면 밀도가 낮아지므로(수명이 줄어든다) **치료하기 전에 팔다리를 먼저 붙여라**."
  }
 }

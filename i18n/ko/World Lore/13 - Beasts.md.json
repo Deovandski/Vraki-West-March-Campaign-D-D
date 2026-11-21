@@ -1,6 +1,106 @@
 {
+ "08c81f4312d7": {
+  "en": "**Flinga** — huge pteranodon-like birds that fly high and never land, with unpredictable paths. Stunning screams and air gusts; untamable, unhatchable. Campfire tales tell of a child-sized wooden rider on one. Seeing them in **winter** is an omen.",
+  "t": "**플링가** — 높이 날며 절대 내려앉지 않는, 프테라노돈 같은 거대한 새로, 나는 길을 예측할 수 없다. 기절시키는 비명과 돌풍. 길들일 수도, 알을 부화시킬 수도 없다. 모닥불 괴담에서는 아이만 한 나무 기수가 그 위에 타고 있다고 한다. **겨울**에 보이면 징조다."
+ },
+ "17390f9a49f9": {
+  "en": "**Bruntos** — chimp-like creatures on Endlessfog, protected there. Tool users, no fire, great porters over rough ground. Humans are \"Naked Bruntos\".",
+  "t": "**브룬토스** — 엔들리스포그에 사는 침팬지 같은 생물로, 그곳에서 보호받는다. 도구를 쓰지만 불은 쓰지 않고, 험한 땅에서 짐을 잘 나른다. 인간은 ‘벌거벗은 브룬토스’라고 불린다."
+ },
+ "1a7b95d34fd6": {
+  "en": "Adventurers butcher kills in the field to save on hauling. Bring back a head (or the Walking Heart stone and skull) to prove an extermination.",
+  "t": "모험가들은 운반을 줄이려고 잡은 짐승을 현장에서 해체한다. 퇴치를 증명하려면 머리(또는 워킹 하트 돌과 두개골)를 가져와라."
+ },
+ "22fabbdd57cb": {
+  "en": "**Hash {creature}** — any fauna, beast or person that lived too long in **Hifuna**: bigger, patchy hair, lopsided body parts, half as smart, far more aggressive, usually sterile, stronger versions of its old abilities. Its meat is irradiated — it smells rotten and metallic, tastes like sulfur and singed hair, and turns odd colors. *Use it as a template on any creature.*",
+  "t": "**해시 {creature}** — **히푸나**에서 너무 오래 산 동물, 마수, 사람. 더 크고, 털이 듬성듬성하고, 몸의 부위가 비뚤어져 있고, 지능은 절반, 공격성은 훨씬 높고, 대개 번식하지 못하며, 원래 능력이 더 강해진다. 고기는 방사능에 오염되어 썩은 금속 냄새가 나고, 유황과 그을린 머리카락 맛이 나며, 이상한 색으로 변한다. *어떤 생물에든 템플릿으로 쓸 수 있다.*"
+ },
+ "239c7830c1b2": {
+  "en": "**White Roundies** — intelligent seal-like mammals from Whiteland that visit northern shores every winter. Play fetch, rub their bellies (they purr through neck tentacles), and trade them good food for what they find on the sea floor — gold or a half-eaten fish.",
+  "t": "**화이트 라운디스** — 화이트랜드에서 겨울마다 북쪽 해안을 찾아오는, 물범 같은 지능 있는 포유류. 던지면 물어 오는 놀이를 하고, 배를 문질러 주고(목 촉수로 그르렁거린다), 좋은 음식을 주고 그들이 바다 밑에서 찾은 것과 바꾼다 — 금이든, 먹다 만 물고기든."
+ },
+ "358319bcaaf2": {
+  "en": "**Wood People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Wood%20People.png)) — walking Yabuca trees the Buhraies engineered as soldiers, food and lumber. They're everywhere on the Buhraies Plains, sense the world through vibration, bleed pink sap, and lash out with vines that punch holes in flesh. Drawn to **fost stones** — and a fost stone jammed into the crown **paralyzes** them, which is how villages build living walls. Their red wood, rubbery vines, sap and head-sized fruit are valuable.",
+  "t": "**우드 피플**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Wood%20People.png)) — 부라이에스가 병사, 식량, 목재로 설계한 걸어 다니는 야부카 나무. 부라이에스 평원 어디에나 있고, 진동으로 세상을 느끼며, 분홍 수액을 흘리고, 살에 구멍을 뚫는 덩굴로 후려친다. **포스트석**에 끌린다 — 그리고 우듬지에 포스트석을 박아 넣으면 **마비된다**. 마을들은 이렇게 살아 있는 담을 쌓는다. 붉은 목재, 고무 같은 덩굴, 수액, 머리만 한 열매는 값어치가 있다."
+ },
+ "37e3f558a619": {
+  "en": "**Monica Swarm** — swarms of blue-glowing butterflies that flee bad weather (a blue wall on the horizon means a storm) and strip a corpse in hours.",
+  "t": "**모니카 떼** — 푸르게 빛나는 나비 떼. 궂은 날씨를 피해 달아나고(지평선에 푸른 벽이 보이면 폭풍이 온다), 시체 하나를 몇 시간 만에 뼈만 남긴다."
+ },
+ "41529acd06f3": {
+  "en": "**Teefyro** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Teefyro.png)) — a mindless Hifuna chimera shaped and smelling something like a Bagarisa. It fires its teeth by exploding its gums, casts random spells from its mixed flesh, and sometimes detonates entirely, leaving a crater.",
+  "t": "**티피로**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Teefyro.png)) — 생김새도 냄새도 어딘가 바가리사를 닮은, 정신이 없는 히푸나 키메라. 잇몸을 폭발시켜 이빨을 쏘고, 뒤섞인 살에서 무작위 주문을 쏘며, 가끔은 통째로 터져 구덩이를 남긴다."
+ },
+ "471807b56bea": {
+  "en": "**Sweet Sting** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sweet%20Sting.png)) — giant bees west of Blood, centered on **Sweetlake**. Females have no stinger but shoot poison from black-flamed pincers at near-sonic speed (\"sure as a spitting Sweet Sting\"); small males sting (agony plus an overwhelming sweet taste). They make **black honey**. Wear a Sweet Sting costume to walk among them.",
+  "t": "**스위트 스팅**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sweet%20Sting.png)) — 블러드 서쪽, **스위트레이크**를 중심으로 사는 거대한 벌. 암컷은 침이 없지만 검은 불꽃 집게에서 거의 음속으로 독을 쏜다(‘침 뱉는 스위트 스팅처럼 확실하다’). 작은 수컷은 침을 쏜다(극심한 고통과 압도적인 단맛). **검은 꿀**을 만든다. 스위트 스팅 분장을 하면 그 사이를 걸어 다닐 수 있다."
+ },
+ "52bd9ac2c2d2": {
+  "en": "**Walking Skin** (\"Walking Bones\") — slower, dumber, swarming undead; many were people the castle \"collected\" during its rampages. Some scientists think the castle breeds them.",
+  "t": "**워킹 스킨**(‘워킹 본스’) — 더 느리고 더 멍청하며 떼 지어 몰려드는 언데드. 상당수는 성이 날뛸 때 ‘수집한’ 사람들이었다. 성이 이들을 번식시킨다고 보는 과학자도 있다."
+ },
+ "53723a86d445": {
+  "en": "**Koalin** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Koalin.png)) — a capybara-like cousin of the Soreno in the eastern grasslands. Males' heads and silky beards beam mental waves: first dread, then urges to kill yourself, then crippling pain. \"There's no winning against a Koalin.\" Almost untamable — but a Koalin raised from a baby is loyal for life. Its brain, eyes and beard make the banned Mind Enabler gel; carrying them gets you questioned.",
+  "t": "**코알린**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Koalin.png)) — 동쪽 초원에 사는, 카피바라를 닮은 소레노의 사촌. 수컷의 머리와 비단 같은 수염에서 정신파가 나온다. 처음엔 두려움, 다음엔 자살 충동, 그다음엔 몸을 못 가누게 하는 고통. “코알린은 이길 수 없다.” 거의 길들일 수 없다 — 하지만 새끼 때부터 키운 코알린은 평생 충성한다. 뇌, 눈, 수염은 금지된 마인드 이네이블러 젤의 재료이고, 갖고 다니면 심문을 받는다."
+ },
+ "591977eaa156": {
+  "en": "**Sucker Lady** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sucker%20Lady.png)) — another shapeshifter offshoot (folklore: it ate a sex worker). It picks a target, stalks them for days, pins them at night and sucks their soul out through their fingers. Drive it off with a fost lamp — or something else finger-shaped.",
+  "t": "**서커 레이디**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sucker%20Lady.png)) — 또 다른 변신자 분파(전설: 성매매 종사자를 먹었다). 표적을 골라 며칠 동안 뒤를 밟다가, 밤에 짓눌러 손가락으로 영혼을 빨아낸다. 포스트 램프로 쫓아낼 수 있다 — 아니면 손가락처럼 생긴 다른 무언가로."
+ },
+ "6602dee104ce": {
+  "en": "**Shapeshifter** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Shapeshifter.png)) — living rock-jelly colonies west of Blood, made by an ancient race. They mimic creatures (voices too), merge to share memories, then split. Are they smart or just good mimics? Tavern gossip tells of one that \"recreationally\" approaches lonely male adventurers. Cut-off jelly blobs sell well.",
+  "t": "**변신자**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Shapeshifter.png)) — 블러드 서쪽에 있는 살아 있는 바위 젤리 군체로, 고대 종족이 만들었다. 생물을(목소리까지) 흉내 내고, 합쳐서 기억을 나누고, 다시 갈라진다. 영리한 걸까, 흉내만 잘 내는 걸까? 선술집 소문으로는 외로운 남자 모험가에게 ‘오락 삼아’ 다가오는 녀석이 있다고 한다. 잘라 낸 젤리 덩어리는 잘 팔린다."
+ },
+ "678ef9982a78": {
+  "en": "Defensive",
+  "t": "방어적"
+ },
+ "8bc7ec1dea56": {
+  "en": "**Hifuna People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Hifuna%20Wood%20People.png)) — Wood People mutated by Hifuna. They pulp everything nearby (each other included) and squat on it to absorb it. Sonic booms, razor vines, launched spikes, and branches they rip off and throw to explode. Sapphire-level danger. Their fruit sells on the black market.",
+  "t": "**히푸나 피플**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Hifuna%20Wood%20People.png)) — 히푸나에서 변이한 우드 피플. 근처의 모든 것(서로까지 포함해)을 짓이겨 곤죽으로 만들고 그 위에 쭈그려 앉아 흡수한다. 음속 폭음, 칼날 같은 덩굴, 쏘아 대는 가시, 그리고 뜯어서 던지면 폭발하는 가지. 사파이어급 위험. 열매는 암시장에서 팔린다."
+ },
  "8c4d38b077d8": {
   "en": "Beasts",
   "t": "마수"
+ },
+ "a538c17ae1ea": {
+  "en": "**Crazed Muckman** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Crazed%20Muckman.png)) — shapeshifter offshoots around Blood and Freeish with extra limbs or triple torsos. Folklore says a shapeshifter ate a bandit. Usually peaceful unless you look like food or muck with them.",
+  "t": "**크레이즈드 머크맨**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Crazed%20Muckman.png)) — 블러드와 프리이시 주변의 변신자 분파로, 팔다리가 더 있거나 몸통이 셋이다. 전설로는 변신자가 산적을 먹고 생긴 것이라고 한다. 먹이처럼 보이거나 건드리지 않으면 대개 얌전하다."
+ },
+ "b48d1745a985": {
+  "en": "**Sand Worm** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sand%20Worms.png)) — desert ambushers around Gandew, relatives of the Nari Worms. They bury themselves or cloak in plain sight, harden their bodies, spray acid, and grow bigger. The main source of **chitin**; the meat is gamey poor-man's jerky. **Saynas** can sense them, which lets adventurers turn the hunt around.",
+  "t": "**샌드 웜**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sand%20Worms.png)) — 간듀 주변 사막의 매복꾼으로, 나리 웜의 친척. 모래에 몸을 묻거나 훤히 보이는 곳에서 몸을 숨기고, 몸을 단단하게 하고, 산을 뿜고, 점점 커진다. **키틴**의 주된 공급원. 고기는 누린내가 나는 가난뱅이 육포다. **사이나**가 이들을 감지할 수 있어서 모험가가 사냥의 판을 뒤집을 수 있다."
+ },
+ "b5f1d26c0700": {
+  "en": "Somewhat intelligent or very dangerous creatures. Game stats are in `D&D Campaign/Stat Blocks/Beasts.md`. Art links go to the main #HusbandOutWorld repo.",
+  "t": "어느 정도 지능이 있거나 아주 위험한 생물들. 게임 수치는 `D&D Campaign/Stat Blocks/Beasts.md`에 있다. 그림 링크는 #HusbandOutWorld 본 저장소로 이어진다."
+ },
+ "c51e6700af02": {
+  "en": "Aggressive",
+  "t": "공격적"
+ },
+ "cb00661ec4fe": {
+  "en": "**Trunk People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Trunk%20People.png)) — four-armed living tree branches (technically parasites) in the south-west forests. Monkey-smart, deaf, recognize faces, talk in colored light. Their arms burn with adjustable colored flames and blinding flashes. Freeish uses them as street lights and guards; some perform in shows. Enough angry ones can burn a town down.",
+  "t": "**트렁크 피플**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Trunk%20People.png)) — 남서쪽 숲에 사는, 팔이 넷 달린 살아 있는 나뭇가지(엄밀히는 기생 생물). 원숭이만큼 영리하고, 귀가 들리지 않고, 얼굴을 알아보고, 색깔 빛으로 말한다. 팔은 조절할 수 있는 색깔 불꽃과 눈부신 섬광으로 탄다. 프리이시는 이들을 가로등과 경비로 쓰고, 공연에 나서는 것도 있다. 화난 녀석들이 충분히 모이면 마을 하나를 태워 버릴 수 있다."
+ },
+ "cf9e18691e3c": {
+  "en": "Amicable",
+  "t": "우호적"
+ },
+ "d1173fa12520": {
+  "en": "**Nari Worm** — huge, friendly, stone-eating worms under Blood whose shed shells make nari stones. **Harming them or their eggs can get you exiled to Hifuna.** An egg restores a lot of soul energy and works like Nari Refresher (and may randomly hatch).",
+  "t": "**나리 웜** — 블러드 아래에 사는, 돌을 먹는 거대하고 순한 벌레로, 벗어 놓은 껍데기가 나리석이 된다. **이들이나 알을 해치면 히푸나로 유배될 수 있다.** 알 하나는 영혼 에너지를 크게 회복시키고 나리 리프레셔처럼 작용한다(그리고 아무 때나 부화할 수도 있다)."
+ },
+ "d83a60c00aa1": {
+  "en": "**Walking Flesh** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flesh.png)) — undead of any species, leftovers of Walking Heart experiments in **Bahyum**. They share a hive mind, regenerate slowly, don't rot, decompose what they touch, and steal soul energy. Away from the castle some rampage, some idle, a few are docile.",
+  "t": "**워킹 플레시**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flesh.png)) — 어떤 종이든 될 수 있는 언데드로, **바혐**에서 벌인 워킹 하트 실험의 찌꺼기. 집단 의식을 공유하고, 천천히 재생하고, 썩지 않고, 닿는 것을 분해하고, 영혼 에너지를 훔친다. 성에서 멀리 떨어진 것 중에는 날뛰는 것도, 멍하니 있는 것도, 드물게 순한 것도 있다."
+ },
+ "dd39dae79705": {
+  "en": "**Big Winga** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Big%20Winga.png)) — giant intelligent Wingas made by the Buhraies; scientists brawl over whether they're a race. Hunted almost to extinction for their meat and feathers. Families who stole eggs now get rich selling Big Winga gel. A tamed one (~1 aquamarine, if you can find one) is a long-lived companion. They make light, sense life, and raise air shields. The \"Big Wingas\" at embassies are guards wearing gel.",
+  "t": "**빅 윙가**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Big%20Winga.png)) — 부라이에스가 만든 지능 있는 거대한 윙가. 이들이 종족인지를 두고 과학자들이 주먹다짐을 벌인다. 고기와 깃털 때문에 거의 멸종할 때까지 사냥당했다. 알을 훔친 가문들은 지금 빅 윙가 젤을 팔아 부자가 됐다. 길들인 것(찾을 수만 있다면 ~1 아쿠아마린)은 오래 사는 동반자가 된다. 빛을 만들고, 생명을 감지하고, 공기 방패를 세운다. 대사관의 ‘빅 윙가’는 젤을 쓴 경비병이다."
+ },
+ "e2213204ea50": {
+  "en": "**Walking Flathead** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flathead.png)) — the leaders, maybe the physical will, of Bahyum Castle. Lion-smart, see soul energy, nearly impossible to kill, and they lay worms in living flesh. \"If you see one, you're fucked.\" Sell one corpse and you live like a king for a year.",
+  "t": "**워킹 플랫헤드**([그림](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flathead.png)) — 바혐 성의 우두머리이자, 어쩌면 성의 의지가 몸을 얻은 것. 사자만큼 영리하고, 영혼 에너지를 보며, 죽이기가 거의 불가능하고, 살아 있는 살에 벌레를 낳는다. “하나라도 보이면 넌 좆된 거다.” 시체 하나를 팔면 일 년은 왕처럼 산다."
  }
 }

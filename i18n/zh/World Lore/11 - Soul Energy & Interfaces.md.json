@@ -1,7 +1,59 @@
 {
+ "03de3cd85eea": {
+  "en": "**Body RESTORE** heals: Tier I bruises · II minor cuts · III deep cuts · IV broken bones · V many fractures and blood loss · VI lost limbs · VII lost head · VIII lost torso · IX near-instant regeneration (if you have the fat or black honey to burn). **Body DISASSEMBLE/DESTROY** causes bleeding, convulsions, explosions.",
+  "t": "**博迪里斯托尔**可以治疗：第I级 淤青 · II 小伤口 · III 深伤口 · IV 骨折 · V 多处骨折和失血 · VI 失去肢体 · VII 失去头部 · VIII 失去躯干 · IX 近乎瞬间再生（前提是你有足够的脂肪或黑蜜可以燃烧）。**博迪迪斯阿森布尔／迪斯特罗伊**会造成出血、抽搐和爆炸。"
+ },
+ "13dd49d5034d": {
+  "en": "Made by the Buhraies to control the Darfaries as soldiers. Works for anyone with a drop of Darfaries/Wozefaries blood — nearly every human today.",
+  "t": "由布莱斯制造，用来把达尔法里斯当作士兵控制。只要有一滴达尔法里斯或沃泽法里斯的血就能用——如今几乎所有人类都有。"
+ },
+ "14c1e1875566": {
+  "en": "Revival is routine: heal the body, restart the heart (a jolt of **storm** energy), feed it something energy-dense like **black honey**. Embassies sell it as a service.",
+  "t": "复活是常规操作：治好身体，重新启动心脏（用一下**风暴**能量），再喂它一些能量密集的东西，比如**黑蜜**。大使馆把它当作一项服务出售。"
+ },
+ "1920b8108b65": {
+  "en": "Soul Energy (SE)",
+  "t": "灵魂能量（SE）"
+ },
+ "1db084c3e97b": {
+  "en": "**Miscasts:** missing or sloppy logograms make the spell fall back on whatever you're thinking. That can explode in your hand — or turn you into a chicken-like Fanchaki.",
+  "t": "**施法失误：** 语标文字缺失或画得潦草，法术就会拿你脑子里正在想的东西来补。它可能在你手里爆炸——也可能把你变成一只像鸡一样的凡查基。"
+ },
+ "4962021bae4d": {
+  "en": "**World/Object VERB** changes density, attracts or repels, \"un-rusts\" things, or turns them to dust.",
+  "t": "**沃尔德／奥布杰克特＋动词**可以改变密度、吸引或排斥、给东西“除锈”，或者把它们变成尘土。"
+ },
  "4df3cbc0f57d": {
   "en": "Soul, body, gene",
   "t": "灵魂、身体、基因"
+ },
+ "52cb1b6c21ca": {
+  "en": "Draw a small logogram in the air with one hand while holding two fingers with the other; hold to charge (others can touch you to add energy); release by opening the fingers. Elements only. Fast, animal-like, aggressive.",
+  "t": "一只手在空中画一个小小的语标文字，另一只手握住两根手指；握住不放来蓄力（别人可以碰你来增加能量）；张开手指释放。只能用元素。快速、野兽般、具有攻击性。"
+ },
+ "59b9f7176cca": {
+  "en": "Healing, reviving, lighting, refrigeration (ice spells keep meat fresh for trade), drying fish, industrial work in Tolerideme, entertainment (**Soul Energy Art** shows in Forway), sports (Homeegg flight), and the embassy badge system.",
+  "t": "治疗、复活、照明、冷藏（冰系法术让用于贸易的肉保持新鲜）、晒鱼干、托勒里德梅的工业、娱乐（福威的**灵魂能量艺术**表演）、体育（霍姆埃格飞行），以及大使馆的身份牌系统。"
+ },
+ "621631e94c2a": {
+  "en": "**Elemental CREATE** throws a ball of fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust or ash. **Gravity** spells pull and push; a Gravity CREATE makes a tiny black hole that evaporates instantly.",
+  "t": "**埃莱门特尔克里埃特**会抛出火、水、冰、风暴、蒸汽、风、土、冻土、泥、熔岩、电击、尘埃或灰烬的球。**格拉维蒂**法术可以拉也可以推；格拉维蒂克里埃特会制造一个瞬间就会蒸发的微型黑洞。"
+ },
+ "650efd46a6d5": {
+  "en": "**Verbs:** INCREASE/DECREASE, REPEL/ATTRACT, RESTORE/DISASSEMBLE, CREATE/DESTROY, plus **ENTANGLE** (link sounds so a whole group hears the same thing — used for comms) and **TRANSMUTE** (turn one metal into its neighbor; not worth the cost), both reintroduced by the scientist Gabiro in 987 A.G.",
+  "t": "**动词：** 因克里斯／迪克里斯（增加／减少）、里佩尔／阿特拉克特（排斥／吸引）、里斯托尔／迪斯阿森布尔（复原／拆解）、克里埃特／迪斯特罗伊（创造／毁灭），还有**因坦格尔**（把声音连起来，让一整群人听到同样的东西——用于通讯）和**特兰斯缪特**（把一种金属变成相邻的金属；得不偿失），这两个都是科学家加比罗在987 A.G.重新引入的。"
+ },
+ "6bba3847d6f0": {
+  "en": "Interfaces",
+  "t": "界面"
+ },
+ "84d7ed02031e": {
+  "en": "Logograms **carved into the palm** with a blade. Without them you're editing souls directly — the Buhraies' greatest power and their downfall. Can alter body and soul \"DNA\"; changes stick even through healing.",
+  "t": "用刀**刻在掌心**的语标文字。没有它们，你就是在直接编辑灵魂——这是布莱斯最强大的力量，也是他们覆灭的原因。可以改变身体和灵魂的“DNA”；改变即使经过治疗也会保留。"
+ },
+ "84f18aae9429": {
+  "en": "You can draw the logograms on your palm (slow, risky, and forbidden inside city limits) or wear **sigil rings** with them carved in (fast, safe; sold in Soul Energy shops; blank rings are banned except for courtroom scientists and Aquamarine+ adventurers).",
+  "t": "你可以把语标文字画在手掌上（慢、危险，且在城内被禁止），也可以戴上刻有它们的**西吉尔戒指**（快、安全；在灵魂能量商店出售；空白戒指被禁止，宫廷科学家和阿夸马林及以上的冒险者除外）。"
  },
  "8b6493801e36": {
   "en": "There are no gods and no \"magic\" in Vraki — there is **Soul Energy**, and everybody calls it science. Scientists publish papers, peer-review each other brutally, and blow themselves up.",
@@ -11,6 +63,86 @@
   "en": "Strong emotions make long-lasting memories. When parents make a baby, both release a little soul energy and nearby particles form a new soul, so a newborn's temperament looks random.",
   "t": "强烈的情感会形成持久的记忆。父母生孩子时，双方都会释放一点灵魂能量，附近的粒子便组成一个新的灵魂，所以新生儿的性情看起来是随机的。"
  },
+ "a34c4088549a": {
+  "en": "**Objects:** 26 approved simple objects plus rare approved compound ones. A new compound object is approved only if random passersby can cast it without a single miscast.",
+  "t": "**对象：** 26个经批准的简单对象，外加少量经批准的复合对象。新的复合对象只有在随便找来的路人都能一次不失误地施放时才会被批准。"
+ },
+ "a5d4d49970fb": {
+  "en": "Souls are toughest in early adulthood (revival is nearly guaranteed) and fragile in infants and the elderly.",
+  "t": "灵魂在刚成年时最坚韧（复活几乎必定成功），在婴儿和老人身上则很脆弱。"
+ },
+ "a7ac2e2e6605": {
+  "en": "Other uses of Soul Energy",
+  "t": "灵魂能量的其他用途"
+ },
+ "ac91e049c126": {
+  "en": "When the heart and brain stop, the soul stays tied to the body while the genetic material lasts. The dead dream in a loop of their strongest memories or desires.",
+  "t": "心脏和大脑停止后，只要遗传物质还在，灵魂就仍然系在身体上。死者会循环梦见自己最强烈的记忆或欲望。"
+ },
+ "b29a91912b7a": {
+  "en": "**Common spells:**",
+  "t": "**常用法术：**"
+ },
+ "b54bcd11081b": {
+  "en": "SE comes in **tiers** (I, II, III… X and up). Each tier needs double the energy of the one before it: **1 nari stone for Tier I, 2 for Tier II, 4 for Tier III, 8 for Tier IV…**",
+  "t": "SE分为不同**等级**（I、II、III……X及以上）。每一级所需的能量都是上一级的两倍：**第I级1颗纳里石，第II级2颗，第III级4颗，第IV级8颗……**"
+ },
+ "bf7af2224bd6": {
+  "en": "The five rings hold **2, 8, 18, 32 and 50** tiers of energy. Nobody has officially cast at the fourth or fifth ring.",
+  "t": "五个火环分别容纳**2、8、18、32和50**级的能量。官方记录中，从没有人在第四或第五个环施过法。"
+ },
+ "c27e2f58bb51": {
+  "en": "You can **expand** your soul's capacity with training, like exercise. The rich tend to have small souls — they just buy nari stones.",
+  "t": "你可以像锻炼身体一样，通过训练**扩充**灵魂的容量。富人的灵魂往往很小——他们直接买纳里石。"
+ },
+ "c321d9232818": {
+  "en": "Walking Heart (banned)",
+  "t": "沃金哈特（禁止）"
+ },
+ "c401fbb82c9f": {
+  "en": "Recharged by **emotions** and **eating** (eating something alive absorbs some of its soul energy). On average you recover about **one nari stone's worth a day**.",
+  "t": "靠**情绪**和**进食**恢复（吃活的东西会吸收它的一部分灵魂能量）。平均每天能恢复大约**一颗纳里石的量**。"
+ },
+ "c448bb3b1c77": {
+  "en": "Buhraies interface (blood-born)",
+  "t": "布莱斯界面（生于血脉）"
+ },
+ "c8606fb7f956": {
+  "en": "**Soul CREATE** — attempting to create a soul. Forbidden-level stuff. (Rumor says a famous Sanbi scientist died trying.)",
+  "t": "**索尔克里埃特**——试图创造灵魂。属于禁忌级别。（传说一位著名的桑比科学家就是因为尝试这个而死的。）"
+ },
+ "c893de59837f": {
+  "en": "As the body rots, the link fades. A soul with no link slowly dissolves: **Soul Death** (\"detachment\"). Bigger souls with stronger memories last longer.",
+  "t": "随着身体腐烂，连接会逐渐消失。没有连接的灵魂会慢慢溶解：**灵魂之死**（“脱离”）。记忆越强的大灵魂撑得越久。"
+ },
+ "cb6495a2c116": {
+  "en": "Darfaries interface (what almost everyone uses)",
+  "t": "达尔法里斯界面（几乎所有人都在用）"
+ },
+ "cc7d7b4029ee": {
+  "en": "Replace your heart with a Walking Heart stone and become **undead** — see Nari Gels, Bombs & Stones.",
+  "t": "把你的心脏换成一块沃金哈特石，你就会变成**亡灵**——见“纳里凝胶、炸弹与石头”。"
+ },
+ "d8f1a9b0aa9f": {
+  "en": "A spell is two **logograms**: an **OBJECT** (what it acts on) and a **VERB** (what it does).",
+  "t": "一个法术由两个**语标文字**组成：一个**对象**（作用于什么）和一个**动词**（做什么）。"
+ },
+ "dfc961e0ebcb": {
+  "en": "Death and revival",
+  "t": "死亡与复活"
+ },
+ "e0514eeee5d5": {
+  "en": "An **interface** turns soul energy into an effect. Many creatures have one built into their bodies (a Bagarisa's fire tusks, a Crocus's invisibility). People use these:",
+  "t": "**界面**把灵魂能量转化为效果。许多生物的身体里自带界面（巴加里萨的火獠牙、克罗卡斯的隐形）。人们使用的是这些："
+ },
+ "e1958d538a66": {
+  "en": "**How to cast:** clench the hand with the logograms → five rings of white flame appear around your forearm → touch your middle and ring fingers to the palm and \"eat\" the energy (yours, a friend's, or a **nari stone stick**) → each \"bite\" pushes the spell to the next stable tier → open your hand to release it, or throw your arm for range. It kicks like a gun.",
+  "t": "**施法方法：** 握紧画有语标文字的手 → 前臂周围出现五个白色火环 → 用中指和无名指碰触掌心，“吃下”能量（你自己的、朋友的，或一根**纳里石棒**的）→ 每“咬”一口，法术就升到下一个稳定的等级 → 张开手释放，或甩出手臂打得更远。后坐力像枪一样。"
+ },
+ "e452339450dc": {
+  "en": "Finaies interface (primordial)",
+  "t": "菲奈斯界面（原始）"
+ },
  "e6c36ad0eacd": {
   "en": "Your **soul** is a cloud of virtual particles that holds your consciousness, your **memories** and your **Soul Energy**. Your **genes** are the soul's memories made physical; your **body** is built from those genes. (The author's analogy: soul = database, gene = class, body = object.)",
   "t": "你的**灵魂**是一团虚粒子云，装着你的意识、你的**记忆**和你的**灵魂能量**。你的**基因**是灵魂的记忆化为实体；你的**身体**由这些基因构建。（作者的比喻：灵魂 = 数据库，基因 = 类，身体 = 对象。）"
@@ -18,5 +150,17 @@
  "ea225874e93a": {
   "en": "Soul Energy & Interfaces",
   "t": "灵魂能量与界面"
+ },
+ "eb1eb3d84c46": {
+  "en": "**Senses and flight:** Darfaries \"veins\" (nerves) let Darfaries, Wozefaries and Sorefaries sense soul energy and weather. A white flame runs along them; a black flame works like a jetpack (feet dangling, steering with the arms). Darfaries soften falls, Wozefaries glide, Sorefaries fly.",
+  "t": "**感官与飞行：** 达尔法里斯的“血管”（神经）让达尔法里斯、沃泽法里斯和索雷法里斯能感知灵魂能量和天气。白色火焰沿着它们流动；黑色火焰则像喷气背包一样工作（双脚悬空，用手臂掌控方向）。达尔法里斯能缓冲坠落，沃泽法里斯能滑翔，索雷法里斯能飞。"
+ },
+ "eb955d883656": {
+  "en": "Your **badge** shows your current SE (only to you).",
+  "t": "你的**身份牌**会显示你当前的SE（只有你看得到）。"
+ },
+ "fe0dd2eef3ca": {
+  "en": "**Lifespan** depends on how strong and dense the connections between flesh and soul are. Aging is those connections wearing out. Regrowing a lost limb lowers the density (shortens your life), so **reattach limbs before healing**.",
+  "t": "**寿命**取决于肉体与灵魂之间的连接有多强、多密。衰老就是这些连接逐渐磨损。重新长出失去的肢体会降低密度（缩短寿命），所以**治疗前先把肢体接回去**。"
  }
 }

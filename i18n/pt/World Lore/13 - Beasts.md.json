@@ -1,6 +1,106 @@
 {
+ "08c81f4312d7": {
+  "en": "**Flinga** — huge pteranodon-like birds that fly high and never land, with unpredictable paths. Stunning screams and air gusts; untamable, unhatchable. Campfire tales tell of a child-sized wooden rider on one. Seeing them in **winter** is an omen.",
+  "t": "**Flinga** — enormes aves parecidas com pteranodontes que voam alto e nunca pousam, com trajetos imprevisíveis. Gritos atordoantes e rajadas de ar; impossíveis de domar ou de chocar. Histórias de fogueira falam de um cavaleiro de madeira do tamanho de uma criança montado numa delas. Vê-las no **inverno** é um presságio."
+ },
+ "17390f9a49f9": {
+  "en": "**Bruntos** — chimp-like creatures on Endlessfog, protected there. Tool users, no fire, great porters over rough ground. Humans are \"Naked Bruntos\".",
+  "t": "**Bruntos** — criaturas parecidas com chimpanzés em Endlessfog, protegidas lá. Usam ferramentas, mas não fogo, e são ótimos carregadores em terreno acidentado. Os humanos são «Bruntos pelados»."
+ },
+ "1a7b95d34fd6": {
+  "en": "Adventurers butcher kills in the field to save on hauling. Bring back a head (or the Walking Heart stone and skull) to prove an extermination.",
+  "t": "Aventureiros carneiam as presas no campo para economizar no transporte. Traga uma cabeça (ou a pedra Walking Heart e o crânio) para provar um extermínio."
+ },
+ "22fabbdd57cb": {
+  "en": "**Hash {creature}** — any fauna, beast or person that lived too long in **Hifuna**: bigger, patchy hair, lopsided body parts, half as smart, far more aggressive, usually sterile, stronger versions of its old abilities. Its meat is irradiated — it smells rotten and metallic, tastes like sulfur and singed hair, and turns odd colors. *Use it as a template on any creature.*",
+  "t": "**Hash {creature}** — qualquer fauna, fera ou pessoa que viveu tempo demais em **Hifuna**: maior, pelo falhado, partes do corpo tortas, metade da inteligência, muito mais agressiva, geralmente estéril, com versões mais fortes das antigas habilidades. A carne é irradiada — cheira a podre e a metal, tem gosto de enxofre e cabelo queimado, e fica com cores estranhas. *Use como modelo sobre qualquer criatura.*"
+ },
+ "239c7830c1b2": {
+  "en": "**White Roundies** — intelligent seal-like mammals from Whiteland that visit northern shores every winter. Play fetch, rub their bellies (they purr through neck tentacles), and trade them good food for what they find on the sea floor — gold or a half-eaten fish.",
+  "t": "**White Roundies** — mamíferos inteligentes parecidos com focas, de Whiteland, que visitam as costas do norte todo inverno. Brinque de buscar, faça carinho na barriga deles (eles ronronam pelos tentáculos do pescoço) e troque boa comida pelo que eles acharem no fundo do mar — ouro ou um peixe meio comido."
+ },
+ "358319bcaaf2": {
+  "en": "**Wood People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Wood%20People.png)) — walking Yabuca trees the Buhraies engineered as soldiers, food and lumber. They're everywhere on the Buhraies Plains, sense the world through vibration, bleed pink sap, and lash out with vines that punch holes in flesh. Drawn to **fost stones** — and a fost stone jammed into the crown **paralyzes** them, which is how villages build living walls. Their red wood, rubbery vines, sap and head-sized fruit are valuable.",
+  "t": "**Wood People** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Wood%20People.png)) — árvores Yabuca andantes que os buhraies projetaram como soldados, comida e madeira. Estão por toda parte nas Planícies de Buhraies, sentem o mundo pela vibração, sangram seiva rosa e atacam com cipós que furam a carne. São atraídos por **pedras fost** — e uma pedra fost cravada na copa os **paralisa**, que é como as aldeias constroem muros vivos. A madeira vermelha, os cipós borrachudos, a seiva e os frutos do tamanho de uma cabeça são valiosos."
+ },
+ "37e3f558a619": {
+  "en": "**Monica Swarm** — swarms of blue-glowing butterflies that flee bad weather (a blue wall on the horizon means a storm) and strip a corpse in hours.",
+  "t": "**Enxame de Monica** — enxames de borboletas de brilho azul que fogem do mau tempo (uma muralha azul no horizonte quer dizer tempestade) e limpam um cadáver em horas."
+ },
+ "41529acd06f3": {
+  "en": "**Teefyro** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Teefyro.png)) — a mindless Hifuna chimera shaped and smelling something like a Bagarisa. It fires its teeth by exploding its gums, casts random spells from its mixed flesh, and sometimes detonates entirely, leaving a crater.",
+  "t": "**Teefyro** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Teefyro.png)) — uma quimera sem mente de Hifuna, com forma e cheiro parecidos com os de um Bagarisa. Dispara os dentes explodindo as gengivas, lança magias aleatórias a partir da carne misturada e às vezes detona por inteiro, deixando uma cratera."
+ },
+ "471807b56bea": {
+  "en": "**Sweet Sting** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sweet%20Sting.png)) — giant bees west of Blood, centered on **Sweetlake**. Females have no stinger but shoot poison from black-flamed pincers at near-sonic speed (\"sure as a spitting Sweet Sting\"); small males sting (agony plus an overwhelming sweet taste). They make **black honey**. Wear a Sweet Sting costume to walk among them.",
+  "t": "**Sweet Sting** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sweet%20Sting.png)) — abelhas gigantes a oeste de Blood, com centro em **Sweetlake**. As fêmeas não têm ferrão, mas disparam veneno de pinças de chama negra a uma velocidade quase sônica («certeiro como um Sweet Sting cuspindo»); os machos pequenos ferroam (agonia mais um gosto doce avassalador). Produzem **mel negro**. Use uma fantasia de Sweet Sting para andar entre elas."
+ },
+ "52bd9ac2c2d2": {
+  "en": "**Walking Skin** (\"Walking Bones\") — slower, dumber, swarming undead; many were people the castle \"collected\" during its rampages. Some scientists think the castle breeds them.",
+  "t": "**Walking Skin** («Walking Bones») — mortos-vivos mais lentos e mais burros, que atacam em enxame; muitos eram pessoas que o castelo «coletou» em seus surtos. Alguns cientistas acham que o castelo os cria."
+ },
+ "53723a86d445": {
+  "en": "**Koalin** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Koalin.png)) — a capybara-like cousin of the Soreno in the eastern grasslands. Males' heads and silky beards beam mental waves: first dread, then urges to kill yourself, then crippling pain. \"There's no winning against a Koalin.\" Almost untamable — but a Koalin raised from a baby is loyal for life. Its brain, eyes and beard make the banned Mind Enabler gel; carrying them gets you questioned.",
+  "t": "**Koalin** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Koalin.png)) — um primo do Soreno parecido com uma capivara, das pradarias do leste. A cabeça e a barba sedosa dos machos emitem ondas mentais: primeiro pavor, depois vontade de se matar, depois uma dor paralisante. «Não tem como ganhar de um Koalin.» Quase impossível de domar — mas um Koalin criado desde filhote é leal pela vida toda. O cérebro, os olhos e a barba fazem o gel proibido Mind Enabler; andar com eles faz você ser interrogado."
+ },
+ "591977eaa156": {
+  "en": "**Sucker Lady** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sucker%20Lady.png)) — another shapeshifter offshoot (folklore: it ate a sex worker). It picks a target, stalks them for days, pins them at night and sucks their soul out through their fingers. Drive it off with a fost lamp — or something else finger-shaped.",
+  "t": "**Sucker Lady** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sucker%20Lady.png)) — outra ramificação de metamorfo (folclore: comeu uma profissional do sexo). Escolhe um alvo, persegue-o por dias, imobiliza-o à noite e suga a alma dele pelos dedos. Afaste-a com um lampião fost — ou com outra coisa em formato de dedo."
+ },
+ "6602dee104ce": {
+  "en": "**Shapeshifter** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Shapeshifter.png)) — living rock-jelly colonies west of Blood, made by an ancient race. They mimic creatures (voices too), merge to share memories, then split. Are they smart or just good mimics? Tavern gossip tells of one that \"recreationally\" approaches lonely male adventurers. Cut-off jelly blobs sell well.",
+  "t": "**Metamorfo** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Shapeshifter.png)) — colônias vivas de gelatina de pedra a oeste de Blood, criadas por uma raça antiga. Imitam criaturas (vozes também), fundem-se para compartilhar memórias e depois se separam. São inteligentes ou só bons imitadores? A fofoca de taverna fala de um que se aproxima «recreativamente» de aventureiros homens solitários. Pedaços de gelatina cortados vendem bem."
+ },
+ "678ef9982a78": {
+  "en": "Defensive",
+  "t": "Defensivas"
+ },
+ "8bc7ec1dea56": {
+  "en": "**Hifuna People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Hifuna%20Wood%20People.png)) — Wood People mutated by Hifuna. They pulp everything nearby (each other included) and squat on it to absorb it. Sonic booms, razor vines, launched spikes, and branches they rip off and throw to explode. Sapphire-level danger. Their fruit sells on the black market.",
+  "t": "**Hifuna People** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Hifuna%20Wood%20People.png)) — Wood People que sofreram mutação em Hifuna. Transformam em polpa tudo o que estiver por perto (inclusive uns aos outros) e se sentam em cima para absorver. Estrondos sônicos, cipós cortantes, espinhos lançados e galhos que arrancam e atiram para explodir. Perigo de nível Sapphire. Os frutos são vendidos no mercado negro."
+ },
  "8c4d38b077d8": {
   "en": "Beasts",
   "t": "Bestas"
+ },
+ "a538c17ae1ea": {
+  "en": "**Crazed Muckman** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Crazed%20Muckman.png)) — shapeshifter offshoots around Blood and Freeish with extra limbs or triple torsos. Folklore says a shapeshifter ate a bandit. Usually peaceful unless you look like food or muck with them.",
+  "t": "**Crazed Muckman** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Crazed%20Muckman.png)) — ramificações de metamorfos ao redor de Blood e Freeish, com membros extras ou três troncos. O folclore diz que um metamorfo comeu um bandido. Costumam ser pacíficos, a menos que você pareça comida ou mexa com eles."
+ },
+ "b48d1745a985": {
+  "en": "**Sand Worm** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sand%20Worms.png)) — desert ambushers around Gandew, relatives of the Nari Worms. They bury themselves or cloak in plain sight, harden their bodies, spray acid, and grow bigger. The main source of **chitin**; the meat is gamey poor-man's jerky. **Saynas** can sense them, which lets adventurers turn the hunt around.",
+  "t": "**Sand Worm** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Sand%20Worms.png)) — emboscadores do deserto ao redor de Gandew, parentes dos Nari Worms. Enterram-se ou se camuflam à vista, endurecem o corpo, cospem ácido e crescem. A principal fonte de **quitina**; a carne é um charque de pobre com gosto forte. Os **Saynas** conseguem senti-los, o que deixa os aventureiros virarem a caçada."
+ },
+ "b5f1d26c0700": {
+  "en": "Somewhat intelligent or very dangerous creatures. Game stats are in `D&D Campaign/Stat Blocks/Beasts.md`. Art links go to the main #HusbandOutWorld repo.",
+  "t": "Criaturas um tanto inteligentes ou muito perigosas. As estatísticas de jogo estão em `D&D Campaign/Stat Blocks/Beasts.md`. Os links de arte levam ao repositório principal de #HusbandOutWorld."
+ },
+ "c51e6700af02": {
+  "en": "Aggressive",
+  "t": "Agressivas"
+ },
+ "cb00661ec4fe": {
+  "en": "**Trunk People** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Trunk%20People.png)) — four-armed living tree branches (technically parasites) in the south-west forests. Monkey-smart, deaf, recognize faces, talk in colored light. Their arms burn with adjustable colored flames and blinding flashes. Freeish uses them as street lights and guards; some perform in shows. Enough angry ones can burn a town down.",
+  "t": "**Trunk People** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Trunk%20People.png)) — galhos de árvore vivos de quatro braços (tecnicamente parasitas) nas florestas do sudoeste. Espertos como macacos, surdos, reconhecem rostos e falam com luz colorida. Os braços ardem com chamas coloridas ajustáveis e clarões ofuscantes. Freeish os usa como postes de luz e guardas; alguns se apresentam em shows. Uma quantidade suficiente deles irritada pode queimar uma cidade inteira."
+ },
+ "cf9e18691e3c": {
+  "en": "Amicable",
+  "t": "Amigáveis"
+ },
+ "d1173fa12520": {
+  "en": "**Nari Worm** — huge, friendly, stone-eating worms under Blood whose shed shells make nari stones. **Harming them or their eggs can get you exiled to Hifuna.** An egg restores a lot of soul energy and works like Nari Refresher (and may randomly hatch).",
+  "t": "**Nari Worm** — vermes enormes e amigáveis que comem pedra sob Blood e cujas cascas trocadas viram pedras de nari. **Machucá-los ou machucar seus ovos pode render exílio em Hifuna.** Um ovo restaura muita energia da alma e funciona como um Nari Refresher (e pode chocar do nada)."
+ },
+ "d83a60c00aa1": {
+  "en": "**Walking Flesh** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flesh.png)) — undead of any species, leftovers of Walking Heart experiments in **Bahyum**. They share a hive mind, regenerate slowly, don't rot, decompose what they touch, and steal soul energy. Away from the castle some rampage, some idle, a few are docile.",
+  "t": "**Walking Flesh** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flesh.png)) — mortos-vivos de qualquer espécie, restos dos experimentos com Walking Heart em **Bahyum**. Compartilham uma mente coletiva, regeneram devagar, não apodrecem, decompõem o que tocam e roubam energia da alma. Longe do castelo, alguns saem destruindo tudo, outros ficam parados, e uns poucos são dóceis."
+ },
+ "dd39dae79705": {
+  "en": "**Big Winga** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Big%20Winga.png)) — giant intelligent Wingas made by the Buhraies; scientists brawl over whether they're a race. Hunted almost to extinction for their meat and feathers. Families who stole eggs now get rich selling Big Winga gel. A tamed one (~1 aquamarine, if you can find one) is a long-lived companion. They make light, sense life, and raise air shields. The \"Big Wingas\" at embassies are guards wearing gel.",
+  "t": "**Big Winga** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Big%20Winga.png)) — Wingas gigantes e inteligentes criados pelos buhraies; cientistas brigam para decidir se são uma raça. Caçados quase até a extinção pela carne e pelas penas. Famílias que roubaram ovos agora enriquecem vendendo gel de Big Winga. Um domado (~1 aquamarine, se você achar um) é um companheiro de vida longa. Produzem luz, sentem a vida e erguem escudos de ar. Os «Big Wingas» das embaixadas são guardas usando gel."
+ },
+ "e2213204ea50": {
+  "en": "**Walking Flathead** ([art](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flathead.png)) — the leaders, maybe the physical will, of Bahyum Castle. Lion-smart, see soul energy, nearly impossible to kill, and they lay worms in living flesh. \"If you see one, you're fucked.\" Sell one corpse and you live like a king for a year.",
+  "t": "**Walking Flathead** ([arte](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Illustrations/Beasts/Walking%20Flathead.png)) — os líderes, talvez a vontade física, do Castelo de Bahyum. Espertos como um leão, veem a energia da alma, são quase impossíveis de matar e botam vermes em carne viva. «Se você vir um, está fodido.» Venda um cadáver e viva como rei por um ano."
  }
 }

@@ -1,6 +1,142 @@
 {
+ "135573f02781": {
+  "en": "**Cinika** — small cyan butterflies every spring. Swarms paralyze Wozefaries and Sorefaries to lick their sweat, and gather before storms (free weather warning). Gel ingredient.",
+  "t": "**시니카** — 봄마다 나타나는 작은 청록색 나비. 떼를 지어 워제파리에스와 소레파리에스를 마비시키고 땀을 핥으며, 폭풍 전에 모인다(공짜 일기 예보). 젤 재료."
+ },
+ "174f788d6281": {
+  "en": "Carnivores",
+  "t": "육식 동물"
+ },
+ "20a4105ad96d": {
+  "en": "Herbivores",
+  "t": "초식 동물"
+ },
+ "20e6bf0e3e79": {
+  "en": "Game stats are in `D&D Campaign/Stat Blocks/Fauna.md`.",
+  "t": "게임 수치는 `D&D Campaign/Stat Blocks/Fauna.md`에 있다."
+ },
+ "28b26b2ade38": {
+  "en": "Flora",
+  "t": "식물"
+ },
+ "2c8b3d2646a5": {
+  "en": "**Sanbi** — tuna-like fish that give people migraines with radio waves and shed fake lips and tails as decoys. It takes a strong fisher to land two a day — unless you're from the one family the True Sanbi King blessed.",
+  "t": "**산비** — 참치 같은 물고기로, 전파로 사람에게 편두통을 일으키고 미끼로 가짜 입술과 꼬리를 떼어 낸다. 하루에 두 마리를 낚으려면 힘센 어부여야 한다 — 진정한 산비 왕이 축복한 단 하나의 가문 출신이 아니라면."
+ },
+ "2f33b24e5113": {
+  "en": "**Legunia** — desert flamingo-like bird; leaps high, sprints, flees at once. Its fat is a delicacy; its hump tells you how survivable the desert is right now.",
+  "t": "**레구니아** — 홍학 같은 사막의 새. 높이 뛰고, 전력 질주하고, 즉시 달아난다. 지방은 별미이고, 혹을 보면 지금 사막이 얼마나 살 만한지 알 수 있다."
+ },
+ "36f59f416d74": {
+  "en": "**Fihi** — platypus-eel fish that absorb and release elemental energy and shock things. The huge ones in Lukewarm Lake and Flatland's lake eat people.",
+  "t": "**피히** — 오리너구리와 장어를 섞은 듯한 물고기로, 원소 에너지를 흡수하고 내뿜으며 전기 충격을 준다. 미지근한 호수와 플랫랜드 호수에 사는 거대한 것은 사람을 먹는다."
+ },
+ "38353fb6b15f": {
+  "en": "**Egua** — hippo-headed heavy horse; the pack animal of the kingdoms. Walks on water, shrugs off mud, resizes its legs, and ejects its intestines at predators. Loved, petted, given human burials; only old ones get eaten. Tamed adult ~1 sapphire; tamed foal ~1 aquamarine (carries lighter loads; adventurers walk alongside).",
+  "t": "**에구아** — 하마 머리를 한 육중한 말로, 왕국의 짐 운반 동물. 물 위를 걷고, 진흙을 아랑곳하지 않고, 다리 크기를 바꾸고, 포식자에게 내장을 쏘아 낸다. 사랑받고 쓰다듬어지며, 사람처럼 장례를 치러 준다. 늙은 것만 먹는다. 길들인 성체 ~1 사파이어, 길들인 망아지 ~1 아쿠아마린(짐은 가볍게. 모험가는 옆에서 걷는다)."
+ },
+ "41673d0021e3": {
+  "en": "**Domar Carbey** — purple Tolerideme grain with a cheesy-citrus taste; the heart of their economy.",
+  "t": "**도마르 카베이** — 치즈와 감귤 맛이 나는 톨레리데메의 보라색 곡물. 그곳 경제의 심장."
+ },
+ "4ad1d629b501": {
+  "en": "**Fanchaki** — mutant chicken from the first Buhraies soul experiments. Breeds like rats; an egg a day; tender purple-marbled meat. Fast reactions and a decoy body.",
+  "t": "**판차키** — 부라이에스 최초의 영혼 실험에서 나온 돌연변이 닭. 쥐처럼 번식하고, 하루에 알 하나를 낳으며, 고기는 연하고 보랏빛 마블링이 있다. 반응이 빠르고 미끼 몸이 있다."
+ },
+ "52b5e3897c48": {
+  "en": "**Barina** — pond frog with toxic gas from an explosive tail, spike-throwing back and camouflage. Its lungs and glands go into gels.",
+  "t": "**바리나** — 폭발하는 꼬리에서 독가스를 내뿜고, 등에서 가시를 날리고, 위장을 하는 연못 개구리. 폐와 분비샘은 젤에 들어간다."
+ },
+ "580bc79bd449": {
+  "en": "**Basi** — Freeish berry crushed into a thick, earthy, bittersweet pulp. Cheap and filling.",
+  "t": "**바시** — 으깨면 걸쭉하고 흙냄새 나며 쌉싸름하게 단 과육이 되는 프리이시 열매. 싸고 배부르다."
+ },
  "659a45fc734b": {
   "en": "Fauna",
   "t": "동물"
+ },
+ "71d749e4aaae": {
+  "en": "**Girdol** — lemony gut tea and gel ingredient.",
+  "t": "**기르돌** — 레몬 맛 나는 위장용 차이자 젤 재료."
+ },
+ "78edb53b9c7f": {
+  "en": "**Culuim** — worms that ate a pond's worth of dumped Walking Hearts near Freeish; they flip between heart \"modes\". Cheap, earthy Freeish street food.",
+  "t": "**쿨루임** — 프리이시 근처에서 버려진 워킹 하트를 연못 하나 분량만큼 먹어 치운 벌레. 심장 ‘모드’를 바꿔 가며 산다. 싸고 흙냄새 나는 프리이시 길거리 음식."
+ },
+ "7969f7c022f7": {
+  "en": "**Ptaina** — deep fish with a purple glowing head; ultrasonic stuns, compass-scrambling.",
+  "t": "**프타이나** — 머리가 보랏빛으로 빛나는 심해어. 초음파로 기절시키고 나침반을 엉망으로 만든다."
+ },
+ "79d5ff61fac6": {
+  "en": "**Cocona** — invasive Buhraies fruit with unpredictable water and flavor; gel base.",
+  "t": "**코코나** — 부라이에스가 들여온 외래 과일로, 수분과 맛을 예측할 수 없다. 젤의 바탕."
+ },
+ "878dd9134645": {
+  "en": "Fauna & Flora",
+  "t": "동물과 식물"
+ },
+ "91b2868830b8": {
+  "en": "**Sayna** — fennec fox with horned-lizard armor; goofy and friendly (\"Pohw-pohhhww!\"). Hears for a mile, spots invisible things and sand worms. Sacred in Sundeath; a top export.",
+  "t": "**사이나** — 뿔도마뱀 갑옷을 두른 사막여우. 익살스럽고 다정하다(‘포우-포우우우!’). 1마일 밖 소리도 듣고, 보이지 않는 것과 샌드 웜을 찾아낸다. 선데스에서는 신성하며, 최고의 수출품이다."
+ },
+ "93b1a3abff73": {
+  "en": "**Crocus** — chunky, cute, mean-biting alligators of the Sanbi–Tastyleaf swamps; spike bursts, hardened skin, light-bending invisibility. Ancestors of the Cruros.",
+  "t": "**크로커스** — 산비와 테이스티리프 사이 늪에 사는, 통통하고 귀엽고 고약하게 무는 악어. 가시 난사, 단단해진 피부, 빛을 굽히는 투명화. 크루로의 조상."
+ },
+ "93b1b1a4898a": {
+  "en": "**Soreno** — rat-shrew grain pest and cheap lab animal. Camouflage, voice mimicry, darting, and squeaks that carry far (spies train them). Meat tastes like urine; Pearls eat it anyway because it's free.",
+  "t": "**소레노** — 쥐 겸 땃쥐인 곡식 해충이자 값싼 실험동물. 위장, 목소리 흉내, 재빠른 움직임, 멀리까지 들리는 찍찍 소리(첩자들이 훈련시킨다). 고기에서 오줌 맛이 나지만 펄은 공짜라서 그래도 먹는다."
+ },
+ "9b6c22d3fc81": {
+  "en": "**Black Sapphire** (black wood) — endangered tree that kills life around it; the best soul energy container.",
+  "t": "**블랙 사파이어**(검은 나무) — 주변 생명을 죽이는 멸종 위기의 나무. 최고의 영혼 에너지 그릇."
+ },
+ "a30ab5483d3e": {
+  "en": "**Fatupari** — a scary-looking but dumb giant tree boa; it launches itself and hovers. Tear its pink webbing to stop its magic. Bitter meat, waterproof hide.",
+  "t": "**파투파리** — 생긴 건 무섭지만 멍청한 거대 나무 보아뱀. 몸을 날려 공중에 떠 있는다. 분홍색 막을 찢으면 마법이 멈춘다. 고기는 쓰고 가죽은 방수가 된다."
+ },
+ "b9d42d5b4bea": {
+  "en": "**Monika** — solitary blue-antennaed butterflies drawn to corpses with high soul energy. Follow them to dead adventurers (or the predator nearby). Monika Sight gel.",
+  "t": "**모니카** — 영혼 에너지가 높은 시체에 끌리는, 푸른 더듬이를 단 외톨이 나비. 따라가면 죽은 모험가(아니면 근처의 포식자)를 찾게 된다. 모니카 사이트 젤."
+ },
+ "b9e9501d65f8": {
+  "en": "**Wozen** — nocturnal leopard-smart fox predators of the Freeish and Blood forests and the plains near Forway. Silent, dark, leaping, locking jaws. They love Bagarisa — and humans.",
+  "t": "**워젠** — 프리이시와 블러드의 숲, 그리고 포웨이 근처 평원에 사는, 표범만큼 영리한 야행성 여우 포식자. 소리 없고, 어둡고, 뛰어오르며, 한번 물면 놓지 않는다. 바가리사를 좋아한다 — 그리고 사람도."
+ },
+ "c2e8d36c1a33": {
+  "en": "**Lansha** — elephant-hippo of the Cruro swamps; timid alone, territorial in herds. Pushes things down with gravity, oils itself slick, has sour glands. Tastes like lamb; Cruros love it.",
+  "t": "**란샤** — 크루로 늪에 사는 코끼리 겸 하마. 혼자일 땐 소심하고 무리일 땐 영역 다툼이 심하다. 중력으로 물건을 눌러 가라앉히고, 몸에 기름을 발라 미끄럽게 하며, 신맛 나는 분비샘이 있다. 맛은 양고기 같고, 크루로가 아주 좋아한다."
+ },
+ "c83071ffa015": {
+  "en": "**Cadioca** — cassava-like root, poisonous raw; soaked, dried and fried. Farmed in Freeish.",
+  "t": "**카디오카** — 카사바 같은 뿌리로, 날것은 독이 있다. 물에 담갔다가 말려서 튀긴다. 프리이시에서 재배한다."
+ },
+ "e134357fabb0": {
+  "en": "**Bagarisa** — babirusa-deer; the most-hunted meat (earthy, mushroomy). Fire from the tusks, fireballs, a hot-air crest that makes a flamethrower, self-healing in blood. **Two hearts** (chest and gut) — shoot both. Musk smells like shrimp brine. Classic Amethyst hunt.",
+  "t": "**바가리사** — 바비루사 겸 사슴. 가장 많이 사냥되는 고기(흙 향, 버섯 맛). 엄니에서 나오는 불, 불덩이, 화염 방사기가 되는 열기 볏, 피를 이용한 자가 치유. **심장이 둘**(가슴과 배) — 둘 다 쏴라. 사향에서 새우 소금물 냄새가 난다. 애머시스트의 전형적인 사냥감."
+ },
+ "edf4aa70757d": {
+  "en": "**Emerenthy** — glows at night (makeshift torch); stalks eaten like celery.",
+  "t": "**에메렌시** — 밤에 빛난다(임시 횃불). 줄기는 셀러리처럼 먹는다."
+ },
+ "f0bda17739b5": {
+  "en": "**Winga / Pink Winga** — macaw-like birds that eat Gyut berries. Couriers who remember faces and places; sweet meat; their hardened beaks and claws become **Winga dust**. Tamed ~1 amethyst. Killing a Forway courier Winga is a crime. Pink (Tolerideme) Wingas camouflage well.",
+  "t": "**윙가 / 분홍 윙가** — 귯 열매를 먹는 마코앵무 같은 새. 얼굴과 장소를 기억하는 전령이고, 고기가 달며, 단단해진 부리와 발톱은 **윙가 가루**가 된다. 길들인 것 ~1 애머시스트. 포웨이의 전령 윙가를 죽이는 것은 범죄다. 분홍(톨레리데메) 윙가는 위장을 잘한다."
+ },
+ "f4bb5278a593": {
+  "en": "Omnivores",
+  "t": "잡식 동물"
+ },
+ "fc958d147bac": {
+  "en": "**Carbey** — the staple grass; sets the base value of a pearl; Egua fodder.",
+  "t": "**카베이** — 주식이 되는 풀. 펄의 기본 가치를 정하고, 에구아의 사료가 된다."
+ },
+ "fd493fe39d80": {
+  "en": "**Wooly** — cow-sheep for altitudes of 4–6 km (they suffocate lower). Gandew's milk, wool and cheese; fed Gyut, their milk tastes like caramel. Their death scream carries for kilometers.",
+  "t": "**울리** — 해발 4–6 km에 사는 소 겸 양(그보다 낮으면 질식한다). 간듀의 젖, 양털, 치즈. 귯을 먹이면 젖에서 캐러멜 맛이 난다. 죽을 때 지르는 비명은 몇 킬로미터 밖까지 들린다."
+ },
+ "fee39fe83ac9": {
+  "en": "**Yuyta** — hopping gopher-gerbil; whiskers see through walls (gel ingredient); villagers judge the harvest by their plump rears. Screams like a dying human when attacked.",
+  "t": "**유이타** — 깡충깡충 뛰는 땅다람쥐 겸 저빌. 수염으로 벽 너머를 보고(젤 재료), 마을 사람들은 통통한 엉덩이를 보고 수확을 점친다. 공격받으면 죽어 가는 사람처럼 비명을 지른다."
  }
 }

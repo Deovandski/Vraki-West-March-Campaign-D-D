@@ -1,6 +1,142 @@
 {
+ "135573f02781": {
+  "en": "**Cinika** — small cyan butterflies every spring. Swarms paralyze Wozefaries and Sorefaries to lick their sweat, and gather before storms (free weather warning). Gel ingredient.",
+  "t": "**Cinika** — pequeñas mariposas cian de cada primavera. Los enjambres paralizan a wozefaries y sorefaries para lamerles el sudor, y se reúnen antes de las tormentas (aviso meteorológico gratis). Ingrediente de geles."
+ },
+ "174f788d6281": {
+  "en": "Carnivores",
+  "t": "Carnívoros"
+ },
+ "20a4105ad96d": {
+  "en": "Herbivores",
+  "t": "Herbívoros"
+ },
+ "20e6bf0e3e79": {
+  "en": "Game stats are in `D&D Campaign/Stat Blocks/Fauna.md`.",
+  "t": "Las estadísticas de juego están en `D&D Campaign/Stat Blocks/Fauna.md`."
+ },
+ "28b26b2ade38": {
+  "en": "Flora",
+  "t": "Flora"
+ },
+ "2c8b3d2646a5": {
+  "en": "**Sanbi** — tuna-like fish that give people migraines with radio waves and shed fake lips and tails as decoys. It takes a strong fisher to land two a day — unless you're from the one family the True Sanbi King blessed.",
+  "t": "**Sanbi** — peces parecidos al atún que dan migrañas a la gente con ondas de radio y sueltan labios y colas falsos como señuelo. Hace falta un pescador fuerte para sacar dos al día — salvo que seas de la única familia a la que bendijo el Verdadero Rey Sanbi."
+ },
+ "2f33b24e5113": {
+  "en": "**Legunia** — desert flamingo-like bird; leaps high, sprints, flees at once. Its fat is a delicacy; its hump tells you how survivable the desert is right now.",
+  "t": "**Legunia** — ave del desierto parecida a un flamenco; salta alto, esprinta y huye al instante. Su grasa es un manjar; su joroba te dice cuán sobrevivible está el desierto en ese momento."
+ },
+ "36f59f416d74": {
+  "en": "**Fihi** — platypus-eel fish that absorb and release elemental energy and shock things. The huge ones in Lukewarm Lake and Flatland's lake eat people.",
+  "t": "**Fihi** — peces ornitorrinco-anguila que absorben y liberan energía elemental y dan descargas. Los enormes del Lago Templado y del lago de Flatland comen personas."
+ },
+ "38353fb6b15f": {
+  "en": "**Egua** — hippo-headed heavy horse; the pack animal of the kingdoms. Walks on water, shrugs off mud, resizes its legs, and ejects its intestines at predators. Loved, petted, given human burials; only old ones get eaten. Tamed adult ~1 sapphire; tamed foal ~1 aquamarine (carries lighter loads; adventurers walk alongside).",
+  "t": "**Egua** — caballo pesado con cabeza de hipopótamo; el animal de carga de los reinos. Camina sobre el agua, se sacude el barro, cambia el tamaño de sus patas y expulsa los intestinos contra los depredadores. Querido, mimado y enterrado como una persona; solo se comen los viejos. Adulto domado ~1 sapphire; potro domado ~1 aquamarine (lleva cargas más ligeras; los aventureros caminan a su lado)."
+ },
+ "41673d0021e3": {
+  "en": "**Domar Carbey** — purple Tolerideme grain with a cheesy-citrus taste; the heart of their economy.",
+  "t": "**Domar Carbey** — cereal morado de Tolerideme con sabor a queso y cítricos; el corazón de su economía."
+ },
+ "4ad1d629b501": {
+  "en": "**Fanchaki** — mutant chicken from the first Buhraies soul experiments. Breeds like rats; an egg a day; tender purple-marbled meat. Fast reactions and a decoy body.",
+  "t": "**Fanchaki** — pollo mutante de los primeros experimentos de alma de los buhraies. Se reproduce como las ratas; un huevo al día; carne tierna veteada de morado. Reacciones rápidas y un cuerpo señuelo."
+ },
+ "52b5e3897c48": {
+  "en": "**Barina** — pond frog with toxic gas from an explosive tail, spike-throwing back and camouflage. Its lungs and glands go into gels.",
+  "t": "**Barina** — rana de estanque con gas tóxico de una cola explosiva, un lomo que lanza púas y camuflaje. Sus pulmones y glándulas se usan en geles."
+ },
+ "580bc79bd449": {
+  "en": "**Basi** — Freeish berry crushed into a thick, earthy, bittersweet pulp. Cheap and filling.",
+  "t": "**Basi** — baya freeish que se machaca hasta hacer una pulpa espesa, terrosa y agridulce. Barata y saciante."
+ },
  "659a45fc734b": {
   "en": "Fauna",
   "t": "Fauna"
+ },
+ "71d749e4aaae": {
+  "en": "**Girdol** — lemony gut tea and gel ingredient.",
+  "t": "**Girdol** — té limonero para la tripa e ingrediente de geles."
+ },
+ "78edb53b9c7f": {
+  "en": "**Culuim** — worms that ate a pond's worth of dumped Walking Hearts near Freeish; they flip between heart \"modes\". Cheap, earthy Freeish street food.",
+  "t": "**Culuim** — gusanos que se comieron un estanque entero de Walking Hearts tirados cerca de Freeish; cambian entre «modos» de corazón. Comida callejera freeish barata y terrosa."
+ },
+ "7969f7c022f7": {
+  "en": "**Ptaina** — deep fish with a purple glowing head; ultrasonic stuns, compass-scrambling.",
+  "t": "**Ptaina** — pez de profundidad con la cabeza morada brillante; aturde con ultrasonidos y desorienta las brújulas."
+ },
+ "79d5ff61fac6": {
+  "en": "**Cocona** — invasive Buhraies fruit with unpredictable water and flavor; gel base.",
+  "t": "**Cocona** — fruta invasora de los buhraies con agua y sabor impredecibles; base de geles."
+ },
+ "878dd9134645": {
+  "en": "Fauna & Flora",
+  "t": "Fauna y flora"
+ },
+ "91b2868830b8": {
+  "en": "**Sayna** — fennec fox with horned-lizard armor; goofy and friendly (\"Pohw-pohhhww!\"). Hears for a mile, spots invisible things and sand worms. Sacred in Sundeath; a top export.",
+  "t": "**Sayna** — zorro feneco con armadura de lagarto cornudo; payaso y amistoso («¡Pohw-pohhhww!»). Oye a una milla, detecta cosas invisibles y sand worms. Sagrado en Sundeath; una exportación estrella."
+ },
+ "93b1a3abff73": {
+  "en": "**Crocus** — chunky, cute, mean-biting alligators of the Sanbi–Tastyleaf swamps; spike bursts, hardened skin, light-bending invisibility. Ancestors of the Cruros.",
+  "t": "**Crocus** — caimanes rechonchos, monos y de mordisco malvado de los pantanos entre Sanbi y Tastyleaf; ráfagas de púas, piel endurecida, invisibilidad que curva la luz. Antepasados de los cruros."
+ },
+ "93b1b1a4898a": {
+  "en": "**Soreno** — rat-shrew grain pest and cheap lab animal. Camouflage, voice mimicry, darting, and squeaks that carry far (spies train them). Meat tastes like urine; Pearls eat it anyway because it's free.",
+  "t": "**Soreno** — plaga del grano entre rata y musaraña, y animal de laboratorio barato. Camuflaje, imitación de voces, movimientos rápidos y chillidos que llegan lejos (los espías los adiestran). Su carne sabe a orina; los Pearls se la comen igual porque es gratis."
+ },
+ "9b6c22d3fc81": {
+  "en": "**Black Sapphire** (black wood) — endangered tree that kills life around it; the best soul energy container.",
+  "t": "**Black Sapphire** (madera negra) — árbol en peligro que mata la vida a su alrededor; el mejor contenedor de energía del alma."
+ },
+ "a30ab5483d3e": {
+  "en": "**Fatupari** — a scary-looking but dumb giant tree boa; it launches itself and hovers. Tear its pink webbing to stop its magic. Bitter meat, waterproof hide.",
+  "t": "**Fatupari** — una boa arborícola gigante de aspecto aterrador pero tonta; se lanza y queda flotando. Rómpele la membrana rosa para detener su magia. Carne amarga, piel impermeable."
+ },
+ "b9d42d5b4bea": {
+  "en": "**Monika** — solitary blue-antennaed butterflies drawn to corpses with high soul energy. Follow them to dead adventurers (or the predator nearby). Monika Sight gel.",
+  "t": "**Monika** — mariposas solitarias de antenas azules atraídas por cadáveres con mucha energía del alma. Síguelas hasta aventureros muertos (o hasta el depredador cercano). Gel Monika Sight."
+ },
+ "b9e9501d65f8": {
+  "en": "**Wozen** — nocturnal leopard-smart fox predators of the Freeish and Blood forests and the plains near Forway. Silent, dark, leaping, locking jaws. They love Bagarisa — and humans.",
+  "t": "**Wozen** — zorros depredadores nocturnos, listos como leopardos, de los bosques de Freeish y Blood y de las llanuras cerca de Forway. Silenciosos, oscuros, saltarines, de mandíbulas que se traban. Les encanta el Bagarisa — y los humanos."
+ },
+ "c2e8d36c1a33": {
+  "en": "**Lansha** — elephant-hippo of the Cruro swamps; timid alone, territorial in herds. Pushes things down with gravity, oils itself slick, has sour glands. Tastes like lamb; Cruros love it.",
+  "t": "**Lansha** — elefante-hipopótamo de los pantanos cruros; tímido a solas, territorial en manada. Hunde las cosas con gravedad, se unta de aceite para volverse resbaladizo y tiene glándulas agrias. Sabe a cordero; a los cruros les encanta."
+ },
+ "c83071ffa015": {
+  "en": "**Cadioca** — cassava-like root, poisonous raw; soaked, dried and fried. Farmed in Freeish.",
+  "t": "**Cadioca** — raíz parecida a la yuca, venenosa en crudo; se remoja, se seca y se fríe. Se cultiva en Freeish."
+ },
+ "e134357fabb0": {
+  "en": "**Bagarisa** — babirusa-deer; the most-hunted meat (earthy, mushroomy). Fire from the tusks, fireballs, a hot-air crest that makes a flamethrower, self-healing in blood. **Two hearts** (chest and gut) — shoot both. Musk smells like shrimp brine. Classic Amethyst hunt.",
+  "t": "**Bagarisa** — babirusa-ciervo; la carne más cazada (terrosa, con sabor a setas). Fuego por los colmillos, bolas de fuego, una cresta de aire caliente que hace de lanzallamas, autocuración con sangre. **Dos corazones** (pecho y vientre) — dispara a ambos. El almizcle huele a salmuera de gambas. Cacería clásica de Amethyst."
+ },
+ "edf4aa70757d": {
+  "en": "**Emerenthy** — glows at night (makeshift torch); stalks eaten like celery.",
+  "t": "**Emerenthy** — brilla de noche (antorcha improvisada); sus tallos se comen como el apio."
+ },
+ "f0bda17739b5": {
+  "en": "**Winga / Pink Winga** — macaw-like birds that eat Gyut berries. Couriers who remember faces and places; sweet meat; their hardened beaks and claws become **Winga dust**. Tamed ~1 amethyst. Killing a Forway courier Winga is a crime. Pink (Tolerideme) Wingas camouflage well.",
+  "t": "**Winga / Winga rosa** — aves parecidas a guacamayos que comen bayas de Gyut. Mensajeros que recuerdan caras y lugares; carne dulce; sus picos y garras endurecidos se convierten en **polvo de Winga**. Domado ~1 amethyst. Matar a un Winga mensajero de Forway es delito. Los Wingas rosas (de Tolerideme) se camuflan bien."
+ },
+ "f4bb5278a593": {
+  "en": "Omnivores",
+  "t": "Omnívoros"
+ },
+ "fc958d147bac": {
+  "en": "**Carbey** — the staple grass; sets the base value of a pearl; Egua fodder.",
+  "t": "**Carbey** — la hierba básica; fija el valor base de una pearl; forraje de Egua."
+ },
+ "fd493fe39d80": {
+  "en": "**Wooly** — cow-sheep for altitudes of 4–6 km (they suffocate lower). Gandew's milk, wool and cheese; fed Gyut, their milk tastes like caramel. Their death scream carries for kilometers.",
+  "t": "**Wooly** — vaca-oveja para altitudes de 4–6 km (más abajo se asfixia). La leche, la lana y el queso de Gandew; alimentada con Gyut, su leche sabe a caramelo. Su grito de muerte se oye a kilómetros."
+ },
+ "fee39fe83ac9": {
+  "en": "**Yuyta** — hopping gopher-gerbil; whiskers see through walls (gel ingredient); villagers judge the harvest by their plump rears. Screams like a dying human when attacked.",
+  "t": "**Yuyta** — topillo-jerbo saltarín; sus bigotes ven a través de las paredes (ingrediente de geles); los aldeanos juzgan la cosecha por lo rollizo de sus traseros. Grita como un humano moribundo cuando lo atacan."
  }
 }

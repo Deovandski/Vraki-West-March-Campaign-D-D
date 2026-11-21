@@ -1,0 +1,558 @@
+{
+ "058da9db232e": {
+  "en": "**Black wood** (Black Sapphire tree) — the best soul energy container; officials' badges. Endangered; kills life around it.",
+  "t": "**الخشب الأسود** (شجرة بلاك سافاير) — أفضل وعاء لطاقة الروح؛ لبطاقات المسؤولين. مهدد بالانقراض؛ يقتل الحياة من حوله."
+ },
+ "07dd23c44124": {
+  "en": "Fear, terror, grief",
+  "t": "خوف، رعب، أسى"
+ },
+ "081f91bf4035": {
+  "en": "Fish gills, seawater",
+  "t": "خياشيم سمك، ماء البحر"
+ },
+ "08b5c760fa37": {
+  "en": "See soul auras → feel like you're dying → tormented thoughts → hallucinations",
+  "t": "ترى هالات الأرواح ← تشعر كأنك تموت ← أفكار معذَّبة ← هلوسات"
+ },
+ "0983da967cf9": {
+  "en": "Winga parts",
+  "t": "أجزاء وينغا"
+ },
+ "09f59e19af27": {
+  "en": "Memory, intellect, planning",
+  "t": "الذاكرة، الفكر، التخطيط"
+ },
+ "0a38448e9517": {
+  "en": "Stamina",
+  "t": "القدرة على التحمّل"
+ },
+ "0ac532d1da3c": {
+  "en": "145–205 (black market)",
+  "t": "145–205 (السوق السوداء)"
+ },
+ "0bc024fc1403": {
+  "en": "Malformed gills → breathe water while swimming (no air) → breathe water standing still → fish-person in swamp water",
+  "t": "خياشيم مشوّهة ← تتنفس الماء وأنت تسبح (بلا هواء) ← تتنفس الماء وأنت ساكن ← إنسان سمكة في ماء المستنقع"
+ },
+ "0fd9b916a28f": {
+  "en": "**Soul wood** — green, metallic-barked; stops soul energy leaking. Badges, rings, nari casings.",
+  "t": "**خشب الروح** — أخضر، لحاؤه معدني؛ يمنع تسرّب طاقة الروح. للبطاقات والخواتم وأغلفة الناري."
+ },
+ "13339c6d53f8": {
+  "en": "Dexterity",
+  "t": "البراعة"
+ },
+ "14756a975f8d": {
+  "en": "Walking Flathead tongue",
+  "t": "لسان ووكينغ فلاتهيد"
+ },
+ "155d2655d189": {
+  "en": "Walking Heart stones (banned)",
+  "t": "أحجار ووكينغ هارت (محظورة)"
+ },
+ "16b747372b86": {
+  "en": "Wool hair → horns, deep voice → covered → hooves and tail. The most customized gel around",
+  "t": "شعر من صوف ← قرنان، صوت عميق ← مغطى بالكامل ← حوافر وذيل. أكثر جل مُخصَّص"
+ },
+ "16f39ff0f789": {
+  "en": "Cost",
+  "t": "الثمن"
+ },
+ "1a0c0158e9ee": {
+  "en": "**Egua Privates**",
+  "t": "**إيغوا برايفتس**"
+ },
+ "1c778ed9372c": {
+  "en": "Walk on water (light → human → Darfaries weight) → hooves",
+  "t": "المشي على الماء (خفيف ← إنسان ← وزن الدارفاريس) ← حوافر"
+ },
+ "1c881e600c90": {
+  "en": "Hold breath ~1 min → neck gills, mute, ~6 min → ~20 min underwater → can't breathe air",
+  "t": "حبس النفس ~1 دقيقة ← خياشيم في العنق، بكم، ~6 دقائق ← ~20 دقيقة تحت الماء ← لا تستطيع تنفس الهواء"
+ },
+ "1c963583785a": {
+  "en": "**Fost stone** — glows with salt water; beasts avoid it; paralyzes Wood People. Lamps (~20 pearls) and lighthouses.",
+  "t": "**حجر فوست** — يتوهج بالماء المالح؛ تتجنبه الوحوش؛ ويشلّ الوود بيبول. مصابيح (~20 بيرل) ومنارات."
+ },
+ "1decf382bac7": {
+  "en": "**Walking Dead**",
+  "t": "**ووكينغ ديد**"
+ },
+ "20ef4273b8b7": {
+  "en": "**Wooly Skin**",
+  "t": "**وولي سكين**"
+ },
+ "21412de2aa38": {
+  "en": "Nari gels — wear a new body",
+  "t": "جل ناري — البس جسدًا جديدًا"
+ },
+ "21c06ba3a8a8": {
+  "en": "Ground nari mixed with water into a jelly, plus animal or plant ingredients. **Eat** it (coarse, cheap, slower, more painful) or **inject** it (fine grade, pricier, less painful). The soul energy is already inside, so there's no upfront cost, but the gel keeps draining you while it works. Your liver eventually flushes the changes (coarse gels linger longer) — but use one often enough and your body may accept the change as permanent. Living too long in a transformed body (say, as a Winga) slowly corrupts your soul.",
+  "t": "ناري مطحون مخلوط بالماء حتى يصير هلامًا، مع مكونات حيوانية أو نباتية. **كُله** (خشن، رخيص، أبطأ، أكثر إيلامًا) أو **احقنه** (ناعم، أغلى، أقل إيلامًا). طاقة الروح موجودة فيه أصلًا، فلا تكلفة مسبقة، لكن الجل يظل يستنزفك ما دام يعمل. يطرد كبدك التغييرات في النهاية (الجل الخشن يبقى أطول) — لكن إن استخدمته كثيرًا فقد يقبل جسدك التغيير على أنه دائم. والعيش طويلًا في جسد متحوّل (كأن تكون وينغا) يفسد روحك ببطء."
+ },
+ "22df5282554f": {
+  "en": "Wooly skin, gyut milk",
+  "t": "جلد وولي، حليب غيوت"
+ },
+ "23a6c371985b": {
+  "en": "See a chosen smell as sparkles → track it → find corpses, traps, living things → brain overload",
+  "t": "ترى رائحة تختارها كأنها شرارات ← تتتبعها ← تجد الجثث والفخاخ والكائنات الحية ← حمل زائد على الدماغ"
+ },
+ "23f6ccd798a7": {
+  "en": "Magina petals",
+  "t": "بتلات ماجينا"
+ },
+ "26f38bb185ba": {
+  "en": "**Mind Enabler** (banned)",
+  "t": "**مايند إينيبلر** (محظور)"
+ },
+ "279a3b452e52": {
+  "en": "**No Breath**",
+  "t": "**نو بريث**"
+ },
+ "283febee10c1": {
+  "en": "Reflexes, fast healing, slowed sense of time",
+  "t": "ردود فعل، شفاء سريع، إحساس أبطأ بالزمن"
+ },
+ "2c7f2cbc034d": {
+  "en": "**Time Quicken**",
+  "t": "**تايم كويكن**"
+ },
+ "2d5666549a99": {
+  "en": "**Yellow**",
+  "t": "**الأصفر**"
+ },
+ "2db838b24dff": {
+  "en": "Ground worm shell, heated until it recrystallizes, set into **soul wood** and polished to a point so stones stack into a **nari stone stick**. Full: blue, like liquid trapped inside. Spent: clear and hollow like a diamond (sold in bulk to be melted into a plasticky glass).",
+  "t": "قشر دودة مطحون، يُسخَّن حتى يتبلور من جديد، ويُثبَّت في **خشب الروح** ويُصقل حتى يصير له رأس مدبب لتتراصّ الأحجار في **عصا أحجار ناري**. الممتلئ: أزرق، كأن سائلًا محبوس في داخله. المستنفد: شفاف ومجوّف كالماس (يُباع بالجملة ليُصهر في زجاج يشبه البلاستيك)."
+ },
+ "2eeb6e2c2fff": {
+  "en": "Wozen nose and whiskers",
+  "t": "أنف ووزن وشواربه"
+ },
+ "302c10cbcadb": {
+  "en": "Wood Apple seeds, Cinika",
+  "t": "بذور وود آبل، سينيكا"
+ },
+ "3092ae5236a9": {
+  "en": "Lakata, Fihi gills, Barina lungs",
+  "t": "لاكاتا، خياشيم فيهي، رئتا بارينا"
+ },
+ "37b8aac375b6": {
+  "en": "Strength",
+  "t": "القوة"
+ },
+ "3972368be826": {
+  "en": "**Big Winga**",
+  "t": "**بيغ وينغا**"
+ },
+ "39d0b00a553f": {
+  "en": "Nari Gels, Bombs & Stones",
+  "t": "جل وقنابل وأحجار ناري"
+ },
+ "39ee133409ec": {
+  "en": "Monika butterflies",
+  "t": "فراشات مونيكا"
+ },
+ "3b75c1f9ad72": {
+  "en": "Cruro hair and skin",
+  "t": "شعر الكرورو وجلده"
+ },
+ "3bab31dff3c9": {
+  "en": "Trunk People blood and arms",
+  "t": "دم الترانك بيبول وأذرعهم"
+ },
+ "3ccf4ebfae4c": {
+  "en": "The market is cutthroat; new gels sometimes ship with buyers as the testers.",
+  "t": "السوق قاسية؛ وأحيانًا يُطرح الجل الجديد والمشترون هم من يجرّبونه."
+ },
+ "409184056ad6": {
+  "en": "Soul-wood seeds, Cocona water",
+  "t": "بذور خشب الروح، ماء كوكونا"
+ },
+ "41ea2f5a489b": {
+  "en": "Color",
+  "t": "اللون"
+ },
+ "440c4cb281d6": {
+  "en": "**Purple**",
+  "t": "**البنفسجي**"
+ },
+ "4446426affd0": {
+  "en": "**Time Slower**",
+  "t": "**تايم سلوَر**"
+ },
+ "456e04c66e3e": {
+  "en": "**Fake Skin / Eye / part**",
+  "t": "**فيك سكين / آي / بارت**"
+ },
+ "4913580e8dc4": {
+  "en": "**Nari Refresher**",
+  "t": "**ناري ريفريشر**"
+ },
+ "4b1e4aac2d72": {
+  "en": "What it does (Tier I → IV)",
+  "t": "ما يفعله (المستوى I ← IV)"
+ },
+ "4d25146b41b1": {
+  "en": "**Official signal colors:** Red = help · Cyan = conquered/complete · Green = safe/go ahead · Yellow = retreat. (Deep blue, non-explosive, is used in Sanbi burials.) Bandits fake signals; promotion tests might too.",
+  "t": "**ألوان الإشارات الرسمية:** الأحمر = النجدة · السماوي = تم الاستيلاء/اكتمل · الأخضر = آمن/تقدّموا · الأصفر = انسحاب. (الأزرق الداكن غير المتفجر يُستخدم في جنازات سانبي.) قطّاع الطرق يزوّرون الإشارات؛ وقد تفعل اختبارات الترقية ذلك أيضًا."
+ },
+ "4e228f337e8d": {
+  "en": "Keen hearing → furry ears → overload → coma (use with Time Slower)",
+  "t": "سمع حاد ← أذنان مكسوتان بالفرو ← حمل زائد ← غيبوبة (استخدمه مع تايم سلوَر)"
+ },
+ "5030bf13ee0d": {
+  "en": "Power spells: **1 stone per Tier I, 2 for Tier II, 4 for Tier III, 8 for Tier IV**, and so on.",
+  "t": "تشغّل التعويذات: **حجر واحد للمستوى I، و2 للمستوى II، و4 للمستوى III، و8 للمستوى IV**، وهكذا."
+ },
+ "52d6c8d1393e": {
+  "en": "Antidote to all gel effects of its tier; mild healing",
+  "t": "ترياق لكل تأثيرات الجل من مستواه؛ شفاء خفيف"
+ },
+ "5324ae0d55af": {
+  "en": "Revenge, anger, berserker rage",
+  "t": "الانتقام، الغضب، هياج المحارب الهائج"
+ },
+ "56d18c01dd7e": {
+  "en": "Emotionless detachment",
+  "t": "انفصال بلا مشاعر"
+ },
+ "58e602cdc014": {
+  "en": "Relaxed, sleepy, hungry → slow reflexes → can barely move → heart stops",
+  "t": "استرخاء، نعاس، جوع ← ردود فعل بطيئة ← بالكاد تتحرك ← يتوقف القلب"
+ },
+ "5af73e112687": {
+  "en": "Koalin brain, eyes, mustache",
+  "t": "دماغ كوالين وعيناه وشاربه"
+ },
+ "5c02edc3ae52": {
+  "en": "Depression, embarrassment, sadness",
+  "t": "اكتئاب، إحراج، حزن"
+ },
+ "5c07b06074ad": {
+  "en": "not for sale",
+  "t": "ليس للبيع"
+ },
+ "5c2b5159c850": {
+  "en": "**Wood People wood, vines and sap** — durable red wood, rubbery vines (rope), pink sap (ink, gels).",
+  "t": "**خشب الوود بيبول وكرومهم ونسغهم** — خشب أحمر متين، وكروم مطاطية (حبال)، ونسغ وردي (حبر، جل)."
+ },
+ "5c4b76b13bff": {
+  "en": "**Bone wood** — bone, iron, ground nari and greenbread core. Lasts longer than wood; armor and buildings.",
+  "t": "**خشب العظم** — عظم وحديد وناري مطحون ولبّ الغرينبريد. يدوم أطول من الخشب؛ للدروع والمباني."
+ },
+ "5cb87ce06209": {
+  "en": "Everything here comes from the shed shells of the **Nari Worms** living under Blood. Forway protects those worms fiercely.",
+  "t": "كل ما هنا يأتي من القشور التي تنسلخ عنها **ديدان الناري** التي تعيش تحت بلاد. وتحمي فورواي هذه الديدان بشراسة."
+ },
+ "62ff828dacd3": {
+  "en": "Gift",
+  "t": "الهبة"
+ },
+ "63954ccfd4c3": {
+  "en": "Anxiety, jealousy, hoarding",
+  "t": "القلق، الغيرة، الاكتناز"
+ },
+ "69299996b9ed": {
+  "en": "Strength, easy muscle",
+  "t": "القوة، عضلات بسهولة"
+ },
+ "69c72eeed5df": {
+  "en": "Fine control, silent, true aim",
+  "t": "تحكم دقيق، صمت، تصويب محكم"
+ },
+ "6bc6c0f6e2c2": {
+  "en": "Stamina, efficient soul energy",
+  "t": "القدرة على التحمّل، طاقة روح فعّالة"
+ },
+ "6ee114439627": {
+  "en": "Nari bombs",
+  "t": "قنابل ناري"
+ },
+ "6fd49282a853": {
+  "en": "Lehuj",
+  "t": "ليهوج"
+ },
+ "721d81354ff2": {
+  "en": "**Arm Light**",
+  "t": "**آرم لايت**"
+ },
+ "73affa50379d": {
+  "en": "Become a giant intelligent bird (used by embassy guards; source is a secret)",
+  "t": "تصبح طائرًا عملاقًا ذكيًا (يستخدمه حراس السفارات؛ والمصدر سرّ)"
+ },
+ "751bdff45433": {
+  "en": "Price (pearls / ~200 g)",
+  "t": "السعر (بيرل / ~200 غ)"
+ },
+ "77567bb3643e": {
+  "en": "**Water Walk**",
+  "t": "**ووتر ووك**"
+ },
+ "78c47246a86b": {
+  "en": "Feather hair → feathered body, claws → cold-proof → smothered in feathers",
+  "t": "شعر من ريش ← جسد مكسو بالريش، مخالب ← لا تشعر بالبرد ← تغرق في الريش"
+ },
+ "78ef1698b397": {
+  "en": "Big Winga flesh",
+  "t": "لحم بيغ وينغا"
+ },
+ "79dfe2d7ca78": {
+  "en": "Numb → stiff → lose limbs and speech → can't breathe",
+  "t": "خدر ← تيبّس ← فقدان الأطراف والكلام ← لا تستطيع التنفس"
+ },
+ "80cf249ba2d6": {
+  "en": "Gel",
+  "t": "الجل"
+ },
+ "84dc0d72dd0d": {
+  "en": "Molten worm shell, nari, Sweetlake water",
+  "t": "قشر دودة مصهور، ناري، ماء سويت ليك"
+ },
+ "875ac4056dac": {
+  "en": "**Black honey** — from Sweet Stings; extremely caloric and a little addictive; speeds healing and revival.",
+  "t": "**العسل الأسود** — من السويت ستينغ؛ عالي السعرات جدًا ويسبب إدمانًا خفيفًا؛ يسرّع الشفاء والإحياء."
+ },
+ "89a4de75db56": {
+  "en": "Bouncy skin → bendy limbs → flat squeezing body → slime",
+  "t": "جلد مطاطي ← أطراف تنثني ← جسد مسطح ينضغط ← هلام"
+ },
+ "8a80175a2ff4": {
+  "en": "Made with",
+  "t": "المكونات"
+ },
+ "98888ac1b5b2": {
+  "en": "**Sore Mind**",
+  "t": "**سور مايند**"
+ },
+ "9d6708f33e48": {
+  "en": "Fist-sized black stones that grow in Hifuna's radiation, veined with color. Replace your heart with one and, if your mind merges with the stone, you wake **undead**: no pulse, no eating, drinking, breathing or sleeping, recharging only through emotion (or by stabbing nari stones into your chest). Your skin and eyes take the stone's color, and a flame of that color bursts from your chest in strong emotion. Revival usually stops working. The law treats you as soul dead.",
+  "t": "أحجار سوداء بحجم القبضة تنمو في إشعاع هيفونا، تعرّقها ألوان. استبدل قلبك بواحد منها، فإن اندمج عقلك بالحجر تستيقظ من **الموتى الأحياء**: بلا نبض، ولا أكل ولا شرب ولا تنفس ولا نوم، ولا تُشحن إلا بالمشاعر (أو بغرس أحجار ناري في صدرك). يأخذ جلدك وعيناك لون الحجر، وينفجر من صدرك لهب بذلك اللون في المشاعر القوية. وعادةً يتوقف الإحياء عن العمل. ويعاملك القانون على أنك ميت الروح."
+ },
+ "9e3462e7edeb": {
+  "en": "The target's flesh or eye",
+  "t": "لحم الهدف أو عينه"
+ },
+ "9e960009772b": {
+  "en": "Look like them → tendons reshape → structure reshapes → identical (agony)",
+  "t": "تشبهه ← تتغير أشكال الأوتار ← تتغير البنية ← مطابق (عذاب)"
+ },
+ "a0aa26700641": {
+  "en": "Confusion → memories and dreams mix → can't form memories → coma",
+  "t": "ارتباك ← تختلط الذكريات بالأحلام ← لا تستطيع تكوين ذكريات ← غيبوبة"
+ },
+ "a3e89ea7a049": {
+  "en": "**Wozen Smell**",
+  "t": "**ووزن سميل**"
+ },
+ "a53b97627d26": {
+  "en": "Girdol, seawater, Wood People sap",
+  "t": "غيردول، ماء البحر، نسغ الوود بيبول"
+ },
+ "a5c4ac7ead44": {
+  "en": "**Chitin** — from Sand Worms; Gandew armor.",
+  "t": "**الكيتين** — من الساند وورم؛ دروع غانديو."
+ },
+ "a5e5ec3344ec": {
+  "en": "**Winga dust** — beaks and claws a Winga hardened to diamond; ground into coatings for tools that \"cut through anything\" for a few years.",
+  "t": "**غبار الوينغا** — مناقير ومخالب صلّبها وينغا حتى صارت كالماس؛ تُطحن لتكسو أدوات «تقطع أي شيء» لبضع سنوات."
+ },
+ "a648be32d2cc": {
+  "en": "Emotions that take over",
+  "t": "المشاعر التي تسيطر"
+ },
+ "a7864ee20b77": {
+  "en": "Egua hoof and leg hair",
+  "t": "حافر إيغوا وشعر ساقه"
+ },
+ "aa2758f00b94": {
+  "en": "Other materials",
+  "t": "مواد أخرى"
+ },
+ "aa4d2b896440": {
+  "en": "Smooth complexion → removes hair and tattoos → burns → melts",
+  "t": "بشرة ناعمة ← يزيل الشعر والوشوم ← حروق ← يذوب"
+ },
+ "ad8a1dba7562": {
+  "en": "Euphoria → overwhelming → bad trip, split personality → lasting personality change",
+  "t": "نشوة ← طاغية ← رحلة سيئة، انقسام في الشخصية ← تغيّر دائم في الشخصية"
+ },
+ "af2149fe49ee": {
+  "en": "Egua testicles and blood",
+  "t": "خصيتا إيغوا ودمه"
+ },
+ "b04673e9d8f9": {
+  "en": "Shapeshifter-like jelly",
+  "t": "هلام شبيه بالمتحوّل"
+ },
+ "b0e82b494ce4": {
+  "en": "About **1 amethyst** each. Adventurers who move nari stones travel transport-free for Forway.",
+  "t": "نحو **1 أميثيست** للحجر الواحد. والمغامرون الذين ينقلون أحجار ناري يسافرون دون أجرة نقل على حساب فورواي."
+ },
+ "b2372a7d702e": {
+  "en": "**Blue**",
+  "t": "**الأزرق**"
+ },
+ "b369e6a1ac40": {
+  "en": "Every gel comes in four **tiers**: **I Cosmetic · II Localized · III Regional · IV Whole Body**. The difference between smooth skin and having it melt off can be three scoops. **Nari Refresher** resets all gel effects of its tier or lower — every smart adventurer carries one.",
+  "t": "كل جل يأتي في أربعة **مستويات**: **I تجميلي · II موضعي · III إقليمي · IV الجسد كله**. قد يكون الفرق بين بشرة ناعمة وبشرة تذوب ثلاث ملاعق. و**ناري ريفريشر** يُلغي كل تأثيرات الجل من مستواه فما دون — ويحمل كل مغامر ذكي واحدًا."
+ },
+ "b3eee2b5fd9e": {
+  "en": "**Sayna Hearing**",
+  "t": "**ساينا هيرينغ**"
+ },
+ "b93909f4668f": {
+  "en": "Nari stones — soul batteries",
+  "t": "أحجار ناري — بطاريات الروح"
+ },
+ "bc5380b16097": {
+  "en": "Tough green skin → scales, small tail → Cruro skin → look like a Cruro, lose speech",
+  "t": "جلد أخضر صلب ← حراشف، ذيل صغير ← جلد كرورو ← تبدو ككرورو، وتفقد الكلام"
+ },
+ "bde8c2346edf": {
+  "en": "Panita, Bagarisa blood",
+  "t": "بانيتا، دم باغاريسا"
+ },
+ "be213de98a4c": {
+  "en": "Weak = a small puff · Medium = more smoke and a high sizzle · Intense = an explosion that smokes out enemies, deafens or chokes — and it goes off the moment you infuse it, hurting whoever does.",
+  "t": "ضعيفة = نفخة صغيرة · متوسطة = دخان أكثر وأزيز حاد · شديدة = انفجار يُخرج الأعداء بالدخان، ويصمّ أو يخنق — وتنفجر لحظة شحنها، فتؤذي من يشحنها."
+ },
+ "c03b20ea4a3e": {
+  "en": "**Red**",
+  "t": "**الأحمر**"
+ },
+ "ca38faeb8b69": {
+  "en": "**Winga Skin**",
+  "t": "**وينغا سكين**"
+ },
+ "cbef9256f81a": {
+  "en": "Cruro skin, peel",
+  "t": "جلد كرورو، قشر"
+ },
+ "cc022d7d526f": {
+  "en": "Sayna ears",
+  "t": "أذنا ساينا"
+ },
+ "cd665ffe3432": {
+  "en": "**Skin Melt** (Tier II+ banned)",
+  "t": "**سكين ميلت** (محظور من المستوى II فما فوق)"
+ },
+ "cdedc1b9ad1c": {
+  "en": "Libido → size → egua-shaped → furry sex maniac",
+  "t": "شهوة ← حجم ← على شكل إيغوا ← مهووس جنسي مكسو بالفرو"
+ },
+ "cf7f209a420d": {
+  "en": "**Bleed Out**",
+  "t": "**بليد آوت**"
+ },
+ "d341fb8b9956": {
+  "en": "**Body Paralysis**",
+  "t": "**بودي باراليسيس**"
+ },
+ "d4e8f5d0c2f7": {
+  "en": "Settle the stomach → cramps → flush out → death",
+  "t": "يهدّئ المعدة ← تقلصات ← يطرد كل شيء ← الموت"
+ },
+ "d5df0f4c2b7e": {
+  "en": "Strength, agility, dexterity, stamina; shorter life",
+  "t": "القوة، الرشاقة، البراعة، القدرة على التحمّل؛ عمر أقصر"
+ },
+ "d6ebb461546e": {
+  "en": "**Winga Flight**",
+  "t": "**وينغا فلايت**"
+ },
+ "d7807117b28c": {
+  "en": "**Sleep Inducer** (Tier II+ banned)",
+  "t": "**سليب إندوسر** (محظور من المستوى II فما فوق)"
+ },
+ "d9bf464bacf0": {
+  "en": "Sorefaries amygdala",
+  "t": "اللوزة الدماغية لدى السوريفاريس"
+ },
+ "da61db8cfc3a": {
+  "en": "**Water Breath**",
+  "t": "**ووتر بريث**"
+ },
+ "db04ece30a36": {
+  "en": "Blood thinner → wounds won't close → bleed from eyes and ears → hemorrhage",
+  "t": "مميّع للدم ← الجروح لا تلتئم ← نزيف من العينين والأذنين ← نزف حاد"
+ },
+ "dcaaa01b062a": {
+  "en": "Focus and reflexes → fight-or-flight → body overclocks and tears → aneurysm, death. *Every adventurer's battle gel.*",
+  "t": "تركيز وردود فعل ← الكرّ أو الفرّ ← الجسد يتسارع فوق طاقته ويتمزق ← تمدد الأوعية، الموت. *جل المعركة لكل مغامر.*"
+ },
+ "dd35e1773444": {
+  "en": "**Green**",
+  "t": "**الأخضر**"
+ },
+ "e177488f337e": {
+  "en": "Wozen eyes",
+  "t": "عينا ووزن"
+ },
+ "e3b274c4e8cc": {
+  "en": "Groggy → asleep → coma → death",
+  "t": "ترنّح ← نوم ← غيبوبة ← الموت"
+ },
+ "e65f6190a694": {
+  "en": "Steen, Cocona water",
+  "t": "ستين، ماء كوكونا"
+ },
+ "e6dcdc23477d": {
+  "en": "Agility",
+  "t": "الرشاقة"
+ },
+ "e7ad097a2ecb": {
+  "en": "Your \"veins\" glow → colored flames → a blinding white explosion",
+  "t": "تتوهج «عروقك» ← لهب ملوّن ← انفجار أبيض يُعمي"
+ },
+ "e86f1f3e1e78": {
+  "en": "**Slime Skin**",
+  "t": "**سلايم سكين**"
+ },
+ "eb76d1e0cc76": {
+  "en": "**Monika Sight**",
+  "t": "**مونيكا سايت**"
+ },
+ "eb91adeacae1": {
+  "en": "**Smooth Skin**",
+  "t": "**سموث سكين**"
+ },
+ "ebe8c598c298": {
+  "en": "Keen smell → track a scent → identify anyone by smell (nosebleeds, vomiting) → overload",
+  "t": "شمّ حاد ← تتبّع رائحة ← تعرّف أي شخص من رائحته (نزيف أنف، قيء) ← حمل زائد"
+ },
+ "ebf6f81647a9": {
+  "en": "Winga feathers",
+  "t": "ريش وينغا"
+ },
+ "efa7651ed243": {
+  "en": "Mostly **smoke bombs**, tamed to puff colored smoke (10–30 pearls per ~100 g). Some explode violently on contact with water; wrap one in paper to delay it.",
+  "t": "معظمها **قنابل دخان**، رُوّضت لتنفث دخانًا ملوّنًا (10–30 بيرل لكل ~100 غ). وبعضها ينفجر بعنف عند ملامسة الماء؛ لفّها بورقة لتأخيرها."
+ },
+ "f50eb282d74a": {
+  "en": "Light bones, feathers → arms become wings, you can glide → beak, faster flight, lose speech → nearly a Winga",
+  "t": "عظام خفيفة، ريش ← تصير الذراعان جناحين، وتستطيع الانزلاق في الهواء ← منقار، طيران أسرع، تفقد الكلام ← تكاد تصير وينغا"
+ },
+ "f59b92ebe40e": {
+  "en": "Darkened eyes → night vision → can't see up close → green looks gray, all else neon",
+  "t": "عينان داكنتان ← رؤية ليلية ← لا ترى عن قرب ← الأخضر يبدو رماديًا، وكل ما عداه نيون"
+ },
+ "f772ffe3cc33": {
+  "en": "**Smooth Gut**",
+  "t": "**سموث غات**"
+ },
+ "fb1bdc91f66d": {
+  "en": "**Cruro Skin**",
+  "t": "**كرورو سكين**"
+ },
+ "fb69b4371117": {
+  "en": "Laxative → vomit, hair removal → blisters and burns → melts away",
+  "t": "ملين ← قيء، إزالة الشعر ← بثور وحروق ← يذوب تمامًا"
+ },
+ "fffc5e7c180f": {
+  "en": "**Wozen Eyesight**",
+  "t": "**ووزن آيسايت**"
+ }
+}

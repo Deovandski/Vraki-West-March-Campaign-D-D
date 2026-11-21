@@ -1,7 +1,59 @@
 {
+ "03de3cd85eea": {
+  "en": "**Body RESTORE** heals: Tier I bruises · II minor cuts · III deep cuts · IV broken bones · V many fractures and blood loss · VI lost limbs · VII lost head · VIII lost torso · IX near-instant regeneration (if you have the fat or black honey to burn). **Body DISASSEMBLE/DESTROY** causes bleeding, convulsions, explosions.",
+  "t": "**Body RESTORE** cura: Nível I hematomas · II cortes leves · III cortes profundos · IV ossos quebrados · V muitas fraturas e perda de sangue · VI membros perdidos · VII cabeça perdida · VIII tronco perdido · IX regeneração quase instantânea (se você tiver gordura ou mel negro para queimar). **Body DISASSEMBLE/DESTROY** causa sangramentos, convulsões e explosões."
+ },
+ "13dd49d5034d": {
+  "en": "Made by the Buhraies to control the Darfaries as soldiers. Works for anyone with a drop of Darfaries/Wozefaries blood — nearly every human today.",
+  "t": "Criada pelos buhraies para controlar os darfaries como soldados. Funciona em qualquer um com uma gota de sangue darfaries/wozefaries — quase todo humano hoje."
+ },
+ "14c1e1875566": {
+  "en": "Revival is routine: heal the body, restart the heart (a jolt of **storm** energy), feed it something energy-dense like **black honey**. Embassies sell it as a service.",
+  "t": "Reanimar é rotina: cure o corpo, reinicie o coração (um choque de energia de **tempestade**) e dê a ele algo denso em energia, como **mel negro**. As embaixadas vendem isso como serviço."
+ },
+ "1920b8108b65": {
+  "en": "Soul Energy (SE)",
+  "t": "Energia da alma (EA)"
+ },
+ "1db084c3e97b": {
+  "en": "**Miscasts:** missing or sloppy logograms make the spell fall back on whatever you're thinking. That can explode in your hand — or turn you into a chicken-like Fanchaki.",
+  "t": "**Falhas:** logogramas faltando ou malfeitos fazem a magia recorrer ao que você estiver pensando. Isso pode explodir na sua mão — ou te transformar num Fanchaki com cara de galinha."
+ },
+ "4962021bae4d": {
+  "en": "**World/Object VERB** changes density, attracts or repels, \"un-rusts\" things, or turns them to dust.",
+  "t": "**World/Object + VERBO** muda a densidade, atrai ou repele, «desenferruja» coisas ou as transforma em pó."
+ },
  "4df3cbc0f57d": {
   "en": "Soul, body, gene",
   "t": "Alma, corpo, gene"
+ },
+ "52cb1b6c21ca": {
+  "en": "Draw a small logogram in the air with one hand while holding two fingers with the other; hold to charge (others can touch you to add energy); release by opening the fingers. Elements only. Fast, animal-like, aggressive.",
+  "t": "Desenhe um pequeno logograma no ar com uma mão enquanto segura dois dedos com a outra; segure para carregar (outros podem te tocar para somar energia); solte abrindo os dedos. Só elementos. Rápida, animal, agressiva."
+ },
+ "59b9f7176cca": {
+  "en": "Healing, reviving, lighting, refrigeration (ice spells keep meat fresh for trade), drying fish, industrial work in Tolerideme, entertainment (**Soul Energy Art** shows in Forway), sports (Homeegg flight), and the embassy badge system.",
+  "t": "Curar, reanimar, iluminar, refrigerar (magias de gelo mantêm a carne fresca para o comércio), secar peixe, trabalho industrial em Tolerideme, entretenimento (shows de **Soul Energy Art** em Forway), esportes (voo de Homeegg) e o sistema de crachás das embaixadas."
+ },
+ "621631e94c2a": {
+  "en": "**Elemental CREATE** throws a ball of fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust or ash. **Gravity** spells pull and push; a Gravity CREATE makes a tiny black hole that evaporates instantly.",
+  "t": "**Elemental CREATE** lança uma bola de fogo, água, gelo, tempestade, vapor, vento, terra, terra congelada, lama, lava, choque, poeira ou cinzas. Magias de **gravidade** puxam e empurram; um Gravity CREATE cria um buraco negro minúsculo que evapora na hora."
+ },
+ "650efd46a6d5": {
+  "en": "**Verbs:** INCREASE/DECREASE, REPEL/ATTRACT, RESTORE/DISASSEMBLE, CREATE/DESTROY, plus **ENTANGLE** (link sounds so a whole group hears the same thing — used for comms) and **TRANSMUTE** (turn one metal into its neighbor; not worth the cost), both reintroduced by the scientist Gabiro in 987 A.G.",
+  "t": "**Verbos:** INCREASE/DECREASE (aumentar/diminuir), REPEL/ATTRACT (repelir/atrair), RESTORE/DISASSEMBLE (restaurar/desmontar), CREATE/DESTROY (criar/destruir), além de **ENTANGLE** (ligar sons para que um grupo inteiro ouça a mesma coisa — usado para comunicação) e **TRANSMUTE** (transformar um metal no seu vizinho; não compensa o custo), ambos reintroduzidos pelo cientista Gabiro em 987 A.G."
+ },
+ "6bba3847d6f0": {
+  "en": "Interfaces",
+  "t": "Interfaces"
+ },
+ "84d7ed02031e": {
+  "en": "Logograms **carved into the palm** with a blade. Without them you're editing souls directly — the Buhraies' greatest power and their downfall. Can alter body and soul \"DNA\"; changes stick even through healing.",
+  "t": "Logogramas **entalhados na palma** com uma lâmina. Sem eles você está editando almas diretamente — o maior poder dos buhraies e a ruína deles. Pode alterar o «DNA» do corpo e da alma; as mudanças ficam mesmo depois de curar."
+ },
+ "84f18aae9429": {
+  "en": "You can draw the logograms on your palm (slow, risky, and forbidden inside city limits) or wear **sigil rings** with them carved in (fast, safe; sold in Soul Energy shops; blank rings are banned except for courtroom scientists and Aquamarine+ adventurers).",
+  "t": "Você pode desenhar os logogramas na palma da mão (lento, arriscado e proibido dentro das cidades) ou usar **anéis de sigilo** com eles entalhados (rápido, seguro; vendidos em lojas de energia da alma; anéis em branco são proibidos, exceto para cientistas da corte e aventureiros Aquamarine ou acima)."
  },
  "8b6493801e36": {
   "en": "There are no gods and no \"magic\" in Vraki — there is **Soul Energy**, and everybody calls it science. Scientists publish papers, peer-review each other brutally, and blow themselves up.",
@@ -11,6 +63,86 @@
   "en": "Strong emotions make long-lasting memories. When parents make a baby, both release a little soul energy and nearby particles form a new soul, so a newborn's temperament looks random.",
   "t": "Emoções fortes criam memórias duradouras. Quando os pais fazem um bebê, os dois liberam um pouco de energia da alma e partículas próximas formam uma alma nova, então o temperamento de um recém-nascido parece aleatório."
  },
+ "a34c4088549a": {
+  "en": "**Objects:** 26 approved simple objects plus rare approved compound ones. A new compound object is approved only if random passersby can cast it without a single miscast.",
+  "t": "**Objetos:** 26 objetos simples aprovados, mais alguns raros objetos compostos aprovados. Um objeto composto novo só é aprovado se transeuntes aleatórios conseguirem conjurá-lo sem uma única falha."
+ },
+ "a5d4d49970fb": {
+  "en": "Souls are toughest in early adulthood (revival is nearly guaranteed) and fragile in infants and the elderly.",
+  "t": "As almas são mais resistentes no início da vida adulta (a reanimação é quase garantida) e frágeis em bebês e idosos."
+ },
+ "a7ac2e2e6605": {
+  "en": "Other uses of Soul Energy",
+  "t": "Outros usos da energia da alma"
+ },
+ "ac91e049c126": {
+  "en": "When the heart and brain stop, the soul stays tied to the body while the genetic material lasts. The dead dream in a loop of their strongest memories or desires.",
+  "t": "Quando o coração e o cérebro param, a alma continua presa ao corpo enquanto o material genético durar. Os mortos sonham em looping suas memórias ou desejos mais fortes."
+ },
+ "b29a91912b7a": {
+  "en": "**Common spells:**",
+  "t": "**Magias comuns:**"
+ },
+ "b54bcd11081b": {
+  "en": "SE comes in **tiers** (I, II, III… X and up). Each tier needs double the energy of the one before it: **1 nari stone for Tier I, 2 for Tier II, 4 for Tier III, 8 for Tier IV…**",
+  "t": "A EA vem em **níveis** (I, II, III… X e acima). Cada nível precisa do dobro da energia do anterior: **1 pedra de nari para o Nível I, 2 para o Nível II, 4 para o Nível III, 8 para o Nível IV…**"
+ },
+ "bf7af2224bd6": {
+  "en": "The five rings hold **2, 8, 18, 32 and 50** tiers of energy. Nobody has officially cast at the fourth or fifth ring.",
+  "t": "Os cinco anéis guardam **2, 8, 18, 32 e 50** níveis de energia. Oficialmente, ninguém nunca conjurou no quarto ou no quinto anel."
+ },
+ "c27e2f58bb51": {
+  "en": "You can **expand** your soul's capacity with training, like exercise. The rich tend to have small souls — they just buy nari stones.",
+  "t": "Você pode **expandir** a capacidade da sua alma com treino, como num exercício. Os ricos costumam ter almas pequenas — eles simplesmente compram pedras de nari."
+ },
+ "c321d9232818": {
+  "en": "Walking Heart (banned)",
+  "t": "Walking Heart (proibido)"
+ },
+ "c401fbb82c9f": {
+  "en": "Recharged by **emotions** and **eating** (eating something alive absorbs some of its soul energy). On average you recover about **one nari stone's worth a day**.",
+  "t": "Recarrega com **emoções** e **comendo** (comer algo vivo absorve parte da energia da alma dele). Em média, você recupera o equivalente a **uma pedra de nari por dia**."
+ },
+ "c448bb3b1c77": {
+  "en": "Buhraies interface (blood-born)",
+  "t": "Interface buhraies (nascida do sangue)"
+ },
+ "c8606fb7f956": {
+  "en": "**Soul CREATE** — attempting to create a soul. Forbidden-level stuff. (Rumor says a famous Sanbi scientist died trying.)",
+  "t": "**Soul CREATE** — tentar criar uma alma. Coisa de nível proibido. (Dizem que um famoso cientista de Sanbi morreu tentando.)"
+ },
+ "c893de59837f": {
+  "en": "As the body rots, the link fades. A soul with no link slowly dissolves: **Soul Death** (\"detachment\"). Bigger souls with stronger memories last longer.",
+  "t": "Conforme o corpo apodrece, o vínculo se apaga. Uma alma sem vínculo se dissolve devagar: **morte da alma** («desapego»). Almas maiores, com memórias mais fortes, duram mais."
+ },
+ "cb6495a2c116": {
+  "en": "Darfaries interface (what almost everyone uses)",
+  "t": "Interface darfaries (a que quase todo mundo usa)"
+ },
+ "cc7d7b4029ee": {
+  "en": "Replace your heart with a Walking Heart stone and become **undead** — see Nari Gels, Bombs & Stones.",
+  "t": "Troque seu coração por uma pedra Walking Heart e vire **morto-vivo** — veja Géis, bombas e pedras de nari."
+ },
+ "d8f1a9b0aa9f": {
+  "en": "A spell is two **logograms**: an **OBJECT** (what it acts on) and a **VERB** (what it does).",
+  "t": "Uma magia são dois **logogramas**: um **OBJETO** (sobre o que age) e um **VERBO** (o que faz)."
+ },
+ "dfc961e0ebcb": {
+  "en": "Death and revival",
+  "t": "Morte e reanimação"
+ },
+ "e0514eeee5d5": {
+  "en": "An **interface** turns soul energy into an effect. Many creatures have one built into their bodies (a Bagarisa's fire tusks, a Crocus's invisibility). People use these:",
+  "t": "Uma **interface** transforma energia da alma num efeito. Muitas criaturas têm uma embutida no corpo (as presas de fogo de um Bagarisa, a invisibilidade de um Crocus). As pessoas usam estas:"
+ },
+ "e1958d538a66": {
+  "en": "**How to cast:** clench the hand with the logograms → five rings of white flame appear around your forearm → touch your middle and ring fingers to the palm and \"eat\" the energy (yours, a friend's, or a **nari stone stick**) → each \"bite\" pushes the spell to the next stable tier → open your hand to release it, or throw your arm for range. It kicks like a gun.",
+  "t": "**Como conjurar:** feche a mão com os logogramas → cinco anéis de chama branca aparecem em volta do antebraço → encoste o dedo médio e o anelar na palma e «coma» a energia (a sua, a de um amigo ou a de um **bastão de pedras de nari**) → cada «mordida» empurra a magia para o próximo nível estável → abra a mão para soltá-la, ou arremesse o braço para dar alcance. Dá um coice como uma arma de fogo."
+ },
+ "e452339450dc": {
+  "en": "Finaies interface (primordial)",
+  "t": "Interface finaies (primordial)"
+ },
  "e6c36ad0eacd": {
   "en": "Your **soul** is a cloud of virtual particles that holds your consciousness, your **memories** and your **Soul Energy**. Your **genes** are the soul's memories made physical; your **body** is built from those genes. (The author's analogy: soul = database, gene = class, body = object.)",
   "t": "Sua **alma** é uma nuvem de partículas virtuais que guarda sua consciência, suas **memórias** e sua **energia da alma**. Seus **genes** são as memórias da alma tornadas matéria; seu **corpo** é construído a partir desses genes. (A analogia do autor: alma = banco de dados, gene = classe, corpo = objeto.)"
@@ -18,5 +150,17 @@
  "ea225874e93a": {
   "en": "Soul Energy & Interfaces",
   "t": "Energia da alma e interfaces"
+ },
+ "eb1eb3d84c46": {
+  "en": "**Senses and flight:** Darfaries \"veins\" (nerves) let Darfaries, Wozefaries and Sorefaries sense soul energy and weather. A white flame runs along them; a black flame works like a jetpack (feet dangling, steering with the arms). Darfaries soften falls, Wozefaries glide, Sorefaries fly.",
+  "t": "**Sentidos e voo:** as «veias» darfaries (nervos) permitem que darfaries, wozefaries e sorefaries sintam a energia da alma e o tempo. Uma chama branca corre por elas; uma chama negra funciona como uma mochila a jato (pés pendurados, guiando com os braços). Darfaries amortecem quedas, wozefaries planam, sorefaries voam."
+ },
+ "eb955d883656": {
+  "en": "Your **badge** shows your current SE (only to you).",
+  "t": "Seu **crachá** mostra sua EA atual (só para você)."
+ },
+ "fe0dd2eef3ca": {
+  "en": "**Lifespan** depends on how strong and dense the connections between flesh and soul are. Aging is those connections wearing out. Regrowing a lost limb lowers the density (shortens your life), so **reattach limbs before healing**.",
+  "t": "A **expectativa de vida** depende de quão fortes e densas são as conexões entre a carne e a alma. Envelhecer é essas conexões se desgastando. Regenerar um membro perdido reduz a densidade (encurta sua vida), então **recoloque os membros antes de curar**."
  }
 }
