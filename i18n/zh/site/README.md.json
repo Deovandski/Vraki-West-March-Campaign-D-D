@@ -67,6 +67,10 @@
   "en": "Languages",
   "t": "语言"
  },
+ "3f0095aeddf6": {
+  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use. Building and deploying are two jobs (**build**, then **deploy**); if a deploy ever fails, re-run the whole workflow rather than just the failed job, so it builds a fresh copy.",
+  "t": "它还会在`sw.js`里打上提交标记，这样每次部署都会刷新大家为离线使用而保存的副本。构建和部署是两个作业（先**build**，再**deploy**）；如果部署失败，请重新运行整个工作流，而不只是失败的那个作业，这样才会重新构建一份新的副本。"
+ },
  "420eb681b96b": {
   "en": "**Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).",
   "t": "**怪物图鉴**和**随机表**（委托、遭遇、传闻、内应计划的提议）。"
@@ -231,9 +235,17 @@
   "en": "`site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.",
   "t": "`site/fonts/`——TeX Gyre Schola和TeX Gyre Heros Cn，未经修改（GUST Font License，见`GUST-FONT-LICENSE.txt`）。Vraki字体和美术来自`Handouts/source/assets`文件夹。"
  },
+ "bd9e20382f78": {
+  "en": "Its step summary also lists how big the deployed site is and what fills it (about 80 MB, mostly the 34 MB print map and the handouts in seven languages; the Pages limit is 1 GB). The workflows use the Node 24 releases of GitHub's actions.",
+  "t": "它的步骤摘要还会列出部署的网站有多大、里面都是什么（约80 MB，大部分是34 MB的打印用地图和7种语言的道具；Pages的上限是1 GB）。工作流使用GitHub各个action的Node 24版本。"
+ },
  "be1ab3934370": {
   "en": "**The banner:** every translated page starts with \"AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm\" in that language, and a one-click switch back to English.",
   "t": "**提示横幅：** 每个翻译页面的开头都会用该语言写着“本页由AI根据Deovandski与Mitsukiven/Feiourm的原作翻译成（语言）”，并附有一键切回英文的按钮。"
+ },
+ "bec963297173": {
+  "en": "**Picking one:** open **Settings** (the gear in the top bar, there at every screen size). It lists every language in its own script with how much of it is done, has the distance and light/dark choices, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
+  "t": "**选择语言：** 打开**设置**（顶栏中的齿轮，在任何屏幕尺寸下都会显示）。那里用各自的文字列出每种语言及其完成度，还有距离和浅色/深色选项，以及一个用来申请新语言的[issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7)链接。第一次访问时，只要你浏览器语言的翻译完成度至少达到90%，网站就会自动选择它。链接里加上`?lang=ja`可以强制指定语言。"
  },
  "bf5e2b39295b": {
   "en": "Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap.",
