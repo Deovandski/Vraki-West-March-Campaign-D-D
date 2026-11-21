@@ -67,6 +67,10 @@
   "en": "Languages",
   "t": "言語"
  },
+ "3f0095aeddf6": {
+  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use. Building and deploying are two jobs (**build**, then **deploy**); if a deploy ever fails, re-run the whole workflow rather than just the failed job, so it builds a fresh copy.",
+  "t": "さらに`sw.js`にコミットを刻むので、デプロイのたびに、みんながオフライン用に保存した写しが新しくなる。ビルドとデプロイは2つのジョブに分かれている（**build**、続いて**deploy**）。デプロイが失敗したときは、失敗したジョブだけでなくワークフロー全体を再実行して、新しい写しをビルドし直すこと。"
+ },
  "420eb681b96b": {
   "en": "**Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).",
   "t": "**モンスター図鑑**と**ランダム表**（依頼、遭遇、噂、内部の手引きの持ちかけ）。"
@@ -231,9 +235,17 @@
   "en": "`site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.",
   "t": "`site/fonts/` — TeX Gyre ScholaとTeX Gyre Heros Cn、無改変（GUST Font License、`GUST-FONT-LICENSE.txt`を参照）。Vrakiフォントと絵は`Handouts/source/assets`フォルダーから来ている。"
  },
+ "bd9e20382f78": {
+  "en": "Its step summary also lists how big the deployed site is and what fills it (about 80 MB, mostly the 34 MB print map and the handouts in seven languages; the Pages limit is 1 GB). The workflows use the Node 24 releases of GitHub's actions.",
+  "t": "ステップの概要には、デプロイされるサイトの大きさと、その中身も出る（約80 MB。大半は34 MBの印刷用の地図と7言語の配布物で、Pagesの上限は1 GB）。ワークフローはGitHubのアクションのNode 24版を使う。"
+ },
  "be1ab3934370": {
   "en": "**The banner:** every translated page starts with \"AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm\" in that language, and a one-click switch back to English.",
   "t": "**お知らせ：** 翻訳されたページはどれも、その言語で「DeovandskiとMitsukiven/Feiourmによる原作から、AIが（言語）に翻訳しました」で始まり、ワンクリックで英語に戻せる。"
+ },
+ "bec963297173": {
+  "en": "**Picking one:** open **Settings** (the gear in the top bar, there at every screen size). It lists every language in its own script with how much of it is done, has the distance and light/dark choices, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
+  "t": "**選び方：** **設定**（上のバーの歯車。どの画面サイズでも表示される）を開く。すべての言語がそれぞれの文字で、どこまでできているかとともに並び、距離とライト／ダークの選択と、ほかの言語を頼むための[issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7)へのリンクもある。初めて訪れたときは、その翻訳が90%以上できていれば、サイトがブラウザの言語を自動で選ぶ。リンクに`?lang=ja`を付ければ言語を指定できる。"
  },
  "bf5e2b39295b": {
   "en": "Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap.",

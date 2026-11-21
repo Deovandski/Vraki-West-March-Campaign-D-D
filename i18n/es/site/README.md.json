@@ -67,6 +67,10 @@
   "en": "Languages",
   "t": "Idiomas"
  },
+ "3f0095aeddf6": {
+  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use. Building and deploying are two jobs (**build**, then **deploy**); if a deploy ever fails, re-run the whole workflow rather than just the failed job, so it builds a fresh copy.",
+  "t": "También pone la marca del commit en `sw.js`, para que cada publicación renueve la copia que la gente ha guardado para usar sin conexión. Compilar y desplegar son dos trabajos (**build** y luego **deploy**); si un despliegue falla alguna vez, vuelve a lanzar el flujo entero y no solo el trabajo fallido, para que compile una copia nueva."
+ },
  "420eb681b96b": {
   "en": "**Bestiary** and **random tables** (quests, encounters, rumors, Inside Job offers).",
   "t": "**Bestiario** y **tablas aleatorias** (misiones, encuentros, rumores, ofertas del Trabajo Interno)."
@@ -231,9 +235,17 @@
   "en": "`site/fonts/` — TeX Gyre Schola and TeX Gyre Heros Cn, unmodified (GUST Font License, see `GUST-FONT-LICENSE.txt`). The Vraki font and the art come from the `Handouts/source/assets` folder.",
   "t": "`site/fonts/` — TeX Gyre Schola y TeX Gyre Heros Cn, sin modificar (GUST Font License, ver `GUST-FONT-LICENSE.txt`). La fuente Vraki y el arte vienen de la carpeta `Handouts/source/assets`."
  },
+ "bd9e20382f78": {
+  "en": "Its step summary also lists how big the deployed site is and what fills it (about 80 MB, mostly the 34 MB print map and the handouts in seven languages; the Pages limit is 1 GB). The workflows use the Node 24 releases of GitHub's actions.",
+  "t": "Su resumen también indica cuánto ocupa la web desplegada y qué la llena (unos 80 MB, sobre todo el mapa para imprimir de 34 MB y el material en siete idiomas; el límite de Pages es de 1 GB). Los flujos de trabajo usan las versiones de Node 24 de las acciones de GitHub."
+ },
  "be1ab3934370": {
   "en": "**The banner:** every translated page starts with \"AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm\" in that language, and a one-click switch back to English.",
   "t": "**El aviso:** cada página traducida empieza con «Traducido por IA al (idioma) a partir de la obra original de Deovandski y Mitsukiven/Feiourm» en ese idioma, y un botón para volver al inglés con un clic."
+ },
+ "bec963297173": {
+  "en": "**Picking one:** open **Settings** (the gear in the top bar, there at every screen size). It lists every language in its own script with how much of it is done, has the distance and light/dark choices, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
+  "t": "**Elegir uno:** abre **Ajustes** (el engranaje de la barra superior, visible en cualquier tamaño de pantalla). Muestra cada idioma en su propia escritura con cuánto está hecho, tiene las opciones de distancias y de claro/oscuro, y enlaza a la [incidencia #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) para pedir otro idioma. En la primera visita, la web elige sola el idioma de tu navegador, siempre que esa traducción esté hecha al menos en un 90 %. Un enlace puede forzar uno con `?lang=ja`."
  },
  "bf5e2b39295b": {
   "en": "Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap.",
