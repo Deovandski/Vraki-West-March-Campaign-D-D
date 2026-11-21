@@ -259,10 +259,6 @@
   "en": "**DM mode:** everything players see, plus the DM pages and:",
   "t": "**Modo Mestre:** tudo o que os jogadores veem, mais as páginas do Mestre e:"
  },
- "d71daec5a7cc": {
-  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.",
-  "t": "Ele também marca o `sw.js` com o commit, para que cada publicação renove a cópia que as pessoas salvaram para uso offline."
- },
  "d89a0a9bfcbe": {
   "en": "`site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts",
   "t": "`site/manifest.webmanifest` e `site/icons/` — o nome, as cores, os ícones (feitos a partir do emblema de Forway) e os atalhos do aplicativo"
@@ -286,10 +282,6 @@
  "e56cfa5d7cde": {
   "en": "The site comes in English and six translations: 中文 (Simplified Chinese), 日本語 (Japanese), Português (Brazil), Español (Spain), العربية (Arabic) and 한국어 (Korean). They are AI translations of the English, written ahead of time and kept in the repo; nothing is translated on the fly, and English stays the original.",
   "t": "O site está em inglês e em seis traduções: 中文 (chinês simplificado), 日本語 (japonês), Português (Brasil), Español (Espanha), العربية (árabe) e 한국어 (coreano). São traduções do inglês feitas por IA, escritas com antecedência e guardadas no repositório; nada é traduzido na hora, e o inglês continua sendo o original."
- },
- "e7448bd25755": {
-  "en": "**Picking one:** open **Settings (⚙)** in the top bar. It lists every language in its own script with how much of it is done, has the light/dark switch, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
-  "t": "**Escolhendo um:** abra **Configurações (⚙)** na barra de cima. Ali aparecem todos os idiomas na própria escrita, com quanto de cada um está pronto, o botão de claro/escuro e um link para a [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) para pedir outro idioma. Na primeira visita, o site escolhe sozinho o idioma do seu navegador, desde que essa tradução esteja pelo menos 90% pronta. Um link pode forçar um com `?lang=ja`."
  },
  "e887f66aadda": {
   "en": "What's on it",

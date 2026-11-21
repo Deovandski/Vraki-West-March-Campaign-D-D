@@ -891,10 +891,6 @@
   "en": "Every session starts at a Forway <b>embassy</b> and should end back at one.",
   "t": "どのセッションもフォーウェイの<b>大使館</b>から始まり、どこかの大使館に戻って終わるのが基本です。"
  },
- "50050479bb24": {
-  "en": "Light or dark",
-  "t": "ライトかダーク"
- },
  "50117964066e": {
   "en": "Temp",
   "t": "一時"
@@ -1414,10 +1410,6 @@
  "77ce05ef9b96": {
   "en": "Handouts guide",
   "t": "配布物のガイド"
- },
- "77fa3ba25c50": {
-  "en": "Switch light or dark",
-  "t": "ライトとダークを切り替える"
  },
  "783c9a2c8357": {
   "en": "Roll events for empty shifts",

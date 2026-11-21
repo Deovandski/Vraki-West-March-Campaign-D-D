@@ -101,7 +101,7 @@
         (gid === "more" ? `<li><a href="#/t/handouts" data-tool="handouts">${__("Handout gallery")}</a></li>` : "") +
         "</ul></details>";
     });
-    html += `<p class="nav-foot"><button class="link nav-theme" data-action="settings">${__("Settings")}</button><br class="nav-theme">
+    html += `<p class="nav-foot">
       <a href="${REPO}" target="_blank" rel="noopener">${__("The repo on GitHub")}</a><br>
       <a href="https://deovandski.github.io/vraki-windows/" target="_blank" rel="noopener">${__("Vraki, where the script started")}</a></p></div>`;
     nav.innerHTML = html;
@@ -515,7 +515,6 @@
         if (el.dataset.then) go(el.dataset.then);
         return;
       }
-      case "theme": setTheme(currentTheme() === "dark" ? "light" : "dark"); return;
       case "theme-set": setTheme(el.dataset.theme); return;
       case "settings": closeNav(); settingsMenu(); return;
       case "lang-en": switchLanguage("en"); return;

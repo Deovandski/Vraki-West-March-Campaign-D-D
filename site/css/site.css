@@ -100,9 +100,11 @@ h1, h2, h3, h4 { line-height: 1.2; text-wrap: balance; }
 .dice-btn { display: inline-flex; align-items: center; gap: 6px; font: 700 15px var(--ui); color: var(--wood); background: var(--wood-ink); border: 0; border-radius: var(--radius); padding: 8px 12px; cursor: pointer; }
 .dice-btn svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; }
 .menu-btn { display: none; }
-.nav-theme { display: none; }
 .data-menu { position: absolute; right: 16px; top: 100%; margin-top: 6px; width: 300px; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18); padding: 12px; display: grid; gap: 8px; }
 .data-menu[hidden] { display: none; }
+/* The menus hang from the sticky top bar, so the page can't scroll them into view: they scroll on their own,
+   and never reach past the bottom of the screen (a phone on its side has about 360 px). */
+.data-menu { max-height: calc(100vh - var(--top-h, 60px) - 16px); max-height: calc(100dvh - var(--top-h, 60px) - 16px); overflow-y: auto; overscroll-behavior: contain; }
 .data-menu-note { margin: 0 0 4px; font: 14px/1.45 var(--ui); color: var(--ink-2); }
 .data-menu-app [data-pwa-install] { width: 100%; }
 .data-menu .pwa-status:empty { display: none; }
@@ -692,11 +694,6 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
   .ps-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .ps-shifts > tbody > tr > th { width: 74px; }
 }
-@media (max-width: 480px) {
-  /* Room for the name on small phones: the light/dark switch moves into the menu. */
-  .top-actions [data-action="theme"] { display: none; }
-  .nav-theme { display: inline; }
-}
 @media print {
   .topbar, .sidenav, .dice-tray, .toc, .toast, .site-footer { display: none !important; }
   .layout { display: block; }
@@ -727,8 +724,6 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
 .lang-banner .link { color: inherit; font: 700 14px var(--ui); text-decoration: underline; padding: 0 2px; }
 .kept-en { font: 14px/1.45 var(--ui); color: var(--ink-2); border-inline-start: 3px solid var(--line); padding-inline-start: 10px; }
 @media (max-width: 800px) {
-  /* The gear's menu has the light/dark switch, so the top bar keeps one button for both on phones. */
-  .top-actions .theme-btn { display: none; }
   .lang-banner { padding: 6px 12px; font-size: 13px; }
 }
 
