@@ -1,4 +1,8 @@
 {
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "Géis de nari e equipamento"
+ },
  "1a8c48eeb141": {
   "en": "Price",
   "t": "Preço"
@@ -23,13 +27,33 @@
   "en": "**Time Quicken**",
   "t": "**Time Quicken**"
  },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**Acúmulo:** alguns géis diferentes podem se acumular (a critério do Mestre); o mesmo gel não se acumula consigo mesmo — use o nível mais alto."
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**Comer (grau grosso):** ação. Os efeitos começam no fim do seu próximo turno. Dura **1d4 dias**."
+ },
  "4446426affd0": {
   "en": "**Time Slower**",
   "t": "**Time Slower**"
  },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "Géis de nari na mesa"
+ },
  "4913580e8dc4": {
   "en": "**Nari Refresher**",
   "t": "**Nari Refresher**"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30 pearls"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1 sapphire"
  },
  "721d81354ff2": {
   "en": "**Arm Light**",
@@ -63,13 +87,33 @@
   "en": "**Sayna Hearing**",
   "t": "**Sayna Hearing**"
  },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**Terminando antes:** um **Nari Refresher** de nível igual ou maior encerra todos os efeitos de gel em você."
+ },
  "ca38faeb8b69": {
   "en": "**Winga Skin**",
   "t": "**Winga Skin**"
  },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**Injetar (grau fino, preço em dobro):** ação bônus com uma seringa. Os efeitos começam na hora. Dura **1 dia**."
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**Dreno:** géis de Nível I–II não custam nada a mais. Enquanto um gel de **Nível III** estiver ativo, você não recupera SP em descansos longos. Enquanto um gel de **Nível IV** estiver ativo, você perde 1 SP a cada amanhecer (com 0 SP, ganhe um nível de exaustão no lugar)."
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**Dor:** géis de Nível III e IV doem enquanto seu corpo muda de forma. Grau grosso: sofra 2d6 (Nível III) ou 4d6 (Nível IV) de dano psíquico e fique envenenado até o fim do seu próximo turno. Grau fino: sem dano."
+ },
  "d6ebb461546e": {
   "en": "**Winga Flight**",
   "t": "**Winga Flight**"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "Um **pote** (~200 g) tem **4 colheradas**. Coma **1 colherada para Nível I, 2 para Nível II, 3 para Nível III, as 4 para Nível IV**. Então um pote = quatro doses de Nível I, ou uma dose de Nível IV."
  },
  "da61db8cfc3a": {
   "en": "**Water Breath**",
@@ -86,6 +130,10 @@
  "eb91adeacae1": {
   "en": "**Smooth Skin**",
   "t": "**Smooth Skin**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1 aquamarine"
  },
  "f772ffe3cc33": {
   "en": "**Smooth Gut**",

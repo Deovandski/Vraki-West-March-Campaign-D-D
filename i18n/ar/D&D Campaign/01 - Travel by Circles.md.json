@@ -1,26 +1,206 @@
 {
+ "16c2ba8e971a": {
+  "en": "Getting lost",
+  "t": "الضياع"
+ },
+ "195e8301ca04": {
+  "en": "**Food:** 1 ration per person per day (~2–5 pearls in town). Hunting/foraging for a shift: DC 12 Wisdom (Survival) feeds 1d4 people for a day (DC 15 in Slow-pace country).",
+  "t": "**الطعام:** حصة واحدة لكل شخص في اليوم (~2–5 بيرل في البلدة). الصيد/الجمع لنوبة: اختبار حكمة (النجاة) DC 12 يُطعم 1d4 أشخاص ليوم (DC 15 في أرض ذات إيقاع بطيء)."
+ },
+ "25066a3e5d92": {
+  "en": "Good roads, riding Eguas, traveling light, boats on open sea, or the DM wants to get to the action",
+  "t": "طرق جيدة، أو ركوب الإيغوا، أو السفر بحمل خفيف، أو قوارب في البحر المفتوح، أو يريد مدير اللعبة الوصول إلى الحدث"
+ },
+ "27da02ce5cf1": {
+  "en": "Follow the circles from where the party is to where it wants to go and count them. That count is the length of the trip. Count every circle on the way: a circle next to a town counts for every road that leaves from it, and circles shared by two roads count on both.",
+  "t": "اتبع الدوائر من حيث يقف الفريق إلى حيث يريد الذهاب وعُدّها. ذلك العدد هو طول الرحلة. عُدّ كل دائرة في الطريق: الدائرة المجاورة لبلدة تُحسب لكل طريق يخرج منها، والدوائر التي يتشاركها طريقان تُحسب في كليهما."
+ },
+ "313717e5ae00": {
+  "en": "**Eguas:** no speed or load math. An Egua lets the party carry loot and gear (a pack Egua carries what a wagon would) and is a good reason for **Fast** pace on roads. It eats by grazing during Morning and Night; in deserts or Hifuna, bring Carbey (about 1 pearl a day). A wagon on bad terrain is a good reason for Slow.",
+  "t": "**الإيغوا:** لا حسابات للسرعة أو الحمولة. الإيغوا يتيح للفريق حمل الغنائم والعتاد (إيغوا الحمل يحمل ما تحمله عربة) وهو سبب وجيه للإيقاع **السريع** على الطرق. يأكل بالرعي في الصباح والليل؛ وفي الصحارى أو هيفونا، أحضِر الكاربي (نحو 1 بيرل في اليوم). والعربة على أرض سيئة سبب وجيه للبطء."
+ },
  "317cd7815399": {
   "en": "12pm–6pm",
   "t": "12 ظهرًا–6 مساءً"
+ },
+ "34b110686e5c": {
+  "en": "**Standard**",
+  "t": "**عادية**"
  },
  "35fc7a0d2c1c": {
   "en": "What happens",
   "t": "ماذا يحدث"
  },
+ "430fead4b0dc": {
+  "en": "Decide who keeps watch (if anyone). The DM rolls for events.",
+  "t": "قرروا من يقف للحراسة (إن وقف أحد). ويرمي مدير اللعبة للأحداث."
+ },
+ "479682595014": {
+  "en": "Quick reference",
+  "t": "مرجع سريع"
+ },
+ "49f25a00b833": {
+  "en": "Normal travel: walking or a wagon on roads and trails, mixed terrain",
+  "t": "سفر عادي: مشيًا أو بعربة على الطرق والدروب، تضاريس مختلطة"
+ },
  "4ca775823b63": {
   "en": "6am–12pm",
   "t": "6 صباحًا–12 ظهرًا"
+ },
+ "58fb35dccbbb": {
+  "en": "The party can push one step faster than the DM's knob (Slow → Standard, Standard → Fast) for a circle. Everyone makes a DC 12 Constitution save at the end of that circle or gains a level of exhaustion. Eguas pushed too hard get cranky (and kick).",
+  "t": "يمكن للفريق أن يسير أسرع بدرجة من مقبض مدير اللعبة (بطيئة ← عادية، عادية ← سريعة) لدائرة واحدة. ويجري الجميع رمية إنقاذ بنية DC 12 في نهاية تلك الدائرة أو يكتسبون مستوى من الإنهاك. والإيغوا التي تُجهد أكثر من اللازم تصير نكدة (وترفس)."
+ },
+ "5cb33ec9f3d0": {
+  "en": "**Morning**",
+  "t": "**الصباح**"
+ },
+ "5d20f9f80cab": {
+  "en": "**Count the circles. Each circle is 1, 2 or 3 days — the DM chooses.** Roll events per shift (or per circle). Feed people and eguas. Get home before the quest deadline.",
+  "t": "**عُدّ الدوائر. كل دائرة يوم أو يومان أو ثلاثة — يختار مدير اللعبة.** ارمِ للأحداث لكل نوبة (أو لكل دائرة). أطعِم الناس والإيغوا. عُد إلى البيت قبل موعد المهمة."
+ },
+ "5ef241d8588e": {
+  "en": "Time",
+  "t": "الوقت"
+ },
+ "6454736e2bcb": {
+  "en": "**Winga mail** flies much faster than people: about **one day for every three circles**.",
+  "t": "**بريد الوينغا** يطير أسرع من الناس بكثير: نحو **يوم لكل ثلاث دوائر**."
+ },
+ "64d246f50000": {
+  "en": "Pace",
+  "t": "الإيقاع"
+ },
+ "65b5c88ed8ea": {
+  "en": "2. Set the pace knob",
+  "t": "2. اضبط مقبض الإيقاع"
+ },
+ "6e6497e68381": {
+  "en": "**Afternoon**",
+  "t": "**بعد الظهر**"
+ },
+ "73b24b45ee6c": {
+  "en": "**Night**",
+  "t": "**الليل**"
+ },
+ "7b937334d4d2": {
+  "en": "**Boats** along the coast or between islands are usually a good fit for **Fast**. Passage costs about 5 pearls per person per circle on a merchant boat.",
+  "t": "**القوارب** على طول الساحل أو بين الجزر تناسبها عادةً **السريعة**. وتكلّف الرحلة نحو 5 بيرل للشخص لكل دائرة على قارب تجاري."
+ },
+ "7ccbb0cf31bb": {
+  "en": "Each shift, every character picks one thing: **travel**, **keep watch**, **rest**, **hunt/forage**, **scout** (with a companion like a Sayna, Winga or Sorefaries), **repair**, **prep** (nari gels, sigil rings, traps), or **socialize** (in town or with other caravans: barter, flirt, gamble, gossip, steal). Travel is assumed to happen during the day; the circle count already covers it.",
+  "t": "في كل نوبة تختار كل شخصية شيئًا واحدًا: **السفر**، أو **الحراسة**، أو **الراحة**، أو **الصيد/الجمع**، أو **الاستطلاع** (مع رفيق مثل ساينا أو وينغا أو سوريفاريس)، أو **الإصلاح**، أو **التحضير** (جل ناري، خواتم سيجيل، فخاخ)، أو **المخالطة** (في البلدة أو مع قوافل أخرى: مقايضة، غزل، قمار، ثرثرة، سرقة). ويُفترض أن السفر يجري نهارًا؛ وعدد الدوائر يغطيه أصلًا."
+ },
+ "7e29a7491056": {
+  "en": "Each day has four **shifts**, kept from the Alpha campaign:",
+  "t": "لكل يوم أربع **نوبات**، احتُفظ بها من حملة ألفا:"
+ },
+ "7e6ddea17dc2": {
+  "en": "Forget kilometers, Egua speeds and load math. The **travel map** (see [Maps](../Maps)) has **circles drawn along the routes connecting places**. Travel is counted in circles.",
+  "t": "انسَ الكيلومترات وسرعات الإيغوا وحسابات الحمولة. **خريطة السفر** (انظر [الخرائط](../Maps)) فيها **دوائر مرسومة على طول الطرق التي تربط الأماكن**. ويُحسب السفر بالدوائر."
+ },
+ "7f572dc9e234": {
+  "en": "Shift",
+  "t": "النوبة"
+ },
+ "85c45484eda0": {
+  "en": "Players choose actions. The DM rolls for events.",
+  "t": "يختار اللاعبون أفعالهم. ويرمي مدير اللعبة للأحداث."
  },
  "86f987d184bb": {
   "en": "6pm–12am",
   "t": "6 مساءً–12 ليلًا"
  },
+ "87abbc083d54": {
+  "en": "**Water:** only matters in the desert and on the plateau's dry stretches (see Dangerous Places).",
+  "t": "**الماء:** لا يهم إلا في الصحراء وفي المقاطع الجافة من الهضبة (انظر الأماكن الخطرة)."
+ },
+ "9a9437371218": {
+  "en": "Supplies",
+  "t": "المؤن"
+ },
+ "a2affa5c1784": {
+  "en": "**Graveyard**",
+  "t": "**آخر الليل**"
+ },
+ "a2ba28be6f28": {
+  "en": "Some lengths from the map: **Forway to Sanbi is 6 circles**, Forway to Flatland 7, Sanbi to Endlessfog 13 (by sea), Gandew to Sundeath 19 (across the desert). The [route lengths table](../Maps/README.md#route-lengths) has every road and sea lane. For a trip through several towns, add up the legs: Forway → Sanbi → Cruro is 6 + 10 = 16 circles.",
+  "t": "بعض الأطوال من الخريطة: **من فورواي إلى سانبي 6 دوائر**، ومن فورواي إلى فلاتلاند 7، ومن سانبي إلى إندلس فوغ 13 (بحرًا)، ومن غانديو إلى صنديث 19 (عبر الصحراء). و[جدول أطوال الطرق](../Maps/README.md#route-lengths) فيه كل طريق وممر بحري. ولرحلة عبر عدة بلدات، اجمع المراحل: فورواي ← سانبي ← كرورو تساوي 6 + 10 = 16 دائرة."
+ },
+ "a49f632d76ed": {
+  "en": "Good fit when…",
+  "t": "يناسب حين…"
+ },
+ "ae4c35ed5caa": {
+  "en": "3. Play out the days (or skip them)",
+  "t": "3. العب الأيام (أو تخطَّها)"
+ },
+ "b26f56e2fa18": {
+  "en": "Players choose actions. The DM may roll for events.",
+  "t": "يختار اللاعبون أفعالهم. وقد يرمي مدير اللعبة للأحداث."
+ },
+ "b2731f205f46": {
+  "en": "Event rolls are in [Events & Encounters](07%20-%20Events%20&%20Encounters.md). To keep long trips quick, the DM can roll **once per circle** instead of every shift — another knob.",
+  "t": "رميات الأحداث في [الأحداث واللقاءات](07%20-%20Events%20&%20Encounters.md). ولتبقى الرحلات الطويلة سريعة، يمكن لمدير اللعبة أن يرمي **مرة لكل دائرة** بدل كل نوبة — مقبض آخر."
+ },
+ "b2a519a7f929": {
+  "en": "Off-road forest, swamp, desert, mountains, the Buhraies Plains, heavy wagons or caravans, bad weather, Hifuna, or the DM wants the journey to *be* the adventure",
+  "t": "غابة بلا طرق، مستنقع، صحراء، جبال، سهول بورايس، عربات ثقيلة أو قوافل، طقس سيئ، هيفونا، أو يريد مدير اللعبة أن *تكون* الرحلة هي المغامرة"
+ },
+ "b35c6da82a74": {
+  "en": "**Fast**",
+  "t": "**سريعة**"
+ },
+ "b5d0861141b8": {
+  "en": "The **Deltacross ferry** and the **Waterfall elevators** don't add time; they cost balls (see World Lore: Money).",
+  "t": "**عبّارة دلتاكروس** و**مصاعد ووترفول** لا تضيف وقتًا؛ لكنها تكلّف كرات (انظر World Lore: المال)."
+ },
+ "be2326901242": {
+  "en": "Travel by Circles",
+  "t": "السفر بالدوائر"
+ },
+ "c4e5ccb9e986": {
+  "en": "Pushing it",
+  "t": "الإجهاد"
+ },
  "c62c3d9454a5": {
   "en": "12am–6am",
   "t": "12 ليلًا–6 صباحًا"
  },
+ "d0d49d2915d8": {
+  "en": "**Days = circles × the DM's pace (1, 2 or 3).** Forway to Sanbi, 6 circles: 6 days Fast, 12 Standard, 18 Slow.",
+  "t": "**الأيام = الدوائر × إيقاع مدير اللعبة (1 أو 2 أو 3).** من فورواي إلى سانبي، 6 دوائر: 6 أيام بالسريعة، و12 بالعادية، و18 بالبطيئة."
+ },
+ "d52adc720abc": {
+  "en": "Going somewhere with no circles drawn — off the routes, into unexplored land? The DM decides how many circles the trip is worth, or draws new ones on the shared map.",
+  "t": "تذهبون إلى مكان بلا دوائر مرسومة — خارج الطرق، إلى أرض مجهولة؟ يقرر مدير اللعبة كم دائرة تساوي الرحلة، أو يرسم دوائر جديدة على الخريطة المشتركة."
+ },
  "d5e802f2f64a": {
   "en": "Days per circle",
   "t": "أيام لكل دائرة"
+ },
+ "da5495effc27": {
+  "en": "Off the drawn routes, or at Slow pace in the wild, the navigator makes a DC 12 Wisdom (Survival) check per circle (DC 15 in fog, desert storms or Hifuna). On a failure, that circle takes **one extra day**. Maps (1 amethyst; 1 aquamarine for detailed ones) or a local guide grant advantage.",
+  "t": "خارج الطرق المرسومة، أو بالإيقاع البطيء في البرية، يُجري الدليل اختبار حكمة (النجاة) DC 12 لكل دائرة (DC 15 في الضباب أو العواصف الصحراوية أو هيفونا). وعند الفشل، تستغرق تلك الدائرة **يومًا إضافيًا**. والخرائط (1 أميثيست؛ و1 أكوامارين للمفصّلة) أو دليل محلي تمنح أفضلية."
+ },
+ "e7b27351360d": {
+  "en": "**Slow**",
+  "t": "**بطيئة**"
+ },
+ "f4e589953c66": {
+  "en": "1. Count circles",
+  "t": "1. عُدّ الدوائر"
+ },
+ "f6a81fcdd924": {
+  "en": "Ferries, elevators, boats and mail",
+  "t": "العبّارات والمصاعد والقوارب والبريد"
+ },
+ "fb216e9e20ca": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer:",
+  "t": "**كل دائرة تمثل يومًا أو يومين أو ثلاثة أيام من السفر. ويختار مدير اللعبة**، رحلةً برحلة، ليجعل الطريق أقصر أو أطول:"
+ },
+ "ffe392d8b0a9": {
+  "en": "The knob is a **storytelling tool**, not physics. The DM can set it once for the whole trip or change it per leg when the terrain changes (Fast along a road, Slow once the party heads into the swamp).",
+  "t": "المقبض **أداة للسرد**، لا فيزياء. يمكن لمدير اللعبة ضبطه مرة للرحلة كلها أو تغييره لكل مرحلة حين تتغير التضاريس (سريعة على الطريق، بطيئة حالما يدخل الفريق المستنقع)."
  }
 }

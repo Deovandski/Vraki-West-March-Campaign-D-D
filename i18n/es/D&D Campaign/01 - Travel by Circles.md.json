@@ -1,26 +1,206 @@
 {
+ "16c2ba8e971a": {
+  "en": "Getting lost",
+  "t": "Perderse"
+ },
+ "195e8301ca04": {
+  "en": "**Food:** 1 ration per person per day (~2–5 pearls in town). Hunting/foraging for a shift: DC 12 Wisdom (Survival) feeds 1d4 people for a day (DC 15 in Slow-pace country).",
+  "t": "**Comida:** 1 ración por persona y día (~2–5 pearls en el pueblo). Cazar/forrajear durante un turno: una prueba de Sabiduría (Supervivencia) DC 12 alimenta a 1d4 personas durante un día (DC 15 en terreno de ritmo Lento)."
+ },
+ "25066a3e5d92": {
+  "en": "Good roads, riding Eguas, traveling light, boats on open sea, or the DM wants to get to the action",
+  "t": "Buenos caminos, montando Eguas, viajando ligeros, barcos en mar abierto, o el DM quiere ir directo a la acción"
+ },
+ "27da02ce5cf1": {
+  "en": "Follow the circles from where the party is to where it wants to go and count them. That count is the length of the trip. Count every circle on the way: a circle next to a town counts for every road that leaves from it, and circles shared by two roads count on both.",
+  "t": "Sigue los círculos desde donde está el grupo hasta donde quiere ir y cuéntalos. Ese número es la longitud del viaje. Cuenta todos los círculos del camino: un círculo junto a un pueblo cuenta para cada camino que sale de él, y los círculos que comparten dos caminos cuentan en ambos."
+ },
+ "313717e5ae00": {
+  "en": "**Eguas:** no speed or load math. An Egua lets the party carry loot and gear (a pack Egua carries what a wagon would) and is a good reason for **Fast** pace on roads. It eats by grazing during Morning and Night; in deserts or Hifuna, bring Carbey (about 1 pearl a day). A wagon on bad terrain is a good reason for Slow.",
+  "t": "**Eguas:** sin cuentas de velocidad ni de carga. Un Egua permite al grupo llevar botín y equipo (un Egua de carga lleva lo que llevaría un carro) y es un buen motivo para ir a ritmo **Rápido** por los caminos. Come pastando durante la Mañana y la Noche; en desiertos o en Hifuna, lleva Carbey (más o menos 1 pearl al día). Un carro en terreno malo es un buen motivo para ir Lento."
+ },
  "317cd7815399": {
   "en": "12pm–6pm",
   "t": "12:00–18:00"
+ },
+ "34b110686e5c": {
+  "en": "**Standard**",
+  "t": "**Normal**"
  },
  "35fc7a0d2c1c": {
   "en": "What happens",
   "t": "Qué pasa"
  },
+ "430fead4b0dc": {
+  "en": "Decide who keeps watch (if anyone). The DM rolls for events.",
+  "t": "Decidid quién hace guardia (si alguien la hace). El DM tira por los eventos."
+ },
+ "479682595014": {
+  "en": "Quick reference",
+  "t": "Referencia rápida"
+ },
+ "49f25a00b833": {
+  "en": "Normal travel: walking or a wagon on roads and trails, mixed terrain",
+  "t": "Viaje normal: a pie o en carro por caminos y senderos, terreno variado"
+ },
  "4ca775823b63": {
   "en": "6am–12pm",
   "t": "6:00–12:00"
+ },
+ "58fb35dccbbb": {
+  "en": "The party can push one step faster than the DM's knob (Slow → Standard, Standard → Fast) for a circle. Everyone makes a DC 12 Constitution save at the end of that circle or gains a level of exhaustion. Eguas pushed too hard get cranky (and kick).",
+  "t": "El grupo puede ir un paso más rápido que el ritmo del DM (Lento → Normal, Normal → Rápido) durante un círculo. Al final de ese círculo, todos hacen una tirada de salvación de Constitución DC 12 o ganan un nivel de cansancio. Los Eguas forzados demasiado se ponen de mal humor (y cocean)."
+ },
+ "5cb33ec9f3d0": {
+  "en": "**Morning**",
+  "t": "**Mañana**"
+ },
+ "5d20f9f80cab": {
+  "en": "**Count the circles. Each circle is 1, 2 or 3 days — the DM chooses.** Roll events per shift (or per circle). Feed people and eguas. Get home before the quest deadline.",
+  "t": "**Cuenta los círculos. Cada círculo son 1, 2 o 3 días — lo elige el DM.** Tira eventos por turno (o por círculo). Alimenta a la gente y a los eguas. Vuelve a casa antes de que venza el plazo de la misión."
+ },
+ "5ef241d8588e": {
+  "en": "Time",
+  "t": "Hora"
+ },
+ "6454736e2bcb": {
+  "en": "**Winga mail** flies much faster than people: about **one day for every three circles**.",
+  "t": "El **correo por Winga** vuela mucho más rápido que la gente: aproximadamente **un día por cada tres círculos**."
+ },
+ "64d246f50000": {
+  "en": "Pace",
+  "t": "Ritmo"
+ },
+ "65b5c88ed8ea": {
+  "en": "2. Set the pace knob",
+  "t": "2. Ajusta el ritmo"
+ },
+ "6e6497e68381": {
+  "en": "**Afternoon**",
+  "t": "**Tarde**"
+ },
+ "73b24b45ee6c": {
+  "en": "**Night**",
+  "t": "**Noche**"
+ },
+ "7b937334d4d2": {
+  "en": "**Boats** along the coast or between islands are usually a good fit for **Fast**. Passage costs about 5 pearls per person per circle on a merchant boat.",
+  "t": "Los **barcos** por la costa o entre islas suelen encajar bien con el ritmo **Rápido**. El pasaje cuesta unas 5 pearls por persona y círculo en un barco mercante."
+ },
+ "7ccbb0cf31bb": {
+  "en": "Each shift, every character picks one thing: **travel**, **keep watch**, **rest**, **hunt/forage**, **scout** (with a companion like a Sayna, Winga or Sorefaries), **repair**, **prep** (nari gels, sigil rings, traps), or **socialize** (in town or with other caravans: barter, flirt, gamble, gossip, steal). Travel is assumed to happen during the day; the circle count already covers it.",
+  "t": "En cada turno, cada personaje elige una cosa: **viajar**, **hacer guardia**, **descansar**, **cazar/forrajear**, **explorar** (con un compañero como un Sayna, un Winga o un sorefaries), **reparar**, **preparar** (geles de nari, anillos de sigilo, trampas) o **socializar** (en el pueblo o con otras caravanas: trueque, ligoteo, apuestas, chismes, robos). Se da por hecho que el viaje ocurre durante el día; el número de círculos ya lo cubre."
+ },
+ "7e29a7491056": {
+  "en": "Each day has four **shifts**, kept from the Alpha campaign:",
+  "t": "Cada día tiene cuatro **turnos**, heredados de la campaña Alpha:"
+ },
+ "7e6ddea17dc2": {
+  "en": "Forget kilometers, Egua speeds and load math. The **travel map** (see [Maps](../Maps)) has **circles drawn along the routes connecting places**. Travel is counted in circles.",
+  "t": "Olvídate de kilómetros, velocidades de Egua y cuentas de carga. El **mapa de viaje** (ver [Mapas](../Maps)) tiene **círculos dibujados a lo largo de las rutas que unen los lugares**. Los viajes se cuentan en círculos."
+ },
+ "7f572dc9e234": {
+  "en": "Shift",
+  "t": "Turno"
+ },
+ "85c45484eda0": {
+  "en": "Players choose actions. The DM rolls for events.",
+  "t": "Los jugadores eligen acciones. El DM tira por los eventos."
  },
  "86f987d184bb": {
   "en": "6pm–12am",
   "t": "18:00–24:00"
  },
+ "87abbc083d54": {
+  "en": "**Water:** only matters in the desert and on the plateau's dry stretches (see Dangerous Places).",
+  "t": "**Agua:** solo importa en el desierto y en los tramos secos de la meseta (ver Lugares peligrosos)."
+ },
+ "9a9437371218": {
+  "en": "Supplies",
+  "t": "Provisiones"
+ },
+ "a2affa5c1784": {
+  "en": "**Graveyard**",
+  "t": "**Madrugada**"
+ },
+ "a2ba28be6f28": {
+  "en": "Some lengths from the map: **Forway to Sanbi is 6 circles**, Forway to Flatland 7, Sanbi to Endlessfog 13 (by sea), Gandew to Sundeath 19 (across the desert). The [route lengths table](../Maps/README.md#route-lengths) has every road and sea lane. For a trip through several towns, add up the legs: Forway → Sanbi → Cruro is 6 + 10 = 16 circles.",
+  "t": "Algunas longitudes del mapa: **de Forway a Sanbi hay 6 círculos**, de Forway a Flatland 7, de Sanbi a Endlessfog 13 (por mar), de Gandew a Sundeath 19 (cruzando el desierto). La [tabla de longitudes de ruta](../Maps/README.md#route-lengths) tiene todos los caminos y rutas marítimas. Para un viaje por varios pueblos, suma los tramos: Forway → Sanbi → Cruro son 6 + 10 = 16 círculos."
+ },
+ "a49f632d76ed": {
+  "en": "Good fit when…",
+  "t": "Encaja bien cuando…"
+ },
+ "ae4c35ed5caa": {
+  "en": "3. Play out the days (or skip them)",
+  "t": "3. Juega los días (o sáltatelos)"
+ },
+ "b26f56e2fa18": {
+  "en": "Players choose actions. The DM may roll for events.",
+  "t": "Los jugadores eligen acciones. El DM puede tirar por los eventos."
+ },
+ "b2731f205f46": {
+  "en": "Event rolls are in [Events & Encounters](07%20-%20Events%20&%20Encounters.md). To keep long trips quick, the DM can roll **once per circle** instead of every shift — another knob.",
+  "t": "Las tiradas de eventos están en [Eventos y encuentros](07%20-%20Events%20&%20Encounters.md). Para que los viajes largos vayan rápido, el DM puede tirar **una vez por círculo** en lugar de en cada turno — otro ajuste."
+ },
+ "b2a519a7f929": {
+  "en": "Off-road forest, swamp, desert, mountains, the Buhraies Plains, heavy wagons or caravans, bad weather, Hifuna, or the DM wants the journey to *be* the adventure",
+  "t": "Bosque sin caminos, pantano, desierto, montañas, las Llanuras de Buhraies, carros pesados o caravanas, mal tiempo, Hifuna, o el DM quiere que el viaje *sea* la aventura"
+ },
+ "b35c6da82a74": {
+  "en": "**Fast**",
+  "t": "**Rápido**"
+ },
+ "b5d0861141b8": {
+  "en": "The **Deltacross ferry** and the **Waterfall elevators** don't add time; they cost balls (see World Lore: Money).",
+  "t": "El **transbordador de Deltacross** y los **ascensores de Waterfall** no añaden tiempo; cuestan bolas (ver World Lore: Dinero)."
+ },
+ "be2326901242": {
+  "en": "Travel by Circles",
+  "t": "Viajar por círculos"
+ },
+ "c4e5ccb9e986": {
+  "en": "Pushing it",
+  "t": "Forzar la marcha"
+ },
  "c62c3d9454a5": {
   "en": "12am–6am",
   "t": "0:00–6:00"
  },
+ "d0d49d2915d8": {
+  "en": "**Days = circles × the DM's pace (1, 2 or 3).** Forway to Sanbi, 6 circles: 6 days Fast, 12 Standard, 18 Slow.",
+  "t": "**Días = círculos × el ritmo del DM (1, 2 o 3).** De Forway a Sanbi, 6 círculos: 6 días a ritmo Rápido, 12 a Normal, 18 a Lento."
+ },
+ "d52adc720abc": {
+  "en": "Going somewhere with no circles drawn — off the routes, into unexplored land? The DM decides how many circles the trip is worth, or draws new ones on the shared map.",
+  "t": "¿Vais a algún sitio sin círculos dibujados — fuera de las rutas, a tierras sin explorar? El DM decide cuántos círculos vale el viaje, o dibuja otros nuevos en el mapa compartido."
+ },
  "d5e802f2f64a": {
   "en": "Days per circle",
   "t": "Días por círculo"
+ },
+ "da5495effc27": {
+  "en": "Off the drawn routes, or at Slow pace in the wild, the navigator makes a DC 12 Wisdom (Survival) check per circle (DC 15 in fog, desert storms or Hifuna). On a failure, that circle takes **one extra day**. Maps (1 amethyst; 1 aquamarine for detailed ones) or a local guide grant advantage.",
+  "t": "Fuera de las rutas dibujadas, o a ritmo Lento en tierras salvajes, quien guía hace una prueba de Sabiduría (Supervivencia) DC 12 por círculo (DC 15 con niebla, tormentas del desierto o en Hifuna). Si falla, ese círculo lleva **un día más**. Los mapas (1 amethyst; 1 aquamarine los detallados) o un guía local dan ventaja."
+ },
+ "e7b27351360d": {
+  "en": "**Slow**",
+  "t": "**Lento**"
+ },
+ "f4e589953c66": {
+  "en": "1. Count circles",
+  "t": "1. Cuenta los círculos"
+ },
+ "f6a81fcdd924": {
+  "en": "Ferries, elevators, boats and mail",
+  "t": "Transbordadores, ascensores, barcos y correo"
+ },
+ "fb216e9e20ca": {
+  "en": "**Each circle represents 1, 2 or 3 days of travel. The DM chooses**, trip by trip, to make the journey shorter or longer:",
+  "t": "**Cada círculo representa 1, 2 o 3 días de viaje. Lo elige el DM**, viaje a viaje, para hacer el trayecto más corto o más largo:"
+ },
+ "ffe392d8b0a9": {
+  "en": "The knob is a **storytelling tool**, not physics. The DM can set it once for the whole trip or change it per leg when the terrain changes (Fast along a road, Slow once the party heads into the swamp).",
+  "t": "El ritmo es una **herramienta narrativa**, no física. El DM puede fijarlo una vez para todo el viaje o cambiarlo por tramos cuando cambia el terreno (Rápido por un camino, Lento en cuanto el grupo se mete en el pantano)."
  }
 }

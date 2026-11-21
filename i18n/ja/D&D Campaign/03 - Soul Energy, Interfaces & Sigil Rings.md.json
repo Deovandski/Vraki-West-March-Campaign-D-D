@@ -1,10 +1,434 @@
 {
+ "003674fa1bc3": {
+  "en": "**Finaies interface** — air-drawn elemental spells; nobody living in the south knows it.",
+  "t": "**フィナイエスのインターフェース** — 空中に描く元素の呪文。南に生きる者で知っている者はいない。"
+ },
+ "0224e8cfb203": {
+  "en": "III",
+  "t": "III"
+ },
+ "0f796c865397": {
+  "en": "V",
+  "t": "V"
+ },
+ "112d2d3d8092": {
+  "en": "Body RESTORE (mass)",
+  "t": "ボディ・リストア（集団）"
+ },
+ "146d6a98d21b": {
+  "en": "Steam/Dust/Ash CREATE",
+  "t": "スチーム／ダスト／アッシュ・クリエイト"
+ },
+ "19b83a5f4da5": {
+  "en": "Tiers = spell levels",
+  "t": "ティア ＝ 呪文レベル"
+ },
  "1a8c48eeb141": {
   "en": "Price",
   "t": "値段"
  },
+ "1abfc1fdfb47": {
+  "en": "Body RESTORE",
+  "t": "ボディ・リストア"
+ },
+ "1dd0bba188f3": {
+  "en": "VII",
+  "t": "VII"
+ },
+ "1ebf1bdc648e": {
+  "en": "5e spell",
+  "t": "第5版の呪文"
+ },
+ "2153386a308b": {
+  "en": "VIII",
+  "t": "VIII"
+ },
+ "25cfbc1b065c": {
+  "en": "Other interfaces",
+  "t": "その他のインターフェース"
+ },
+ "28d197df8bb1": {
+  "en": "*message*",
+  "t": "*メッセージ*"
+ },
+ "28dc941a1d1d": {
+  "en": "A ring is set to one Tier when carved; a higher-Tier ring of the same spell costs more.",
+  "t": "指輪は刻んだときに一つのティアに固定される。同じ呪文でティアが高い指輪は値段も高い。"
+ },
+ "2902c8870ee2": {
+  "en": "*mending*",
+  "t": "*メンディング*"
+ },
+ "2c4812a1bc1c": {
+  "en": "3 aquamarines",
+  "t": "3アクアマリン"
+ },
+ "2cde69542999": {
+  "en": "Object INCREASE/DECREASE",
+  "t": "オブジェクト・インクリース／ディクリース"
+ },
+ "2d3384c7f8ae": {
+  "en": "**Banned:** blank rings (except for courtroom scientists and Aquamarine+ adventurers), and destructive Body rings outside guard/army use.",
+  "t": "**禁止：** 何も刻んでいない指輪（宮廷科学者とアクアマリン以上の冒険者を除く）と、衛兵や軍以外での破壊的なボディの指輪。"
+ },
+ "2f0094f1a58d": {
+  "en": "*fog cloud*",
+  "t": "*フォッグ・クラウド*"
+ },
+ "35abad070d06": {
+  "en": "**Spell attack bonus** = your proficiency bonus + your highest mental modifier (Int, Wis or Cha). **Save DC** = 8 + the same.",
+  "t": "**呪文攻撃ボーナス** ＝ 習熟ボーナス＋精神系能力値の修正値のうち最も高いもの（【知】【判】【魅】）。**セーヴのDC** ＝ 8＋同じもの。"
+ },
+ "3a09af548f15": {
+  "en": "Ice CREATE (shard)",
+  "t": "アイス・クリエイト（破片）"
+ },
+ "3a5a61354294": {
+  "en": "*fire bolt*",
+  "t": "*ファイアー・ボルト*"
+ },
+ "3d2996729e78": {
+  "en": "*lightning bolt*",
+  "t": "*ライトニング・ボルト*"
+ },
+ "3f62b2cb960a": {
+  "en": "Gravity ATTRACT (self)",
+  "t": "グラビティ・アトラクト（自分）"
+ },
+ "40015e64b136": {
+  "en": "*fireball*",
+  "t": "*ファイアーボール*"
+ },
+ "40a73598aafb": {
+  "en": "Water CREATE / ATTRACT",
+  "t": "ウォーター・クリエイト／アトラクト"
+ },
+ "4117cd44db38": {
+  "en": "To revive someone in the field you need **Body RESTORE** to fix the body (enough Tier to heal the damage), **Storm CREATE** to restart the heart, and something energy-dense like **black honey** to feed the healing. Mechanically: *revivify* (Tier III) within its normal limit, or the embassy's service. See [Death, Revival & Debt](05%20-%20Death,%20Revival%20&%20Debt.md).",
+  "t": "現場で誰かを蘇生させるには、体を直す**ボディ・リストア**（傷を治せるだけのティア）、心臓を再始動させる**ストーム・クリエイト**、そして治癒の燃料になる**黒い蜜**のようなエネルギーの濃いものが必要だ。ルール上は、通常の制限内での*リヴィヴィファイ*（ティアIII）か、大使館のサービス。[死、蘇生、借金](05%20-%20Death,%20Revival%20&%20Debt.md)を参照。"
+ },
+ "42ea9981654a": {
+  "en": "Body RESTORE (Tier VI)",
+  "t": "ボディ・リストア（ティアVI）"
+ },
+ "43c84af91dd4": {
+  "en": "**Darfaries veins** sense soul energy (see Making an Adventurer).",
+  "t": "**ダルファリエスの血管**は魂のエネルギーを感じ取る（「冒険者の作り方」を参照）。"
+ },
+ "44a19e6a97a9": {
+  "en": "Ring (OBJECT + VERB)",
+  "t": "指輪（オブジェクト＋ヴァーブ）"
+ },
+ "44c1f47383f1": {
+  "en": "I",
+  "t": "I"
+ },
+ "44e7219cfe8e": {
+  "en": "Sapphire quests only",
+  "t": "サファイアの依頼のみ"
+ },
+ "47a109fff355": {
+  "en": "Casting with spell slots (class casters)",
+  "t": "呪文スロットで唱える（クラスの呪文使い）"
+ },
+ "4b440302cbe6": {
+  "en": "Sigil rings (everyone with a Darfaries interface)",
+  "t": "シジルリング（ダルファリエスのインターフェースを持つ全員）"
+ },
+ "4d3babe3e234": {
+  "en": "ENTANGLE (shared hearing)",
+  "t": "エンタングル（聴覚の共有）"
+ },
+ "4d4610dbbece": {
+  "en": "IV",
+  "t": "IV"
+ },
+ "4daadca81641": {
+  "en": "**Maximum SP** = proficiency bonus + Constitution modifier (minimum 1). Your badge shows your current SP.",
+  "t": "**SPの最大値** ＝ 習熟ボーナス＋【耐久力】修正値（最低1）。身分証に現在のSPが表示される。"
+ },
+ "4e1a9aa734ed": {
+  "en": "Gravity DECREASE (self)",
+  "t": "グラビティ・ディクリース（自分）"
+ },
+ "503e552ec2e8": {
+  "en": "Fire CREATE (fan)",
+  "t": "ファイア・クリエイト（扇）"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30パール"
+ },
+ "542ddb61f31b": {
+  "en": "Mud CREATE",
+  "t": "マッド・クリエイト"
+ },
+ "56bd243fc156": {
+  "en": "**Eat something alive** (or freshly killed) that has a soul: regain 1 SP (once per day).",
+  "t": "魂を持つ**生きたもの**（または仕留めたばかりのもの）**を食べる**：1 SP回復する（1日に1回）。"
+ },
+ "5770f35f943b": {
+  "en": "Water Gravity ATTRACT",
+  "t": "ウォーター・グラビティ・アトラクト"
+ },
+ "5b8cb352f94a": {
+  "en": "Fire CREATE (spark)",
+  "t": "ファイア・クリエイト（火花）"
+ },
+ "5e0c8185e7bd": {
+  "en": "Body RESTORE + Storm CREATE (revival kit, two rings)",
+  "t": "ボディ・リストア＋ストーム・クリエイト（蘇生キット、指輪二つ）"
+ },
+ "5fef4014f446": {
+  "en": "*levitate* / *spider climb*",
+  "t": "*レヴィテート*／*スパイダー・クライム*"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1サファイア"
+ },
+ "686a29cec5ee": {
+  "en": "**Recovering SP:**",
+  "t": "**SPの回復：**"
+ },
+ "687dee7894ae": {
+  "en": "Shock CREATE (touch)",
+  "t": "ショック・クリエイト（接触）"
+ },
+ "6a5182000767": {
+  "en": "Soul Energy, Interfaces & Sigil Rings",
+  "t": "魂のエネルギー、インターフェース、シジルリング"
+ },
+ "6a623c2b702a": {
+  "en": "Unchanged. Your class magic is your soul energy flowing through your interface; even a \"pure\" human or a Cruro caster has learned to shape their soul directly. Describe your spells as interfaces — rings of white flame around your forearm, the \"eating\" gesture, the kick when you release.",
+  "t": "変更なし。クラスの魔法とは、あなたのインターフェースを流れる魂のエネルギーだ。「純粋な」人間やクルロの呪文使いでさえ、魂を直接形作る方法を身につけている。呪文はインターフェースとして描写しよう — 前腕のまわりの白い炎の輪、「食べる」しぐさ、放つときの反動。"
+ },
+ "6ba01baccd3d": {
+  "en": "**Buhraies interface** (logograms carved into the palm) can alter bodies and souls permanently. Only for NPCs, villains, or an epic campaign reward.",
+  "t": "**ブライエスのインターフェース**（手のひらに刻んだ表語文字）は、体と魂を永久に変えられる。NPC、悪役、あるいは壮大なキャンペーンの報酬に限る。"
+ },
+ "6e37e16b5e62": {
+  "en": "*create or destroy water*, *shape water*",
+  "t": "*クリエイト・オア・デストロイ・ウォーター*、*シェイプ・ウォーター*"
+ },
+ "700033fb76ff": {
+  "en": "*shocking grasp*",
+  "t": "*ショッキング・グラスプ*"
+ },
+ "7346ff374941": {
+  "en": "**Fueling slots with stones or SP:** as part of casting a spell you know or have prepared, a caster may spend **nari stones and/or SP equal to the Tier** (table above) instead of expending a spell slot. You can only do this for a Tier you have spell slots for, and you can do it **as often as you have the stones** — stones are expensive, and that's the limit.",
+  "t": "**石やSPでスロットをまかなう：** 知っているか準備している呪文を唱える際、呪文使いは呪文スロットを消費する代わりに、**ティアに等しいナリストーンおよび／またはSP**（上の表）を使ってよい。これができるのは呪文スロットを持っているティアだけだが、**石がある限り何度でも**できる — 石は高価で、それが限度だ。"
+ },
+ "75bb02d2c64b": {
+  "en": "IX",
+  "t": "IX"
+ },
+ "768fdcfcdff8": {
+  "en": "*lesser restoration*",
+  "t": "*レッサー・レストレーション*"
+ },
+ "7f08efd02e9d": {
+  "en": "You can wear up to **four** rings (two per hand). Swapping a ring takes an action.",
+  "t": "指輪は**四つ**まで（片手に二つずつ）はめられる。指輪の交換にはアクションがかかる。"
+ },
+ "81d3be213c75": {
+  "en": "*feather fall* / *jump*",
+  "t": "*フェザー・フォール*／*ジャンプ*"
+ },
+ "85a5ad234b1c": {
+  "en": "*regenerate*",
+  "t": "*リジェネレート*"
+ },
+ "89d2af6be829": {
+  "en": "Storm CREATE (heart jolt)",
+  "t": "ストーム・クリエイト（心臓への衝撃）"
+ },
+ "8bc514a994fe": {
+  "en": "Without a ring, you can draw the logograms on your palm (1 minute, needs ink or a blade). Make an Intelligence (Arcana) check, **DC 10 + 2 × Tier**. On a failure, the spell defaults to whatever's on your mind: the DM picks a weird result, or it **explodes** for 1d6 fire damage per Tier to you. Forbidden inside city and kingdom limits.",
+  "t": "指輪がなければ、手のひらに表語文字を描いてもよい（1分、インクか刃物が必要）。【知力】〈魔法学〉判定を行う。**DC 10 ＋ 2 × ティア**。失敗すると、呪文はあなたの頭の中にあるものに置き換わる：DMが奇妙な結果を選ぶか、呪文が**爆発**してティアごとに1d6の火ダメージをあなたに与える。都市や王国の領内では禁止。"
+ },
+ "8cd7920b835a": {
+  "en": "Tier",
+  "t": "ティア"
+ },
+ "8ea74dfbb98a": {
+  "en": "*revivify*",
+  "t": "*リヴィヴィファイ*"
+ },
+ "8f4aab6a212e": {
+  "en": "*shatter*",
+  "t": "*シャター*"
+ },
+ "912cfd420a9b": {
+  "en": "Magic in Vraki is **soul energy** pushed through an **interface**. These rules sit on top of normal 5e spellcasting: class casters keep their spell slots; everyone else gets access to magic through **sigil rings** and **nari stones**.",
+  "t": "ヴラキの魔法とは、**インターフェース**を通して押し出される**魂のエネルギー**のことだ。これらのルールは第5版の通常の呪文発動に上乗せされる：クラスの呪文使いは呪文スロットをそのまま使い、それ以外の誰もが**シジルリング**と**ナリストーン**を通じて魔法を使える。"
+ },
+ "917d9104bc2a": {
+  "en": "*control water*",
+  "t": "*コントロール・ウォーター*"
+ },
+ "93b13e54c867": {
+  "en": "Gravity REPEL",
+  "t": "グラビティ・リペル"
+ },
  "95c9ac590ccb": {
   "en": "1 amethyst",
   "t": "1アメジスト"
+ },
+ "9855ea968dee": {
+  "en": "DMs: add any ring that fits \"OBJECT + VERB\". Element list: fire, water, ice, storm, steam, wind, earth, frozen earth, mud, lava, shock, dust, ash, gravity.",
+  "t": "DMへ：「オブジェクト＋ヴァーブ」に当てはまる指輪なら何でも追加してよい。元素の一覧：火、水、氷、嵐、蒸気、風、土、凍土、泥、溶岩、電撃、塵、灰、重力。"
+ },
+ "99dad3060470": {
+  "en": "*spare the dying* (and needed for revival)",
+  "t": "*スペア・ザ・ダイイング*（蘇生にも必要）"
+ },
+ "9ae7d8566d73": {
+  "en": "II",
+  "t": "II"
+ },
+ "9e542d9d3968": {
+  "en": "Drawn logograms (risky)",
+  "t": "手描きの表語文字（危険）"
+ },
+ "9ee097faaabb": {
+  "en": "Storm CREATE (bolt)",
+  "t": "ストーム・クリエイト（稲妻）"
+ },
+ "a391c0ca0d8b": {
+  "en": "**Expanding your soul:** once per level, a character who spends a downtime week training at a Soul Energy school (or with a mentor) increases their maximum SP by 1 (maximum +3 total).",
+  "t": "**魂を広げる：** レベルごとに1回、魂のエネルギー学校で（または師匠のもとで）休養期間を1週間使って訓練したキャラクターは、SPの最大値が1増える（合計で最大＋3）。"
+ },
+ "a4ec948ca280": {
+  "en": "*burning hands*",
+  "t": "*バーニング・ハンズ*"
+ },
+ "a794cb6ed8a3": {
+  "en": "*thunderwave* (force, not thunder)",
+  "t": "*サンダーウェイヴ*（雷鳴ではなく力場）"
+ },
+ "a7aab77b1ef0": {
+  "en": "**Nari stones / SP needed**",
+  "t": "**必要なナリストーン／SP**"
+ },
+ "ab0aeb8031f1": {
+  "en": "Body RESTORE (Tier II)",
+  "t": "ボディ・リストア（ティアII）"
+ },
+ "aca4abec6d2a": {
+  "en": "**1 SP = 1 nari stone's worth of energy.**",
+  "t": "**1 SP ＝ ナリストーン1個分のエネルギー。**"
+ },
+ "b21f27d65692": {
+  "en": "Sigil rings carry a spell's logograms (OBJECT + VERB). Anyone with the **Darfaries Interface** trait can cast a ring's spell:",
+  "t": "シジルリングには呪文の表語文字（オブジェクト＋ヴァーブ）が刻まれている。**ダルファリエスのインターフェース**の特徴を持つ者なら誰でも、指輪の呪文を唱えられる。"
+ },
+ "b2f986b7d45b": {
+  "en": "*enlarge/reduce*",
+  "t": "*エンラージ／リデュース*"
+ },
+ "b92193c54fea": {
+  "en": "**Action** (or the spell's casting time, if longer). Clench, \"eat\" the energy, release.",
+  "t": "**アクション**（呪文の発動時間がそれより長ければその時間）。握り、エネルギーを「食べ」、放つ。"
+ },
+ "bac60c488156": {
+  "en": "*cure wounds*",
+  "t": "*キュア・ウーンズ*"
+ },
+ "c1e07714facc": {
+  "en": "**Cost:** spend nari stones and/or SP for the ring's Tier (table above). Cantrip rings cost 1 SP or 1 stone per cast.",
+  "t": "**コスト：** 指輪のティアに応じてナリストーンおよび／またはSPを使う（上の表）。初級呪文の指輪は1回の発動につき1 SPか石1個。"
+ },
+ "c82a6424b090": {
+  "en": "Fire CREATE (ball)",
+  "t": "ファイア・クリエイト（玉）"
+ },
+ "ca02f396a56e": {
+  "en": "VI",
+  "t": "VI"
+ },
+ "cecbc944bd32": {
+  "en": "*light*",
+  "t": "*ライト*"
+ },
+ "d4bdf5a82cc8": {
+  "en": "*ice knife*",
+  "t": "*アイス・ナイフ*"
+ },
+ "d4fc414a5580": {
+  "en": "**Strong emotion:** when the DM awards Inspiration, or something truly moving, terrifying, triumphant or lustful happens to you, regain 1 SP (DM's call; max once per day).",
+  "t": "**強い感情：** DMがインスピレーションを与えたとき、または本当に心を揺さぶる、恐ろしい、勝ち誇るような、あるいは欲情するような出来事が起きたとき、1 SP回復する（DMの判断。1日に1回まで）。"
+ },
+ "d5dc9be3a78e": {
+  "en": "0–I",
+  "t": "0–I"
+ },
+ "df5e1cb1497a": {
+  "en": "*grease*",
+  "t": "*グリース*"
+ },
+ "e70d3277c070": {
+  "en": "Light CREATE (Emerenthy-glow)",
+  "t": "ライト・クリエイト（エメレンシーの光）"
+ },
+ "e930a7a04687": {
+  "en": "*healing word*",
+  "t": "*ヒーリング・ワード*"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1アクアマリン"
+ },
+ "ed68cb4d720a": {
+  "en": "Finish a long rest: regain **1 SP** (about a nari stone's worth a day, as in the lore).",
+  "t": "大休憩を終える：**1 SP**回復する（設定どおり、1日にナリストーン1個分ほど）。"
+ },
+ "edb9652f8c34": {
+  "en": "*ray of frost*",
+  "t": "*レイ・オヴ・フロスト*"
+ },
+ "f103987cea97": {
+  "en": "**Soul drain:** some monsters drain SP. If a drain would take you below 0 SP, you gain a level of exhaustion instead.",
+  "t": "**魂の吸収：** SPを吸い取る怪物もいる。吸収で0 SP未満になる場合は、代わりに消耗レベルを1得る。"
+ },
+ "f2eb49b02f65": {
+  "en": "6 aquamarines (pair)",
+  "t": "6アクアマリン（二つ一組）"
+ },
+ "f47f2bbef7e0": {
+  "en": "Revival magic",
+  "t": "蘇生の魔法"
+ },
+ "f82d80a07f40": {
+  "en": "A **Nari Worm egg** restores up to 4 SP.",
+  "t": "**ナリワームの卵**は最大4 SPを回復する。"
+ },
+ "f85aa0f090c3": {
+  "en": "World DESTROY",
+  "t": "ワールド・デストロイ"
+ },
+ "f995aeed9c73": {
+  "en": "2 amethysts",
+  "t": "2アメジスト"
+ },
+ "f9dc3f4b20fa": {
+  "en": "Soul Points (SP)",
+  "t": "ソウルポイント（SP）"
+ },
+ "fb5a7abc60b2": {
+  "en": "Ice CREATE (frost ball)",
+  "t": "アイス・クリエイト（霜の玉）"
+ },
+ "fc9aca9a08ec": {
+  "en": "World RESTORE (un-rust)",
+  "t": "ワールド・リストア（さび落とし）"
+ },
+ "feff6e7b97c7": {
+  "en": "A spell's **level** is its **Tier** (a 3rd-level spell is a Tier III spell). Cantrips are Tier 0. Energy doubles each tier:",
+  "t": "呪文の**レベル**はその**ティア**だ（3レベル呪文はティアIIIの呪文）。初級呪文はティア0。エネルギーはティアごとに倍になる。"
+ },
+ "ffd83be3e310": {
+  "en": "Ring catalog (Soul Energy shops)",
+  "t": "指輪の品ぞろえ（魂のエネルギーの店）"
  }
 }

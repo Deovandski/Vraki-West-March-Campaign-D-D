@@ -1,4 +1,8 @@
 {
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "ナリジェルと装備"
+ },
  "1a8c48eeb141": {
   "en": "Price",
   "t": "値段"
@@ -23,13 +27,33 @@
   "en": "**Time Quicken**",
   "t": "**タイム・クイックン**"
  },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**重ねがけ：** 違うジェルならいくつか重ねがけできる（DMの判断）。同じジェルは重ねられない — 高いほうのティアを使う。"
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**食べる（粗いもの）：** アクション。効果はあなたの次のターンの終わりに始まる。持続は**1d4日**。"
+ },
  "4446426affd0": {
   "en": "**Time Slower**",
   "t": "**タイム・スロウワー**"
  },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "卓上でのナリジェル"
+ },
  "4913580e8dc4": {
   "en": "**Nari Refresher**",
   "t": "**ナリ・リフレッシャー**"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30パール"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1サファイア"
  },
  "721d81354ff2": {
   "en": "**Arm Light**",
@@ -63,13 +87,33 @@
   "en": "**Sayna Hearing**",
   "t": "**サイナ・ヒアリング**"
  },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**早めに終わらせる：** 同じかそれ以上のティアの**ナリ・リフレッシャー**は、あなたにかかっているジェルの効果をすべて終わらせる。"
+ },
  "ca38faeb8b69": {
   "en": "**Winga Skin**",
   "t": "**ウィンガ・スキン**"
  },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**注射する（細かいもの、値段は2倍）：** 注射器を使うボーナス・アクション。効果はすぐに始まる。持続は**1日**。"
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**吸収：** ティアI–IIのジェルには追加のコストはない。**ティアIII**のジェルが効いているあいだは、大休憩でSPを回復しない。**ティアIV**のジェルが効いているあいだは、毎朝1 SPを失う（0 SPなら、代わりに消耗レベルを1得る）。"
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**痛み：** ティアIIIとIVのジェルは体が作り変わるあいだ痛む。粗いもの：2d6（ティアIII）か4d6（ティアIV）の精神ダメージを受け、次のターンの終わりまで毒状態になる。細かいもの：ダメージなし。"
+ },
  "d6ebb461546e": {
   "en": "**Winga Flight**",
   "t": "**ウィンガ・フライト**"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "**瓶**1つ（~200 g）には**4さじ**入っている。**ティアIなら1さじ、ティアIIなら2さじ、ティアIIIなら3さじ、ティアIVなら4さじ全部**を食べる。つまり瓶1つ ＝ ティアIの4回分、またはティアIVの1回分。"
  },
  "da61db8cfc3a": {
   "en": "**Water Breath**",
@@ -86,6 +130,10 @@
  "eb91adeacae1": {
   "en": "**Smooth Skin**",
   "t": "**スムーズ・スキン**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1アクアマリン"
  },
  "f772ffe3cc33": {
   "en": "**Smooth Gut**",

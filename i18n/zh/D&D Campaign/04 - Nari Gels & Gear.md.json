@@ -1,4 +1,8 @@
 {
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "纳里凝胶与装备"
+ },
  "1a8c48eeb141": {
   "en": "Price",
   "t": "价格"
@@ -23,13 +27,33 @@
   "en": "**Time Quicken**",
   "t": "**泰姆奎肯**"
  },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**叠加：** 几种不同的凝胶可以叠加（由DM判断）；同一种凝胶不能和自己叠加——取较高的等级。"
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**吃（粗制）：** 动作。效果在你下个回合结束时开始。持续**1d4天**。"
+ },
  "4446426affd0": {
   "en": "**Time Slower**",
   "t": "**泰姆斯洛沃**"
  },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "游戏桌上的纳里凝胶"
+ },
  "4913580e8dc4": {
   "en": "**Nari Refresher**",
   "t": "**纳里里弗雷舍**"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30珀尔"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1萨菲尔"
  },
  "721d81354ff2": {
   "en": "**Arm Light**",
@@ -63,13 +87,33 @@
   "en": "**Sayna Hearing**",
   "t": "**赛纳希尔林**"
  },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**提前结束：** 同级或更高级的**纳里里弗雷舍**能结束你身上所有的凝胶效果。"
+ },
  "ca38faeb8b69": {
   "en": "**Winga Skin**",
   "t": "**温加斯金**"
  },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**注射（精制，价格翻倍）：** 用注射器的附赠动作。效果立即开始。持续**1天**。"
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**汲取：** 第I–II级凝胶没有额外消耗。**第III级**凝胶起效期间，你在长休时不能恢复SP。**第IV级**凝胶起效期间，你每天黎明失去1 SP（SP为0时，改为获得一级力竭）。"
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**疼痛：** 第III和第IV级凝胶在身体重塑时会疼。粗制：受到2d6（第III级）或4d6（第IV级）心灵伤害，并在你下个回合结束前处于中毒状态。精制：没有伤害。"
+ },
  "d6ebb461546e": {
   "en": "**Winga Flight**",
   "t": "**温加弗莱特**"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "一**罐**（约200克）装有**4勺**。**第I级吃1勺，第II级吃2勺，第III级吃3勺，第IV级4勺全吃**。所以一罐 = 四剂第I级，或一剂第IV级。"
  },
  "da61db8cfc3a": {
   "en": "**Water Breath**",
@@ -86,6 +130,10 @@
  "eb91adeacae1": {
   "en": "**Smooth Skin**",
   "t": "**斯穆斯斯金**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1阿夸马林"
  },
  "f772ffe3cc33": {
   "en": "**Smooth Gut**",

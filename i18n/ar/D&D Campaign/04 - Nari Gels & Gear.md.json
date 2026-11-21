@@ -1,4 +1,8 @@
 {
+ "04262c74cc48": {
+  "en": "Nari Gels & Gear",
+  "t": "جل ناري والعتاد"
+ },
  "1a8c48eeb141": {
   "en": "Price",
   "t": "السعر"
@@ -23,13 +27,33 @@
   "en": "**Time Quicken**",
   "t": "**تايم كويكن**"
  },
+ "32a195e10784": {
+  "en": "**Stacking:** a few different gels can stack (DM's call); the same gel doesn't stack with itself — use the higher tier.",
+  "t": "**التراكم:** قد تتراكم بضعة أنواع مختلفة من الجل (بتقدير مدير اللعبة)؛ والجل نفسه لا يتراكم مع نفسه — استخدم المستوى الأعلى."
+ },
+ "3e503dba723a": {
+  "en": "**Eat (coarse grade):** action. Effects start at the end of your next turn. Lasts **1d4 days**.",
+  "t": "**الأكل (درجة خشنة):** فعل. تبدأ التأثيرات في نهاية دورك التالي. وتدوم **1d4 أيام**."
+ },
  "4446426affd0": {
   "en": "**Time Slower**",
   "t": "**تايم سلوَر**"
  },
+ "466883c9e516": {
+  "en": "Nari gels at the table",
+  "t": "جل ناري على الطاولة"
+ },
  "4913580e8dc4": {
   "en": "**Nari Refresher**",
   "t": "**ناري ريفريشر**"
+ },
+ "50b156be8640": {
+  "en": "30 pearls",
+  "t": "30 بيرل"
+ },
+ "62e9ab95c515": {
+  "en": "1 sapphire",
+  "t": "1 سافاير"
  },
  "721d81354ff2": {
   "en": "**Arm Light**",
@@ -63,13 +87,33 @@
   "en": "**Sayna Hearing**",
   "t": "**ساينا هيرينغ**"
  },
+ "b9d9cae46915": {
+  "en": "**Ending early:** a **Nari Refresher** of equal or higher tier ends all gel effects on you.",
+  "t": "**الإنهاء المبكر:** **ناري ريفريشر** من مستوى مساوٍ أو أعلى يُنهي كل تأثيرات الجل عليك."
+ },
  "ca38faeb8b69": {
   "en": "**Winga Skin**",
   "t": "**وينغا سكين**"
  },
+ "cd2a838d67d2": {
+  "en": "**Inject (fine grade, double price):** bonus action with a syringe. Effects start immediately. Lasts **1 day**.",
+  "t": "**الحقن (درجة ناعمة، بضعف السعر):** فعل إضافي بحقنة. تبدأ التأثيرات فورًا. وتدوم **يومًا واحدًا**."
+ },
+ "d26d6a50c747": {
+  "en": "**Drain:** Tier I–II gels cost nothing extra. While a **Tier III** gel is active you don't regain SP on long rests. While a **Tier IV** gel is active you lose 1 SP each dawn (at 0 SP, gain a level of exhaustion instead).",
+  "t": "**الاستنزاف:** جل المستويين I–II لا يكلّف شيئًا إضافيًا. وما دام جل من **المستوى III** فعّالًا لا تستعيد SP في الاستراحات الطويلة. وما دام جل من **المستوى IV** فعّالًا تخسر 1 SP عند كل فجر (عند 0 SP، اكتسب بدلًا من ذلك مستوى من الإنهاك)."
+ },
+ "d2ce8b1191e2": {
+  "en": "**Pain:** Tier III and IV gels hurt as your body reshapes. Coarse grade: take 2d6 (Tier III) or 4d6 (Tier IV) psychic damage and you're poisoned until the end of your next turn. Fine grade: no damage.",
+  "t": "**الألم:** جل المستويين III وIV يؤلم بينما يتشكل جسدك من جديد. الدرجة الخشنة: تتلقى 2d6 (المستوى III) أو 4d6 (المستوى IV) من الضرر النفسي وتكون مسمومًا حتى نهاية دورك التالي. الدرجة الناعمة: بلا ضرر."
+ },
  "d6ebb461546e": {
   "en": "**Winga Flight**",
   "t": "**وينغا فلايت**"
+ },
+ "d7f856cc0ff6": {
+  "en": "A **jar** (~200 g) holds **4 scoops**. Eat **1 scoop for Tier I, 2 for Tier II, 3 for Tier III, all 4 for Tier IV**. So one jar = four Tier I doses, or one Tier IV dose.",
+  "t": "**الجرّة** (~200 غ) تحوي **4 ملاعق**. كُل **ملعقة للمستوى I، واثنتين للمستوى II، وثلاثًا للمستوى III، والأربع كلها للمستوى IV**. إذن الجرّة الواحدة = أربع جرعات من المستوى I، أو جرعة واحدة من المستوى IV."
  },
  "da61db8cfc3a": {
   "en": "**Water Breath**",
@@ -86,6 +130,10 @@
  "eb91adeacae1": {
   "en": "**Smooth Skin**",
   "t": "**سموث سكين**"
+ },
+ "ec3805b10a3c": {
+  "en": "1 aquamarine",
+  "t": "1 أكوامارين"
  },
  "f772ffe3cc33": {
   "en": "**Smooth Gut**",
