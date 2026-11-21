@@ -1,4 +1,8 @@
 {
+ "01e098fea153": {
+  "en": "Stones, Bombs &amp; Sundries",
+  "t": "石、爆弾、雑貨"
+ },
  "0224e8cfb203": {
   "en": "III",
   "t": "III"
@@ -6,6 +10,18 @@
  "0377b9100d91": {
   "en": "Revival is guaranteed for bodies returned within the window. Ice them.",
   "t": "期限内に持ち帰った遺体は必ず蘇生される。氷で冷やせ。"
+ },
+ "03cebd559ac2": {
+  "en": "1 am",
+  "t": "1 am"
+ },
+ "046b873af813": {
+  "en": "FORWAY EMBASSY · AMETHYST",
+  "t": "フォーウェイ大使館 · アメジスト"
+ },
+ "0519cb40c0f5": {
+  "en": "Cut out one per adventurer. The badge shows Soul Points to its bearer alone: pencil them in.<br>Max SP = proficiency bonus + Con modifier (min. 1) · +1 SP per long rest · replacement: 1 amethyst (plus questions)",
+  "t": "冒険者一人につき1枚切り抜く。身分証はソウルポイントを持ち主にだけ見せる：鉛筆で書き込もう。<br>最大SP = 習熟ボーナス＋【耐久力】修正値（最低1） · 大休憩ごとにSP +1 · 再発行：アメジスト1個（と質問攻め）"
  },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
@@ -31,6 +47,14 @@
   "en": "Place",
   "t": "場所"
  },
+ "0d22880a9c71": {
+  "en": "The <b>reward</b> is paid at the destination embassy on presentation of a delivery receipt sealed by that embassy. Revival debt owed to Forway is deducted first.",
+  "t": "<b>報酬</b>は、目的地の大使館が封印した受領書を提示すれば、その大使館で支払われる。フォーウェイへの蘇生の借金が先に差し引かれる。"
+ },
+ "0e4c7896f44d": {
+  "en": "Badge no.",
+  "t": "身分証番号"
+ },
  "0f3503e615b0": {
   "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
   "t": "一般の告知：パール1枚 · 地域の警告：アメジスト1個"
@@ -51,17 +75,49 @@
   "en": "Days",
   "t": "日数"
  },
+ "13a91eedcf36": {
+  "en": "Embassy witness",
+  "t": "大使館の立会人"
+ },
+ "13e90f0b06f5": {
+  "en": "SOUL ENERGY SUPPLY",
+  "t": "魂のエネルギーの店"
+ },
+ "15b5ac3dfb2f": {
+  "en": "Vraki West March · Handout 09 · Winga Mail Postcards",
+  "t": "Vraki West March · 配布物09 · ウィンガ便の絵はがき"
+ },
  "161984742f73": {
   "en": "AMETHYST QUEST · CARGO PROTECTION",
   "t": "アメジストの依頼 · 積み荷の護衛"
+ },
+ "165f4227995d": {
+  "en": "Body RESTORE, mass <i>healing word</i>",
+  "t": "ボディ・リストア、集団 <i>ヒーリング・ワード</i>"
+ },
+ "16cd5cb511ee": {
+  "en": "Storm CREATE, bolt <i>lightning bolt</i> (III)",
+  "t": "ストーム・クリエイト、稲妻 <i>ライトニング・ボルト</i>（III）"
  },
  "1700e6ef542b": {
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
   "t": "窓口で血の署名を。失敗時の罰金：報酬の10%。期限が過ぎると捜索隊が送られる。"
  },
+ "178243b8d81f": {
+  "en": "Vraki West March · Handout 11 · Revival Debt Certificate",
+  "t": "Vraki West March · 配布物11 · 蘇生の借金の証書"
+ },
+ "1849787a7bcc": {
+  "en": "Water CREATE / ATTRACT <i>create water, shape water</i>",
+  "t": "ウォーター・クリエイト／アトラクト <i>クリエイト・ウォーター、シェイプ・ウォーター</i>"
+ },
  "1a6ad10c01ca": {
   "en": "Before the mood reaches 6",
   "t": "機嫌が6になる前"
+ },
+ "1c2a367280d7": {
+  "en": "Smoke bomb, intense",
+  "t": "煙玉、強力"
  },
  "1d822b71ce22": {
   "en": "Pearl and up",
@@ -91,6 +147,18 @@
   "en": "Local Warnings · Forway Embassy, Floor 1 · New quests read aloud at Monnalow",
   "t": "地域の警告 · フォーウェイ大使館 1階 · 新しい依頼はモナロウで読み上げ"
  },
+ "281f2d1a139f": {
+  "en": "1 aq",
+  "t": "1 aq"
+ },
+ "282abc882a5b": {
+  "en": "WINGA MAIL POSTCARDS",
+  "t": "ウィンガ便の絵はがき"
+ },
+ "28866724c2a6": {
+  "en": "Cargo delivered",
+  "t": "引き渡した積み荷"
+ },
  "28e14253d23c": {
   "en": "5 days from signing",
   "t": "署名から5日"
@@ -99,6 +167,14 @@
   "en": "UP TO 5 SAPPHIRES",
   "t": "最大でサファイア5個"
  },
+ "29bda2b60459": {
+  "en": "15 p",
+  "t": "15 p"
+ },
+ "2a5f1b665280": {
+  "en": "CONTRACT OF<br>CARGO PROTECTION",
+  "t": "積み荷の護衛<br>契約書"
+ },
  "2be94f37330b": {
   "en": "Fall",
   "t": "秋"
@@ -106,6 +182,10 @@
  "2d6f2ef30ed8": {
   "en": "Reward",
   "t": "報酬"
+ },
+ "2dde6bf3e7ba": {
+  "en": "Signed in blood mixed with nari. To verify, press the signer's badge to the signature: the thumb spot lights up if it matches.",
+  "t": "ナリを混ぜた血で署名する。確かめるには、署名者の身分証を署名に押し当てる：一致すれば親指の跡が光る。"
  },
  "2df4a29c8aee": {
   "en": "QUEST BOARD",
@@ -119,25 +199,65 @@
   "en": "Murder",
   "t": "殺人"
  },
+ "3181089a33bb": {
+  "en": "Declared value",
+  "t": "申告価格"
+ },
  "3218e941e385": {
   "en": "INFORMATION WANTED",
   "t": "情報求む"
+ },
+ "329663f1f64e": {
+  "en": "Revival kit, two rings <i>revivify</i> (III)",
+  "t": "蘇生キット、指輪二つ <i>リヴィヴィファイ</i>（III）"
  },
  "34b16da8fcd5": {
   "en": "BY ORDER OF FORWAY LAW",
   "t": "フォーウェイの法の命により"
  },
+ "3688d6166d1e": {
+  "en": "p = pearl",
+  "t": "p = パール"
+ },
  "36931ae1b254": {
   "en": "Classifieds <span class=\"tiny\">(1 pearl per post)</span>",
   "t": "三行広告 <span class=\"tiny\">（1件パール1枚）</span>"
+ },
+ "37acc1844764": {
+  "en": "World RESTORE, un-rust <i>mending</i>",
+  "t": "ワールド・リストア、さび落とし <i>メンディング</i>"
  },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "期限"
  },
+ "39083fb03746": {
+  "en": "Sigil Rings · Tier II–IV",
+  "t": "シジルリング · ティアII–IV"
+ },
+ "3a17e5d819a0": {
+  "en": "Reward paid",
+  "t": "支払った報酬"
+ },
+ "3b5a5c60ff1e": {
+  "en": "Stay indoors. The fog drinks souls. An Aquamarine quest is posted at the embassy.",
+  "t": "外に出るな。霧は魂を飲む。大使館にアクアマリンの依頼が出ている。"
+ },
  "3c39e7786f25": {
   "en": "FORWAY NEWS",
   "t": "フォーウェイ・ニュース"
+ },
+ "3cba40fc3f89": {
+  "en": "<b>KINGDOM ALERT.</b> Waves of undead led by five commanders. All adventurers report. Everyone else: run.",
+  "t": "<b>王国警報。</b> 五人の指揮官に率いられたアンデッドの波。全冒険者は出頭せよ。それ以外の者：逃げろ。"
+ },
+ "3d0f7cf85a25": {
+  "en": "Mud CREATE <i>grease</i>",
+  "t": "マッド・クリエイト <i>グリース</i>"
+ },
+ "3dca6774179a": {
+  "en": "The route becomes impassable by the judgment of the nearest embassy (a Bahyum Rampage, a flooded Long Bridge, a Sand Worm season).",
+  "t": "最寄りの大使館の判断で、ルートが通れなくなった場合（バヒュムの暴走、水没したロング・ブリッジ、サンドワームの季節）。"
  },
  "3e6b78d7874f": {
   "en": "Player",
@@ -159,9 +279,49 @@
   "en": "Courier Wingas Shot Down",
   "t": "伝書ウィンガ撃墜"
  },
+ "437a5530cf59": {
+  "en": "The Poster dies or abandons the cargo. Delivering it anyway earns half the reward from the destination embassy.",
+  "t": "依頼者が死亡するか、積み荷を放棄した場合。それでも届ければ、目的地の大使館から報酬の半分が得られる。"
+ },
+ "43b1582b917c": {
+  "en": "Brought in by",
+  "t": "運んできた者"
+ },
+ "44212c798ab0": {
+  "en": "Vraki West March · Handout 07 · Cargo Protection Contract (back)",
+  "t": "Vraki West March · 配布物07 · 積み荷の護衛の契約書（裏）"
+ },
+ "442ebec4707d": {
+  "en": "Body arrived",
+  "t": "遺体の到着"
+ },
  "44c1f47383f1": {
   "en": "I",
   "t": "I"
+ },
+ "45118d35bedc": {
+  "en": "The <b>deadline</b> is the round trip plus half again. If the Contracted Adventurers are not back at an embassy by then, a search party is sent at their expense, and quest credit goes to the search party.",
+  "t": "<b>期限</b>は往復の日数とその半分。それまでに契約冒険者がどこかの大使館に戻っていなければ、本人たちの負担で捜索隊が送られ、依頼の功績は捜索隊のものになる。"
+ },
+ "4672c25dda89": {
+  "en": "TODAY'S<br>CASTLE<br>MOOD",
+  "t": "今日の<br>城の<br>機嫌"
+ },
+ "468812e8276c": {
+  "en": "Still owed",
+  "t": "残りの借金"
+ },
+ "469b9caf2d23": {
+  "en": "Vraki West March · Handout 08 · Badge Cards",
+  "t": "Vraki West March · 配布物08 · 身分証カード"
+ },
+ "477c534c5d17": {
+  "en": "FORWAY EMBASSY · PEARL",
+  "t": "フォーウェイ大使館 · パール"
+ },
+ "477da51c20f0": {
+  "en": "Body RESTORE II <i>lesser restoration</i>",
+  "t": "ボディ・リストアII <i>レッサー・レストレーション</i>"
  },
  "478a332a3faa": {
   "en": "<b>Merchants ask: were the guards in on it?</b> A merchant wagon bound for Sanbi was found empty two days short of the Long Bridge. Its contracted adventurers reported to the Sanbi embassy that they were \"overwhelmed by bandits.\" The merchant, who arrived the next day with a black eye, tells a different story.",
@@ -183,6 +343,14 @@
   "en": "IV",
   "t": "IV"
  },
+ "4e4285c38761": {
+  "en": "Date",
+  "t": "日付"
+ },
+ "50ee19352128": {
+  "en": "Debt deducted",
+  "t": "差し引いた借金"
+ },
  "519d6ceeb5d4": {
   "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
   "t": "ブルーウォゼンズの頭目 · 931年A.G.生まれ · 最後の目撃：ずっと前"
@@ -195,6 +363,18 @@
   "en": "Amethyst",
   "t": "アメジスト"
  },
+ "5537c275b709": {
+  "en": "Vraki West March · Handout 06 · Cargo Protection Contract (front)",
+  "t": "Vraki West March · 配布物06 · 積み荷の護衛の契約書（表）"
+ },
+ "576e3d157962": {
+  "en": "Quiet outside. Walking Skin patrol the halls.",
+  "t": "外は静か。ウォーキング・スキンが廊下を巡回している。"
+ },
+ "57d396409845": {
+  "en": "PAID IN FULL on",
+  "t": "完済日"
+ },
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "不機嫌"
@@ -203,9 +383,33 @@
   "en": "Vraki West March · Handout 05 · Forway News (sample issue)",
   "t": "Vraki West March · 配布物05 · フォーウェイ・ニュース（見本号）"
  },
+ "590de18c93fd": {
+  "en": "Fost lamp · loose fost stone",
+  "t": "フォストランプ · フォストストーン単品"
+ },
+ "592b5d05dc8f": {
+  "en": "Bandits · weather · cranky Eguas · getting lost · \"we were overwhelmed\" · a better offer from someone on the road · the Contracted Adventurers' revival debt · the Poster's personality.",
+  "t": "盗賊 · 天気 · 機嫌の悪いエグア · 道に迷うこと · 「圧倒されました」 · 道中の誰かからのもっといい申し出 · 契約冒険者の蘇生の借金 · 依頼者の人柄。"
+ },
+ "595257e9f415": {
+  "en": "Steam / Dust / Ash CREATE <i>fog cloud</i>",
+  "t": "スチーム／ダスト／アッシュ・クリエイト <i>フォッグ・クラウド</i>"
+ },
  "5a1025bdcf8e": {
   "en": "FREEDAY, MOACIR 12TH, 1042 A.G.",
   "t": "1042年A.G. モアシル12日 フリーデイ"
+ },
+ "5a82cc12f854": {
+  "en": "Postcard size · max weight of 4 pearl balls · killing a courier Winga is a crime",
+  "t": "はがきの大きさ · 重さはパール・ボール4枚まで · 伝書ウィンガを殺すのは犯罪"
+ },
+ "5aa854dfd04b": {
+  "en": "EMBASSY BADGES",
+  "t": "大使館の身分証"
+ },
+ "5bf0ab82de86": {
+  "en": "Shock CREATE, touch <i>shocking grasp</i>",
+  "t": "ショック・クリエイト、接触 <i>ショッキング・グラスプ</i>"
  },
  "5bf7a6c4a7be": {
   "en": "Any adventurer may take this job. Hiding a wanted criminal is itself a crime.",
@@ -218,6 +422,10 @@
  "5c7d6a88a590": {
   "en": "Pearls",
   "t": "パール"
+ },
+ "5d6a7476c415": {
+  "en": "CERTIFICATE OF REVIVAL<br>&amp; DEBT ACKNOWLEDGMENT",
+  "t": "蘇生証明書<br>および債務承認書"
  },
  "5e729959722b": {
   "en": "Winter",
@@ -235,6 +443,14 @@
   "en": "5 amethysts per party, paid on delivery",
   "t": "一行につきアメジスト5個、引き渡し時に支払い"
  },
+ "61c2fd080fa6": {
+  "en": "at the",
+  "t": "にて"
+ },
+ "638c58904c17": {
+  "en": "BAHYUM VILLAGE · POSTED EVERY MORNING",
+  "t": "バヒュム村 · 毎朝掲示"
+ },
  "63c6d4505de0": {
   "en": "Misuse of official signal colors",
   "t": "公式の合図の色の悪用"
@@ -243,9 +459,25 @@
   "en": "Water-reactive nari bomb",
   "t": "水に反応するナリ爆弾"
  },
+ "66583b5acbd0": {
+  "en": "Embassy medic",
+  "t": "大使館の医師"
+ },
  "6693fa591b5c": {
   "en": "AMETHYST QUEST · BOUNTY",
   "t": "アメジストの依頼 · 賞金首"
+ },
+ "6752b5e2d790": {
+  "en": "The <b>Contracted Adventurers</b> below agree to protect the cargo, wagon, Eguas and passengers from the place of origin to the destination, and to deliver the cargo <b>intact</b>.",
+  "t": "下記の<b>契約冒険者</b>は、出発地から目的地まで積み荷、荷馬車、エグア、乗客を守り、積み荷を<b>無傷で</b>届けることに同意する。"
+ },
+ "67678652e8d1": {
+  "en": "Sigil Rings · Tier I",
+  "t": "シジルリング · ティアI"
+ },
+ "68d5ba89ba26": {
+  "en": "Vraki West March · Handout 10 · Today's Castle Mood",
+  "t": "Vraki West March · 配布物10 · 今日の城の機嫌"
  },
  "6ac090254da1": {
   "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
@@ -254,6 +486,10 @@
  "6bf25f0f5e7b": {
   "en": "Quest",
   "t": "依頼"
+ },
+ "6eee0f8e710b": {
+  "en": "Required by Forway Law on the back of every contract",
+  "t": "フォーウェイの法により、すべての契約書の裏面に必要"
  },
  "7010c4292cd3": {
   "en": "30 pearls + all the Soreno you can eat (please don't)",
@@ -275,21 +511,45 @@
   "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
   "t": "受けられるのは自分の階級以下の依頼 · 一行の誰かが持っていれば一つ上まで · 蘇生の借金が先に50%を取る · 依頼の掲示にはアメジスト1個"
  },
+ "76ee7233b079": {
+  "en": "FORWAY EMBASSY · SAPPHIRE",
+  "t": "フォーウェイ大使館 · サファイア"
+ },
  "771c54e57c5a": {
   "en": "REWARD: ____________",
   "t": "賞金：____________"
+ },
+ "78ba230bb869": {
+  "en": "The Poster <b>lied about the danger</b> of the route or the value of the cargo.",
+  "t": "依頼者がルートの<b>危険について嘘をついた</b>、または積み荷の価値を偽った場合。"
  },
  "790c8ec40330": {
   "en": "Bahyum village reports Today's Castle Mood at <b>5 (Furious)</b>. Thin the undead before it reaches 6 and a Kingdom Alert is called. Bring nari stones; the fog drinks souls.",
   "t": "バヒュム村からの報告では、今日の城の機嫌は<b>5（激怒）</b>。6になって王国警報が出る前に、アンデッドを減らせ。ナリストーンを持っていけ。霧は魂を飲む。"
  },
+ "793237bc2cfd": {
+  "en": "Every Contracted Adventurer is declared <b>Soul Dead</b>.",
+  "t": "すべての契約冒険者が<b>魂の死</b>を宣告された場合。"
+ },
  "7957e7c61882": {
   "en": "Wagon Vanishes on the Sanbi Road",
   "t": "サンビ街道で荷馬車が消える"
  },
+ "798c1a70ab95": {
+  "en": "am = amethyst (50 p)",
+  "t": "am = アメジスト（50 p）"
+ },
+ "79b8633b6d2f": {
+  "en": "Walking Skin packs raiding nearby farms. Bar your doors. Something big is awake.",
+  "t": "ウォーキング・スキンの群れが近くの農場を襲っている。戸締まりを。何か大きなものが目を覚ましている。"
+ },
  "7a070d013210": {
   "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
   "t": "ロング・ブリッジの街道を通り、フォーウェイからサンビまで商人の荷馬車を護衛せよ。この街道ではブルーウォゼンズが「税」を取る。商人は寄付したくない。積み荷の詳細は署名時に伝える。"
+ },
+ "7a4bb4d9147a": {
+  "en": "Gravity REPEL <i>thunderwave (force)</i>",
+  "t": "グラビティ・リペル <i>サンダーウェイヴ（力場）</i>"
  },
  "7b106ad2407d": {
   "en": "□ alive only · □ alive or dead · bounty quest posted at the ________________ embassy",
@@ -303,9 +563,21 @@
   "en": "Bahyum: Mood Rising",
   "t": "バヒュム：機嫌が上昇中"
  },
+ "7eb9240e8ccf": {
+  "en": "The cargo turns out to be <b>banned or undeclared</b> (banned nari gels, Walking Heart stones, Koalin parts, stolen goods). The Poster then owes the Contracted Adventurers the full reward and answers to Forway Law.",
+  "t": "積み荷が<b>禁制品または未申告</b>だと判明した場合（禁制のナリジェル、ウォーキングハートの石、コアリンの部位、盗品）。依頼者は契約冒険者に報酬の全額を支払い、フォーウェイの法の裁きを受ける。"
+ },
+ "7ec1b11ca6d9": {
+  "en": "20 p",
+  "t": "20 p"
+ },
  "7ed707162a6a": {
   "en": "Mood sign at 4 or lower, signed by the village watch",
   "t": "村の見張りが署名した、4以下の機嫌の札"
+ },
+ "804c738183d1": {
+  "en": "6 aq",
+  "t": "6 aq"
  },
  "808c079a16e4": {
   "en": "Proof",
@@ -335,9 +607,41 @@
   "en": "Level",
   "t": "レベル"
  },
+ "8524c7576ac0": {
+  "en": "SOUL POINTS",
+  "t": "ソウルポイント"
+ },
+ "8538b207666f": {
+  "en": "Welcome back. Forway is glad you're alive. Forway would like to discuss the bill.",
+  "t": "おかえりなさい。フォーウェイはあなたが生きていてうれしい。フォーウェイは請求書についてお話ししたい。"
+ },
+ "86486d28d55e": {
+  "en": "PAID",
+  "t": "支払済"
+ },
  "86f21e170b3f": {
   "en": "WANTED",
   "t": "手配中"
+ },
+ "876f29eaf465": {
+  "en": "NULLIFICATION CLAUSES",
+  "t": "無効条項"
+ },
+ "89595df30548": {
+  "en": "Paid to Forway",
+  "t": "フォーウェイに支払った額"
+ },
+ "8981f49474b4": {
+  "en": "World DESTROY <i>shatter</i>",
+  "t": "ワールド・デストロイ <i>シャター</i>"
+ },
+ "89b61c29ca4e": {
+  "en": "Harm done to the cargo, passengers or Eguas <b>by the Contracted Adventurers</b> is a breach of contract and a crime under Forway Law.",
+  "t": "<b>契約冒険者による</b>積み荷、乗客、エグアへの加害は、契約違反であり、フォーウェイの法のもとで罪となる。"
+ },
+ "8ae4cb7f9fd5": {
+  "en": "Light CREATE <i>light</i>",
+  "t": "ライト・クリエイト <i>ライト</i>"
  },
  "8ae5de71fd4b": {
   "en": "Circles",
@@ -347,6 +651,10 @@
   "en": "Cargo",
   "t": "積み荷"
  },
+ "8ba2782d8b61": {
+  "en": "This contract can only be nullified by the clauses written on its back.",
+  "t": "この契約は、裏面に書かれた条項によってのみ無効にできる。"
+ },
  "8cd7920b835a": {
   "en": "Tier",
   "t": "ティア"
@@ -355,9 +663,29 @@
   "en": "Amethyst (or a Pearl party led by one)",
   "t": "アメジスト（またはアメジストが率いるパールの一行）"
  },
+ "8ede48f34980": {
+  "en": "The Poster",
+  "t": "依頼者"
+ },
+ "912cb0d9b996": {
+  "en": "Revived at the",
+  "t": "蘇生した場所"
+ },
  "9176ce89095a": {
   "en": "Other: ______________",
   "t": "その他：______________"
+ },
+ "92516a005ed9": {
+  "en": "A <b>Kingdom Alert</b> or an <b>Emergency</b> is called along the route. The deadline is suspended until it ends.",
+  "t": "ルート上で<b>王国警報</b>または<b>非常事態</b>が出た場合。期限は終わるまで止まる。"
+ },
+ "95ab1faed512": {
+  "en": "1 sa",
+  "t": "1 sa"
+ },
+ "9647be156124": {
+  "en": "Object INCREASE / DECREASE <i>enlarge/reduce</i>",
+  "t": "オブジェクト・インクリース／ディクリース <i>エンラージ／リデュース</i>"
  },
  "9826815b57f9": {
   "en": "<b>ANGRY.</b> Walking Skin packs raiding farms near Bahyum. Bar your doors. An Aquamarine quest goes up if it reaches 5.",
@@ -367,9 +695,25 @@
   "en": "Vigilantes are criminals. So are adventurers who become them.",
   "t": "自警団は犯罪者だ。そうなった冒険者もまた然り。"
  },
+ "9aa31746ed8c": {
+  "en": "REVIVAL DEBT = 100 pearls × level = ____________ pearls",
+  "t": "蘇生の借金 = パール100枚 × レベル = パール____________枚"
+ },
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "9aec1ff25096": {
+  "en": "Sigil Rings · Tier 0",
+  "t": "シジルリング · ティア0"
+ },
+ "9b52525e6e52": {
+  "en": "1 PEARL",
+  "t": "パール1枚"
+ },
+ "9b5b88ae004f": {
+  "en": "Fire CREATE, spark <i>fire bolt</i>",
+  "t": "ファイア・クリエイト、火花 <i>ファイアー・ボルト</i>"
  },
  "9b996c619b29": {
   "en": "Name · Place · Guild",
@@ -379,13 +723,25 @@
   "en": "Posted by",
   "t": "掲示者"
  },
+ "9f0bf42bbcfe": {
+  "en": "Adventurers' speaker",
+  "t": "冒険者の代表"
+ },
  "a4f7be073854": {
   "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
   "t": "サンビ大使館は調査を始めた。商人ギルドは今後、積み荷の護衛の契約で、<b>報酬の10%の保証金</b>を前払いで求める。「サンビ街道の冒険者はぐるだ」と、名前を伏せたいある商人は言った。"
  },
+ "a5492fb86200": {
+  "en": "Property of Forway · blood-registered to its bearer · do not lend (Missing Person quests excepted)",
+  "t": "フォーウェイの所有物 · 持ち主に血で登録済み · 貸し出し禁止（行方不明者の依頼を除く）"
+ },
  "a70e48bd0367": {
   "en": "SAMPLE ISSUE",
   "t": "見本号"
+ },
+ "a7927893c83c": {
+  "en": "Goods recovered from bandits are surrendered to Forway for investigation.",
+  "t": "盗賊から取り戻した品は、調査のためフォーウェイに引き渡す。"
  },
  "a84e4c00b86a": {
   "en": "draw the criminal here",
@@ -395,13 +751,33 @@
   "en": "<b>LOST:</b> courier Winga, blue, answers to \"Feathers.\" Do not eat. Reward 5 pearls.",
   "t": "<b>迷子：</b> 伝書ウィンガ、青、「フェザーズ」と呼べば応える。食べないで。謝礼パール5枚。"
  },
+ "a9e409757063": {
+  "en": "3 aq",
+  "t": "3 aq"
+ },
+ "aaa3a908692f": {
+  "en": "aq = aquamarine (500 p)",
+  "t": "aq = アクアマリン（500 p）"
+ },
  "aad2f88a3da8": {
   "en": "Robbing contracted cargo",
   "t": "契約した積み荷の強奪"
  },
+ "abf369643984": {
+  "en": "5 am",
+  "t": "5 am"
+ },
+ "ac52f67906ad": {
+  "en": "Ice CREATE, frost ball <i>ray of frost</i>",
+  "t": "アイス・クリエイト、霜の玉 <i>レイ・オヴ・フロスト</i>"
+ },
  "acf86fb27bf5": {
   "en": "Fleeing revival debt",
   "t": "蘇生の借金からの逃亡"
+ },
+ "ad6542159a94": {
+  "en": "WINGA MAIL",
+  "t": "ウィンガ便"
  },
  "b1e9c61f07f2": {
   "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
@@ -411,13 +787,53 @@
   "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
   "t": "<b>蘇生の借金</b>はレベルごとにパール100枚で、返し終わるまで、すべての依頼の報酬の50%がフォーウェイに入る。借金から逃げれば手配される。借金を抱えたまままた死ねば、フォーウェイ衛兵に徴用される。<i>フォーウェイはあなたの奉仕に感謝します。</i>"
  },
+ "b48145507a19": {
+  "en": "Should you <b>die again while you still owe</b>, Forway drafts you into the <b>Forway Guard</b>, unless your companions pay the full remaining debt plus the new debt on the spot.",
+  "t": "<b>借金が残っているうちにまた死んだら</b>、仲間がその場で残りの借金と新しい借金を全額払わない限り、フォーウェイはあなたを<b>フォーウェイ衛兵</b>に徴用する。"
+ },
+ "b594d034ad81": {
+  "en": "2 am",
+  "t": "2 am"
+ },
+ "b6cf71130a5c": {
+  "en": "Fire CREATE, ball <i>fireball</i> (III)",
+  "t": "ファイア・クリエイト、玉 <i>ファイアーボール</i>（III）"
+ },
+ "b73cd1ed0adf": {
+  "en": "Fire CREATE, fan <i>burning hands</i>",
+  "t": "ファイア・クリエイト、扇 <i>バーニング・ハンズ</i>"
+ },
  "b76af4cfe69d": {
   "en": "Black honey revival pot",
   "t": "黒い蜜の蘇生壺"
  },
+ "b82f0df11b51": {
+  "en": "ENTANGLE, shared hearing <i>message</i>",
+  "t": "エンタングル、聴覚の共有 <i>メッセージ</i>"
+ },
+ "b893c9fae1bf": {
+  "en": "This contract is <b>void</b>, with no penalty to either party, if:",
+  "t": "次の場合、この契約はどちらの当事者にも罰金なしで<b>無効</b>となる："
+ },
+ "b95d40e02b9d": {
+  "en": "clerk",
+  "t": "事務員"
+ },
+ "ba8a5cbb0fb1": {
+  "en": "Fleeing this debt makes you <b>wanted</b>. Bounty quests will carry your face.",
+  "t": "この借金から逃げると<b>手配される</b>。賞金首の依頼にあなたの顔が載る。"
+ },
  "bac9a1eda6ca": {
   "en": "Heard in the Lounge",
   "t": "ラウンジでの噂"
+ },
+ "bb2e56d3e943": {
+  "en": "Guild",
+  "t": "ギルド"
+ },
+ "bd8d428fa7a3": {
+  "en": "Stragglers on the plains. Travel in groups.",
+  "t": "平原にはぐれ者。集団で移動すること。"
  },
  "be16c3c04ebb": {
   "en": "The Bagarisa Brothers' Recruiter",
@@ -431,17 +847,37 @@
   "en": "Weekly printout · read aloud at Monnalow",
   "t": "週刊のお知らせ · モナロウで読み上げ"
  },
+ "bfd85a0d0f86": {
+  "en": "Storm CREATE, heart jolt <i>spare the dying</i>",
+  "t": "ストーム・クリエイト、心臓への衝撃 <i>スペア・ザ・ダイイング</i>"
+ },
  "bffdcf140e1e": {
   "en": "Breach of contract",
   "t": "契約違反"
+ },
+ "c3c3329f3c3d": {
+  "en": "3 days + 1 per level = ______ days □ body was iced (window doubled)",
+  "t": "3日＋レベルごとに1日 = ______日 □ 遺体は氷で冷やした（猶予は2倍）"
  },
  "c437f693df6f": {
   "en": "Vraki West March · Handout 02 · Blank Quest Notices",
   "t": "Vraki West March · 配布物02 · 白紙の依頼の貼り紙"
  },
+ "c5c46e831899": {
+  "en": "□ intact □ damaged □ partial □ not delivered",
+  "t": "□ 無傷 □ 損傷あり □ 一部 □ 未着"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "出発地"
+ },
+ "c6c3a53c0bdb": {
+  "en": "Nari Gels · per jar (4 scoops), coarse",
+  "t": "ナリジェル · 一瓶（4すくい）あたり、粗製"
+ },
+ "c7070eca4304": {
+  "en": "Received by",
+  "t": "受領者"
  },
  "c88bf0d64ddf": {
   "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
@@ -471,17 +907,53 @@
   "en": "Rank",
   "t": "ランク"
  },
+ "cbbd4f346aae": {
+  "en": "THIS CONTRACT IS NOT NULLIFIED BY",
+  "t": "この契約は次の理由では無効にならない"
+ },
+ "cca85eac3e04": {
+  "en": "Gravity ATTRACT, self <i>levitate / spider climb</i>",
+  "t": "グラビティ・アトラクト、自分 <i>レヴィテート／スパイダー・クライム</i>"
+ },
+ "ce8e4eaf77b0": {
+  "en": "DELIVERY RECEIPT (destination embassy)",
+  "t": "受領書（目的地の大使館）"
+ },
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "名前"
+ },
+ "cf07834570cc": {
+  "en": "Body RESTORE <i>cure wounds</i>",
+  "t": "ボディ・リストア <i>キュア・ウーンズ</i>"
  },
  "d1b5b9114b00": {
   "en": "Spring",
   "t": "春"
  },
+ "d1f50b831603": {
+  "en": "RAMPAGE",
+  "t": "暴走"
+ },
+ "d22cc06775f4": {
+  "en": "Ice CREATE, shard <i>ice knife</i>",
+  "t": "アイス・クリエイト、破片 <i>アイス・ナイフ</i>"
+ },
+ "d2ec99b3097f": {
+  "en": "Under the Prosperity Treaty · witnessed at the ______________ Embassy",
+  "t": "繁栄条約に基づく · ______________大使館にて立ち会い"
+ },
+ "d3fbdddf0ef8": {
+  "en": "Water Gravity ATTRACT <i>control water</i> (IV)",
+  "t": "ウォーター・グラビティ・アトラクト <i>コントロール・ウォーター</i>（IV）"
+ },
  "d6a2e267aafb": {
   "en": "Silo keeper's signed receipt",
   "t": "サイロ番の署名入り受領書"
+ },
+ "d6eb0c25f65d": {
+  "en": "For letters home, warnings ahead, and double-crosses. Cut along the dashed lines.",
+  "t": "家族への手紙、先回りの警告、そして裏切りに。点線に沿って切る。"
  },
  "d81ba82fb77c": {
   "en": "Ball",
@@ -495,6 +967,14 @@
   "en": "4 aquamarines",
   "t": "アクアマリン4個"
  },
+ "daa6158bcea9": {
+  "en": "Gravity DECREASE, self <i>feather fall / jump</i>",
+  "t": "グラビティ・ディクリース、自分 <i>フェザー・フォール／ジャンプ</i>"
+ },
+ "db86f5d8e66f": {
+  "en": "cut out this marker, or use a paperclip:",
+  "t": "この目印を切り抜くか、クリップを使う："
+ },
  "dea2e498b351": {
   "en": "Homeegg: Sanbi Wins Again",
   "t": "ホームエッグ：またもサンビの勝利"
@@ -502,6 +982,18 @@
  "dec64fbe04ed": {
   "en": "Nari stone stick (5 stones)",
   "t": "ナリストーン・スティック（石5個）"
+ },
+ "df9bde780933": {
+  "en": "Issued",
+  "t": "発行日"
+ },
+ "e05fe2384813": {
+  "en": "30 p",
+  "t": "30 p"
+ },
+ "e1e0857e57ee": {
+  "en": "Date of death",
+  "t": "死亡日"
  },
  "e3d95e017a11": {
   "en": "Month",
@@ -511,13 +1003,33 @@
   "en": "Sapphire",
   "t": "サファイア"
  },
+ "e4f04707207a": {
+  "en": "Nari stone (1 SP of energy)",
+  "t": "ナリストーン（SP 1のエネルギー）"
+ },
  "e54e1a482bf0": {
   "en": "· Poachers swear they saw a <b>living Fuhraies</b>.<br>· A gore-soaked figure in insect armor, <b>\"The Stinger,\"</b> was seen near a road again. Forway is curious, not hostile.<br>· A <b>new room</b> appeared in Bahyum Castle.<br>· Someone is selling <b>Walking Hearts</b> again.<br>· This year's <b>Black Magina</b> field is \"somewhere warm.\"<br>· A Teefyro exploded near Tastyleaf and <b>left something</b> in the crater.",
   "t": "· 密猟者たちが<b>生きたフライエス</b>を見たと誓っている。<br>· 虫のような鎧を着た血まみれの人影、<b>「スティンガー」</b>がまた街道の近くで目撃された。フォーウェイは興味を持っているが、敵意はない。<br>· バヒュム城に<b>新しい部屋</b>が現れた。<br>· 誰かがまた<b>ウォーキングハート</b>を売っている。<br>· 今年の<b>ブラックマジナ</b>の畑は「どこか暖かいところ」。<br>· テイスティリーフの近くでティーフィロが爆発し、クレーターに<b>何かを残した</b>。"
  },
+ "e556bccf785e": {
+  "en": "Poster",
+  "t": "依頼者"
+ },
+ "e6f866f419c1": {
+  "en": "today's mood",
+  "t": "今日の機嫌"
+ },
  "e74f6337e511": {
   "en": "AQUAMARINE QUEST · BAHYUM CONTROL",
   "t": "アクアマリンの依頼 · バヒュムの制圧"
+ },
+ "e8104ddd521c": {
+  "en": "Until the debt is paid, <b>50% of every quest reward</b> goes to Forway. The debt may also be paid early, in balls, at any embassy.",
+  "t": "借金を返し終えるまで、<b>すべての依頼の報酬の50%</b>がフォーウェイに入る。借金はどの大使館でも、ボールで前倒しして返せる。"
+ },
+ "e89cf4620669": {
+  "en": "20 p · 5 p",
+  "t": "20 p · 5 p"
  },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
@@ -535,9 +1047,29 @@
   "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
   "t": "<b>募集：</b> ミナリの遊び相手、トールデイの夜。駒は各自持参。"
  },
+ "f065ca36c4a4": {
+  "en": "Failing the quest, or missing the deadline without good reason, costs a <b>penalty of 10% of the reward</b>.",
+  "t": "依頼に失敗するか、正当な理由なく期限を過ぎると、<b>報酬の10%の罰金</b>がかかる。"
+ },
+ "f0f462fc246b": {
+  "en": "sa = sapphire (5,000 p)",
+  "t": "sa = サファイア（5,000 p）"
+ },
  "f151f3dab9c8": {
   "en": "None, until someone claims it",
   "t": "誰かが名乗り出るまでなし"
+ },
+ "f1d39d2e98a8": {
+  "en": "Both parties agree, in front of an embassy witness, and both sign below.",
+  "t": "両当事者が大使館の立会人の前で合意し、両者が下に署名した場合。"
+ },
+ "f1dbe09a40eb": {
+  "en": "Quiet. The doors stand open. Historians, this is your day.",
+  "t": "静か。扉は開いている。歴史家の皆さん、今日こそあなたの日だ。"
+ },
+ "f3d306caeafa": {
+  "en": "Sigil rings · nari gels · stones &amp; bombs · Forway prices (other cities charge more for distance)",
+  "t": "シジルリング · ナリジェル · 石と爆弾 · フォーウェイ価格（ほかの都市では距離の分だけ高い）"
  },
  "f4d19ca4b670": {
   "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
@@ -550,6 +1082,10 @@
  "f5aea10a8548": {
   "en": "To",
   "t": "目的地"
+ },
+ "f706a8662ff5": {
+  "en": "FORWAY EMBASSY · AQUAMARINE",
+  "t": "フォーウェイ大使館 · アクアマリン"
  },
  "f88b2a35f578": {
   "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
@@ -574,6 +1110,10 @@
  "fc579a92ff12": {
   "en": "Round trip + 50%, set by the clerk",
   "t": "往復＋50%、事務員が決める"
+ },
+ "fde8991d39b8": {
+  "en": "You wake with 1 HP and one level of exhaustion. Rest. Eat something. Do not die today.",
+  "t": "目覚めたときはHP 1で、消耗が1段階。休め。何か食べろ。今日は死ぬな。"
  },
  "ffc820385233": {
   "en": "Delivery receipt sealed by the Sanbi embassy",

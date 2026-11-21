@@ -1,4 +1,8 @@
 {
+ "01e098fea153": {
+  "en": "Stones, Bombs &amp; Sundries",
+  "t": "Pedras, bombas e miudezas"
+ },
  "0224e8cfb203": {
   "en": "III",
   "t": "III"
@@ -6,6 +10,18 @@
  "0377b9100d91": {
   "en": "Revival is guaranteed for bodies returned within the window. Ice them.",
   "t": "A reanimação é garantida para corpos trazidos de volta dentro da janela. Ponha gelo neles."
+ },
+ "03cebd559ac2": {
+  "en": "1 am",
+  "t": "1 am"
+ },
+ "046b873af813": {
+  "en": "FORWAY EMBASSY · AMETHYST",
+  "t": "EMBAIXADA DE FORWAY · AMETHYST"
+ },
+ "0519cb40c0f5": {
+  "en": "Cut out one per adventurer. The badge shows Soul Points to its bearer alone: pencil them in.<br>Max SP = proficiency bonus + Con modifier (min. 1) · +1 SP per long rest · replacement: 1 amethyst (plus questions)",
+  "t": "Recorte um por aventureiro. O distintivo mostra os Soul Points só para quem o porta: anote a lápis.<br>SP máx. = bônus de proficiência + modificador de Con (mín. 1) · +1 SP por descanso longo · segunda via: 1 amethyst (mais perguntas)"
  },
  "076a428ce1ca": {
   "en": "Signal smoke bomb (red/cyan/green/yellow)",
@@ -31,6 +47,14 @@
   "en": "Place",
   "t": "Lugar"
  },
+ "0d22880a9c71": {
+  "en": "The <b>reward</b> is paid at the destination embassy on presentation of a delivery receipt sealed by that embassy. Revival debt owed to Forway is deducted first.",
+  "t": "A <b>recompensa</b> é paga na embaixada de destino mediante um recibo de entrega selado por essa embaixada. A dívida de reanimação com Forway é descontada primeiro."
+ },
+ "0e4c7896f44d": {
+  "en": "Badge no.",
+  "t": "Nº do distintivo"
+ },
  "0f3503e615b0": {
   "en": "General posts: 1 pearl · Local warnings: 1 amethyst",
   "t": "Anúncios gerais: 1 pearl · Avisos locais: 1 amethyst"
@@ -51,17 +75,49 @@
   "en": "Days",
   "t": "Dias"
  },
+ "13a91eedcf36": {
+  "en": "Embassy witness",
+  "t": "Testemunha da embaixada"
+ },
+ "13e90f0b06f5": {
+  "en": "SOUL ENERGY SUPPLY",
+  "t": "SUPRIMENTOS DE ENERGIA DA ALMA"
+ },
+ "15b5ac3dfb2f": {
+  "en": "Vraki West March · Handout 09 · Winga Mail Postcards",
+  "t": "Vraki West March · Material 09 · Cartões-postais do correio Winga"
+ },
  "161984742f73": {
   "en": "AMETHYST QUEST · CARGO PROTECTION",
   "t": "MISSÃO AMETHYST · PROTEÇÃO DE CARGA"
+ },
+ "165f4227995d": {
+  "en": "Body RESTORE, mass <i>healing word</i>",
+  "t": "Body RESTORE, em massa <i>palavra curativa</i>"
+ },
+ "16cd5cb511ee": {
+  "en": "Storm CREATE, bolt <i>lightning bolt</i> (III)",
+  "t": "Storm CREATE, raio <i>relâmpago</i> (III)"
  },
  "1700e6ef542b": {
   "en": "Sign in blood at the counter. Failure penalty: 10% of reward. A search party is sent when the deadline passes.",
   "t": "Assine com sangue no balcão. Multa por fracasso: 10% da recompensa. Uma equipe de busca é enviada quando o prazo vence."
  },
+ "178243b8d81f": {
+  "en": "Vraki West March · Handout 11 · Revival Debt Certificate",
+  "t": "Vraki West March · Material 11 · Certificado de dívida de reanimação"
+ },
+ "1849787a7bcc": {
+  "en": "Water CREATE / ATTRACT <i>create water, shape water</i>",
+  "t": "Water CREATE / ATTRACT <i>criar água, moldar água</i>"
+ },
  "1a6ad10c01ca": {
   "en": "Before the mood reaches 6",
   "t": "Antes de o humor chegar a 6"
+ },
+ "1c2a367280d7": {
+  "en": "Smoke bomb, intense",
+  "t": "Bomba de fumaça, intensa"
  },
  "1d822b71ce22": {
   "en": "Pearl and up",
@@ -91,6 +147,18 @@
   "en": "Local Warnings · Forway Embassy, Floor 1 · New quests read aloud at Monnalow",
   "t": "Avisos locais · Embaixada de Forway, 1º andar · Missões novas são lidas em voz alta em Monnalow"
  },
+ "281f2d1a139f": {
+  "en": "1 aq",
+  "t": "1 aq"
+ },
+ "282abc882a5b": {
+  "en": "WINGA MAIL POSTCARDS",
+  "t": "CARTÕES-POSTAIS DO CORREIO WINGA"
+ },
+ "28866724c2a6": {
+  "en": "Cargo delivered",
+  "t": "Carga entregue"
+ },
  "28e14253d23c": {
   "en": "5 days from signing",
   "t": "5 dias a partir da assinatura"
@@ -99,6 +167,14 @@
   "en": "UP TO 5 SAPPHIRES",
   "t": "ATÉ 5 SAPPHIRES"
  },
+ "29bda2b60459": {
+  "en": "15 p",
+  "t": "15 p"
+ },
+ "2a5f1b665280": {
+  "en": "CONTRACT OF<br>CARGO PROTECTION",
+  "t": "CONTRATO DE<br>PROTEÇÃO DE CARGA"
+ },
  "2be94f37330b": {
   "en": "Fall",
   "t": "Outono"
@@ -106,6 +182,10 @@
  "2d6f2ef30ed8": {
   "en": "Reward",
   "t": "Recompensa"
+ },
+ "2dde6bf3e7ba": {
+  "en": "Signed in blood mixed with nari. To verify, press the signer's badge to the signature: the thumb spot lights up if it matches.",
+  "t": "Assinado com sangue misturado com nari. Para conferir, encoste o distintivo de quem assinou na assinatura: a marca do polegar se acende se combinar."
  },
  "2df4a29c8aee": {
   "en": "QUEST BOARD",
@@ -119,25 +199,65 @@
   "en": "Murder",
   "t": "Assassinato"
  },
+ "3181089a33bb": {
+  "en": "Declared value",
+  "t": "Valor declarado"
+ },
  "3218e941e385": {
   "en": "INFORMATION WANTED",
   "t": "PROCURA-SE INFORMAÇÃO"
+ },
+ "329663f1f64e": {
+  "en": "Revival kit, two rings <i>revivify</i> (III)",
+  "t": "Kit de reanimação, dois anéis <i>revivificar</i> (III)"
  },
  "34b16da8fcd5": {
   "en": "BY ORDER OF FORWAY LAW",
   "t": "POR ORDEM DA LEI DE FORWAY"
  },
+ "3688d6166d1e": {
+  "en": "p = pearl",
+  "t": "p = pearl"
+ },
  "36931ae1b254": {
   "en": "Classifieds <span class=\"tiny\">(1 pearl per post)</span>",
   "t": "Classificados <span class=\"tiny\">(1 pearl por anúncio)</span>"
+ },
+ "37acc1844764": {
+  "en": "World RESTORE, un-rust <i>mending</i>",
+  "t": "World RESTORE, desenferrujar <i>consertar</i>"
  },
  "380957daf1b3": {
   "en": "Deadline",
   "t": "Prazo"
  },
+ "39083fb03746": {
+  "en": "Sigil Rings · Tier II–IV",
+  "t": "Anéis de sigilo · Nível II–IV"
+ },
+ "3a17e5d819a0": {
+  "en": "Reward paid",
+  "t": "Recompensa paga"
+ },
+ "3b5a5c60ff1e": {
+  "en": "Stay indoors. The fog drinks souls. An Aquamarine quest is posted at the embassy.",
+  "t": "Fiquem em casa. A névoa bebe almas. Há uma missão Aquamarine publicada na embaixada."
+ },
  "3c39e7786f25": {
   "en": "FORWAY NEWS",
   "t": "FORWAY NEWS"
+ },
+ "3cba40fc3f89": {
+  "en": "<b>KINGDOM ALERT.</b> Waves of undead led by five commanders. All adventurers report. Everyone else: run.",
+  "t": "<b>ALERTA DO REINO.</b> Ondas de mortos-vivos lideradas por cinco comandantes. Todos os aventureiros, apresentem-se. Todo o resto: corra."
+ },
+ "3d0f7cf85a25": {
+  "en": "Mud CREATE <i>grease</i>",
+  "t": "Mud CREATE <i>área escorregadia</i>"
+ },
+ "3dca6774179a": {
+  "en": "The route becomes impassable by the judgment of the nearest embassy (a Bahyum Rampage, a flooded Long Bridge, a Sand Worm season).",
+  "t": "A rota se tornar intransitável a juízo da embaixada mais próxima (uma Fúria de Bahyum, a Long Bridge alagada, uma temporada de Sand Worms)."
  },
  "3e6b78d7874f": {
   "en": "Player",
@@ -159,9 +279,49 @@
   "en": "Courier Wingas Shot Down",
   "t": "Wingas mensageiras abatidas"
  },
+ "437a5530cf59": {
+  "en": "The Poster dies or abandons the cargo. Delivering it anyway earns half the reward from the destination embassy.",
+  "t": "O Anunciante morrer ou abandonar a carga. Entregá-la mesmo assim dá direito a metade da recompensa na embaixada de destino."
+ },
+ "43b1582b917c": {
+  "en": "Brought in by",
+  "t": "Trazido por"
+ },
+ "44212c798ab0": {
+  "en": "Vraki West March · Handout 07 · Cargo Protection Contract (back)",
+  "t": "Vraki West March · Material 07 · Contrato de proteção de carga (verso)"
+ },
+ "442ebec4707d": {
+  "en": "Body arrived",
+  "t": "Chegada do corpo"
+ },
  "44c1f47383f1": {
   "en": "I",
   "t": "I"
+ },
+ "45118d35bedc": {
+  "en": "The <b>deadline</b> is the round trip plus half again. If the Contracted Adventurers are not back at an embassy by then, a search party is sent at their expense, and quest credit goes to the search party.",
+  "t": "O <b>prazo</b> é a viagem de ida e volta mais a metade. Se os Aventureiros Contratados não estiverem de volta a uma embaixada até lá, uma equipe de busca é enviada às custas deles, e o crédito da missão vai para a equipe de busca."
+ },
+ "4672c25dda89": {
+  "en": "TODAY'S<br>CASTLE<br>MOOD",
+  "t": "O HUMOR<br>DO CASTELO<br>HOJE"
+ },
+ "468812e8276c": {
+  "en": "Still owed",
+  "t": "Ainda devido"
+ },
+ "469b9caf2d23": {
+  "en": "Vraki West March · Handout 08 · Badge Cards",
+  "t": "Vraki West March · Material 08 · Cartões de distintivo"
+ },
+ "477c534c5d17": {
+  "en": "FORWAY EMBASSY · PEARL",
+  "t": "EMBAIXADA DE FORWAY · PEARL"
+ },
+ "477da51c20f0": {
+  "en": "Body RESTORE II <i>lesser restoration</i>",
+  "t": "Body RESTORE II <i>restauração menor</i>"
  },
  "478a332a3faa": {
   "en": "<b>Merchants ask: were the guards in on it?</b> A merchant wagon bound for Sanbi was found empty two days short of the Long Bridge. Its contracted adventurers reported to the Sanbi embassy that they were \"overwhelmed by bandits.\" The merchant, who arrived the next day with a black eye, tells a different story.",
@@ -183,6 +343,14 @@
   "en": "IV",
   "t": "IV"
  },
+ "4e4285c38761": {
+  "en": "Date",
+  "t": "Data"
+ },
+ "50ee19352128": {
+  "en": "Debt deducted",
+  "t": "Dívida descontada"
+ },
  "519d6ceeb5d4": {
   "en": "Boss of the Blue Wozens · born 931 A.G. · last seen: ages ago",
   "t": "Chefe dos Blue Wozens · nascido em 931 A.G. · visto pela última vez: faz séculos"
@@ -195,6 +363,18 @@
   "en": "Amethyst",
   "t": "Amethyst"
  },
+ "5537c275b709": {
+  "en": "Vraki West March · Handout 06 · Cargo Protection Contract (front)",
+  "t": "Vraki West March · Material 06 · Contrato de proteção de carga (frente)"
+ },
+ "576e3d157962": {
+  "en": "Quiet outside. Walking Skin patrol the halls.",
+  "t": "Calmo por fora. Walking Skin patrulham os corredores."
+ },
+ "57d396409845": {
+  "en": "PAID IN FULL on",
+  "t": "QUITADO em"
+ },
  "585cdf11ff4a": {
   "en": "Grumpy",
   "t": "Rabugento"
@@ -203,9 +383,33 @@
   "en": "Vraki West March · Handout 05 · Forway News (sample issue)",
   "t": "Vraki West March · Material 05 · Forway News (edição de amostra)"
  },
+ "590de18c93fd": {
+  "en": "Fost lamp · loose fost stone",
+  "t": "Lâmpada de fost · pedra de fost avulsa"
+ },
+ "592b5d05dc8f": {
+  "en": "Bandits · weather · cranky Eguas · getting lost · \"we were overwhelmed\" · a better offer from someone on the road · the Contracted Adventurers' revival debt · the Poster's personality.",
+  "t": "Bandidos · clima · Eguas mal-humoradas · se perder · «fomos dominados» · uma oferta melhor de alguém na estrada · a dívida de reanimação dos Aventureiros Contratados · a personalidade do Anunciante."
+ },
+ "595257e9f415": {
+  "en": "Steam / Dust / Ash CREATE <i>fog cloud</i>",
+  "t": "Steam / Dust / Ash CREATE <i>névoa obscurecente</i>"
+ },
  "5a1025bdcf8e": {
   "en": "FREEDAY, MOACIR 12TH, 1042 A.G.",
   "t": "FREEDAY, 12 DE MOACIR DE 1042 A.G."
+ },
+ "5a82cc12f854": {
+  "en": "Postcard size · max weight of 4 pearl balls · killing a courier Winga is a crime",
+  "t": "Tamanho de cartão-postal · peso máx. de 4 bolas pearl · matar uma Winga mensageira é crime"
+ },
+ "5aa854dfd04b": {
+  "en": "EMBASSY BADGES",
+  "t": "DISTINTIVOS DA EMBAIXADA"
+ },
+ "5bf0ab82de86": {
+  "en": "Shock CREATE, touch <i>shocking grasp</i>",
+  "t": "Shock CREATE, toque <i>toque chocante</i>"
  },
  "5bf7a6c4a7be": {
   "en": "Any adventurer may take this job. Hiding a wanted criminal is itself a crime.",
@@ -218,6 +422,10 @@
  "5c7d6a88a590": {
   "en": "Pearls",
   "t": "Pearls"
+ },
+ "5d6a7476c415": {
+  "en": "CERTIFICATE OF REVIVAL<br>&amp; DEBT ACKNOWLEDGMENT",
+  "t": "CERTIFICADO DE REANIMAÇÃO<br>E RECONHECIMENTO DE DÍVIDA"
  },
  "5e729959722b": {
   "en": "Winter",
@@ -235,6 +443,14 @@
   "en": "5 amethysts per party, paid on delivery",
   "t": "5 amethysts por grupo, pagos na entrega"
  },
+ "61c2fd080fa6": {
+  "en": "at the",
+  "t": "na"
+ },
+ "638c58904c17": {
+  "en": "BAHYUM VILLAGE · POSTED EVERY MORNING",
+  "t": "ALDEIA DE BAHYUM · AFIXADO TODA MANHÃ"
+ },
  "63c6d4505de0": {
   "en": "Misuse of official signal colors",
   "t": "Uso indevido das cores oficiais de sinal"
@@ -243,9 +459,25 @@
   "en": "Water-reactive nari bomb",
   "t": "Bomba de nari que reage à água"
  },
+ "66583b5acbd0": {
+  "en": "Embassy medic",
+  "t": "Médico da embaixada"
+ },
  "6693fa591b5c": {
   "en": "AMETHYST QUEST · BOUNTY",
   "t": "MISSÃO AMETHYST · RECOMPENSA"
+ },
+ "6752b5e2d790": {
+  "en": "The <b>Contracted Adventurers</b> below agree to protect the cargo, wagon, Eguas and passengers from the place of origin to the destination, and to deliver the cargo <b>intact</b>.",
+  "t": "Os <b>Aventureiros Contratados</b> abaixo se comprometem a proteger a carga, a carroça, as Eguas e os passageiros do local de origem até o destino, e a entregar a carga <b>intacta</b>."
+ },
+ "67678652e8d1": {
+  "en": "Sigil Rings · Tier I",
+  "t": "Anéis de sigilo · Nível I"
+ },
+ "68d5ba89ba26": {
+  "en": "Vraki West March · Handout 10 · Today's Castle Mood",
+  "t": "Vraki West March · Material 10 · O humor do castelo hoje"
  },
  "6ac090254da1": {
   "en": "<b>FOR SALE:</b> clay ice preserver, slightly haunted. Best offer (Toleridemians need not haggle).",
@@ -254,6 +486,10 @@
  "6bf25f0f5e7b": {
   "en": "Quest",
   "t": "Missão"
+ },
+ "6eee0f8e710b": {
+  "en": "Required by Forway Law on the back of every contract",
+  "t": "Exigidas pela Lei de Forway no verso de todo contrato"
  },
  "7010c4292cd3": {
   "en": "30 pearls + all the Soreno you can eat (please don't)",
@@ -275,21 +511,45 @@
   "en": "Take quests at your rank or lower · one rank higher if a party member holds it · revival debt takes its 50% first · posting a quest costs 1 amethyst",
   "t": "Pegue missões da sua patente ou abaixo · uma patente acima se alguém do grupo a tiver · a dívida de reanimação leva seus 50% primeiro · publicar uma missão custa 1 amethyst"
  },
+ "76ee7233b079": {
+  "en": "FORWAY EMBASSY · SAPPHIRE",
+  "t": "EMBAIXADA DE FORWAY · SAPPHIRE"
+ },
  "771c54e57c5a": {
   "en": "REWARD: ____________",
   "t": "RECOMPENSA: ____________"
+ },
+ "78ba230bb869": {
+  "en": "The Poster <b>lied about the danger</b> of the route or the value of the cargo.",
+  "t": "O Anunciante <b>mentiu sobre o perigo</b> da rota ou o valor da carga."
  },
  "790c8ec40330": {
   "en": "Bahyum village reports Today's Castle Mood at <b>5 (Furious)</b>. Thin the undead before it reaches 6 and a Kingdom Alert is called. Bring nari stones; the fog drinks souls.",
   "t": "A aldeia de Bahyum informa que o humor do castelo hoje está em <b>5 (Furioso)</b>. Reduza os mortos-vivos antes que chegue a 6 e seja dado um Alerta do reino. Traga pedras de nari; a névoa bebe almas."
  },
+ "793237bc2cfd": {
+  "en": "Every Contracted Adventurer is declared <b>Soul Dead</b>.",
+  "t": "Todos os Aventureiros Contratados forem declarados <b>mortos da alma</b>."
+ },
  "7957e7c61882": {
   "en": "Wagon Vanishes on the Sanbi Road",
   "t": "Carroça some na estrada de Sanbi"
  },
+ "798c1a70ab95": {
+  "en": "am = amethyst (50 p)",
+  "t": "am = amethyst (50 p)"
+ },
+ "79b8633b6d2f": {
+  "en": "Walking Skin packs raiding nearby farms. Bar your doors. Something big is awake.",
+  "t": "Bandos de Walking Skin atacando fazendas próximas. Tranquem as portas. Algo grande está acordado."
+ },
  "7a070d013210": {
   "en": "Escort a merchant wagon from Forway to Sanbi by the Long Bridge road. The Blue Wozens \"tax\" this road; the merchant would prefer not to donate. Cargo details are given at signing.",
   "t": "Escolte uma carroça de mercadorias de Forway a Sanbi pela estrada de Long Bridge. Os Blue Wozens «cobram imposto» nesta estrada; o mercador prefere não doar. Os detalhes da carga são dados na assinatura."
+ },
+ "7a4bb4d9147a": {
+  "en": "Gravity REPEL <i>thunderwave (force)</i>",
+  "t": "Gravity REPEL <i>onda trovejante (energia)</i>"
  },
  "7b106ad2407d": {
   "en": "□ alive only · □ alive or dead · bounty quest posted at the ________________ embassy",
@@ -303,9 +563,21 @@
   "en": "Bahyum: Mood Rising",
   "t": "Bahyum: o humor está subindo"
  },
+ "7eb9240e8ccf": {
+  "en": "The cargo turns out to be <b>banned or undeclared</b> (banned nari gels, Walking Heart stones, Koalin parts, stolen goods). The Poster then owes the Contracted Adventurers the full reward and answers to Forway Law.",
+  "t": "A carga se revelar <b>proibida ou não declarada</b> (géis de nari proibidos, pedras de Walking Heart, partes de Koalin, bens roubados). O Anunciante então deve aos Aventureiros Contratados a recompensa inteira e responde à Lei de Forway."
+ },
+ "7ec1b11ca6d9": {
+  "en": "20 p",
+  "t": "20 p"
+ },
  "7ed707162a6a": {
   "en": "Mood sign at 4 or lower, signed by the village watch",
   "t": "Placa do humor em 4 ou menos, assinada pela vigia da aldeia"
+ },
+ "804c738183d1": {
+  "en": "6 aq",
+  "t": "6 aq"
  },
  "808c079a16e4": {
   "en": "Proof",
@@ -335,9 +607,41 @@
   "en": "Level",
   "t": "Nível"
  },
+ "8524c7576ac0": {
+  "en": "SOUL POINTS",
+  "t": "SOUL POINTS"
+ },
+ "8538b207666f": {
+  "en": "Welcome back. Forway is glad you're alive. Forway would like to discuss the bill.",
+  "t": "Bem-vindo de volta. Forway fica feliz por você estar vivo. Forway gostaria de conversar sobre a conta."
+ },
+ "86486d28d55e": {
+  "en": "PAID",
+  "t": "PAGO"
+ },
  "86f21e170b3f": {
   "en": "WANTED",
   "t": "PROCURADO"
+ },
+ "876f29eaf465": {
+  "en": "NULLIFICATION CLAUSES",
+  "t": "CLÁUSULAS DE ANULAÇÃO"
+ },
+ "89595df30548": {
+  "en": "Paid to Forway",
+  "t": "Pago a Forway"
+ },
+ "8981f49474b4": {
+  "en": "World DESTROY <i>shatter</i>",
+  "t": "World DESTROY <i>despedaçar</i>"
+ },
+ "89b61c29ca4e": {
+  "en": "Harm done to the cargo, passengers or Eguas <b>by the Contracted Adventurers</b> is a breach of contract and a crime under Forway Law.",
+  "t": "Dano causado à carga, aos passageiros ou às Eguas <b>pelos Aventureiros Contratados</b> é quebra de contrato e crime pela Lei de Forway."
+ },
+ "8ae4cb7f9fd5": {
+  "en": "Light CREATE <i>light</i>",
+  "t": "Light CREATE <i>luz</i>"
  },
  "8ae5de71fd4b": {
   "en": "Circles",
@@ -347,6 +651,10 @@
   "en": "Cargo",
   "t": "Carga"
  },
+ "8ba2782d8b61": {
+  "en": "This contract can only be nullified by the clauses written on its back.",
+  "t": "Este contrato só pode ser anulado pelas cláusulas escritas no verso."
+ },
  "8cd7920b835a": {
   "en": "Tier",
   "t": "Nível"
@@ -355,9 +663,29 @@
   "en": "Amethyst (or a Pearl party led by one)",
   "t": "Amethyst (ou um grupo Pearl liderado por um)"
  },
+ "8ede48f34980": {
+  "en": "The Poster",
+  "t": "O Anunciante"
+ },
+ "912cb0d9b996": {
+  "en": "Revived at the",
+  "t": "Reanimado na"
+ },
  "9176ce89095a": {
   "en": "Other: ______________",
   "t": "Outro: ______________"
+ },
+ "92516a005ed9": {
+  "en": "A <b>Kingdom Alert</b> or an <b>Emergency</b> is called along the route. The deadline is suspended until it ends.",
+  "t": "Um <b>Alerta do reino</b> ou uma <b>Emergência</b> for declarado ao longo da rota. O prazo fica suspenso até acabar."
+ },
+ "95ab1faed512": {
+  "en": "1 sa",
+  "t": "1 sa"
+ },
+ "9647be156124": {
+  "en": "Object INCREASE / DECREASE <i>enlarge/reduce</i>",
+  "t": "Object INCREASE / DECREASE <i>aumentar/reduzir</i>"
  },
  "9826815b57f9": {
   "en": "<b>ANGRY.</b> Walking Skin packs raiding farms near Bahyum. Bar your doors. An Aquamarine quest goes up if it reaches 5.",
@@ -367,9 +695,25 @@
   "en": "Vigilantes are criminals. So are adventurers who become them.",
   "t": "Justiceiros são criminosos. Aventureiros que viram justiceiros também."
  },
+ "9aa31746ed8c": {
+  "en": "REVIVAL DEBT = 100 pearls × level = ____________ pearls",
+  "t": "DÍVIDA DE REANIMAÇÃO = 100 pearls × nível = ____________ pearls"
+ },
  "9ae7d8566d73": {
   "en": "II",
   "t": "II"
+ },
+ "9aec1ff25096": {
+  "en": "Sigil Rings · Tier 0",
+  "t": "Anéis de sigilo · Nível 0"
+ },
+ "9b52525e6e52": {
+  "en": "1 PEARL",
+  "t": "1 PEARL"
+ },
+ "9b5b88ae004f": {
+  "en": "Fire CREATE, spark <i>fire bolt</i>",
+  "t": "Fire CREATE, faísca <i>raio de fogo</i>"
  },
  "9b996c619b29": {
   "en": "Name · Place · Guild",
@@ -379,13 +723,25 @@
   "en": "Posted by",
   "t": "Publicada por"
  },
+ "9f0bf42bbcfe": {
+  "en": "Adventurers' speaker",
+  "t": "Porta-voz dos aventureiros"
+ },
  "a4f7be073854": {
   "en": "The Sanbi embassy has opened an investigation. Merchants' guilds now ask for a <b>bond of 10% of the reward</b>, paid up front, on Cargo Protection contracts. \"Adventurers on the Sanbi road are in on it,\" said one, who did not wish to be named.",
   "t": "A embaixada de Sanbi abriu uma investigação. As guildas de mercadores agora pedem uma <b>caução de 10% da recompensa</b>, paga adiantada, nos contratos de proteção de carga. «Os aventureiros da estrada de Sanbi estão envolvidos», disse um deles, que não quis se identificar."
  },
+ "a5492fb86200": {
+  "en": "Property of Forway · blood-registered to its bearer · do not lend (Missing Person quests excepted)",
+  "t": "Propriedade de Forway · registrado com sangue ao portador · não empreste (exceto em missões de Pessoa desaparecida)"
+ },
  "a70e48bd0367": {
   "en": "SAMPLE ISSUE",
   "t": "EDIÇÃO DE AMOSTRA"
+ },
+ "a7927893c83c": {
+  "en": "Goods recovered from bandits are surrendered to Forway for investigation.",
+  "t": "Bens recuperados de bandidos são entregues a Forway para investigação."
  },
  "a84e4c00b86a": {
   "en": "draw the criminal here",
@@ -395,13 +751,33 @@
   "en": "<b>LOST:</b> courier Winga, blue, answers to \"Feathers.\" Do not eat. Reward 5 pearls.",
   "t": "<b>PERDIDA:</b> Winga mensageira, azul, atende por «Peninha». Não coma. Recompensa de 5 pearls."
  },
+ "a9e409757063": {
+  "en": "3 aq",
+  "t": "3 aq"
+ },
+ "aaa3a908692f": {
+  "en": "aq = aquamarine (500 p)",
+  "t": "aq = aquamarine (500 p)"
+ },
  "aad2f88a3da8": {
   "en": "Robbing contracted cargo",
   "t": "Roubo de carga contratada"
  },
+ "abf369643984": {
+  "en": "5 am",
+  "t": "5 am"
+ },
+ "ac52f67906ad": {
+  "en": "Ice CREATE, frost ball <i>ray of frost</i>",
+  "t": "Ice CREATE, bola de gelo <i>raio de gelo</i>"
+ },
  "acf86fb27bf5": {
   "en": "Fleeing revival debt",
   "t": "Fuga da dívida de reanimação"
+ },
+ "ad6542159a94": {
+  "en": "WINGA MAIL",
+  "t": "CORREIO WINGA"
  },
  "b1e9c61f07f2": {
   "en": "<b>FOR SALE:</b> bone-wood Picker, barely chewed. 8 pearls.",
@@ -411,13 +787,53 @@
   "en": "<b>Revival debt</b> is 100 pearls per level, and 50% of every quest reward goes to Forway until it is paid. Fleeing your debt makes you wanted. Dying again while you owe drafts you into the Forway Guard. <i>Forway thanks you for your service.</i>",
   "t": "A <b>dívida de reanimação</b> é de 100 pearls por nível, e 50% de toda recompensa de missão vai para Forway até ser paga. Fugir da dívida torna você procurado. Morrer de novo enquanto deve recruta você para a Guarda de Forway. <i>Forway agradece pelos seus serviços.</i>"
  },
+ "b48145507a19": {
+  "en": "Should you <b>die again while you still owe</b>, Forway drafts you into the <b>Forway Guard</b>, unless your companions pay the full remaining debt plus the new debt on the spot.",
+  "t": "Se você <b>morrer de novo enquanto ainda deve</b>, Forway recruta você para a <b>Guarda de Forway</b>, a menos que seus companheiros paguem na hora toda a dívida restante mais a nova."
+ },
+ "b594d034ad81": {
+  "en": "2 am",
+  "t": "2 am"
+ },
+ "b6cf71130a5c": {
+  "en": "Fire CREATE, ball <i>fireball</i> (III)",
+  "t": "Fire CREATE, bola <i>bola de fogo</i> (III)"
+ },
+ "b73cd1ed0adf": {
+  "en": "Fire CREATE, fan <i>burning hands</i>",
+  "t": "Fire CREATE, leque <i>mãos flamejantes</i>"
+ },
  "b76af4cfe69d": {
   "en": "Black honey revival pot",
   "t": "Pote de mel negro para reanimação"
  },
+ "b82f0df11b51": {
+  "en": "ENTANGLE, shared hearing <i>message</i>",
+  "t": "ENTANGLE, audição compartilhada <i>mensagem</i>"
+ },
+ "b893c9fae1bf": {
+  "en": "This contract is <b>void</b>, with no penalty to either party, if:",
+  "t": "Este contrato é <b>nulo</b>, sem multa para nenhuma das partes, se:"
+ },
+ "b95d40e02b9d": {
+  "en": "clerk",
+  "t": "escrivão"
+ },
+ "ba8a5cbb0fb1": {
+  "en": "Fleeing this debt makes you <b>wanted</b>. Bounty quests will carry your face.",
+  "t": "Fugir desta dívida torna você <b>procurado</b>. As missões de recompensa vão estampar o seu rosto."
+ },
  "bac9a1eda6ca": {
   "en": "Heard in the Lounge",
   "t": "Ouvido no salão"
+ },
+ "bb2e56d3e943": {
+  "en": "Guild",
+  "t": "Guilda"
+ },
+ "bd8d428fa7a3": {
+  "en": "Stragglers on the plains. Travel in groups.",
+  "t": "Retardatários nas planícies. Viajem em grupo."
  },
  "be16c3c04ebb": {
   "en": "The Bagarisa Brothers' Recruiter",
@@ -431,17 +847,37 @@
   "en": "Weekly printout · read aloud at Monnalow",
   "t": "Impresso semanal · lido em voz alta em Monnalow"
  },
+ "bfd85a0d0f86": {
+  "en": "Storm CREATE, heart jolt <i>spare the dying</i>",
+  "t": "Storm CREATE, choque no coração <i>poupar os moribundos</i>"
+ },
  "bffdcf140e1e": {
   "en": "Breach of contract",
   "t": "Quebra de contrato"
+ },
+ "c3c3329f3c3d": {
+  "en": "3 days + 1 per level = ______ days □ body was iced (window doubled)",
+  "t": "3 dias + 1 por nível = ______ dias □ o corpo foi posto no gelo (janela dobrada)"
  },
  "c437f693df6f": {
   "en": "Vraki West March · Handout 02 · Blank Quest Notices",
   "t": "Vraki West March · Material 02 · Avisos de missão em branco"
  },
+ "c5c46e831899": {
+  "en": "□ intact □ damaged □ partial □ not delivered",
+  "t": "□ intacta □ danificada □ parcial □ não entregue"
+ },
  "c6154c9d7a78": {
   "en": "From",
   "t": "De"
+ },
+ "c6c3a53c0bdb": {
+  "en": "Nari Gels · per jar (4 scoops), coarse",
+  "t": "Géis de nari · por pote (4 colheradas), grosso"
+ },
+ "c7070eca4304": {
+  "en": "Received by",
+  "t": "Recebida por"
  },
  "c88bf0d64ddf": {
   "en": "Text &amp; layout AI-assisted · Art by Mitsukiven &amp; Feiourm · © Deovandski Skibinski Junior · CC-BY-NC-SA-4.0",
@@ -471,17 +907,53 @@
   "en": "Rank",
   "t": "Rank"
  },
+ "cbbd4f346aae": {
+  "en": "THIS CONTRACT IS NOT NULLIFIED BY",
+  "t": "ESTE CONTRATO NÃO É ANULADO POR"
+ },
+ "cca85eac3e04": {
+  "en": "Gravity ATTRACT, self <i>levitate / spider climb</i>",
+  "t": "Gravity ATTRACT, em si <i>levitação / patas de aranha</i>"
+ },
+ "ce8e4eaf77b0": {
+  "en": "DELIVERY RECEIPT (destination embassy)",
+  "t": "RECIBO DE ENTREGA (embaixada de destino)"
+ },
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "Nome"
+ },
+ "cf07834570cc": {
+  "en": "Body RESTORE <i>cure wounds</i>",
+  "t": "Body RESTORE <i>curar ferimentos</i>"
  },
  "d1b5b9114b00": {
   "en": "Spring",
   "t": "Primavera"
  },
+ "d1f50b831603": {
+  "en": "RAMPAGE",
+  "t": "FÚRIA"
+ },
+ "d22cc06775f4": {
+  "en": "Ice CREATE, shard <i>ice knife</i>",
+  "t": "Ice CREATE, estilhaço <i>faca de gelo</i>"
+ },
+ "d2ec99b3097f": {
+  "en": "Under the Prosperity Treaty · witnessed at the ______________ Embassy",
+  "t": "Nos termos do Tratado de Prosperidade · testemunhado na embaixada de ______________"
+ },
+ "d3fbdddf0ef8": {
+  "en": "Water Gravity ATTRACT <i>control water</i> (IV)",
+  "t": "Water Gravity ATTRACT <i>controlar a água</i> (IV)"
+ },
  "d6a2e267aafb": {
   "en": "Silo keeper's signed receipt",
   "t": "Recibo assinado pelo guarda do silo"
+ },
+ "d6eb0c25f65d": {
+  "en": "For letters home, warnings ahead, and double-crosses. Cut along the dashed lines.",
+  "t": "Para cartas para casa, avisos antecipados e traições. Recorte nas linhas tracejadas."
  },
  "d81ba82fb77c": {
   "en": "Ball",
@@ -495,6 +967,14 @@
   "en": "4 aquamarines",
   "t": "4 aquamarines"
  },
+ "daa6158bcea9": {
+  "en": "Gravity DECREASE, self <i>feather fall / jump</i>",
+  "t": "Gravity DECREASE, em si <i>queda suave / salto</i>"
+ },
+ "db86f5d8e66f": {
+  "en": "cut out this marker, or use a paperclip:",
+  "t": "recorte este marcador, ou use um clipe:"
+ },
  "dea2e498b351": {
   "en": "Homeegg: Sanbi Wins Again",
   "t": "Homeegg: Sanbi vence de novo"
@@ -502,6 +982,18 @@
  "dec64fbe04ed": {
   "en": "Nari stone stick (5 stones)",
   "t": "Bastão de pedras de nari (5 pedras)"
+ },
+ "df9bde780933": {
+  "en": "Issued",
+  "t": "Emitido em"
+ },
+ "e05fe2384813": {
+  "en": "30 p",
+  "t": "30 p"
+ },
+ "e1e0857e57ee": {
+  "en": "Date of death",
+  "t": "Data da morte"
  },
  "e3d95e017a11": {
   "en": "Month",
@@ -511,13 +1003,33 @@
   "en": "Sapphire",
   "t": "Sapphire"
  },
+ "e4f04707207a": {
+  "en": "Nari stone (1 SP of energy)",
+  "t": "Pedra de nari (1 SP de energia)"
+ },
  "e54e1a482bf0": {
   "en": "· Poachers swear they saw a <b>living Fuhraies</b>.<br>· A gore-soaked figure in insect armor, <b>\"The Stinger,\"</b> was seen near a road again. Forway is curious, not hostile.<br>· A <b>new room</b> appeared in Bahyum Castle.<br>· Someone is selling <b>Walking Hearts</b> again.<br>· This year's <b>Black Magina</b> field is \"somewhere warm.\"<br>· A Teefyro exploded near Tastyleaf and <b>left something</b> in the crater.",
   "t": "· Caçadores ilegais juram que viram um <b>Fuhraies vivo</b>.<br>· Uma figura encharcada de sangue numa armadura de inseto, <b>«The Stinger»</b>, foi vista de novo perto de uma estrada. Forway está curiosa, não hostil.<br>· Uma <b>sala nova</b> apareceu no Castelo de Bahyum.<br>· Alguém está vendendo <b>Walking Hearts</b> de novo.<br>· O campo da <b>Black Magina</b> deste ano fica «em algum lugar quente».<br>· Um Teefyro explodiu perto de Tastyleaf e <b>deixou algo</b> na cratera."
  },
+ "e556bccf785e": {
+  "en": "Poster",
+  "t": "Anunciante"
+ },
+ "e6f866f419c1": {
+  "en": "today's mood",
+  "t": "humor de hoje"
+ },
  "e74f6337e511": {
   "en": "AQUAMARINE QUEST · BAHYUM CONTROL",
   "t": "MISSÃO AQUAMARINE · CONTROLE DE BAHYUM"
+ },
+ "e8104ddd521c": {
+  "en": "Until the debt is paid, <b>50% of every quest reward</b> goes to Forway. The debt may also be paid early, in balls, at any embassy.",
+  "t": "Até a dívida ser paga, <b>50% de toda recompensa de missão</b> vai para Forway. A dívida também pode ser paga antes, em bolas, em qualquer embaixada."
+ },
+ "e89cf4620669": {
+  "en": "20 p · 5 p",
+  "t": "20 p · 5 p"
  },
  "ec3805b10a3c": {
   "en": "1 aquamarine",
@@ -535,9 +1047,29 @@
   "en": "<b>WANTED:</b> Minari players, Tollday nights. Bring your own statues.",
   "t": "<b>PROCURAM-SE:</b> jogadores de Minari, noites de Tollday. Tragam suas próprias estatuetas."
  },
+ "f065ca36c4a4": {
+  "en": "Failing the quest, or missing the deadline without good reason, costs a <b>penalty of 10% of the reward</b>.",
+  "t": "Fracassar na missão, ou perder o prazo sem bom motivo, custa uma <b>multa de 10% da recompensa</b>."
+ },
+ "f0f462fc246b": {
+  "en": "sa = sapphire (5,000 p)",
+  "t": "sa = sapphire (5.000 p)"
+ },
  "f151f3dab9c8": {
   "en": "None, until someone claims it",
   "t": "Nenhum, até alguém reivindicar"
+ },
+ "f1d39d2e98a8": {
+  "en": "Both parties agree, in front of an embassy witness, and both sign below.",
+  "t": "As duas partes concordarem, diante de uma testemunha da embaixada, e ambas assinarem abaixo."
+ },
+ "f1dbe09a40eb": {
+  "en": "Quiet. The doors stand open. Historians, this is your day.",
+  "t": "Calmo. As portas estão abertas. Historiadores, hoje é o seu dia."
+ },
+ "f3d306caeafa": {
+  "en": "Sigil rings · nari gels · stones &amp; bombs · Forway prices (other cities charge more for distance)",
+  "t": "Anéis de sigilo · géis de nari · pedras e bombas · preços de Forway (outras cidades cobram mais pela distância)"
  },
  "f4d19ca4b670": {
   "en": "A recruiter for the Bagarisa Brothers vigilantes has been signing up farmhands to \"punish bandits\" outside Forway Law. Bring him to the embassy <b>alive</b>. Forway does not pay for corpses on this one.",
@@ -550,6 +1082,10 @@
  "f5aea10a8548": {
   "en": "To",
   "t": "Para"
+ },
+ "f706a8662ff5": {
+  "en": "FORWAY EMBASSY · AQUAMARINE",
+  "t": "EMBAIXADA DE FORWAY · AQUAMARINE"
  },
  "f88b2a35f578": {
   "en": "for confirmed information on his whereabouts, paid by any Forway embassy",
@@ -574,6 +1110,10 @@
  "fc579a92ff12": {
   "en": "Round trip + 50%, set by the clerk",
   "t": "Ida e volta + 50%, definido pelo escrivão"
+ },
+ "fde8991d39b8": {
+  "en": "You wake with 1 HP and one level of exhaustion. Rest. Eat something. Do not die today.",
+  "t": "Você acorda com 1 HP e um nível de exaustão. Descanse. Coma alguma coisa. Não morra hoje."
  },
  "ffc820385233": {
   "en": "Delivery receipt sealed by the Sanbi embassy",
