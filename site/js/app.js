@@ -225,9 +225,9 @@
   // Heading ids come from the English headings, so links to a section (#…, ?h=…) work in every language.
   function englishHeadings(en) {
     if (!en) return null;
-    const d = document.createElement("div");
+    const d = document.createElement("template"); // inert: its pictures don't load (their paths aren't fixed up yet)
     d.innerHTML = window.marked.parse(en, { gfm: true });
-    return [...d.querySelectorAll("h1,h2,h3,h4")].map((h) => h.textContent);
+    return [...d.content.querySelectorAll("h1,h2,h3,h4")].map((h) => h.textContent);
   }
 
   function enhanceDoc(root, path, en) {

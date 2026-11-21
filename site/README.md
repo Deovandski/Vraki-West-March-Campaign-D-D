@@ -45,6 +45,8 @@ The workflow in `.github/workflows/pages.yml` publishes the site on every push t
 
 On the way it writes the translations the site loads (`node tools/i18n.js build`, into `site/i18n/`) and renders the handouts in each language (`Handouts/<lang>/`). If the handouts can't be rendered, the site still deploys with the English ones. The step summary of each run, and of the **Translations** workflow on every pull request, says how much of each language is translated; neither ever fails because of a missing translation.
 
+Its step summary also lists how big the deployed site is and what fills it (about 80 MB, mostly the 34 MB print map and the handouts in seven languages; the Pages limit is 1 GB). The workflows use the Node 24 releases of GitHub's actions.
+
 It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use. Building and deploying are two jobs (**build**, then **deploy**); if a deploy ever fails, re-run the whole workflow rather than just the failed job, so it builds a fresh copy.
 
 One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**
