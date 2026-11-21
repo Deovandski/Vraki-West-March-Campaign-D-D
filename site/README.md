@@ -35,6 +35,20 @@ It also stamps `sw.js` with the commit, so every deploy refreshes the copy peopl
 
 One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**
 
+## For AI tools and search engines
+The site is one page that JavaScript fills in, and its pages live after a `#` in the address. Most AI tools and many crawlers don't run JavaScript and ignore everything after the `#`, so to them the site looks empty. These files point them to the Markdown instead:
+- **`llms.txt`** ([format](https://llmstxt.org/)): a short summary of the campaign, then every page grouped as in the side menu (Start here, Player rules, Adventurers, World lore, Maps & handouts), each linked to its raw `.md` file with a one-line description. The DM pages come last, in their own **DM only (spoilers)** sections.
+- **`llms-full.txt`**: every page in one file, in the same order, with links made absolute.
+- **`sitemap.xml`**: the home page, the two files above and every page, for search engines.
+
+`site/build-llms.js` writes all three from the page list in `site/js/content.js`, so a page added to the menus is added here too. The publishing workflow runs it on every deploy; the files aren't kept in the repo. To leave the DM pages out, set `INCLUDE_DM` to `false` at the top of the script.
+
+The page also links them for readers that never get past the HTML: `<link rel="alternate">` tags in `index.html`, a short list of links that shows when JavaScript is off, and a footer on every page.
+
+**Try it on your computer:** run `node site/build-llms.js` in the repo folder (it writes the three files there; git ignores them), start the local server below, and open http://localhost:8000/llms.txt. To see what a reader without JavaScript gets, turn JavaScript off for the page (in Chrome: DevTools → ⋮ → Run command → "Disable JavaScript") and reload. The script also lists any `.md` file that isn't in `site/js/content.js`.
+
+**Once, by hand:** submit `https://deovandski.github.io/Vraki-West-March-Campaign-D-D/sitemap.xml` in [Bing Webmaster Tools](https://www.bing.com/webmasters) and [Google Search Console](https://search.google.com/search-console). A project site can't name its sitemap in a `robots.txt`, because that file only counts at the top of `deovandski.github.io`.
+
 ## Running it on your computer
 Browsers block a page opened straight from a file from loading other files, so start a tiny local server in the repo folder:
 
@@ -49,7 +63,7 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 |---|---|
 | Change a rule, a stat block or an encounter table | Edit the `.md` file. The site and its tools read it directly. Keep the existing format (for example `## Name (CR 3) — Region` and `AC 14 · HP 80` in the stat blocks, numbered lists under each region in Events & Encounters) so the tools can read it. |
 | Change a route's length, or add a route | Edit the **Route lengths** table in `Maps/README.md` (From, To, Circles, On the map, Encounter table). The travel map page and the travel planner read it directly. |
-| Add a new page | Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus and search. |
+| Add a new page | Add the `.md` file, then add a line for it in the list at the top of `site/js/content.js` so it appears in the menus, search, `llms.txt` and the sitemap. |
 | Refresh the offline copy | The publishing workflow does this on every push. To refresh the copy in the repo too, run `node site/build-snapshot.js`. |
 
 ## Files
@@ -57,6 +71,7 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 - `site/css/site.css` — the look
 - `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)
 - `site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline
+- `site/build-llms.js` — writes `llms.txt`, `llms-full.txt` and `sitemap.xml` for AI tools and search engines (run by the publishing workflow)
 - `sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)
 - `site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts
 - `site/js/pwa.js` — registers the service worker and runs the install button, the iPhone hint, the offline status and the "save for offline" buttons (a reusable component)

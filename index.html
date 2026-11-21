@@ -6,6 +6,10 @@
 <title>Vraki West March</title>
 <meta name="description" content="Player and DM companion for the Vraki West March, an open-table D&D 5e campaign in the world of #HusbandOutWorld: rules, lore, dice, calculators and a travel planner.">
 <link rel="icon" href="Handouts/source/assets/forway-emblem.png">
+<!-- For AI tools and search engines: the site's pages as plain Markdown (written by site/build-llms.js). -->
+<link rel="alternate" type="text/markdown" href="llms.txt" title="llms.txt: every page, for AI tools">
+<link rel="alternate" type="text/markdown" href="llms-full.txt" title="Every page in one file">
+<link rel="sitemap" type="application/xml" href="sitemap.xml">
 <link rel="manifest" href="site/manifest.webmanifest">
 <link rel="apple-touch-icon" href="site/icons/apple-touch-icon.png">
 <meta name="theme-color" content="#1f3a2e">
@@ -66,7 +70,24 @@
 
 <div class="layout">
   <nav class="sidenav" id="sidenav" aria-label="Site"></nav>
-  <main id="main" tabindex="-1"></main>
+  <main id="main" tabindex="-1">
+    <noscript>
+      <div class="page noscript-note">
+        <h1>Vraki West March</h1>
+        <p>An open-table D&amp;D 5e campaign in the world of #HusbandOutWorld. The menus and tools need JavaScript, but every page is a plain Markdown file you can read directly:</p>
+        <ul>
+          <li><a href="README.md">About this campaign</a></li>
+          <li><a href="D%26D%20Campaign/02%20-%20Making%20an%20Adventurer.md">Making an adventurer</a> and the <a href="D%26D%20Campaign/Adventurers/README.md">pre-made adventurers</a></li>
+          <li><a href="World%20Lore/README.md">World lore</a></li>
+          <li><a href="Maps/README.md">The travel map and route lengths</a></li>
+          <li><a href="llms.txt">Every page, listed (llms.txt)</a>, or <a href="llms-full.txt">all of them in one file (llms-full.txt)</a></li>
+        </ul>
+      </div>
+    </noscript>
+  </main>
+  <footer class="site-footer">
+    <p>Plain text for AI tools and search engines: <a href="llms.txt">llms.txt</a> · <a href="llms-full.txt">llms-full.txt</a> · <a href="sitemap.xml">sitemap.xml</a></p>
+  </footer>
 </div>
 
 <aside class="dice-tray" id="dice-tray" aria-label="Dice tray" hidden>
