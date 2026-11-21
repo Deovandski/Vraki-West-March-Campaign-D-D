@@ -716,6 +716,10 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
 .settings-menu .lang-picker { font: 15px var(--ui); }
 .settings-menu .lang-picker__opt { background: var(--paper); }
 .settings-menu .lang-picker__opt[aria-checked="true"] { background: var(--wood-2); }
+.settings-menu { --unit-picker-on: var(--wood-2); --unit-picker-on-ink: #fff; --unit-picker-line: var(--line); }
+.settings-menu .unit-picker { font: 15px var(--ui); }
+.settings-menu .unit-picker__opt { background: var(--paper); }
+.settings-menu .unit-picker__opt[aria-checked="true"] { background: var(--wood-2); }
 .settings-more { margin: 0; font: 14px var(--ui); }
 .settings-theme .seg button { padding: 7px 14px; }
 .lang-banner { background: var(--wood-2); color: #f3f7f4; font: 14px/1.4 var(--ui); padding: 6px 16px; border-bottom: 1px solid rgba(0, 0, 0, 0.2); }

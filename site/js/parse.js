@@ -41,7 +41,7 @@
       const m = /^(.+?)\s*\((?:CR\s*)?([^)]*)\)\s*(?:—\s*(.*))?$/.exec(head);
       if (!m) return;
       if (/template/i.test(m[2])) return; // the Hash template is applied, not fought
-      const c = { name: m[1].trim(), cr: CR(m[2].replace(/,.*$/, "")), crNote: /,/.test(m[2]) ? m[2].split(",").slice(1).join(",").trim() : "", region: (m[3] || "").trim(), kind: "Beast", traits: [], loot: "", lootRaw: "" };
+      const c = { name: m[1].trim(), cr: CR(m[2].replace(/,.*$/, "")), crNote: /,/.test(m[2]) ? m[2].split(",").slice(1).join(",").trim() : "", region: (m[3] || "").trim(), kind: "Beast", traits: [], loot: "", lootRaw: "", head };
       lines.slice(1).forEach((l) => {
         l = l.trim();
         if (!l) return;
@@ -107,10 +107,10 @@
       const head = lines[0].trim();
       const body = lines.slice(1);
       const names = head.split(/\s+\/\s+/); // "Bandit (CR ⅛) / Bandit Captain (CR 2)"
-      names.forEach((h) => {
+      names.forEach((h, i) => {
         const m = /^(.+?)\s*\(CR\s*([^)]*)\)\s*(?:—\s*(.*))?$/.exec(h.trim());
         if (!m) return;
-        const c = { name: m[1].trim(), cr: CR(m[2]), kind: "Person", region: "", traits: [], loot: "", base: "" };
+        const c = { name: m[1].trim(), cr: CR(m[2]), kind: "Person", region: "", traits: [], loot: "", base: "", head, headPart: i };
         const note = (m[3] || "").trim();
         const useM = /use \*([^*]+)\*/i.exec(note);
         if (useM) c.base = useM[1];
@@ -223,7 +223,7 @@
     ["STR", "DEX", "CON", "INT", "WIS", "CHA"].forEach((k) => { const m = new RegExp("\\*\\*" + k + "\\*\\*\\s*(\\d+)").exec(md); if (m) abil[k] = +m[1]; });
     return {
       path, name: stripMd(name || "").trim(), level: lvl ? +lvl[1] : 1, summary: stripMd(rest || ""),
-      people: field("People"), cls: field("Class"), rank: field("Rank").replace(/\s*\(.*$/, ""),
+      people: field("People"), cls: field("Class"), fieldsRaw: (md.split(/\n\s*\n/).find((b) => b.includes("**Class:**")) || "").split("\n").filter((l) => !/^#/.test(l)).join("\n"), rank: field("Rank").replace(/\s*\(.*$/, ""),
       ac: ac ? +ac[1] : 10, hp: hp ? +hp[1] : 10, sp: sp ? +sp[1] : 1, abilities: abil
     };
   }

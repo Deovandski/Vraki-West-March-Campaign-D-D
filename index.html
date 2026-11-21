@@ -20,6 +20,7 @@
 <link rel="stylesheet" href="site/css/site.css">
 <link rel="stylesheet" href="site/css/map-viewer.css">
 <link rel="stylesheet" href="site/css/lang-picker.css">
+<link rel="stylesheet" href="site/css/units.css">
 <script>
   // Apply the saved theme before the page paints.
   try { var t = localStorage.getItem("vraki-west-march:theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
@@ -82,7 +83,7 @@
     <button class="icon-btn theme-btn" data-action="theme" aria-label="Switch light or dark" title="Light or dark" data-i18n-attr="aria-label title">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z"/></svg>
     </button>
-    <button class="icon-btn" data-action="settings" aria-label="Settings: language and theme" title="Settings" aria-haspopup="true" aria-expanded="false" data-i18n-attr="aria-label title">
+    <button class="icon-btn" data-action="settings" aria-label="Settings: language, distances and theme" title="Settings" aria-haspopup="true" aria-expanded="false" data-i18n-attr="aria-label title">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1L7 17M17 7l2.1-2.1"/></svg>
     </button>
     <button class="dice-btn" data-action="dice-open" aria-label="Open the dice tray" aria-expanded="false" data-i18n-attr="aria-label">
@@ -105,6 +106,7 @@
     <h2 id="settings-h" data-i18n>Settings</h2>
     <div class="lang-picker" data-lang-picker data-label="Language" data-storage-key="vraki-west-march:lang"></div>
     <p class="settings-more"><a href="https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7" target="_blank" rel="noopener" data-i18n>Want a language added?</a></p>
+    <div class="unit-picker" data-unit-picker data-storage-key="vraki-west-march:units"></div>
     <div class="settings-theme" role="group" aria-labelledby="theme-h">
       <h3 id="theme-h" data-i18n>Theme</h3>
       <div class="seg small">
@@ -184,6 +186,7 @@
 <script src="site/js/map-viewer.js"></script>
 <script src="site/js/map.js"></script>
 <script src="site/js/lang-picker.js"></script>
+<script src="site/js/units.js"></script>
 <script>VW.app.start();</script>
 <script src="site/js/pwa.js" data-sw="sw.js" data-scope="./" defer></script>
 </body>

@@ -65,6 +65,18 @@ async function render(browser, lang, out) {
     const meta = JSON.parse(fs.readFileSync(path.join(ROOT, 'i18n', lang, 'meta.json'), 'utf8'));
     const tr = Object.fromEntries(Object.entries(store).filter(([, v]) => v && v.t).map(([h, v]) => [h, v.t]));
     await page.evaluate(pieces, tr);
+    // Distances in the language's own units (meta.json "units": "metric"): "20-ft cloud" -> "6 m" (site/js/units.js).
+    if (meta.units === 'metric') {
+      await page.addScriptTag({ path: path.join(ROOT, 'site', 'js', 'units.js') });
+      await page.evaluate((m) => {
+        const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+        for (let n = w.nextNode(); n; n = w.nextNode()) {
+          if (n.parentElement.closest('.vk, script, style')) continue;
+          const t = window.Units.convert(n.nodeValue, { lang: m.code, locale: m.locale });
+          if (t !== n.nodeValue) n.nodeValue = t;
+        }
+      }, Object.assign({ code: lang }, meta));
+    }
     await page.evaluate((m) => {
       document.documentElement.lang = m.html_lang || 'en';
       document.documentElement.dir = m.dir || 'ltr';

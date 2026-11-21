@@ -446,6 +446,7 @@
       el.dataset.doneText = __("{pct}% translated");
       if (window.LanguagePicker) window.LanguagePicker.mount(el);
     });
+    setupUnits();
     const banner = document.getElementById("lang-banner");
     if (banner && I18N.lang !== "en") {
       banner.innerHTML = `<p>${esc(I18N.meta.banner || "")} <button class="link" data-action="lang-en" lang="en">${esc(I18N.meta.english || "English")}</button></p>`;
@@ -457,6 +458,20 @@
       offline: __("You're offline. Showing what's saved on this device."), ready: __("Ready to use offline on this device."),
       saving: __("Saving…"), saved: __("Saved for offline use"), partial: __("Saved {saved} of {total}. Try again online for the rest.")
     });
+  }
+  // Distances: feet and miles as written, or meters and kilometers (site/js/units.js). English starts in feet;
+  // a language whose i18n/<lang>/meta.json says "units": "metric" starts in meters. The Settings menu switches.
+  function setupUnits() {
+    if (!window.Units) return;
+    const key = "vraki-west-march:units";
+    const units = window.Units.preferred(key, I18N.meta.units === "metric" ? "metric" : "imperial");
+    document.querySelectorAll("[data-unit-picker]").forEach((el) => {
+      el.dataset.label = __("Distances");
+      el.dataset.value = units;
+      el.dataset.options = JSON.stringify([{ value: "imperial", label: __("Feet and miles") }, { value: "metric", label: __("Meters and kilometers") }]);
+      window.Units.mount(el);
+    });
+    window.Units.watch(document.body, { lang: I18N.lang, locale: I18N.locale, units });
   }
   function switchLanguage(code) {
     try { localStorage.setItem("vraki-west-march:lang", code); } catch (e) {}

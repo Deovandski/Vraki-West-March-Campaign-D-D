@@ -79,6 +79,10 @@
   "en": "Add text to the site's own code",
   "t": "사이트 코드에 글 추가하기"
  },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js`와 `site/css/units.css` — 피트냐 미터냐: 페이지의 거리를 변환하고 설정의 '거리' 선택을 맡는다(재사용 가능한 컴포넌트)"
+ },
  "49624bfb046c": {
   "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
   "t": "저장소에서 보이는 것과 같은 Markdown 파일을 읽으므로, 손으로 맞춰 둘 게 없다: 규칙을 고치고 push하면 사이트에 변경이 나타난다."
@@ -214,6 +218,10 @@
  "acb6baf6327c": {
   "en": "You want to…",
   "t": "하고 싶은 일"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**거리:** 규칙은 D&D처럼 피트와 마일로 쓰여 있다. 영어는 그대로 보여 주고, 번역판은 미터와 킬로미터로 보여 준다(`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, D&D에서 흔히 쓰는 환산). 모든 페이지와 도구, 번역된 배포 자료에 적용된다. **설정 → 거리**에서 어느 언어로든 둘 사이를 바꿀 수 있고, 고른 것은 기억된다. 설정에서 이미 미터와 킬로미터로 나와 있는 높이와 고도(이 세계의 단위)는 그대로다."
  },
  "b70a8ac2bc53": {
   "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",

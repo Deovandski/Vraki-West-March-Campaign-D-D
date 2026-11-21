@@ -163,7 +163,7 @@
   }
 
   function fromPregen(a) {
-    return blankMember({ name: a.label || a.name, people: VW.content.nameL(a.people), cls: a.clsL || a.cls, level: a.level, rank: a.rank || "Pearl", ac: a.ac, hp: a.hp, maxHp: a.hp, sp: a.sp, maxSp: a.sp, notes: "", source: a.path });
+    return blankMember({ name: a.label || a.name, people: a.peopleL || VW.content.nameL(a.people), cls: a.clsL || a.cls, level: a.level, rank: a.rank || "Pearl", ac: a.ac, hp: a.hp, maxHp: a.hp, sp: a.sp, maxSp: a.sp, notes: "", source: a.path });
   }
 
   // base = state path to the member, e.g. "party.2"

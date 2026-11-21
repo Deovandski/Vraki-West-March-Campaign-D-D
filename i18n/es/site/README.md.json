@@ -79,6 +79,10 @@
   "en": "Add text to the site's own code",
   "t": "Añadir texto al código de la propia web"
  },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js` y `site/css/units.css` — pies o metros: convierte las distancias de la página y gestiona la opción Distancias de Ajustes (un componente reutilizable)"
+ },
  "49624bfb046c": {
   "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
   "t": "Lee los mismos archivos Markdown que ves en el repositorio, así que no hay nada que sincronizar a mano: edita una regla, haz push y la web muestra el cambio."
@@ -214,6 +218,10 @@
  "acb6baf6327c": {
   "en": "You want to…",
   "t": "Quieres…"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**Distancias:** las reglas están escritas en pies y millas, como en D&D. En inglés se muestran así; las traducciones las muestran en metros y kilómetros (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, la conversión habitual de D&D), en todas las páginas, en las herramientas y en el material traducido. **Ajustes → Distancias** cambia entre las dos en cualquier idioma, y la elección se recuerda. Las alturas y altitudes que el trasfondo ya da en metros y kilómetros (las unidades del propio mundo) se quedan como están."
  },
  "b70a8ac2bc53": {
   "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",

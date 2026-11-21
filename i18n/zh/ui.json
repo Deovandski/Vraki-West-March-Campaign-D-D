@@ -655,6 +655,10 @@
   "en": "Sapphires",
   "t": "萨菲尔"
  },
+ "3af19bb0c18e": {
+  "en": "Meters and kilometers",
+  "t": "米和公里"
+ },
  "3b3e956859ef": {
   "en": "The players tell you where they're going; you prep that trip.",
   "t": "玩家告诉你他们要去哪儿；你来准备那段旅程。"
@@ -1611,6 +1615,10 @@
   "en": "Learn how an open table works",
   "t": "了解开放式跑团怎么运作"
  },
+ "88bc6e417e1c": {
+  "en": "Distances",
+  "t": "距离"
+ },
  "890f19ee4f2b": {
   "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
   "t": "Vraki West March 的旅行地图：一张世界地图，各地之间的道路和航线上画着彩色的圈"
@@ -2063,6 +2071,10 @@
   "en": "Shifts with no event yet, with space to write what happens",
   "t": "还没有事件的时段，并留出写下发生什么的空间"
  },
+ "ac9fe9e038e3": {
+  "en": "Settings: language, distances and theme",
+  "t": "设置：语言、距离和主题"
+ },
  "acb88cb9a6d5": {
   "en": "Your progress stays here",
   "t": "你的进度会留在这里"
@@ -2371,6 +2383,10 @@
   "en": "Settings",
   "t": "设置"
  },
+ "c7edecf03576": {
+  "en": "Feet and miles",
+  "t": "英尺和英里"
+ },
  "c83d0d215590": {
   "en": "Roll an encounter (d12)",
   "t": "掷一次遭遇（d12）"
@@ -2490,10 +2506,6 @@
  "d0813c1bbad9": {
   "en": "Get ready to play",
   "t": "准备开玩"
- },
- "d0f324416370": {
-  "en": "Settings: language and theme",
-  "t": "设置：语言和主题"
  },
  "d0fb3b18f08e": {
   "en": "Circles from the map",

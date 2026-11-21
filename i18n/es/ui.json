@@ -655,6 +655,10 @@
   "en": "Sapphires",
   "t": "Sapphires"
  },
+ "3af19bb0c18e": {
+  "en": "Meters and kilometers",
+  "t": "Metros y kilómetros"
+ },
  "3b3e956859ef": {
   "en": "The players tell you where they're going; you prep that trip.",
   "t": "Los jugadores te dicen adónde van; tú preparas ese viaje."
@@ -1611,6 +1615,10 @@
   "en": "Learn how an open table works",
   "t": "Aprende cómo funciona una mesa abierta"
  },
+ "88bc6e417e1c": {
+  "en": "Distances",
+  "t": "Distancias"
+ },
  "890f19ee4f2b": {
   "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
   "t": "El mapa de viaje de la Vraki West March: el mapa del mundo con círculos de colores a lo largo de los caminos y rutas marítimas entre lugares"
@@ -2063,6 +2071,10 @@
   "en": "Shifts with no event yet, with space to write what happens",
   "t": "Turnos todavía sin evento, con espacio para escribir qué pasa"
  },
+ "ac9fe9e038e3": {
+  "en": "Settings: language, distances and theme",
+  "t": "Ajustes: idioma, distancias y tema"
+ },
  "acb88cb9a6d5": {
   "en": "Your progress stays here",
   "t": "Tu progreso se queda aquí"
@@ -2371,6 +2383,10 @@
   "en": "Settings",
   "t": "Ajustes"
  },
+ "c7edecf03576": {
+  "en": "Feet and miles",
+  "t": "Pies y millas"
+ },
  "c83d0d215590": {
   "en": "Roll an encounter (d12)",
   "t": "Tirar un encuentro (d12)"
@@ -2490,10 +2506,6 @@
  "d0813c1bbad9": {
   "en": "Get ready to play",
   "t": "Prepárate para jugar"
- },
- "d0f324416370": {
-  "en": "Settings: language and theme",
-  "t": "Ajustes: idioma y tema"
  },
  "d0fb3b18f08e": {
   "en": "Circles from the map",

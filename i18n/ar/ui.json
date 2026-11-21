@@ -655,6 +655,10 @@
   "en": "Sapphires",
   "t": "سافاير"
  },
+ "3af19bb0c18e": {
+  "en": "Meters and kilometers",
+  "t": "الأمتار والكيلومترات"
+ },
  "3b3e956859ef": {
   "en": "The players tell you where they're going; you prep that trip.",
   "t": "يخبرك اللاعبون إلى أين يذهبون؛ وأنت تجهّز تلك الرحلة."
@@ -1611,6 +1615,10 @@
   "en": "Learn how an open table works",
   "t": "تعلّم كيف تعمل الطاولة المفتوحة"
  },
+ "88bc6e417e1c": {
+  "en": "Distances",
+  "t": "المسافات"
+ },
  "890f19ee4f2b": {
   "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
   "t": "خريطة السفر في Vraki West March: خريطة العالم وعليها دوائر ملوّنة على طول الطرق والممرات البحرية بين الأماكن"
@@ -2063,6 +2071,10 @@
   "en": "Shifts with no event yet, with space to write what happens",
   "t": "الورديات التي لم يُحدَّد لها حدث بعد، مع مساحة لكتابة ما يحدث"
  },
+ "ac9fe9e038e3": {
+  "en": "Settings: language, distances and theme",
+  "t": "الإعدادات: اللغة والمسافات والمظهر"
+ },
  "acb88cb9a6d5": {
   "en": "Your progress stays here",
   "t": "تقدّمك يبقى هنا"
@@ -2371,6 +2383,10 @@
   "en": "Settings",
   "t": "الإعدادات"
  },
+ "c7edecf03576": {
+  "en": "Feet and miles",
+  "t": "الأقدام والأميال"
+ },
  "c83d0d215590": {
   "en": "Roll an encounter (d12)",
   "t": "ارمِ مواجهة (d12)"
@@ -2490,10 +2506,6 @@
  "d0813c1bbad9": {
   "en": "Get ready to play",
   "t": "استعد للعب"
- },
- "d0f324416370": {
-  "en": "Settings: language and theme",
-  "t": "الإعدادات: اللغة والمظهر"
  },
  "d0fb3b18f08e": {
   "en": "Circles from the map",

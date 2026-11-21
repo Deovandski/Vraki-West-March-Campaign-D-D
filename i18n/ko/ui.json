@@ -655,6 +655,10 @@
   "en": "Sapphires",
   "t": "사파이어"
  },
+ "3af19bb0c18e": {
+  "en": "Meters and kilometers",
+  "t": "미터와 킬로미터"
+ },
  "3b3e956859ef": {
   "en": "The players tell you where they're going; you prep that trip.",
   "t": "플레이어가 어디로 갈지 알려 주면, 여러분이 그 여행을 준비합니다."
@@ -1611,6 +1615,10 @@
   "en": "Learn how an open table works",
   "t": "오픈 테이블이 어떻게 돌아가는지 알아보기"
  },
+ "88bc6e417e1c": {
+  "en": "Distances",
+  "t": "거리"
+ },
  "890f19ee4f2b": {
   "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
   "t": "Vraki West March 여행 지도: 장소들을 잇는 길과 뱃길을 따라 색깔 서클이 그려진 세계 지도"
@@ -2063,6 +2071,10 @@
   "en": "Shifts with no event yet, with space to write what happens",
   "t": "아직 이벤트가 없는 시간대(일어난 일을 적을 칸 포함)"
  },
+ "ac9fe9e038e3": {
+  "en": "Settings: language, distances and theme",
+  "t": "설정: 언어, 거리, 테마"
+ },
  "acb88cb9a6d5": {
   "en": "Your progress stays here",
   "t": "진행 상황은 여기에 남습니다"
@@ -2371,6 +2383,10 @@
   "en": "Settings",
   "t": "설정"
  },
+ "c7edecf03576": {
+  "en": "Feet and miles",
+  "t": "피트와 마일"
+ },
  "c83d0d215590": {
   "en": "Roll an encounter (d12)",
   "t": "조우 굴리기(d12)"
@@ -2490,10 +2506,6 @@
  "d0813c1bbad9": {
   "en": "Get ready to play",
   "t": "플레이 준비하기"
- },
- "d0f324416370": {
-  "en": "Settings: language and theme",
-  "t": "설정: 언어와 테마"
  },
  "d0fb3b18f08e": {
   "en": "Circles from the map",

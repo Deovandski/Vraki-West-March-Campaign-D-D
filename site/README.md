@@ -34,6 +34,7 @@ The site comes in English and six translations: 中文 (Simplified Chinese), 日
 - **The banner:** every translated page starts with "AI-Translated to (language) from Original works by Deovandski and Mitsukiven/Feiourm" in that language, and a one-click switch back to English.
 - **What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.
 - **Arabic** reads right to left: the whole layout flips, while dice, numbers and the map don't. Chinese, Japanese, Korean and Arabic use system fonts made for their scripts.
+- **Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.
 - **Save files** don't depend on the language: one saved in Japanese loads in English and the other way round.
 - **Not translated yet:** when the English changes, the new or changed text shows in English until the next translation batch. The site never waits for a translation.
 
@@ -87,6 +88,7 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 - `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)
 - `site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)
 - `site/js/lang-picker.js` and `site/css/lang-picker.css` — the language list in Settings (a reusable component)
+- `site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)
 - `site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.
 - `site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline
 - `site/build-llms.js` — writes `llms.txt`, `llms-full.txt` and `sitemap.xml` for AI tools and search engines (run by the publishing workflow)

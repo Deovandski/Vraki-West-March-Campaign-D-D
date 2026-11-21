@@ -79,6 +79,10 @@
   "en": "Add text to the site's own code",
   "t": "تضيف نصًا إلى شيفرة الموقع نفسه"
  },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js` و`site/css/units.css` — أقدام أم أمتار: يحوّل المسافات في الصفحة ويشغّل خيار المسافات في الإعدادات (مكوّن قابل لإعادة الاستخدام)"
+ },
  "49624bfb046c": {
   "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
   "t": "يقرأ ملفات Markdown نفسها التي تراها في المستودع، فلا شيء تحتاج إلى مزامنته يدويًا: عدّل قاعدة، وادفعها، فيعرض الموقع التغيير."
@@ -214,6 +218,10 @@
  "acb6baf6327c": {
   "en": "You want to…",
   "t": "تريد أن…"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**المسافات:** القواعد مكتوبة بالأقدام والأميال، كما في D&D. تعرضها الإنجليزية كما هي، وتعرضها الترجمات بالأمتار والكيلومترات (`5 ft` = `1.5 m`، `1 mile` = `1.5 km`، وهو التحويل المعتاد في D&D)، في كل صفحة وفي الأدوات وعلى المطبوعات المترجمة. يبدّل **الإعدادات ← المسافات** بين الاثنين في أي لغة، ويُحفظ اختيارك. أما الارتفاعات التي يذكرها عالم القصة أصلًا بالأمتار والكيلومترات (وحدات العالم نفسه) فتبقى كما هي."
  },
  "b70a8ac2bc53": {
   "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",

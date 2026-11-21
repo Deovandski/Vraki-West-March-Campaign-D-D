@@ -19,6 +19,10 @@
   "en": "Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nDMs: start with the [DM Guide](D&D%20Campaign/README.md).",
   "t": "اللاعبون: اقرؤوا [العالم في لمحة](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) و[صنع مغامر](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nمديرو اللعبة: ابدؤوا بـ[دليل مدير اللعبة](D&D%20Campaign/README.md)."
  },
+ "08aa70078857": {
+  "en": "[units.js](site/js/units.js), [units.css](site/css/units.css)",
+  "t": "[units.js](site/js/units.js), [units.css](site/css/units.css)"
+ },
  "0c5d399fed82": {
   "en": "**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.",
   "t": "**فراكي** هي اللغة المشتركة في هذا العالم، والخط الذي تُكتب به، واسم هذه الحملة. بدأت قبل الروايات: في 2017، صنع Deovandski تطبيق ويندوز صغيرًا يعكس الإنجليزية ويزيحها ويعيد بناءها حتى تُقرأ كلغة جديدة. صار ذلك المشروع نظام الكتابة في #HusbandOutWorld وخط Vraki المستخدم في المطبوعات هنا. جرّب المحوّل في متصفحك، ونزّل الخط، واقرأ كيف بدأ على **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**."
@@ -147,6 +151,10 @@
   "en": "The Four Kingdoms were practically built for it: Forway's embassies already run a quest board, a ranking system from Pearl to Sapphire, revival services (for a fee, of course), and a decentralized army of adventurers deep in debt. Pick up a quest, sign the contract in blood, and try not to come back as Walking Flesh.",
   "t": "الممالك الأربع كأنها صُنعت لهذا: سفارات فورواي لديها أصلًا لوحة مهام، ونظام رتب من بيرل إلى سافاير، وخدمات إحياء (مقابل رسوم طبعًا)، وجيش لا مركزي من مغامرين غارقين في الديون. خذ مهمة، ووقّع العقد بالدم، وحاول ألا تعود ووكينغ فليش."
  },
+ "763a23d69043": {
+  "en": "Units",
+  "t": "Units"
+ },
  "773391089b63": {
   "en": "Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a \"how far is it?\" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).",
   "t": "اقرأ كل شيء واستخدم أدوات الطاولة على **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. فيه قسم للاعبين وقسم لمدير اللعبة، وبحث في القواعد والحكاية، وصينية نرد، وحاسبات، وخريطة السفر مع التكبير وأداة «كم يبعد؟» لإيجاد الطرق، ومخطط سفر يعدّ الدوائر نيابةً عنك ويعرض كل رحلة دائرةً بدائرة ونوبةً بنوبة (مع الأحداث والمعارك وHP)، ومتابعة للمجموعة والحملة، وملفات حفظ تنزّلها وتحمّلها من جديد. ويُثبَّت كتطبيق على هاتفك ويعمل دون اتصال على الطاولة. [كيف يعمل الموقع](site/README.md)."
@@ -158,6 +166,10 @@
  "80b07d3b198f": {
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "حملة كاملة قائمة بذاتها: ملخص لحكاية العالم، وقواعد لإدارة ويست مارش بطاولة مفتوحة، وخرائط سفر، ومهام، ولقاءات، وبطاقات إحصاءات، ومغامرون جاهزون. لا تحتاج أي شيء من مستودع #HusbandOutWorld الرئيسي لتلعب."
+ },
+ "950f7ced1047": {
+  "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
+  "t": "الإعدادات (⚙) في الشريط العلوي؛ كل صفحة وأداة؛ المطبوعات المترجمة"
  },
  "9570499669fd": {
   "en": "Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!",
@@ -190,6 +202,10 @@
  "aff8b55f5ee0": {
   "en": "Folder",
   "t": "المجلد"
+ },
+ "b27442511a10": {
+  "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
+  "t": "يعرض المسافات بالأقدام والأميال أو بالأمتار والكيلومترات (`30 ft` ← `9 m`، `1 mile` ← `1.5 km`، وفق تحويل D&D المتري)، في نصوص بالإنجليزية والإسبانية والبرتغالية واليابانية والصينية والكورية والعربية، مع أداة اختيار للتبديل. يحوّل جزءًا من الصفحة وأي محتوى يُضاف إليه لاحقًا، والعودة تعيد النص الأصلي. يُضبط من سمات البيانات؛ بلا مكتبات."
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

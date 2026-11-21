@@ -19,6 +19,10 @@
   "en": "Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nDMs: start with the [DM Guide](D&D%20Campaign/README.md).",
   "t": "玩家：阅读[世界概览](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md)和[创建冒险者](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md)。\nDM：从[DM指南](D&D%20Campaign/README.md)开始。"
  },
+ "08aa70078857": {
+  "en": "[units.js](site/js/units.js), [units.css](site/css/units.css)",
+  "t": "[units.js](site/js/units.js), [units.css](site/css/units.css)"
+ },
  "0c5d399fed82": {
   "en": "**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.",
   "t": "**弗拉基**是这个世界的通用语、书写它的文字，也是这个战役的名字。它比小说出现得还早：2017年，Deovandski做了一个小小的Windows应用，把英文反转、移位、重组，直到读起来像一门新语言。这个项目后来成了#HusbandOutWorld的书写系统，也成了这里的道具所用的Vraki字体。在 **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)** 可以在浏览器里试用转换器、下载字体并了解它的起源。"
@@ -147,6 +151,10 @@
   "en": "The Four Kingdoms were practically built for it: Forway's embassies already run a quest board, a ranking system from Pearl to Sapphire, revival services (for a fee, of course), and a decentralized army of adventurers deep in debt. Pick up a quest, sign the contract in blood, and try not to come back as Walking Flesh.",
   "t": "四王国简直就是为此而生：福威的大使馆早就有委托板、从珀尔到萨菲尔的级别制度、复活服务（当然要收费），还有一支负债累累、分散各地的冒险者大军。接个委托，用血签下合同，尽量别变成沃金·弗莱什回来。"
  },
+ "763a23d69043": {
+  "en": "Units",
+  "t": "Units"
+ },
  "773391089b63": {
   "en": "Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a \"how far is it?\" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).",
   "t": "在 **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)** 阅读所有内容并使用跑团工具。那里有玩家区和DM区、规则与设定搜索、骰盘、计算器、可缩放的旅行地图和“有多远？”路线查询、帮你数圈并把每趟旅程按圈、按时段排出来的旅行计划（含事件、战斗和HP）、队伍和战役记录，以及可以下载并重新载入的存档。它可以作为应用安装到手机上，在跑团时离线使用。[网站如何运作](site/README.md)。"
@@ -158,6 +166,10 @@
  "80b07d3b198f": {
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "一个完整、独立的战役：世界设定摘要、主持开放式西境的规则、旅行地图、委托、遭遇、数据卡和预制冒险者。玩的时候不需要#HusbandOutWorld主仓库里的任何东西。"
+ },
+ "950f7ced1047": {
+  "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
+  "t": "顶栏中的设置（⚙）；每个页面和工具；翻译版讲义"
  },
  "9570499669fd": {
   "en": "Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!",
@@ -190,6 +202,10 @@
  "aff8b55f5ee0": {
   "en": "Folder",
   "t": "文件夹"
+ },
+ "b27442511a10": {
+  "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
+  "t": "以英尺和英里或米和公里显示距离（`30 ft` → `9 m`，`1 mile` → `1.5 km`，即D&D的公制换算），支持英语、西班牙语、葡萄牙语、日语、中文、韩语和阿拉伯语文本，并附带一个切换选择器。它会转换页面的一部分以及之后添加的任何内容，切换回来时会恢复原文。通过数据属性设置，不依赖任何库。"
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

@@ -19,6 +19,10 @@
   "en": "Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nDMs: start with the [DM Guide](D&D%20Campaign/README.md).",
   "t": "Jogadores: leiam [O mundo num relance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) e [Criando um aventureiro](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nMestres: comecem pelo [Guia do Mestre](D&D%20Campaign/README.md)."
  },
+ "08aa70078857": {
+  "en": "[units.js](site/js/units.js), [units.css](site/css/units.css)",
+  "t": "[units.js](site/js/units.js), [units.css](site/css/units.css)"
+ },
  "0c5d399fed82": {
   "en": "**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.",
   "t": "**Vraki** é a língua comum deste mundo, a escrita em que ela é escrita e o nome desta campanha. Começou antes dos romances: em 2017, Deovandski fez um pequeno aplicativo de Windows que invertia, deslocava e reestruturava o inglês até parecer uma língua nova. Esse projeto virou o sistema de escrita de #HusbandOutWorld e a fonte Vraki usada nos materiais daqui. Experimente o conversor no navegador, baixe a fonte e leia como tudo começou em **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**."
@@ -147,6 +151,10 @@
   "en": "The Four Kingdoms were practically built for it: Forway's embassies already run a quest board, a ranking system from Pearl to Sapphire, revival services (for a fee, of course), and a decentralized army of adventurers deep in debt. Pick up a quest, sign the contract in blood, and try not to come back as Walking Flesh.",
   "t": "Os Quatro Reinos foram praticamente feitos para isso: as embaixadas de Forway já têm um quadro de missões, um sistema de patentes de Pearl a Sapphire, serviços de reanimação (pagos, claro) e um exército descentralizado de aventureiros afundados em dívidas. Pegue uma missão, assine o contrato com sangue e tente não voltar como Walking Flesh."
  },
+ "763a23d69043": {
+  "en": "Units",
+  "t": "Units"
+ },
  "773391089b63": {
   "en": "Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a \"how far is it?\" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).",
   "t": "Leia tudo e use as ferramentas de mesa em **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. Tem uma seção de jogador e uma de Mestre, busca nas regras e na ambientação, uma bandeja de dados, calculadoras, o mapa de viagem com zoom e um localizador de rotas «qual é a distância?», um planejador de viagens que conta os círculos por você e mostra cada viagem círculo a círculo e turno a turno (com eventos, lutas e HP), acompanhamento do grupo e da campanha, e arquivos de salvamento que você baixa e carrega de novo. Instala como aplicativo no celular e funciona offline na mesa. [Como o site funciona](site/README.md)."
@@ -158,6 +166,10 @@
  "80b07d3b198f": {
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "Uma campanha completa e independente: um resumo da ambientação do mundo, regras para conduzir uma West March de mesa aberta, mapas de viagem, missões, encontros, fichas de estatísticas e aventureiros pré-gerados. Você não precisa de nada do repositório principal de #HusbandOutWorld para jogar."
+ },
+ "950f7ced1047": {
+  "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
+  "t": "Configurações (⚙) na barra de cima; todas as páginas e ferramentas; os materiais traduzidos"
  },
  "9570499669fd": {
   "en": "Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!",
@@ -190,6 +202,10 @@
  "aff8b55f5ee0": {
   "en": "Folder",
   "t": "Pasta"
+ },
+ "b27442511a10": {
+  "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
+  "t": "Mostra as distâncias em pés e milhas ou em metros e quilômetros (`30 ft` → `9 m`, `1 mile` → `1.5 km`, a conversão métrica de D&D), em textos em inglês, espanhol, português, japonês, chinês, coreano ou árabe, com um seletor para trocar. Converte uma parte da página e tudo o que for adicionado depois, e ao voltar o texto original reaparece. Configurado por atributos de dados; sem bibliotecas."
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

@@ -655,6 +655,10 @@
   "en": "Sapphires",
   "t": "サファイア"
  },
+ "3af19bb0c18e": {
+  "en": "Meters and kilometers",
+  "t": "メートルとキロメートル"
+ },
  "3b3e956859ef": {
   "en": "The players tell you where they're going; you prep that trip.",
   "t": "行き先はプレイヤーが教えてくれます。あなたはその旅を準備します。"
@@ -1611,6 +1615,10 @@
   "en": "Learn how an open table works",
   "t": "オープンテーブルのしくみを知る"
  },
+ "88bc6e417e1c": {
+  "en": "Distances",
+  "t": "距離"
+ },
  "890f19ee4f2b": {
   "en": "The Vraki West March travel map: the world map with coloured circles along the roads and sea lanes between places",
   "t": "Vraki West Marchの旅の地図:場所と場所を結ぶ道や航路に沿って色付きのサークルが描かれた世界地図"
@@ -2063,6 +2071,10 @@
   "en": "Shifts with no event yet, with space to write what happens",
   "t": "まだイベントのないシフト(起きたことを書く欄つき)"
  },
+ "ac9fe9e038e3": {
+  "en": "Settings: language, distances and theme",
+  "t": "設定：言語、距離、テーマ"
+ },
  "acb88cb9a6d5": {
   "en": "Your progress stays here",
   "t": "進み具合はここに残ります"
@@ -2371,6 +2383,10 @@
   "en": "Settings",
   "t": "設定"
  },
+ "c7edecf03576": {
+  "en": "Feet and miles",
+  "t": "フィートとマイル"
+ },
  "c83d0d215590": {
   "en": "Roll an encounter (d12)",
   "t": "遭遇を振る(d12)"
@@ -2490,10 +2506,6 @@
  "d0813c1bbad9": {
   "en": "Get ready to play",
   "t": "プレイの準備"
- },
- "d0f324416370": {
-  "en": "Settings: language and theme",
-  "t": "設定:言語とテーマ"
  },
  "d0fb3b18f08e": {
   "en": "Circles from the map",

@@ -6,6 +6,7 @@
  "html_lang": "ko",
  "dir": "ltr",
  "locale": "ko-KR",
+ "units": "metric",
  "name_sep": " ",
  "banner": "Deovandski와 Mitsukiven/Feiourm의 원작을 AI가 한국어로 번역했습니다. 언어는 오른쪽 위 설정(⚙)에서 바꿀 수 있습니다."
 }

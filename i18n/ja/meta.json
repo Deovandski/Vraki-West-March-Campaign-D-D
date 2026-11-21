@@ -6,6 +6,7 @@
  "html_lang": "ja",
  "dir": "ltr",
  "locale": "ja-JP",
+ "units": "metric",
  "name_sep": "・",
  "banner": "Deovandski と Mitsukiven/Feiourm による原作から、AI が日本語に翻訳しました。言語は右上の設定（⚙）で変更できます。"
 }

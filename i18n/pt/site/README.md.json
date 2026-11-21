@@ -79,6 +79,10 @@
   "en": "Add text to the site's own code",
   "t": "Acrescentar texto ao código do próprio site"
  },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js` e `site/css/units.css` — pés ou metros: converte as distâncias da página e cuida da opção Distâncias nas Configurações (um componente reutilizável)"
+ },
  "49624bfb046c": {
   "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
   "t": "Ele lê os mesmos arquivos Markdown que você vê no repositório, então não há nada para sincronizar à mão: edite uma regra, faça push e o site mostra a mudança."
@@ -214,6 +218,10 @@
  "acb6baf6327c": {
   "en": "You want to…",
   "t": "Você quer…"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**Distâncias:** as regras são escritas em pés e milhas, como em D&D. O inglês mostra assim; as traduções mostram em metros e quilômetros (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, a conversão de costume em D&D), em todas as páginas, nas ferramentas e nos materiais traduzidos. **Configurações → Distâncias** troca entre os dois em qualquer idioma, e a escolha fica salva. Alturas e altitudes que a ambientação já dá em metros e quilômetros (as unidades do próprio mundo) ficam como estão."
  },
  "b70a8ac2bc53": {
   "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",

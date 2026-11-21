@@ -79,6 +79,10 @@
   "en": "Add text to the site's own code",
   "t": "给网站本身的代码添加文字"
  },
+ "48ab4e65e049": {
+  "en": "`site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)",
+  "t": "`site/js/units.js` 和 `site/css/units.css` — 英尺还是米：转换页面上的距离，并负责设置中的“距离”选项（一个可复用组件）"
+ },
  "49624bfb046c": {
   "en": "It reads the same Markdown files you see in the repo, so there's nothing to keep in sync by hand: edit a rule, push, and the site shows the change.",
   "t": "它读取的就是你在仓库里看到的那些Markdown文件，所以不需要手动同步任何东西：改一条规则，推送，网站就会显示改动。"
@@ -214,6 +218,10 @@
  "acb6baf6327c": {
   "en": "You want to…",
   "t": "你想……"
+ },
+ "b045412704f9": {
+  "en": "**Distances:** the rules are written in feet and miles, as in D&D. English shows them that way; the translations show them in meters and kilometers (`5 ft` = `1.5 m`, `1 mile` = `1.5 km`, the usual D&D conversion), on every page, in the tools and on the translated handouts. **Settings → Distances** switches between the two in any language, and the choice is remembered. Heights and altitudes the lore already gives in meters and kilometers (the world's own units) stay as they are.",
+  "t": "**距离：** 规则和D&D一样用英尺和英里书写。英语版照原样显示；各翻译版则以米和公里显示（`5 ft` = `1.5 m`，`1 mile` = `1.5 km`，即D&D常用的换算），适用于每个页面、各个工具和翻译版讲义。在任何语言下都可以用**设置 → 距离**在两者之间切换，选择会被记住。设定中本来就以米和公里给出的高度和海拔（这个世界自己的单位）保持不变。"
  },
  "b70a8ac2bc53": {
   "en": "**Party.** HP, temp HP, Soul Points, exhaustion, conditions, revival debt and death tracking, shared with the travel planner's fights.",

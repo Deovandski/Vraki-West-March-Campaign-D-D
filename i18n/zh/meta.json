@@ -6,6 +6,7 @@
  "html_lang": "zh-Hans",
  "dir": "ltr",
  "locale": "zh-CN",
+ "units": "metric",
  "name_sep": "·",
  "banner": "本页由 AI 根据 Deovandski 与 Mitsukiven/Feiourm 的原作翻译成简体中文。可在右上角的设置（⚙）中更改语言。"
 }

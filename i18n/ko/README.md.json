@@ -19,6 +19,10 @@
   "en": "Players: read [The World at a Glance](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md) and [Making an Adventurer](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md).\nDMs: start with the [DM Guide](D&D%20Campaign/README.md).",
   "t": "플레이어: [세계 한눈에 보기](World%20Lore/01%20-%20The%20World%20at%20a%20Glance.md)와 [모험가 만들기](D&D%20Campaign/02%20-%20Making%20an%20Adventurer.md)를 읽어라.\nDM: [DM 안내서](D&D%20Campaign/README.md)부터 시작하라."
  },
+ "08aa70078857": {
+  "en": "[units.js](site/js/units.js), [units.css](site/css/units.css)",
+  "t": "[units.js](site/js/units.js), [units.css](site/css/units.css)"
+ },
  "0c5d399fed82": {
   "en": "**Vraki** is the common tongue of this world, the script it's written in, and the name of this campaign. It started before the novels: in 2017, Deovandski made a small Windows app that reversed, shifted and restructured English until it read like a new language. That project became the writing system of #HusbandOutWorld and the Vraki typeface used on the handouts here. Try the converter in your browser, download the typeface and read how it began at **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)**.",
   "t": "**브라키**는 이 세계의 공용어이자, 그것을 쓰는 문자이자, 이 캠페인의 이름이다. 시작은 소설보다 앞선다: 2017년, Deovandski는 영어를 뒤집고, 밀고, 재구성해서 새로운 언어처럼 읽히게 만드는 작은 윈도우 앱을 만들었다. 그 프로젝트가 #HusbandOutWorld의 문자 체계가 되었고, 여기 배포물에 쓰인 Vraki 글꼴이 되었다. 브라우저에서 변환기를 써 보고, 글꼴을 내려받고, 어떻게 시작됐는지 **[Vraki, the starter project](https://deovandski.github.io/vraki-windows/)** 에서 읽어 보라."
@@ -147,6 +151,10 @@
   "en": "The Four Kingdoms were practically built for it: Forway's embassies already run a quest board, a ranking system from Pearl to Sapphire, revival services (for a fee, of course), and a decentralized army of adventurers deep in debt. Pick up a quest, sign the contract in blood, and try not to come back as Walking Flesh.",
   "t": "사왕국은 사실상 이걸 위해 만들어진 셈이다: 포웨이의 대사관에는 이미 의뢰 게시판, 펄부터 사파이어까지의 계급 제도, 부활 서비스(물론 유료), 그리고 빚더미에 앉은 모험가들로 이루어진 분산된 군대가 있다. 의뢰를 받고, 피로 계약서에 서명하고, 워킹 플레시가 되어 돌아오지 않도록 애써라."
  },
+ "763a23d69043": {
+  "en": "Units",
+  "t": "Units"
+ },
  "773391089b63": {
   "en": "Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a \"how far is it?\" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).",
   "t": "**[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)** 에서 모든 걸 읽고 테이블용 도구를 쓸 수 있다. 플레이어 구역과 DM 구역, 규칙과 설정 검색, 주사위 쟁반, 계산기, 확대되는 여행 지도와 ‘얼마나 먼가요?’ 경로 찾기, 서클을 세어 주고 여행을 서클별·시간대별로 펼쳐 주는 여행 계획(이벤트, 전투, HP 포함), 파티와 캠페인 기록, 내려받았다가 다시 불러올 수 있는 저장 파일이 있다. 휴대폰에 앱으로 설치되고 테이블에서 오프라인으로도 돌아간다. [웹사이트 작동 방식](site/README.md)."
@@ -158,6 +166,10 @@
  "80b07d3b198f": {
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "완결된, 이것만으로 플레이할 수 있는 캠페인: 세계 설정 요약, 누구나 참여하는 웨스트 마치를 운영하는 규칙, 여행 지도, 의뢰, 조우, 능력치, 사전 제작 모험가. 플레이하는 데 #HusbandOutWorld 본 저장소의 것은 아무것도 필요 없다."
+ },
+ "950f7ced1047": {
+  "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
+  "t": "위쪽 막대의 설정(⚙), 모든 페이지와 도구, 번역된 배포 자료"
  },
  "9570499669fd": {
   "en": "Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!",
@@ -190,6 +202,10 @@
  "aff8b55f5ee0": {
   "en": "Folder",
   "t": "폴더"
+ },
+ "b27442511a10": {
+  "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
+  "t": "거리를 피트와 마일, 또는 미터와 킬로미터로 보여 준다(`30 ft` → `9 m`, `1 mile` → `1.5 km`, D&D의 미터법 환산). 영어, 스페인어, 포르투갈어, 일본어, 중국어, 한국어, 아랍어 글에 쓸 수 있고, 전환용 선택기도 함께 있다. 페이지의 일부와 나중에 추가되는 내용까지 변환하며, 되돌리면 원래 글이 돌아온다. 데이터 속성으로 설정하고 라이브러리는 쓰지 않는다."
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

@@ -195,9 +195,25 @@
       const t = tx(q.raw), m = /^\*\*(.+?)\*\*\s*[—–-]+\s*(.*)$/.exec(t);
       if (m) { q.titleL = m[1]; q.textL = P.stripMd(m[2]); } else { q.titleL = ""; q.textL = P.stripMd(t); }
     }));
+    // A stat block's translated heading gives its name and where it lives: "Koalin (CR 1) — eastern grasslands".
+    const fromHead = (c) => {
+      if (en || !c.head || tx(c.head) === c.head) return null;
+      const parts = plain(c.head).split(/\s*[/／]\s*/);
+      const h = c.headPart != null && parts.length > 1 ? parts[c.headPart] || "" : plain(c.head);
+      const m = /^(.+?)\s*[(（][^)）]*[)）]\s*(?:[—–]+\s*(.*))?$/.exec(h.trim());
+      return m ? [m[1].trim(), (m[2] || "").trim()] : null;
+    };
+    // An adventurer's "**People:** … · **Class:** …" paragraph, translated: the same field by position.
+    const field = (a, label) => {
+      if (en || !a.fieldsRaw) return null;
+      const e = a.fieldsRaw.trim().split(/ · |\n/), t = (tx(a.fieldsRaw.trim()) || "").split(/ · |\n/);
+      const i = e.findIndex((x) => x.startsWith("**" + label + ":**"));
+      return i >= 0 && t.length === e.length && t[i] !== e[i] ? P.stripMd(t[i].replace(/^\*\*[^*]+\*\*\s*/, "")).trim() : null;
+    };
     d.creatures.forEach((c) => {
-      c.label = name(c.name);
-      c.regionL = en ? c.region : (c.kind === "Fauna" ? plain(c.region) : nameL(c.region));
+      const h = fromHead(c);
+      c.label = (h && h[0]) || name(c.name);
+      c.regionL = en ? c.region : (c.kind === "Fauna" ? plain(c.region) : (h && h[1] && c.region) ? h[1] : nameL(c.region));
       c.lootL = en || !c.loot ? c.loot : c.kind === "Fauna" ? plain(c.loot) : P.stripMd(tx(c.lootRaw).replace(/^\*[^*]+\*[:：]?\s*/, ""));
       if (en) { c.traitsL = c.traits; return; }
       if (c.kind === "Fauna" && c.raw) {
@@ -205,7 +221,7 @@
         c.traitsL = t !== c.raw ? [{ name: "", text: P.stripMd(t.split("\n").slice(1).join(" ")) }] : c.traits;
       } else c.traitsL = c.traits.map((tr) => (tr.raw ? (tx(tr.raw) !== tr.raw ? P.traitOf(tx(tr.raw)) : tr) : tr));
     });
-    d.adventurers.forEach((a) => { a.label = name(a.name); a.clsL = en ? a.cls : nameL(a.cls); });
+    d.adventurers.forEach((a) => { a.label = name(a.name); a.clsL = en ? a.cls : field(a, "Class") || nameL(a.cls); a.peopleL = en ? a.people : field(a, "People") || nameL(a.people); });
     d.factionsL = Object.fromEntries(d.factions.map((f) => [f, en ? f : plain(f)]));
     d.map.routes.forEach((r) => { r.fromL = name(r.from); r.toL = name(r.to); r.lookL = en ? r.look : plain(r.look); r.regionL = en ? r.region : plain(r.region); });
     d.map.edges.forEach((e) => { e.fromL = name(e.from); e.headingL = en ? e.heading : plain(e.heading); });

@@ -10,7 +10,7 @@ One folder per language (`zh`, `ja`, `pt`, `es`, `ar`, `ko`), each with:
 
 | File | What it holds |
 |---|---|
-| `meta.json` | The language's name in its own script, the `<html lang>` tag, the direction (`rtl` for Arabic), the locale for dates and numbers, and the AI-translation banner |
+| `meta.json` | The language's name in its own script, the `<html lang>` tag, the direction (`rtl` for Arabic), the locale for dates and numbers, `"units": "metric"` if the site should start in meters and kilometers for this language (leave it out for feet and miles), and the AI-translation banner |
 | `glossary.json` | One spelling for every name and game term, and the 5e terms (shared with HusbandOutWorld's glossaries) |
 | `ui.json` | The site's own text: menus, buttons, tools |
 | `<page path>.json` | One file per Markdown page, e.g. `World Lore/06 - Races.md.json` |
@@ -29,7 +29,7 @@ Because the key is a hash of the English, English that doesn't change is never t
 - **Names are written by sound** in Chinese, Japanese, Korean and Arabic, following the HusbandOutWorld glossaries: creatures, places, factions, guilds, ranks, coins, nari gels and soul-energy spells (Body RESTORE is ボディ・リストア, 博迪里斯托尔, 보디 리스토어, بودي ريستور). Portuguese and Spanish keep the English names, ranks, coins and gel names ("30 pearls", "Nari Refresher").
 - **"Balls"**, the money, keeps its double meaning: it's each language's word for balls, as the HusbandOutWorld glossaries spell it (bolas, ボール, 球, 볼, كرات). The faction Beer Balls keeps its name.
 - **D&D terms** use each language's official 5e wording (skills, conditions, damage types, classes, spells); the list is the `dnd5e` part of each glossary.
-- **Kept as they are:** numbers, dice (2d6+3), AC, HP, DC, CR, SP and SE, links, code, and the Vraki-script lines on the handouts. `LICENSE.md` stays in English, because the English is the legal text.
+- **Kept as they are:** numbers, dice (2d6+3), AC, HP, DC, CR, SP and SE, links, code, and the Vraki-script lines on the handouts. Distances stay in feet and miles, as in the English (`30 ft` → `30フィート`, `30 pies`): the site turns them into meters and kilometers when the reader picks that (`site/js/units.js`, which knows how each language writes feet, miles and inches). `LICENSE.md` stays in English, because the English is the legal text.
 - When a character's gender isn't known, Portuguese and Spanish use wording that works for anyone.
 
 ## Tools
