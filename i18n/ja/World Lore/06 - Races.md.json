@@ -1,6 +1,174 @@
 {
+ "00a7a8df140b": {
+  "en": "hover/fly",
+  "t": "浮遊・飛行"
+ },
+ "092230a953d0": {
+  "en": "Finaies / Fuhraies",
+  "t": "フィナイエス/フライエス"
+ },
+ "09daaa4eb311": {
+  "en": "**Big Wingas**, **White Roundies** and **Shapeshifters** might count as races. See Beasts.",
+  "t": "**ビッグウィンガ**、**ホワイトラウンディーズ**、**シェイプシフター**は種族に数えられるかもしれない。魔獣の項を参照。"
+ },
+ "0fb4bb346cbb": {
+  "en": "**Darfaries veins** (actually nerves) on arms and back — the biggest of any race. They sense Soul Energy disturbances, humidity, wind and pressure (\"if a Darfaries tells you to buy an umbrella, buy one\").",
+  "t": "腕と背中の**ダルファリエスの静脈**(実は神経)は、どの種族よりも太い。魂のエネルギーの乱れ、湿度、風、気圧を感じ取る(「ダルファリエスに傘を買えと言われたら、買っておけ」)。"
+ },
+ "0fbca39c3a0a": {
+  "en": "Cruro (hair, invisibility)",
+  "t": "クルロ(毛、透明化)"
+ },
+ "10a1fb291968": {
+  "en": "**Crocodile-folk** descended from the Crocus, which appeared suddenly in 575 A.G. (rumor: alcohol and a creepy scientist). They **cannot speak** — they grunt — but smart ones read, write and draw to talk. Most are dog-smart and tribal; a rare few are brilliant. They aren't citizens until they join the **Half-Cruro** guild (lifelong cheap-labor contract in exchange). Their hair crackles with soul energy; they can turn **invisible** for a few minutes and feel soul energy as an itchy back. A dozen eggs a year.",
+  "t": "575 A.G.に突然現れたクロッカスの子孫の**ワニ族**(噂では、酒と気味の悪い科学者が原因)。**話せない**――うなるだけだ――が、賢い者は読み書きや絵で意思を伝える。ほとんどは犬並みの知能で部族で暮らすが、ごくまれに天才もいる。**ハーフ・クルロ**ギルドに入るまで市民ではない(代わりに生涯の安い労働契約を結ぶ)。毛は魂のエネルギーでぱちぱちと音を立て、数分間**透明**になれ、魂のエネルギーを背中のかゆみとして感じる。卵は年に1ダース。"
+ },
+ "10efc36bfb36": {
+  "en": "Finaies + Buhraies",
+  "t": "フィナイエス+ブライエス"
+ },
+ "219123b29c6d": {
+  "en": "Scholars sort creatures three ways: **Races** (as smart as humans or smarter), **Beasts** (somewhat intelligent or very dangerous) and **Fauna** (animals). Several creatures sit on the line and start bar fights among scientists.",
+  "t": "学者は生き物を三つに分ける:**種族**(人間と同じかそれ以上に賢い)、**魔獣**(ある程度賢いか、とても危険)、**動物**(けもの)。境目にいる生き物もいて、科学者どうしの酒場の喧嘩の種になっている。"
+ },
+ "23b1c15a2cd4": {
+  "en": "Interface",
+  "t": "インターフェース"
+ },
+ "2c2f60e2b5cf": {
+  "en": "**Small, child-like flyers** with true controlled flight and a huge reserve of soul energy (near ancient-race levels). Intelligence of a ~5-year-old, highly emotional, sterile, and often senile by their thirties. Sweat smells of roses and lilac. Darfaries call them abominations; adventurers hire them as **scouts and companions**, trained in Flatland.\n*At the table:* Sorefaries work best as companions/NPCs; a DM may allow one as a player character for a comedic or challenge game.",
+  "t": "本当に自在に飛べる、**子どものような小さな飛行種族**。魂のエネルギーの蓄えは膨大だ(古代種族に迫る)。知能は5歳児ほどで、非常に感情的、子どもは作れず、30代で耄碌することも多い。汗はバラとライラックの香り。ダルファリエスは彼らを忌まわしい存在と呼ぶ。冒険者は**斥候や相棒**として雇い、フラットランドで訓練されている。\n*卓では:*ソレファリエスは相棒やNPCとして使うのが一番です。コメディや挑戦的なゲームのために、DMがプレイヤーキャラクターとして許可してもかまいません。"
+ },
+ "2e59c978609a": {
+  "en": "Wozefaries",
+  "t": "ウォゼファリエス"
+ },
+ "2e9745a781e1": {
+  "en": "Playable peoples",
+  "t": "プレイできる種族"
+ },
+ "3fdc8fbacc22": {
+  "en": "Human × Darfaries or Wozefaries children look human but carry the parent's soul energy talents. Darfaries + Wozefaries = Sorefaries. Wozefaries + Wozefaries usually = Wozefaries, sometimes Sorefaries.",
+  "t": "人間とダルファリエスまたはウォゼファリエスの子は人間に見えるが、親の魂のエネルギーの才能を受け継ぐ。ダルファリエス+ウォゼファリエス = ソレファリエス。ウォゼファリエス+ウォゼファリエスはたいていウォゼファリエス、ときにソレファリエス。"
+ },
+ "4d005acc69ee": {
+  "en": "Cruro",
+  "t": "クルロ"
+ },
+ "4e58d2b898cb": {
+  "en": "Interfaces by people",
+  "t": "種族ごとのインターフェース"
+ },
  "5b5e9ca6c739": {
   "en": "People",
   "t": "人物"
+ },
+ "5c4d45dcb544": {
+  "en": "Borderline creatures",
+  "t": "境目にいる生き物"
+ },
+ "5d3fddcd7c1d": {
+  "en": "none",
+  "t": "なし"
+ },
+ "62349f03dc08": {
+  "en": "Races",
+  "t": "種族"
+ },
+ "69567ebef503": {
+  "en": "A **small, slight** version of Darfaries with smaller tusks; adults look youthful. Human-like intelligence, a bit more emotional; friendlier and more independent. Sweet-smelling sweat. **Glide** from about 10 stories. Considered lesser by Darfaries; most grew up in **Flatland** orphanages after being launched from the Goodbye Cliff. ~7-month pregnancy.",
+  "t": "ダルファリエスを**小さく細身**にしたような種族で、牙も小さい。大人も若々しく見える。人間並みの知能で、少し感情豊か。人懐っこく、自立心が強い。汗は甘い匂い。10階分ほどの高さから**滑空**できる。ダルファリエスからは劣った存在と見なされ、ほとんどはグッバイ・クリフから放り出されたあと**フラットランド**の孤児院で育った。妊娠期間は約7か月。"
+ },
+ "6aa4ad54cbac": {
+  "en": "Humans (\"Naked Bruntos\")",
+  "t": "人間(「ネイキッド・ブルントス」)"
+ },
+ "6b1b440b986f": {
+  "en": "glide (~10 stories)",
+  "t": "滑空(約10階分)"
+ },
+ "6daadc9932a7": {
+  "en": "soften falls (~3 stories)",
+  "t": "落下を和らげる(約3階分)"
+ },
+ "7a96eb5f7c8a": {
+  "en": "Flight",
+  "t": "飛行"
+ },
+ "82120fa3d2f2": {
+  "en": "Darfaries (strongest senses)",
+  "t": "ダルファリエス(最も鋭い感覚)"
+ },
+ "8deedc8519fb": {
+  "en": "Sorefaries",
+  "t": "ソレファリエス"
+ },
+ "980e3c6878bd": {
+  "en": "Darfaries",
+  "t": "ダルファリエス"
+ },
+ "9c9536dfbe61": {
+  "en": "The most numerous people. The ancient Buhraies created or altered them from **Bruntos** (a chimp-like species) as blood cattle, playthings, research subjects, or soldiers — nobody agrees which. Humans escaped, multiplied, and wiped out the ancient races. ~9-month pregnancy, 1–5 babies.\nAlmost every human by 1000 A.G. has a little Darfaries or Wozefaries blood, which lets them use the **Darfaries interface** (sigil rings). Rarely, a \"pure\" human can't use it at all. Some show floppy ears or bigger lower teeth.",
+  "t": "最も数の多い種族。古代ブライエスが、チンパンジーに似た種**ブルントス**から、血の家畜、おもちゃ、研究対象、兵士のいずれかとして作った、あるいは作り変えた――どれなのかは誰にも意見が一致しない。人間は逃げ出し、増え、古代種族を滅ぼした。妊娠期間は約9か月、1〜5人の赤ん坊。\n1000 A.G.までには、ほぼすべての人間にダルファリエスかウォゼファリエスの血が少しずつ流れており、そのおかげで**ダルファリエスのインターフェース**(シジルリング)が使える。まれに、まったく使えない「純粋な」人間もいる。耳が垂れていたり、下の歯が大きかったりする人もいる。"
+ },
+ "a88dcb989554": {
+  "en": "**Finaies** — the primordial race, tree-born and all-female, from which every non-human race descends. Weak alone, strong together; they can share or drain soul energy from anything. Survivors live **north of Hifuna** and, rumor says, watch the south for entertainment. Speak Old Vraki.",
+  "t": "**フィナイエス**――木から生まれた女性だけの原初の種族で、人間以外のすべての種族の祖先。一人では弱いが、集まれば強い。あらゆるものと魂のエネルギーを分け合ったり、吸い取ったりできる。生き残りは**ヒフナの北**に住み、噂では娯楽として南を眺めているという。古ヴラキ語を話す。"
+ },
+ "a942b8d210fa": {
+  "en": "Mixed blood",
+  "t": "混血"
+ },
+ "b4b624dd516c": {
+  "en": "**Lishies** — meat-eating brutes with no interface, little sense of pain, tribal cannibals. Extinct since Ganyrami fell (maybe some in the far south-west woods).",
+  "t": "**リシエス**――インターフェースを持たない肉食の荒くれ者。痛みをほとんど感じず、部族で共食いをする。ガニラミが陥落して以来絶滅した(はるか南西の森に何人か残っているかもしれない)。"
+ },
+ "b9889a1c50df": {
+  "en": "Human (mixed)",
+  "t": "人間(混血)"
+ },
+ "bb27af857f6f": {
+  "en": "\"Pure\" human",
+  "t": "「純粋な」人間"
+ },
+ "cab8af28e75a": {
+  "en": "Cruros",
+  "t": "クルロ"
+ },
+ "d61fc396d01d": {
+  "en": "Darfaries (sigil rings)",
+  "t": "ダルファリエス(シジルリング)"
+ },
+ "e2280693427c": {
+  "en": "Buhraies",
+  "t": "ブライエス"
+ },
+ "e2b7994ea6c7": {
+  "en": "**Buhraies** — vampire-like masters of the soul who drank blood and marrow, reshaped the land, and created Wood People, Big Wingas, Fanchakis, Bruntos and humans. They could shape-shift and move souls between bodies. Driven out by humans; maybe hiding far west of Sundeath or in the southern forests.",
+  "t": "**ブライエス**――吸血鬼のような魂の支配者。血と骨髄を飲み、大地を作り変え、ウッドピープル、ビッグウィンガ、ファンチャキ、ブルントス、そして人間を作った。姿を変え、体から体へ魂を移すことができた。人間に追い払われ、サンデスのはるか西か南の森に隠れているのかもしれない。"
+ },
+ "e661a3feccd1": {
+  "en": "**Giant tusked humanoids** born from Lishies and Buhraies interbreeding. Tall and muscular (both sexes), with a wide range of hair and eye colors (women lighter, men darker). About **1.5× human intelligence** and longer-lived. Most live in **Gandew** under its rigid laws; those who left young tend to be easygoing. They pick fights fast, especially drunk.",
+  "t": "リシエスとブライエスの交配から生まれた**牙のある巨人の人型種族**。男女とも背が高く筋骨たくましく、髪と目の色はさまざま(女性は明るく、男性は暗め)。知能は**人間の約1.5倍**で、寿命も長い。ほとんどは厳格な法の**ガンデュー**に住む。若いうちに出ていった者はのんびりしがちだ。すぐ喧嘩を売る。特に酔っているときは。"
+ },
+ "e76aab4034d3": {
+  "en": "Ancient races (NPCs, legends, or deep secrets)",
+  "t": "古代種族(NPC、伝説、深い秘密)"
+ },
+ "e7c0c977d2a2": {
+  "en": "full flight",
+  "t": "完全な飛行"
+ },
+ "f0ddee9e6406": {
+  "en": "**Fuhraies** — peaceful snow-dwelling offshoot, single-gendered, live for thousands of years on ambient soul energy, with antifreeze for blood. Considered extinct, but hunted by historians and poachers around **Fuhrair**.",
+  "t": "**フライエス**――雪の中で暮らす穏やかな分派。性は一つで、周囲の魂のエネルギーで何千年も生き、血の代わりに不凍液が流れている。絶滅したとされるが、**フライア**の周辺で歴史家や密猟者に追われている。"
+ },
+ "f577306cdea5": {
+  "en": "~15-month pregnancy. Darfaries parents sometimes have Wozefaries or Sorefaries babies — which Gandew throws off the **Goodbye Cliff**.",
+  "t": "妊娠期間は約15か月。ダルファリエスの親からウォゼファリエスやソレファリエスの赤ん坊が生まれることがあり、ガンデューはその子を**グッバイ・クリフ**から投げ捨てる。"
+ },
+ "fe9deb7ce0c2": {
+  "en": "Can soften a fall from about **3 stories**. Can taste/smell leftover soul energy and **neutralize soul energy with their saliva**.",
+  "t": "**3階分**ほどの高さからの落下を和らげられる。残った魂のエネルギーを味や匂いで感じ取り、**唾液で魂のエネルギーを打ち消せる**。"
  }
 }

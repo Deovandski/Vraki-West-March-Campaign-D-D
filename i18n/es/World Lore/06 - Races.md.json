@@ -1,6 +1,174 @@
 {
+ "00a7a8df140b": {
+  "en": "hover/fly",
+  "t": "flotar/volar"
+ },
+ "092230a953d0": {
+  "en": "Finaies / Fuhraies",
+  "t": "Finaies / Fuhraies"
+ },
+ "09daaa4eb311": {
+  "en": "**Big Wingas**, **White Roundies** and **Shapeshifters** might count as races. See Beasts.",
+  "t": "Los **Big Wingas**, los **White Roundies** y los **cambiaformas** podrían contar como razas. Ver Bestias."
+ },
+ "0fb4bb346cbb": {
+  "en": "**Darfaries veins** (actually nerves) on arms and back — the biggest of any race. They sense Soul Energy disturbances, humidity, wind and pressure (\"if a Darfaries tells you to buy an umbrella, buy one\").",
+  "t": "Las **venas Darfaries** (en realidad nervios) de brazos y espalda son las más grandes de cualquier raza. Perciben perturbaciones de la energía del alma, la humedad, el viento y la presión («si un Darfaries te dice que te compres un paraguas, cómpratelo»)."
+ },
+ "0fbca39c3a0a": {
+  "en": "Cruro (hair, invisibility)",
+  "t": "Cruro (pelo, invisibilidad)"
+ },
+ "10a1fb291968": {
+  "en": "**Crocodile-folk** descended from the Crocus, which appeared suddenly in 575 A.G. (rumor: alcohol and a creepy scientist). They **cannot speak** — they grunt — but smart ones read, write and draw to talk. Most are dog-smart and tribal; a rare few are brilliant. They aren't citizens until they join the **Half-Cruro** guild (lifelong cheap-labor contract in exchange). Their hair crackles with soul energy; they can turn **invisible** for a few minutes and feel soul energy as an itchy back. A dozen eggs a year.",
+  "t": "**Gente cocodrilo** descendiente de los Crocus, que aparecieron de repente en el 575 A.G. (rumor: alcohol y un científico siniestro). **No pueden hablar** (gruñen), pero los listos leen, escriben y dibujan para comunicarse. La mayoría tiene la inteligencia de un perro y vive en tribus; unos pocos son brillantes. No son ciudadanos hasta que se unen al gremio **Half-Cruro** (a cambio de un contrato de mano de obra barata de por vida). Su pelo chisporrotea de energía del alma; pueden volverse **invisibles** unos minutos y notan la energía del alma como un picor en la espalda. Una docena de huevos al año."
+ },
+ "10efc36bfb36": {
+  "en": "Finaies + Buhraies",
+  "t": "Finaies + Buhraies"
+ },
+ "219123b29c6d": {
+  "en": "Scholars sort creatures three ways: **Races** (as smart as humans or smarter), **Beasts** (somewhat intelligent or very dangerous) and **Fauna** (animals). Several creatures sit on the line and start bar fights among scientists.",
+  "t": "Los eruditos clasifican a las criaturas de tres formas: **Razas** (tan listas como los humanos o más), **Bestias** (algo inteligentes o muy peligrosas) y **Fauna** (animales). Varias criaturas están en la frontera y provocan peleas de taberna entre científicos."
+ },
+ "23b1c15a2cd4": {
+  "en": "Interface",
+  "t": "Interfaz"
+ },
+ "2c2f60e2b5cf": {
+  "en": "**Small, child-like flyers** with true controlled flight and a huge reserve of soul energy (near ancient-race levels). Intelligence of a ~5-year-old, highly emotional, sterile, and often senile by their thirties. Sweat smells of roses and lilac. Darfaries call them abominations; adventurers hire them as **scouts and companions**, trained in Flatland.\n*At the table:* Sorefaries work best as companions/NPCs; a DM may allow one as a player character for a comedic or challenge game.",
+  "t": "**Voladores pequeños de aspecto infantil** con vuelo controlado de verdad y una enorme reserva de energía del alma (casi al nivel de las razas antiguas). Inteligencia de un niño de ~5 años, muy emocionales, estériles y a menudo seniles antes de los treinta. Su sudor huele a rosas y lilas. Los Darfaries los llaman abominaciones; los aventureros los contratan como **exploradores y compañeros**, entrenados en Flatland.\n*En la mesa:* los Sorefaries funcionan mejor como compañeros/PNJ; un DM puede permitir uno como personaje jugador para una partida cómica o de desafío."
+ },
+ "2e59c978609a": {
+  "en": "Wozefaries",
+  "t": "Wozefaries"
+ },
+ "2e9745a781e1": {
+  "en": "Playable peoples",
+  "t": "Pueblos jugables"
+ },
+ "3fdc8fbacc22": {
+  "en": "Human × Darfaries or Wozefaries children look human but carry the parent's soul energy talents. Darfaries + Wozefaries = Sorefaries. Wozefaries + Wozefaries usually = Wozefaries, sometimes Sorefaries.",
+  "t": "Los hijos de humano × Darfaries o Wozefaries parecen humanos pero heredan los talentos de energía del alma del progenitor. Darfaries + Wozefaries = Sorefaries. Wozefaries + Wozefaries suele dar Wozefaries, a veces Sorefaries."
+ },
+ "4d005acc69ee": {
+  "en": "Cruro",
+  "t": "Cruro"
+ },
+ "4e58d2b898cb": {
+  "en": "Interfaces by people",
+  "t": "Interfaces por pueblo"
+ },
  "5b5e9ca6c739": {
   "en": "People",
   "t": "Personas"
+ },
+ "5c4d45dcb544": {
+  "en": "Borderline creatures",
+  "t": "Criaturas en la frontera"
+ },
+ "5d3fddcd7c1d": {
+  "en": "none",
+  "t": "ninguno"
+ },
+ "62349f03dc08": {
+  "en": "Races",
+  "t": "Razas"
+ },
+ "69567ebef503": {
+  "en": "A **small, slight** version of Darfaries with smaller tusks; adults look youthful. Human-like intelligence, a bit more emotional; friendlier and more independent. Sweet-smelling sweat. **Glide** from about 10 stories. Considered lesser by Darfaries; most grew up in **Flatland** orphanages after being launched from the Goodbye Cliff. ~7-month pregnancy.",
+  "t": "Una versión **pequeña y menuda** de los Darfaries con colmillos más pequeños; los adultos parecen jóvenes. Inteligencia como la humana, algo más emocionales; más amistosos e independientes. Sudor de olor dulce. **Planean** desde unos 10 pisos. Los Darfaries los consideran inferiores; la mayoría creció en orfanatos de **Flatland** después de que los lanzaran desde el Goodbye Cliff. Embarazo de ~7 meses."
+ },
+ "6aa4ad54cbac": {
+  "en": "Humans (\"Naked Bruntos\")",
+  "t": "Humanos («Naked Bruntos»)"
+ },
+ "6b1b440b986f": {
+  "en": "glide (~10 stories)",
+  "t": "planear (~10 pisos)"
+ },
+ "6daadc9932a7": {
+  "en": "soften falls (~3 stories)",
+  "t": "amortiguar caídas (~3 pisos)"
+ },
+ "7a96eb5f7c8a": {
+  "en": "Flight",
+  "t": "Vuelo"
+ },
+ "82120fa3d2f2": {
+  "en": "Darfaries (strongest senses)",
+  "t": "Darfaries (los sentidos más agudos)"
+ },
+ "8deedc8519fb": {
+  "en": "Sorefaries",
+  "t": "Sorefaries"
+ },
+ "980e3c6878bd": {
+  "en": "Darfaries",
+  "t": "Darfaries"
+ },
+ "9c9536dfbe61": {
+  "en": "The most numerous people. The ancient Buhraies created or altered them from **Bruntos** (a chimp-like species) as blood cattle, playthings, research subjects, or soldiers — nobody agrees which. Humans escaped, multiplied, and wiped out the ancient races. ~9-month pregnancy, 1–5 babies.\nAlmost every human by 1000 A.G. has a little Darfaries or Wozefaries blood, which lets them use the **Darfaries interface** (sigil rings). Rarely, a \"pure\" human can't use it at all. Some show floppy ears or bigger lower teeth.",
+  "t": "El pueblo más numeroso. Los antiguos Buhraies los crearon o alteraron a partir de los **Bruntos** (una especie parecida al chimpancé) como ganado de sangre, juguetes, sujetos de investigación o soldados; nadie se pone de acuerdo en cuál. Los humanos escaparon, se multiplicaron y aniquilaron a las razas antiguas. Embarazo de ~9 meses, 1–5 bebés.\nHacia el 1000 A.G. casi todos los humanos tienen un poco de sangre Darfaries o Wozefaries, lo que les permite usar la **interfaz Darfaries** (anillos de sigilo). En raras ocasiones, un humano «puro» no puede usarla en absoluto. Algunos tienen orejas caídas o dientes inferiores más grandes."
+ },
+ "a88dcb989554": {
+  "en": "**Finaies** — the primordial race, tree-born and all-female, from which every non-human race descends. Weak alone, strong together; they can share or drain soul energy from anything. Survivors live **north of Hifuna** and, rumor says, watch the south for entertainment. Speak Old Vraki.",
+  "t": "**Finaies**: la raza primordial, nacida de los árboles y solo femenina, de la que descienden todas las razas no humanas. Débiles solas, fuertes juntas; pueden compartir o drenar energía del alma de cualquier cosa. Las supervivientes viven **al norte de Hifuna** y, según dicen, observan el sur para entretenerse. Hablan vraki antiguo."
+ },
+ "a942b8d210fa": {
+  "en": "Mixed blood",
+  "t": "Sangre mezclada"
+ },
+ "b4b624dd516c": {
+  "en": "**Lishies** — meat-eating brutes with no interface, little sense of pain, tribal cannibals. Extinct since Ganyrami fell (maybe some in the far south-west woods).",
+  "t": "**Lishies**: brutos carnívoros sin interfaz, que apenas sienten dolor, caníbales tribales. Extintos desde la caída de Ganyrami (quizá quede alguno en los bosques del lejano suroeste)."
+ },
+ "b9889a1c50df": {
+  "en": "Human (mixed)",
+  "t": "Humano (mezclado)"
+ },
+ "bb27af857f6f": {
+  "en": "\"Pure\" human",
+  "t": "Humano «puro»"
+ },
+ "cab8af28e75a": {
+  "en": "Cruros",
+  "t": "Cruros"
+ },
+ "d61fc396d01d": {
+  "en": "Darfaries (sigil rings)",
+  "t": "Darfaries (anillos de sigilo)"
+ },
+ "e2280693427c": {
+  "en": "Buhraies",
+  "t": "Buhraies"
+ },
+ "e2b7994ea6c7": {
+  "en": "**Buhraies** — vampire-like masters of the soul who drank blood and marrow, reshaped the land, and created Wood People, Big Wingas, Fanchakis, Bruntos and humans. They could shape-shift and move souls between bodies. Driven out by humans; maybe hiding far west of Sundeath or in the southern forests.",
+  "t": "**Buhraies**: amos del alma parecidos a vampiros que bebían sangre y médula, remodelaron la tierra y crearon a los Wood People, los Big Wingas, los Fanchakis, los Bruntos y los humanos. Podían cambiar de forma y mover almas entre cuerpos. Los humanos los expulsaron; quizá se escondan muy al oeste de Sundeath o en los bosques del sur."
+ },
+ "e661a3feccd1": {
+  "en": "**Giant tusked humanoids** born from Lishies and Buhraies interbreeding. Tall and muscular (both sexes), with a wide range of hair and eye colors (women lighter, men darker). About **1.5× human intelligence** and longer-lived. Most live in **Gandew** under its rigid laws; those who left young tend to be easygoing. They pick fights fast, especially drunk.",
+  "t": "**Humanoides gigantes con colmillos** nacidos del cruce entre Lishies y Buhraies. Altos y musculosos (ambos sexos), con una gran variedad de colores de pelo y ojos (más claros las mujeres, más oscuros los hombres). Unas **1,5 veces la inteligencia humana** y más longevos. La mayoría vive en **Gandew** bajo sus rígidas leyes; los que se fueron de jóvenes suelen ser tranquilos. Se pelean enseguida, sobre todo borrachos."
+ },
+ "e76aab4034d3": {
+  "en": "Ancient races (NPCs, legends, or deep secrets)",
+  "t": "Razas antiguas (PNJ, leyendas o secretos profundos)"
+ },
+ "e7c0c977d2a2": {
+  "en": "full flight",
+  "t": "vuelo completo"
+ },
+ "f0ddee9e6406": {
+  "en": "**Fuhraies** — peaceful snow-dwelling offshoot, single-gendered, live for thousands of years on ambient soul energy, with antifreeze for blood. Considered extinct, but hunted by historians and poachers around **Fuhrair**.",
+  "t": "**Fuhraies**: una rama pacífica que vive en la nieve, de un solo sexo; viven miles de años de la energía del alma del ambiente y tienen anticongelante por sangre. Se consideran extintos, pero los persiguen historiadores y cazadores furtivos en torno a **Fuhrair**."
+ },
+ "f577306cdea5": {
+  "en": "~15-month pregnancy. Darfaries parents sometimes have Wozefaries or Sorefaries babies — which Gandew throws off the **Goodbye Cliff**.",
+  "t": "Embarazo de ~15 meses. A veces los padres Darfaries tienen bebés Wozefaries o Sorefaries, que Gandew tira por el **Goodbye Cliff**."
+ },
+ "fe9deb7ce0c2": {
+  "en": "Can soften a fall from about **3 stories**. Can taste/smell leftover soul energy and **neutralize soul energy with their saliva**.",
+  "t": "Pueden amortiguar una caída de unos **3 pisos**. Pueden saborear u oler restos de energía del alma y **neutralizar la energía del alma con su saliva**."
  }
 }

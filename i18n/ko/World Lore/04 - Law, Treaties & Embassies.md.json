@@ -1,4 +1,8 @@
 {
+ "05fb042e9293": {
+  "en": "**Local Warning** (1 amethyst): the quest board; announced at Monnalow. All quests are posted here.",
+  "t": "**지역 경고**(1 애머시스트): 의뢰 게시판. 몬나로에 발표된다. 모든 의뢰가 여기에 붙는다."
+ },
  "0b5d5461839c": {
   "en": "**Essential goods** (added 705 A.G.) are managed and subsidized by Forway.",
   "t": "**필수품**(705 A.G.에 추가)은 포웨이가 관리하고 보조금을 준다."
@@ -10,6 +14,10 @@
  "0eecbe2cdd14": {
   "en": "**Free movement** between kingdoms and cities. **Adventuring is a Forway job**, organized through embassies as a decentralized army. *Sub-section 3:* adventurers may **not** punish anyone unless a Forway guard or kingdom representative authorizes it.",
   "t": "왕국과 도시 사이 **이동은 자유**다. **모험은 포웨이의 일**이며, 대사관을 통해 분산된 군대처럼 조직된다. *제3항:* 모험가는 포웨이 경비병이나 왕국 대표가 허가하지 않는 한 누구도 처벌해서는 **안 된다**."
+ },
+ "10d783a373eb": {
+  "en": "Every evening at **Monnalow**, the local captain shouts the Forway news in the public square. Weekly printouts (*Forway News*, *Forway and You*) come out on Forrday/Freeday — mostly read in Forway and Tolerideme.",
+  "t": "매일 저녁 **몬나로**에 그 지역 대장이 광장에서 포웨이 뉴스를 외친다. 주간 인쇄물(*포웨이 뉴스*, *포웨이와 당신*)은 포데이나 프리데이에 나오며, 주로 포웨이와 톨레리데메에서 읽힌다."
  },
  "13936f87d08c": {
   "en": "**Sundeath:** **guilty until proven innocent**; public trials and executions.",
@@ -31,6 +39,10 @@
   "en": "**Blood:** major criminals become prey for the hunters.",
   "t": "**블러드:** 중범죄자는 사냥꾼들의 사냥감이 된다."
  },
+ "3531d59ae97d": {
+  "en": "Every contract must list its **nullification clauses on the back**.",
+  "t": "모든 계약서는 **뒷면에 무효 조항**을 적어야 한다."
+ },
  "37c7359608c8": {
   "en": "**Annual gathering** of kings and city representatives every Paulin at the Forway Palace.",
   "t": "매년 파울린에 포웨이 궁전에서 열리는 왕들과 도시 대표들의 **연례 모임**."
@@ -38,6 +50,10 @@
  "3cb5c745542a": {
   "en": "**Black wood badges** mark officials and kingdom representatives.",
   "t": "**검은 나무 신분패**는 관리와 왕국 대표의 표시다."
+ },
+ "40c17d605f4a": {
+  "en": "Contracts",
+  "t": "계약"
  },
  "4d2ea3ece121": {
   "en": "**Crime** = proven physical, economic or mental harm to a citizen without consent. **Innocent until proven guilty.**",
@@ -71,9 +87,17 @@
   "en": "Blood samples are flown to Forway's **central soul repository**, so a badge can't be duplicated and a mangled corpse can still be identified.",
   "t": "혈액 시료는 포웨이의 **중앙 영혼 보관소**로 날아가므로, 신분패는 복제할 수 없고 엉망이 된 시신도 신원을 확인할 수 있다."
  },
+ "72ca19940638": {
+  "en": "**Emergency** (1 sapphire): invasion-level. Never used. Requires housing, feeding and arming 100 adventurers within 3 days.",
+  "t": "**긴급**(1 사파이어): 침공 수준. 한 번도 쓰인 적이 없다. 3일 안에 모험가 100명의 숙소, 식사, 무장을 마련해야 한다."
+ },
  "760cd861ca65": {
   "en": "The Prosperity Treaty (680 A.G.)",
   "t": "번영 조약(680 A.G.)"
+ },
+ "7f3039c816a0": {
+  "en": "Important contracts are signed at an embassy with an official witness. Kingdoms run their own contract offices too.",
+  "t": "중요한 계약은 대사관에서 공식 증인 앞에서 서명한다. 왕국들도 자체 계약 사무소를 운영한다."
  },
  "8cd73d6c84fa": {
   "en": "**Trade** only in balls (no barter); the Vraki calendar and units are standard.",
@@ -82,6 +106,10 @@
  "8eb10f6c2916": {
   "en": "Applies in every Forway territory; kings may override it inside their kingdoms.",
   "t": "포웨이의 모든 영토에 적용된다. 왕은 자기 왕국 안에서 이를 뒤집을 수 있다."
+ },
+ "92b46dc8ed8b": {
+  "en": "Anyone can pay to post:",
+  "t": "누구나 돈을 내고 게시할 수 있다:"
  },
  "a2831a44a51b": {
   "en": "Cost: **1 amethyst**. Plenty of poor folk never get one — and without one you can't use embassy services.",
@@ -94,6 +122,10 @@
  "a516c6ef657c": {
   "en": "**Minor:** restorable within 5 years of contract servitude.",
   "t": "**경범죄:** 5년 이내의 계약 노역으로 복구할 수 있는 것."
+ },
+ "a8041b8e1c7f": {
+  "en": "Signal smoke (Forway-official colors)",
+  "t": "신호 연기(포웨이 공식 색)"
  },
  "a96d08f41e2e": {
   "en": "Law, Treaties & Embassies",
@@ -118,6 +150,10 @@
  "b9f39bc35fb9": {
   "en": "**Territory:** Forway owns all land outside the kingdoms and decides what counts as a city or village. Forway cities host an embassy and follow Forway Law. Taxes: cities 20%, villages 15%, kingdoms 10%. Embassies may call adventurers in emergencies and, with permission, kingdom guards.",
   "t": "**영토:** 왕국 밖의 모든 땅은 포웨이 소유이며, 무엇을 도시나 마을로 칠지도 포웨이가 정한다. 포웨이 도시에는 대사관이 있고 포웨이 법을 따른다. 세금: 도시 20%, 마을 15%, 왕국 10%. 대사관은 비상시에 모험가를, 허가가 있으면 왕국 경비병도 소집할 수 있다."
+ },
+ "bb1da969f521": {
+  "en": "**Red** = help · **Cyan** = conquered/complete · **Green** = safe/go ahead · **Yellow** = retreat. Misuse is punished. Bandits fake them to set traps.",
+  "t": "**빨강** = 도움 · **청록** = 점령/완료 · **초록** = 안전/전진 · **노랑** = 후퇴. 잘못 쓰면 처벌받는다. 도적은 함정을 놓으려고 가짜 신호를 피운다."
  },
  "c2a95b39cb9e": {
   "en": "Written by **Freeish Paulin**'s rebellion and three courtroom scientists — **Asa the Powerful** (Gandew), **Adrian from North Tolerideme** (Tolerideme) and **Bijura Moacir** (Sanbi) — after they overthrew their own kings to end the Greed Period. Based on Sanbi law.",
@@ -159,9 +195,17 @@
   "en": "Every kingdom and major city has a **seven-story embassy**: dark stone, accents in the four kingdoms' colors (**red, orange, blue, green**), nari-glass, a black fence and a moat. Embassy grounds are **Forway soil** even inside a kingdom. They're patrolled by **Big Wingas** (guards transformed with nari gel), and ordinary Wingas fly the mail.",
   "t": "모든 왕국과 주요 도시에 **7층짜리 대사관**이 있다. 어두운 돌, 네 왕국의 색(**빨강, 주황, 파랑, 초록**) 장식, 나리 유리, 검은 울타리와 해자. 대사관 부지는 왕국 안에 있어도 **포웨이 땅**이다. **빅 윙가**(나리 젤로 변신한 경비병)가 순찰하고, 보통 윙가가 우편을 나른다."
  },
+ "e5ddc99aeb49": {
+  "en": "**General** (1 pearl): general board + weekly printout. Turned into a marketplace for odd items.",
+  "t": "**일반**(1 펄): 일반 게시판 + 주간 인쇄물. 지금은 별난 물건을 사고파는 장터가 되었다."
+ },
  "e6ef331b09db": {
   "en": "In Forway City itself: if you can pay for your crime, you walk; if not, prison.",
   "t": "포웨이 시 안에서는: 죄값을 치를 돈이 있으면 풀려나고, 없으면 감옥행."
+ },
+ "e731d388e284": {
+  "en": "**Kingdom Alert** (1 aquamarine): shouted across the kingdom's cities and villages to gather every adventurer.",
+  "t": "**왕국 경보**(1 아쿠아마린): 왕국의 모든 도시와 마을에 외쳐 모든 모험가를 모은다."
  },
  "e735641cd60a": {
   "en": "**Sanbi:** minor crimes → replace what you took; major → thrown into the sea (survive and you're absolved).",
@@ -178,6 +222,10 @@
  "ea8ca2f765fc": {
   "en": "**Ganyrami:** nobody reports anything; you sort it out yourself.",
   "t": "**가니라미:** 아무도 신고하지 않는다. 알아서 해결한다."
+ },
+ "f24af8ab3837": {
+  "en": "Signed in **blood**, mixed with nari. To verify, press the signer's badge to the signature: the thumb spot lights up if it matches.",
+  "t": "나리를 섞은 **피**로 서명한다. 확인하려면 서명자의 신분패를 서명에 대 본다. 맞으면 엄지 자리가 빛난다."
  },
  "f33ecf3ee200": {
   "en": "**Tolerideme:** punished by **starvation** (longer for worse crimes).",
@@ -198,5 +246,9 @@
  "fc1316564e13": {
   "en": "**Citizenship** is proven by a badge from an embassy. Freeish (built on old Ganyrami land) is an equal kingdom.",
   "t": "**시민권**은 대사관의 신분패로 증명한다. 프리이시(옛 가니라미 땅 위에 세워졌다)는 동등한 왕국이다."
+ },
+ "fdfb91839d1a": {
+  "en": "News",
+  "t": "뉴스"
  }
 }

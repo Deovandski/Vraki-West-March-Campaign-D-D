@@ -1,6 +1,174 @@
 {
+ "00a7a8df140b": {
+  "en": "hover/fly",
+  "t": "떠오르기/비행"
+ },
+ "092230a953d0": {
+  "en": "Finaies / Fuhraies",
+  "t": "피나이에스 / 푸라이에스"
+ },
+ "09daaa4eb311": {
+  "en": "**Big Wingas**, **White Roundies** and **Shapeshifters** might count as races. See Beasts.",
+  "t": "**빅 윙가**, **화이트 라운디스**, **변신자**는 종족으로 칠 수도 있다. 마수 항목을 보세요."
+ },
+ "0fb4bb346cbb": {
+  "en": "**Darfaries veins** (actually nerves) on arms and back — the biggest of any race. They sense Soul Energy disturbances, humidity, wind and pressure (\"if a Darfaries tells you to buy an umbrella, buy one\").",
+  "t": "팔과 등의 **다르파리에스 정맥**(실은 신경)은 어느 종족보다 굵다. 영혼 에너지의 교란, 습도, 바람, 기압을 느낀다(‘다르파리에스가 우산을 사라고 하면, 사라’)."
+ },
+ "0fbca39c3a0a": {
+  "en": "Cruro (hair, invisibility)",
+  "t": "크루로(털, 투명화)"
+ },
+ "10a1fb291968": {
+  "en": "**Crocodile-folk** descended from the Crocus, which appeared suddenly in 575 A.G. (rumor: alcohol and a creepy scientist). They **cannot speak** — they grunt — but smart ones read, write and draw to talk. Most are dog-smart and tribal; a rare few are brilliant. They aren't citizens until they join the **Half-Cruro** guild (lifelong cheap-labor contract in exchange). Their hair crackles with soul energy; they can turn **invisible** for a few minutes and feel soul energy as an itchy back. A dozen eggs a year.",
+  "t": "575 A.G.에 갑자기 나타난 크로커스의 후손인 **악어족**(소문으로는 술과 소름 끼치는 과학자 때문). **말을 못 한다** — 끙끙거릴 뿐이다 — 하지만 똑똑한 이들은 읽고 쓰고 그림을 그려 소통한다. 대부분은 개 정도의 지능으로 부족 생활을 하며, 아주 드물게 뛰어난 이도 있다. **하프 크루로** 길드에 들어가기 전에는 시민이 아니다(그 대가로 평생 값싼 노동 계약을 맺는다). 털이 영혼 에너지로 지직거리고, 몇 분 동안 **투명**해질 수 있으며, 영혼 에너지를 등이 가려운 느낌으로 느낀다. 1년에 알을 한 다스 낳는다."
+ },
+ "10efc36bfb36": {
+  "en": "Finaies + Buhraies",
+  "t": "피나이에스 + 부라이에스"
+ },
+ "219123b29c6d": {
+  "en": "Scholars sort creatures three ways: **Races** (as smart as humans or smarter), **Beasts** (somewhat intelligent or very dangerous) and **Fauna** (animals). Several creatures sit on the line and start bar fights among scientists.",
+  "t": "학자들은 생물을 세 가지로 나눈다: **종족**(인간만큼 또는 그보다 똑똑함), **마수**(어느 정도 지능이 있거나 매우 위험함), **동물**(짐승). 경계에 걸친 생물도 있어서 과학자들 사이에 술집 싸움을 일으킨다."
+ },
+ "23b1c15a2cd4": {
+  "en": "Interface",
+  "t": "인터페이스"
+ },
+ "2c2f60e2b5cf": {
+  "en": "**Small, child-like flyers** with true controlled flight and a huge reserve of soul energy (near ancient-race levels). Intelligence of a ~5-year-old, highly emotional, sterile, and often senile by their thirties. Sweat smells of roses and lilac. Darfaries call them abominations; adventurers hire them as **scouts and companions**, trained in Flatland.\n*At the table:* Sorefaries work best as companions/NPCs; a DM may allow one as a player character for a comedic or challenge game.",
+  "t": "정말로 자유롭게 날 수 있고 영혼 에너지 비축량이 엄청난(고대 종족에 가까운) **아이 같은 작은 비행 종족**. 지능은 약 다섯 살 아이 수준이며, 감정적이고, 아이를 가질 수 없고, 서른 즈음에 노망이 드는 경우가 많다. 땀에서 장미와 라일락 향이 난다. 다르파리에스는 이들을 흉물이라 부른다. 모험가들은 이들을 **정찰병이자 동료**로 고용하며, 플랫랜드에서 훈련받는다.\n*테이블에서:* 소레파리에스는 동료/NPC로 쓰는 것이 가장 좋습니다. 코미디나 도전적인 게임을 위해 DM이 플레이어 캐릭터로 허락할 수도 있습니다."
+ },
+ "2e59c978609a": {
+  "en": "Wozefaries",
+  "t": "워제파리에스"
+ },
+ "2e9745a781e1": {
+  "en": "Playable peoples",
+  "t": "플레이할 수 있는 종족"
+ },
+ "3fdc8fbacc22": {
+  "en": "Human × Darfaries or Wozefaries children look human but carry the parent's soul energy talents. Darfaries + Wozefaries = Sorefaries. Wozefaries + Wozefaries usually = Wozefaries, sometimes Sorefaries.",
+  "t": "인간과 다르파리에스 또는 워제파리에스 사이의 아이는 인간처럼 보이지만 부모의 영혼 에너지 재능을 물려받는다. 다르파리에스 + 워제파리에스 = 소레파리에스. 워제파리에스 + 워제파리에스는 보통 워제파리에스, 가끔 소레파리에스."
+ },
+ "4d005acc69ee": {
+  "en": "Cruro",
+  "t": "크루로"
+ },
+ "4e58d2b898cb": {
+  "en": "Interfaces by people",
+  "t": "종족별 인터페이스"
+ },
  "5b5e9ca6c739": {
   "en": "People",
   "t": "인물"
+ },
+ "5c4d45dcb544": {
+  "en": "Borderline creatures",
+  "t": "경계에 있는 생물"
+ },
+ "5d3fddcd7c1d": {
+  "en": "none",
+  "t": "없음"
+ },
+ "62349f03dc08": {
+  "en": "Races",
+  "t": "종족"
+ },
+ "69567ebef503": {
+  "en": "A **small, slight** version of Darfaries with smaller tusks; adults look youthful. Human-like intelligence, a bit more emotional; friendlier and more independent. Sweet-smelling sweat. **Glide** from about 10 stories. Considered lesser by Darfaries; most grew up in **Flatland** orphanages after being launched from the Goodbye Cliff. ~7-month pregnancy.",
+  "t": "다르파리에스를 **작고 가냘프게** 만든 듯한 종족으로, 엄니도 작다. 어른도 앳되어 보인다. 인간 정도의 지능에 감정이 조금 더 풍부하고, 더 친근하고 독립적이다. 땀에서 달콤한 냄새가 난다. 약 10층 높이에서 **활공**한다. 다르파리에스는 이들을 열등하다고 여긴다. 대부분은 굿바이 절벽에서 내던져진 뒤 **플랫랜드**의 고아원에서 자랐다. 임신 기간 약 7개월."
+ },
+ "6aa4ad54cbac": {
+  "en": "Humans (\"Naked Bruntos\")",
+  "t": "인간(‘벌거벗은 브룬토스’)"
+ },
+ "6b1b440b986f": {
+  "en": "glide (~10 stories)",
+  "t": "활공(약 10층)"
+ },
+ "6daadc9932a7": {
+  "en": "soften falls (~3 stories)",
+  "t": "낙하 완화(약 3층)"
+ },
+ "7a96eb5f7c8a": {
+  "en": "Flight",
+  "t": "비행"
+ },
+ "82120fa3d2f2": {
+  "en": "Darfaries (strongest senses)",
+  "t": "다르파리에스(가장 예민한 감각)"
+ },
+ "8deedc8519fb": {
+  "en": "Sorefaries",
+  "t": "소레파리에스"
+ },
+ "980e3c6878bd": {
+  "en": "Darfaries",
+  "t": "다르파리에스"
+ },
+ "9c9536dfbe61": {
+  "en": "The most numerous people. The ancient Buhraies created or altered them from **Bruntos** (a chimp-like species) as blood cattle, playthings, research subjects, or soldiers — nobody agrees which. Humans escaped, multiplied, and wiped out the ancient races. ~9-month pregnancy, 1–5 babies.\nAlmost every human by 1000 A.G. has a little Darfaries or Wozefaries blood, which lets them use the **Darfaries interface** (sigil rings). Rarely, a \"pure\" human can't use it at all. Some show floppy ears or bigger lower teeth.",
+  "t": "가장 수가 많은 종족. 고대 부라이에스가 침팬지 비슷한 종 **브룬토스**로부터 피의 가축, 장난감, 연구 대상, 병사 가운데 하나로 만들거나 개조했다 — 어느 쪽인지는 아무도 합의하지 못한다. 인간은 탈출해 불어났고 고대 종족을 쓸어 버렸다. 임신 기간 약 9개월, 1–5명의 아기.\n1000 A.G.쯤에는 거의 모든 인간에게 다르파리에스나 워제파리에스의 피가 조금씩 섞여 있어서 **다르파리에스 인터페이스**(시질 링)를 쓸 수 있다. 드물게 ‘순수한’ 인간은 전혀 쓰지 못한다. 귀가 처지거나 아랫니가 큰 사람도 있다."
+ },
+ "a88dcb989554": {
+  "en": "**Finaies** — the primordial race, tree-born and all-female, from which every non-human race descends. Weak alone, strong together; they can share or drain soul energy from anything. Survivors live **north of Hifuna** and, rumor says, watch the south for entertainment. Speak Old Vraki.",
+  "t": "**피나이에스** — 나무에서 태어난 여성만의 원초 종족으로, 인간이 아닌 모든 종족의 조상이다. 혼자서는 약하지만 함께하면 강하다. 무엇에게서든 영혼 에너지를 나누거나 빨아들일 수 있다. 살아남은 이들은 **히푸나 북쪽**에 살며, 소문으로는 재미 삼아 남쪽을 지켜본다고 한다. 고대 브라키어를 쓴다."
+ },
+ "a942b8d210fa": {
+  "en": "Mixed blood",
+  "t": "혼혈"
+ },
+ "b4b624dd516c": {
+  "en": "**Lishies** — meat-eating brutes with no interface, little sense of pain, tribal cannibals. Extinct since Ganyrami fell (maybe some in the far south-west woods).",
+  "t": "**리시에스** — 인터페이스가 없는 육식 야만족. 고통을 거의 느끼지 않으며 부족 단위로 식인을 한다. 가니라미가 무너진 뒤 멸종했다(먼 남서쪽 숲에 몇이 남아 있을지도 모른다)."
+ },
+ "b9889a1c50df": {
+  "en": "Human (mixed)",
+  "t": "인간(혼혈)"
+ },
+ "bb27af857f6f": {
+  "en": "\"Pure\" human",
+  "t": "‘순수한’ 인간"
+ },
+ "cab8af28e75a": {
+  "en": "Cruros",
+  "t": "크루로"
+ },
+ "d61fc396d01d": {
+  "en": "Darfaries (sigil rings)",
+  "t": "다르파리에스(시질 링)"
+ },
+ "e2280693427c": {
+  "en": "Buhraies",
+  "t": "부라이에스"
+ },
+ "e2b7994ea6c7": {
+  "en": "**Buhraies** — vampire-like masters of the soul who drank blood and marrow, reshaped the land, and created Wood People, Big Wingas, Fanchakis, Bruntos and humans. They could shape-shift and move souls between bodies. Driven out by humans; maybe hiding far west of Sundeath or in the southern forests.",
+  "t": "**부라이에스** — 피와 골수를 마시고 땅을 바꿔 놓은 흡혈귀 같은 영혼의 주인. 우드 피플, 빅 윙가, 판차키, 브룬토스, 그리고 인간을 만들었다. 모습을 바꾸고 몸과 몸 사이로 영혼을 옮길 수 있었다. 인간에게 쫓겨났으며, 선데스 훨씬 서쪽이나 남쪽 숲에 숨어 있을지도 모른다."
+ },
+ "e661a3feccd1": {
+  "en": "**Giant tusked humanoids** born from Lishies and Buhraies interbreeding. Tall and muscular (both sexes), with a wide range of hair and eye colors (women lighter, men darker). About **1.5× human intelligence** and longer-lived. Most live in **Gandew** under its rigid laws; those who left young tend to be easygoing. They pick fights fast, especially drunk.",
+  "t": "리시에스와 부라이에스의 교배로 태어난 **엄니가 있는 거인 인간형 종족**. 남녀 모두 키가 크고 근육질이며, 머리와 눈 색이 다양하다(여자는 밝고 남자는 어둡다). 지능은 **인간의 약 1.5배**이고 수명도 더 길다. 대부분 엄격한 법이 있는 **간듀**에 산다. 어려서 떠난 이들은 느긋한 편이다. 금세 싸움을 건다. 특히 술에 취하면."
+ },
+ "e76aab4034d3": {
+  "en": "Ancient races (NPCs, legends, or deep secrets)",
+  "t": "고대 종족(NPC, 전설, 혹은 깊은 비밀)"
+ },
+ "e7c0c977d2a2": {
+  "en": "full flight",
+  "t": "완전한 비행"
+ },
+ "f0ddee9e6406": {
+  "en": "**Fuhraies** — peaceful snow-dwelling offshoot, single-gendered, live for thousands of years on ambient soul energy, with antifreeze for blood. Considered extinct, but hunted by historians and poachers around **Fuhrair**.",
+  "t": "**푸라이에스** — 눈 속에 사는 평화로운 갈래. 성이 하나뿐이고, 주변의 영혼 에너지로 수천 년을 살며, 피 대신 부동액이 흐른다. 멸종한 것으로 여겨지지만 **푸레어** 근처에서 역사가와 밀렵꾼에게 쫓긴다."
+ },
+ "f577306cdea5": {
+  "en": "~15-month pregnancy. Darfaries parents sometimes have Wozefaries or Sorefaries babies — which Gandew throws off the **Goodbye Cliff**.",
+  "t": "임신 기간 약 15개월. 다르파리에스 부모에게서 가끔 워제파리에스나 소레파리에스 아기가 태어나는데, 간듀는 그 아이를 **굿바이 절벽**에서 던져 버린다."
+ },
+ "fe9deb7ce0c2": {
+  "en": "Can soften a fall from about **3 stories**. Can taste/smell leftover soul energy and **neutralize soul energy with their saliva**.",
+  "t": "약 **3층** 높이에서 떨어지는 충격을 줄일 수 있다. 남은 영혼 에너지를 맛이나 냄새로 느끼고 **침으로 영혼 에너지를 중화할 수 있다**."
  }
 }

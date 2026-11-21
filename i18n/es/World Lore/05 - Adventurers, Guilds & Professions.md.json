@@ -1,6 +1,210 @@
 {
+ "09d5e19f9537": {
+  "en": "Literacy is limited outside Forway and Tolerideme.",
+  "t": "Fuera de Forway y Tolerideme, la alfabetización es limitada."
+ },
+ "1494691aa52b": {
+  "en": "Forway guards carry **black honey** in their leg pockets to revive themselves.",
+  "t": "Los guardias de Forway llevan **miel negra** en los bolsillos de las perneras para reanimarse."
+ },
+ "1d41a813a5b7": {
+  "en": "Each region adds local quests (Wood People control, Bahyum control, Crocus control, desert road clearing, Newland exploration…). See Kingdoms and Cities.",
+  "t": "Cada región añade misiones locales (control de Wood People, control de Bahyum, control de Crocus, limpieza de caminos del desierto, exploración de Newland…). Ver Reinos y Ciudades."
+ },
+ "23a1f50b9a13": {
+  "en": "Education",
+  "t": "Educación"
+ },
+ "2554202dd964": {
+  "en": "*Black Sapphire* (V)",
+  "t": "*Black Sapphire* (V)"
+ },
+ "25f0c6cb271e": {
+  "en": "Registering costs **1 sapphire**; the embassy keeps copies of members' badges and manages property, assets and storage.",
+  "t": "Registrarlo cuesta **1 sapphire**; la embajada guarda copias de las insignias de los miembros y gestiona propiedades, bienes y almacén."
+ },
+ "32143b6c1880": {
+  "en": "If your body isn't found in time for your soul to still be revivable, you're declared **\"Presumed Soul Dead\"**: Forway keeps your badge, and your belongings go to your top guild (or to charity after a year if you have none).",
+  "t": "Si no encuentran tu cuerpo a tiempo para que tu alma todavía se pueda reanimar, se te declara **«presunta muerte del alma»**: Forway se queda tu insignia y tus pertenencias van a tu gremio principal (o a la beneficencia al cabo de un año si no tienes)."
+ },
+ "339908f46fd0": {
+  "en": "Famous guilds: **Blue-Flower-Red-Bone** (Blood; Sapphire hero Fernan's family — people think it's an adventurer guild because of his statues), **Two Hearts** (Freeish adventurers), **Tea-Drinkers** (Forway adventurers), **Tough Hammer** (Gandew warriors), **Half-Cruro** (Cruros becoming citizens), **White Bell** (Forway brothels), **The 300kg Club** (Tolerideme; members don't last long).",
+  "t": "Gremios famosos: **Blue-Flower-Red-Bone** (Blood; la familia del héroe Sapphire Fernan; la gente cree que es un gremio de aventureros por sus estatuas), **Two Hearts** (aventureros de Freeish), **Tea-Drinkers** (aventureros de Forway), **Tough Hammer** (guerreros de Gandew), **Half-Cruro** (Cruros que se hacen ciudadanos), **White Bell** (burdeles de Forway), **The 300kg Club** (Tolerideme; sus miembros no duran mucho)."
+ },
+ "3715b92fccaa": {
+  "en": "Secret quests, kingdom and guild law compliance, advisors and officials. A party of only Sapphires means something terrible is coming",
+  "t": "Misiones secretas, cumplimiento de las leyes de reinos y gremios, asesores y funcionarios. Un grupo formado solo por Sapphires significa que se acerca algo terrible"
+ },
+ "39448f42bd6c": {
+  "en": "Officially a **Forway City job**: a decentralized army that keeps order, hunts threats, and keeps tabs on rumors across the kingdoms. It's how poor folk climb to a better life — at the risk of dying a lot. Most adventurers owe money to a guild or lender for their starting gear, and many owe Forway for revivals. Promotions are announced every **Paulin 100th** at the Adventurer Feast.",
+  "t": "Oficialmente un **empleo de la ciudad de Forway**: un ejército descentralizado que mantiene el orden, caza amenazas y sigue los rumores por todos los reinos. Es la manera en que los pobres suben a una vida mejor, a riesgo de morir mucho. La mayoría de los aventureros deben dinero a un gremio o prestamista por su equipo inicial, y muchos deben a Forway por reanimaciones. Los ascensos se anuncian cada **Paulin 100** en el Banquete de Aventureros."
+ },
+ "4b5e11fcafdf": {
+  "en": "The elite; adventurer school paid by Forway",
+  "t": "La élite; escuela de aventureros pagada por Forway"
+ },
+ "5585e8d72add": {
+  "en": "**Specialized schools** (all in Forway; 4 years, 5 sapphires incl. room and two simple meals a day): Cooking, Tailoring, Construction, Accounting, Historian/Teaching, Blacksmithing, Combat, **Adventurer** (6 months; how Forway runs things and threats the public isn't told about), **Soul Energy** (all interfaces; soul expansion so you need fewer nari stones).",
+  "t": "**Escuelas especializadas** (todas en Forway; 4 años, 5 sapphires con alojamiento y dos comidas sencillas al día): Cocina, Sastrería, Construcción, Contabilidad, Historia/Enseñanza, Herrería, Combate, **Aventurero** (6 meses; cómo gestiona Forway las cosas y las amenazas de las que no se informa al público), **Energía del alma** (todas las interfaces; expansión del alma para necesitar menos nari stones)."
+ },
+ "5b4304b33c20": {
+  "en": "Working hunters",
+  "t": "Cazadores en activo"
+ },
+ "60c4dc0517f1": {
+  "en": "**Adventurer guilds** share resources and gear. Some guilds *invest* in adventurers — e.g., Biny's **Cliff-Jumper** guild in Forway funds you for 30% of every quest and a minimum of two quests a week, plus insider tips on good quests.",
+  "t": "Los **gremios de aventureros** comparten recursos y equipo. Algunos gremios *invierten* en aventureros; por ejemplo, el gremio **Cliff-Jumper** de Biny, en Forway, te financia a cambio del 30% de cada misión y un mínimo de dos misiones por semana, además de soplos sobre las buenas misiones."
+ },
+ "6af1a70a1809": {
+  "en": "If revived, you hand over **50% of all quest profit** until the revival debt is paid.",
+  "t": "Si te reaniman, entregas el **50% de todas las ganancias de misiones** hasta saldar la deuda de reanimación."
+ },
+ "6d20863e7a9d": {
+  "en": "**II:** Amethyst Adventurer, Boat Repair, Wooly Herder, Common Courtesan, Winga Tamer, Ore Smelter, Wood/Stone Worker, Road Maintainer, Paper/Vellum Crafter, Ink/Wax Crafter, Egua Rider, Hunter (mostly replaced by adventurers)",
+  "t": "**II:** Aventurero Amethyst, Reparador de barcos, Pastor de Wooly, Cortesana común, Domador de Wingas, Fundidor de mineral, Trabajador de la madera/piedra, Mantenedor de caminos, Fabricante de papel/vitela, Fabricante de tinta/cera, Jinete de Egua, Cazador (sustituido casi del todo por aventureros)"
+ },
+ "6dedc3226323": {
+  "en": "**Amethyst** (II)",
+  "t": "**Amethyst** (II)"
+ },
+ "6f4a2533442d": {
+  "en": "Quest boards",
+  "t": "Tablones de misiones"
+ },
+ "6f659b796142": {
+  "en": "A guild is an officially registered **family** (by blood or not). Since there are no surnames, your guild *is* your family name. Guilds share wealth, property and storage, and settle inheritance in advance.",
+  "t": "Un gremio es una **familia** registrada oficialmente (de sangre o no). Como no hay apellidos, tu gremio *es* tu apellido. Los gremios comparten riqueza, propiedades y almacén, y resuelven las herencias por adelantado."
+ },
+ "71b3d08e99b2": {
+  "en": "**IV:** Sapphire Adventurer, Maid, Blacksmith, Tailor, Artisan Cheesemaker, Construction Manager, City Guard, Historian/Teacher, Local Merchant, Medium Farm Owner, Famous Courtesan",
+  "t": "**IV:** Aventurero Sapphire, Doncella, Herrero, Sastre, Quesero artesano, Jefe de obra, Guardia de la ciudad, Historiador/Profesor, Mercader local, Dueño de una granja mediana, Cortesana famosa"
+ },
+ "7348a6fe5d02": {
+  "en": "Die again before you've paid it off and you're **drafted into the Forway Guard**. Flee the debt and you're a wanted criminal. Plenty of people call it slavery.",
+  "t": "Muere otra vez antes de haberla pagado y te **reclutan en la Guardia de Forway**. Huye de la deuda y serás un criminal buscado. Mucha gente lo llama esclavitud."
+ },
+ "739b7c21990f": {
+  "en": "**Aquamarine** (III)",
+  "t": "**Aquamarine** (III)"
+ },
+ "745b084ad7ef": {
+  "en": "**III:** Aquamarine Adventurer, Construction Worker, Diener (handles corpses), Cheesemaker, Wooly Herder Manager, Stable Hand Manager, Innkeeper/Barkeeper, Small Farm Owner, Bard, Traveling Merchant, Classy Courtesan",
+  "t": "**III:** Aventurero Aquamarine, Obrero de la construcción, Diener (se ocupa de los cadáveres), Quesero, Encargado de pastores de Wooly, Encargado de mozos de cuadra, Posadero/Tabernero, Dueño de una granja pequeña, Bardo, Mercader ambulante, Cortesana con clase"
+ },
+ "7d068f933d51": {
+  "en": "**Aquamarine+:** Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer, Archeologist Assistance",
+  "t": "**Aquamarine+:** exterminio de bandidos, protección personal, cazador/rescatador de aventureros, apoyo a arqueólogos"
+ },
+ "96ab9b2eab2a": {
+  "en": "Graduates apprentice ~10 years (from ~16) and become masters around 26.",
+  "t": "Los graduados hacen de aprendices ~10 años (desde los ~16) y llegan a maestros hacia los 26."
+ },
+ "9885b48a1821": {
+  "en": "Every quest is posted as a **Local Warning** (1 amethyst + reward) on Floor 1. Retired adventurers and Forway officials rank them.",
+  "t": "Toda misión se publica como **Aviso local** (1 amethyst + recompensa) en la planta 1. Aventureros retirados y funcionarios de Forway les asignan rango."
+ },
+ "9ab86ba9c38a": {
+  "en": "Wild hunts (Bagarisas), cargo protection, bounties, bandit traps, beast hunts, training Pearls, checking on villages, missing persons",
+  "t": "Cacerías salvajes (Bagarisas), protección de cargas, recompensas, trampas para bandidos, caza de bestias, entrenar a Pearls, visitar aldeas, personas desaparecidas"
+ },
+ "a62ce87ca727": {
+  "en": "**V:** Artisan Blacksmith/Tailor, City Guard Captain, Region Merchant, Large Farm Owner",
+  "t": "**V:** Herrero/Sastre artesano, Capitán de la guardia de la ciudad, Mercader regional, Dueño de una granja grande"
+ },
+ "aa5154973aa2": {
+  "en": "Pest control (Sorenos), fauna hunting, gathering, construction and road work in the wild, lighthouse keeping, surveillance around cities, carrying messages",
+  "t": "Control de plagas (Sorenos), caza de fauna, recolección, construcción y obras de caminos en tierras salvajes, cuidado de faros, vigilancia alrededor de las ciudades, llevar mensajes"
+ },
+ "ac2be2ddd99b": {
+  "en": "**Pearl** (I)",
+  "t": "**Pearl** (I)"
+ },
+ "b1605f581a82": {
+  "en": "A rumor. Probably a joke. Probably.",
+  "t": "Un rumor. Seguramente una broma. Seguramente."
+ },
+ "b24a35f5de2a": {
+  "en": "**VI** (richest): King, Queen, Courtroom Scientist, Courtroom Scientist Apprentice, King-Maid (Sanbi's castle and economy manager)",
+  "t": "**VI** (los más ricos): Rey, Reina, Científico de la corte, Aprendiz de científico de la corte, King-Maid (gestora del castillo y la economía de Sanbi)"
+ },
+ "b8385b844e39": {
+  "en": "**Sapphire:** Kingdom/Guild/Business Law Compliance (secret)",
+  "t": "**Sapphire:** cumplimiento de leyes de reinos, gremios y negocios (secreto)"
+ },
+ "bf2bbec596c7": {
+  "en": "Typical work",
+  "t": "Trabajo típico"
+ },
+ "c1717d949b41": {
+  "en": "**Pearl+:** Soul Energy Assist, Fauna Hunting, Construction Assistance, Lighthouse Assistance, Area Surveillance (cities), Message Spreader, Road Maintenance",
+  "t": "**Pearl+:** apoyo de energía del alma, caza de fauna, ayuda en construcción, ayuda en faros, vigilancia de zona (ciudades), difusión de mensajes, mantenimiento de caminos"
+ },
+ "c206ea8a4d25": {
+  "en": "Adventurers",
+  "t": "Aventureros"
+ },
+ "c34c271ae79c": {
+  "en": "**Fundamental school** (5 years, ~1 aquamarine; free in some kingdoms): reading and basic math, from age ~6. Poor kids apprentice instead until ~18.",
+  "t": "**Escuela fundamental** (5 años, ~1 aquamarine; gratis en algunos reinos): lectura y matemáticas básicas, desde los ~6 años. Los niños pobres hacen de aprendices hasta los ~18."
+ },
+ "ca378779e440": {
+  "en": "Any embassy can revive an adventurer. When you take a quest you accept a **deadline**; if you're not back, a **search party** goes out to collect your body and finish the quest.",
+  "t": "Cualquier embajada puede reanimar a un aventurero. Al aceptar una misión aceptas un **plazo**; si no has vuelto, sale un **grupo de búsqueda** a recoger tu cuerpo y terminar la misión."
+ },
  "ca476635d4ad": {
   "en": "Rank",
   "t": "Rango"
+ },
+ "ca8f2fc062e6": {
+  "en": "Adventurers, Guilds & Professions",
+  "t": "Aventureros, gremios y oficios"
+ },
+ "cd5eaae0a9bb": {
+  "en": "Professions (by wealth tier)",
+  "t": "Oficios (por nivel de riqueza)"
+ },
+ "d1e549dbde0c": {
+  "en": "**Missing Person** quests let you borrow the missing person's badge copy for a week to verify them (touch it to them; it lights if it's their soul). Lose it and you pay **10× the reward** or do forced labor.",
+  "t": "Las misiones de **persona desaparecida** te permiten tomar prestada una copia de la insignia de la persona durante una semana para identificarla (la acercas a ella; se ilumina si es su alma). Si la pierdes, pagas **10× la recompensa** o haces trabajos forzados."
+ },
+ "d22023581512": {
+  "en": "Revival",
+  "t": "Reanimación"
+ },
+ "d98f64450d32": {
+  "en": "**Amethyst+:** Cargo Protection, Beast Hunt, Bounty Hunting, Bandit Traps, Training, Area Surveillance (wild), Village Checker, Missing Person",
+  "t": "**Amethyst+:** protección de cargas, caza de bestias, caza de recompensas, trampas para bandidos, entrenamiento, vigilancia de zona (tierras salvajes), visitas a aldeas, persona desaparecida"
+ },
+ "d9ef6e25eae3": {
+  "en": "Newcomers; barred from most jobs",
+  "t": "Recién llegados; excluidos de la mayoría de los trabajos"
+ },
+ "da491a984aff": {
+  "en": "Bandit camps, dangerous beasts, Hifuna control, rescue/revival parties, bodyguarding, archeology escorts",
+  "t": "Campamentos de bandidos, bestias peligrosas, control de Hifuna, grupos de rescate/reanimación, guardaespaldas, escoltas arqueológicas"
+ },
+ "db95994fc988": {
+  "en": "Guilds",
+  "t": "Gremios"
+ },
+ "e0c4e93696de": {
+  "en": "Veterans; needs fundamental school or a test",
+  "t": "Veteranos; requiere escuela fundamental o un examen"
+ },
+ "e26afd478cc6": {
+  "en": "**Sapphire** (IV)",
+  "t": "**Sapphire** (IV)"
+ },
+ "eab8fbd922e3": {
+  "en": "Who they are",
+  "t": "Quiénes son"
+ },
+ "f09227c59f80": {
+  "en": "**I** (poorest): Pearl Adventurer, Stable Hand, Lighthouse Keeper, Butcher, Tanner, Fruit/Herb Dryer, Farmer, Ore Miner, Quarryman, Lumberjack, Fisherman, Street Cleaner, Waste Manager",
+  "t": "**I** (los más pobres): Aventurero Pearl, Mozo de cuadra, Farero, Carnicero, Curtidor, Secador de frutas/hierbas, Granjero, Minero, Cantero, Leñador, Pescador, Barrendero, Gestor de residuos"
+ },
+ "fa85b39d8e54": {
+  "en": "Ranks (shown by the gems on your badge)",
+  "t": "Rangos (los muestran las gemas de tu insignia)"
  }
 }
