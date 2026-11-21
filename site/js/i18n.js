@@ -14,7 +14,7 @@
      term("Bagarisa")                      a name or game term, from i18n/<lang>/glossary.json
      translateMd(md)                       a whole Markdown page, segment by segment
    The language and its text come from site/i18n/<lang>.js, which index.html loads before this file
-   (written by site/build-i18n.js). The page translations (site/i18n/<lang>.docs.js) load the first
+   (written by tools/i18n.js build). The page translations (site/i18n/<lang>.docs.js) load the first
    time a page needs them: await loadDocs().
 
    Segments: a heading, a paragraph, a list item or a table cell, kept as its Markdown source (links and

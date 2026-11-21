@@ -18,6 +18,8 @@ The campaign takes place **in the world** of the light novels, but it is **not t
 
 Read everything and use the table tools at **[deovandski.github.io/Vraki-West-March-Campaign-D-D](https://deovandski.github.io/Vraki-West-March-Campaign-D-D/)**. It has a Player section and a DM section, search across the rules and lore, a dice tray, calculators, the travel map with zoom and a "how far is it?" route finder, a travel planner that counts the circles for you and lays out each trip circle by circle and shift by shift (with events, fights and HP), party and campaign trackers, and save files you can download and load again. It installs as an app on your phone and works offline at the table. [How the website works](site/README.md).
 
+The site also comes in 中文, 日本語, Português, Español, العربية and 한국어: pick one under Settings (⚙) in the top bar. These are AI translations of the English, made ahead of time; English stays the original. [How the translations work](i18n/README.md).
+
 ### What is a West Marches campaign?
 
 An open table! Instead of one fixed party, a pool of players schedule their own sessions, form whatever party shows up that day, and head out from a shared home base into a dangerous, persistent world. Whatever one party discovers, maps, kills, or pisses off stays that way for everyone else.
@@ -63,6 +65,7 @@ Pieces of the website built to be reused here or in other projects (see [CLAUDE.
 |---|---|---|---|
 | MapViewer | Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries. | [map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css) | Travel map page, the Maps page |
 | PWA helper | Makes a site an installable app that works offline: registers the service worker and runs an "Install as an app" button, the iPhone "Add to Home Screen" hint, an offline status line and "save these files for offline" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski). | [pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest) | The whole site (save menu, handouts, travel map) |
+| LanguagePicker | A list of languages to choose from, each written in its own language and script (with `lang` and `dir` set), plus how complete each translation is. Arrow keys move between them. Saves the choice and reloads, or hands it to your own code through a `langpick` event. Set up from data attributes; no libraries. Written after the language menu in HusbandOutWorld's settings. | [lang-picker.js](site/js/lang-picker.js), [lang-picker.css](site/css/lang-picker.css) | Settings (⚙) in the top bar |
 
 ### Spot something wrong, or want to make a change?
 
