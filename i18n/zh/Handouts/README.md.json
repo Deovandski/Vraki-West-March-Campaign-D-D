@@ -1,10 +1,214 @@
 {
+ "055d681cac2d": {
+  "en": "**Art:** by the series' illustrators, **Mitsukiven** and **Feiourm**. The emblems, Forway stamp, gemstone balls, nari stones, Kozaku Forway, Walking Flathead and Winga come from the [#HusbandOutWorld repo's Illustrations](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations). The art was only cropped, scaled down and had its white backgrounds removed for print.",
+  "t": "**美术：** 由系列插画师**Mitsukiven**和**Feiourm**绘制。徽章、福威印章、宝石球、纳里石、小作·福威、沃金·弗拉特黑德和温加都来自[#HusbandOutWorld仓库的插画](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations)。这些画只做了裁切、缩小和去除白色背景以便打印。"
+ },
+ "081b1bfd4f91": {
+  "en": "Handout",
+  "t": "道具"
+ },
+ "0c454c400b5b": {
+  "en": "When a player character flees revival debt, robs contracted cargo ([The Inside Job](../D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)) or fights the guards. Other parties can take the bounty.",
+  "t": "当某个玩家角色逃避复活债、抢劫签了合同的货物（[内应计划](../D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）或者和卫兵打起来时使用。其他队伍可以去领赏金。"
+ },
+ "0cab2cabcb12": {
+  "en": "The note is the \"kid with a note\" go-between from The Inside Job. A blank scrap is included for your own. The smoke card shows the official colors.",
+  "t": "纸条就是内应计划里那个“拿着纸条的孩子”中间人。还附了一张空白纸片给你写自己的。烟卡上是官方的颜色。"
+ },
  "110ec66be1d2": {
   "en": "What's inside",
   "t": "内容"
  },
+ "141f1f72a235": {
+  "en": "The West March scheduling tool: a player posts a trip, others sign up. Works pinned to a corkboard or posted in your group chat.",
+  "t": "西境的排期工具：一个玩家发布一趟旅程，其他人报名。钉在软木板上或者发在群聊里都行。"
+ },
+ "1d9d50eadefa": {
+  "en": "**Reports are the shared memory.** Have each party fill in an expedition report and post it where every player can read it. Rumors, unfinished business and marked circles on the travel map are what make the next session happen.",
+  "t": "**报告是共同的记忆。** 让每支队伍填一份探险报告，贴在所有玩家都能看到的地方。传闻、没办完的事和旅行地图上标出的圈，才是让下一次跑团发生的东西。"
+ },
+ "277039da8be4": {
+  "en": "Print double-sided. Players sign (a red pen \"blood\" thumbprint is encouraged). The back holds the nullification clauses Forway Law requires, and a delivery receipt.",
+  "t": "双面打印。玩家签名（鼓励用红笔按一个“血”指印）。背面是福威法律要求的作废条款和一张交货收据。"
+ },
+ "281c9afb14b2": {
+  "en": "Credits & license",
+  "t": "致谢与许可"
+ },
+ "290efafd0d41": {
+  "en": "[Winga Mail Postcards](images/09-Winga-Mail-Postcards.jpg)",
+  "t": "[温加邮政明信片](images/09-Winga-Mail-Postcards.jpg)"
+ },
+ "2eff58c7c006": {
+  "en": "**Make them yours.** Every handout is a template. Edit the HTML, or print the blanks and write on them by hand.",
+  "t": "**改成你自己的。** 每份道具都是模板。编辑HTML，或者打印空白版用手写。"
+ },
+ "2f40549b011f": {
+  "en": "[Cargo Protection Contract](images/06-Cargo-Protection-Contract-front.jpg) (front & [back](images/07-Cargo-Protection-Contract-back.jpg))",
+  "t": "[货物护送合同](images/06-Cargo-Protection-Contract-front.jpg)（正面和[背面](images/07-Cargo-Protection-Contract-back.jpg)）"
+ },
+ "3fa7a10923cf": {
+  "en": "Keep it on the table whenever parties go near Bahyum. Mark the mood with a paperclip ([Dangerous Places](../D&D%20Campaign/08%20-%20Dangerous%20Places.md)).",
+  "t": "每当队伍靠近巴休姆时就摆在桌上。用回形针标出心情（[危险之地](../D&D%20Campaign/08%20-%20Dangerous%20Places.md)）。"
+ },
+ "46e0c61f04a0": {
+  "en": "[Soul Energy Shop Price List](images/12-Soul-Energy-Shop-Price-List.jpg)",
+  "t": "[灵魂能量商店价目表](images/12-Soul-Energy-Shop-Price-List.jpg)"
+ },
+ "48ec8126f509": {
+  "en": "[Party Wanted](images/15-Party-Wanted-lounge-sign-up.jpg)",
+  "t": "[组队招募](images/15-Party-Wanted-lounge-sign-up.jpg)"
+ },
+ "4cb142e620b7": {
+  "en": "**Sample, not canon:** the news stories, classifieds, bandit note and a few contract clauses (such as half pay for delivering cargo whose owner died) are flavor for the table. Use them, change them, or ignore them.",
+  "t": "**示例，不是官方设定：** 新闻报道、分类广告、强盗的纸条以及合同里的一些条款（比如货主死了，送货只付一半报酬）都是给游戏桌添味的。用它们、改它们或者无视它们都行。"
+ },
+ "53113ab17cf1": {
+  "en": "Want to know which parts are AI-assisted and which are the series' own art and lore? See [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "想知道哪些部分有AI辅助，哪些是这个系列自己的美术和设定？见[AI使用说明](../AI-DISCLOSURE.md)。"
+ },
+ "56b72ecf7fa4": {
+  "en": "**Playing online:** use the page images in [images](images) as handouts in your virtual tabletop, or drop them in your Discord.",
+  "t": "**线上游戏：** 把[images](images)里的页面图片当作虚拟桌面上的道具，或者直接发到你的Discord。"
+ },
+ "5d2104d3d13a": {
+  "en": "[Today's Castle Mood](images/10-Todays-Castle-Mood.jpg)",
+  "t": "[今日城堡心情](images/10-Todays-Castle-Mood.jpg)"
+ },
+ "61199bb9b28d": {
+  "en": "**Print everything:** [Vraki West March - Handouts.pdf](Vraki%20West%20March%20-%20Handouts.pdf) (16 US Letter pages, light paper tone to save ink). On A4 paper, choose \"fit to page\" when printing.",
+  "t": "**全部打印：** [Vraki West March - Handouts.pdf](Vraki%20West%20March%20-%20Handouts.pdf)（16页US Letter，纸张底色较浅以节省墨水）。用A4纸时，打印时选择“适合页面”。"
+ },
+ "628f84332692": {
+  "en": "[Bandit Note & Signal Smoke Card](images/13-Bandit-Note-Signal-Smoke-Card.jpg)",
+  "t": "[强盗的纸条与信号烟卡](images/13-Bandit-Note-Signal-Smoke-Card.jpg)"
+ },
  "641314bb9948": {
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior。采用 CC‑BY‑NC‑SA‑4.0 许可。"
+ },
+ "69a477bc9ac3": {
+  "en": "[Revival Debt Certificate](images/11-Revival-Debt-Certificate.jpg)",
+  "t": "[复活债务证书](images/11-Revival-Debt-Certificate.jpg)"
+ },
+ "6c34aa4b68e0": {
+  "en": "**Text & layout:** AI-assisted, built from the rules and lore in this repo. See [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "**文字与排版：** 有AI辅助，依据本仓库中的规则和设定制作。见[AI使用说明](../AI-DISCLOSURE.md)。"
+ },
+ "6d66d1d94a01": {
+  "en": "These come from how West Marches tables (and DMs who love props) tend to run things:",
+  "t": "这些来自西境式游戏桌（以及爱用道具的DM们）通常的做法："
+ },
+ "7058bb0818a2": {
+  "en": "Handouts & Props",
+  "t": "道具与小物"
+ },
+ "723829187fe5": {
+  "en": "Letters home, warnings sent ahead, double-crosses. Pass them to the DM or to another party in the West March.",
+  "t": "家书、提前送出的警告、背叛。交给DM，或者交给西境里的另一支队伍。"
+ },
+ "72831ed04c9f": {
+  "en": "[Blank Quest Notices](images/02-Blank-Quest-Notices.jpg)",
+  "t": "[空白委托告示](images/02-Blank-Quest-Notices.jpg)"
+ },
+ "7d73aa79eab9": {
+  "en": "When to use it",
+  "t": "什么时候用"
+ },
+ "8c9550d3c7b4": {
+  "en": "Session zero, or any time players are picking a quest. Four sample notices from the [Quest Board](../D&D%20Campaign/06%20-%20Quest%20Board.md) rules (Pearl, Amethyst, Aquamarine and a bounty).",
+  "t": "第零次跑团，或者玩家挑选委托的任何时候。四张按照[委托板](../D&D%20Campaign/06%20-%20Quest%20Board.md)规则写的示例告示（珀尔、阿米西斯特、阿夸马林和一张悬赏）。"
+ },
+ "9bdb7d1493d4": {
+  "en": "**Paper makes consequences real.** A revival certificate with a growing ledger, a wanted poster with a player's own drawing on it, or a contract they signed and then broke lands harder than \"you owe 300 pearls.\"",
+  "t": "**纸张让后果变得真实。** 一张账目越记越长的复活证书、一张画着某个玩家亲手涂鸦的通缉令、一份他们签了又撕毁的合同，比一句“你欠了300珀尔”有分量得多。"
+ },
+ "a31295edcaac": {
+  "en": "A rumor hook for the Blue Wozens and the Sapphire quest *The Kozaku Question*. Uses only public lore (no DM secrets).",
+  "t": "布卢沃增斯和萨菲尔委托*小作问题*的传闻钩子。只用了公开的设定（没有DM秘密）。"
+ },
+ "a3fe88048c95": {
+  "en": "Tips for using props in a West March",
+  "t": "在西境中使用道具的小技巧"
+ },
+ "b5f054d010c1": {
+  "en": "**Edit them:** the source is a single HTML page in [source](source). Open `handouts.html` in a browser to change the text, then print to PDF, or re-render with `render.js` (instructions inside the file).",
+  "t": "**编辑它们：** 源文件是[source](source)里的一个HTML页面。在浏览器中打开`handouts.html`修改文字，然后打印成PDF，或者用`render.js`重新渲染（说明在文件里）。"
+ },
+ "b66723901973": {
+  "en": "[Quest Board](images/01-Quest-Board.jpg)",
+  "t": "[委托板](images/01-Quest-Board.jpg)"
+ },
+ "c11238b38197": {
+  "en": "One per character: name, guild, rank and a Soul Points tracker. Cut them out and sleeve them like a credit card.",
+  "t": "每个角色一张：名字、公会、级别和灵魂点数记录栏。剪下来，像信用卡一样套上卡套。"
+ },
+ "c460e115c8f1": {
+  "en": "[Blank Wanted Poster](images/04-Blank-Wanted-Poster.jpg)",
+  "t": "[空白通缉令](images/04-Blank-Wanted-Poster.jpg)"
+ },
+ "c7c9bb68821c": {
+  "en": "Write your own quests. Pin them up between sessions so players can choose before the next game.",
+  "t": "写你自己的委托。在两次跑团之间钉出来，让玩家在下一次游戏前挑选。"
+ },
+ "c98f61ac5fd7": {
+  "en": "After every session. West Marches tables share these with everyone so the next party knows what's out there.",
+  "t": "每次跑团之后用。西境的游戏桌会把这些分享给所有人，好让下一支队伍知道外面有什么。"
+ },
+ "ca22ee279ddc": {
+  "en": "[Badge Cards](images/08-Badge-Cards.jpg)",
+  "t": "[身份牌卡片](images/08-Badge-Cards.jpg)"
+ },
+ "d0848aa07a4d": {
+  "en": "Printable, in-world props for the West March: the things a Forway embassy would actually hand you, pin up, or make you sign in blood.",
+  "t": "可打印的西境游戏内道具：福威大使馆真的会递给你、钉在墙上或者让你用血签名的那些东西。"
+ },
+ "d6085d7ae225": {
+  "en": "[Forway News](images/05-Forway-News-sample-issue.jpg)",
+  "t": "[福威新闻](images/05-Forway-News-sample-issue.jpg)"
+ },
+ "d7c210e7b8d1": {
+  "en": "Shopping between sessions: sigil rings, nari gels, stones and bombs at Forway prices.",
+  "t": "两次跑团之间购物：福威价格的西吉尔戒指、纳里凝胶、石头和炸弹。"
+ },
+ "df3aadd9272a": {
+  "en": "**The board is the menu.** In a West March the players choose where to go. Keep the quest board, the news and the rumors where players can see them between sessions, so they arrive at the table with a plan.",
+  "t": "**委托板就是菜单。** 在西境里，去哪儿由玩家选。把委托板、新闻和传闻放在玩家在两次跑团之间也看得到的地方，这样他们来到桌前时就已经有了计划。"
+ },
+ "e2c576a0108e": {
+  "en": "**Give it out in the moment.** Hand the bandit note over when the kid arrives, not before. Slide the contract across the table and wait for them to sign.",
+  "t": "**当场递出去。** 孩子到了再把强盗的纸条交出去，不要提前。把合同推过桌面，然后等他们签字。"
+ },
+ "e7bc3af1c91b": {
+  "en": "A sample weekly issue: news, Castle Mood, rumors (each one a quest hook), classifieds. Change the date and stories to match your shared world.",
+  "t": "一期示例周报：新闻、城堡心情、传闻（每条都是一个委托钩子）、分类广告。把日期和报道改成符合你们共享世界的样子。"
+ },
+ "e80f60e29fa0": {
+  "en": "Sources on West Marches play and handouts: Ben Robbins' original [Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81) series, the [West Marches overview](https://rpgmuseum.fandom.com/wiki/West_Marches) at the RPG Museum, the [westmarches.games guide](https://www.westmarches.games/guide/resources), and D&D Beyond's [guide to making handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts).",
+  "t": "关于西境玩法和道具的资料：Ben Robbins最初的系列文章[Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81)、RPG Museum的[西境概述](https://rpgmuseum.fandom.com/wiki/West_Marches)、[westmarches.games指南](https://www.westmarches.games/guide/resources)，以及D&D Beyond的[道具制作指南](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)。"
+ },
+ "ea03d0ab79e7": {
+  "en": "Hand it to any player whose character gets revived at an embassy. The ledger tracks the 50% garnish until it's paid ([Death, Revival & Debt](../D&D%20Campaign/05%20-%20Death,%20Revival%20&%20Debt.md)).",
+  "t": "交给任何一个角色在大使馆复活的玩家。账本会记录50%的扣款，直到还清（[死亡、复活与债务](../D&D%20Campaign/05%20-%20Death,%20Revival%20&%20Debt.md)）。"
+ },
+ "ee4379232bbc": {
+  "en": "[Expedition Report](images/14-Expedition-Report.jpg)",
+  "t": "[探险报告](images/14-Expedition-Report.jpg)"
+ },
+ "f503c67c0e9d": {
+  "en": "[Wanted: Kozaku Forway](images/03-Wanted-Kozaku-Forway.jpg)",
+  "t": "[通缉：小作·福威](images/03-Wanted-Kozaku-Forway.jpg)"
+ },
+ "f88f96026171": {
+  "en": "One-page cheat sheet for players: money, calendar, travel by circles, quests, revival, Soul Points, signals, reputation.",
+  "t": "给玩家的一页小抄：钱、历法、按圈旅行、委托、复活、灵魂点数、信号、声望。"
+ },
+ "fc116475a308": {
+  "en": "[Adventurer's Reference](images/16-Adventurers-Reference.jpg)",
+  "t": "[冒险者速查表](images/16-Adventurers-Reference.jpg)"
+ },
+ "fe407c3d78e3": {
+  "en": "**Font:** the in-world script lines use the **Vraki** font. Vraki font © 2024 Deovandski Skibinski Junior, under [its own license](source/assets/LICENSE-Vraki-typeface.md). The text fonts are TeX Gyre Pagella, Bonum and Chorus (GUST Font License). If those aren't installed, the HTML falls back to Palatino, Bookman or Georgia.",
+  "t": "**字体：** 游戏内文字行使用**Vraki**字体。Vraki字体 © 2024 Deovandski Skibinski Junior，采用[其自身的许可](source/assets/LICENSE-Vraki-typeface.md)。正文字体是TeX Gyre Pagella、Bonum和Chorus（GUST Font License）。如果没有安装，HTML会改用Palatino、Bookman或Georgia。"
  }
 }

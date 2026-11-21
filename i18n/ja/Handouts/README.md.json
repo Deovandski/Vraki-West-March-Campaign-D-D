@@ -1,10 +1,214 @@
 {
+ "055d681cac2d": {
+  "en": "**Art:** by the series' illustrators, **Mitsukiven** and **Feiourm**. The emblems, Forway stamp, gemstone balls, nari stones, Kozaku Forway, Walking Flathead and Winga come from the [#HusbandOutWorld repo's Illustrations](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations). The art was only cropped, scaled down and had its white backgrounds removed for print.",
+  "t": "**絵：** シリーズのイラストレーター、**Mitsukiven**と**Feiourm**による。紋章、フォーウェイの印章、宝石のボール、ナリストーン、コザク・フォーウェイ、ウォーキング・フラットヘッド、ウィンガは[#HusbandOutWorldのリポジトリのイラスト集](https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations)から取った。絵は、印刷のために切り抜き、縮小し、白い背景を取り除いただけだ。"
+ },
+ "081b1bfd4f91": {
+  "en": "Handout",
+  "t": "配布物"
+ },
+ "0c454c400b5b": {
+  "en": "When a player character flees revival debt, robs contracted cargo ([The Inside Job](../D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)) or fights the guards. Other parties can take the bounty.",
+  "t": "プレイヤー・キャラクターが蘇生の借金から逃げたとき、契約した積み荷を奪ったとき（[内部の手引き](../D&D%20Campaign/10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)）、衛兵と戦ったとき。ほかの一行が賞金を狙える。"
+ },
+ "0cab2cabcb12": {
+  "en": "The note is the \"kid with a note\" go-between from The Inside Job. A blank scrap is included for your own. The smoke card shows the official colors.",
+  "t": "手紙は、内部の手引きに出てくる「手紙を持った子ども」の仲介役だ。自分用の白紙の切れ端も付いている。煙のカードには公式の色が載っている。"
+ },
  "110ec66be1d2": {
   "en": "What's inside",
   "t": "内容"
  },
+ "141f1f72a235": {
+  "en": "The West March scheduling tool: a player posts a trip, others sign up. Works pinned to a corkboard or posted in your group chat.",
+  "t": "ウェストマーチの日程調整の道具：プレイヤーが旅を告知し、ほかの人が名乗りを上げる。コルクボードに貼っても、グループのチャットに投稿しても使える。"
+ },
+ "1d9d50eadefa": {
+  "en": "**Reports are the shared memory.** Have each party fill in an expedition report and post it where every player can read it. Rumors, unfinished business and marked circles on the travel map are what make the next session happen.",
+  "t": "**報告書は共有の記憶だ。** それぞれの一行に遠征報告書を書いてもらい、全プレイヤーが読める場所に貼り出そう。噂、やり残したこと、旅の地図に印をつけたサークル — それが次のセッションを生む。"
+ },
+ "277039da8be4": {
+  "en": "Print double-sided. Players sign (a red pen \"blood\" thumbprint is encouraged). The back holds the nullification clauses Forway Law requires, and a delivery receipt.",
+  "t": "両面印刷する。プレイヤーが署名する（赤ペンで「血」の拇印を押すのがおすすめ）。裏面には、フォーウェイの法が求める無効条項と受領書がある。"
+ },
+ "281c9afb14b2": {
+  "en": "Credits & license",
+  "t": "クレジットとライセンス"
+ },
+ "290efafd0d41": {
+  "en": "[Winga Mail Postcards](images/09-Winga-Mail-Postcards.jpg)",
+  "t": "[ウィンガ便の絵はがき](images/09-Winga-Mail-Postcards.jpg)"
+ },
+ "2eff58c7c006": {
+  "en": "**Make them yours.** Every handout is a template. Edit the HTML, or print the blanks and write on them by hand.",
+  "t": "**自分のものにする。** どの配布物もひな形だ。HTMLを編集するか、白紙版を印刷して手で書き込もう。"
+ },
+ "2f40549b011f": {
+  "en": "[Cargo Protection Contract](images/06-Cargo-Protection-Contract-front.jpg) (front & [back](images/07-Cargo-Protection-Contract-back.jpg))",
+  "t": "[積み荷の護衛の契約書](images/06-Cargo-Protection-Contract-front.jpg)（表と[裏](images/07-Cargo-Protection-Contract-back.jpg)）"
+ },
+ "3fa7a10923cf": {
+  "en": "Keep it on the table whenever parties go near Bahyum. Mark the mood with a paperclip ([Dangerous Places](../D&D%20Campaign/08%20-%20Dangerous%20Places.md)).",
+  "t": "一行がバヒュムに近づくときはいつも卓に置いておく。機嫌はクリップで示す（[危険な場所](../D&D%20Campaign/08%20-%20Dangerous%20Places.md)）。"
+ },
+ "46e0c61f04a0": {
+  "en": "[Soul Energy Shop Price List](images/12-Soul-Energy-Shop-Price-List.jpg)",
+  "t": "[魂のエネルギーの店の価格表](images/12-Soul-Energy-Shop-Price-List.jpg)"
+ },
+ "48ec8126f509": {
+  "en": "[Party Wanted](images/15-Party-Wanted-lounge-sign-up.jpg)",
+  "t": "[一行募集](images/15-Party-Wanted-lounge-sign-up.jpg)"
+ },
+ "4cb142e620b7": {
+  "en": "**Sample, not canon:** the news stories, classifieds, bandit note and a few contract clauses (such as half pay for delivering cargo whose owner died) are flavor for the table. Use them, change them, or ignore them.",
+  "t": "**見本であって正史ではない：** ニュース記事、三行広告、盗賊の手紙、契約書のいくつかの条項（持ち主が死んだ積み荷を届けたら報酬は半額、など）は卓を彩るためのものだ。使うも変えるも無視するも自由。"
+ },
+ "53113ab17cf1": {
+  "en": "Want to know which parts are AI-assisted and which are the series' own art and lore? See [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "どこにAIの手が入っていて、どこがシリーズ自身の絵と設定なのかを知りたい？ [AIの使用についての説明](../AI-DISCLOSURE.md)を参照。"
+ },
+ "56b72ecf7fa4": {
+  "en": "**Playing online:** use the page images in [images](images) as handouts in your virtual tabletop, or drop them in your Discord.",
+  "t": "**オンラインで遊ぶなら：** [images](images)のページ画像を、バーチャル・テーブルトップの配布物として使うか、Discordに貼ろう。"
+ },
+ "5d2104d3d13a": {
+  "en": "[Today's Castle Mood](images/10-Todays-Castle-Mood.jpg)",
+  "t": "[今日の城の機嫌](images/10-Todays-Castle-Mood.jpg)"
+ },
+ "61199bb9b28d": {
+  "en": "**Print everything:** [Vraki West March - Handouts.pdf](Vraki%20West%20March%20-%20Handouts.pdf) (16 US Letter pages, light paper tone to save ink). On A4 paper, choose \"fit to page\" when printing.",
+  "t": "**全部印刷する：** [Vraki West March - Handouts.pdf](Vraki%20West%20March%20-%20Handouts.pdf)（USレター16ページ、インクを節約するため紙の色は薄め）。A4用紙なら、印刷時に「用紙に合わせる」を選ぶこと。"
+ },
+ "628f84332692": {
+  "en": "[Bandit Note & Signal Smoke Card](images/13-Bandit-Note-Signal-Smoke-Card.jpg)",
+  "t": "[盗賊の手紙と合図の煙のカード](images/13-Bandit-Note-Signal-Smoke-Card.jpg)"
+ },
  "641314bb9948": {
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior。CC‑BY‑NC‑SA‑4.0でライセンス。"
+ },
+ "69a477bc9ac3": {
+  "en": "[Revival Debt Certificate](images/11-Revival-Debt-Certificate.jpg)",
+  "t": "[蘇生の借金の証書](images/11-Revival-Debt-Certificate.jpg)"
+ },
+ "6c34aa4b68e0": {
+  "en": "**Text & layout:** AI-assisted, built from the rules and lore in this repo. See [AI Disclosure](../AI-DISCLOSURE.md).",
+  "t": "**文章とレイアウト：** AIの助けを借り、このリポジトリのルールと設定から作った。[AIの使用についての説明](../AI-DISCLOSURE.md)を参照。"
+ },
+ "6d66d1d94a01": {
+  "en": "These come from how West Marches tables (and DMs who love props) tend to run things:",
+  "t": "ウェストマーチの卓（そして小道具が大好きなDMたち）がよくやっていることから来ている："
+ },
+ "7058bb0818a2": {
+  "en": "Handouts & Props",
+  "t": "配布物と小道具"
+ },
+ "723829187fe5": {
+  "en": "Letters home, warnings sent ahead, double-crosses. Pass them to the DM or to another party in the West March.",
+  "t": "家族への手紙、先回りの警告、裏切り。DMや、ウェストマーチのほかの一行に渡そう。"
+ },
+ "72831ed04c9f": {
+  "en": "[Blank Quest Notices](images/02-Blank-Quest-Notices.jpg)",
+  "t": "[白紙の依頼の貼り紙](images/02-Blank-Quest-Notices.jpg)"
+ },
+ "7d73aa79eab9": {
+  "en": "When to use it",
+  "t": "使いどき"
+ },
+ "8c9550d3c7b4": {
+  "en": "Session zero, or any time players are picking a quest. Four sample notices from the [Quest Board](../D&D%20Campaign/06%20-%20Quest%20Board.md) rules (Pearl, Amethyst, Aquamarine and a bounty).",
+  "t": "セッション0、またはプレイヤーが依頼を選んでいるときならいつでも。[依頼掲示板](../D&D%20Campaign/06%20-%20Quest%20Board.md)のルールに沿った見本の貼り紙4枚（パール、アメジスト、アクアマリン、そして賞金首）。"
+ },
+ "9bdb7d1493d4": {
+  "en": "**Paper makes consequences real.** A revival certificate with a growing ledger, a wanted poster with a player's own drawing on it, or a contract they signed and then broke lands harder than \"you owe 300 pearls.\"",
+  "t": "**紙は結果を現実にする。** 増え続ける台帳のついた蘇生の証書、プレイヤー自身の落書き入りの手配書、署名したあとで破った契約書は、「300パールの借りがある」よりずっと重く響く。"
+ },
+ "a31295edcaac": {
+  "en": "A rumor hook for the Blue Wozens and the Sapphire quest *The Kozaku Question*. Uses only public lore (no DM secrets).",
+  "t": "ブルーウォゼンズとサファイアの依頼*コザク問題*への噂のフック。公開されている設定だけを使っている（DMの秘密はなし）。"
+ },
+ "a3fe88048c95": {
+  "en": "Tips for using props in a West March",
+  "t": "ウェストマーチで小道具を使うコツ"
+ },
+ "b5f054d010c1": {
+  "en": "**Edit them:** the source is a single HTML page in [source](source). Open `handouts.html` in a browser to change the text, then print to PDF, or re-render with `render.js` (instructions inside the file).",
+  "t": "**編集する：** 元データは[source](source)にある一枚のHTMLページだ。ブラウザで`handouts.html`を開いて文章を変え、PDFに印刷するか、`render.js`で描き直す（手順はファイル内にある）。"
+ },
+ "b66723901973": {
+  "en": "[Quest Board](images/01-Quest-Board.jpg)",
+  "t": "[依頼掲示板](images/01-Quest-Board.jpg)"
+ },
+ "c11238b38197": {
+  "en": "One per character: name, guild, rank and a Soul Points tracker. Cut them out and sleeve them like a credit card.",
+  "t": "キャラクターごとに1枚：名前、ギルド、階級、ソウルポイントの記録欄。切り抜いて、クレジットカードのようにスリーブに入れよう。"
+ },
+ "c460e115c8f1": {
+  "en": "[Blank Wanted Poster](images/04-Blank-Wanted-Poster.jpg)",
+  "t": "[白紙の手配書](images/04-Blank-Wanted-Poster.jpg)"
+ },
+ "c7c9bb68821c": {
+  "en": "Write your own quests. Pin them up between sessions so players can choose before the next game.",
+  "t": "自分の依頼を書き込もう。セッションの合間に貼り出しておけば、プレイヤーは次のゲームの前に選べる。"
+ },
+ "c98f61ac5fd7": {
+  "en": "After every session. West Marches tables share these with everyone so the next party knows what's out there.",
+  "t": "毎セッションの後に。ウェストマーチの卓ではこれを全員で共有し、次の一行が外に何があるかわかるようにする。"
+ },
+ "ca22ee279ddc": {
+  "en": "[Badge Cards](images/08-Badge-Cards.jpg)",
+  "t": "[身分証カード](images/08-Badge-Cards.jpg)"
+ },
+ "d0848aa07a4d": {
+  "en": "Printable, in-world props for the West March: the things a Forway embassy would actually hand you, pin up, or make you sign in blood.",
+  "t": "ウェストマーチのための、印刷できる作中の小道具：フォーウェイの大使館が実際に手渡し、掲示し、あるいは血で署名させるもの。"
+ },
+ "d6085d7ae225": {
+  "en": "[Forway News](images/05-Forway-News-sample-issue.jpg)",
+  "t": "[フォーウェイ・ニュース](images/05-Forway-News-sample-issue.jpg)"
+ },
+ "d7c210e7b8d1": {
+  "en": "Shopping between sessions: sigil rings, nari gels, stones and bombs at Forway prices.",
+  "t": "セッションの合間の買い物：フォーウェイの値段でのシジルリング、ナリジェル、石、爆弾。"
+ },
+ "df3aadd9272a": {
+  "en": "**The board is the menu.** In a West March the players choose where to go. Keep the quest board, the news and the rumors where players can see them between sessions, so they arrive at the table with a plan.",
+  "t": "**掲示板はメニューだ。** ウェストマーチでは、どこへ行くかはプレイヤーが選ぶ。依頼掲示板、ニュース、噂を、セッションの合間もプレイヤーから見える場所に置いておけば、彼らは計画を持って卓にやってくる。"
+ },
+ "e2c576a0108e": {
+  "en": "**Give it out in the moment.** Hand the bandit note over when the kid arrives, not before. Slide the contract across the table and wait for them to sign.",
+  "t": "**その場で手渡す。** 盗賊の手紙は子どもが来たときに渡すこと。前もってではない。契約書を卓の上で滑らせて、署名を待とう。"
+ },
+ "e7bc3af1c91b": {
+  "en": "A sample weekly issue: news, Castle Mood, rumors (each one a quest hook), classifieds. Change the date and stories to match your shared world.",
+  "t": "週刊紙の見本号：ニュース、城の機嫌、噂（どれも依頼のフック）、三行広告。日付と記事を、共有している世界に合わせて変えよう。"
+ },
+ "e80f60e29fa0": {
+  "en": "Sources on West Marches play and handouts: Ben Robbins' original [Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81) series, the [West Marches overview](https://rpgmuseum.fandom.com/wiki/West_Marches) at the RPG Museum, the [westmarches.games guide](https://www.westmarches.games/guide/resources), and D&D Beyond's [guide to making handouts](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts).",
+  "t": "ウェストマーチ式の遊び方と配布物についての資料：ベン・ロビンスによる元祖の連載[Grand Experiments: West Marches](https://arsludi.lamemage.com/?p=81)、RPG Museumの[West Marchesの概要](https://rpgmuseum.fandom.com/wiki/West_Marches)、[westmarches.gamesのガイド](https://www.westmarches.games/guide/resources)、D&D Beyondの[配布物の作り方ガイド](https://www.dndbeyond.com/posts/814-new-players-guide-how-to-make-awesome-handouts)。"
+ },
+ "ea03d0ab79e7": {
+  "en": "Hand it to any player whose character gets revived at an embassy. The ledger tracks the 50% garnish until it's paid ([Death, Revival & Debt](../D&D%20Campaign/05%20-%20Death,%20Revival%20&%20Debt.md)).",
+  "t": "キャラクターが大使館で蘇生されたプレイヤーに渡す。台帳で、返し終わるまで50%の差し押さえを記録する（[死、蘇生、借金](../D&D%20Campaign/05%20-%20Death,%20Revival%20&%20Debt.md)）。"
+ },
+ "ee4379232bbc": {
+  "en": "[Expedition Report](images/14-Expedition-Report.jpg)",
+  "t": "[遠征報告書](images/14-Expedition-Report.jpg)"
+ },
+ "f503c67c0e9d": {
+  "en": "[Wanted: Kozaku Forway](images/03-Wanted-Kozaku-Forway.jpg)",
+  "t": "[手配書：コザク・フォーウェイ](images/03-Wanted-Kozaku-Forway.jpg)"
+ },
+ "f88f96026171": {
+  "en": "One-page cheat sheet for players: money, calendar, travel by circles, quests, revival, Soul Points, signals, reputation.",
+  "t": "プレイヤー向けの1ページのカンニングペーパー：お金、暦、サークルで旅する、依頼、蘇生、ソウルポイント、合図、評判。"
+ },
+ "fc116475a308": {
+  "en": "[Adventurer's Reference](images/16-Adventurers-Reference.jpg)",
+  "t": "[冒険者の早見表](images/16-Adventurers-Reference.jpg)"
+ },
+ "fe407c3d78e3": {
+  "en": "**Font:** the in-world script lines use the **Vraki** font. Vraki font © 2024 Deovandski Skibinski Junior, under [its own license](source/assets/LICENSE-Vraki-typeface.md). The text fonts are TeX Gyre Pagella, Bonum and Chorus (GUST Font License). If those aren't installed, the HTML falls back to Palatino, Bookman or Georgia.",
+  "t": "**フォント：** 作中の文字の行には**Vraki**フォントを使っている。Vrakiフォント © 2024 Deovandski Skibinski Junior、[独自のライセンス](source/assets/LICENSE-Vraki-typeface.md)のもとで提供。本文のフォントはTeX Gyre Pagella、Bonum、Chorus（GUST Font License）。それらがインストールされていなければ、HTMLはPalatino、Bookman、Georgiaで代用する。"
  }
 }
