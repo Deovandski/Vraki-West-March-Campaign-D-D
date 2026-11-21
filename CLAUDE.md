@@ -10,3 +10,10 @@ If a piece of UI could be useful twice, in this repo or in another of Deovandski
 - **Documented:** a comment at the top with a usage example and its options, plus a row in the list of reusable components.
 - **Look before you build:** check the reusable components here and in the other repos first. The same rule is in Deovandski/Deovandski (`src/components/reusable/`: `SplitFlap`, a split-flap board, and `LedClock`, an LED countdown), Deovandski-repo-template, HusbandOutWorld, vraki-windows and Vraki-West-March-Campaign-D-D. Copy and adapt an existing component instead of starting over, and note where it came from.
 - **Extract when you touch it:** when you change one-off UI that fits this rule, pull it out into a reusable component in the same PR.
+
+## Pictures are clickable
+Every picture on the website opens bigger when pressed, in the one photo viewer (`site/js/photo-viewer.js`, `site/css/photo-viewer.css`, and the `<dialog id="photo-viewer">` in `index.html`). The same standard is in Deovandski/Deovandski, Deovandski-repo-template, HusbandOutWorld and sinoi-the-fisherman.
+- **Nothing to wire up:** any `<img>` with alt text opens by itself, and so does a link straight to an image file (a handout opens in the viewer, not a new tab). Pictures drawn later by the page's scripts work too.
+- **Give every content picture real alt text** (in Markdown, `![what it shows](file.jpg)`). It becomes the viewer's caption. `![](…)` / `alt=""` means decorative, and those don't open.
+- **Dates:** the viewer shows the date when it knows one: `data-date="YYYY-MM-DD"` (or `data-date-label`) on the picture or link, or a `YYYY-MM-DD` at the start of the file name.
+- **The travel map keeps MapViewer** (its own zoom and pan); the viewer skips it. Opt anything else out with `data-no-zoom`.
