@@ -1,4 +1,8 @@
 {
+ "12a50b821cd4": {
+  "en": "Days",
+  "t": "일수"
+ },
  "1dee0689b9e7": {
   "en": "Sleepy",
   "t": "졸림"
@@ -6,6 +10,10 @@
  "229180c589d5": {
   "en": "−3 hunted · −2 hostile · −1 distrusted · 0 unknown · +1 friendly · +2 trusted · +3 family. One step per session at most.",
   "t": "−3 쫓김 · −2 적대 · −1 불신 · 0 모름 · +1 우호 · +2 신뢰 · +3 가족. 세션당 최대 한 단계."
+ },
+ "2be94f37330b": {
+  "en": "Fall",
+  "t": "가을"
  },
  "2d6f2ef30ed8": {
   "en": "Reward",
@@ -18,6 +26,14 @@
  "3e6b78d7874f": {
   "en": "Player",
   "t": "플레이어"
+ },
+ "4ad2ea48f3ca": {
+  "en": "Summer",
+  "t": "여름"
+ },
+ "4d3c4fa23d71": {
+  "en": "Season",
+  "t": "계절"
  },
  "5443e491030b": {
   "en": "Amethyst",
@@ -34,6 +50,10 @@
  "5c7d6a88a590": {
   "en": "Pearls",
   "t": "펄"
+ },
+ "5e729959722b": {
+  "en": "Winter",
+  "t": "겨울"
  },
  "6003ecad9b4e": {
   "en": "Revival window",
@@ -74,6 +94,14 @@
  "cea2b18d5c7f": {
   "en": "Name",
   "t": "이름"
+ },
+ "d1b5b9114b00": {
+  "en": "Spring",
+  "t": "봄"
+ },
+ "d81ba82fb77c": {
+  "en": "Ball",
+  "t": "볼"
  },
  "e3d95e017a11": {
   "en": "Month",

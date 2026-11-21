@@ -208,6 +208,31 @@ function marks(s) {
   return m.sort().join("|");
 }
 
+// Markdown only closes **bold** if the closing ** isn't squeezed between punctuation and a letter
+// ("**サンビ:**軽罪" stays literal). Chinese, Japanese and Korean don't use spaces there, so add one where
+// it's needed (and before an opening ** that follows a letter and starts with punctuation).
+const PUNCT = /[\p{P}\p{S}]/u, SPACE = /\s/;
+function fixEmphasis(t) {
+  if (!/\*/.test(t)) return t;
+  let out = "", open = false;
+  for (let i = 0; i < t.length; i++) {
+    if (t[i] === "*" && t[i + 1] === "*" && t[i - 1] !== "\\") {
+      const prev = out.slice(-1), next = t[i + 2] || "";
+      if (!open) {
+        if (prev && !SPACE.test(prev) && !PUNCT.test(prev) && PUNCT.test(next) && next !== "*") out += " ";
+        out += "**"; open = true;
+      } else {
+        out += "**"; open = false;
+        if (PUNCT.test(prev) && prev !== "*" && next && !SPACE.test(next) && !PUNCT.test(next)) out += " ";
+      }
+      i++;
+      continue;
+    }
+    out += t[i];
+  }
+  return out;
+}
+
 function apply(o) {
   const lang = o.lang || (readJson(o._[0], {}) || {}).lang;
   if (!LANGS.includes(lang)) throw new Error("--lang must be one of " + LANGS.join(", "));
@@ -223,6 +248,7 @@ function apply(o) {
     keys.forEach((k) => { const it = work.items[+k - 1]; if (it && data[k]) tr[it.h] = String(data[k]).replace(/⏎/g, "\n"); });
   } else if (Array.isArray(data.items)) data.items.forEach((x) => { if (x.t) tr[x.h] = x.t; });
   else Object.entries(data).forEach(([h, v]) => { if (/^[0-9a-f]{12}$/.test(h) && v) tr[h] = typeof v === "string" ? v : v.t; });
+  Object.keys(tr).forEach((h) => { tr[h] = fixEmphasis(tr[h]); });
   const parts = inventory({ handouts: true });
   let saved = 0, warned = 0;
   const found = new Set();
@@ -352,7 +378,7 @@ function report() {
     "| Language | All | Site text | Phase 1 | Phase 2 | Words left |", "|---|---|---|---|---|---|", ...rows].join("\n"));
 }
 
-module.exports = { inventory, uiStrings, loadAll, counts, LANGS, COVERAGE, marks };
+module.exports = { inventory, uiStrings, loadAll, counts, LANGS, COVERAGE, marks, fixEmphasis };
 if (require.main === module) {
   const cmd = process.argv[2];
   const o = args();

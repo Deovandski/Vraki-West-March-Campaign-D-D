@@ -1,0 +1,202 @@
+{
+ "0b5d5461839c": {
+  "en": "**Essential goods** (added 705 A.G.) are managed and subsidized by Forway.",
+  "t": "Los **bienes esenciales** (añadidos en 705 A.G.) los gestiona y subvenciona Forway."
+ },
+ "0e2f4800730b": {
+  "en": "**Production:** no mass production without a granted comparative advantage.",
+  "t": "**Producción:** nada de producción en masa sin una ventaja comparativa concedida."
+ },
+ "0eecbe2cdd14": {
+  "en": "**Free movement** between kingdoms and cities. **Adventuring is a Forway job**, organized through embassies as a decentralized army. *Sub-section 3:* adventurers may **not** punish anyone unless a Forway guard or kingdom representative authorizes it.",
+  "t": "**Libre circulación** entre reinos y ciudades. **Ser aventurero es un empleo de Forway**, organizado a través de las embajadas como un ejército descentralizado. *Subsección 3:* los aventureros **no** pueden castigar a nadie salvo que lo autorice un guardia de Forway o un representante del reino."
+ },
+ "13936f87d08c": {
+  "en": "**Sundeath:** **guilty until proven innocent**; public trials and executions.",
+  "t": "**Sundeath:** **culpable hasta que se demuestre lo contrario**; juicios y ejecuciones públicos."
+ },
+ "19211b6ca5fe": {
+  "en": "**Contracts** are binding when both sides get roughly equal value, and when both **blood signatures** are present and verifiable by badge. **Slavery is banned, but selling your own freedom by contract for comparable value is legal.** Courts decide abuse. Forcibly breaking a contract is a crime — even for Forway or a king. Adventurers are exempt from contract balance during a Forway emergency.",
+  "t": "Los **contratos** son vinculantes cuando ambas partes reciben un valor más o menos igual y cuando las dos **firmas de sangre** están presentes y se pueden verificar con la insignia. **La esclavitud está prohibida, pero vender tu propia libertad por contrato a cambio de un valor comparable es legal.** Los tribunales deciden si hay abuso. Romper un contrato por la fuerza es delito, incluso para Forway o un rey. Durante una emergencia de Forway, los aventureros quedan exentos del equilibrio contractual."
+ },
+ "2256adf66063": {
+  "en": "**Grand:** conspiracy against Forway or the treaty.",
+  "t": "**Máximo:** conspiración contra Forway o el tratado."
+ },
+ "25e56b3a424b": {
+  "en": "A witness **checks** each duelist by smelling them and tasting the vein junction at the base of the fingers. Any mind- or body-altering effect must be declared. Fleeing or postponing = loss, punishable by death.",
+  "t": "Un testigo **examina** a cada duelista oliéndolo y probando la unión de las venas en la base de los dedos. Hay que declarar cualquier efecto que altere la mente o el cuerpo. Huir o aplazar = derrota, castigada con la muerte."
+ },
+ "32d88e32b640": {
+  "en": "**Blood:** major criminals become prey for the hunters.",
+  "t": "**Blood:** los criminales graves se convierten en presa de los cazadores."
+ },
+ "37c7359608c8": {
+  "en": "**Annual gathering** of kings and city representatives every Paulin at the Forway Palace.",
+  "t": "**Reunión anual** de reyes y representantes de las ciudades cada Paulin en el Palacio de Forway."
+ },
+ "3cb5c745542a": {
+  "en": "**Black wood badges** mark officials and kingdom representatives.",
+  "t": "Las **insignias de madera negra** distinguen a los funcionarios y representantes de los reinos."
+ },
+ "4d2ea3ece121": {
+  "en": "**Crime** = proven physical, economic or mental harm to a citizen without consent. **Innocent until proven guilty.**",
+  "t": "**Delito** = daño físico, económico o mental demostrado a un ciudadano sin su consentimiento. **Inocente hasta que se demuestre lo contrario.**"
+ },
+ "50e77c7f1c85": {
+  "en": "Judged by embassy leaders, village elders, or Forway guard captains. Detention up to **6 weeks** with preliminary proof or flight risk. **Exile to Hifuna** needs four authorities to agree.",
+  "t": "Juzgan los jefes de embajada, los ancianos de las aldeas o los capitanes de la guardia de Forway. Detención de hasta **6 semanas** con pruebas preliminares o riesgo de fuga. El **exilio en Hifuna** requiere el acuerdo de cuatro autoridades."
+ },
+ "51d06b30dead": {
+  "en": "Official ID and proof of citizenship. **One badge per soul.** Made of greenish **soul wood**; four corner balls (pearl for citizens, or your adventurer rank's gem). Front: name, city, guild. A thermometer-like gauge shows your current **Soul Energy**, visible only to you (your blood and ground nari are sealed inside). Back: the Forway logo. Smells of burnt wood when new.",
+  "t": "Documento oficial de identidad y prueba de ciudadanía. **Una insignia por alma.** Hecha de **soul wood** verdosa; cuatro bolas en las esquinas (pearl para los ciudadanos, o la gema de tu rango de aventurero). Delante: nombre, ciudad, gremio. Un indicador parecido a un termómetro muestra tu **energía del alma** actual, visible solo para ti (tu sangre y nari molido van sellados dentro). Detrás: el logo de Forway. Huele a madera quemada cuando es nueva."
+ },
+ "575140d6f53e": {
+  "en": "**Flatland:** major criminals thrown into the Skin Peeler geyser.",
+  "t": "**Flatland:** a los criminales graves los tiran al géiser Skin Peeler."
+ },
+ "5bb5b04fa16c": {
+  "en": "Last one breathing wins and **must revive the loser**, who must honor the terms or be executed (the body goes to the winner).",
+  "t": "Gana el último que respire y **debe reanimar al perdedor**, que tiene que cumplir lo pactado o será ejecutado (el cuerpo es para el ganador)."
+ },
+ "606b103c1ce7": {
+  "en": "**Services:** badges, Winga courier, banking, loans, revival, guild registration, contracts, storage, quests, news.",
+  "t": "**Servicios:** insignias, mensajería winga, banca, préstamos, reanimación, registro de gremios, contratos, almacén, misiones, noticias."
+ },
+ "60d761091e4e": {
+  "en": "**Consent** = written contract, or a verbal declaration in front of several witnesses.",
+  "t": "**Consentimiento** = contrato escrito, o una declaración verbal ante varios testigos."
+ },
+ "7154426fa689": {
+  "en": "Blood samples are flown to Forway's **central soul repository**, so a badge can't be duplicated and a mangled corpse can still be identified.",
+  "t": "Las muestras de sangre vuelan al **depósito central de almas** de Forway, así que una insignia no se puede duplicar y un cadáver destrozado todavía se puede identificar."
+ },
+ "760cd861ca65": {
+  "en": "The Prosperity Treaty (680 A.G.)",
+  "t": "El Tratado de Prosperidad (680 A.G.)"
+ },
+ "8cd73d6c84fa": {
+  "en": "**Trade** only in balls (no barter); the Vraki calendar and units are standard.",
+  "t": "**Comercio** solo con bolas (sin trueque); el calendario y las unidades de Vraki son el estándar."
+ },
+ "8eb10f6c2916": {
+  "en": "Applies in every Forway territory; kings may override it inside their kingdoms.",
+  "t": "Se aplica en todo territorio de Forway; los reyes pueden anularla dentro de sus reinos."
+ },
+ "a2831a44a51b": {
+  "en": "Cost: **1 amethyst**. Plenty of poor folk never get one — and without one you can't use embassy services.",
+  "t": "Coste: **1 amethyst**. Mucha gente pobre nunca la consigue, y sin ella no puedes usar los servicios de la embajada."
+ },
+ "a4183f85c0fa": {
+  "en": "**Captains** (always Aquamarine or Sapphire Forway officers) rule the embassy grounds — and the whole city if it's Forway-managed. Captains and generals wear the same armor as soldiers, marked only by a fancy cap.",
+  "t": "Los **capitanes** (siempre oficiales Aquamarine o Sapphire de Forway) gobiernan el recinto de la embajada, y toda la ciudad si la administra Forway. Capitanes y generales llevan la misma armadura que los soldados; solo los distingue una gorra elegante."
+ },
+ "a516c6ef657c": {
+  "en": "**Minor:** restorable within 5 years of contract servitude.",
+  "t": "**Menor:** reparable con hasta 5 años de servidumbre por contrato."
+ },
+ "a96d08f41e2e": {
+  "en": "Law, Treaties & Embassies",
+  "t": "Leyes, tratados y embajadas"
+ },
+ "af275cd2736b": {
+  "en": "**Gandew:** everything is settled by **duel**.",
+  "t": "**Gandew:** todo se resuelve en **duelo**."
+ },
+ "af55a6d59306": {
+  "en": "**King-Fest:** only natural-born Darfaries; the king is healed between bouts; to take the throne you must rip out both of the dead king's tusks.",
+  "t": "**King-Fest:** solo Darfaries nacidos de forma natural; al rey se le cura entre combates; para tomar el trono hay que arrancar los dos colmillos del rey muerto."
+ },
+ "b433dd6d212b": {
+  "en": "**Tastyleaf:** major criminals must go fight beasts; survive and you're absolved.",
+  "t": "**Tastyleaf:** los criminales graves deben ir a luchar contra bestias; si sobreviven, quedan absueltos."
+ },
+ "b82d5efdfe9f": {
+  "en": "Held in the Low, Medium or High Pit with **at least ten witnesses**. Both duelists state why they fight and what they win or lose. In **marriage duels**, the woman attacks first; win = lifelong bond.",
+  "t": "Se celebran en el Foso Bajo, Medio o Alto con **al menos diez testigos**. Ambos duelistas dicen por qué luchan y qué ganan o pierden. En los **duelos matrimoniales** ataca primero la mujer; ganar = un vínculo de por vida."
+ },
+ "b9f39bc35fb9": {
+  "en": "**Territory:** Forway owns all land outside the kingdoms and decides what counts as a city or village. Forway cities host an embassy and follow Forway Law. Taxes: cities 20%, villages 15%, kingdoms 10%. Embassies may call adventurers in emergencies and, with permission, kingdom guards.",
+  "t": "**Territorio:** Forway es dueña de toda la tierra fuera de los reinos y decide qué cuenta como ciudad o aldea. Las ciudades de Forway tienen una embajada y siguen la Ley de Forway. Impuestos: ciudades 20%, aldeas 15%, reinos 10%. Las embajadas pueden convocar a los aventureros en emergencias y, con permiso, a los guardias del reino."
+ },
+ "c2a95b39cb9e": {
+  "en": "Written by **Freeish Paulin**'s rebellion and three courtroom scientists — **Asa the Powerful** (Gandew), **Adrian from North Tolerideme** (Tolerideme) and **Bijura Moacir** (Sanbi) — after they overthrew their own kings to end the Greed Period. Based on Sanbi law.",
+  "t": "Escrito por la rebelión de **Freeish Paulin** y tres científicos de la corte —**Asa the Powerful** (Gandew), **Adrian from North Tolerideme** (Tolerideme) y **Bijura Moacir** (Sanbi)— tras derrocar a sus propios reyes para acabar con el Periodo de la Codicia. Basado en la ley de Sanbi."
+ },
+ "c642076079c7": {
+  "en": "**Floor 1:** adventurer lounge and quest boards · **3–4:** administration · **5:** open roof, mail · **6:** Winga roost.",
+  "t": "**Planta 1:** sala de aventureros y tablones de misiones · **3–4:** administración · **5:** azotea abierta, correo · **6:** palomar de Wingas."
+ },
+ "c76164ba5f89": {
+  "en": "Everyone born after 671 A.G. is registered as **NAME PLACE GUILD** — e.g., *Magi Blood Blue-Flower-Red-Bone*. There are no surnames: **guilds are families**. If your guild is \"CITY-GUILD\" and you live in that city, the city is dropped (*Itagiba Sanbi Royal*). No guild? Just name and place. Sanbians can change their names whenever they like.",
+  "t": "Todo el que nació después de 671 A.G. está registrado como **NOMBRE LUGAR GREMIO**; por ejemplo, *Magi Blood Blue-Flower-Red-Bone*. No hay apellidos: **los gremios son las familias**. Si tu gremio es «CIUDAD-GREMIO» y vives en esa ciudad, la ciudad se omite (*Itagiba Sanbi Royal*). ¿Sin gremio? Solo nombre y lugar. Los de Sanbi pueden cambiarse el nombre cuando quieran."
+ },
+ "cb0f07098623": {
+  "en": "Some legal oddities: the deadly Panita mushroom is legal because Forway uses it for punishment; harming a Nari Worm or its eggs can get you exiled to Hifuna; killing a Forway courier Winga is serious.",
+  "t": "Algunas rarezas legales: la seta mortal Panita es legal porque Forway la usa como castigo; dañar a un Nari Worm o sus huevos puede costarte el exilio en Hifuna; matar a un Winga mensajero de Forway es grave."
+ },
+ "d2900572b7fa": {
+  "en": "Forway Law",
+  "t": "Ley de Forway"
+ },
+ "d2e073c18a32": {
+  "en": "**Major:** permanent, irreplaceable, or worth more than 5 years.",
+  "t": "**Grave:** permanente, irreemplazable o de un valor superior a 5 años."
+ },
+ "d95472a2a19d": {
+  "en": "Names",
+  "t": "Nombres"
+ },
+ "dbbc975e257c": {
+  "en": "Duelists start 10 Adi apart. The **attacker** moves and strikes with physical weapons only; the **defender** must stand still, take the hit, and may counter without moving. Roles swap every turn. No healing.",
+  "t": "Los duelistas empiezan a 10 Adi. El **atacante** se mueve y golpea solo con armas físicas; el **defensor** debe quedarse quieto, encajar el golpe y puede contraatacar sin moverse. Los papeles se intercambian cada turno. No se cura."
+ },
+ "df14fd20c152": {
+  "en": "**Treason** against the treaty or Forway: up to exile to **Hifuna**.",
+  "t": "**Traición** al tratado o a Forway: hasta el exilio en **Hifuna**."
+ },
+ "e3e3ef461a2b": {
+  "en": "Every kingdom and major city has a **seven-story embassy**: dark stone, accents in the four kingdoms' colors (**red, orange, blue, green**), nari-glass, a black fence and a moat. Embassy grounds are **Forway soil** even inside a kingdom. They're patrolled by **Big Wingas** (guards transformed with nari gel), and ordinary Wingas fly the mail.",
+  "t": "Cada reino y cada ciudad importante tiene una **embajada de siete plantas**: piedra oscura, detalles en los colores de los cuatro reinos (**rojo, naranja, azul, verde**), vidrio nari, una verja negra y un foso. El recinto de la embajada es **suelo de Forway**, aunque esté dentro de un reino. Lo patrullan **Big Wingas** (guardias transformados con nari gel), y los Wingas corrientes llevan el correo."
+ },
+ "e6ef331b09db": {
+  "en": "In Forway City itself: if you can pay for your crime, you walk; if not, prison.",
+  "t": "En la propia ciudad de Forway: si puedes pagar tu delito, te vas; si no, a la cárcel."
+ },
+ "e735641cd60a": {
+  "en": "**Sanbi:** minor crimes → replace what you took; major → thrown into the sea (survive and you're absolved).",
+  "t": "**Sanbi:** delitos menores → reponer lo que te llevaste; graves → te tiran al mar (si sobrevives, quedas absuelto)."
+ },
+ "e7f8ccc214ff": {
+  "en": "Embassies",
+  "t": "Embajadas"
+ },
+ "e9a0e81f79b5": {
+  "en": "Local flavors",
+  "t": "Sabores locales"
+ },
+ "ea8ca2f765fc": {
+  "en": "**Ganyrami:** nobody reports anything; you sort it out yourself.",
+  "t": "**Ganyrami:** nadie denuncia nada; te lo arreglas tú."
+ },
+ "f33ecf3ee200": {
+  "en": "**Tolerideme:** punished by **starvation** (longer for worse crimes).",
+  "t": "**Tolerideme:** se castiga con **hambre** (más tiempo cuanto peor el delito)."
+ },
+ "f87dc93e39f1": {
+  "en": "**Punishment matches the harm**, including sentimental value. Bodily harm can be repaid with equal bodily harm or compensation.",
+  "t": "**El castigo se ajusta al daño**, incluido el valor sentimental. El daño corporal puede pagarse con un daño corporal igual o con una compensación."
+ },
+ "f8eed9b2d341": {
+  "en": "Gandew Duel Rights (~375 A.G.)",
+  "t": "Derechos de duelo de Gandew (~375 A.G.)"
+ },
+ "fb845002c7c0": {
+  "en": "Badges",
+  "t": "Insignias"
+ },
+ "fc1316564e13": {
+  "en": "**Citizenship** is proven by a badge from an embassy. Freeish (built on old Ganyrami land) is an equal kingdom.",
+  "t": "La **ciudadanía** se demuestra con una insignia de una embajada. Freeish (construido sobre las antiguas tierras de Ganyrami) es un reino de pleno derecho."
+ }
+}

@@ -1,10 +1,266 @@
 {
+ "04bdd83cd0e9": {
+  "en": "**Paulin** — the annual Prosperity Treaty meeting of all kings at the Forway Palace.",
+  "t": "**Paulin**: la reunión anual del Tratado de Prosperidad de todos los reyes en el Palacio de Forway."
+ },
+ "064d380e2f35": {
+  "en": "Time, Calendar & Units",
+  "t": "Tiempo, calendario y unidades"
+ },
+ "07b49e81251c": {
+  "en": "**Forrday** (Forway) — rest day; embassies are closed to the public",
+  "t": "**Forrday** (Forway): día de descanso; las embajadas cierran al público"
+ },
+ "09348f7a8b80": {
+  "en": "Adrian (Winter)",
+  "t": "Adrian (invierno)"
+ },
+ "09a1125ffaf3": {
+  "en": "At the table, the campaign uses four simple **shifts** per day instead (see the D&D Campaign rules): **Graveyard, Morning, Afternoon, Night**.",
+  "t": "En la mesa, la campaña usa en su lugar cuatro **turnos** sencillos por día (ver las reglas de la campaña de D&D): **Madrugada, Mañana, Tarde, Noche**."
+ },
+ "0f38e20ab52b": {
+  "en": "−15 °C",
+  "t": "−15 °C"
+ },
+ "0fcb2aa76d0b": {
+  "en": "−20 °C",
+  "t": "−20 °C"
+ },
+ "12a50b821cd4": {
+  "en": "Days",
+  "t": "Días"
+ },
+ "1715cd1b8dfe": {
+  "en": "20 °C",
+  "t": "20 °C"
+ },
+ "1cd4c0781c65": {
+  "en": "+2 km",
+  "t": "+2 km"
+ },
+ "29b54f407050": {
+  "en": "−10 °C",
+  "t": "−10 °C"
+ },
+ "2a463de5f630": {
+  "en": "The sun behaves like ours. The moon is like ours too, but the night sky has a **green tint**. Focus moonlight onto a small point and living things glow in it.",
+  "t": "El sol se comporta como el nuestro. La luna también, pero el cielo nocturno tiene un **tinte verde**. Concentra la luz de la luna en un punto y los seres vivos brillan en él."
+ },
+ "2be94f37330b": {
+  "en": "Fall",
+  "t": "Otoño"
+ },
+ "3144503d236f": {
+  "en": "**Months** (named after the treaty's founders):",
+  "t": "**Meses** (con los nombres de los fundadores del tratado):"
+ },
+ "3471b992dd7b": {
+  "en": "**Age** is simply the number of years you've been alive as of the current year. Birthdays don't matter.",
+  "t": "La **edad** es simplemente el número de años que llevas vivo en el año en curso. Los cumpleaños no importan."
+ },
+ "36b6287e800c": {
+  "en": "**Freeday** (Freeish) — first working day",
+  "t": "**Freeday** (Freeish): primer día laborable"
+ },
+ "3e273c2e2389": {
+  "en": "The Vraki Calendar",
+  "t": "El calendario de Vraki"
+ },
+ "40143edfdcee": {
+  "en": "Dates are written like **Paulin 14th, 1039 A.G.**",
+  "t": "Las fechas se escriben así: **Paulin 14, 1039 A.G.**"
+ },
+ "4145ccd977f3": {
+  "en": "**1 year** = 365 days = 73 weeks = 4 months.",
+  "t": "**1 año** = 365 días = 73 semanas = 4 meses."
+ },
+ "44b8d63b7cd7": {
+  "en": "**Sannday** (Sanbi)",
+  "t": "**Sannday** (Sanbi)"
+ },
+ "4ab2e3e40608": {
+  "en": "**Paulin 100th** — the **Adventurer Feast**: promotions and recognitions.",
+  "t": "**Paulin 100**: el **Banquete de Aventureros**: ascensos y reconocimientos."
+ },
+ "4ad2ea48f3ca": {
+  "en": "Summer",
+  "t": "Verano"
+ },
+ "4d3c4fa23d71": {
+  "en": "Season",
+  "t": "Estación"
+ },
+ "4f7caed6f54a": {
+  "en": "15 °C",
+  "t": "15 °C"
+ },
+ "57b28bae0cd4": {
+  "en": "Sky",
+  "t": "El cielo"
+ },
+ "5984da210be2": {
+  "en": "**Tollday** (Tolerideme)",
+  "t": "**Tollday** (Tolerideme)"
+ },
+ "5b69cae163e4": {
+  "en": "Weeks",
+  "t": "Semanas"
+ },
+ "5b878d94ddd4": {
+  "en": "Notable dates",
+  "t": "Fechas señaladas"
+ },
+ "5e729959722b": {
+  "en": "Winter",
+  "t": "Invierno"
+ },
  "6569eecf68ce": {
   "en": "Language",
   "t": "Idioma"
  },
+ "6c09cbab5a7a": {
+  "en": "Asa (Spring)",
+  "t": "Asa (primavera)"
+ },
+ "6cd9c4368f4c": {
+  "en": "**Week** = 5 days, named after the kingdoms in the order they joined the rebellion:",
+  "t": "**Semana** = 5 días, con los nombres de los reinos en el orden en que se unieron a la rebelión:"
+ },
+ "6eb4c13d1108": {
+  "en": "Paulin (Summer)",
+  "t": "Paulin (verano)"
+ },
+ "6eee018a61dd": {
+  "en": "**Gannday** (Gandew)",
+  "t": "**Gannday** (Gandew)"
+ },
+ "7c140ef6cd3c": {
+  "en": "Climate (averages)",
+  "t": "Clima (medias)"
+ },
+ "83d00289df21": {
+  "en": "**Paulin**",
+  "t": "**Paulin**"
+ },
+ "8520ef195a71": {
+  "en": "25 °C",
+  "t": "25 °C"
+ },
+ "8867d8078e4d": {
+  "en": "Punctuality is cultural: Sanbians are rarely on time; Toleridemians are on time to the second.",
+  "t": "La puntualidad es cultural: los de Sanbi rara vez llegan a tiempo; los de Tolerideme llegan al segundo."
+ },
+ "8a9e46844af6": {
+  "en": "Temperature drops with altitude. Sea level near the coast:",
+  "t": "La temperatura baja con la altitud. Al nivel del mar, cerca de la costa:"
+ },
+ "8b59434a8941": {
+  "en": "**Asa**",
+  "t": "**Asa**"
+ },
+ "9094b684ebef": {
+  "en": "5 °C",
+  "t": "5 °C"
+ },
+ "94379ebc48e4": {
+  "en": "**Adrian**",
+  "t": "**Adrian**"
+ },
+ "9c322408f16c": {
+  "en": "+6 km",
+  "t": "+6 km"
+ },
+ "9f917132be11": {
+  "en": "0 °C",
+  "t": "0 °C"
+ },
+ "a3ef7ad1ee45": {
+  "en": "10 °C",
+  "t": "10 °C"
+ },
+ "ac12ae47002b": {
+  "en": "At the table, **you never need distances**: travel is counted in circles on the travel map (see the D&D Campaign rules).",
+  "t": "En la mesa **nunca necesitas distancias**: los viajes se cuentan en círculos en el mapa de viaje (ver las reglas de la campaña de D&D)."
+ },
+ "ac4f3e5769e4": {
+  "en": "−5 °C",
+  "t": "−5 °C"
+ },
+ "adeaf5462f40": {
+  "en": "30 °C",
+  "t": "30 °C"
+ },
+ "af5f161cdb93": {
+  "en": "**Asa 1st** — Forway sells the yearly lunar mapping for hunters and farmers (20 pearls).",
+  "t": "**Asa 1**: Forway vende el mapa lunar anual para cazadores y granjeros (20 pearls)."
+ },
+ "bbd5e550928b": {
+  "en": "Coasts are humid (75–90%); humidity drops about 10% for every 2 km up. The Buhraies Plains sit ~2 km up; Gandew's mountain tops out at ~6 km; the Fuhrair peaks reach ~9 km.",
+  "t": "Las costas son húmedas (75–90%); la humedad baja un 10% cada 2 km de altura. Las Buhraies Plains están a unos 2 km; la montaña de Gandew llega a unos 6 km; los picos de Fuhrair alcanzan unos 9 km."
+ },
+ "bc0cfd110d7a": {
+  "en": "Units (Vraki UOM)",
+  "t": "Unidades (UOM de Vraki)"
+ },
+ "be8a97f840cc": {
+  "en": "Adopted with the Prosperity Treaty and designed by the courtroom scientist **Adrian**. Years are counted from the **Fall of Ganyrami**: **A.G.** (After Ganyrami) and **B.G.** (Before Ganyrami).",
+  "t": "Adoptado con el Tratado de Prosperidad y diseñado por el científico de la corte **Adrian**. Los años se cuentan desde la **Caída de Ganyrami**: **A.G.** (después de Ganyrami) y **B.G.** (antes de Ganyrami)."
+ },
+ "c19437f82f94": {
+  "en": "Everyone speaks **Vraki**, the common tongue inherited from the ancient Finaies. In practice it's English with its own alphabet (\"Vraki font\"). Names of minerals are English words, a leftover from a human mineralogist the Buhraies once summoned. **Old Vraki** is like Old English — hard to read.",
+  "t": "Todo el mundo habla **vraki**, la lengua común heredada de los antiguos Finaies. En la práctica es inglés con su propio alfabeto (la «fuente vraki»). Los nombres de los minerales son palabras inglesas, herencia de un mineralogista humano al que los Buhraies invocaron una vez. El **vraki antiguo** es como el inglés antiguo: difícil de leer."
+ },
+ "c3198edc747c": {
+  "en": "Sea level",
+  "t": "Nivel del mar"
+ },
+ "c7b3068a04e2": {
+  "en": "**Day:** Sunnalow, Sunnahigh, Sunnilow, Sunnihigh, Sunnolow, Sunnohigh, Sunnulow, Sunnuhigh",
+  "t": "**Día:** Sunnalow, Sunnahigh, Sunnilow, Sunnihigh, Sunnolow, Sunnohigh, Sunnulow, Sunnuhigh"
+ },
+ "cd981e18d065": {
+  "en": "+4 km",
+  "t": "+4 km"
+ },
+ "d1b5b9114b00": {
+  "en": "Spring",
+  "t": "Primavera"
+ },
+ "e2e129e83cb6": {
+  "en": "**Moacir**",
+  "t": "**Moacir**"
+ },
  "e3d95e017a11": {
   "en": "Month",
   "t": "Mes"
+ },
+ "e3ff9e4e3add": {
+  "en": "Adrian standardized every unit of measure from the most accurate ones in use (the hunters of Blood had the best). In practice they are **metric**: kilograms, liters, kilometers, degrees Celsius. Gandew still uses its own units alongside them (duelists stand 10 **Adi** apart).",
+  "t": "Adrian estandarizó todas las unidades de medida a partir de las más precisas que se usaban (los cazadores de Blood tenían las mejores). En la práctica son **métricas**: kilogramos, litros, kilómetros, grados Celsius. Gandew sigue usando sus propias unidades junto a ellas (los duelistas se colocan a 10 **Adi** de distancia)."
+ },
+ "e59a2c3ba250": {
+  "en": "Moacir (Fall)",
+  "t": "Moacir (otoño)"
+ },
+ "e76a288cd95f": {
+  "en": "+8 km",
+  "t": "+8 km"
+ },
+ "eea6868cca44": {
+  "en": "Smaller units (quarter, small and tiny timehunks) are measured with a sand-clock **Time Counter**. Embassy captains shout the daily news at **Monnalow** (early evening).",
+  "t": "Las unidades menores (cuartos, timehunks pequeños y diminutos) se miden con un **Time Counter**, un reloj de arena. Los capitanes de las embajadas gritan las noticias del día en **Monnalow** (al caer la tarde)."
+ },
+ "ef10082d27a1": {
+  "en": "The day is read on a sundial-like **Time Keeper**. Sunrise is 6 o'clock; sundown is 12 o'clock on the dial. Each **timehunk** is about 3 hours, split into a *low* and *high* half (named after the ratio of nari crystals in the keeper):",
+  "t": "El día se lee en un **Time Keeper** parecido a un reloj de sol. El amanecer marca las 6; la puesta de sol, las 12 en la esfera. Cada **timehunk** dura unas 3 horas, dividido en una mitad *low* y otra *high* (por la proporción de cristales nari del aparato):"
+ },
+ "f1d659548752": {
+  "en": "**Night:** Monnalow, Monnahigh, Monnilow, Monnihigh, Monnolow, Monnohigh, Monnulow, Monnuhigh",
+  "t": "**Noche:** Monnalow, Monnahigh, Monnilow, Monnihigh, Monnolow, Monnohigh, Monnulow, Monnuhigh"
+ },
+ "f3b3bc60f3f7": {
+  "en": "Time of day (\"timehunks\")",
+  "t": "La hora del día («timehunks»)"
  }
 }

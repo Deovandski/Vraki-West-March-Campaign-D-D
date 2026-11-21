@@ -1,0 +1,202 @@
+{
+ "0b5d5461839c": {
+  "en": "**Essential goods** (added 705 A.G.) are managed and subsidized by Forway.",
+  "t": "**生活必需品**(705 A.G.に追加)はフォーウェイが管理し、補助金を出す。"
+ },
+ "0e2f4800730b": {
+  "en": "**Production:** no mass production without a granted comparative advantage.",
+  "t": "**生産:** 比較優位を与えられていない限り大量生産は禁止。"
+ },
+ "0eecbe2cdd14": {
+  "en": "**Free movement** between kingdoms and cities. **Adventuring is a Forway job**, organized through embassies as a decentralized army. *Sub-section 3:* adventurers may **not** punish anyone unless a Forway guard or kingdom representative authorizes it.",
+  "t": "王国と都市の間の**移動は自由**。**冒険者はフォーウェイの仕事**であり、大使館を通じて分散型の軍隊として組織される。*第3項:*冒険者は、フォーウェイの衛兵か王国の代表が許可しない限り、誰も罰しては**ならない**。"
+ },
+ "13936f87d08c": {
+  "en": "**Sundeath:** **guilty until proven innocent**; public trials and executions.",
+  "t": "**サンデス:** **無罪が証明されるまでは有罪**。公開裁判と公開処刑。"
+ },
+ "19211b6ca5fe": {
+  "en": "**Contracts** are binding when both sides get roughly equal value, and when both **blood signatures** are present and verifiable by badge. **Slavery is banned, but selling your own freedom by contract for comparable value is legal.** Courts decide abuse. Forcibly breaking a contract is a crime — even for Forway or a king. Adventurers are exempt from contract balance during a Forway emergency.",
+  "t": "**契約**は、双方がほぼ等しい価値を得て、両者の**血の署名**がそろい身分証で確認できるときに拘束力を持つ。**奴隷制は禁止だが、同等の価値と引き換えに契約で自分の自由を売るのは合法。** 濫用かどうかは裁判所が決める。契約を力ずくで破るのは犯罪で、フォーウェイや王でも例外ではない。フォーウェイの緊急時には、冒険者は契約の釣り合いを免除される。"
+ },
+ "2256adf66063": {
+  "en": "**Grand:** conspiracy against Forway or the treaty.",
+  "t": "**大罪:** フォーウェイや条約に対する陰謀。"
+ },
+ "25e56b3a424b": {
+  "en": "A witness **checks** each duelist by smelling them and tasting the vein junction at the base of the fingers. Any mind- or body-altering effect must be declared. Fleeing or postponing = loss, punishable by death.",
+  "t": "証人は各決闘者の匂いを嗅ぎ、指の付け根の血管が合わさる所をなめて**確かめる**。精神や体を変える効果はすべて申告しなければならない。逃げたり延期したりすれば負けで、死罪にあたる。"
+ },
+ "32d88e32b640": {
+  "en": "**Blood:** major criminals become prey for the hunters.",
+  "t": "**ブラッド:** 重罪人は猟師たちの獲物になる。"
+ },
+ "37c7359608c8": {
+  "en": "**Annual gathering** of kings and city representatives every Paulin at the Forway Palace.",
+  "t": "毎年パウリンにフォーウェイ宮殿で開かれる、王と都市の代表の**年次会合**。"
+ },
+ "3cb5c745542a": {
+  "en": "**Black wood badges** mark officials and kingdom representatives.",
+  "t": "**黒い木の身分証**は役人と王国の代表のしるし。"
+ },
+ "4d2ea3ece121": {
+  "en": "**Crime** = proven physical, economic or mental harm to a citizen without consent. **Innocent until proven guilty.**",
+  "t": "**犯罪** = 同意なく市民に与えた、証明された身体的、経済的、精神的な害。**有罪が証明されるまでは無罪。**"
+ },
+ "50e77c7f1c85": {
+  "en": "Judged by embassy leaders, village elders, or Forway guard captains. Detention up to **6 weeks** with preliminary proof or flight risk. **Exile to Hifuna** needs four authorities to agree.",
+  "t": "裁くのは大使館の長、村の長老、フォーウェイ衛兵の隊長。予備的な証拠か逃亡の恐れがあれば最長**6週間**の拘留。**ヒフナへの追放**には四つの権威の同意が必要。"
+ },
+ "51d06b30dead": {
+  "en": "Official ID and proof of citizenship. **One badge per soul.** Made of greenish **soul wood**; four corner balls (pearl for citizens, or your adventurer rank's gem). Front: name, city, guild. A thermometer-like gauge shows your current **Soul Energy**, visible only to you (your blood and ground nari are sealed inside). Back: the Forway logo. Smells of burnt wood when new.",
+  "t": "公式の身分証明であり、市民権の証。**魂ひとつにつき身分証ひとつ。** 緑がかった**ソウルウッド**製で、四隅にボールが付く(市民はパール、冒険者はランクの宝石)。表:名前、都市、ギルド。温度計のような目盛りが現在の**魂のエネルギー**を示し、本人にしか見えない(本人の血と砕いたナリが中に封じられている)。裏:フォーウェイの紋章。新しいうちは焦げた木の匂いがする。"
+ },
+ "575140d6f53e": {
+  "en": "**Flatland:** major criminals thrown into the Skin Peeler geyser.",
+  "t": "**フラットランド:** 重罪人はスキンピーラー間欠泉に放り込まれる。"
+ },
+ "5bb5b04fa16c": {
+  "en": "Last one breathing wins and **must revive the loser**, who must honor the terms or be executed (the body goes to the winner).",
+  "t": "最後まで息をしていた者が勝ち、**負けた者を蘇生させなければならない**。負けた者は条件を守らなければ処刑される(遺体は勝者のもの)。"
+ },
+ "606b103c1ce7": {
+  "en": "**Services:** badges, Winga courier, banking, loans, revival, guild registration, contracts, storage, quests, news.",
+  "t": "**サービス:** 身分証、ウィンガ便、銀行、貸付、蘇生、ギルド登録、契約、保管、依頼、ニュース。"
+ },
+ "60d761091e4e": {
+  "en": "**Consent** = written contract, or a verbal declaration in front of several witnesses.",
+  "t": "**同意** = 書面の契約、または複数の証人の前での口頭の宣言。"
+ },
+ "7154426fa689": {
+  "en": "Blood samples are flown to Forway's **central soul repository**, so a badge can't be duplicated and a mangled corpse can still be identified.",
+  "t": "血液の試料はフォーウェイの**中央魂保管所**へ空輸されるので、身分証は複製できず、ぐちゃぐちゃになった死体でも身元がわかる。"
+ },
+ "760cd861ca65": {
+  "en": "The Prosperity Treaty (680 A.G.)",
+  "t": "繁栄条約(680 A.G.)"
+ },
+ "8cd73d6c84fa": {
+  "en": "**Trade** only in balls (no barter); the Vraki calendar and units are standard.",
+  "t": "**取引**はボールのみ(物々交換は不可)。ヴラキの暦と単位が標準。"
+ },
+ "8eb10f6c2916": {
+  "en": "Applies in every Forway territory; kings may override it inside their kingdoms.",
+  "t": "フォーウェイのすべての領土で適用される。王は自国の中ではこれを覆せる。"
+ },
+ "a2831a44a51b": {
+  "en": "Cost: **1 amethyst**. Plenty of poor folk never get one — and without one you can't use embassy services.",
+  "t": "費用:**1アメジスト**。一生手に入れない貧しい人も大勢いる。身分証がなければ大使館のサービスは使えない。"
+ },
+ "a4183f85c0fa": {
+  "en": "**Captains** (always Aquamarine or Sapphire Forway officers) rule the embassy grounds — and the whole city if it's Forway-managed. Captains and generals wear the same armor as soldiers, marked only by a fancy cap.",
+  "t": "**隊長**(必ずアクアマリンかサファイアのフォーウェイ士官)が大使館の敷地を治め、フォーウェイが管理する都市なら街全体を治める。隊長も将軍も兵士と同じ鎧を着ていて、違いは洒落た帽子だけだ。"
+ },
+ "a516c6ef657c": {
+  "en": "**Minor:** restorable within 5 years of contract servitude.",
+  "t": "**軽罪:** 5年以内の契約奉公で償えるもの。"
+ },
+ "a96d08f41e2e": {
+  "en": "Law, Treaties & Embassies",
+  "t": "法、条約、大使館"
+ },
+ "af275cd2736b": {
+  "en": "**Gandew:** everything is settled by **duel**.",
+  "t": "**ガンデュー:** すべて**決闘**で決着。"
+ },
+ "af55a6d59306": {
+  "en": "**King-Fest:** only natural-born Darfaries; the king is healed between bouts; to take the throne you must rip out both of the dead king's tusks.",
+  "t": "**キングフェスト:** 生まれつきのダルファリエスだけが参加できる。王は試合の合間に治療を受ける。王座を奪うには、死んだ王の牙を両方引き抜かねばならない。"
+ },
+ "b433dd6d212b": {
+  "en": "**Tastyleaf:** major criminals must go fight beasts; survive and you're absolved.",
+  "t": "**テイスティリーフ:** 重罪人は魔獣と戦いに行かねばならない。生き延びれば無罪。"
+ },
+ "b82d5efdfe9f": {
+  "en": "Held in the Low, Medium or High Pit with **at least ten witnesses**. Both duelists state why they fight and what they win or lose. In **marriage duels**, the woman attacks first; win = lifelong bond.",
+  "t": "下・中・上の闘技穴のいずれかで、**少なくとも10人の証人**のもとで行う。両者は何のために戦い、何を得て何を失うかを述べる。**結婚の決闘**では女性が先に攻撃する。勝てば生涯の絆。"
+ },
+ "b9f39bc35fb9": {
+  "en": "**Territory:** Forway owns all land outside the kingdoms and decides what counts as a city or village. Forway cities host an embassy and follow Forway Law. Taxes: cities 20%, villages 15%, kingdoms 10%. Embassies may call adventurers in emergencies and, with permission, kingdom guards.",
+  "t": "**領土:** 王国の外の土地はすべてフォーウェイのもので、何を都市や村とみなすかもフォーウェイが決める。フォーウェイの都市には大使館があり、フォーウェイ法に従う。税:都市20%、村15%、王国10%。大使館は緊急時に冒険者を、許可があれば王国の衛兵も招集できる。"
+ },
+ "c2a95b39cb9e": {
+  "en": "Written by **Freeish Paulin**'s rebellion and three courtroom scientists — **Asa the Powerful** (Gandew), **Adrian from North Tolerideme** (Tolerideme) and **Bijura Moacir** (Sanbi) — after they overthrew their own kings to end the Greed Period. Based on Sanbi law.",
+  "t": "**フリーイッシュ・パウリン**の反乱軍と三人の宮廷科学者――**アサ・ザ・パワフル**(ガンデュー)、**北トレリデメのアドリアン**(トレリデメ)、**ビジュラ・モアシル**(サンビ)――が、強欲の時代を終わらせるため自国の王を倒したあとに書いた。サンビの法が基になっている。"
+ },
+ "c642076079c7": {
+  "en": "**Floor 1:** adventurer lounge and quest boards · **3–4:** administration · **5:** open roof, mail · **6:** Winga roost.",
+  "t": "**1階:** 冒険者のラウンジと依頼掲示板 · **3〜4階:** 事務 · **5階:** 開けた屋上、郵便 · **6階:** ウィンガのねぐら。"
+ },
+ "c76164ba5f89": {
+  "en": "Everyone born after 671 A.G. is registered as **NAME PLACE GUILD** — e.g., *Magi Blood Blue-Flower-Red-Bone*. There are no surnames: **guilds are families**. If your guild is \"CITY-GUILD\" and you live in that city, the city is dropped (*Itagiba Sanbi Royal*). No guild? Just name and place. Sanbians can change their names whenever they like.",
+  "t": "671 A.G.以降に生まれた人は皆、**名前 場所 ギルド**の形で登録される。例:*マギ・ブラッド・ブルー・フラワー・レッド・ボーン*。名字はない。**ギルドが家族なのだ**。ギルドが「都市-ギルド」の形でその都市に住んでいる場合は、都市名を省く(*イタジバ・サンビ・ロイヤル*)。ギルドがない?なら名前と場所だけ。サンビの人はいつでも好きなときに名前を変えられる。"
+ },
+ "cb0f07098623": {
+  "en": "Some legal oddities: the deadly Panita mushroom is legal because Forway uses it for punishment; harming a Nari Worm or its eggs can get you exiled to Hifuna; killing a Forway courier Winga is serious.",
+  "t": "法の奇妙な点をいくつか:猛毒のパニータ茸は、フォーウェイが刑罰に使うので合法。ナリワームやその卵を傷つけるとヒフナ送りになりうる。フォーウェイの伝令ウィンガを殺すのは重大な罪。"
+ },
+ "d2900572b7fa": {
+  "en": "Forway Law",
+  "t": "フォーウェイ法"
+ },
+ "d2e073c18a32": {
+  "en": "**Major:** permanent, irreplaceable, or worth more than 5 years.",
+  "t": "**重罪:** 取り返しがつかない、代わりがない、または5年分を超える価値のもの。"
+ },
+ "d95472a2a19d": {
+  "en": "Names",
+  "t": "名前"
+ },
+ "dbbc975e257c": {
+  "en": "Duelists start 10 Adi apart. The **attacker** moves and strikes with physical weapons only; the **defender** must stand still, take the hit, and may counter without moving. Roles swap every turn. No healing.",
+  "t": "決闘者は10アディ離れて始める。**攻撃側**は動いて物理的な武器だけで打ち、**防御側**はその場に立って一撃を受け、動かずに反撃してもよい。役割は毎ターン入れ替わる。回復はなし。"
+ },
+ "df14fd20c152": {
+  "en": "**Treason** against the treaty or Forway: up to exile to **Hifuna**.",
+  "t": "条約やフォーウェイへの**反逆**:最も重ければ**ヒフナ**への追放。"
+ },
+ "e3e3ef461a2b": {
+  "en": "Every kingdom and major city has a **seven-story embassy**: dark stone, accents in the four kingdoms' colors (**red, orange, blue, green**), nari-glass, a black fence and a moat. Embassy grounds are **Forway soil** even inside a kingdom. They're patrolled by **Big Wingas** (guards transformed with nari gel), and ordinary Wingas fly the mail.",
+  "t": "どの王国にも主な都市にも**7階建ての大使館**がある。黒っぽい石造りで、四王国の色(**赤、橙、青、緑**)のアクセント、ナリグラス、黒い柵と堀。大使館の敷地は、王国の中にあっても**フォーウェイの土地**だ。ナリジェルで姿を変えた衛兵**ビッグウィンガ**が巡回し、普通のウィンガが郵便を運ぶ。"
+ },
+ "e6ef331b09db": {
+  "en": "In Forway City itself: if you can pay for your crime, you walk; if not, prison.",
+  "t": "フォーウェイ市そのものでは:罪の代償を払えるなら釈放、払えなければ牢屋。"
+ },
+ "e735641cd60a": {
+  "en": "**Sanbi:** minor crimes → replace what you took; major → thrown into the sea (survive and you're absolved).",
+  "t": "**サンビ:** 軽罪 → 取ったものを返す。重罪 → 海に放り込まれる(生き延びれば無罪)。"
+ },
+ "e7f8ccc214ff": {
+  "en": "Embassies",
+  "t": "大使館"
+ },
+ "e9a0e81f79b5": {
+  "en": "Local flavors",
+  "t": "土地ごとの流儀"
+ },
+ "ea8ca2f765fc": {
+  "en": "**Ganyrami:** nobody reports anything; you sort it out yourself.",
+  "t": "**ガニラミ:** 誰も何も通報しない。自分で片をつける。"
+ },
+ "f33ecf3ee200": {
+  "en": "**Tolerideme:** punished by **starvation** (longer for worse crimes).",
+  "t": "**トレリデメ:** **飢え**で罰する(罪が重いほど長く)。"
+ },
+ "f87dc93e39f1": {
+  "en": "**Punishment matches the harm**, including sentimental value. Bodily harm can be repaid with equal bodily harm or compensation.",
+  "t": "**罰は害に見合う**。感情的な価値も含む。身体への害は、同等の身体への害か補償で償える。"
+ },
+ "f8eed9b2d341": {
+  "en": "Gandew Duel Rights (~375 A.G.)",
+  "t": "ガンデューの決闘の権利(約375 A.G.)"
+ },
+ "fb845002c7c0": {
+  "en": "Badges",
+  "t": "身分証"
+ },
+ "fc1316564e13": {
+  "en": "**Citizenship** is proven by a badge from an embassy. Freeish (built on old Ganyrami land) is an equal kingdom.",
+  "t": "**市民権**は大使館の身分証で証明される。フリーイッシュ(かつてのガニラミの土地に築かれた)は対等な王国だ。"
+ }
+}
