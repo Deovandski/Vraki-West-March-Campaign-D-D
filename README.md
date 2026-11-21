@@ -62,6 +62,7 @@ Pieces of the website built to be reused here or in other projects (see [CLAUDE.
 | Component | What it is | Files | Used on |
 |---|---|---|---|
 | MapViewer | Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries. | [map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css) | Travel map page, the Maps page |
+| PhotoViewer | Every picture opens bigger when pressed (handouts, the reference card, pictures in pages), with its caption and its date when there is one; ‹ › between pictures. Keeps working as pages are drawn. Ported from Deovandski/Deovandski by way of HusbandOutWorld. | [photo-viewer.js](site/js/photo-viewer.js), [photo-viewer.css](site/css/photo-viewer.css), the `<dialog id="photo-viewer">` in [index.html](index.html) | The whole site |
 | PWA helper | Makes a site an installable app that works offline: registers the service worker and runs an "Install as an app" button, the iPhone "Add to Home Screen" hint, an offline status line and "save these files for offline" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski). | [pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest) | The whole site (save menu, handouts, travel map) |
 
 ### Spot something wrong, or want to make a change?
