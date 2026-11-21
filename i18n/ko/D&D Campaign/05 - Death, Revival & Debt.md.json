@@ -1,4 +1,8 @@
 {
+ "02957b7454d1": {
+  "en": "Walking Hearts and soul death",
+  "t": "워킹 하트와 영혼의 죽음"
+ },
  "0b1cafe4a3f6": {
   "en": "Dying",
   "t": "죽어 가기"
@@ -71,6 +75,10 @@
   "en": "Death, Revival & Debt",
   "t": "죽음, 부활, 빚"
  },
+ "ade41b56747d": {
+  "en": "A character who gets a **Walking Heart** (see Dangerous Places) becomes undead and **can't be revived** by normal means. Forway law treats them as soul dead.",
+  "t": "**워킹 하트**를 얻은 캐릭터(‘위험한 장소’ 참고)는 언데드가 되어 일반적인 수단으로는 **되살릴 수 없다**. 포웨이 법은 그들을 영혼이 죽은 자로 취급한다."
+ },
  "b85efb022ea2": {
   "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
   "t": "많은 모험가 — 그리고 폴른 트리 산적들 — 은 이것을 노예제라고 부른다. 완전히 틀린 말은 아니다."
@@ -82,6 +90,10 @@
  "c386e0c6af88": {
   "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
   "t": "대사관이 **수색대**를 보낸다. 1d6을 굴려라: 마지막으로 알려진 위치에 도착하기까지 걸리는 일수다."
+ },
+ "c57e0941ead3": {
+  "en": "A soul fully drained to nothing by a soul-eating creature (Sucker Lady, Walking Flesh) is gone, unless the DM offers a quest to get it back.",
+  "t": "영혼을 먹는 생물(서커 레이디, 워킹 플레시)에게 완전히 빨려 사라진 영혼은 끝이다. DM이 되찾을 의뢰를 내놓지 않는 한."
  },
  "c6f4e2b98f1f": {
   "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",

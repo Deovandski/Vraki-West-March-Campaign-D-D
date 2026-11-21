@@ -1,4 +1,8 @@
 {
+ "02957b7454d1": {
+  "en": "Walking Hearts and soul death",
+  "t": "ووكينغ هارت وموت الروح"
+ },
  "0b1cafe4a3f6": {
   "en": "Dying",
   "t": "الاحتضار"
@@ -71,6 +75,10 @@
   "en": "Death, Revival & Debt",
   "t": "الموت والإحياء والدين"
  },
+ "ade41b56747d": {
+  "en": "A character who gets a **Walking Heart** (see Dangerous Places) becomes undead and **can't be revived** by normal means. Forway law treats them as soul dead.",
+  "t": "الشخصية التي تحصل على **ووكينغ هارت** (انظر الأماكن الخطرة) تصبح من الموتى الأحياء و**لا يمكن إحياؤها** بالوسائل المعتادة. ويعاملها قانون فورواي على أنها ميتة الروح."
+ },
  "b85efb022ea2": {
   "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
   "t": "كثير من المغامرين — وقطّاع طرق فولن تري — يسمّون هذا عبودية. وليسوا مخطئين تمامًا."
@@ -82,6 +90,10 @@
  "c386e0c6af88": {
   "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
   "t": "ترسل السفارة **فريق بحث**. ارمِ 1d6: هذا عدد الأيام حتى يبلغ آخر موقع معروف."
+ },
+ "c57e0941ead3": {
+  "en": "A soul fully drained to nothing by a soul-eating creature (Sucker Lady, Walking Flesh) is gone, unless the DM offers a quest to get it back.",
+  "t": "الروح التي استنزفها مخلوق آكل للأرواح (ساكر ليدي، ووكينغ فليش) حتى العدم قد ذهبت، إلا إن عرض مدير اللعبة مهمة لاستعادتها."
  },
  "c6f4e2b98f1f": {
   "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",

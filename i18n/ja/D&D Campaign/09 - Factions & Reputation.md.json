@@ -1,0 +1,150 @@
+{
+ "04ba7efef9f3": {
+  "en": "Strength, privacy, tradition",
+  "t": "強さ、私生活、伝統"
+ },
+ "085e70444e95": {
+  "en": "Factions and what they want",
+  "t": "派閥とその望み"
+ },
+ "12ed4534aacc": {
+  "en": "**Sanbi Royals**",
+  "t": "**サンビの王族**"
+ },
+ "19089d32d628": {
+  "en": "Their people happy, daughters left alone, the Queen's schemes kept quiet",
+  "t": "民が幸せであること、娘たちに手を出されないこと、王妃のたくらみが表に出ないこと"
+ },
+ "267b716d224b": {
+  "en": "Distrusted",
+  "t": "信用されていない"
+ },
+ "2a683dc5ec0c": {
+  "en": "Castle hospitality, royal letters, Sanbi guard help",
+  "t": "城でのもてなし、王家の書状、サンビの衛兵の助け"
+ },
+ "33b2838471ef": {
+  "en": "Kill on sight / hunted",
+  "t": "見つけ次第殺される／追われる"
+ },
+ "3471f4685745": {
+  "en": "Hagglers, latecomers",
+  "t": "値切る者、遅刻する者"
+ },
+ "3ed8f8451369": {
+  "en": "See [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) for how helping, reporting or double-crossing bandits on an escort changes reputation.\n+1 for a completed job or a big favor for them; −1 for hurting their interests; −2 for killing members or exposing their secrets. One step per session at most.",
+  "t": "護衛中に盗賊を手伝ったり、通報したり、裏切ったりしたとき評判がどう変わるかは[内部の手引き](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)を参照。\n仕事をやり遂げたり大きな恩を売ったりすれば+1。彼らの利益を損なえば−1。構成員を殺したり秘密を暴いたりすれば−2。1セッションにつき最大1段階まで。"
+ },
+ "47fa9b6d86fb": {
+  "en": "Their village to win",
+  "t": "自分の村が勝つこと"
+ },
+ "494ac0f00394": {
+  "en": "Factions & Reputation",
+  "t": "派閥と評判"
+ },
+ "59cb10e498ea": {
+  "en": "Rep",
+  "t": "評判"
+ },
+ "62464ed174e1": {
+  "en": "A Blood Book signature (lifelong ally), chitin gear",
+  "t": "ブラッドブックへの署名（一生の味方）、キチンの装備"
+ },
+ "673e6d26a5d6": {
+  "en": "Contracts honored to the letter, booze sold, Wood People under control",
+  "t": "契約を一字一句守ること、酒が売れること、ウッドピープルを抑えておくこと"
+ },
+ "6a31e99a23d5": {
+  "en": "Track the party's (or each character's) reputation with factions from **−3 to +3**. Start at 0. Shared reputation is part of the shared world: one party's choices affect everyone.",
+  "t": "一行の（またはキャラクターごとの）派閥からの評判を **−3から+3**で記録する。最初は0。共有の評判は共有の世界の一部であり、一つの一行の選択が皆に影響する。"
+ },
+ "6c9df0b07c1d": {
+  "en": "**Tolerideme kings**",
+  "t": "**トレリデメの王たち**"
+ },
+ "6e5031b11de1": {
+  "en": "Meaning",
+  "t": "意味"
+ },
+ "8a57754cde6e": {
+  "en": "**Freeish villages**",
+  "t": "**フリーイッシュの村々**"
+ },
+ "9777905e8707": {
+  "en": "Vigilantes, debt-dodgers, Nari Worm killers",
+  "t": "自警団、借金逃れ、ナリワーム殺し"
+ },
+ "9a670df0d36d": {
+  "en": "**Gandew**",
+  "t": "**ガンデュー**"
+ },
+ "ad96f2a7bbd7": {
+  "en": "**Forway (embassies)**",
+  "t": "**フォーウェイ（大使館）**"
+ },
+ "b0a1e8267185": {
+  "en": "Gaining and losing",
+  "t": "評判の上げ下げ"
+ },
+ "b4922855e320": {
+  "en": "Hates",
+  "t": "嫌うもの"
+ },
+ "bb3503402718": {
+  "en": "Anyone who embarrasses the family",
+  "t": "一族に恥をかかせる者"
+ },
+ "bd1e2f7d0881": {
+  "en": "Village guides, hunting grounds, a free guild if you marry in",
+  "t": "村の案内人、狩り場、村の者と結婚すれば無料のギルド"
+ },
+ "c0a514b7f2fb": {
+  "en": "Unknown",
+  "t": "知られていない"
+ },
+ "d105253081c4": {
+  "en": "Free meals, fost stones, Domar Carbey shipments",
+  "t": "無料の食事、フォストストーン、ドマー・カーベイの出荷"
+ },
+ "d64c3b4f5396": {
+  "en": "Wants",
+  "t": "望むもの"
+ },
+ "d6fffbd92330": {
+  "en": "Offers at +2",
+  "t": "+2で提供するもの"
+ },
+ "d8d28c3e816d": {
+  "en": "Family; they'll risk a lot for you",
+  "t": "家族同然。あなたのためなら大きな危険も冒す"
+ },
+ "d92cf946ef7e": {
+  "en": "Order, taxes, quests done, debts paid",
+  "t": "秩序、税、依頼の達成、借金の返済"
+ },
+ "e1f20d437c27": {
+  "en": "Cowards, people who mock the Goodbye Cliff",
+  "t": "臆病者、グッバイ・クリフをからかう者"
+ },
+ "e5c573ac0ba5": {
+  "en": "Friendly; small favors, fair prices",
+  "t": "友好的。ちょっとした頼みを聞いてくれ、値段も公正"
+ },
+ "e9e1e516087b": {
+  "en": "Better quests, promotion recommendations, debt extensions",
+  "t": "よりよい依頼、昇格の推薦、借金の返済猶予"
+ },
+ "f19373aaa5d4": {
+  "en": "Faction",
+  "t": "派閥"
+ },
+ "fcd5a642ce9c": {
+  "en": "Trusted; secret quests, safe houses, discounts",
+  "t": "信頼されている。秘密の依頼、隠れ家、割引"
+ },
+ "feca2e4f68d9": {
+  "en": "Hostile; prices doubled; ambushes",
+  "t": "敵対。値段は2倍。待ち伏せ"
+ }
+}

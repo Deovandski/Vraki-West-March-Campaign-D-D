@@ -1,4 +1,8 @@
 {
+ "02957b7454d1": {
+  "en": "Walking Hearts and soul death",
+  "t": "Walking Hearts e morte da alma"
+ },
  "0b1cafe4a3f6": {
   "en": "Dying",
   "t": "Morrendo"
@@ -71,6 +75,10 @@
   "en": "Death, Revival & Debt",
   "t": "Morte, reanimação e dívida"
  },
+ "ade41b56747d": {
+  "en": "A character who gets a **Walking Heart** (see Dangerous Places) becomes undead and **can't be revived** by normal means. Forway law treats them as soul dead.",
+  "t": "Um personagem que ganha um **Walking Heart** (veja Lugares perigosos) vira morto-vivo e **não pode ser reanimado** por meios normais. A lei de Forway o trata como morto da alma."
+ },
  "b85efb022ea2": {
   "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
   "t": "Muitos aventureiros — e os bandidos da Fallen Tree — chamam isso de escravidão. Não estão totalmente errados."
@@ -82,6 +90,10 @@
  "c386e0c6af88": {
   "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
   "t": "A embaixada envia uma **equipe de busca**. Role 1d6: é quantos dias ela leva até chegar ao último local conhecido."
+ },
+ "c57e0941ead3": {
+  "en": "A soul fully drained to nothing by a soul-eating creature (Sucker Lady, Walking Flesh) is gone, unless the DM offers a quest to get it back.",
+  "t": "Uma alma drenada até virar nada por uma criatura devoradora de almas (Sucker Lady, Walking Flesh) se foi, a menos que o Mestre ofereça uma missão para recuperá-la."
  },
  "c6f4e2b98f1f": {
   "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",

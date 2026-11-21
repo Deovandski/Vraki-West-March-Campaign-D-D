@@ -1,22 +1,414 @@
 {
+ "0772d30d7679": {
+  "en": "**Walking Heart Smugglers** — Someone is selling Walking Hearts again. 4 sapphires.",
+  "t": "**مهرّبو قلوب ووكينغ هارت** — أحدهم يبيع قلوب ووكينغ هارت مرة أخرى. 4 سافاير."
+ },
+ "08478901d839": {
+  "en": "3–5 amethysts",
+  "t": "3–5 أميثيست"
+ },
+ "09c243c12be6": {
+  "en": "**The Queen Nari Worm** — Something is shaking the Nari Caverns. Protect the worms at all costs. 6 sapphires.\n9–20. *DM's choice — Sapphire quests are rarely written down.*",
+  "t": "**ملكة ديدان الناري** — شيء يهزّ كهوف ناري. احمِ الديدان مهما كلّف الأمر. 6 سافاير.\n9–20. *حسب اختيار مدير اللعبة — نادرًا ما تُكتب مهام السافاير.*"
+ },
+ "0a2886bc7ff5": {
+  "en": "**Old Village Census** — Count the people in Old Village. They don't like counting. 1 amethyst.",
+  "t": "**تعداد أولد فيليدج** — عُدّ سكان أولد فيليدج. فهم لا يحبون أن يُعدّوا. 1 أميثيست."
+ },
+ "0b41761439d2": {
+  "en": "**Teefyro Crater** — A Teefyro exploded near Tastyleaf and left something in the crater. 4 aquamarines.",
+  "t": "**حفرة التيفيرو** — انفجر تيفيرو قرب تيستي ليف وترك شيئًا في الحفرة. 4 أكوامارين."
+ },
+ "0e6b80be3e41": {
+  "en": "**Black Sapphire** — There's a rumor in the Palace. Forway says it's nothing. Someone paid you to look anyway. ? sapphires.",
+  "t": "**بلاك سافاير** — هناك شائعة في القصر. تقول فورواي إنها لا شيء. ودفع لك أحدهم لتنظر على أي حال. ؟ سافاير."
+ },
+ "10ee5f105d84": {
+  "en": "Sample board (d20 per rank)",
+  "t": "لوحة نموذجية (d20 لكل رتبة)"
+ },
+ "10ee7e90266d": {
+  "en": "**Message Run** — Shout an embassy announcement in three villages that have no guards this week. 30 pearls.",
+  "t": "**جولة الرسائل** — اصرخ بإعلان من السفارة في ثلاث قرى بلا حراس هذا الأسبوع. 30 بيرل."
+ },
+ "130a0f9f36df": {
+  "en": "**Wood Hammering Champion** — A tavern owner needs someone to beat the local champion and break his winning streak. 20 pearls + drinks.",
+  "t": "**بطل وود هامرينغ** — يحتاج صاحب حانة إلى من يهزم البطل المحلي ويكسر سلسلة انتصاراته. 20 بيرل + مشروبات."
+ },
+ "13d5b246d22d": {
+  "en": "**Missing Person: the Tea-Drinkers' Recruit** — Borrow the badge, find him, bring him back. 5 amethysts.",
+  "t": "**شخص مفقود: مجنّد التي درينكرز** — استعِر البطاقة، واعثر عليه، وأعِده. 5 أميثيست."
+ },
+ "140a08d03aac": {
+  "en": "**Culuim Pond** — Someone dumped weird stones in a pond near Freeish again; collect samples. 1 amethyst.",
+  "t": "**بركة الكولويم** — ألقى أحدهم حجارة غريبة في بركة قرب فريئيش مرة أخرى؛ اجمع عينات. 1 أميثيست."
+ },
+ "167f09d217bc": {
+  "en": "**Cargo: Nari Gels to Waterfall** — Fragile, expensive, and someone wants them. 6 amethysts.",
+  "t": "**بضاعة: جل ناري إلى ووترفول** — هشّة، وغالية، وهناك من يريدها. 6 أميثيست."
+ },
+ "19f126e731b5": {
+  "en": "Quest types by rank",
+  "t": "أنواع المهام حسب الرتبة"
+ },
+ "1d070e022003": {
+  "en": "**Sand Worm Season** — Escort chitin hunters out of Flatland (a Sayna is provided). 7 amethysts + chitin share.",
+  "t": "**موسم الساند وورم** — رافق صيادي الكيتين خارج فلاتلاند (ساينا مُقدَّمة). 7 أميثيست + حصة من الكيتين."
+ },
+ "24e973a362ad": {
+  "en": "**Fuhraies Sighting** — Poachers say they saw a living Fuhraies. Get there first. 5 sapphires.",
+  "t": "**رؤية فورايس** — يقول صيادون غير شرعيين إنهم رأوا فورايس حيًا. اسبقهم إلى هناك. 5 سافاير."
+ },
+ "261ed5caccd1": {
+  "en": "**Black Honey Run** — Escort honey from Sweetlake to Blood during the Drunken Sweet Sting Festival. 6 amethysts.",
+  "t": "**رحلة العسل الأسود** — رافق العسل من سويت ليك إلى بلاد خلال مهرجان سويت ستينغ السكران. 6 أميثيست."
+ },
+ "29f1a45c3df7": {
+  "en": "**Newland Survey** — Map a landing site. Watch out for giant sloths. 8 aquamarines.",
+  "t": "**مسح نيولاند** — ارسم خريطة لموقع إنزال. واحذر الكسلانات العملاقة. 8 أكوامارين."
+ },
+ "2f8aaa2e6993": {
+  "en": "1–2 amethysts",
+  "t": "1–2 أميثيست"
+ },
+ "3041ca399974": {
+  "en": "**Fallen Tree Lead** — A Fallen Tree spy is in the embassy lounge. Which adventurer is it? 5 aquamarines.",
+  "t": "**خيط إلى فولن تري** — جاسوس من فولن تري في ردهة السفارة. أيّ مغامر هو؟ 5 أكوامارين."
+ },
+ "318688c9313d": {
+  "en": "**Triangle Trouble** — Escort a Forway inspector through Triangle City without breaking the Triangle Way. 5 aquamarines.",
+  "t": "**متاعب في ترايانغل** — رافق مفتشًا من فورواي عبر مدينة ترايانغل دون أن تخرق طريق المثلث. 5 أكوامارين."
+ },
+ "320a4bf5be97": {
+  "en": "**The Forest That Eats People** — Travelers keep vanishing overnight in a southern forest. 6 aquamarines.",
+  "t": "**الغابة التي تأكل الناس** — ما زال المسافرون يختفون بين ليلة وضحاها في غابة جنوبية. 6 أكوامارين."
+ },
+ "32759c5067f7": {
+  "en": "**Lighthouse Duty** — Cliffbay's keeper broke a leg; keep the fost stone wet for a week. Something keeps knocking on the door at night. 40 pearls.",
+  "t": "**مناوبة المنارة** — كسر حارس منارة كليفباي ساقه؛ أبقِ حجر فوست مبللًا أسبوعًا. وهناك شيء يطرق الباب كل ليلة. 40 بيرل."
+ },
+ "38e9a2f48365": {
+  "en": "Every embassy's Floor 1 has a **quest board**. Quests are contracts: sign with your blood, agree to the **deadline**, and the embassy will send a search party if you don't come back. The captain announces new quests every evening at **Monnalow**.",
+  "t": "في الطابق الأول من كل سفارة **لوحة مهام**. المهام عقود: وقّع بدمك، ووافق على **الموعد النهائي**، وسترسل السفارة فريق بحث إن لم تعد. ويعلن القائد المهام الجديدة كل مساء عند **مونالو**."
+ },
+ "3a2bca99734c": {
+  "en": "**Pussy Power Problem** — Pussy Power vigilantes beat a man half to death. He might have deserved it. Investigate. 3 aquamarines.",
+  "t": "**مشكلة بوسي باور** — ضربت مقتصّات من بوسي باور رجلًا حتى كاد يموت. ربما كان يستحق. حقّق. 3 أكوامارين."
+ },
+ "3adaf1aecd21": {
+  "en": "**Road Crew Escort** — Watch road maintainers clearing the Long Bridge road; Wozens hunt there at night. 50 pearls.",
+  "t": "**مرافقة عمال الطريق** — راقب عمال الصيانة الذين ينظفون طريق لونغ بريدج؛ فالووزن تصطاد هناك ليلًا. 50 بيرل."
+ },
+ "3c95e59f4c3d": {
+  "en": "1–2 aquamarines",
+  "t": "1–2 أكوامارين"
+ },
+ "421cfd7c957f": {
+  "en": "**Sweetlake Blood-Tribe** — The lunatic last member says he's found where his guild vanished to. 3 aquamarines.",
+  "t": "**سويت ليك بلود-ترايب** — يقول العضو الأخير المخبول إنه وجد إلى أين اختفت نقابته. 3 أكوامارين."
+ },
+ "4358c3994478": {
+  "en": "**Bahyum: Mood Rising** — The Castle Mood hit 5. Thin the undead before it reaches 6. 4 aquamarines.",
+  "t": "**باهيوم: المزاج يرتفع** — بلغ مزاج القلعة 5. قلّل الموتى الأحياء قبل أن يبلغ 6. 4 أكوامارين."
+ },
+ "4474716fd65a": {
+  "en": "Add loot: Bagarisa meat and hides, Wood People vines and wood, chitin, rare nari gel ingredients (Koalin parts are illegal!), bandit stashes (surrender them to Forway for investigation… or don't).",
+  "t": "أضف الغنائم: لحم الباغاريسا وجلوده، وكروم الوود بيبول وخشبهم، والكيتين، ومكونات نادرة لجل ناري (أجزاء الكوالين غير قانونية!)، ومخابئ قطّاع الطرق (سلّمها لفورواي للتحقيق… أو لا)."
+ },
+ "4a3239eb6639": {
+  "en": "**Lansha Herd** — A Lansha herd is trampling Cruro-border farms. 5 amethysts.",
+  "t": "**قطيع اللانشا** — قطيع من اللانشا يدوس مزارع على حدود الكرورو. 5 أميثيست."
+ },
+ "50150b6c8f89": {
+  "en": "**Hifuna Control** — Something Hash crawled down from Hifuna near Tastyleaf. 5 aquamarines.",
+  "t": "**السيطرة على هيفونا** — شيء متحوّر بالهاش زحف من هيفونا قرب تيستي ليف. 5 أكوامارين."
+ },
+ "52cc2fa30ce6": {
+  "en": "Dangerous",
+  "t": "خطرة"
+ },
+ "542301db043f": {
+  "en": "**Personal Protection: A Pharaoh's Son** — Anpu (or Bata) visits Forway. They must not be insulted. 6 aquamarines.",
+  "t": "**حماية شخصية: ابن فرعون** — أنبو (أو باتا) يزور فورواي. ولا يجوز أن يُهان. 6 أكوامارين."
+ },
  "5443e491030b": {
   "en": "Amethyst",
   "t": "أميثيست"
+ },
+ "588511f7d807": {
+  "en": "**Fost Stone Count** — Deliver a sack of small fost stones to a village and get them all back… somehow they always come back short. 2 pearls (seriously).",
+  "t": "**عدّ أحجار فوست** — سلّم كيسًا من أحجار فوست الصغيرة لقرية واسترجعها كلها… وبطريقة ما تعود دائمًا ناقصة. 2 بيرل (جديًا)."
+ },
+ "5ada3bd871c8": {
+  "en": "**Gyut Picking Guard** — Freeish farmers say something big eats pickers at dusk. 40 pearls.",
+  "t": "**حراسة قطاف الغيوت** — يقول مزارعو فريئيش إن شيئًا كبيرًا يأكل القاطفين عند الغسق. 40 بيرل."
+ },
+ "5c3db86dee54": {
+  "en": "**Soreno Scourge** — Clear the Sorenos out of a Forway grain silo before they chew through the season. 30 pearls + all the Soreno you can eat (please don't).",
+  "t": "**بلاء السورينو** — أخرِج السورينو من صومعة حبوب في فورواي قبل أن تقضم محصول الموسم. 30 بيرل + كل ما تستطيع أكله من السورينو (أرجوك لا)."
  },
  "5c7b10517158": {
   "en": "Pearl",
   "t": "بيرل"
  },
+ "62060836386e": {
+  "en": "**Hostel Haunting** — A Forway hostel's guests wake up with drained badges. (A Sucker Lady? A thief? Both?) 1 amethyst.",
+  "t": "**نُزُل مسكون** — يستيقظ نزلاء نُزُل في فورواي وبطاقاتهم مستنزفة. (ساكر ليدي؟ لص؟ كلاهما؟) 1 أميثيست."
+ },
+ "6518d5a0d329": {
+  "en": "**Construction Assist** — Help build a Wood People wall around a new village (bring fost stones). 50 pearls.",
+  "t": "**المساعدة في البناء** — ساعد في بناء سور من الوود بيبول حول قرية جديدة (أحضِر أحجار فوست). 50 بيرل."
+ },
+ "7127d58bfb75": {
+  "en": "10+ sapphires",
+  "t": "10+ سافاير"
+ },
+ "76f6798094b8": {
+  "en": "**Law Compliance: Flatland** — Investigate the ruling guilds of Flatland. Don't get caught. 4 sapphires.",
+  "t": "**الالتزام بالقانون: فلاتلاند** — حقّق في النقابات الحاكمة في فلاتلاند. ولا تدع أحدًا يمسك بك. 4 سافاير."
+ },
+ "7a79f00d69ab": {
+  "en": "Quest Board",
+  "t": "لوحة المهام"
+ },
+ "7c6051994e88": {
+  "en": "**Fanchaki Stampede** — A farm's Fanchakis bred out of control. 30 pearls + eggs.",
+  "t": "**تدافع الفانتشاكي** — تكاثرت فانتشاكي إحدى المزارع بلا ضابط. 30 بيرل + بيض."
+ },
+ "7d3c7823adad": {
+  "en": "Routine",
+  "t": "روتينية"
+ },
+ "7dabb7688378": {
+  "en": "**The Stinger Sighting** — Find out who the gore-soaked \"Stinger\" is. Forway's curious, not hostile. 4 amethysts.",
+  "t": "**رؤية ستينغر** — اكتشف من هو «ستينغر» الغارق في الدماء. فورواي فضولية، لا معادية. 4 أميثيست."
+ },
+ "828402e731b0": {
+  "en": "**Kidnapped Courtroom Apprentice** — Ransom note, no badge, a trail into Ganyrami. 7 aquamarines.",
+  "t": "**تلميذ بلاط مخطوف** — رسالة فدية، ولا بطاقة، وأثر يقود إلى غانيرامي. 7 أكوامارين."
+ },
+ "82f30e86b10c": {
+  "en": "**Koalin Problem** — Farmers in the eastern grasslands are losing their minds. Do NOT harvest the brains. 8 amethysts.",
+  "t": "**مشكلة الكوالين** — مزارعو المراعي الشرقية يفقدون عقولهم. **لا** تحصدوا الأدمغة. 8 أميثيست."
+ },
+ "82f6c08644d7": {
+  "en": "**Red Winga Runaway** — A choker-wearing girl begs for protection. Red Winga has a contract. So does Forway. 4 aquamarines (or nothing, depending on whose side you take).",
+  "t": "**الهاربة من ريد وينغا** — فتاة تلبس قلادة ضيقة تتوسل الحماية. لريد وينغا عقد. ولفورواي أيضًا. 4 أكوامارين (أو لا شيء، بحسب الطرف الذي تقف معه)."
+ },
+ "84be65baf404": {
+  "en": "**Blue Wozens Den** — Find and raid the Blue Wozens' hidden den between Forway and Sanbi. 6 aquamarines.",
+  "t": "**وكر البلو ووزنز** — اعثر على وكر البلو ووزنز المخبأ بين فورواي وسانبي وداهمه. 6 أكوامارين."
+ },
+ "85c565555c57": {
+  "en": "**Winga Wrangle** — A courier Winga escaped. Don't kill it (that's a crime). 1 amethyst.",
+  "t": "**الإمساك بالوينغا** — هرب وينغا ساعٍ. لا تقتله (فهذه جريمة). 1 أميثيست."
+ },
+ "87fe3c316550": {
+  "en": "**Bounty: The Bagarisa Brothers' Recruiter** — Bring him to the embassy alive. 1 aquamarine.",
+  "t": "**مكافأة: مجنِّد الأخوين باغاريسا** — أحضِره إلى السفارة حيًا. 1 أكوامارين."
+ },
+ "8b15338336a8": {
+  "en": "4–8 aquamarines",
+  "t": "4–8 أكوامارين"
+ },
+ "8fe025a79646": {
+  "en": "**Embassy cut:** posting a quest costs the poster 1 amethyst; that's not your problem.",
+  "t": "**حصة السفارة:** نشر مهمة يكلّف ناشرها 1 أميثيست؛ وهذه ليست مشكلتك."
+ },
+ "9289cc027422": {
+  "en": "**Lighthouse Silence** — Rich Island's lighthouse went dark; ships are wrecking. 8 amethysts.",
+  "t": "**صمت المنارة** — انطفأت منارة جزيرة ريتش؛ والسفن تتحطم. 8 أميثيست."
+ },
+ "9612e3645f73": {
+  "en": "**Bagarisa Ribs for the Wood People Picker** — Yosuke wants 3 fresh Bagarisas within 2 circles of Forway. 1 amethyst + a free dinner.",
+  "t": "**أضلاع باغاريسا لمطعم وود بيبول بيكر** — يريد يوسكي 3 باغاريسا طازجة ضمن دائرتين من فورواي. 1 أميثيست + عشاء مجاني."
+ },
+ "9a35f8965e36": {
+  "en": "**Smelly Killer Bagarisa** — A huge two-hearted Bagarisa with a blazing crest terrorizes Freeish hunters. 6 amethysts.",
+  "t": "**باغاريسا القاتل النتن** — باغاريسا ضخم بقلبين وعُرف ملتهب يرهب صيادي فريئيش. 6 أميثيست."
+ },
+ "9a5b47656d13": {
+  "en": "**Archeologist Escort: Fuhrair** — Guard a historian climbing to the snow houses. 5 aquamarines.",
+  "t": "**مرافقة عالم آثار: فورير** — احرس مؤرخًا يتسلّق إلى البيوت الثلجية. 5 أكوامارين."
+ },
+ "9a63316724d4": {
+  "en": "**Pearl:** Soul Energy Assist, Fauna Hunting, Construction Assistance, Lighthouse Assistance, Area Surveillance (around cities), Message Spreader, Road Maintenance, Soreno pest control.",
+  "t": "**بيرل:** مساعدة بطاقة الروح، صيد الحيوانات، المساعدة في البناء، المساعدة في المنارات، مراقبة المنطقة (حول المدن)، نشر الرسائل، صيانة الطرق، مكافحة آفة السورينو."
+ },
+ "9a7a2f37207b": {
+  "en": "**Aquamarine:** Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer (search parties), Archeologist Assistance, Bahyum control, Hifuna control, Black Magina shutdown.",
+  "t": "**أكوامارين:** إبادة قطّاع الطرق، الحماية الشخصية، صائد/منقذ المغامرين (فرق البحث)، مساعدة علماء الآثار، السيطرة على باهيوم، السيطرة على هيفونا، إغلاق بلاك ماجينا."
+ },
+ "9ebaa0d38046": {
+  "en": "**Herbs for a Healer** — Gather Girdol and Lehuj in the Freeish woods. 35 pearls.",
+  "t": "**أعشاب لمعالِج** — اجمع الغيردول والليهوج من غابات فريئيش. 35 بيرل."
+ },
+ "a025aa7bf334": {
+  "en": "**Winga Mail Thief** — Someone's shooting down courier Wingas on the Waterfall route. 7 amethysts.",
+  "t": "**لص بريد الوينغا** — أحدهم يُسقط وينغا السعاة على طريق ووترفول. 7 أميثيست."
+ },
+ "a0b37b5846b2": {
+  "en": "**Village Checker: Tobame** — A Tolerideme vassal village stopped sending its booze shipments. 4 amethysts.",
+  "t": "**تفقّد القرى: توبامي** — قرية تابعة لتوليريديمي توقفت عن إرسال شحنات الخمر. 4 أميثيست."
+ },
+ "a17625c5d1a5": {
+  "en": "**Deadline:** the round trip in days at the DM's pace knob, **plus 50%**. (Example: Forway to Sanbi is 6 circles; at 2 days per circle that's 12 days each way, 24 days round trip, so the deadline is 36 days.)",
+  "t": "**الموعد النهائي:** أيام الذهاب والعودة بحسب مقبض إيقاع مدير اللعبة، **مضافًا إليها 50%**. (مثال: من فورواي إلى سانبي 6 دوائر؛ بيومين لكل دائرة يصبح ذلك 12 يومًا في كل اتجاه، و24 يومًا ذهابًا وإيابًا، فيكون الموعد النهائي 36 يومًا.)"
+ },
+ "a2b22e420a26": {
+  "en": "1–3 aquamarines",
+  "t": "1–3 أكوامارين"
+ },
+ "a4ff3af8d79f": {
+  "en": "**White Roundies Gone Missing** — The Freeish festival is coming and the Roundies didn't arrive. 5 amethysts.",
+  "t": "**الوايت راونديز مفقودون** — مهرجان فريئيش يقترب والراونديز لم يصلوا. 5 أميثيست."
+ },
+ "a6d6f3b04432": {
+  "en": "**Cruro Bag of Pearls** — Retrieve a bag of pearls from a Cruro tribe (bartering is legal with them). 5 amethysts.",
+  "t": "**كيس بيرل الكرورو** — استرجع كيس بيرل من قبيلة كرورو (والمقايضة معهم قانونية). 5 أميثيست."
+ },
+ "a6e1274f2e20": {
+  "en": "1–2 sapphires",
+  "t": "1–2 سافاير"
+ },
+ "a7865b7a6450": {
+  "en": "**Amethyst:** Cargo Protection (the Alpha wagon escort! Bandits may offer you a cut to look the other way: [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)), Beast Hunt, Bounty Hunting, Bandit Traps, Training Pearls, Area Surveillance (wild), Village Checker, Missing Person.",
+  "t": "**أميثيست:** حماية البضائع (مرافقة العربة من حملة ألفا! وقد يعرض عليك قطّاع الطرق حصة لتغضّ الطرف: [العمل من الداخل](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md))، صيد الوحوش، صيد المكافآت، فخاخ قطّاع الطرق، تدريب البيرل، مراقبة المنطقة (البرية)، تفقّد القرى، شخص مفقود."
+ },
+ "ac1bbc8eec8d": {
+  "en": "Big",
+  "t": "كبيرة"
+ },
+ "b011d4e0f3c1": {
+  "en": "**Bandit Traps on the Delta** — Set traps on the trails around Deltacross where Beer Balls copycats rob travelers. 4 amethysts.",
+  "t": "**فخاخ قطّاع الطرق في الدلتا** — انصب فخاخًا على الدروب حول دلتاكروس حيث يسرق مقلّدو البير بولز المسافرين. 4 أميثيست."
+ },
+ "b157f3eef49e": {
+  "en": "**Failure:** fail a quest or miss the deadline without a good reason and you owe a penalty equal to **10% of the reward**. Lose a borrowed badge on a Missing Person quest and you owe **10× the reward**.",
+  "t": "**الفشل:** إن فشلت في مهمة أو فاتك الموعد بلا سبب وجيه، فعليك غرامة تساوي **10% من المكافأة**. وإن أضعت بطاقة مستعارة في مهمة شخص مفقود، فعليك **10 أضعاف المكافأة**."
+ },
+ "b2bef37b4135": {
+  "en": "**Sapphire:** Kingdom/Guild/Business Law Compliance (secret), Kingdom Alerts, Bahyum \"mood maxed\" sieges, deep Hifuna expeditions, anything Forway won't write down.",
+  "t": "**سافاير:** التزام الممالك والنقابات والأعمال بالقانون (سري)، إنذارات الممالك، حصارات باهيوم حين «يبلغ المزاج أقصاه»، بعثات إلى أعماق هيفونا، وأي شيء لا تكتبه فورواي."
+ },
+ "b3f218d809f1": {
+  "en": "**Cinika Count** — Report swarm sizes on the plains for storm forecasting. 25 pearls.",
+  "t": "**عدّ السينيكا** — أبلغ عن أحجام الأسراب في السهول للتنبؤ بالعواصف. 25 بيرل."
+ },
+ "b74df696834d": {
+  "en": "**Training Day** — Take three Pearls on their first wild hunt and bring them all back alive. 4 amethysts.",
+  "t": "**يوم التدريب** — خذ ثلاثة من البيرل في أول صيد بري لهم وأعِدهم جميعًا أحياء. 4 أميثيست."
+ },
+ "ba742ae45a3a": {
+  "en": "**Sweet Sting Scouting** — Map hive locations east of Sweetlake (costume provided, smells awful). 2 amethysts.",
+  "t": "**استطلاع السويت ستينغ** — ارسم خريطة لمواقع الخلايا شرق سويت ليك (الزيّ مُقدَّم، ورائحته فظيعة). 2 أميثيست."
+ },
+ "be7491c66988": {
+  "en": "**Wood People Control** — Herd or paralyze a Wood People grove that wandered onto a Tolerideme road. 5 amethysts + vines.",
+  "t": "**السيطرة على الوود بيبول** — سُق أو اشلل أيكة من الوود بيبول تاهت إلى طريق في توليريديمي. 5 أميثيست + كروم."
+ },
+ "c379cef16720": {
+  "en": "**Hifuna Deep** — Escort a Forway expedition to the far edge of Hifuna. Something is watching from the north. 10 sapphires.",
+  "t": "**أعماق هيفونا** — رافق بعثة من فورواي إلى الطرف البعيد من هيفونا. هناك شيء يراقب من الشمال. 10 سافاير."
+ },
+ "c453a3526b9c": {
+  "en": "**The Kozaku Question** — Confirm whether the Blue Wozens' boss still exists — and what he's become. 5 sapphires.",
+  "t": "**مسألة كوزاكو** — تأكّد إن كان زعيم البلو ووزنز ما زال موجودًا — وما الذي صار إليه. 5 سافاير."
+ },
+ "c63f32982efb": {
+  "en": "Typical rewards (per party)",
+  "t": "مكافآت نموذجية (لكل فريق)"
+ },
+ "c8faf4b87b34": {
+  "en": "**Reward:** paid on return with proof (a head, a heart stone, a signed receipt, the cargo delivered intact). Split as the party likes. Revival debt takes its 50% first.",
+  "t": "**المكافأة:** تُدفع عند العودة مع الدليل (رأس، حجر قلب، إيصال موقّع، البضاعة مسلَّمة سليمة). وقسّموها كما تشاؤون. ودين الإحياء يأخذ نصيبه البالغ 50% أولًا."
+ },
  "ca476635d4ad": {
   "en": "Rank",
   "t": "الرتبة"
+ },
+ "ccce7de9befb": {
+  "en": "**The Lost Pearl** — Find a missing Pearl adventurer last seen at Jack Wood. 1 amethyst.",
+  "t": "**البيرل الضائع** — اعثر على مغامر مفقود من رتبة بيرل شوهد آخر مرة في جاك وود. 1 أميثيست."
+ },
+ "cdaf57cacb85": {
+  "en": "**Rank:** you can take quests at your rank or lower. A party may take a quest one rank higher if at least one member holds that rank.",
+  "t": "**الرتبة:** يمكنك أخذ مهام رتبتك أو ما دونها. ويمكن للفريق أخذ مهمة أعلى برتبة واحدة إن كان أحد أعضائه على الأقل يحمل تلك الرتبة."
+ },
+ "d094b59921f2": {
+  "en": "**Bridge Toll Trouble** — Someone's charging an illegal \"toll\" on a forest bridge. Report, don't punish (§2 Sub 3!). 40 pearls.",
+  "t": "**مشكلة رسوم الجسر** — أحدهم يتقاضى «رسم عبور» غير قانوني على جسر في الغابة. أبلِغ، ولا تعاقب (§2 الفقرة 3!). 40 بيرل."
+ },
+ "d26fbd06e0fa": {
+  "en": "**Sand Sea Raid** — The Sand Sea guild is \"capturing\" Wozefaries in the desert again. Prove it. 5 aquamarines.",
+  "t": "**غارة ساند سي** — نقابة ساند سي «تأسر» الووزيفاريس في الصحراء مجددًا. أثبِت ذلك. 5 أكوامارين."
+ },
+ "d50a38583194": {
+  "en": "2–5 amethysts",
+  "t": "2–5 أميثيست"
+ },
+ "d62810f931ed": {
+  "en": "**Wagon to Sanbi** — Escort a merchant wagon from Forway to Sanbi. Blue Wozens \"tax\" this road. 5 amethysts.",
+  "t": "**عربة إلى سانبي** — رافق عربة تاجر من فورواي إلى سانبي. والبلو ووزنز «تجبي الضرائب» على هذا الطريق. 5 أميثيست."
+ },
+ "d6ae25ae8ff2": {
+  "en": "**Search Party** — A Pearl party missed its deadline near Ganyrami. Bodies, alive or dead. 3 aquamarines.",
+  "t": "**فريق بحث** — فاتَ فريقًا من البيرل موعدُه قرب غانيرامي. أجساد، أحياءً أو أمواتًا. 3 أكوامارين."
+ },
+ "d80bf5333290": {
+  "en": "**Black Magina Franchise** — Shut down this year's new Magina farm (they never kill — they put you to sleep). 4 aquamarines.",
+  "t": "**امتياز بلاك ماجينا** — أغلِق مزرعة الماجينا الجديدة لهذا العام (لا يقتلون أبدًا — بل يُنيمونك). 4 أكوامارين."
+ },
+ "d83c96568b4d": {
+  "en": "20–60 pearls",
+  "t": "20–60 بيرل"
+ },
+ "dc4441201127": {
+  "en": "6–10 amethysts",
+  "t": "6–10 أميثيست"
+ },
+ "dd67590636ac": {
+  "en": "**Embassy Errand** — Carry nari stone sticks to Deltacross (transport-free; theft = Forway's very unhappy). 1 amethyst.",
+  "t": "**مهمة للسفارة** — احمل عصيّ أحجار ناري إلى دلتاكروس (بلا أجرة نقل؛ والسرقة = فورواي غاضبة جدًا). 1 أميثيست."
+ },
+ "e05439939503": {
+  "en": "**Fihi Fishing** — Lukewarm Lake's Fihi ate a fisher. Get the fisher's badge back. 6 amethysts.",
+  "t": "**صيد الفيهي** — أكلت أسماك فيهي في البحيرة الفاترة صيادًا. استرجع بطاقته. 6 أميثيست."
+ },
+ "e2c025692149": {
+  "en": "3–5 sapphires",
+  "t": "3–5 سافاير"
  },
  "e4d3c29f8ecd": {
   "en": "Sapphire",
   "t": "سافاير"
  },
+ "e4fc92714186": {
+  "en": "Quest rules",
+  "t": "قواعد المهام"
+ },
  "edb8957aad32": {
   "en": "Aquamarine",
   "t": "أكوامارين"
+ },
+ "f20de1920224": {
+  "en": "**Old Fuhrair Debt Collection** — Collect a miner's debt in a town where everyone is armed. 5 amethysts.",
+  "t": "**تحصيل دين في فورير القديمة** — حصّل دين عامل منجم في بلدة الجميع فيها مسلّح. 5 أميثيست."
+ },
+ "f4ed3c816700": {
+  "en": "**Walking Flesh Loose** — A docile Walking Flesh wandered into a vassal village and the villagers named it. 3 aquamarines.",
+  "t": "**ووكينغ فليش طليق** — ووكينغ فليش وديع تاه إلى قرية تابعة وسمّاه القرويون. 3 أكوامارين."
+ },
+ "fb0da67bff8a": {
+  "en": "**Bahyum Siege** — The Castle Mood maxed out. Every adventurer is called. Kill the Flatheads leading the wave. 3 sapphires.",
+  "t": "**حصار باهيوم** — بلغ مزاج القلعة أقصاه. ويُستدعى كل المغامرين. اقتل الفلاتهيدز الذين يقودون الموجة. 3 سافاير."
+ },
+ "fdc76f692443": {
+  "en": "**Nari Cache Recovery** — Recover a stolen nari stone cache before it's sold. 6 aquamarines.",
+  "t": "**استرداد مخبأ الناري** — استرد مخبأً مسروقًا من أحجار ناري قبل أن يُباع. 6 أكوامارين."
+ },
+ "ffdbc3de6ef7": {
+  "en": "**Endlessboil Samples** — Scientists want water from the boiling lake. 4 aquamarines.",
+  "t": "**عينات إندلس بويل** — يريد العلماء ماءً من البحيرة المغلية. 4 أكوامارين."
  }
 }

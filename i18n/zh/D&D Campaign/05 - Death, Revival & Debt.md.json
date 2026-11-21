@@ -1,4 +1,8 @@
 {
+ "02957b7454d1": {
+  "en": "Walking Hearts and soul death",
+  "t": "沃金哈特与灵魂之死"
+ },
  "0b1cafe4a3f6": {
   "en": "Dying",
   "t": "濒死"
@@ -71,6 +75,10 @@
   "en": "Death, Revival & Debt",
   "t": "死亡、复活与债务"
  },
+ "ade41b56747d": {
+  "en": "A character who gets a **Walking Heart** (see Dangerous Places) becomes undead and **can't be revived** by normal means. Forway law treats them as soul dead.",
+  "t": "得到**沃金哈特**的角色（见“危险之地”）会变成亡灵，**无法**用常规手段**复活**。福威法把他们视为灵魂已死。"
+ },
  "b85efb022ea2": {
   "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
   "t": "很多冒险者——还有福伦特里的强盗——管这叫奴隶制。他们说得也不全错。"
@@ -82,6 +90,10 @@
  "c386e0c6af88": {
   "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
   "t": "大使馆会派出**搜救队**。掷1d6：就是他们到达最后已知位置所需的天数。"
+ },
+ "c57e0941ead3": {
+  "en": "A soul fully drained to nothing by a soul-eating creature (Sucker Lady, Walking Flesh) is gone, unless the DM offers a quest to get it back.",
+  "t": "被食魂生物（萨克莱迪、沃金·弗莱什）彻底吸干的灵魂就消失了，除非DM提供一个把它找回来的委托。"
  },
  "c6f4e2b98f1f": {
   "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",

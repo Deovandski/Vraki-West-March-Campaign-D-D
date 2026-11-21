@@ -1,0 +1,150 @@
+{
+ "04ba7efef9f3": {
+  "en": "Strength, privacy, tradition",
+  "t": "力量、隐私、传统"
+ },
+ "085e70444e95": {
+  "en": "Factions and what they want",
+  "t": "各派系及其诉求"
+ },
+ "12ed4534aacc": {
+  "en": "**Sanbi Royals**",
+  "t": "**桑比王室**"
+ },
+ "19089d32d628": {
+  "en": "Their people happy, daughters left alone, the Queen's schemes kept quiet",
+  "t": "子民快乐，女儿们不被打扰，王后的计谋不被声张"
+ },
+ "267b716d224b": {
+  "en": "Distrusted",
+  "t": "不被信任"
+ },
+ "2a683dc5ec0c": {
+  "en": "Castle hospitality, royal letters, Sanbi guard help",
+  "t": "城堡款待、王室信函、桑比卫兵的帮助"
+ },
+ "33b2838471ef": {
+  "en": "Kill on sight / hunted",
+  "t": "见到就杀／被追杀"
+ },
+ "3471f4685745": {
+  "en": "Hagglers, latecomers",
+  "t": "讨价还价的人、迟到的人"
+ },
+ "3ed8f8451369": {
+  "en": "See [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) for how helping, reporting or double-crossing bandits on an escort changes reputation.\n+1 for a completed job or a big favor for them; −1 for hurting their interests; −2 for killing members or exposing their secrets. One step per session at most.",
+  "t": "护送途中帮助、举报或背叛强盗会如何改变声望，见[内应计划](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md)。\n完成一件差事或帮他们一个大忙 +1；损害他们的利益 −1；杀害成员或揭露他们的秘密 −2。每次跑团最多变动一档。"
+ },
+ "47fa9b6d86fb": {
+  "en": "Their village to win",
+  "t": "让自己的村子赢"
+ },
+ "494ac0f00394": {
+  "en": "Factions & Reputation",
+  "t": "派系与声望"
+ },
+ "59cb10e498ea": {
+  "en": "Rep",
+  "t": "声望"
+ },
+ "62464ed174e1": {
+  "en": "A Blood Book signature (lifelong ally), chitin gear",
+  "t": "血之书上的签名（终身盟友）、甲壳质装备"
+ },
+ "673e6d26a5d6": {
+  "en": "Contracts honored to the letter, booze sold, Wood People under control",
+  "t": "一字不差地履行合同，酒卖得出去，伍德皮普尔受控"
+ },
+ "6a31e99a23d5": {
+  "en": "Track the party's (or each character's) reputation with factions from **−3 to +3**. Start at 0. Shared reputation is part of the shared world: one party's choices affect everyone.",
+  "t": "用 **−3到+3**记录队伍（或每个角色）在各派系中的声望。从0开始。共享的声望是共享世界的一部分：一支队伍的选择会影响所有人。"
+ },
+ "6c9df0b07c1d": {
+  "en": "**Tolerideme kings**",
+  "t": "**托勒里德梅的国王们**"
+ },
+ "6e5031b11de1": {
+  "en": "Meaning",
+  "t": "含义"
+ },
+ "8a57754cde6e": {
+  "en": "**Freeish villages**",
+  "t": "**弗里伊什各村**"
+ },
+ "9777905e8707": {
+  "en": "Vigilantes, debt-dodgers, Nari Worm killers",
+  "t": "义警、赖账的人、杀纳里沃姆的人"
+ },
+ "9a670df0d36d": {
+  "en": "**Gandew**",
+  "t": "**甘杜**"
+ },
+ "ad96f2a7bbd7": {
+  "en": "**Forway (embassies)**",
+  "t": "**福威（大使馆）**"
+ },
+ "b0a1e8267185": {
+  "en": "Gaining and losing",
+  "t": "获得与失去"
+ },
+ "b4922855e320": {
+  "en": "Hates",
+  "t": "憎恨"
+ },
+ "bb3503402718": {
+  "en": "Anyone who embarrasses the family",
+  "t": "任何让这个家族丢脸的人"
+ },
+ "bd1e2f7d0881": {
+  "en": "Village guides, hunting grounds, a free guild if you marry in",
+  "t": "村庄向导、猎场，如果你和村里人结婚还能免费加入一个公会"
+ },
+ "c0a514b7f2fb": {
+  "en": "Unknown",
+  "t": "不认识"
+ },
+ "d105253081c4": {
+  "en": "Free meals, fost stones, Domar Carbey shipments",
+  "t": "免费餐食、福斯特石、多马尔卡贝货运"
+ },
+ "d64c3b4f5396": {
+  "en": "Wants",
+  "t": "想要"
+ },
+ "d6fffbd92330": {
+  "en": "Offers at +2",
+  "t": "+2时提供"
+ },
+ "d8d28c3e816d": {
+  "en": "Family; they'll risk a lot for you",
+  "t": "一家人；他们愿意为你冒很大的险"
+ },
+ "d92cf946ef7e": {
+  "en": "Order, taxes, quests done, debts paid",
+  "t": "秩序、税收、完成委托、还清债务"
+ },
+ "e1f20d437c27": {
+  "en": "Cowards, people who mock the Goodbye Cliff",
+  "t": "懦夫、嘲笑再见崖的人"
+ },
+ "e5c573ac0ba5": {
+  "en": "Friendly; small favors, fair prices",
+  "t": "友好；帮些小忙，价格公道"
+ },
+ "e9e1e516087b": {
+  "en": "Better quests, promotion recommendations, debt extensions",
+  "t": "更好的委托、晋级推荐、债务延期"
+ },
+ "f19373aaa5d4": {
+  "en": "Faction",
+  "t": "派系"
+ },
+ "fcd5a642ce9c": {
+  "en": "Trusted; secret quests, safe houses, discounts",
+  "t": "受信任；秘密委托、安全屋、折扣"
+ },
+ "feca2e4f68d9": {
+  "en": "Hostile; prices doubled; ambushes",
+  "t": "敌对；价格翻倍；遭伏击"
+ }
+}

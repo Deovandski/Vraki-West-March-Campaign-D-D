@@ -1,0 +1,150 @@
+{
+ "04ba7efef9f3": {
+  "en": "Strength, privacy, tradition",
+  "t": "Força, privacidade, tradição"
+ },
+ "085e70444e95": {
+  "en": "Factions and what they want",
+  "t": "Facções e o que elas querem"
+ },
+ "12ed4534aacc": {
+  "en": "**Sanbi Royals**",
+  "t": "**A realeza de Sanbi**"
+ },
+ "19089d32d628": {
+  "en": "Their people happy, daughters left alone, the Queen's schemes kept quiet",
+  "t": "O povo feliz, as filhas deixadas em paz, as tramas da Rainha em segredo"
+ },
+ "267b716d224b": {
+  "en": "Distrusted",
+  "t": "Desconfiam"
+ },
+ "2a683dc5ec0c": {
+  "en": "Castle hospitality, royal letters, Sanbi guard help",
+  "t": "Hospitalidade no castelo, cartas reais, ajuda da guarda de Sanbi"
+ },
+ "33b2838471ef": {
+  "en": "Kill on sight / hunted",
+  "t": "Morto assim que visto / caçado"
+ },
+ "3471f4685745": {
+  "en": "Hagglers, latecomers",
+  "t": "Pechincheiros, atrasados"
+ },
+ "3ed8f8451369": {
+  "en": "See [The Inside Job](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) for how helping, reporting or double-crossing bandits on an escort changes reputation.\n+1 for a completed job or a big favor for them; −1 for hurting their interests; −2 for killing members or exposing their secrets. One step per session at most.",
+  "t": "Veja [O Trabalho Interno](10%20-%20The%20Inside%20Job%20%28Bandit%20Offer%29.md) para saber como ajudar, denunciar ou trair bandidos numa escolta muda a reputação.\n+1 por um trabalho concluído ou um grande favor para eles; −1 por prejudicar os interesses deles; −2 por matar membros ou expor seus segredos. No máximo um degrau por sessão."
+ },
+ "47fa9b6d86fb": {
+  "en": "Their village to win",
+  "t": "Que a aldeia deles vença"
+ },
+ "494ac0f00394": {
+  "en": "Factions & Reputation",
+  "t": "Facções e reputação"
+ },
+ "59cb10e498ea": {
+  "en": "Rep",
+  "t": "Rep."
+ },
+ "62464ed174e1": {
+  "en": "A Blood Book signature (lifelong ally), chitin gear",
+  "t": "Uma assinatura no Blood Book (aliado para a vida toda), equipamento de quitina"
+ },
+ "673e6d26a5d6": {
+  "en": "Contracts honored to the letter, booze sold, Wood People under control",
+  "t": "Contratos cumpridos ao pé da letra, birita vendida, Wood People sob controle"
+ },
+ "6a31e99a23d5": {
+  "en": "Track the party's (or each character's) reputation with factions from **−3 to +3**. Start at 0. Shared reputation is part of the shared world: one party's choices affect everyone.",
+  "t": "Acompanhe a reputação do grupo (ou de cada personagem) com as facções de **−3 a +3**. Comece em 0. A reputação compartilhada faz parte do mundo compartilhado: as escolhas de um grupo afetam todo mundo."
+ },
+ "6c9df0b07c1d": {
+  "en": "**Tolerideme kings**",
+  "t": "**Os reis de Tolerideme**"
+ },
+ "6e5031b11de1": {
+  "en": "Meaning",
+  "t": "Significado"
+ },
+ "8a57754cde6e": {
+  "en": "**Freeish villages**",
+  "t": "**As aldeias de Freeish**"
+ },
+ "9777905e8707": {
+  "en": "Vigilantes, debt-dodgers, Nari Worm killers",
+  "t": "Justiceiros, caloteiros, matadores de Nari Worms"
+ },
+ "9a670df0d36d": {
+  "en": "**Gandew**",
+  "t": "**Gandew**"
+ },
+ "ad96f2a7bbd7": {
+  "en": "**Forway (embassies)**",
+  "t": "**Forway (embaixadas)**"
+ },
+ "b0a1e8267185": {
+  "en": "Gaining and losing",
+  "t": "Ganhando e perdendo"
+ },
+ "b4922855e320": {
+  "en": "Hates",
+  "t": "Odeia"
+ },
+ "bb3503402718": {
+  "en": "Anyone who embarrasses the family",
+  "t": "Qualquer um que envergonhe a família"
+ },
+ "bd1e2f7d0881": {
+  "en": "Village guides, hunting grounds, a free guild if you marry in",
+  "t": "Guias de aldeia, territórios de caça, uma guilda grátis se você se casar com alguém de lá"
+ },
+ "c0a514b7f2fb": {
+  "en": "Unknown",
+  "t": "Desconhecido"
+ },
+ "d105253081c4": {
+  "en": "Free meals, fost stones, Domar Carbey shipments",
+  "t": "Refeições grátis, pedras fost, carregamentos de Domar Carbey"
+ },
+ "d64c3b4f5396": {
+  "en": "Wants",
+  "t": "Quer"
+ },
+ "d6fffbd92330": {
+  "en": "Offers at +2",
+  "t": "Oferece com +2"
+ },
+ "d8d28c3e816d": {
+  "en": "Family; they'll risk a lot for you",
+  "t": "Família; arriscam muito por você"
+ },
+ "d92cf946ef7e": {
+  "en": "Order, taxes, quests done, debts paid",
+  "t": "Ordem, impostos, missões feitas, dívidas pagas"
+ },
+ "e1f20d437c27": {
+  "en": "Cowards, people who mock the Goodbye Cliff",
+  "t": "Covardes, gente que zomba do Goodbye Cliff"
+ },
+ "e5c573ac0ba5": {
+  "en": "Friendly; small favors, fair prices",
+  "t": "Amigável; pequenos favores, preços justos"
+ },
+ "e9e1e516087b": {
+  "en": "Better quests, promotion recommendations, debt extensions",
+  "t": "Missões melhores, recomendações de promoção, prorrogação de dívidas"
+ },
+ "f19373aaa5d4": {
+  "en": "Faction",
+  "t": "Facção"
+ },
+ "fcd5a642ce9c": {
+  "en": "Trusted; secret quests, safe houses, discounts",
+  "t": "De confiança; missões secretas, esconderijos, descontos"
+ },
+ "feca2e4f68d9": {
+  "en": "Hostile; prices doubled; ambushes",
+  "t": "Hostil; preços em dobro; emboscadas"
+ }
+}

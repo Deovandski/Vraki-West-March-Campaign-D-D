@@ -1,4 +1,8 @@
 {
+ "02957b7454d1": {
+  "en": "Walking Hearts and soul death",
+  "t": "ウォーキングハートと魂の死"
+ },
  "0b1cafe4a3f6": {
   "en": "Dying",
   "t": "死にかける"
@@ -71,6 +75,10 @@
   "en": "Death, Revival & Debt",
   "t": "死、蘇生、借金"
  },
+ "ade41b56747d": {
+  "en": "A character who gets a **Walking Heart** (see Dangerous Places) becomes undead and **can't be revived** by normal means. Forway law treats them as soul dead.",
+  "t": "**ウォーキングハート**を得たキャラクター（「危険な場所」を参照）はアンデッドになり、通常の手段では**蘇生できない**。フォーウェイ法上は魂の死を迎えた者として扱われる。"
+ },
  "b85efb022ea2": {
   "en": "Many adventurers — and the Fallen Tree bandits — call this slavery. They're not entirely wrong.",
   "t": "多くの冒険者 — そしてフォールンツリーの盗賊たち — はこれを奴隷制と呼ぶ。あながち間違いではない。"
@@ -82,6 +90,10 @@
  "c386e0c6af88": {
   "en": "The embassy sends a **search party**. Roll 1d6: that's how many days until they reach the last known location.",
   "t": "大使館は**捜索隊**を送る。1d6を振る：最後に確認された場所に捜索隊が着くまでの日数だ。"
+ },
+ "c57e0941ead3": {
+  "en": "A soul fully drained to nothing by a soul-eating creature (Sucker Lady, Walking Flesh) is gone, unless the DM offers a quest to get it back.",
+  "t": "魂を食らう生き物（サッカー・レディ、ウォーキング・フレッシュ）に吸い尽くされて無になった魂は失われる。DMが取り戻すための依頼を用意しない限り。"
  },
  "c6f4e2b98f1f": {
   "en": "Within a minute of death: a **black honey revival pot** or *revivify* (the Body RESTORE + Storm CREATE ring pair, Tier III).\nLater, within the window: carry the body to any **embassy**. (Ice it. Seriously.)",
