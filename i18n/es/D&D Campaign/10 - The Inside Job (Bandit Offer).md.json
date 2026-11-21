@@ -1,42 +1,570 @@
 {
+ "029aca61cf3a": {
+  "en": "**Sanbi:** major criminals are **thrown into the sea**; survive and you're absolved.",
+  "t": "**Sanbi:** a los grandes criminales los **tiran al mar**; si sobrevives, quedas absuelto."
+ },
+ "0575feb2d9fb": {
+  "en": "Valuable; some may be fun to \"test\"",
+  "t": "Valiosa; puede que algunos sea divertido «probarlos»"
+ },
+ "0700f9d05e17": {
+  "en": "**At departure.** While the party preps in town (loading the wagon, buying supplies, a last drink), roll a d6. On a **1**, the offer comes before they leave.",
+  "t": "**Al salir.** Mientras el grupo se prepara en el pueblo (cargando el carro, comprando provisiones, una última copa), tira un d6. Con un **1**, la oferta llega antes de partir."
+ },
+ "08d90312f552": {
+  "en": "The party walks away with their cut, a lie the embassy believed, and new friends in low places.",
+  "t": "El grupo se marcha con su parte, una mentira que la embajada se creyó y nuevos amigos en los bajos fondos."
+ },
+ "0a5aaede6d4f": {
+  "en": "Loud go-between (Beer Balls)",
+  "t": "Intermediario bocazas (Beer Balls)"
+ },
+ "0cc401168d7e": {
+  "en": "Easy to sell anywhere",
+  "t": "Fácil de vender en cualquier parte"
+ },
+ "0df736f68dd1": {
+  "en": "What's really going on",
+  "t": "Lo que pasa de verdad"
+ },
+ "0e9b12eedfe2": {
+  "en": "**Grand** crimes (Forway property): up to **exile to Hifuna**.",
+  "t": "Delitos **Máximos** (propiedad de Forway): hasta el **destierro a Hifuna**."
+ },
+ "0f089c0d2a8d": {
+  "en": "If it all goes right",
+  "t": "Si todo sale bien"
+ },
+ "0f519ea01db3": {
+  "en": "Use it **once per escort quest**, at most.",
+  "t": "Úsalo **una vez por misión de escolta**, como mucho."
+ },
+ "105bcd4fdae4": {
+  "en": "Forway property: +2 Heat, and the crime counts as **Grand** (conspiracy against Forway)",
+  "t": "Propiedad de Forway: +2 de Sospecha, y el delito cuenta como **Máximo** (conspiración contra Forway)"
+ },
+ "116ccbd02926": {
+  "en": "The debrief",
+  "t": "El informe"
+ },
+ "1465bf14a34c": {
+  "en": "A friendly **fellow adventurer** in the embassy lounge",
+  "t": "Un simpático **compañero aventurero** en la sala de la embajada"
+ },
+ "168984da861b": {
+  "en": "2–10 amethysts",
+  "t": "2–10 amethysts"
+ },
+ "1b43d1a97fba": {
+  "en": "The cargo was contraband the merchant can't report",
+  "t": "La carga era contrabando que el mercader no puede denunciar"
+ },
+ "1c2c25f9052f": {
+  "en": "**Fight or flee:** the party becomes **wanted**. The embassy posts a Bounty quest with their faces on it: −3 Forway reputation, and other West March parties can take the job.",
+  "t": "**Luchar o huir:** el grupo pasa a estar **buscado**. La embajada publica una misión de recompensa con sus caras: −3 de reputación con Forway, y otros grupos de West March pueden aceptar el encargo."
+ },
+ "1ffff7f43693": {
+  "en": "Honest quest reward",
+  "t": "Recompensa honrada de la misión"
+ },
+ "203b3508467a": {
+  "en": "**−2 Forway** reputation; badges flagged at every embassy.",
+  "t": "**−2 con Forway**; insignias marcadas en todas las embajadas."
+ },
+ "247f865c8334": {
+  "en": "**Sundeath:** guilty until proven innocent; public execution for the worst.",
+  "t": "**Sundeath:** culpable hasta que se demuestre lo contrario; ejecución pública para los peores."
+ },
+ "24bfb0bd155c": {
+  "en": "When guards catch up, the party can:",
+  "t": "Cuando los guardias los alcanzan, el grupo puede:"
+ },
+ "2e07964dd2fc": {
+  "en": "**Success:** only the normal failed-quest penalty (**10% of the reward**). The merchant's guild may post a bounty on the bandits — which the party could even take.",
+  "t": "**Éxito:** solo la penalización normal por misión fallida (**10 % de la recompensa**). Puede que el gremio del mercader publique una recompensa por los bandidos — que el grupo incluso podría aceptar."
+ },
+ "2f6400a6a6e7": {
+  "en": "**Inside a kingdom:** that kingdom's guards (Sanbi, Tolerideme, Gandew, Freeish).",
+  "t": "**Dentro de un reino:** los guardias de ese reino (Sanbi, Tolerideme, Gandew, Freeish)."
+ },
+ "2fc9bb132875": {
+  "en": "**Sting.** It's a Forway setup (or a kingdom's): guards are waiting at the ambush spot. If the party *refused* a sting, the embassy quietly notes their loyalty: +1 Forway and it counts toward their next promotion.",
+  "t": "**Encerrona.** Es un montaje de Forway (o de un reino): hay guardias esperando en el punto de emboscada. Si el grupo *rechazó* una encerrona, la embajada toma nota en silencio de su lealtad: +1 con Forway y cuenta para su siguiente ascenso."
+ },
+ "311802431d41": {
+  "en": "Heat measures how likely the party is to get caught. Start at **0** and keep a running total.",
+  "t": "La Sospecha mide lo probable que es que pillen al grupo. Empieza en **0** y lleva la cuenta."
+ },
+ "31a3d9d7d777": {
+  "en": "**Reading the go-between:** a DC 14 Wisdom (Insight) check notices *something* is off if the Deal roll is going to be bad (Sting, Trap or Fake balls). It tells the party \"this smells wrong\", not what's wrong.",
+  "t": "**Calar al intermediario:** una prueba de Sabiduría (Perspicacia) DC 14 nota que *algo* no cuadra si la tirada del Trato va a salir mal (Encerrona, Trampa o Bolas falsas). Le dice al grupo «esto huele mal», no qué es lo que va mal."
+ },
+ "31ef1f6a51dd": {
+  "en": "The Inside Job (Bandit Offer)",
+  "t": "El Trabajo Interno (oferta de los bandidos)"
+ },
+ "3a8dd3914d60": {
+  "en": "Who makes the offer",
+  "t": "Quién hace la oferta"
+ },
+ "3b1722882915": {
+  "en": "Kingdoms use their own law when the crime happened in their territory:",
+  "t": "Los reinos aplican su propia ley cuando el delito ocurrió en su territorio:"
+ },
+ "3d86c3e575a8": {
+  "en": "The party never sees the boss — anyone could be behind it",
+  "t": "El grupo nunca ve al jefe — cualquiera podría estar detrás"
+ },
+ "401aaba1d08e": {
+  "en": "Domar Carbey sacks",
+  "t": "Sacos de Domar Carbey"
+ },
+ "41663e2ac0ba": {
+  "en": "**Real fights happen too:** a passenger who fights back, an Egua that panics, a bandit who swings too hard. Run it as normal combat.",
+  "t": "**También hay peleas de verdad:** un pasajero que se defiende, un Egua que se espanta, un bandido que pega demasiado fuerte. Resuélvelo como un combate normal."
+ },
+ "42de5b88efe2": {
+  "en": "2d6 × 5 sapphires",
+  "t": "2d6 × 5 sapphires"
+ },
+ "43196ed67a2f": {
+  "en": "Lose a rank, or no promotions for a year.",
+  "t": "Perder un rango, o ningún ascenso durante un año."
+ },
+ "454d8f0f8be6": {
+  "en": "A polite **Blue Wozens** \"toll collector\", hat in hand, on the Forway–Sanbi road",
+  "t": "Un educado «cobrador de peajes» de los **Blue Wozens**, sombrero en mano, en el camino de Forway a Sanbi"
+ },
+ "45c2109eef5e": {
+  "en": "They'd rather rob than kill (+1 on the Deal roll)",
+  "t": "Prefieren robar a matar (+1 a la tirada del Trato)"
+ },
+ "46d173374ae2": {
+  "en": "**Fake-accept (double-cross).** Play along, then warn the guards (a Winga letter sent ahead costs 1 pearl; sneaking it past the go-between takes a DC 13 Dexterity (Sleight of Hand) or Charisma (Deception) check), or ambush the bandits at the meeting spot. Success earns the bandits' bounty, keeps the quest reward, and gives **+1 Forway** — and **−2 with the bandit faction**, who don't forget.",
+  "t": "**Fingir que aceptas (traición).** Seguid el juego y luego avisad a los guardias (una carta por Winga enviada por delante cuesta 1 pearl; colarla sin que lo vea el intermediario requiere una prueba de Destreza (Juego de Manos) o de Carisma (Engaño) DC 13), o tended una emboscada a los bandidos en el punto de encuentro. Si sale bien, cobráis la recompensa por los bandidos, conserváis la recompensa de la misión y ganáis **+1 con Forway** — y **−2 con la facción de bandidos**, que no olvida."
+ },
+ "471d67629b1f": {
+  "en": "**Honest thieves.** Everything goes as promised.",
+  "t": "**Ladrones honrados.** Todo sale como prometieron."
+ },
  "479682595014": {
   "en": "Quick reference",
   "t": "Referencia rápida"
+ },
+ "483427645d7c": {
+  "en": "1–8 aquamarines",
+  "t": "1–8 aquamarines"
+ },
+ "49bef3be5515": {
+  "en": "**The act:** \"Put up a fight, take a few bruises, run off. We take the wagon. You get your cut.\"",
+  "t": "**La actuación:** «Plantad cara, llevaos algún moratón y salid corriendo. Nosotros nos llevamos el carro. Vosotros os lleváis vuestra parte.»"
+ },
+ "4c938f422c33": {
+  "en": "**Fencing goods:** black markets (Ganyrami, Old Fuhrair, Flatland's underground, smugglers) pay **50%** of value with no questions. Legit markets pay **80%**, but each sale adds +1 Heat.",
+  "t": "**Colocar la mercancía:** los mercados negros (Ganyrami, Old Fuhrair, el subsuelo de Flatland, contrabandistas) pagan el **50 %** del valor sin preguntas. Los mercados legales pagan el **80 %**, pero cada venta añade +1 de Sospecha."
+ },
+ "4ce5034c213b": {
+  "en": "**Offer** (departure d6 = 1, or a night encounter swap) → **cut** d6 (20–50%) → **accept / refuse / report / double-cross** → secret **Deal roll** d10 → stage the **raid** → track **Heat** → **patrols** (d6 < Heat) → **debrief** Deception DC 10 + 2 × Heat.",
+  "t": "**Oferta** (d6 al salir = 1, o cambio por un encuentro nocturno) → **parte** d6 (20–50 %) → **aceptar / negarse / denunciar / traicionar** → **tirada del Trato** secreta d10 → montar el **asalto** → llevar la **Sospecha** → **patrullas** (d6 < Sospecha) → **informe** Engaño DC 10 + 2 × Sospecha."
+ },
+ "4f48f136ab19": {
+  "en": "**Not showing up:** the quest deadline passes, a search party finds the empty wagon, and the party is declared **wanted**.",
+  "t": "**No presentarse:** se pasa el plazo de la misión, una partida de búsqueda encuentra el carro vacío y se declara **buscado** al grupo."
+ },
+ "4fce793e83d8": {
+  "en": "Each surviving witness who saw the party help the bandits (or saw them not fight). Maximum +3",
+  "t": "Cada testigo superviviente que vio al grupo ayudar a los bandidos (o que vio que no peleaba). Máximo +3"
+ },
+ "50f6f5430cc5": {
+  "en": "The bandits rarely come themselves. Someone passes by \"on their behalf.\"",
+  "t": "Los bandidos rara vez vienen en persona. Alguien pasa «de su parte»."
  },
  "5443e491030b": {
   "en": "Amethyst",
   "t": "Amethyst"
  },
+ "5a0f970eee3e": {
+  "en": "Whatever happened, the party has to report the failed quest at the **destination embassy** (for example, the Sanbi embassy). The contract was signed in blood, so they can't just disappear.",
+  "t": "Pase lo que pase, el grupo tiene que informar del fracaso de la misión en la **embajada de destino** (por ejemplo, la embajada de Sanbi). El contrato se firmó con sangre, así que no pueden desaparecer sin más."
+ },
+ "5ca763fe9f73": {
+  "en": "One of the wagon's own **passengers**, or the merchant's assistant",
+  "t": "Uno de los propios **pasajeros** del carro, o el ayudante del mercader"
+ },
+ "5d18d6004a1d": {
+  "en": "**Trap.** Witnesses are bad for business. Once the wagon is emptied, the bandits turn on the party, with more people than they showed. Black Magina never kills: they drug the party (Sleep Inducer) and the party wakes up with nothing.",
+  "t": "**Trampa.** Los testigos son malos para el negocio. En cuanto vacían el carro, los bandidos se vuelven contra el grupo, con más gente de la que enseñaron. Black Magina nunca mata: droga al grupo (Sleep Inducer) y el grupo se despierta sin nada."
+ },
+ "60b304b8dfdb": {
+  "en": "**Patrols:** after the raid, once per day until the loot is sold or hidden and the party is back in a town, roll a d6. If the result is **lower than the Heat**, a patrol finds them. Who patrols depends on where they are:",
+  "t": "**Patrullas:** después del asalto, una vez al día hasta que el botín se venda o se esconda y el grupo esté de vuelta en un pueblo, tira un d6. Si el resultado es **menor que la Sospecha**, una patrulla los encuentra. Quién patrulla depende de dónde estén:"
+ },
+ "61670d324453": {
+  "en": "The staged fight beat every witness's Insight",
+  "t": "La pelea montada superó la Perspicacia de todos los testigos"
+ },
+ "63bd36eaefee": {
+  "en": "The party arrives at the next embassy actually wounded or dead (revival receipts are convincing)",
+  "t": "El grupo llega a la siguiente embajada herido de verdad o muerto (los recibos de reanimación convencen)"
+ },
+ "64a127a33c10": {
+  "en": "**Banned** nari gels",
+  "t": "Geles de nari **prohibidos**"
+ },
+ "64ebed38b99d": {
+  "en": "A kid with a note and a smoke bomb",
+  "t": "Un crío con una nota y una bomba de humo"
+ },
+ "657ff85da553": {
+  "en": "An official signal color was used",
+  "t": "Se usó un color de señal oficial"
+ },
+ "65cb34b7af81": {
+  "en": "Pearl (hired help)",
+  "t": "Pearl (ayuda contratada)"
+ },
+ "6771431cd91a": {
+  "en": "It's a **risk/reward gamble**. If everything goes right, the party makes far more than the quest pays. But the bandits might be setting them up to die, guards might show up, and someone still has to walk into the destination embassy and explain why the cargo never arrived.",
+  "t": "Es una **apuesta de riesgo y recompensa**. Si todo sale bien, el grupo gana mucho más de lo que paga la misión. Pero puede que los bandidos les estén tendiendo una trampa mortal, puede que aparezcan guardias, y alguien tendrá que entrar en la embajada de destino y explicar por qué la carga nunca llegó."
+ },
+ "6888588f6034": {
+  "en": "2d6 × 5 amethysts",
+  "t": "2d6 × 5 amethysts"
+ },
+ "68bb05053999": {
+  "en": "The go-between explains the plan:",
+  "t": "El intermediario explica el plan:"
+ },
+ "69189f45119b": {
+  "en": "A courtesan wearing a **choker** at the tavern",
+  "t": "Una cortesana con **gargantilla** en la taberna"
+ },
+ "6ca945076c24": {
+  "en": "**At night camp.** When a Night or Graveyard event roll gives an encounter, the DM can swap it for the offer, especially if the region table rolled bandits.",
+  "t": "**En el campamento nocturno.** Cuando una tirada de evento de Noche o Madrugada da un encuentro, el DM puede cambiarlo por la oferta, sobre todo si en la tabla de la región salieron bandidos."
+ },
+ "6fb39db38b29": {
+  "en": "Cause",
+  "t": "Causa"
+ },
+ "711a7d6282c7": {
+  "en": "1 or less",
+  "t": "1 o menos"
+ },
+ "72328d724e67": {
+  "en": "**Bribe:** Charisma (Persuasion) DC 15 plus 10% of the cargo's value per guard. Tolerideme guards never take bribes.",
+  "t": "**Sobornar:** Carisma (Persuasión) DC 15 más el 10 % del valor de la carga por guardia. Los guardias de Tolerideme nunca aceptan sobornos."
+ },
+ "7308aea0fbd8": {
+  "en": "Valuable; sticky evidence",
+  "t": "Valiosa; una prueba pegajosa"
+ },
+ "740a439b8515": {
+  "en": "Bulky; only half its value is portable",
+  "t": "Voluminoso; solo se puede llevar la mitad de su valor"
+ },
+ "74e376a16a00": {
+  "en": "The pitch",
+  "t": "La propuesta"
+ },
+ "759cf7b1de05": {
+  "en": "**Accept.** The DM makes the secret Deal roll. Play out the raid.",
+  "t": "**Aceptar.** El DM hace en secreto la tirada del Trato. Se juega el asalto."
+ },
+ "771d0a9a11ae": {
+  "en": "A random event for any wagon or cargo escort: **Cargo Protection** quests, caravans, the [Alpha One-Shot](Alpha%20One-Shot%20-%20Wagon%20Escort.md). Someone working for the bandits quietly offers the party a cut if they help rob the wagon they're supposed to protect.",
+  "t": "Un evento aleatorio para cualquier escolta de carro o de carga: misiones de **Protección de carga**, caravanas, la [partida única Alpha](Alpha%20One-Shot%20-%20Wagon%20Escort.md). Alguien que trabaja para los bandidos le ofrece discretamente al grupo una parte si le ayuda a robar el carro que se supone que protege."
+ },
+ "79c0433507c4": {
+  "en": "Roll a d10 and apply modifiers: Blue Wozens +1 · party has +2 reputation or better with the bandit faction +2 · Fallen Tree −1 · Beer Balls −1 · bandits offended during haggling −1.",
+  "t": "Tira un d10 y aplica los modificadores: Blue Wozens +1 · el grupo tiene +2 de reputación o más con la facción de bandidos +2 · Fallen Tree −1 · Beer Balls −1 · bandidos ofendidos al regatear −1."
+ },
  "7a7f4479f2d2": {
   "en": "Heat",
   "t": "Sospecha"
+ },
+ "7c91610f5a58": {
+  "en": "**Where and when:** an ambush spot along the route (usually the next night camp, or a bridge or narrow road ahead).",
+  "t": "**Dónde y cuándo:** un punto de emboscada en la ruta (normalmente el siguiente campamento nocturno, o un puente o un camino estrecho más adelante)."
+ },
+ "7fbe7ce47f18": {
+  "en": "10 or more",
+  "t": "10 o más"
+ },
+ "808ea823ed5b": {
+  "en": "**Short-changed.** They pay half the agreed cut and vanish.",
+  "t": "**Estafados.** Pagan la mitad de la parte acordada y desaparecen."
+ },
+ "8121922ac8bc": {
+  "en": "A **stable hand** at the departure stables who \"hears things\"",
+  "t": "Un **mozo de cuadra** de los establos de salida que «oye cosas»"
+ },
+ "853ec40b0e35": {
+  "en": "Or the DM simply decides it's time.",
+  "t": "O el DM decide sin más que ha llegado el momento."
+ },
+ "85d47e5f72b5": {
+  "en": "**The signal:** a smoke bomb, often in an **official signal color** (green = \"safe\" is the favorite). Using an official color for a crime is a crime itself (+1 Heat).",
+  "t": "**La señal:** una bomba de humo, a menudo de un **color de señal oficial** (el verde = «seguro» es el favorito). Usar un color oficial para un delito ya es un delito (+1 de Sospecha)."
+ },
+ "864ed4190fa9": {
+  "en": "A 30% cut is usually **2–4× the honest reward**. That's the bait.",
+  "t": "Una parte del 30 % suele ser **2–4 veces la recompensa honrada**. Ese es el cebo."
+ },
+ "87a58c2d3315": {
+  "en": "The party spends lavishly in the next town, or shows up with new gear",
+  "t": "El grupo derrocha en el siguiente pueblo, o aparece con equipo nuevo"
+ },
+ "89e2bb35c85c": {
+  "en": "**Staging the fight:** the party makes a group Charisma (Deception) or Charisma (Performance) check, DC 13, to make the fight look real. Witnesses (the merchant, passengers, wagon drivers) roll Wisdom (Insight) against it. Each witness who sees through it adds Heat.",
+  "t": "**Montar la pelea:** el grupo hace una prueba grupal de Carisma (Engaño) o Carisma (Interpretación), DC 13, para que la pelea parezca real. Los testigos (el mercader, los pasajeros, los carreteros) tiran Sabiduría (Perspicacia) contra ella. Cada testigo que lo cala añade Sospecha."
  },
  "8b93e371e76e": {
   "en": "Cargo",
   "t": "Carga"
  },
+ "8d6f20dd0f51": {
+  "en": "Forway property (nari stones, embassy goods)",
+  "t": "Propiedad de Forway (piedras de nari, mercancía de la embajada)"
+ },
+ "8d7c315d40c4": {
+  "en": "A very drunk **Beer Balls** copycat",
+  "t": "Un imitador de los **Beer Balls** muy borracho"
+ },
  "8dd63043aa5a": {
   "en": "Cargo value",
   "t": "Valor de la carga"
+ },
+ "8e2c8c553f27": {
+  "en": "**Lying** (\"we were overwhelmed\"): the spokesperson makes a Charisma (Deception) check against DC **10 + 2 × Heat**, with help from the others. Disadvantage if the merchant survived and is already there complaining, or if the party looks suspiciously well-fed.",
+  "t": "**Mentir** («nos superaron»): quien habla por el grupo hace una prueba de Carisma (Engaño) contra DC **10 + 2 × Sospecha**, con ayuda de los demás. Desventaja si el mercader sobrevivió y ya está allí quejándose, o si el grupo tiene un aspecto sospechosamente bien alimentado."
+ },
+ "8f48e3f5ead3": {
+  "en": "A **Wood People** bandit herding a \"lost\" tree near camp",
+  "t": "Un bandido **Wood People** arreando un árbol «perdido» cerca del campamento"
+ },
+ "90fcab24f9f0": {
+  "en": "**Nari stone sticks** or embassy goods",
+  "t": "**Palos de piedras de nari** o mercancía de la embajada"
+ },
+ "9155968fdde1": {
+  "en": "Chitin or Wood People lumber",
+  "t": "Quitina o madera de Wood People"
+ },
+ "946c12cae169": {
+  "en": "2d6 × 50 pearls",
+  "t": "2d6 × 50 pearls"
+ },
+ "94d2bdde820d": {
+  "en": "**The desert:** a lone Gandew guard, or a Sundeath patrol — and Sundeath presumes guilt.",
+  "t": "**El desierto:** un guardia solitario de Gandew, o una patrulla de Sundeath — y Sundeath presume la culpa."
+ },
+ "9542d009d725": {
+  "en": "**Witnesses:** the party can let them flee, protect them, or silence them. Killing witnesses lowers Heat but is **murder** (a Major crime). And Monika butterflies find corpses; search parties follow the Monikas.",
+  "t": "**Testigos:** el grupo puede dejarlos huir, protegerlos o silenciarlos. Matar testigos baja la Sospecha, pero es **asesinato** (un delito Grave). Y las mariposas Monika encuentran cadáveres; las partidas de búsqueda siguen a las Monikas."
+ },
+ "993d95c3a6b5": {
+  "en": "**Freeish:** whatever this village's law is this year.",
+  "t": "**Freeish:** lo que diga la ley de esa aldea este año."
+ },
+ "99defe6b3d3c": {
+  "en": "**Fail by less than 5:** an investigation. The party is held up to **6 weeks** (Forway Law's detention limit; those characters sit out sessions as in-world downtime) and their badges are flagged. The DM can call for another check later, or new evidence decides it.",
+  "t": "**Fallo por menos de 5:** una investigación. Retienen al grupo hasta **6 semanas** (el límite de detención de la Ley de Forway; esos personajes se pierden sesiones como tiempo libre en el mundo) y sus insignias quedan marcadas. El DM puede pedir otra prueba más adelante, o deciden las nuevas pruebas."
+ },
+ "a0ecd141eb63": {
+  "en": "**Haggling:** each successful DC 13 Charisma (Persuasion) check raises the cut by 10% (maximum 60%). Fail by 5 or more and the bandits take offense (−1 on the Deal roll).",
+  "t": "**Regatear:** cada prueba de Carisma (Persuasión) DC 13 superada sube la parte un 10 % (máximo 60 %). Si fallas por 5 o más, los bandidos se ofenden (−1 a la tirada del Trato)."
+ },
+ "a0f7dc1af4ac": {
+  "en": "A crate of nari gels",
+  "t": "Una caja de geles de nari"
  },
  "a1ae9e90235a": {
   "en": "Quest rank",
   "t": "Rango de la misión"
  },
+ "a1d4dcf5664c": {
+  "en": "Booze from the Alcohol District",
+  "t": "Licor del Distrito del Alcohol"
+ },
+ "a2f682fb22d5": {
+  "en": "Bandit and guard stats: [People](Stat%20Blocks/People.md).",
+  "t": "Estadísticas de bandidos y guardias: [Gente](Stat%20Blocks/People.md)."
+ },
+ "a673144e0546": {
+  "en": "1–5 sapphires",
+  "t": "1–5 sapphires"
+ },
+ "a69427353077": {
+  "en": "Repay the cargo's full value (including sentimental value), or work it off in **contract servitude**.",
+  "t": "Devolver el valor completo de la carga (incluido el valor sentimental), o saldarlo mediante **servidumbre por contrato**."
+ },
+ "a7893f40f9b6": {
+  "en": "Identifiable cargo (stamped barrels, embassy seals)",
+  "t": "Carga identificable (barriles sellados, precintos de la embajada)"
+ },
+ "a836ae1236f8": {
+  "en": "Heavy; sells well to artisans",
+  "t": "Pesada; se vende bien a los artesanos"
+ },
+ "ad838f2e538e": {
+  "en": "**The cargo is valuable** (nari stones, black honey, banned gels): the departure roll succeeds on a **1–2**.",
+  "t": "**Si la carga es valiosa** (piedras de nari, miel negra, geles prohibidos): la tirada de salida tiene éxito con un **1–2**."
+ },
  "adab8dadcb78": {
   "en": "Notes",
   "t": "Notas"
+ },
+ "afd4e50dbdb3": {
+  "en": "**Talk:** the \"hero gambit\" — claim they were chasing the bandits and are bringing the cargo back. Charisma (Deception) DC **10 + 2 × Heat**. Advantage if they hand over bandits (alive or dead) or return most of the cargo. Forway guards' superiority complex helps: anyone who plays weak and grateful gets advantage once.",
+  "t": "**Hablar:** el «gambito del héroe» — decir que perseguían a los bandidos y que traen de vuelta la carga. Carisma (Engaño) DC **10 + 2 × Sospecha**. Ventaja si entregan a bandidos (vivos o muertos) o devuelven la mayor parte de la carga. El complejo de superioridad de los guardias de Forway ayuda: quien se haga el débil y agradecido tiene ventaja una vez."
+ },
+ "b2c7082fa3af": {
+  "en": "Red Winga hired out to the bandits — or the bandits are using her",
+  "t": "Red Winga se ha alquilado a los bandidos — o los bandidos la están usando"
+ },
+ "b6030ef37923": {
+  "en": "Punishment",
+  "t": "Castigo"
+ },
+ "b62097d72d2e": {
+  "en": "**Fail by 5 or more, the merchant testifies, or loot is found on them:** convicted.",
+  "t": "**Fallo por 5 o más, el mercader testifica o les encuentran el botín encima:** condenados."
+ },
+ "b8535b5240bd": {
+  "en": "**Tolerideme:** **starvation**, longer for worse crimes.",
+  "t": "**Tolerideme:** **hambre**, más larga cuanto peor el delito."
+ },
+ "b8c91f38ad20": {
+  "en": "**The shared world remembers.** Even if no one is convicted, merchants talk. After any Inside Job in the West March, the next Cargo Protection quests require a **bond** of 10% of the reward up front. The robbed merchant (if alive) becomes a recurring NPC with a grudge, and rumors start that \"adventurers on the Sanbi road are in on it.\"",
+  "t": "**El mundo compartido recuerda.** Aunque no condenen a nadie, los mercaderes hablan. Después de cualquier Trabajo Interno en la West March, las siguientes misiones de Protección de carga exigen una **fianza** del 10 % de la recompensa por adelantado. El mercader robado (si sigue vivo) se convierte en un PNJ recurrente con rencor, y empiezan los rumores de que «los aventureros del camino de Sanbi están compinchados»."
+ },
+ "c0fdea7d3003": {
+  "en": "Getting caught",
+  "t": "Que te pillen"
+ },
+ "c1d1ff30f1bf": {
+  "en": "**Payment:** roll a d6 — **1–4:** paid in balls at the hideout or a drop point · **5–6:** paid in goods from the cargo, which the party has to fence.",
+  "t": "**Pago:** tira un d6 — **1–4:** se paga en bolas en el escondite o en un punto de entrega · **5–6:** se paga con mercancía de la carga, que el grupo tendrá que colocar a un perista."
+ },
+ "c294c708ee51": {
+  "en": "Everyone wants it; the barrels are stamped (+1 Heat)",
+  "t": "Todo el mundo lo quiere; los barriles llevan sello (+1 de Sospecha)"
+ },
+ "c2a2cc84394d": {
+  "en": "Secretly **Fallen Tree**; hates adventurers who still serve Forway (−1 on the Deal roll)",
+  "t": "En secreto es de **Fallen Tree**; odia a los aventureros que siguen sirviendo a Forway (−1 a la tirada del Trato)"
+ },
+ "c3ca66b4353a": {
+  "en": "Tolerideme roads; the \"ambush\" will involve angry trees",
+  "t": "Caminos de Tolerideme; la «emboscada» incluirá árboles furiosos"
+ },
+ "c57f7121783c": {
+  "en": "**Forway roads and Forway cities:** Forway guards.",
+  "t": "**Caminos y ciudades de Forway:** guardias de Forway."
+ },
+ "c8024c549ade": {
+  "en": "Black honey",
+  "t": "Miel negra"
+ },
+ "ca11d142dba1": {
+  "en": "The Deal roll (DM rolls in secret when the party accepts)",
+  "t": "La tirada del Trato (el DM la tira en secreto cuando el grupo acepta)"
+ },
+ "cd7cb01f36fd": {
+  "en": "The party's choice",
+  "t": "La decisión del grupo"
+ },
+ "ce74a911da3b": {
+  "en": "The merchant was smuggling — he can't report the theft without confessing (−1 Heat)",
+  "t": "El mercader hacía contrabando — no puede denunciar el robo sin confesar (−1 de Sospecha)"
+ },
+ "ceca2145b0ca": {
+  "en": "**The cut:** roll a d6 — **1–2:** 20% · **3–4:** 30% · **5:** 40% · **6:** 50% of the cargo's value.",
+  "t": "**La parte:** tira un d6 — **1–2:** 20 % · **3–4:** 30 % · **5:** 40 % · **6:** 50 % del valor de la carga."
+ },
+ "cf68bd9aae8b": {
+  "en": "**Refuse.** The go-between shrugs and leaves. If the go-between was the inside man (d8 result 5), the bandits ambush anyway, knowing the party's watch schedule: they get a surprise round unless the watch beats a DC 15 Wisdom (Perception) check.",
+  "t": "**Negarse.** El intermediario se encoge de hombros y se va. Si el intermediario era el infiltrado (resultado 5 en el d8), los bandidos atacan igualmente, conociendo los turnos de guardia del grupo: tienen un asalto de sorpresa salvo que quien vigila supere una prueba de Sabiduría (Percepción) DC 15."
+ },
+ "d1d050ccb76a": {
+  "en": "An inside man. If the party refuses, he signals the bandits anyway (see Refuse)",
+  "t": "Un infiltrado. Si el grupo se niega, avisa a los bandidos igualmente (ver Negarse)"
+ },
+ "d3e6e2eb8ec5": {
+  "en": "When it happens",
+  "t": "Cuándo ocurre"
+ },
+ "d80bbaf3b9be": {
+  "en": "The raid",
+  "t": "El asalto"
  },
  "d83c96568b4d": {
   "en": "20–60 pearls",
   "t": "20–60 pearls"
  },
+ "d852cf0c189c": {
+  "en": "2d6 × 5 aquamarines",
+  "t": "2d6 × 5 aquamarines"
+ },
+ "d88de27fd686": {
+  "en": "**Refuse and report.** Tell the next embassy or guard patrol. If it leads to arrests, the party earns a bounty of **2d4 amethysts** (scale by rank) and **+1 Forway** reputation. The bandit faction loses 1 reputation with the party and may come for revenge later.",
+  "t": "**Negarse y denunciar.** Avisad a la siguiente embajada o patrulla de guardias. Si acaba en detenciones, el grupo gana una recompensa de **2d4 amethysts** (ajústala al rango) y **+1 con Forway**. La facción de bandidos pierde 1 de reputación con el grupo y puede venir a vengarse más adelante."
+ },
+ "e2dd492e223e": {
+  "en": "**Sweet deal.** It goes perfectly, and the bandits offer a standing arrangement: +1 reputation with them and more offers on future escorts.",
+  "t": "**Trato redondo.** Sale perfecto, y los bandidos ofrecen un acuerdo estable: +1 de reputación con ellos y más ofertas en futuras escoltas."
+ },
  "e4d3c29f8ecd": {
   "en": "Sapphire",
   "t": "Sapphire"
  },
+ "eaa60023a9aa": {
+  "en": "Sanbi dried fish and fish oil",
+  "t": "Pescado seco y aceite de pescado de Sanbi"
+ },
+ "eb7fa205f269": {
+  "en": "What's in the wagon (d8)",
+  "t": "Qué lleva el carro (d8)"
+ },
+ "ebf3cf324afc": {
+  "en": "**Crashed.** Mid-raid, someone else shows up: a rival gang, Bagarisa Brothers vigilantes, or a passing guard patrol. Three-way chaos.",
+  "t": "**Interrumpidos.** A mitad del asalto aparece alguien más: una banda rival, los justicieros de los Bagarisa Brothers o una patrulla de guardias de paso. Caos a tres bandas."
+ },
+ "ecd5b4e71b14": {
+  "en": "The go-between (d8)",
+  "t": "El intermediario (d8)"
+ },
  "edb8957aad32": {
   "en": "Aquamarine",
   "t": "Aquamarine"
+ },
+ "eded170571e6": {
+  "en": "Terrible at secrets: start with +1 Heat (−1 on the Deal roll)",
+  "t": "Pésimo guardando secretos: empezáis con +1 de Sospecha (−1 a la tirada del Trato)"
+ },
+ "f0ec13e0fa30": {
+  "en": "**Gandew:** a duel against the merchant's champion.",
+  "t": "**Gandew:** un duelo contra el campeón del mercader."
+ },
+ "f0ffdf296aec": {
+  "en": "**Fake balls.** The cut is paid in counterfeit balls. A DC 13 Intelligence (Investigation) check spots it — before or after the bandits are gone.",
+  "t": "**Bolas falsas.** La parte se paga en bolas falsificadas. Una prueba de Inteligencia (Investigación) DC 13 lo descubre — antes o después de que los bandidos se hayan ido."
+ },
+ "f390455b49dd": {
+  "en": "**Reputation:** +1 with the bandit faction; standing offers on future escorts.",
+  "t": "**Reputación:** +1 con la facción de bandidos; ofertas estables en futuras escoltas."
+ },
+ "f9935da6d074": {
+  "en": "Knows the party's route and the wagon's contents",
+  "t": "Conoce la ruta del grupo y lo que lleva el carro"
+ },
+ "fc0f042a7cad": {
+  "en": "**Ganyrami:** nobody comes. Halve the Heat while the party is there.",
+  "t": "**Ganyrami:** no viene nadie. La Sospecha se reduce a la mitad mientras el grupo esté allí."
+ },
+ "fd59bb133423": {
+  "en": "Under Forway Law, robbing contracted cargo is harm without consent and a **forced breach of contract**: a **Major** crime when the value is high (anything near a Sapphire's worth), **Minor** otherwise, and **Grand** if Forway property was involved. Typical sentences:",
+  "t": "Según la Ley de Forway, robar una carga contratada es un daño sin consentimiento y un **incumplimiento forzado de contrato**: un delito **Grave** cuando el valor es alto (cualquier cosa cercana al valor de un Sapphire), **Menor** en otro caso, y **Máximo** si había propiedad de Forway de por medio. Penas típicas:"
  }
 }

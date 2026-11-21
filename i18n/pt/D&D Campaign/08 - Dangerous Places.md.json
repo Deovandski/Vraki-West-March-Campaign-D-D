@@ -1,4 +1,8 @@
 {
+ "06ddf6b41785": {
+  "en": "Slow pace; Crocus invisible in still water (DC 14 Perception).",
+  "t": "Ritmo Lento; os Crocuses ficam invisíveis em água parada (Percepção DC 14)."
+ },
  "06e50bc6a491": {
   "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
   "t": "**Medidor de humor (1–6).** No início de cada dia no mundo, role um d6: num 1 o humor cai 1; num 6 sobe 1. Grupos lutando lá dentro o aumentam em 1 a cada dia que passam ali."
@@ -6,6 +10,14 @@
  "0c814187591b": {
   "en": "Nari Caverns (under Blood)",
   "t": "Cavernas de Nari (sob Blood)"
+ },
+ "0e679727a196": {
+  "en": "Everyone follows **the Triangle Way**: bathroom breaks at the same time (a gong tells you when), triangle-cut clothes, no pets. Non-humans wear a triangle amulet.",
+  "t": "Todo mundo segue **o Caminho do Triângulo**: ir ao banheiro ao mesmo tempo (um gongo avisa quando), roupas de corte triangular, nada de bichos de estimação. Não humanos usam um amuleto triangular."
+ },
+ "106a89dbe6ef": {
+  "en": "Altitude ~9 km: −20 °C or colder. Without cold-weather gear, DC 13 Con save each hour or 1 exhaustion. Winga Skin and Wooly Skin gels help a lot.",
+  "t": "Altitude ~9 km: −20 °C ou mais frio. Sem roupa de frio, teste de resistência de Con DC 13 a cada hora ou 1 nível de exaustão. Os géis Winga Skin e Wooly Skin ajudam muito."
  },
  "181199f11e9e": {
   "en": "Special rules for the places that make West March parties famous — or dead.",
@@ -22,6 +34,10 @@
  "2bf600bc5be8": {
   "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
   "t": "Os túneis entre Gandew e Sundeath estão cheios de feras — vá por terra."
+ },
+ "2ef1c1e4505b": {
+  "en": "No guards, no badges, no reports. Contracts are enforced by whoever's bigger.",
+  "t": "Sem guardas, sem distintivos, sem relatórios. Os contratos são cumpridos pela força de quem for maior."
  },
  "2fd7b6d12e33": {
   "en": "Rooms rearrange; a Walking Flathead wakes",
@@ -83,6 +99,10 @@
   "en": "The Desert (Gandew, Flatland, Sundeath)",
   "t": "O deserto (Gandew, Flatland, Sundeath)"
  },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "Fuhrair"
+ },
  "725383d9892b": {
   "en": "Outside",
   "t": "Fora"
@@ -111,6 +131,10 @@
   "en": "Undead idle; doors open; a **new room** appears 1-in-6",
   "t": "Mortos-vivos parados; portas abertas; uma **sala nova** surge com 1 em 6"
  },
+ "91b1ebc0a616": {
+  "en": "**Cruros barter** — they aren't citizens, so it's legal. Bring Wooly jerky.",
+  "t": "**Os cruros fazem escambo** — eles não são cidadãos, então é legal. Leve charque de Wooly."
+ },
  "95994003efcf": {
   "en": "Bahyum Castle — the Castle Mood",
   "t": "Castelo de Bahyum — o Humor do Castelo"
@@ -118,6 +142,34 @@
  "9691b2d01805": {
   "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
   "t": "Dois Flatheads; névoa que drena a alma (1 SP por hora)"
+ },
+ "976c9f90c7b2": {
+  "en": "Sweetlake Nest",
+  "t": "O ninho de Sweetlake"
+ },
+ "9cec11d2ea5a": {
+  "en": "**Harming a Nari Worm or its eggs** is a crime punishable by exile to Hifuna. The Nari Extraction Coordination Office in Blood investigates every death.",
+  "t": "**Ferir um Nari Worm ou seus ovos** é crime punido com exílio em Hifuna. O Escritório de Coordenação da Extração de Nari, em Blood, investiga cada morte."
+ },
+ "b1ec4d793ba7": {
+  "en": "Without a Sweet Sting costume (Blood and Sweetlake tailors, 2 amethysts), every hour near the nest: 1d4 Sweet Sting workers attack.",
+  "t": "Sem uma fantasia de Sweet Sting (alfaiates de Blood e Sweetlake, 2 amethysts), a cada hora perto do ninho: 1d4 operárias de Sweet Sting atacam."
+ },
+ "b4e2f36df065": {
+  "en": "Tribe leaders challenge strangers who stare too long. Losing badly can mean an unwanted \"marriage\" to a leader's daughter.",
+  "t": "Os chefes de tribo desafiam forasteiros que encaram demais. Perder feio pode significar um «casamento» indesejado com a filha de um chefe."
+ },
+ "ba73a6a94526": {
+  "en": "With one: DC 12 Charisma (Performance) every hour to keep acting like a bee.",
+  "t": "Com uma: Carisma (Atuação) DC 12 a cada hora para continuar agindo como abelha."
+ },
+ "c20f38f31823": {
+  "en": "The **Deep Hole Chamber** is rumored to hold the Queen Nari Worm and raw nari deposits.",
+  "t": "Dizem que a **Câmara do Buraco Fundo** guarda a Rainha Nari Worm e depósitos de nari bruto."
+ },
+ "c4173d64faca": {
+  "en": "Triangle City",
+  "t": "Triangle"
  },
  "c699d767b83d": {
   "en": "Stragglers on the plains",
@@ -147,9 +199,21 @@
   "en": "Patrols of Walking Skin",
   "t": "Patrulhas de Walking Skin"
  },
+ "d684c84bb98f": {
+  "en": "Doorless snow houses connect by tunnels. Old Fuhraies traps. Hidden Forway science stations. Something kept prisoner in the dark (see DM Secrets).",
+  "t": "Casas de neve sem portas ligadas por túneis. Velhas armadilhas fuhraies. Estações científicas de Forway escondidas. Algo mantido prisioneiro no escuro (veja Segredos do Mestre)."
+ },
  "dda58424b5c0": {
   "en": "Mood",
   "t": "Humor"
+ },
+ "de62bdca84fc": {
+  "en": "Break the Way publicly: the Triangle Lovers escort you out — or somewhere worse.",
+  "t": "Quebre o Caminho em público: os Triangle Lovers escoltam você para fora — ou para algum lugar pior."
+ },
+ "e4f5e8b2ce0c": {
+  "en": "Ganyrami Ruins",
+  "t": "Ruínas de Ganyrami"
  },
  "e7daf0606071": {
   "en": "Inside the castle",
@@ -162,6 +226,10 @@
  "e92163beb8b7": {
   "en": "Embassy posts an Aquamarine quest",
   "t": "A embaixada publica uma missão Aquamarine"
+ },
+ "ea35a827a767": {
+  "en": "Asking about anyone's past: DC 15 Persuasion or the conversation (and maybe the welcome) ends.",
+  "t": "Perguntar sobre o passado de alguém: Persuasão DC 15 ou a conversa (e talvez a hospitalidade) acaba."
  },
  "ea6fe908f718": {
   "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
@@ -186,5 +254,9 @@
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "Furioso"
+ },
+ "fe69f763ecb7": {
+  "en": "Swamps (Cruro lands, Sanbi–Tastyleaf)",
+  "t": "Pântanos (terras cruros, entre Sanbi e Tastyleaf)"
  }
 }

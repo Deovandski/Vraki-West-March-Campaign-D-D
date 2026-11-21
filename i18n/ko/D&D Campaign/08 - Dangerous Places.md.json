@@ -1,4 +1,8 @@
 {
+ "06ddf6b41785": {
+  "en": "Slow pace; Crocus invisible in still water (DC 14 Perception).",
+  "t": "느림 속도. 크로커스는 고인 물에서 보이지 않는다(DC 14 감지)."
+ },
  "06e50bc6a491": {
   "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
   "t": "**기분 단계(1–6).** 세계 속 하루가 시작될 때마다 d6을 굴린다: 1이면 기분이 1 내려가고, 6이면 1 오른다. 성 안에서 싸우는 일행이 있으면 그곳에서 보낸 하루마다 1 오른다."
@@ -6,6 +10,14 @@
  "0c814187591b": {
   "en": "Nari Caverns (under Blood)",
   "t": "나리 동굴(블러드 아래)"
+ },
+ "0e679727a196": {
+  "en": "Everyone follows **the Triangle Way**: bathroom breaks at the same time (a gong tells you when), triangle-cut clothes, no pets. Non-humans wear a triangle amulet.",
+  "t": "모두가 **트라이앵글의 길**을 따른다: 화장실은 다 같이(징이 언제인지 알려 준다), 삼각형으로 재단한 옷, 애완동물 금지. 인간이 아닌 자는 삼각형 부적을 단다."
+ },
+ "106a89dbe6ef": {
+  "en": "Altitude ~9 km: −20 °C or colder. Without cold-weather gear, DC 13 Con save each hour or 1 exhaustion. Winga Skin and Wooly Skin gels help a lot.",
+  "t": "고도 ~9 km: −20 °C 이하. 방한 장비가 없으면 매시간 DC 13 건강 내성에 실패할 때 탈진 1. 윙가 스킨과 울리 스킨 젤이 큰 도움이 된다."
  },
  "181199f11e9e": {
   "en": "Special rules for the places that make West March parties famous — or dead.",
@@ -22,6 +34,10 @@
  "2bf600bc5be8": {
   "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
   "t": "간듀와 선데스 사이의 터널은 마수로 가득하다 — 땅 위로 가라."
+ },
+ "2ef1c1e4505b": {
+  "en": "No guards, no badges, no reports. Contracts are enforced by whoever's bigger.",
+  "t": "경비병도, 신분패도, 보고도 없다. 계약은 덩치 큰 쪽이 집행한다."
  },
  "2fd7b6d12e33": {
   "en": "Rooms rearrange; a Walking Flathead wakes",
@@ -83,6 +99,10 @@
   "en": "The Desert (Gandew, Flatland, Sundeath)",
   "t": "사막(간듀, 플랫랜드, 선데스)"
  },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "푸레어"
+ },
  "725383d9892b": {
   "en": "Outside",
   "t": "성 밖"
@@ -111,6 +131,10 @@
   "en": "Undead idle; doors open; a **new room** appears 1-in-6",
   "t": "언데드는 가만히 있다. 문이 열려 있다. 6분의 1로 **새 방**이 나타난다"
  },
+ "91b1ebc0a616": {
+  "en": "**Cruros barter** — they aren't citizens, so it's legal. Bring Wooly jerky.",
+  "t": "**크루로는 물물교환을 한다** — 시민이 아니므로 합법이다. 울리 육포를 챙겨라."
+ },
  "95994003efcf": {
   "en": "Bahyum Castle — the Castle Mood",
   "t": "바혐 성 — 성의 기분"
@@ -118,6 +142,34 @@
  "9691b2d01805": {
   "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
   "t": "플랫헤드 둘. 영혼을 빨아들이는 안개(시간당 1 SP)"
+ },
+ "976c9f90c7b2": {
+  "en": "Sweetlake Nest",
+  "t": "스위트레이크 둥지"
+ },
+ "9cec11d2ea5a": {
+  "en": "**Harming a Nari Worm or its eggs** is a crime punishable by exile to Hifuna. The Nari Extraction Coordination Office in Blood investigates every death.",
+  "t": "**나리 웜이나 그 알을 해치는 것**은 히푸나 유배로 처벌받는 범죄다. 블러드의 나리 채취 조정국이 모든 죽음을 조사한다."
+ },
+ "b1ec4d793ba7": {
+  "en": "Without a Sweet Sting costume (Blood and Sweetlake tailors, 2 amethysts), every hour near the nest: 1d4 Sweet Sting workers attack.",
+  "t": "스위트 스팅 분장(블러드와 스위트레이크 재단사, 2 애머시스트)이 없으면, 둥지 근처에서 매시간 스위트 스팅 일벌 1d4마리가 공격한다."
+ },
+ "b4e2f36df065": {
+  "en": "Tribe leaders challenge strangers who stare too long. Losing badly can mean an unwanted \"marriage\" to a leader's daughter.",
+  "t": "부족장은 너무 오래 쳐다보는 외지인에게 도전한다. 크게 지면 족장 딸과 원치 않는 ‘결혼’을 하게 될 수도 있다."
+ },
+ "ba73a6a94526": {
+  "en": "With one: DC 12 Charisma (Performance) every hour to keep acting like a bee.",
+  "t": "분장이 있으면: 벌처럼 행동하기 위해 매시간 DC 12 매력(공연) 판정."
+ },
+ "c20f38f31823": {
+  "en": "The **Deep Hole Chamber** is rumored to hold the Queen Nari Worm and raw nari deposits.",
+  "t": "**깊은 구멍의 방**에는 여왕 나리 웜과 날것의 나리 매장층이 있다는 소문이 있다."
+ },
+ "c4173d64faca": {
+  "en": "Triangle City",
+  "t": "트라이앵글 시"
  },
  "c699d767b83d": {
   "en": "Stragglers on the plains",
@@ -147,9 +199,21 @@
   "en": "Patrols of Walking Skin",
   "t": "워킹 스킨 순찰"
  },
+ "d684c84bb98f": {
+  "en": "Doorless snow houses connect by tunnels. Old Fuhraies traps. Hidden Forway science stations. Something kept prisoner in the dark (see DM Secrets).",
+  "t": "문 없는 눈집들이 터널로 이어져 있다. 오래된 푸라이에스 함정. 숨겨진 포웨이 과학 기지. 어둠 속에 갇혀 있는 무언가(‘DM의 비밀’ 참고)."
+ },
  "dda58424b5c0": {
   "en": "Mood",
   "t": "기분"
+ },
+ "de62bdca84fc": {
+  "en": "Break the Way publicly: the Triangle Lovers escort you out — or somewhere worse.",
+  "t": "사람들 앞에서 길을 어기면: 트라이앵글 러버스가 당신을 밖으로 — 아니면 더 나쁜 곳으로 — 호송한다."
+ },
+ "e4f5e8b2ce0c": {
+  "en": "Ganyrami Ruins",
+  "t": "가니라미 폐허"
  },
  "e7daf0606071": {
   "en": "Inside the castle",
@@ -162,6 +226,10 @@
  "e92163beb8b7": {
   "en": "Embassy posts an Aquamarine quest",
   "t": "대사관이 아쿠아마린 의뢰를 올린다"
+ },
+ "ea35a827a767": {
+  "en": "Asking about anyone's past: DC 15 Persuasion or the conversation (and maybe the welcome) ends.",
+  "t": "누군가의 과거를 묻는다: DC 15 설득에 실패하면 대화가(그리고 어쩌면 환대도) 끝난다."
  },
  "ea6fe908f718": {
   "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
@@ -186,5 +254,9 @@
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "격노"
+ },
+ "fe69f763ecb7": {
+  "en": "Swamps (Cruro lands, Sanbi–Tastyleaf)",
+  "t": "늪(크루로 땅, 산비–테이스티리프)"
  }
 }

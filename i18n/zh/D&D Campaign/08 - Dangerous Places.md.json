@@ -1,4 +1,8 @@
 {
+ "06ddf6b41785": {
+  "en": "Slow pace; Crocus invisible in still water (DC 14 Perception).",
+  "t": "慢速；克罗卡斯在静水中隐形（DC 14察觉）。"
+ },
  "06e50bc6a491": {
   "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
   "t": "**心情等级（1–6）。** 每个游戏内日的开始时掷一个d6：掷出1心情降1；掷出6升1。在城里战斗的队伍每在那里待一天，心情升1。"
@@ -6,6 +10,14 @@
  "0c814187591b": {
   "en": "Nari Caverns (under Blood)",
   "t": "纳里洞窟（布拉德地下）"
+ },
+ "0e679727a196": {
+  "en": "Everyone follows **the Triangle Way**: bathroom breaks at the same time (a gong tells you when), triangle-cut clothes, no pets. Non-humans wear a triangle amulet.",
+  "t": "每个人都遵循**三角之道**：同时上厕所（有锣声提醒）、三角形剪裁的衣服、不准养宠物。非人类要戴三角护身符。"
+ },
+ "106a89dbe6ef": {
+  "en": "Altitude ~9 km: −20 °C or colder. Without cold-weather gear, DC 13 Con save each hour or 1 exhaustion. Winga Skin and Wooly Skin gels help a lot.",
+  "t": "海拔约9公里：−20 °C或更冷。没有防寒装备的话，每小时进行一次DC 13体质豁免，失败则1级力竭。温加斯金和伍利斯金凝胶很有帮助。"
  },
  "181199f11e9e": {
   "en": "Special rules for the places that make West March parties famous — or dead.",
@@ -22,6 +34,10 @@
  "2bf600bc5be8": {
   "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
   "t": "甘杜和桑德斯之间的隧道里满是魔兽——走地面。"
+ },
+ "2ef1c1e4505b": {
+  "en": "No guards, no badges, no reports. Contracts are enforced by whoever's bigger.",
+  "t": "没有卫兵，没有身份牌，没有报告。谁块头大，谁就来执行合同。"
  },
  "2fd7b6d12e33": {
   "en": "Rooms rearrange; a Walking Flathead wakes",
@@ -83,6 +99,10 @@
   "en": "The Desert (Gandew, Flatland, Sundeath)",
   "t": "沙漠（甘杜、弗拉特兰、桑德斯）"
  },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "弗莱尔"
+ },
  "725383d9892b": {
   "en": "Outside",
   "t": "城堡外"
@@ -111,6 +131,10 @@
   "en": "Undead idle; doors open; a **new room** appears 1-in-6",
   "t": "亡灵闲置；门开着；有六分之一概率出现一个**新房间**"
  },
+ "91b1ebc0a616": {
+  "en": "**Cruros barter** — they aren't citizens, so it's legal. Bring Wooly jerky.",
+  "t": "**克鲁罗以物易物**——他们不是公民，所以这是合法的。带上伍利肉干。"
+ },
  "95994003efcf": {
   "en": "Bahyum Castle — the Castle Mood",
   "t": "巴休姆城堡——城堡心情"
@@ -118,6 +142,34 @@
  "9691b2d01805": {
   "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
   "t": "两个弗拉特黑德；汲取灵魂的雾（每小时1 SP）"
+ },
+ "976c9f90c7b2": {
+  "en": "Sweetlake Nest",
+  "t": "斯威特莱克蜂巢"
+ },
+ "9cec11d2ea5a": {
+  "en": "**Harming a Nari Worm or its eggs** is a crime punishable by exile to Hifuna. The Nari Extraction Coordination Office in Blood investigates every death.",
+  "t": "**伤害纳里沃姆或它们的蛋**是犯罪，会被流放到希富纳。布拉德的纳里开采协调办公室会调查每一起死亡。"
+ },
+ "b1ec4d793ba7": {
+  "en": "Without a Sweet Sting costume (Blood and Sweetlake tailors, 2 amethysts), every hour near the nest: 1d4 Sweet Sting workers attack.",
+  "t": "如果没有斯威特斯廷服装（布拉德和斯威特莱克的裁缝，2阿米西斯特），在蜂巢附近每过一小时：1d4只斯威特斯廷工蜂会发动攻击。"
+ },
+ "b4e2f36df065": {
+  "en": "Tribe leaders challenge strangers who stare too long. Losing badly can mean an unwanted \"marriage\" to a leader's daughter.",
+  "t": "部落首领会向盯着看太久的陌生人发起挑战。输得太惨，可能会被迫和首领的女儿“结婚”。"
+ },
+ "ba73a6a94526": {
+  "en": "With one: DC 12 Charisma (Performance) every hour to keep acting like a bee.",
+  "t": "穿着服装的话：每小时进行一次DC 12的魅力（表演）检定，继续装成一只蜜蜂。"
+ },
+ "c20f38f31823": {
+  "en": "The **Deep Hole Chamber** is rumored to hold the Queen Nari Worm and raw nari deposits.",
+  "t": "传说**深洞之室**里有纳里沃姆女王和未加工的纳里矿床。"
+ },
+ "c4173d64faca": {
+  "en": "Triangle City",
+  "t": "特赖安格尔城"
  },
  "c699d767b83d": {
   "en": "Stragglers on the plains",
@@ -147,9 +199,21 @@
   "en": "Patrols of Walking Skin",
   "t": "沃金·斯金的巡逻"
  },
+ "d684c84bb98f": {
+  "en": "Doorless snow houses connect by tunnels. Old Fuhraies traps. Hidden Forway science stations. Something kept prisoner in the dark (see DM Secrets).",
+  "t": "没有门的雪屋由隧道相连。古老的弗莱斯陷阱。隐藏的福威科学站。有什么东西被囚禁在黑暗里（见“DM秘密”）。"
+ },
  "dda58424b5c0": {
   "en": "Mood",
   "t": "心情"
+ },
+ "de62bdca84fc": {
+  "en": "Break the Way publicly: the Triangle Lovers escort you out — or somewhere worse.",
+  "t": "当众违反三角之道：特赖安格尔洛弗斯会把你护送出去——或者送到更糟的地方。"
+ },
+ "e4f5e8b2ce0c": {
+  "en": "Ganyrami Ruins",
+  "t": "加尼拉米遗迹"
  },
  "e7daf0606071": {
   "en": "Inside the castle",
@@ -162,6 +226,10 @@
  "e92163beb8b7": {
   "en": "Embassy posts an Aquamarine quest",
   "t": "大使馆发布一个阿夸马林级委托"
+ },
+ "ea35a827a767": {
+  "en": "Asking about anyone's past: DC 15 Persuasion or the conversation (and maybe the welcome) ends.",
+  "t": "打听任何人的过去：DC 15游说，失败则谈话（也许还有欢迎）就此结束。"
  },
  "ea6fe908f718": {
   "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
@@ -186,5 +254,9 @@
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "暴怒"
+ },
+ "fe69f763ecb7": {
+  "en": "Swamps (Cruro lands, Sanbi–Tastyleaf)",
+  "t": "沼泽（克鲁罗领地、桑比—泰斯蒂利夫之间）"
  }
 }

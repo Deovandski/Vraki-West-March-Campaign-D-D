@@ -1,4 +1,8 @@
 {
+ "06ddf6b41785": {
+  "en": "Slow pace; Crocus invisible in still water (DC 14 Perception).",
+  "t": "遅いペース。静かな水の中ではクロッカスは見えない（DC 14の〈知覚〉）。"
+ },
  "06e50bc6a491": {
   "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
   "t": "**機嫌の段階（1–6）。** 作中の毎日のはじめにd6を振る：1なら機嫌が1下がり、6なら1上がる。城の中で戦う一行がいると、そこで過ごした日ごとに1上がる。"
@@ -6,6 +10,14 @@
  "0c814187591b": {
   "en": "Nari Caverns (under Blood)",
   "t": "ナリ・カヴァーンズ（ブラッドの地下）"
+ },
+ "0e679727a196": {
+  "en": "Everyone follows **the Triangle Way**: bathroom breaks at the same time (a gong tells you when), triangle-cut clothes, no pets. Non-humans wear a triangle amulet.",
+  "t": "誰もが**トライアングルの道**に従う：トイレは全員同時（どらが合図する）、三角に裁った服、ペット禁止。人間以外は三角のお守りを身につける。"
+ },
+ "106a89dbe6ef": {
+  "en": "Altitude ~9 km: −20 °C or colder. Without cold-weather gear, DC 13 Con save each hour or 1 exhaustion. Winga Skin and Wooly Skin gels help a lot.",
+  "t": "標高~9 km：−20 °C以下。防寒具がなければ、1時間ごとにDC 13の【耐久力】セーヴに失敗すると消耗1。ウィンガ・スキンとウーリー・スキンのジェルが大いに役立つ。"
  },
  "181199f11e9e": {
   "en": "Special rules for the places that make West March parties famous — or dead.",
@@ -22,6 +34,10 @@
  "2bf600bc5be8": {
   "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
   "t": "ガンデューとサンデスのあいだのトンネルは魔獣だらけだ — 地上を行くこと。"
+ },
+ "2ef1c1e4505b": {
+  "en": "No guards, no badges, no reports. Contracts are enforced by whoever's bigger.",
+  "t": "衛兵なし、身分証なし、報告なし。契約を守らせるのは体の大きいほうだ。"
  },
  "2fd7b6d12e33": {
   "en": "Rooms rearrange; a Walking Flathead wakes",
@@ -83,6 +99,10 @@
   "en": "The Desert (Gandew, Flatland, Sundeath)",
   "t": "砂漠（ガンデュー、フラットランド、サンデス）"
  },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "フライア"
+ },
  "725383d9892b": {
   "en": "Outside",
   "t": "城の外"
@@ -111,6 +131,10 @@
   "en": "Undead idle; doors open; a **new room** appears 1-in-6",
   "t": "アンデッドはじっとしている。扉は開いている。6分の1で**新しい部屋**が現れる"
  },
+ "91b1ebc0a616": {
+  "en": "**Cruros barter** — they aren't citizens, so it's legal. Bring Wooly jerky.",
+  "t": "**クルロは物々交換をする** — 市民ではないので合法だ。ウーリーの干し肉を持って行こう。"
+ },
  "95994003efcf": {
   "en": "Bahyum Castle — the Castle Mood",
   "t": "バヒュム城 — 城の機嫌"
@@ -118,6 +142,34 @@
  "9691b2d01805": {
   "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
   "t": "フラットヘッドが2体。魂を吸う霧（1時間に1 SP）"
+ },
+ "976c9f90c7b2": {
+  "en": "Sweetlake Nest",
+  "t": "スイートレイクの巣"
+ },
+ "9cec11d2ea5a": {
+  "en": "**Harming a Nari Worm or its eggs** is a crime punishable by exile to Hifuna. The Nari Extraction Coordination Office in Blood investigates every death.",
+  "t": "**ナリワームやその卵を傷つける**ことは、ヒフナへの追放で罰せられる犯罪だ。ブラッドのナリ採掘調整局がすべての死を調べる。"
+ },
+ "b1ec4d793ba7": {
+  "en": "Without a Sweet Sting costume (Blood and Sweetlake tailors, 2 amethysts), every hour near the nest: 1d4 Sweet Sting workers attack.",
+  "t": "スイートスティングの仮装（ブラッドとスイートレイクの仕立屋で2アメジスト）がなければ、巣の近くでは1時間ごとに1d4匹のスイートスティングの働き蜂が襲ってくる。"
+ },
+ "b4e2f36df065": {
+  "en": "Tribe leaders challenge strangers who stare too long. Losing badly can mean an unwanted \"marriage\" to a leader's daughter.",
+  "t": "部族の長は、じろじろ見すぎるよそ者に勝負を挑む。ひどい負け方をすると、長の娘との望まぬ「結婚」が待っているかもしれない。"
+ },
+ "ba73a6a94526": {
+  "en": "With one: DC 12 Charisma (Performance) every hour to keep acting like a bee.",
+  "t": "仮装していれば：蜂らしくふるまい続けるため、1時間ごとにDC 12の【魅力】〈芸能〉判定。"
+ },
+ "c20f38f31823": {
+  "en": "The **Deep Hole Chamber** is rumored to hold the Queen Nari Worm and raw nari deposits.",
+  "t": "**ディープホールの間**には女王ナリワームと、ナリの原石の鉱床があるという噂だ。"
+ },
+ "c4173d64faca": {
+  "en": "Triangle City",
+  "t": "トライアングルの街"
  },
  "c699d767b83d": {
   "en": "Stragglers on the plains",
@@ -147,9 +199,21 @@
   "en": "Patrols of Walking Skin",
   "t": "ウォーキング・スキンの巡回"
  },
+ "d684c84bb98f": {
+  "en": "Doorless snow houses connect by tunnels. Old Fuhraies traps. Hidden Forway science stations. Something kept prisoner in the dark (see DM Secrets).",
+  "t": "扉のない雪の家々がトンネルでつながっている。古いフライエスの罠。隠されたフォーウェイの科学観測所。暗闇に閉じ込められた何か（「DMの秘密」を参照）。"
+ },
  "dda58424b5c0": {
   "en": "Mood",
   "t": "機嫌"
+ },
+ "de62bdca84fc": {
+  "en": "Break the Way publicly: the Triangle Lovers escort you out — or somewhere worse.",
+  "t": "人前で道を破ると：トライアングル・ラヴァーズに街の外へ — あるいはもっと悪い場所へ — 連れて行かれる。"
+ },
+ "e4f5e8b2ce0c": {
+  "en": "Ganyrami Ruins",
+  "t": "ガニラミの遺跡"
  },
  "e7daf0606071": {
   "en": "Inside the castle",
@@ -162,6 +226,10 @@
  "e92163beb8b7": {
   "en": "Embassy posts an Aquamarine quest",
   "t": "大使館がアクアマリンの依頼を出す"
+ },
+ "ea35a827a767": {
+  "en": "Asking about anyone's past: DC 15 Persuasion or the conversation (and maybe the welcome) ends.",
+  "t": "誰かの過去について尋ねる：DC 15の〈説得〉に失敗すると会話は（そしてたぶん歓迎も）終わる。"
  },
  "ea6fe908f718": {
   "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
@@ -186,5 +254,9 @@
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "激怒"
+ },
+ "fe69f763ecb7": {
+  "en": "Swamps (Cruro lands, Sanbi–Tastyleaf)",
+  "t": "沼地（クルロの土地、サンビ～テイスティリーフ）"
  }
 }

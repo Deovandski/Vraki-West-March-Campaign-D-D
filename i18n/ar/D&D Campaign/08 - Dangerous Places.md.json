@@ -1,4 +1,8 @@
 {
+ "06ddf6b41785": {
+  "en": "Slow pace; Crocus invisible in still water (DC 14 Perception).",
+  "t": "إيقاع بطيء؛ والكروكوس خفي في الماء الراكد (إدراك DC 14)."
+ },
  "06e50bc6a491": {
   "en": "**Mood track (1–6).** At the start of each in-world day, roll a d6: on a 1 the mood drops by 1; on a 6 it rises by 1. Parties fighting inside raise it by 1 each day they spend there.",
   "t": "**مؤشر المزاج (1–6).** في بداية كل يوم من أيام العالم، ارمِ d6: عند 1 ينخفض المزاج 1؛ وعند 6 يرتفع 1. والفرق التي تقاتل في الداخل ترفعه 1 عن كل يوم تقضيه هناك."
@@ -6,6 +10,14 @@
  "0c814187591b": {
   "en": "Nari Caverns (under Blood)",
   "t": "كهوف ناري (تحت بلاد)"
+ },
+ "0e679727a196": {
+  "en": "Everyone follows **the Triangle Way**: bathroom breaks at the same time (a gong tells you when), triangle-cut clothes, no pets. Non-humans wear a triangle amulet.",
+  "t": "يتبع الجميع **طريق المثلث**: دخول الحمّام في الوقت نفسه (يُعلن الصنج الموعد)، وملابس بقصّة مثلثة، ولا حيوانات أليفة. ويلبس غير البشر تميمة مثلثة."
+ },
+ "106a89dbe6ef": {
+  "en": "Altitude ~9 km: −20 °C or colder. Without cold-weather gear, DC 13 Con save each hour or 1 exhaustion. Winga Skin and Wooly Skin gels help a lot.",
+  "t": "ارتفاع ~9 كم: −20 °C أو أبرد. من دون عتاد للبرد، رمية إنقاذ بنية DC 13 كل ساعة وإلا مستوى إنهاك واحد. وجل وينغا سكين ووولي سكين يساعدان كثيرًا."
  },
  "181199f11e9e": {
   "en": "Special rules for the places that make West March parties famous — or dead.",
@@ -22,6 +34,10 @@
  "2bf600bc5be8": {
   "en": "Tunnels between Gandew and Sundeath are full of beasts — go overland.",
   "t": "الأنفاق بين غانديو وصنديث مليئة بالوحوش — سافروا برًا."
+ },
+ "2ef1c1e4505b": {
+  "en": "No guards, no badges, no reports. Contracts are enforced by whoever's bigger.",
+  "t": "لا حراس، ولا بطاقات، ولا تقارير. ويفرض العقودَ الأضخمُ جثة."
  },
  "2fd7b6d12e33": {
   "en": "Rooms rearrange; a Walking Flathead wakes",
@@ -83,6 +99,10 @@
   "en": "The Desert (Gandew, Flatland, Sundeath)",
   "t": "الصحراء (غانديو، فلاتلاند، صنديث)"
  },
+ "71c706a2454c": {
+  "en": "Fuhrair",
+  "t": "فورير"
+ },
  "725383d9892b": {
   "en": "Outside",
   "t": "في الخارج"
@@ -111,6 +131,10 @@
   "en": "Undead idle; doors open; a **new room** appears 1-in-6",
   "t": "الموتى الأحياء خاملون؛ الأبواب مفتوحة؛ تظهر **غرفة جديدة** باحتمال 1 من 6"
  },
+ "91b1ebc0a616": {
+  "en": "**Cruros barter** — they aren't citizens, so it's legal. Bring Wooly jerky.",
+  "t": "**الكرورو يقايضون** — ليسوا مواطنين، فالمقايضة قانونية. أحضِر لحم الوولي المجفف."
+ },
  "95994003efcf": {
   "en": "Bahyum Castle — the Castle Mood",
   "t": "قلعة باهيوم — مزاج القلعة"
@@ -118,6 +142,34 @@
  "9691b2d01805": {
   "en": "Two Flatheads; soul-drain fog (1 SP per hour)",
   "t": "اثنان من الفلاتهيد؛ ضباب يستنزف الروح (1 SP في الساعة)"
+ },
+ "976c9f90c7b2": {
+  "en": "Sweetlake Nest",
+  "t": "عش سويت ليك"
+ },
+ "9cec11d2ea5a": {
+  "en": "**Harming a Nari Worm or its eggs** is a crime punishable by exile to Hifuna. The Nari Extraction Coordination Office in Blood investigates every death.",
+  "t": "**إيذاء ناري وورم أو بيضه** جريمة عقوبتها النفي إلى هيفونا. ويحقق مكتب تنسيق استخراج الناري في بلاد في كل حالة موت."
+ },
+ "b1ec4d793ba7": {
+  "en": "Without a Sweet Sting costume (Blood and Sweetlake tailors, 2 amethysts), every hour near the nest: 1d4 Sweet Sting workers attack.",
+  "t": "من دون زيّ سويت ستينغ (خيّاطو بلاد وسويت ليك، 2 أميثيست)، كل ساعة قرب العش: تهاجم 1d4 من عاملات سويت ستينغ."
+ },
+ "b4e2f36df065": {
+  "en": "Tribe leaders challenge strangers who stare too long. Losing badly can mean an unwanted \"marriage\" to a leader's daughter.",
+  "t": "يتحدى زعماء القبائل الغرباء الذين يحدّقون طويلًا. والخسارة الفادحة قد تعني «زواجًا» غير مرغوب فيه من ابنة زعيم."
+ },
+ "ba73a6a94526": {
+  "en": "With one: DC 12 Charisma (Performance) every hour to keep acting like a bee.",
+  "t": "ومع الزي: كاريزما (الأداء) DC 12 كل ساعة لتستمر في التصرف كنحلة."
+ },
+ "c20f38f31823": {
+  "en": "The **Deep Hole Chamber** is rumored to hold the Queen Nari Worm and raw nari deposits.",
+  "t": "ويُشاع أن **حجرة الحفرة العميقة** تضم ملكة ديدان الناري ورواسب ناري خام."
+ },
+ "c4173d64faca": {
+  "en": "Triangle City",
+  "t": "مدينة ترايانغل"
  },
  "c699d767b83d": {
   "en": "Stragglers on the plains",
@@ -147,9 +199,21 @@
   "en": "Patrols of Walking Skin",
   "t": "دوريات من الووكينغ سكين"
  },
+ "d684c84bb98f": {
+  "en": "Doorless snow houses connect by tunnels. Old Fuhraies traps. Hidden Forway science stations. Something kept prisoner in the dark (see DM Secrets).",
+  "t": "بيوت ثلجية بلا أبواب تربطها أنفاق. فخاخ فورايس قديمة. محطات علمية مخبأة لفورواي. وشيء محتجز في الظلام (انظر أسرار مدير اللعبة)."
+ },
  "dda58424b5c0": {
   "en": "Mood",
   "t": "المزاج"
+ },
+ "de62bdca84fc": {
+  "en": "Break the Way publicly: the Triangle Lovers escort you out — or somewhere worse.",
+  "t": "اخرق الطريق علنًا: يرافقك الترايانغل لافرز إلى الخارج — أو إلى مكان أسوأ."
+ },
+ "e4f5e8b2ce0c": {
+  "en": "Ganyrami Ruins",
+  "t": "أطلال غانيرامي"
  },
  "e7daf0606071": {
   "en": "Inside the castle",
@@ -162,6 +226,10 @@
  "e92163beb8b7": {
   "en": "Embassy posts an Aquamarine quest",
   "t": "السفارة تنشر مهمة أكوامارين"
+ },
+ "ea35a827a767": {
+  "en": "Asking about anyone's past: DC 15 Persuasion or the conversation (and maybe the welcome) ends.",
+  "t": "السؤال عن ماضي أحد: إقناع DC 15 وإلا ينتهي الحديث (وربما الترحيب)."
  },
  "ea6fe908f718": {
   "en": "**Sand Worms:** a Sayna or Wozen Smell gel spots them; otherwise DC 15 Perception.",
@@ -186,5 +254,9 @@
  "f95ed6f5d34d": {
   "en": "Furious",
   "t": "هائج"
+ },
+ "fe69f763ecb7": {
+  "en": "Swamps (Cruro lands, Sanbi–Tastyleaf)",
+  "t": "المستنقعات (أراضي الكرورو، بين سانبي وتيستي ليف)"
  }
 }
