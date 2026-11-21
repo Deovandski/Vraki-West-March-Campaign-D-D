@@ -51,6 +51,8 @@ It also stamps `sw.js` with the commit, so every deploy refreshes the copy peopl
 
 One-time setup in the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions.**
 
+**Google Search Console:** `google0c08003a2b869d98.html` at the top of the repo proves to Google that the site is Deovandski's. The workflow copies it to the site by name. Never remove or change it: Google checks it again from time to time, and the site stops being verified without it.
+
 ## For AI tools and search engines
 The site is one page that JavaScript fills in, and its pages live after a `#` in the address. Most AI tools and many crawlers don't run JavaScript and ignore everything after the `#`, so to them the site looks empty. These files point them to the Markdown instead:
 - **`llms.txt`** ([format](https://llmstxt.org/)): a short summary of the campaign, then every page grouped as in the side menu (Start here, Player rules, Adventurers, World lore, Maps & handouts), each linked to its raw `.md` file with a one-line description. The DM pages come last, in their own **DM only (spoilers)** sections.

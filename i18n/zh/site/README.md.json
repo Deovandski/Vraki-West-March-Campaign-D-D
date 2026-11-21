@@ -31,6 +31,10 @@
   "en": "The website",
   "t": "网站"
  },
+ "1c08d79c7d17": {
+  "en": "**Google Search Console:** `google0c08003a2b869d98.html` at the top of the repo proves to Google that the site is Deovandski's. The workflow copies it to the site by name. Never remove or change it: Google checks it again from time to time, and the site stops being verified without it.",
+  "t": "**Google Search Console：** 仓库顶层的`google0c08003a2b869d98.html`向Google证明这个网站属于Deovandski。工作流会按文件名把它复制到网站上。千万不要删除或修改它：Google会不时重新检查，没有它网站就不再处于已验证状态。"
+ },
  "20ff53c34759": {
   "en": "The repo doubles as a website on GitHub Pages: **https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**",
   "t": "这个仓库同时也是GitHub Pages上的一个网站：**https://deovandski.github.io/Vraki-West-March-Campaign-D-D/**"

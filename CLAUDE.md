@@ -19,6 +19,9 @@ The site is translated into Chinese (Simplified), Japanese, Portuguese (Brazil),
 - **Translation rules:** names, ranks, coins, gels and soul-energy spells are written by sound in zh/ja/ko/ar, as the glossary spells them, and kept in English in pt/es (except balls, the money). Use the official 5e terms from each glossary's `dnd5e` part. Keep numbers, dice, AC/HP/DC/CR/SP/SE, links (translate only the link text), code and `{placeholders}` exactly as they are; keep distances in feet and miles (the site shows them in meters for readers who pick that, with `site/js/units.js`); keep the Vraki-script lines on the handouts in Vraki. `LICENSE.md` stays in English.
 - **Check it on the site** (`node tools/i18n.js build`, then the local server) in at least one language, and in Arabic for anything layout-related: the page runs right to left.
 
+## Google Search Console file
+`google0c08003a2b869d98.html` at the repo root verifies the website in Google Search Console (#28). **Never remove, rename or edit it**, and keep it in the `cp` list of the "Gather the site" step in `.github/workflows/pages.yml` (the workflow only deploys what it copies by name). Google re-checks it; without it the site is no longer verified.
+
 ## Pictures are clickable
 Every picture on the website opens bigger when pressed, in the one photo viewer (`site/js/photo-viewer.js`, `site/css/photo-viewer.css`, and the `<dialog id="photo-viewer">` in `index.html`). The same standard is in Deovandski/Deovandski, Deovandski-repo-template, HusbandOutWorld and sinoi-the-fisherman.
 - **Nothing to wire up:** any `<img>` with alt text opens by itself, and so does a link straight to an image file (a handout opens in the viewer, not a new tab). Pictures drawn later by the page's scripts work too.
