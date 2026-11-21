@@ -259,10 +259,6 @@
   "en": "**DM mode:** everything players see, plus the DM pages and:",
   "t": "**DMモード：** プレイヤーが見られるものすべてに加えて、DMのページと次のもの："
  },
- "d71daec5a7cc": {
-  "en": "It also stamps `sw.js` with the commit, so every deploy refreshes the copy people have saved for offline use.",
-  "t": "さらに`sw.js`にコミットを刻むので、デプロイのたびに、みんながオフライン用に保存した写しが新しくなる。"
- },
  "d89a0a9bfcbe": {
   "en": "`site/manifest.webmanifest` and `site/icons/` — the app's name, colours, icons (made from the Forway emblem) and shortcuts",
   "t": "`site/manifest.webmanifest`と`site/icons/` — アプリの名前、色、アイコン（フォーウェイの紋章から作った）、ショートカット"
@@ -286,10 +282,6 @@
  "e56cfa5d7cde": {
   "en": "The site comes in English and six translations: 中文 (Simplified Chinese), 日本語 (Japanese), Português (Brazil), Español (Spain), العربية (Arabic) and 한국어 (Korean). They are AI translations of the English, written ahead of time and kept in the repo; nothing is translated on the fly, and English stays the original.",
   "t": "サイトは英語と六つの翻訳で読める：中文（簡体字中国語）、日本語、Português（ブラジル）、Español（スペイン）、العربية（アラビア語）、한국어（韓国語）。これは英語からのAI翻訳で、前もって書かれてリポジトリに保存されている。その場で翻訳されるものは何もなく、原文はあくまで英語だ。"
- },
- "e7448bd25755": {
-  "en": "**Picking one:** open **Settings (⚙)** in the top bar. It lists every language in its own script with how much of it is done, has the light/dark switch, and links to [issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7) for asking for another language. On a first visit the site picks your browser's language by itself, once that translation is at least 90% done. A link can force one with `?lang=ja`.",
-  "t": "**選び方：** 上のバーの**設定（⚙）** を開く。すべての言語がそれぞれの文字で、どこまでできているかとともに並び、ライト／ダークの切り替えと、ほかの言語を頼むための[issue #7](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7)へのリンクもある。初めて訪れたときは、その翻訳が90%以上できていれば、サイトがブラウザの言語を自動で選ぶ。リンクに`?lang=ja`を付ければ言語を指定できる。"
  },
  "e887f66aadda": {
   "en": "What's on it",

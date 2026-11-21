@@ -891,10 +891,6 @@
   "en": "Every session starts at a Forway <b>embassy</b> and should end back at one.",
   "t": "Cada sesión empieza en una <b>embajada</b> de Forway y debería terminar de vuelta en una."
  },
- "50050479bb24": {
-  "en": "Light or dark",
-  "t": "Claro u oscuro"
- },
  "50117964066e": {
   "en": "Temp",
   "t": "Temp."
@@ -1414,10 +1410,6 @@
  "77ce05ef9b96": {
   "en": "Handouts guide",
   "t": "Guía del material"
- },
- "77fa3ba25c50": {
-  "en": "Switch light or dark",
-  "t": "Cambiar entre claro y oscuro"
  },
  "783c9a2c8357": {
   "en": "Roll events for empty shifts",

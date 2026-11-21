@@ -891,10 +891,6 @@
   "en": "Every session starts at a Forway <b>embassy</b> and should end back at one.",
   "t": "모든 세션은 포웨이 <b>대사관</b>에서 시작하고, 대사관으로 돌아와 끝나야 합니다."
  },
- "50050479bb24": {
-  "en": "Light or dark",
-  "t": "라이트 또는 다크"
- },
  "50117964066e": {
   "en": "Temp",
   "t": "임시"
@@ -1414,10 +1410,6 @@
  "77ce05ef9b96": {
   "en": "Handouts guide",
   "t": "배포물 안내"
- },
- "77fa3ba25c50": {
-  "en": "Switch light or dark",
-  "t": "라이트와 다크 전환"
  },
  "783c9a2c8357": {
   "en": "Roll events for empty shifts",
