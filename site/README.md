@@ -23,7 +23,7 @@ The site installs like an app on a phone, tablet or computer, and once installed
 
 **What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.
 
-Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.
+With a connection, the site always checks the server for its pages, Markdown, scripts and styles, so the first visit after a deploy already shows the new version; with no answer in 4 seconds, the saved copy is used. Pictures and fonts come from the saved copy and refresh in the background. Each deploy saves a fresh copy and drops the old one.
 
 ## Saving
 Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.

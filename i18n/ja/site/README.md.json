@@ -111,6 +111,10 @@
   "en": "`site/css/site.css` — the look",
   "t": "`site/css/site.css` — 見た目"
  },
+ "570fccb1d16f": {
+  "en": "With a connection, the site always checks the server for its pages, Markdown, scripts and styles, so the first visit after a deploy already shows the new version; with no answer in 4 seconds, the saved copy is used. Pictures and fonts come from the saved copy and refresh in the background. Each deploy saves a fresh copy and drops the old one.",
+  "t": "接続があるときは、ページ、Markdown、スクリプト、スタイルを毎回サーバーに確かめるので、公開後の最初の訪問から新しい版が表示される。4秒たっても応答がなければ保存した写しを使う。画像とフォントは保存した写しを使い、裏で更新する。公開のたびに新しい写しを保存し、古いものは捨てる。"
+ },
  "5c22d60a29f2": {
   "en": "**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.",
   "t": "**オフラインで動くもの：** サイト全体とそのツール、すべてのルールと設定のページ（開いていないページも）、通常の拡大率の旅の地図。一度見た画像も保存されたまま残る。前もってもっと保存するには、配布物のページの**配布物をオフライン用に保存**（約4 MB）と、旅の地図のページの**鮮明な地図を保存**（2 MB）を使う。34 MBの印刷用地図と配布物のPDFは保存されない。"
@@ -134,10 +138,6 @@
  "64a1fdc64f69": {
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0 (third-party files keep their own licenses, listed above).",
   "t": "© Deovandski Skibinski Junior。CC‑BY‑NC‑SA‑4.0のもとで提供（サードパーティーのファイルは、上に挙げたそれぞれのライセンスに従う）。"
- },
- "6b67c47fa27a": {
-  "en": "Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.",
-  "t": "接続があるときはインターネットからページを読み込み、4秒たっても応答がなければ保存した写しを使う。公開のたびに新しい写しを保存し、古いものは捨てる。"
  },
  "6c782fa08e4a": {
   "en": "**What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.",

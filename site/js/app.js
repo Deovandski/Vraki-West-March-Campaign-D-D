@@ -599,7 +599,19 @@
     else window.addEventListener("resize", set);
   }
 
+  // Offline in another language: once the offline worker is in control, save this language's two files
+  // (they load before the worker can see them on a first visit). site/js/pwa.js asks sw.js.
+  function saveLanguageOffline() {
+    if (I18N.lang === "en") return;
+    const files = ["site/i18n/" + I18N.lang + ".js", "site/i18n/" + I18N.lang + ".docs.js"];
+    const go = () => { if (window.PWA) window.PWA.save(files).catch(() => {}); };
+    // pwa.js loads after this script (defer), so wait for the page to finish loading.
+    if (navigator.serviceWorker && navigator.serviceWorker.controller) window.addEventListener("load", go, { once: true });
+    else window.addEventListener("pwa:ready", go, { once: true });
+  }
+
   function start() {
+    saveLanguageOffline();
     setupLanguage();
     trackTopBar();
     store.load();

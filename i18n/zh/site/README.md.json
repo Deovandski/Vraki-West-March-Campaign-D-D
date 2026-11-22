@@ -111,6 +111,10 @@
   "en": "`site/css/site.css` — the look",
   "t": "`site/css/site.css`——外观"
  },
+ "570fccb1d16f": {
+  "en": "With a connection, the site always checks the server for its pages, Markdown, scripts and styles, so the first visit after a deploy already shows the new version; with no answer in 4 seconds, the saved copy is used. Pictures and fonts come from the saved copy and refresh in the background. Each deploy saves a fresh copy and drops the old one.",
+  "t": "有网络时，网站总会向服务器确认页面、Markdown、脚本和样式，所以发布后的第一次访问就能看到新版本；4秒内没有响应就使用保存的副本。图片和字体使用保存的副本，并在后台更新。每次发布都会保存一份新副本并丢弃旧的。"
+ },
  "5c22d60a29f2": {
   "en": "**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.",
   "t": "**离线时能用的：** 整个网站及其工具、所有规则和设定页面（包括你没打开过的），以及普通缩放下的旅行地图。你看过的图片也会保存下来。想提前多保存一些，可以在道具页面使用**保存道具以便离线使用**（约4 MB），在旅行地图页面使用**保存清晰地图**（2 MB）。34 MB的打印用地图和道具PDF不会保存。"
@@ -134,10 +138,6 @@
  "64a1fdc64f69": {
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0 (third-party files keep their own licenses, listed above).",
   "t": "© Deovandski Skibinski Junior。以CC‑BY‑NC‑SA‑4.0许可发布（第三方文件保留各自的许可证，见上文）。"
- },
- "6b67c47fa27a": {
-  "en": "Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.",
-  "t": "有网络时页面从互联网加载；4秒内没有响应就使用保存的副本。每次发布都会保存一份新副本并丢弃旧的。"
  },
  "6c782fa08e4a": {
   "en": "**What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.",

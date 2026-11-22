@@ -22,6 +22,9 @@ The site is translated into Chinese (Simplified), Japanese, Portuguese (Brazil),
 ## Google Search Console file
 `google0c08003a2b869d98.html` at the repo root verifies the website in Google Search Console (#28). **Never remove, rename or edit it**, and keep it in the `cp` list of the "Gather the site" step in `.github/workflows/pages.yml` (the workflow only deploys what it copies by name). Google re-checks it; without it the site is no longer verified.
 
+## One source
+Anything the site shows in more than one place comes from one source; never paste it twice. The rules, lore, stat blocks, tables, quests and handout list live in the Markdown files, and every page and tool reads them from there (`site/snapshot.js` and the `site/i18n/` bundles are generated from them; don't edit those by hand). Pieces of UI used in several places are the reusable components above. The handout pictures are rendered from `Handouts/source/handouts.html`. If something truly has to exist twice, say why in the PR.
+
 ## Pictures are clickable
 Every picture on the website opens bigger when pressed, in the one photo viewer (`site/js/photo-viewer.js`, `site/css/photo-viewer.css`, and the `<dialog id="photo-viewer">` in `index.html`). The same standard is in Deovandski/Deovandski, Deovandski-repo-template, HusbandOutWorld and sinoi-the-fisherman.
 - **Nothing to wire up:** any `<img>` with alt text opens by itself, and so does a link straight to an image file (a handout opens in the viewer, not a new tab). Pictures drawn later by the page's scripts work too.
