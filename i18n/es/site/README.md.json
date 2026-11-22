@@ -111,6 +111,10 @@
   "en": "`site/css/site.css` — the look",
   "t": "`site/css/site.css` — el aspecto"
  },
+ "570fccb1d16f": {
+  "en": "With a connection, the site always checks the server for its pages, Markdown, scripts and styles, so the first visit after a deploy already shows the new version; with no answer in 4 seconds, the saved copy is used. Pictures and fonts come from the saved copy and refresh in the background. Each deploy saves a fresh copy and drops the old one.",
+  "t": "Con conexión, la web siempre consulta al servidor sus páginas, el Markdown, los scripts y los estilos, así que la primera visita tras una publicación ya muestra la versión nueva; si no hay respuesta en 4 segundos, se usa la copia guardada. Las imágenes y las fuentes salen de la copia guardada y se actualizan en segundo plano. Cada publicación guarda una copia nueva y descarta la anterior."
+ },
  "5c22d60a29f2": {
   "en": "**What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.",
   "t": "**Qué funciona sin conexión:** toda la web y sus herramientas, todas las páginas de reglas y trasfondo (incluso las que no has abierto) y el mapa de viaje con el zoom normal. Las imágenes que hayas visto también quedan guardadas. Para guardar más por adelantado, usa **Guardar el material para usar sin conexión** en la página del material (unos 4 MB) y **Guardar el mapa nítido** en la página del mapa de viaje (2 MB). El mapa de impresión de 34 MB y el PDF del material no se guardan."
@@ -134,10 +138,6 @@
  "64a1fdc64f69": {
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0 (third-party files keep their own licenses, listed above).",
   "t": "© Deovandski Skibinski Junior. Con licencia CC‑BY‑NC‑SA‑4.0 (los archivos de terceros mantienen sus propias licencias, indicadas arriba)."
- },
- "6b67c47fa27a": {
-  "en": "Pages load from the internet when there is a connection; with no answer in 4 seconds, the saved copy is used. Each deploy saves a fresh copy and drops the old one.",
-  "t": "Las páginas se cargan de internet cuando hay conexión; si no hay respuesta en 4 segundos, se usa la copia guardada. Cada publicación guarda una copia nueva y descarta la anterior."
  },
  "6c782fa08e4a": {
   "en": "**What changes:** the menus, buttons and tools, every rules and lore page, the creature names in the tools, and the handouts (their pictures and PDF). Numbers, dice and AC, HP, DC, CR and SP stay as they are, and the Vraki-script lines on the handouts stay in Vraki. The license stays in English, because the English is the legal text.",

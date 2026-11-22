@@ -9,13 +9,20 @@
 //   - site/snapshot.js, the bundled copy of every rules and lore page, so all of them read offline,
 //     even ones never opened;
 //   - the manifest, the app icons and the travel map at normal zoom (Maps/web/west-march-map-2400.jpg).
+// The language in use: the page asks for its two files (site/i18n/<lang>.js and <lang>.docs.js) to be saved
+// once the worker is in control (site/js/app.js).
 // Saved when you use them: any Markdown page you open, and pictures you look at (handouts, the sharper
 // map when you zoom), up to MAX_SAVE each. Never saved: bigger files (the 34 MB print map) and anything
 // from other websites. The page can also ask it to save a list of files (see site/js/pwa.js).
 //
 // How it answers:
-//   - the page and Markdown files: network first; with no answer in 4 seconds (or no signal), the saved copy;
-//   - scripts, styles, fonts and pictures: the saved copy at once, refreshed in the background.
+//   - the page, Markdown files, scripts, styles, the manifest and site/i18n/: network first, always asking
+//     the server (cache: 'no-cache', so the browser's own copy is never used without checking; unchanged
+//     files cost a quick "not modified"). With no answer in 4 seconds, or no signal, the saved copy.
+//     Their file names don't change between deploys, so saved-first would run a new page with old scripts,
+//     or show the old page for a whole visit after a deploy (issue #30, after Deovandski/Deovandski#220).
+//   - fonts and pictures: the saved copy at once, refreshed in the background (they rarely change, and an
+//     old picture for one view does no harm).
 //
 // VERSION: the Pages workflow writes the commit into it on every deploy, so each deploy saves a fresh set
 // and throws away the old one. Change it by hand only to force that.
@@ -38,11 +45,14 @@ const WAIT = 4000;
 
 const inScope = (url) => url.origin === SCOPE.origin && url.href.startsWith(SCOPE.href);
 
-// Stylesheets, scripts and icons a page links (same site only).
+// Stylesheets, scripts and icons a page links (same site only). Skips addresses built by a script inside the
+// page (index.html writes '<script src="site/i18n/' + lang + '.js">'): saving that literally is a 404, which
+// made the whole install fail, so the site didn't work offline (issue #30).
 function linksOf(html, base) {
   const found = new Set();
   for (const m of html.matchAll(/<(?:link|script)\b[^>]*?\s(?:href|src)="([^"]+)"[^>]*>/gi)) {
     if (/^<link/i.test(m[0]) && !/rel="(?:stylesheet|icon|apple-touch-icon|manifest|preload)"/i.test(m[0])) continue;
+    if (/['"+\s]|\$\{/.test(m[1])) continue;
     const url = new URL(m[1].replace(/&amp;/g, '&'), base);
     if (inScope(url)) found.add(url.href);
   }
@@ -87,9 +97,13 @@ self.addEventListener('activate', (event) => {
 
 const keyOf = (url) => url.origin + url.pathname; // no ?query or #hash
 
+// Always asks the server. A request can't be copied with new options when it's a page visit (mode
+// "navigate"), so it fetches the address instead; same site only, so the cookies rule doesn't matter.
+const fresh = (request) => fetch(request.url, { cache: 'no-cache', credentials: 'same-origin' });
+
 async function networkFirst(request, key) {
   const cache = await caches.open(CACHE);
-  const network = fetch(request).then((res) => {
+  const network = fresh(request).then((res) => {
     if (res.ok) cache.put(key, res.clone());
     return res;
   });
@@ -136,8 +150,12 @@ self.addEventListener('fetch', (event) => {
     return;
   }
   const key = keyOf(url);
-  if (/\.md$/i.test(url.pathname)) { event.respondWith(networkFirst(request, key)); return; }
-  if (['style', 'script', 'font', 'image', 'manifest'].includes(request.destination) || EXTRA.includes(key)) {
+  // The site's own text and code: always the latest deploy when there's a signal.
+  if (['style', 'script', 'manifest'].includes(request.destination) || /\.(md|js|css|json|webmanifest)$/i.test(url.pathname)) {
+    event.respondWith(networkFirst(request, key));
+    return;
+  }
+  if (['font', 'image'].includes(request.destination) || EXTRA.includes(key)) {
     event.respondWith(savedFirst(request, key, event));
   }
 });
@@ -156,7 +174,7 @@ self.addEventListener('message', (event) => {
       if (!inScope(url)) { failed++; continue; }
       try {
         if (await cache.match(keyOf(url))) { saved++; continue; }
-        const res = await fetch(url.href);
+        const res = await fetch(url.href, { cache: 'no-cache' });
         if (!res.ok) throw new Error(res.status);
         await cache.put(keyOf(url), res);
         saved++;
