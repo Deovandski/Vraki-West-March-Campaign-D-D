@@ -1,0 +1,12 @@
+/* InstallApp (site/js/install-app.js). Theme it with --install-accent, --install-ink and --install-muted. */
+.install-app { display: grid; gap: 6px; justify-items: start; }
+.install-app__btn {
+  display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 8px 18px; cursor: pointer;
+  font: inherit; font-weight: 700; border: 0; border-radius: 999px;
+  background: var(--install-accent, #1f3a2e); color: var(--install-ink, #fff);
+}
+.install-app__btn[hidden] { display: none; }
+.install-app__btn:hover { filter: brightness(1.1); }
+.install-app__btn:focus-visible { outline: 2px solid var(--install-accent, #1f3a2e); outline-offset: 3px; }
+.install-app__note { margin: 0; font-size: 0.9em; line-height: 1.45; color: var(--install-muted, inherit); }
+.install-app__note:empty { display: none; }

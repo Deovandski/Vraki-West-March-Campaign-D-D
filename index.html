@@ -21,6 +21,9 @@
 <link rel="stylesheet" href="site/css/map-viewer.css">
 <link rel="stylesheet" href="site/css/lang-picker.css">
 <link rel="stylesheet" href="site/css/units.css">
+<link rel="stylesheet" href="site/css/install-app.css">
+<!-- Early, without defer: it keeps the browser's install offer even if that comes before the rest loads. -->
+<script src="site/js/install-app.js"></script>
 <link rel="stylesheet" href="site/css/photo-viewer.css">
 <script>
   // Apply the saved theme before the page paints.
@@ -92,8 +95,6 @@
   <div class="data-menu" id="data-menu" hidden>
     <p class="data-menu-note" data-i18n>Everything you enter is saved in this browser as you go. Download a save file to keep a backup or move it to another device.</p>
     <div class="data-menu-app">
-      <button data-pwa-install hidden data-i18n>Install as an app</button>
-      <p class="data-menu-note" data-pwa-ios hidden data-i18n>To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.</p>
       <p class="data-menu-note pwa-status" data-pwa-status aria-live="polite"></p>
     </div>
     <button data-action="export" data-i18n>Download save file (.json)</button>
@@ -111,6 +112,10 @@
         <button data-action="theme-set" data-theme="light" aria-pressed="false" data-i18n>Light</button>
         <button data-action="theme-set" data-theme="dark" aria-pressed="false" data-i18n>Dark</button>
       </div>
+    </div>
+    <div class="settings-app" role="group" aria-labelledby="app-h">
+      <h3 id="app-h" data-i18n>App</h3>
+      <div class="install-app" data-install-app></div>
     </div>
   </div>
 </header>

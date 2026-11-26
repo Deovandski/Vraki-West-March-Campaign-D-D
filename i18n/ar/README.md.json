@@ -3,6 +3,10 @@
   "en": "[Handouts](Handouts)",
   "t": "[المطبوعات](Handouts)"
  },
+ "012e043fce83": {
+  "en": "InstallApp",
+  "t": "InstallApp"
+ },
  "0190b78901dd": {
   "en": "The website: Player and DM sections, dice, calculators, the travel planner and trackers",
   "t": "الموقع: قسما اللاعب ومدير اللعبة، والنرد، والحاسبات، ومخطط السفر وأدوات المتابعة"
@@ -75,6 +79,10 @@
   "en": "Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).",
   "t": "الفيديوهات الربحية والبث والمنشورات على وسائل التواصل عن السلسلة مرحّب بها، وكذلك البث والطباعة ثلاثية الأبعاد من الملفات المصدرية: فقط اذكرنا. وأي استخدام تجاري آخر يحتاج موافقة مسبقة. انظر [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license)."
  },
+ "381c1b4d779c": {
+  "en": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)",
+  "t": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)"
+ },
  "399292953438": {
   "en": "[D&D Campaign](D&D%20Campaign)",
   "t": "[حملة D&D](D&D%20Campaign)"
@@ -115,10 +123,6 @@
   "en": "SPOILER WARNING!",
   "t": "تحذير من حرق الأحداث!"
  },
- "5c692fa7cfb4": {
-  "en": "The whole site (save menu, handouts, travel map)",
-  "t": "الموقع كله (قائمة الحفظ، والمطبوعات، وخريطة السفر)"
- },
  "5d0f2d28ff65": {
   "en": "MapViewer",
   "t": "MapViewer"
@@ -138,6 +142,10 @@
  "6a00c4549f0b": {
   "en": "This repo is a West Marches style D&D 5e campaign set in the world of the #HusbandOutWorld series. The World Lore summary and the DM files reveal secrets of the world, including some from unreleased story notes.",
   "t": "هذا المستودع حملة D&D 5e على طريقة ويست مارشز تدور في عالم سلسلة #HusbandOutWorld. ملخص حكاية العالم وملفات مدير اللعبة تكشف أسرار العالم، ومنها بعض ما في ملاحظات القصة غير المنشورة."
+ },
+ "6b122a4faee0": {
+  "en": "An **Install app** button that shows only when the browser can install the site right now; otherwise a one-line hint for Android (open it in Chrome: links from WhatsApp, Instagram or Gmail open in a viewer that can't install), iPhone/iPad (Share, then Add to Home Screen) or other browsers, and \"You’re using the installed app\" inside the app. Words from a data attribute, so translations reach it. Ported from Deovandski/Deovandski's InstallApp.",
+  "t": "زر **تثبيت التطبيق** لا يظهر إلا حين يستطيع المتصفح تثبيت الموقع الآن؛ وإلا فتلميح من سطر واحد لأندرويد (افتحه في Chrome: الروابط المفتوحة من WhatsApp أو Instagram أو Gmail تُفتح في عارض لا يستطيع التثبيت)، أو لـiPhone/iPad (مشاركة ← إضافة إلى الشاشة الرئيسية)، أو لمتصفحات أخرى، و«أنت تستخدم التطبيق المثبَّت» داخل التطبيق. نصوصه من سمة بيانات، فتصلها الترجمات. منقول من InstallApp في Deovandski/Deovandski."
  },
  "6b683f423188": {
   "en": "Create an issue or feel free to send a PR!",
@@ -210,6 +218,10 @@
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "يعرض المسافات بالأقدام والأميال أو بالأمتار والكيلومترات (`30 ft` ← `9 m`، `1 mile` ← `1.5 km`، وفق تحويل D&D المتري)، في نصوص بالإنجليزية والإسبانية والبرتغالية واليابانية والصينية والكورية والعربية، مع أداة اختيار للتبديل. يحوّل جزءًا من الصفحة وأي محتوى يُضاف إليه لاحقًا، والعودة تعيد النص الأصلي. يُضبط من سمات البيانات؛ بلا مكتبات."
+ },
+ "bbd935af3549": {
+  "en": "The whole site (offline status in the save menu, handouts, travel map; the Install app button is InstallApp)",
+  "t": "الموقع كله (حالة العمل دون اتصال في قائمة الحفظ، والمطبوعات، وخريطة السفر؛ وزر تثبيت التطبيق هو InstallApp)"
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

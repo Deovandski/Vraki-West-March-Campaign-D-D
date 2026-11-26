@@ -447,6 +447,17 @@
       if (window.LanguagePicker) window.LanguagePicker.mount(el);
     });
     setupUnits();
+    // The Install app button in Settings (site/js/install-app.js): its words in this language.
+    document.querySelectorAll("[data-install-app]").forEach((el) => {
+      el.dataset.text = JSON.stringify({
+        install: __("Install app"), installed: __("You’re using the installed app."),
+        done: __("Installed! Open it from your home screen or app list."),
+        android: __("No install button? Open this page in Chrome (⋮ → Open in Chrome), then ⋮ → Install app."),
+        ios: __("On iPhone or iPad: tap Share, then Add to Home Screen."),
+        other: __("To install it, open this page in Chrome, Edge or Samsung Internet. On iPhone or iPad: Share, then Add to Home Screen.")
+      });
+      if (window.InstallApp) window.InstallApp.mount(el);
+    });
     const banner = document.getElementById("lang-banner");
     if (banner && I18N.lang !== "en") {
       banner.innerHTML = `<p>${esc(I18N.meta.banner || "")} <button class="link" data-action="lang-en" lang="en">${esc(I18N.meta.english || "English")}</button></p>`;

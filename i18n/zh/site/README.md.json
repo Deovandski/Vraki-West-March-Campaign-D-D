@@ -207,13 +207,13 @@
   "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
   "t": "每一页都有**骰盘**，规则里写的每个掷骰（比如2d6+3）都是一个按钮。"
  },
- "93c390989051": {
-  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
-  "t": "**Android和Chrome/Edge：** 使用浏览器的安装按钮，或者保存菜单（顶栏）里的**安装为应用**。长按应用图标可以看到旅行地图、旅行计划和道具的快捷方式。"
- },
  "95b4c590c974": {
   "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
   "t": "`site/js/i18n.js`——翻译：把页面拆成片段，找出每个片段的译文并选择语言（在浏览器和Node里都能运行）"
+ },
+ "a05aade5bac6": {
+  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install app** in **Settings** (the gear in the top bar). No button there? It says why: on Android, open the page in Chrome first (links opened from WhatsApp, Instagram or Gmail show it in a viewer that can't install). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
+  "t": "**Android和Chrome/Edge：** 使用浏览器的安装按钮，或者**设置**（顶栏中的齿轮）里的**安装应用**。那里没有按钮？它会说明原因：在 Android 上，先用 Chrome 打开页面（从 WhatsApp、Instagram 或 Gmail 打开的链接会显示在无法安装的查看器里）。长按应用图标可以看到旅行地图、旅行计划和道具的快捷方式。"
  },
  "a0d1b0c29279": {
   "en": "`site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.",
@@ -262,6 +262,10 @@
  "c1f154a148c3": {
   "en": "Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.",
   "t": "你输入的一切都会随时保存在浏览器里（本地存储）。用顶栏的保存按钮可以**下载存档文件（.json）**，在另一台设备或浏览器上**载入**，或者留作备份。不会向任何地方发送任何东西：没有服务器、没有账号、没有Cookie、没有统计分析。"
+ },
+ "c5fc4728f296": {
+  "en": "`site/js/install-app.js` and `site/css/install-app.css` — the Install app button and hints in Settings (a reusable component)",
+  "t": "`site/js/install-app.js` 和 `site/css/install-app.css` — 设置中的安装应用按钮和提示（一个可复用组件）"
  },
  "c795334a2b9e": {
   "en": "Refresh the offline copy",

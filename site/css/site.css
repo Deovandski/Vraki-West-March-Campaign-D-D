@@ -106,7 +106,6 @@ h1, h2, h3, h4 { line-height: 1.2; text-wrap: balance; }
    and never reach past the bottom of the screen (a phone on its side has about 360 px). */
 .data-menu { max-height: calc(100vh - var(--top-h, 60px) - 16px); max-height: calc(100dvh - var(--top-h, 60px) - 16px); overflow-y: auto; overscroll-behavior: contain; }
 .data-menu-note { margin: 0 0 4px; font: 14px/1.45 var(--ui); color: var(--ink-2); }
-.data-menu-app [data-pwa-install] { width: 100%; }
 .data-menu .pwa-status:empty { display: none; }
 .data-menu button, .filebtn { font: 700 15px var(--ui); text-align: left; padding: 9px 12px; border: 1px solid var(--line); background: var(--paper); color: var(--ink); border-radius: var(--radius); cursor: pointer; }
 .filebtn input { position: absolute; opacity: 0; width: 1px; }
@@ -719,6 +718,7 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
 .settings-menu .unit-picker__opt[aria-checked="true"] { background: var(--wood-2); }
 .settings-more { margin: 0; font: 14px var(--ui); }
 .settings-theme .seg button { padding: 7px 14px; }
+.settings-menu .install-app { font: 15px var(--ui); --install-accent: var(--wood-2); --install-ink: #fff; --install-muted: var(--ink-2); }
 .lang-banner { background: var(--wood-2); color: #f3f7f4; font: 14px/1.4 var(--ui); padding: 6px 16px; border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
 .lang-banner p { margin: 0 auto; max-width: 1200px; }
 .lang-banner .link { color: inherit; font: 700 14px var(--ui); text-decoration: underline; padding: 0 2px; }
