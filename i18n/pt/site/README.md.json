@@ -207,13 +207,13 @@
   "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
   "t": "**Bandeja de dados** em todas as páginas, e toda rolagem escrita nas regras (como 2d6+3) é um botão."
  },
- "93c390989051": {
-  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
-  "t": "**Android e Chrome/Edge:** use o botão de instalar do navegador, ou **Instalar como aplicativo** no menu de salvar (barra de cima). Mantenha o ícone do aplicativo pressionado para atalhos para o mapa de viagem, o planejador de viagens e os materiais."
- },
  "95b4c590c974": {
   "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
   "t": "`site/js/i18n.js` — as traduções: divide as páginas em pedaços, acha a tradução de cada pedaço e escolhe o idioma (funciona no navegador e no Node)"
+ },
+ "a05aade5bac6": {
+  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install app** in **Settings** (the gear in the top bar). No button there? It says why: on Android, open the page in Chrome first (links opened from WhatsApp, Instagram or Gmail show it in a viewer that can't install). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
+  "t": "**Android e Chrome/Edge:** use o botão de instalar do navegador, ou **Instalar app** em **Configurações** (a engrenagem na barra de cima). Não tem botão? Ele diz por quê: no Android, abra a página primeiro no Chrome (links abertos pelo WhatsApp, Instagram ou Gmail aparecem num visualizador que não instala). Mantenha o ícone do aplicativo pressionado para atalhos para o mapa de viagem, o planejador de viagens e os materiais."
  },
  "a0d1b0c29279": {
   "en": "`site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.",
@@ -262,6 +262,10 @@
  "c1f154a148c3": {
   "en": "Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.",
   "t": "Tudo o que você digita é salvo no navegador conforme você usa (armazenamento local). Use o botão de salvar na barra de cima para **baixar um arquivo de salvamento (.json)** e **carregá-lo** em outro aparelho ou navegador, ou para ter um backup. Nada é enviado para lugar nenhum: não há servidor, nem conta, nem cookies, nem análise de uso."
+ },
+ "c5fc4728f296": {
+  "en": "`site/js/install-app.js` and `site/css/install-app.css` — the Install app button and hints in Settings (a reusable component)",
+  "t": "`site/js/install-app.js` e `site/css/install-app.css` — o botão Instalar app e as dicas em Configurações (um componente reutilizável)"
  },
  "c795334a2b9e": {
   "en": "Refresh the offline copy",

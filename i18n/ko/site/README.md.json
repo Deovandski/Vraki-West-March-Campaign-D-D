@@ -207,13 +207,13 @@
   "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
   "t": "모든 페이지에 **주사위 쟁반**이 있고, 규칙에 적힌 모든 굴림(2d6+3 같은)은 버튼이다."
  },
- "93c390989051": {
-  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
-  "t": "**안드로이드와 Chrome/Edge:** 브라우저의 설치 버튼이나, 저장 메뉴(위쪽 막대)의 **앱으로 설치**를 쓴다. 앱 아이콘을 길게 누르면 여행 지도, 여행 계획, 배포물로 가는 바로가기가 나온다."
- },
  "95b4c590c974": {
   "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
   "t": "`site/js/i18n.js` — 번역: 페이지를 조각으로 나누고, 조각마다 번역을 찾고, 언어를 고른다(브라우저와 Node에서 모두 작동)"
+ },
+ "a05aade5bac6": {
+  "en": "**Android and Chrome/Edge:** use the browser's install button, or **Install app** in **Settings** (the gear in the top bar). No button there? It says why: on Android, open the page in Chrome first (links opened from WhatsApp, Instagram or Gmail show it in a viewer that can't install). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.",
+  "t": "**안드로이드와 Chrome/Edge:** 브라우저의 설치 버튼이나, **설정**(위쪽 막대의 톱니바퀴)의 **앱 설치**를 쓴다. 버튼이 없나요? 이유가 나온다: Android에서는 먼저 페이지를 Chrome에서 연다(WhatsApp, Instagram, Gmail에서 연 링크는 설치할 수 없는 뷰어에 뜬다). 앱 아이콘을 길게 누르면 여행 지도, 여행 계획, 배포물로 가는 바로가기가 나온다."
  },
  "a0d1b0c29279": {
   "en": "`site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.",
@@ -262,6 +262,10 @@
  "c1f154a148c3": {
   "en": "Everything you enter saves in your browser as you go (local storage). Use the save button in the top bar to **download a save file (.json)** and **load it** on another device or browser, or to keep a backup. Nothing is sent anywhere: there's no server, no account, no cookies and no analytics.",
   "t": "입력한 모든 것은 그때그때 브라우저에 저장된다(로컬 저장소). 위쪽 막대의 저장 버튼으로 **저장 파일(.json)을 내려받아** 다른 기기나 브라우저에서 **불러오거나**, 백업으로 둘 수 있다. 어디로도 아무것도 보내지 않는다: 서버도, 계정도, 쿠키도, 분석도 없다."
+ },
+ "c5fc4728f296": {
+  "en": "`site/js/install-app.js` and `site/css/install-app.css` — the Install app button and hints in Settings (a reusable component)",
+  "t": "`site/js/install-app.js`와 `site/css/install-app.css` — 설정의 앱 설치 버튼과 안내(재사용 가능한 컴포넌트)"
  },
  "c795334a2b9e": {
   "en": "Refresh the offline copy",

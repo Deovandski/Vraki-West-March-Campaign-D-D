@@ -18,7 +18,7 @@ It reads the same Markdown files you see in the repo, so there's nothing to keep
 
 ## Install it as an app (works offline)
 The site installs like an app on a phone, tablet or computer, and once installed (or after one visit in the browser) it works with **no signal**: handy at the table.
-- **Android and Chrome/Edge:** use the browser's install button, or **Install as an app** in the save menu (top bar). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.
+- **Android and Chrome/Edge:** use the browser's install button, or **Install app** in **Settings** (the gear in the top bar). No button there? It says why: on Android, open the page in Chrome first (links opened from WhatsApp, Instagram or Gmail show it in a viewer that can't install). Long-press the app icon for shortcuts to the travel map, the travel planner and the handouts.
 - **iPhone and iPad:** in Safari, tap Share, then **Add to Home Screen**.
 
 **What works offline:** the whole site and its tools, every rules and lore page (even ones you haven't opened), and the travel map at normal zoom. Pictures you've looked at stay saved too. To save more ahead of time, use **Save the handouts for offline use** on the handout page (about 4 MB) and **Save the sharp map** on the travel map page (2 MB). The 34 MB print map and the handouts PDF aren't saved.
@@ -92,6 +92,7 @@ Then open http://localhost:8000. (If you do open `index.html` directly, the site
 - `site/js/` — `parse.js` (reads the Markdown into data), `core.js` (dice and saving), `content.js` (page list and loading), `app.js` (menus, pages, search, dice tray), `tools.js` (calculators, adventurer cards, handouts), `travel.js` (travel planner), `dm.js` (party, campaign, bestiary, random tables), `start.js` (Player 101 and DM 101), `map.js` (travel map page and route lengths), `map-viewer.js` (the zoom-and-pan map viewer, a reusable component with its own `site/css/map-viewer.css`)
 - `site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)
 - `site/js/lang-picker.js` and `site/css/lang-picker.css` — the language list in Settings (a reusable component)
+- `site/js/install-app.js` and `site/css/install-app.css` — the Install app button and hints in Settings (a reusable component)
 - `site/js/units.js` and `site/css/units.css` — feet or meters: converts the distances on the page and runs the Distances choice in Settings (a reusable component)
 - `site/i18n/` — what `node tools/i18n.js build` writes for the site to load: `languages.js`, `<lang>.js` (the site's own text and names) and `<lang>.docs.js` (pages and handouts). Generated, not kept in the repo.
 - `site/snapshot.js` — the bundled offline copy (generated); the installed app uses it to read every page offline

@@ -3,6 +3,10 @@
   "en": "[Handouts](Handouts)",
   "t": "[配布物](Handouts)"
  },
+ "012e043fce83": {
+  "en": "InstallApp",
+  "t": "InstallApp"
+ },
  "0190b78901dd": {
   "en": "The website: Player and DM sections, dice, calculators, the travel planner and trackers",
   "t": "ウェブサイト：プレイヤーとDMのセクション、ダイス、計算ツール、旅のプランナーと記録"
@@ -75,6 +79,10 @@
   "en": "Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).",
   "t": "シリーズについての収益化された動画、配信、SNSの投稿は歓迎で、元データから作った配信や3Dプリントも歓迎だ：クレジットを入れてくれればいい。それ以外の商用利用は事前に承認が必要。[Permissions beyond the license](LICENSE.md#permissions-beyond-the-license)を参照。"
  },
+ "381c1b4d779c": {
+  "en": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)",
+  "t": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)"
+ },
  "399292953438": {
   "en": "[D&D Campaign](D&D%20Campaign)",
   "t": "[D&Dキャンペーン](D&D%20Campaign)"
@@ -115,10 +123,6 @@
   "en": "SPOILER WARNING!",
   "t": "ネタバレ注意！"
  },
- "5c692fa7cfb4": {
-  "en": "The whole site (save menu, handouts, travel map)",
-  "t": "サイト全体（保存メニュー、配布物、旅の地図）"
- },
  "5d0f2d28ff65": {
   "en": "MapViewer",
   "t": "MapViewer"
@@ -138,6 +142,10 @@
  "6a00c4549f0b": {
   "en": "This repo is a West Marches style D&D 5e campaign set in the world of the #HusbandOutWorld series. The World Lore summary and the DM files reveal secrets of the world, including some from unreleased story notes.",
   "t": "このリポジトリは、#HusbandOutWorldシリーズの世界を舞台にした、ウェストマーチ形式のD&D第5版キャンペーンだ。世界設定のまとめとDM用のファイルには、未発表の物語メモからのものも含め、世界の秘密が書かれている。"
+ },
+ "6b122a4faee0": {
+  "en": "An **Install app** button that shows only when the browser can install the site right now; otherwise a one-line hint for Android (open it in Chrome: links from WhatsApp, Instagram or Gmail open in a viewer that can't install), iPhone/iPad (Share, then Add to Home Screen) or other browsers, and \"You’re using the installed app\" inside the app. Words from a data attribute, so translations reach it. Ported from Deovandski/Deovandski's InstallApp.",
+  "t": "ブラウザがいまサイトをインストールできるときだけ表示される**アプリをインストール**ボタン。できないときは、Android（Chrome で開く：WhatsApp、Instagram、Gmail から開いたリンクはインストールできないビューアで開く）、iPhone・iPad（共有 → ホーム画面に追加）、ほかのブラウザ向けの一行のヒントを出し、アプリの中では「インストール済みのアプリで見ています」と表示する。文言はデータ属性から受け取るので、翻訳も届く。Deovandski/Deovandski の InstallApp から移植。"
  },
  "6b683f423188": {
   "en": "Create an issue or feel free to send a PR!",
@@ -210,6 +218,10 @@
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "距離をフィートとマイル、またはメートルとキロメートルで表示する（`30 ft` → `9 m`、`1 mile` → `1.5 km`、D&Dのメートル法の換算）。英語、スペイン語、ポルトガル語、日本語、中国語、韓国語、アラビア語の文章に対応し、切り替え用のピッカーも付く。ページの一部と、あとから追加された内容も変換し、元に戻すと元の文章が戻る。データ属性で設定し、ライブラリは使わない。"
+ },
+ "bbd935af3549": {
+  "en": "The whole site (offline status in the save menu, handouts, travel map; the Install app button is InstallApp)",
+  "t": "サイト全体（保存メニューのオフライン表示、配布物、旅の地図。アプリのインストールボタンは InstallApp）"
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

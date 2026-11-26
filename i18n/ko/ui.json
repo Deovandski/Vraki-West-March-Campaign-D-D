@@ -255,10 +255,6 @@
   "en": "Saved {saved} of {total}. Try again online for the rest.",
   "t": "{total}개 중 {saved}개를 저장했습니다. 나머지는 온라인에서 다시 시도하세요."
  },
- "18d6e69a07b0": {
-  "en": "To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.",
-  "t": "iPhone이나 iPad에 설치하려면: 공유를 누른 다음 <b>홈 화면에 추가</b>를 누르세요."
- },
  "1991eedad300": {
   "en": "One shared world needs one shared record. Set it up once; every session adds to it.",
   "t": "하나의 공유된 세계에는 하나의 공유된 기록이 필요합니다. 한 번 준비해 두면 세션마다 더해집니다."
@@ -318,6 +314,10 @@
  "2084df0b528d": {
   "en": "Choose…",
   "t": "선택…"
+ },
+ "209021f86bff": {
+  "en": "To install it, open this page in Chrome, Edge or Samsung Internet. On iPhone or iPad: Share, then Add to Home Screen.",
+  "t": "설치하려면 이 페이지를 Chrome, Edge 또는 Samsung Internet에서 여세요. iPhone이나 iPad에서는: 공유 → 홈 화면에 추가."
  },
  "210d435929f6": {
   "en": "Also every creature those tables can bring, not just the fights already set",
@@ -939,6 +939,10 @@
   "en": "Track your character between and during sessions: HP, Soul Points, exhaustion, balls and revival debt. It saves in this browser as you type.",
   "t": "세션 사이와 세션 중에 캐릭터를 관리하세요: HP, 소울 포인트, 탈진, 볼, 부활 빚. 입력하는 대로 이 브라우저에 저장됩니다."
  },
+ "535d9023a85d": {
+  "en": "You’re using the installed app.",
+  "t": "설치된 앱으로 보고 있어요."
+ },
  "53d83bde3793": {
   "en": "Dice",
   "t": "주사위"
@@ -1111,6 +1115,10 @@
   "en": "Unnamed",
   "t": "이름 없음"
  },
+ "5cf3b151aa22": {
+  "en": "No install button? Open this page in Chrome (⋮ → Open in Chrome), then ⋮ → Install app.",
+  "t": "설치 버튼이 없나요? 이 페이지를 Chrome에서 열고(⋮ → Chrome에서 열기), ⋮ → 앱 설치."
+ },
  "5d22b5a9e6f0": {
   "en": "Random tables",
   "t": "무작위 표"
@@ -1246,6 +1254,10 @@
  "69a5c331665d": {
   "en": "you can cast it {n} times",
   "t": "{n}번 쓸 수 있습니다"
+ },
+ "69a8d0bfa08b": {
+  "en": "Installed! Open it from your home screen or app list.",
+  "t": "설치됐어요! 홈 화면이나 앱 목록에서 열어 주세요."
  },
  "69b6c8592e50": {
   "en": "Add",
@@ -1775,6 +1787,10 @@
   "en": "Roll d12",
   "t": "d12 굴리기"
  },
+ "949e0e2d4274": {
+  "en": "Install app",
+  "t": "앱 설치"
+ },
  "951362ea258c": {
   "en": "{n} signs",
   "t": "징조 {n}건"
@@ -1866,6 +1882,10 @@
  "9f44d7396279": {
   "en": "{date}: d6 {n}, no change ({mood})",
   "t": "{date}: d6 {n}, 변화 없음({mood})"
+ },
+ "9f6869c21c40": {
+  "en": "On iPhone or iPad: tap Share, then Add to Home Screen.",
+  "t": "iPhone이나 iPad에서는: 공유를 누른 뒤 홈 화면에 추가."
  },
  "9fc23c1779af": {
   "en": "Get to know the world",
@@ -2166,10 +2186,6 @@
  "b546cd7b92de": {
   "en": "Show the whole map",
   "t": "지도 전체 보기"
- },
- "b55153d01d5c": {
-  "en": "Install as an app",
-  "t": "앱으로 설치"
  },
  "b5f6652d6c05": {
   "en": "Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise.",
@@ -2866,6 +2882,10 @@
  "f1b8b438a53d": {
   "en": "The fewest circles, adding up legs through towns. Numbers from the <a href=\"{url}\">route lengths table</a>.",
   "t": "마을을 거치는 구간을 더한 가장 적은 서클 수입니다. 숫자는 <a href=\"{url}\">경로 길이 표</a>에서 가져옵니다."
+ },
+ "f20c7a381028": {
+  "en": "App",
+  "t": "앱"
  },
  "f2be7a7f42df": {
   "en": "Pick an entry…",

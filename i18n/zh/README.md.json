@@ -3,6 +3,10 @@
   "en": "[Handouts](Handouts)",
   "t": "[道具](Handouts)"
  },
+ "012e043fce83": {
+  "en": "InstallApp",
+  "t": "InstallApp"
+ },
  "0190b78901dd": {
   "en": "The website: Player and DM sections, dice, calculators, the travel planner and trackers",
   "t": "网站：玩家区和DM区、骰子、计算器、旅行计划和各种记录"
@@ -75,6 +79,10 @@
   "en": "Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).",
   "t": "欢迎发布关于这个系列的盈利视频、直播和社交媒体帖子，也欢迎用源文件做的直播和3D打印：只要注明出处即可。其他任何商业用途都需要事先获得许可。见[Permissions beyond the license](LICENSE.md#permissions-beyond-the-license)。"
  },
+ "381c1b4d779c": {
+  "en": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)",
+  "t": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)"
+ },
  "399292953438": {
   "en": "[D&D Campaign](D&D%20Campaign)",
   "t": "[D&D战役](D&D%20Campaign)"
@@ -115,10 +123,6 @@
   "en": "SPOILER WARNING!",
   "t": "剧透警告！"
  },
- "5c692fa7cfb4": {
-  "en": "The whole site (save menu, handouts, travel map)",
-  "t": "整个网站（保存菜单、道具、旅行地图）"
- },
  "5d0f2d28ff65": {
   "en": "MapViewer",
   "t": "MapViewer"
@@ -138,6 +142,10 @@
  "6a00c4549f0b": {
   "en": "This repo is a West Marches style D&D 5e campaign set in the world of the #HusbandOutWorld series. The World Lore summary and the DM files reveal secrets of the world, including some from unreleased story notes.",
   "t": "这个仓库是一个以#HusbandOutWorld系列世界为背景的西境式D&D 5e战役。世界设定摘要和DM文件会揭露这个世界的秘密，其中有些来自尚未发表的故事笔记。"
+ },
+ "6b122a4faee0": {
+  "en": "An **Install app** button that shows only when the browser can install the site right now; otherwise a one-line hint for Android (open it in Chrome: links from WhatsApp, Instagram or Gmail open in a viewer that can't install), iPhone/iPad (Share, then Add to Home Screen) or other browsers, and \"You’re using the installed app\" inside the app. Words from a data attribute, so translations reach it. Ported from Deovandski/Deovandski's InstallApp.",
+  "t": "一个**安装应用**按钮，只在浏览器当下能安装网站时显示；否则给出一行提示：Android（用 Chrome 打开：从 WhatsApp、Instagram 或 Gmail 打开的链接会进入无法安装的查看器）、iPhone/iPad（共享 → 添加到主屏幕）或其他浏览器，在应用内则显示“你正在使用已安装的应用”。文字来自数据属性，所以翻译也能用上。移植自 Deovandski/Deovandski 的 InstallApp。"
  },
  "6b683f423188": {
   "en": "Create an issue or feel free to send a PR!",
@@ -210,6 +218,10 @@
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "以英尺和英里或米和公里显示距离（`30 ft` → `9 m`，`1 mile` → `1.5 km`，即D&D的公制换算），支持英语、西班牙语、葡萄牙语、日语、中文、韩语和阿拉伯语文本，并附带一个切换选择器。它会转换页面的一部分以及之后添加的任何内容，切换回来时会恢复原文。通过数据属性设置，不依赖任何库。"
+ },
+ "bbd935af3549": {
+  "en": "The whole site (offline status in the save menu, handouts, travel map; the Install app button is InstallApp)",
+  "t": "整个网站（保存菜单中的离线状态、道具、旅行地图；安装应用按钮是 InstallApp）"
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

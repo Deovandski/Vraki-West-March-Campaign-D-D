@@ -3,6 +3,10 @@
   "en": "[Handouts](Handouts)",
   "t": "[배포물](Handouts)"
  },
+ "012e043fce83": {
+  "en": "InstallApp",
+  "t": "InstallApp"
+ },
  "0190b78901dd": {
   "en": "The website: Player and DM sections, dice, calculators, the travel planner and trackers",
   "t": "웹사이트: 플레이어와 DM 구역, 주사위, 계산기, 여행 계획과 기록"
@@ -75,6 +79,10 @@
   "en": "Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).",
   "t": "시리즈에 관한 수익 창출 영상, 방송, SNS 게시물을 환영하며, 원본 파일로 만든 방송과 3D 프린트도 환영한다: 출처만 밝혀 주면 된다. 그 밖의 상업적 이용은 먼저 승인이 필요하다. [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license) 참고."
  },
+ "381c1b4d779c": {
+  "en": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)",
+  "t": "[install-app.js](site/js/install-app.js), [install-app.css](site/css/install-app.css)"
+ },
  "399292953438": {
   "en": "[D&D Campaign](D&D%20Campaign)",
   "t": "[D&D 캠페인](D&D%20Campaign)"
@@ -115,10 +123,6 @@
   "en": "SPOILER WARNING!",
   "t": "스포일러 주의!"
  },
- "5c692fa7cfb4": {
-  "en": "The whole site (save menu, handouts, travel map)",
-  "t": "사이트 전체(저장 메뉴, 배포물, 여행 지도)"
- },
  "5d0f2d28ff65": {
   "en": "MapViewer",
   "t": "MapViewer"
@@ -138,6 +142,10 @@
  "6a00c4549f0b": {
   "en": "This repo is a West Marches style D&D 5e campaign set in the world of the #HusbandOutWorld series. The World Lore summary and the DM files reveal secrets of the world, including some from unreleased story notes.",
   "t": "이 저장소는 #HusbandOutWorld 시리즈의 세계를 무대로 한 웨스트 마치 방식의 D&D 5판 캠페인이다. 세계 설정 요약과 DM 파일에는 아직 공개되지 않은 이야기 메모에서 온 것을 포함해 세계의 비밀이 담겨 있다."
+ },
+ "6b122a4faee0": {
+  "en": "An **Install app** button that shows only when the browser can install the site right now; otherwise a one-line hint for Android (open it in Chrome: links from WhatsApp, Instagram or Gmail open in a viewer that can't install), iPhone/iPad (Share, then Add to Home Screen) or other browsers, and \"You’re using the installed app\" inside the app. Words from a data attribute, so translations reach it. Ported from Deovandski/Deovandski's InstallApp.",
+  "t": "브라우저가 지금 사이트를 설치할 수 있을 때만 나오는 **앱 설치** 버튼. 그렇지 않으면 Android(Chrome에서 열기: WhatsApp, Instagram, Gmail에서 연 링크는 설치할 수 없는 뷰어로 열린다), iPhone/iPad(공유 → 홈 화면에 추가), 다른 브라우저를 위한 한 줄 안내를 보여 주고, 앱 안에서는 '설치된 앱으로 보고 있어요'라고 알려 준다. 문구는 데이터 속성으로 받으므로 번역도 닿는다. Deovandski/Deovandski의 InstallApp에서 옮겨 왔다."
  },
  "6b683f423188": {
   "en": "Create an issue or feel free to send a PR!",
@@ -210,6 +218,10 @@
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "거리를 피트와 마일, 또는 미터와 킬로미터로 보여 준다(`30 ft` → `9 m`, `1 mile` → `1.5 km`, D&D의 미터법 환산). 영어, 스페인어, 포르투갈어, 일본어, 중국어, 한국어, 아랍어 글에 쓸 수 있고, 전환용 선택기도 함께 있다. 페이지의 일부와 나중에 추가되는 내용까지 변환하며, 되돌리면 원래 글이 돌아온다. 데이터 속성으로 설정하고 라이브러리는 쓰지 않는다."
+ },
+ "bbd935af3549": {
+  "en": "The whole site (offline status in the save menu, handouts, travel map; the Install app button is InstallApp)",
+  "t": "사이트 전체(저장 메뉴의 오프라인 상태, 배포물, 여행 지도. 앱 설치 버튼은 InstallApp)"
  },
  "bbfcf52145f8": {
   "en": "[map-viewer.js](site/js/map-viewer.js), [map-viewer.css](site/css/map-viewer.css)",

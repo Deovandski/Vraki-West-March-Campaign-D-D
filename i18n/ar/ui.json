@@ -255,10 +255,6 @@
   "en": "Saved {saved} of {total}. Try again online for the rest.",
   "t": "حُفظ {saved} من {total}. حاول مجددًا وأنت متصل لحفظ الباقي."
  },
- "18d6e69a07b0": {
-  "en": "To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.",
-  "t": "للتثبيت على iPhone أو iPad: اضغط «مشاركة»، ثم <b>إضافة إلى الشاشة الرئيسية</b>."
- },
  "1991eedad300": {
   "en": "One shared world needs one shared record. Set it up once; every session adds to it.",
   "t": "عالم واحد مشترك يحتاج إلى سجل واحد مشترك. جهّزه مرة واحدة؛ وكل جلسة تضيف إليه."
@@ -318,6 +314,10 @@
  "2084df0b528d": {
   "en": "Choose…",
   "t": "اختر…"
+ },
+ "209021f86bff": {
+  "en": "To install it, open this page in Chrome, Edge or Samsung Internet. On iPhone or iPad: Share, then Add to Home Screen.",
+  "t": "لتثبيته، افتح هذه الصفحة في Chrome أو Edge أو Samsung Internet. على iPhone أو iPad: مشاركة ← إضافة إلى الشاشة الرئيسية."
  },
  "210d435929f6": {
   "en": "Also every creature those tables can bring, not just the fights already set",
@@ -939,6 +939,10 @@
   "en": "Track your character between and during sessions: HP, Soul Points, exhaustion, balls and revival debt. It saves in this browser as you type.",
   "t": "تابع شخصيتك بين الجلسات وأثناءها: نقاط HP ونقاط الروح والإنهاك والكرات ودين الإحياء. يُحفظ في هذا المتصفح أثناء الكتابة."
  },
+ "535d9023a85d": {
+  "en": "You’re using the installed app.",
+  "t": "أنت تستخدم التطبيق المثبَّت."
+ },
  "53d83bde3793": {
   "en": "Dice",
   "t": "النرد"
@@ -1111,6 +1115,10 @@
   "en": "Unnamed",
   "t": "بلا اسم"
  },
+ "5cf3b151aa22": {
+  "en": "No install button? Open this page in Chrome (⋮ → Open in Chrome), then ⋮ → Install app.",
+  "t": "لا يوجد زر تثبيت؟ افتح هذه الصفحة في Chrome (⋮ ← فتح في Chrome)، ثم ⋮ ← تثبيت التطبيق."
+ },
  "5d22b5a9e6f0": {
   "en": "Random tables",
   "t": "جداول عشوائية"
@@ -1246,6 +1254,10 @@
  "69a5c331665d": {
   "en": "you can cast it {n} times",
   "t": "يمكنك إلقاؤها {n} مرات"
+ },
+ "69a8d0bfa08b": {
+  "en": "Installed! Open it from your home screen or app list.",
+  "t": "تم التثبيت! افتحه من الشاشة الرئيسية أو قائمة التطبيقات."
  },
  "69b6c8592e50": {
   "en": "Add",
@@ -1775,6 +1787,10 @@
   "en": "Roll d12",
   "t": "ارمِ d12"
  },
+ "949e0e2d4274": {
+  "en": "Install app",
+  "t": "تثبيت التطبيق"
+ },
  "951362ea258c": {
   "en": "{n} signs",
   "t": "{n} علامات"
@@ -1866,6 +1882,10 @@
  "9f44d7396279": {
   "en": "{date}: d6 {n}, no change ({mood})",
   "t": "{date}: d6 {n}، بلا تغيير ({mood})"
+ },
+ "9f6869c21c40": {
+  "en": "On iPhone or iPad: tap Share, then Add to Home Screen.",
+  "t": "على iPhone أو iPad: اضغط مشاركة، ثم إضافة إلى الشاشة الرئيسية."
  },
  "9fc23c1779af": {
   "en": "Get to know the world",
@@ -2166,10 +2186,6 @@
  "b546cd7b92de": {
   "en": "Show the whole map",
   "t": "اعرض الخريطة كلها"
- },
- "b55153d01d5c": {
-  "en": "Install as an app",
-  "t": "ثبّته كتطبيق"
  },
  "b5f6652d6c05": {
   "en": "Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise.",
@@ -2866,6 +2882,10 @@
  "f1b8b438a53d": {
   "en": "The fewest circles, adding up legs through towns. Numbers from the <a href=\"{url}\">route lengths table</a>.",
   "t": "أقل عدد من الدوائر، بجمع المقاطع عبر البلدات. الأرقام من <a href=\"{url}\">جدول أطوال الطرق</a>."
+ },
+ "f20c7a381028": {
+  "en": "App",
+  "t": "التطبيق"
  },
  "f2be7a7f42df": {
   "en": "Pick an entry…",

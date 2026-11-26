@@ -255,10 +255,6 @@
   "en": "Saved {saved} of {total}. Try again online for the rest.",
   "t": "Salvos {saved} de {total}. Tente de novo online para o resto."
  },
- "18d6e69a07b0": {
-  "en": "To install on iPhone or iPad: tap Share, then <b>Add to Home Screen</b>.",
-  "t": "Para instalar no iPhone ou iPad: toque em Compartilhar e depois em <b>Adicionar à Tela de Início</b>."
- },
  "1991eedad300": {
   "en": "One shared world needs one shared record. Set it up once; every session adds to it.",
   "t": "Um mundo compartilhado precisa de um registro compartilhado. Prepare uma vez; cada sessão acrescenta algo."
@@ -318,6 +314,10 @@
  "2084df0b528d": {
   "en": "Choose…",
   "t": "Escolha…"
+ },
+ "209021f86bff": {
+  "en": "To install it, open this page in Chrome, Edge or Samsung Internet. On iPhone or iPad: Share, then Add to Home Screen.",
+  "t": "Para instalar, abra esta página no Chrome, no Edge ou no Samsung Internet. No iPhone ou iPad: Compartilhar → Adicionar à Tela de Início."
  },
  "210d435929f6": {
   "en": "Also every creature those tables can bring, not just the fights already set",
@@ -939,6 +939,10 @@
   "en": "Track your character between and during sessions: HP, Soul Points, exhaustion, balls and revival debt. It saves in this browser as you type.",
   "t": "Acompanhe seu personagem entre e durante as sessões: HP, Soul Points, exaustão, bolas e dívida de revivência. É salvo neste navegador enquanto você digita."
  },
+ "535d9023a85d": {
+  "en": "You’re using the installed app.",
+  "t": "Você está usando o app instalado."
+ },
  "53d83bde3793": {
   "en": "Dice",
   "t": "Dados"
@@ -1111,6 +1115,10 @@
   "en": "Unnamed",
   "t": "Sem nome"
  },
+ "5cf3b151aa22": {
+  "en": "No install button? Open this page in Chrome (⋮ → Open in Chrome), then ⋮ → Install app.",
+  "t": "Sem botão de instalar? Abra esta página no Chrome (⋮ → Abrir no Chrome), depois ⋮ → Instalar app."
+ },
  "5d22b5a9e6f0": {
   "en": "Random tables",
   "t": "Tabelas aleatórias"
@@ -1246,6 +1254,10 @@
  "69a5c331665d": {
   "en": "you can cast it {n} times",
   "t": "você pode lançar {n} vezes"
+ },
+ "69a8d0bfa08b": {
+  "en": "Installed! Open it from your home screen or app list.",
+  "t": "Instalado! Abra pela tela inicial ou pela lista de apps."
  },
  "69b6c8592e50": {
   "en": "Add",
@@ -1775,6 +1787,10 @@
   "en": "Roll d12",
   "t": "Rolar d12"
  },
+ "949e0e2d4274": {
+  "en": "Install app",
+  "t": "Instalar app"
+ },
  "951362ea258c": {
   "en": "{n} signs",
   "t": "{n} sinais"
@@ -1866,6 +1882,10 @@
  "9f44d7396279": {
   "en": "{date}: d6 {n}, no change ({mood})",
   "t": "{date}: d6 {n}, sem mudança ({mood})"
+ },
+ "9f6869c21c40": {
+  "en": "On iPhone or iPad: tap Share, then Add to Home Screen.",
+  "t": "No iPhone ou iPad: toque em Compartilhar e depois em Adicionar à Tela de Início."
  },
  "9fc23c1779af": {
   "en": "Get to know the world",
@@ -2166,10 +2186,6 @@
  "b546cd7b92de": {
   "en": "Show the whole map",
   "t": "Mostrar o mapa inteiro"
- },
- "b55153d01d5c": {
-  "en": "Install as an app",
-  "t": "Instalar como aplicativo"
  },
  "b5f6652d6c05": {
   "en": "Normal 5e character creation with a Vraki twist. You start at level 1 as a Pearl adventurer, unless the DM says otherwise.",
@@ -2866,6 +2882,10 @@
  "f1b8b438a53d": {
   "en": "The fewest circles, adding up legs through towns. Numbers from the <a href=\"{url}\">route lengths table</a>.",
   "t": "O menor número de círculos, somando trechos por cidades. Números da <a href=\"{url}\">tabela de comprimento das rotas</a>."
+ },
+ "f20c7a381028": {
+  "en": "App",
+  "t": "App"
  },
  "f2be7a7f42df": {
   "en": "Pick an entry…",
