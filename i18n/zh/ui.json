@@ -323,6 +323,10 @@
   "en": "Also every creature those tables can bring, not just the fights already set",
   "t": "还包括这些表可能带来的所有生物，而不只是已设定的战斗"
  },
+ "216f310d1d34": {
+  "en": "Back to the site",
+  "t": "返回网站"
+ },
  "2198adb3a104": {
   "en": "Patrol:",
   "t": "巡逻："
@@ -350,6 +354,10 @@
  "23d7a8460b35": {
   "en": "Inside Job helper",
   "t": "内应计划助手"
+ },
+ "24c09f825407": {
+  "en": "Build, device, network and translation details for this site, typed out like an old computer terminal.",
+  "t": "本网站的构建、设备、网络和翻译详情，像老式电脑终端一样逐字打出来。"
  },
  "2568c53f14e4": {
   "en": "Printed {date} from the Vraki West March travel planner.",
@@ -518,6 +526,10 @@
  "30490aa8812d": {
   "en": "Keep a shared copy of the travel map to mark explored circles.",
   "t": "保留一份共享的旅行地图，用来标记探索过的圈。"
+ },
+ "30e70172e175": {
+  "en": "Privacy",
+  "t": "隐私"
  },
  "317cd7815399": {
   "en": "12pm–6pm",
@@ -2206,6 +2218,10 @@
  "b7b621ec595b": {
   "en": "you can cast it",
   "t": "可以施放"
+ },
+ "b832421bc33a": {
+  "en": "Stats for nerds",
+  "t": "详细统计信息"
  },
  "b897e804ff49": {
   "en": "Soul energy & interfaces",

@@ -22,6 +22,12 @@ The site is translated into Chinese (Simplified), Japanese, Portuguese (Brazil),
 ## Google Search Console file
 `google0c08003a2b869d98.html` at the repo root verifies the website in Google Search Console (#28). **Never remove, rename or edit it**, and keep it in the `cp` list of the "Gather the site" step in `.github/workflows/pages.yml` (the workflow only deploys what it copies by name). Google re-checks it; without it the site is no longer verified.
 
+## Stats for nerds (`debug/`)
+Settings › **Stats for nerds** (the black DEBUG button) opens `debug/index.html`: a terminal that types out what the build and the browser know (Code, Site, Campaign, Runtime, Network, Performance, Languages). Adapted from Deovandski-repo-template#19.
+- **Where things live:** the page is `debug/index.html` (noindex; `site/build-llms.js` only lists Markdown pages, so it stays out of `sitemap.xml` and `llms*.txt`). `site/js/debug.js` writes the lines and fills the values; `site/js/terminal-screen.js` + `site/css/terminal-screen.css` (reusable) do the typing. Build facts come from `stats.json`, written by `tools/stats.js` in the Pages workflow's "Gather the site" step (translation numbers from `languageStats()` in `tools/i18n.js`, the same counting as `status`). Never work build facts out in the browser.
+- **Add a line:** add `[label, key]` to a section in `SECTIONS` in `site/js/debug.js`, then `set(key, text)` where the value is known (`fromStats` for build facts, which may need a new field in `tools/stats.js`; `fromBrowser`, `fromNetwork` or `live` for the browser's). A value the browser doesn't share shows `n/a`; no line may stay `...`.
+- The terminal stays in English (`translate="no"`, machine output) and left to right; only the page title, description and "Back to the site" go through `__()`. It saves nothing and sends nothing (see PRIVACY.md); keep it that way.
+
 ## One source
 Anything the site shows in more than one place comes from one source; never paste it twice. The rules, lore, stat blocks, tables, quests and handout list live in the Markdown files, and every page and tool reads them from there (`site/snapshot.js` and the `site/i18n/` bundles are generated from them; don't edit those by hand). Pieces of UI used in several places are the reusable components above. The handout pictures are rendered from `Handouts/source/handouts.html`. If something truly has to exist twice, say why in the PR.
 

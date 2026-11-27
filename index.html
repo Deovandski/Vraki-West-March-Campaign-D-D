@@ -25,41 +25,10 @@
 <!-- Early, without defer: it keeps the browser's install offer even if that comes before the rest loads. -->
 <script src="site/js/install-app.js"></script>
 <link rel="stylesheet" href="site/css/photo-viewer.css">
-<script>
-  // Apply the saved theme before the page paints.
-  try { var t = localStorage.getItem("vraki-west-march:theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
-</script>
-<!-- Languages: which ones there are and how complete (written by tools/i18n.js build). -->
+<!-- Languages: which ones there are and how complete (written by tools/i18n.js build); then the language
+     and theme are picked before anything draws (site/js/lang-boot.js, shared with debug/index.html). -->
 <script src="site/i18n/languages.js"></script>
-<script>
-  // Pick the language before anything draws: ?lang=xx, else the saved choice, else (first visit) the
-  // browser's language once its translation is at least 90% done, else English. Then load its text.
-  (function () {
-    var K = "vraki-west-march:lang", L = window.VW_LANGS || [], min = window.VW_LANGS_MIN || 0.9, lang = "";
-    var find = function (c) { for (var i = 0; i < L.length; i++) if (L[i].code === c) return L[i]; return null; };
-    try {
-      var q = /[?&]lang=([a-z]{2})/.exec(location.search);
-      if (q && find(q[1])) { lang = q[1]; localStorage.setItem(K, lang); }
-      else lang = localStorage.getItem(K) || "";
-    } catch (e) {}
-    if (!lang) {
-      var want = navigator.languages || [navigator.language || ""];
-      for (var j = 0; j < want.length && !lang; j++) {
-        var c = String(want[j]).toLowerCase().split("-")[0], f = find(c);
-        if (f && f.coverage >= min) lang = c;
-      }
-      lang = lang || "en";
-      try { localStorage.setItem(K, lang); } catch (e) {}
-    }
-    var info = find(lang);
-    if (!info || lang === "en") return;
-    var html = document.documentElement;
-    html.lang = info.html || lang;
-    html.dir = info.dir || "ltr";
-    html.classList.add("lang-" + lang);
-    document.write('<script src="site/i18n/' + lang + '.js"><\/script>');
-  })();
-</script>
+<script src="site/js/lang-boot.js"></script>
 </head>
 <body>
 <a class="skip" href="#main" data-i18n>Skip to content</a>
@@ -102,7 +71,10 @@
     <button class="danger" data-action="reset" data-i18n>Start over</button>
   </div>
   <div class="data-menu settings-menu" id="settings-menu" role="group" aria-labelledby="settings-h" hidden>
-    <h2 id="settings-h" data-i18n>Settings</h2>
+    <div class="settings-head">
+      <h2 id="settings-h" data-i18n>Settings</h2>
+      <button type="button" class="icon-btn small settings-close" data-action="settings-close" aria-label="Close" title="Close" data-i18n-attr="aria-label title">×</button>
+    </div>
     <div class="lang-picker" data-lang-picker data-label="Language" data-storage-key="vraki-west-march:lang"></div>
     <p class="settings-more"><a href="https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues/7" target="_blank" rel="noopener" data-i18n>Want a language added?</a></p>
     <div class="unit-picker" data-unit-picker data-storage-key="vraki-west-march:units"></div>
@@ -116,6 +88,11 @@
     <div class="settings-app" role="group" aria-labelledby="app-h">
       <h3 id="app-h" data-i18n>App</h3>
       <div class="install-app" data-install-app></div>
+    </div>
+    <div class="settings-nerds">
+      <h3 data-i18n>Stats for nerds</h3>
+      <!-- debug/index.html (issue #34); app.js adds ?lang= so it opens in this language. -->
+      <a class="debug-btn" href="debug/" data-debug-link translate="no">DEBUG</a>
     </div>
   </div>
 </header>

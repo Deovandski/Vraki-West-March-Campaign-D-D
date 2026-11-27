@@ -37,3 +37,6 @@ package-lock.json
 /Handouts/es/
 /Handouts/ar/
 /Handouts/ko/
+
+# Written by tools/stats.js (the Pages workflow writes a fresh one into the site on every deploy)
+/stats.json

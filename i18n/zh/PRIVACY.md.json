@@ -1,0 +1,38 @@
+{
+ "18cfcc5b348c": {
+  "en": "**Stats for nerds.** The debug page (Settings › DEBUG, `debug/`) shows what your browser tells the page about itself: browser and device, screen, storage use, connection, page timings. It reads this only to show it to you on that page. Nothing is saved and nothing is sent anywhere; the page only asks this website for its build file (`stats.json`) and times three small requests to it.",
+  "t": "**详细统计信息。** 调试页面（设置 › DEBUG，`debug/`）显示你的浏览器告诉页面的关于它自己的信息：浏览器和设备、屏幕、存储用量、网络连接、页面耗时。读取这些只是为了在那个页面上给你看。什么都不保存，也不发送到任何地方；页面只向本网站请求构建文件（`stats.json`），并为三次对它的小请求计时。"
+ },
+ "2c4a65031909": {
+  "en": "Questions: open an [issue](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues).",
+  "t": "有问题：请开一个 [issue](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues)。"
+ },
+ "30e70172e175": {
+  "en": "Privacy",
+  "t": "隐私"
+ },
+ "5d46612b9306": {
+  "en": "**What your browser keeps.** The site saves these in your browser's local storage, so they're there next time. They never leave your device; clearing the site's data removes them, and the save menu can download them as a file.",
+  "t": "**浏览器里保存的内容。** 网站把下面这些保存在浏览器的本地存储里，下次来时还在。它们从不离开你的设备；清除网站数据就会删除它们，也可以通过保存菜单把它们下载成文件。"
+ },
+ "8d9f1732fd3e": {
+  "en": "`vraki-west-march:v1`: everything you enter in the tools (adventurers, party, trips, campaign tracker, dice log) and whether you're a player or the DM.",
+  "t": "`vraki-west-march:v1`：你在工具里输入的一切（冒险者、队伍、旅程、战役记录、骰子记录），以及你是玩家还是 DM。"
+ },
+ "934cb8cf9501": {
+  "en": "**Offline copies.** So the site (and the app, if you install it) opens without a connection, a service worker saves copies of the site's pages, scripts, styles and fonts, and of the pictures you look at, in your browser's Cache Storage. Nothing from other websites is saved. The copies stay on your device and are never sent anywhere; clearing the site's data removes them.",
+  "t": "**离线副本。** 为了让网站（以及你安装的应用）在没有网络时也能打开，service worker 会把网站的页面、脚本、样式和字体，以及你看过的图片保存到浏览器的 Cache Storage 里。不会保存其他网站的任何内容。这些副本留在你的设备上，从不发送到任何地方；清除网站数据就会删除它们。"
+ },
+ "9a24b3414369": {
+  "en": "`vraki-west-march:lang`, `vraki-west-march:theme` and `vraki-west-march:units`: your Language, Theme (light or dark) and Distances choices from Settings.",
+  "t": "`vraki-west-march:lang`、`vraki-west-march:theme` 和 `vraki-west-march:units`：你在设置里选择的语言、主题（浅色或深色）和距离。"
+ },
+ "da768e5a7605": {
+  "en": "**Translations.** The website is also offered in Chinese, Japanese, Portuguese, Spanish, Arabic and Korean. Those versions were translated ahead of time by AI (Claude) from the English original and say so in a banner at the top; nothing is sent to a translation service while you read.",
+  "t": "**翻译。** 本网站还提供中文、日语、葡萄牙语、西班牙语、阿拉伯语和韩语版本。这些版本是由 AI（Claude）根据英文原文预先翻译的，页面顶部的横幅也会说明；你阅读时不会有任何内容发送给翻译服务。"
+ },
+ "da7d6a7450aa": {
+  "en": "The website at https://deovandski.github.io/Vraki-West-March-Campaign-D-D/ has no cookies, no analytics, no ads and no accounts. Everything on it runs in your browser; nothing you type is sent anywhere. The site is hosted on GitHub Pages, so [GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement) sees your IP address when it sends you a page. One picture on the Maps page comes straight from GitHub too (the original world map in the HusbandOutWorld repository).",
+  "t": "https://deovandski.github.io/Vraki-West-March-Campaign-D-D/ 这个网站没有 Cookie、没有统计分析、没有广告，也没有账号。所有功能都在你的浏览器里运行；你输入的内容不会被发送到任何地方。网站托管在 GitHub Pages 上，所以 [GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement) 在给你发送页面时会看到你的 IP 地址。地图页面上也有一张图片直接来自 GitHub（HusbandOutWorld 仓库里的原版世界地图）。"
+ }
+}

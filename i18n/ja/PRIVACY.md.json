@@ -1,0 +1,38 @@
+{
+ "18cfcc5b348c": {
+  "en": "**Stats for nerds.** The debug page (Settings › DEBUG, `debug/`) shows what your browser tells the page about itself: browser and device, screen, storage use, connection, page timings. It reads this only to show it to you on that page. Nothing is saved and nothing is sent anywhere; the page only asks this website for its build file (`stats.json`) and times three small requests to it.",
+  "t": "**詳細統計情報。** デバッグページ（設定 › DEBUG、`debug/`）は、ブラウザがページに伝える自分自身のこと（ブラウザと端末、画面、ストレージの使用量、接続、ページの読み込み時間）を表示する。それを読むのは、そのページであなたに見せるためだけ。何も保存せず、どこにも送らない。ページがこのサイトに求めるのはビルドファイル（`stats.json`）だけで、それへの小さなリクエスト3回の時間を測る。"
+ },
+ "2c4a65031909": {
+  "en": "Questions: open an [issue](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues).",
+  "t": "質問は [issue](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/issues) を開いてください。"
+ },
+ "30e70172e175": {
+  "en": "Privacy",
+  "t": "プライバシー"
+ },
+ "5d46612b9306": {
+  "en": "**What your browser keeps.** The site saves these in your browser's local storage, so they're there next time. They never leave your device; clearing the site's data removes them, and the save menu can download them as a file.",
+  "t": "**ブラウザに残るもの。** サイトは次のものをブラウザのローカルストレージに保存するので、次回もそのまま使える。端末の外に出ることはなく、サイトのデータを消せば消え、保存メニューからファイルとしてダウンロードもできる。"
+ },
+ "8d9f1732fd3e": {
+  "en": "`vraki-west-march:v1`: everything you enter in the tools (adventurers, party, trips, campaign tracker, dice log) and whether you're a player or the DM.",
+  "t": "`vraki-west-march:v1`：ツールに入力したすべて（冒険者、パーティー、旅、キャンペーンの記録、ダイスの履歴）と、プレイヤーか DM か。"
+ },
+ "934cb8cf9501": {
+  "en": "**Offline copies.** So the site (and the app, if you install it) opens without a connection, a service worker saves copies of the site's pages, scripts, styles and fonts, and of the pictures you look at, in your browser's Cache Storage. Nothing from other websites is saved. The copies stay on your device and are never sent anywhere; clearing the site's data removes them.",
+  "t": "**オフライン用の写し。** 接続がなくてもサイト（インストールしたならアプリも）が開くように、サービスワーカーがサイトのページ、スクリプト、スタイル、フォントと、見た画像の写しを、ブラウザの Cache Storage に保存する。ほかのサイトのものは保存しない。写しは端末に残り、どこにも送られず、サイトのデータを消せば消える。"
+ },
+ "9a24b3414369": {
+  "en": "`vraki-west-march:lang`, `vraki-west-march:theme` and `vraki-west-march:units`: your Language, Theme (light or dark) and Distances choices from Settings.",
+  "t": "`vraki-west-march:lang`、`vraki-west-march:theme`、`vraki-west-march:units`：設定で選んだ言語、テーマ（ライトかダーク）、距離。"
+ },
+ "da768e5a7605": {
+  "en": "**Translations.** The website is also offered in Chinese, Japanese, Portuguese, Spanish, Arabic and Korean. Those versions were translated ahead of time by AI (Claude) from the English original and say so in a banner at the top; nothing is sent to a translation service while you read.",
+  "t": "**翻訳。** このサイトは中国語、日本語、ポルトガル語、スペイン語、アラビア語、韓国語でも読める。それらは英語の原文から AI（Claude）があらかじめ翻訳したもので、上部の帯にそう書いてある。読んでいる間に翻訳サービスへ何かが送られることはない。"
+ },
+ "da7d6a7450aa": {
+  "en": "The website at https://deovandski.github.io/Vraki-West-March-Campaign-D-D/ has no cookies, no analytics, no ads and no accounts. Everything on it runs in your browser; nothing you type is sent anywhere. The site is hosted on GitHub Pages, so [GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement) sees your IP address when it sends you a page. One picture on the Maps page comes straight from GitHub too (the original world map in the HusbandOutWorld repository).",
+  "t": "https://deovandski.github.io/Vraki-West-March-Campaign-D-D/ のウェブサイトには、Cookie も、アクセス解析も、広告も、アカウントもない。すべてはブラウザの中で動き、入力した内容がどこかへ送られることはない。サイトは GitHub Pages で公開されているので、ページを送るときに [GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement) にはあなたの IP アドレスが見える。地図のページの画像の1枚も GitHub から直接読み込まれる（HusbandOutWorld リポジトリにある元の世界地図）。"
+ }
+}

@@ -179,6 +179,10 @@
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "一个完整、独立的战役：世界设定摘要、主持开放式西境的规则、旅行地图、委托、遭遇、数据卡和预制冒险者。玩的时候不需要#HusbandOutWorld主仓库里的任何东西。"
  },
+ "89f6cc559e3e": {
+  "en": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)",
+  "t": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)"
+ },
  "950f7ced1047": {
   "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
   "t": "顶栏中的设置（⚙）；每个页面和工具；翻译版讲义"
@@ -190,6 +194,10 @@
  "973414ba2732": {
   "en": "Makes a site an installable app that works offline: registers the service worker and runs an \"Install as an app\" button, the iPhone \"Add to Home Screen\" hint, an offline status line and \"save these files for offline\" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski).",
   "t": "把网站变成可安装、能离线使用的应用：注册service worker，并管理“安装为应用”按钮、iPhone的“添加到主屏幕”提示、离线状态栏和“保存这些文件以便离线使用”按钮。通过数据属性设置；需要搭配一个像[sw.js](sw.js)这样的service worker（改编自Deovandski/Deovandski）。"
+ },
+ "9c11100fd672": {
+  "en": "An old-school computer terminal (green on black, amber headings, scan lines, a blinking cursor) that types its lines out in about 2 seconds; click or any key shows it all, and reduced motion shows it at once. Always left to right. Set up from data attributes; no libraries. Ported from Deovandski-repo-template's TerminalScreen.",
+  "t": "一个老式电脑终端（黑底绿字、琥珀色标题、扫描线、闪烁的光标），大约2秒打完所有行；点击或按任意键会立刻显示全部，减少动态效果时直接全部显示。始终从左到右。通过数据属性设置，不依赖任何库。移植自 Deovandski-repo-template 的 TerminalScreen。"
  },
  "a0ae90bcaaa5": {
   "en": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)",
@@ -215,6 +223,10 @@
   "en": "Folder",
   "t": "文件夹"
  },
+ "b110d529f38c": {
+  "en": "TerminalScreen",
+  "t": "TerminalScreen"
+ },
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "以英尺和英里或米和公里显示距离（`30 ft` → `9 m`，`1 mile` → `1.5 km`，即D&D的公制换算），支持英语、西班牙语、葡萄牙语、日语、中文、韩语和阿拉伯语文本，并附带一个切换选择器。它会转换页面的一部分以及之后添加的任何内容，切换回来时会恢复原文。通过数据属性设置，不依赖任何库。"
@@ -238,6 +250,10 @@
  "c1cde754c253": {
   "en": "Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals",
   "t": "世界摘要：历法、货币、法律、种族、王国、城市、派系、灵魂能量、纳里凝胶、魔兽、历史、名人、美食和节日"
+ },
+ "c837ad0fb7f7": {
+  "en": "Stats for nerds (Settings › DEBUG)",
+  "t": "详细统计信息（设置 › DEBUG）"
  },
  "cc5640254b75": {
   "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",

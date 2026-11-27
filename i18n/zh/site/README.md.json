@@ -163,6 +163,10 @@
   "en": "`sw.js` — the service worker that saves the site for offline use (at the top of the repo so it covers the whole site)",
   "t": "`sw.js`——为离线使用保存网站的service worker（放在仓库根目录，以覆盖整个网站）"
  },
+ "795d931ab02d": {
+  "en": "`site/js/lang-boot.js` — picks the language and theme before a page draws (shared by `index.html` and `debug/index.html`)",
+  "t": "`site/js/lang-boot.js` — 在页面绘制之前选好语言和主题（`index.html` 和 `debug/index.html` 共用）"
+ },
  "7ab1f14adfb4": {
   "en": "**Try it on your computer:** run `node site/build-llms.js` in the repo folder (it writes the three files there; git ignores them), start the local server below, and open http://localhost:8000/llms.txt. To see what a reader without JavaScript gets, turn JavaScript off for the page (in Chrome: DevTools → ⋮ → Run command → \"Disable JavaScript\") and reload. The script also lists any `.md` file that isn't in `site/js/content.js`.",
   "t": "**在你的电脑上试试：** 在仓库文件夹里运行`node site/build-llms.js`（它会把三个文件写在那里；git会忽略它们），启动下面的本地服务器，然后打开 http://localhost:8000/llms.txt 。想看看没有JavaScript的读者看到什么，就为该页面关闭JavaScript（在Chrome中：DevTools → ⋮ → Run command → “Disable JavaScript”）并刷新。脚本还会列出所有不在`site/js/content.js`里的`.md`文件。"
@@ -206,6 +210,10 @@
  "9384751d45ac": {
   "en": "**Dice tray** on every page, and every roll written in the rules (like 2d6+3) is a button.",
   "t": "每一页都有**骰盘**，规则里写的每个掷骰（比如2d6+3）都是一个按钮。"
+ },
+ "94ce95bc1f35": {
+  "en": "`debug/index.html`, `site/js/debug.js` and `site/js/terminal-screen.js` + `site/css/terminal-screen.css` — **Stats for nerds** (Settings › DEBUG): build, device, network and translation details typed out like an old terminal (the terminal is a reusable component). It reads `stats.json`, which `tools/stats.js` writes when the site is deployed. Not for search engines (noindex, not in the sitemap or llms.txt); it saves and sends nothing",
+  "t": "`debug/index.html`、`site/js/debug.js` 和 `site/js/terminal-screen.js` + `site/css/terminal-screen.css` — **详细统计信息**（设置 › DEBUG）：像老式终端一样打出构建、设备、网络和翻译详情（终端是一个可复用组件）。它读取 `stats.json`，由 `tools/stats.js` 在网站部署时写出。不面向搜索引擎（noindex，不在站点地图或 llms.txt 中）；它不保存也不发送任何东西"
  },
  "95b4c590c974": {
   "en": "`site/js/i18n.js` — the translations: splits pages into pieces, finds each piece's translation and picks the language (works in the browser and in Node)",
