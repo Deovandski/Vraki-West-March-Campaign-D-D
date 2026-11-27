@@ -383,7 +383,28 @@ function report() {
     "| Language | All | Site text | Phase 1 | Phase 2 | Words left |", "|---|---|---|---|---|---|", ...rows].join("\n"));
 }
 
-module.exports = { inventory, uiStrings, loadAll, counts, LANGS, COVERAGE, marks, fixEmphasis };
+// What's translated, per language, for stats.json (tools/stats.js) and the /debug/ page ("Stats for nerds",
+// issue #34). Same counting as `status`: words of the English pieces that have a translation (percent rounded
+// down to one decimal). A page counts as ready once COVERAGE of its words are translated.
+function languageStats() {
+  const parts = inventory();
+  const pageParts = parts.filter((p) => p.id !== "ui" && p.id !== "handouts");
+  const english = counts(LANGS[0], parts).reduce((a, x) => ({ segments: a.segments + x.segs, words: a.words + x.total }), { segments: 0, words: 0 });
+  english.pages = pageParts.length;
+  return {
+    english, coverage: COVERAGE,
+    languages: LANGS.map((lang) => {
+      const meta = readJson(storePath(lang, "meta.json"), {});
+      const c = counts(lang, parts);
+      const ok = c.reduce((n, x) => n + x.ok, 0), segs = c.reduce((n, x) => n + x.segsOk, 0);
+      const ready = c.filter((x) => x.id !== "ui" && x.id !== "handouts" && x.ok >= COVERAGE * x.total).length;
+      return { code: lang, name: meta.name || lang, english: meta.english_name || lang, dir: meta.dir || "ltr",
+        percent: english.words ? Math.floor((ok / english.words) * 1000) / 10 : 100, words: ok, segments: segs, pagesReady: ready };
+    })
+  };
+}
+
+module.exports = { inventory, uiStrings, loadAll, counts, languageStats, glossaryNames, LANGS, COVERAGE, marks, fixEmphasis };
 if (require.main === module) {
   const cmd = process.argv[2];
   const o = args();

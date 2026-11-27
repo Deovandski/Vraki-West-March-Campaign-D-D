@@ -179,6 +179,10 @@
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "Una campaña completa y autónoma: un resumen del trasfondo del mundo, reglas para dirigir una West March de mesa abierta, mapas de viaje, misiones, encuentros, bloques de estadísticas y aventureros pregenerados. No necesitas nada del repositorio principal de #HusbandOutWorld para jugar."
  },
+ "89f6cc559e3e": {
+  "en": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)",
+  "t": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)"
+ },
  "950f7ced1047": {
   "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
   "t": "Ajustes (⚙) en la barra superior; todas las páginas y herramientas; el material traducido"
@@ -190,6 +194,10 @@
  "973414ba2732": {
   "en": "Makes a site an installable app that works offline: registers the service worker and runs an \"Install as an app\" button, the iPhone \"Add to Home Screen\" hint, an offline status line and \"save these files for offline\" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski).",
   "t": "Convierte una web en una aplicación instalable que funciona sin conexión: registra el service worker y gestiona un botón «Instalar como aplicación», la pista de «Añadir a pantalla de inicio» del iPhone, una línea de estado sin conexión y botones de «guardar estos archivos para usar sin conexión». Se configura con atributos de datos; combínalo con un service worker como [sw.js](sw.js) (adaptado de Deovandski/Deovandski)."
+ },
+ "9c11100fd672": {
+  "en": "An old-school computer terminal (green on black, amber headings, scan lines, a blinking cursor) that types its lines out in about 2 seconds; click or any key shows it all, and reduced motion shows it at once. Always left to right. Set up from data attributes; no libraries. Ported from Deovandski-repo-template's TerminalScreen.",
+  "t": "Un terminal de ordenador de los de antes (verde sobre negro, títulos en ámbar, líneas de barrido, un cursor que parpadea) que escribe sus líneas en unos 2 segundos; un clic o cualquier tecla lo muestra todo, y con movimiento reducido aparece todo de golpe. Siempre de izquierda a derecha. Se configura con atributos de datos; sin bibliotecas. Adaptado del TerminalScreen de Deovandski-repo-template."
  },
  "a0ae90bcaaa5": {
   "en": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)",
@@ -215,6 +223,10 @@
   "en": "Folder",
   "t": "Carpeta"
  },
+ "b110d529f38c": {
+  "en": "TerminalScreen",
+  "t": "TerminalScreen"
+ },
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "Muestra las distancias en pies y millas o en metros y kilómetros (`30 ft` → `9 m`, `1 mile` → `1.5 km`, la conversión métrica de D&D), en textos en inglés, español, portugués, japonés, chino, coreano o árabe, con un selector para cambiar. Convierte una parte de la página y todo lo que se le añada después, y al volver se recupera el texto original. Se configura con atributos de datos; sin bibliotecas."
@@ -238,6 +250,10 @@
  "c1cde754c253": {
   "en": "Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals",
   "t": "Resumen del mundo: calendario, dinero, leyes, pueblos, reinos, ciudades, facciones, energía del alma, geles de nari, bestias, historia, gente famosa, comida y fiestas"
+ },
+ "c837ad0fb7f7": {
+  "en": "Stats for nerds (Settings › DEBUG)",
+  "t": "Estadísticas para nerds (Ajustes › DEBUG)"
  },
  "cc5640254b75": {
   "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",

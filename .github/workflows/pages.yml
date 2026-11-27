@@ -64,11 +64,13 @@ jobs:
         run: |
           mkdir _site
           # google0c08003a2b869d98.html is the Google Search Console check (#28): never remove it from this list or the repo.
-          cp -r index.html sw.js google0c08003a2b869d98.html site Handouts Maps "World Lore" "D&D Campaign" ./*.md llms.txt llms-full.txt sitemap.xml _site/
+          cp -r index.html sw.js google0c08003a2b869d98.html debug site Handouts Maps "World Lore" "D&D Campaign" ./*.md llms.txt llms-full.txt sitemap.xml _site/
           # The handout renderer's Playwright install isn't part of the site.
           rm -rf _site/Handouts/source/node_modules _site/Handouts/source/package*.json
           # What gets deployed, biggest first (about 80 MB: the 34 MB print map and the handouts in 7 languages).
           { echo "### Site size: $(du -sh _site | cut -f1)"; echo '```'; du -sh _site/* | sort -rh | head -8; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          # stats.json: build facts for the "Stats for nerds" page (debug/, issue #34), read from what's deployed.
+          node tools/stats.js _site
 
       - uses: actions/configure-pages@v6
 

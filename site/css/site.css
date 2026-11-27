@@ -708,6 +708,27 @@ table.best .sb-row td { padding: 0 12px 12px; background: var(--leaf); }
 /* ---------------- Settings menu and translations ---------------- */
 .settings-menu { width: min(340px, calc(100vw - 32px)); --lang-picker-on: var(--wood-2); --lang-picker-on-ink: #fff; --lang-picker-line: var(--line); --lang-picker-muted: var(--ink-2); }
 .settings-menu h2 { margin: 0; font: 700 18px var(--ui); }
+.settings-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.data-menu button.settings-close { display: inline-grid; place-items: center; width: 36px; height: 36px; padding: 0; border: 0; background: none; font: 400 28px/1 var(--ui); color: var(--ink-2); text-align: center; }
+.data-menu button.settings-close:hover { color: var(--ink); background: rgba(127, 127, 127, 0.15); }
+/* Settings › Stats for nerds: a black DEBUG button in glowing green monospace (opens debug/, issue #34). */
+.settings-nerds { display: flex; align-items: center; justify-content: space-between; gap: 10px; border-top: 1px solid var(--line); padding-top: 10px; }
+.settings-nerds h3 { margin: 0 !important; }
+.debug-btn { display: inline-flex; align-items: center; min-height: 40px; padding: 6px 16px; border-radius: 6px; background: #000; color: #39ff14; text-decoration: none;
+  font: 700 15px/1 ui-monospace, "Cascadia Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace; letter-spacing: 0.12em;
+  text-shadow: 0 0 4px rgba(57, 255, 20, 0.7), 0 0 10px rgba(57, 255, 20, 0.35); border: 1px solid rgba(57, 255, 20, 0.35); }
+.debug-btn:hover, .debug-btn:focus-visible { color: #b6ffa6; box-shadow: 0 0 12px rgba(57, 255, 20, 0.35); outline: none; }
+
+/* The "Stats for nerds" page (debug/index.html): black in Light and Dark, with dark header and footer. */
+body.page-terminal { background: #000; color: #cfe8cf; min-height: 100vh; display: flex; flex-direction: column; }
+body.page-terminal .topbar { background: #0b0f0b; border-bottom-color: #1f9e0e; justify-content: space-between; }
+body.page-terminal .debug-back { color: #39ff14; font: 700 15px var(--ui); text-decoration: none; }
+body.page-terminal .debug-back:hover { text-decoration: underline; }
+body.page-terminal .debug-main { flex: 1; width: 100%; max-width: 1000px; margin: 0 auto; box-sizing: border-box; padding: 24px clamp(12px, 3vw, 32px) 40px; }
+body.page-terminal .site-footer { grid-column: auto; background: #0b0f0b; border-top-color: #163d10; color: #7fbf7f; }
+body.page-terminal .site-footer a { color: #7fbf7f; }
+body.page-terminal .site-footer a:hover { color: #b6ffa6; }
+.debug-noscript { color: #39ff14; font: 15px ui-monospace, monospace; }
 .settings-menu h3 { margin: 4px 0 6px; font: 700 15px var(--ui); }
 .settings-menu .lang-picker { font: 15px var(--ui); }
 .settings-menu .lang-picker__opt { background: var(--paper); }

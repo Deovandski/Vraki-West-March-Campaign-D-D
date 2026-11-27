@@ -447,6 +447,8 @@
       if (window.LanguagePicker) window.LanguagePicker.mount(el);
     });
     setupUnits();
+    // Settings › Stats for nerds opens debug/ in this language.
+    document.querySelectorAll("[data-debug-link]").forEach((a) => { a.href = "debug/" + (I18N.lang !== "en" ? "?lang=" + I18N.lang : ""); });
     // The Install app button in Settings (site/js/install-app.js): its words in this language.
     document.querySelectorAll("[data-install-app]").forEach((el) => {
       el.dataset.text = JSON.stringify({
@@ -528,6 +530,7 @@
       }
       case "theme-set": setTheme(el.dataset.theme); return;
       case "settings": closeNav(); settingsMenu(); return;
+      case "settings-close": settingsMenu(false); document.querySelector('.topbar [data-action="settings"]').focus(); return;
       case "lang-en": switchLanguage("en"); return;
       case "dice-open": openTray(document.getElementById("dice-tray").hidden); return;
       case "dice-close": openTray(false); return;

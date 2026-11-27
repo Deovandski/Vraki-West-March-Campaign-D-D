@@ -12,7 +12,8 @@
       ["README.md", "About this campaign"],
       [D + "02 - Making an Adventurer.md", "Making an adventurer"],
       [L + "01 - The World at a Glance.md", "The world at a glance"],
-      ["AI-DISCLOSURE.md", "AI disclosure"]
+      ["AI-DISCLOSURE.md", "AI disclosure"],
+      ["PRIVACY.md", "Privacy"]
     ] },
     { id: "rules", title: "Player rules", role: "player", docs: [
       [D + "01 - Travel by Circles.md", "Travel by circles"],

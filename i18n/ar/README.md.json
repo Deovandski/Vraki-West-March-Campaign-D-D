@@ -179,6 +179,10 @@
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "حملة كاملة قائمة بذاتها: ملخص لحكاية العالم، وقواعد لإدارة ويست مارش بطاولة مفتوحة، وخرائط سفر، ومهام، ولقاءات، وبطاقات إحصاءات، ومغامرون جاهزون. لا تحتاج أي شيء من مستودع #HusbandOutWorld الرئيسي لتلعب."
  },
+ "89f6cc559e3e": {
+  "en": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)",
+  "t": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)"
+ },
  "950f7ced1047": {
   "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
   "t": "الإعدادات (⚙) في الشريط العلوي؛ كل صفحة وأداة؛ المطبوعات المترجمة"
@@ -190,6 +194,10 @@
  "973414ba2732": {
   "en": "Makes a site an installable app that works offline: registers the service worker and runs an \"Install as an app\" button, the iPhone \"Add to Home Screen\" hint, an offline status line and \"save these files for offline\" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski).",
   "t": "يجعل الموقع تطبيقًا قابلًا للتثبيت يعمل دون اتصال: يسجّل الـservice worker ويشغّل زر «ثبّته كتطبيق»، وتلميح «إضافة إلى الشاشة الرئيسية» في آيفون، وسطر حالة عدم الاتصال، وأزرار «احفظ هذه الملفات للاستخدام دون اتصال». يُضبط بسمات البيانات؛ استخدمه مع service worker مثل [sw.js](sw.js) (مقتبس من Deovandski/Deovandski)."
+ },
+ "9c11100fd672": {
+  "en": "An old-school computer terminal (green on black, amber headings, scan lines, a blinking cursor) that types its lines out in about 2 seconds; click or any key shows it all, and reduced motion shows it at once. Always left to right. Set up from data attributes; no libraries. Ported from Deovandski-repo-template's TerminalScreen.",
+  "t": "طرفية حاسوب على الطراز القديم (أخضر على أسود، وعناوين كهرمانية، وخطوط مسح، ومؤشر يومض) تطبع سطورها في نحو ثانيتين؛ والنقر أو أي مفتاح يُظهرها كلها، وتقليل الحركة يُظهرها دفعة واحدة. دائمًا من اليسار إلى اليمين. يُضبط من سمات البيانات؛ بلا مكتبات. منقول من TerminalScreen في Deovandski-repo-template."
  },
  "a0ae90bcaaa5": {
   "en": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)",
@@ -215,6 +223,10 @@
   "en": "Folder",
   "t": "المجلد"
  },
+ "b110d529f38c": {
+  "en": "TerminalScreen",
+  "t": "TerminalScreen"
+ },
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "يعرض المسافات بالأقدام والأميال أو بالأمتار والكيلومترات (`30 ft` ← `9 m`، `1 mile` ← `1.5 km`، وفق تحويل D&D المتري)، في نصوص بالإنجليزية والإسبانية والبرتغالية واليابانية والصينية والكورية والعربية، مع أداة اختيار للتبديل. يحوّل جزءًا من الصفحة وأي محتوى يُضاف إليه لاحقًا، والعودة تعيد النص الأصلي. يُضبط من سمات البيانات؛ بلا مكتبات."
@@ -238,6 +250,10 @@
  "c1cde754c253": {
   "en": "Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals",
   "t": "ملخص العالم: التقويم، والمال، والقوانين، والشعوب، والممالك، والمدن، والفصائل، وطاقة الروح، وجل ناري، والوحوش، والتاريخ، والمشاهير، والطعام والمهرجانات"
+ },
+ "c837ad0fb7f7": {
+  "en": "Stats for nerds (Settings › DEBUG)",
+  "t": "إحصاءات للخبراء (الإعدادات › DEBUG)"
  },
  "cc5640254b75": {
   "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",

@@ -179,6 +179,10 @@
   "en": "A complete, self-contained campaign: a summary of the world's lore, rules for running an open-table West March, travel maps, quests, encounters, stat blocks and pre-generated adventurers. You don't need anything from the main #HusbandOutWorld repo to play.",
   "t": "Uma campanha completa e independente: um resumo da ambientação do mundo, regras para conduzir uma West March de mesa aberta, mapas de viagem, missões, encontros, fichas de estatísticas e aventureiros pré-gerados. Você não precisa de nada do repositório principal de #HusbandOutWorld para jogar."
  },
+ "89f6cc559e3e": {
+  "en": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)",
+  "t": "[terminal-screen.js](site/js/terminal-screen.js), [terminal-screen.css](site/css/terminal-screen.css)"
+ },
  "950f7ced1047": {
   "en": "Settings (⚙) in the top bar; every page and tool; the translated handouts",
   "t": "Configurações (⚙) na barra de cima; todas as páginas e ferramentas; os materiais traduzidos"
@@ -190,6 +194,10 @@
  "973414ba2732": {
   "en": "Makes a site an installable app that works offline: registers the service worker and runs an \"Install as an app\" button, the iPhone \"Add to Home Screen\" hint, an offline status line and \"save these files for offline\" buttons. Set up from data attributes; pair it with a service worker like [sw.js](sw.js) (adapted from Deovandski/Deovandski).",
   "t": "Transforma um site num aplicativo instalável que funciona offline: registra o service worker e controla um botão «Instalar como aplicativo», a dica de «Adicionar à Tela de Início» do iPhone, uma linha de status offline e botões de «salvar estes arquivos para uso offline». Configurado por atributos de dados; use junto com um service worker como [sw.js](sw.js) (adaptado de Deovandski/Deovandski)."
+ },
+ "9c11100fd672": {
+  "en": "An old-school computer terminal (green on black, amber headings, scan lines, a blinking cursor) that types its lines out in about 2 seconds; click or any key shows it all, and reduced motion shows it at once. Always left to right. Set up from data attributes; no libraries. Ported from Deovandski-repo-template's TerminalScreen.",
+  "t": "Um terminal de computador das antigas (verde no preto, títulos em âmbar, linhas de varredura, um cursor piscando) que digita suas linhas em cerca de 2 segundos; um clique ou qualquer tecla mostra tudo, e com movimento reduzido aparece tudo de uma vez. Sempre da esquerda para a direita. Configurado por atributos de dados; sem bibliotecas. Adaptado do TerminalScreen do Deovandski-repo-template."
  },
  "a0ae90bcaaa5": {
   "en": "[pwa.js](site/js/pwa.js), [sw.js](sw.js), [manifest](site/manifest.webmanifest)",
@@ -215,6 +223,10 @@
   "en": "Folder",
   "t": "Pasta"
  },
+ "b110d529f38c": {
+  "en": "TerminalScreen",
+  "t": "TerminalScreen"
+ },
  "b27442511a10": {
   "en": "Shows distances in feet and miles or in meters and kilometers (`30 ft` → `9 m`, `1 mile` → `1.5 km`, the D&D metric convention), in English, Spanish, Portuguese, Japanese, Chinese, Korean or Arabic text, plus a picker to switch. Converts a part of the page and anything added to it later, and switching back restores the original text. Set up from data attributes; no libraries.",
   "t": "Mostra as distâncias em pés e milhas ou em metros e quilômetros (`30 ft` → `9 m`, `1 mile` → `1.5 km`, a conversão métrica de D&D), em textos em inglês, espanhol, português, japonês, chinês, coreano ou árabe, com um seletor para trocar. Converte uma parte da página e tudo o que for adicionado depois, e ao voltar o texto original reaparece. Configurado por atributos de dados; sem bibliotecas."
@@ -238,6 +250,10 @@
  "c1cde754c253": {
   "en": "Summary of the world: calendar, money, laws, peoples, kingdoms, cities, factions, soul energy, nari gels, beasts, history, famous people, food and festivals",
   "t": "Resumo do mundo: calendário, dinheiro, leis, povos, reinos, cidades, facções, energia da alma, géis de nari, feras, história, gente famosa, comida e festas"
+ },
+ "c837ad0fb7f7": {
+  "en": "Stats for nerds (Settings › DEBUG)",
+  "t": "Estatísticas para nerds (Configurações › DEBUG)"
  },
  "cc5640254b75": {
   "en": "Zoom-and-pan viewer for one big picture: drag, pinch, Ctrl + scroll, keyboard, full screen, and a sharper copy loaded when you zoom in. Set up from data attributes; no libraries.",
